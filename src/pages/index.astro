@@ -4,7 +4,7 @@ import Layout from '../layouts/MainLayout.astro'
 
 const titles = await Astro.glob('../pages/en/*.md')
 
-console.log( 'titles', titles )
+// console.log( 'titles', titles[0].frontmatter )
 
 ---
 <Layout>
@@ -13,7 +13,7 @@ console.log( 'titles', titles )
 		<article>
 			<h1>{ title.frontmatter.title }</h1>
 			<p>{ title.frontmatter.description }</p>
-			<a href={ title.frontmatter.url }>Read more</a>
+			<a href={ `/en/${ title.frontmatter.slug }` }>Read more</a>
 		</article>
 	)) }
   
