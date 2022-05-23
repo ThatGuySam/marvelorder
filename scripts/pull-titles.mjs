@@ -117,13 +117,11 @@ async function saveTitlesAsMarkdown ( titles ) {
     const markdown = []
 
     for ( const title of titles ) {
-        // markdown.push( `- ${ title.title }` )
 
         const titleTitle = title.name || title.title
         const slug = makeSlug( titleTitle )
 
         const pageMeta = {
-            ...title,
             title: titleTitle, 
             slug, 
             description: title.overview, 
@@ -131,7 +129,9 @@ async function saveTitlesAsMarkdown ( titles ) {
             layout: '../../layouts/MainLayout.astro',
         }
 
-        const content = matter.stringify( '', pageMeta )
+        const details = matter.stringify( '', title )
+
+        const content = matter.stringify( details, pageMeta )
 
         await Deno.writeTextFile( `${ storePath }/${ slug }.md`, content )
 
