@@ -44,3 +44,34 @@ export const SIDEBAR = {
 		{ text: 'Page 4', link: 'en/page-4' },
 	],
 };
+
+
+export const storePath = './src/pages/en'
+
+export const TMDB_COMPANIES = [
+	{
+		// https://www.themoviedb.org/company/420/movie
+		name: 'Marvel Studios', 
+		id: '420',
+	},
+	{
+		// https://www.themoviedb.org/company/19551-marvel-enterprises/movie
+		name: 'Marvel Enterprises', 
+		id: '19551'
+	},
+	{
+		// https://www.themoviedb.org/company/7505/movie
+		name: 'Marvel Entertainment',
+		id: '7505',
+	},
+	{
+		// https://www.themoviedb.org/company/38679-marvel-television/tv
+		name: 'Marvel Television',
+		id: '38679',
+	},
+	{
+		// https://www.themoviedb.org/company/11106-marvel-knights/movie
+		name: 'Marvel Knights',
+		id: '11106',
+	}
+]
