@@ -116,24 +116,28 @@ async function fetchTitlesFromCompanies ( companies ) {
 async function saveTitlesAsMarkdown ( titles ) {
     const markdown = []
 
-    for ( const title of titles ) {
+    for ( const listing of titles ) {
 
-        const titleTitle = title.name || title.title
+        const filePath = `${ storePath }/${ slug }.md`
+
+        const titleTitle = listing.name || listing.title
         const slug = makeSlug( titleTitle )
 
         const pageMeta = {
             title: titleTitle, 
             slug, 
-            description: title.overview, 
-            type: title.type, 
+            description: listing.overview, 
+            type: listing.type, 
             layout: '../../layouts/MainLayout.astro',
         }
 
-        const details = matter.stringify( '', title )
+        const detailsJSON = JSON.stringify( listing, null, 4 )
 
-        const content = matter.stringify( details, pageMeta )
+        const wrappedCode = '```json\n' + detailsJSON + '\n```'
 
-        await Deno.writeTextFile( `${ storePath }/${ slug }.md`, content )
+        const content = matter.stringify( wrappedCode, pageMeta )
+
+        await Deno.writeTextFile( filePath, content )
 
     }
 }
