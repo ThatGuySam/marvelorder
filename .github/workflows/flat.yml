@@ -1,0 +1,29 @@
+name: data
+on:
+  schedule:
+    - cron: 0 0 * * *
+  workflow_dispatch: {}
+  push:
+    paths:
+      - .github/workflows/flat.yml
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup deno
+        uses: denoland/setup-deno@main
+        with:
+          deno-version: v1.20.x
+      - name: Check out repo
+        uses: actions/checkout@v2
+      - name: Setup ENV Variables
+        # https://www.base64encode.org/
+        run: |
+          echo ${{ secrets.ACTIONS_ENV }} | base64 -d > ./.env
+          cat ./.env
+      - name: Fetch data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://raw.githubusercontent.com/ThatGuySam/marvelorder/main/README.md
+          downloaded_filename: README.md
+          postprocess: ./scripts/flat-postprocessing.mjs
