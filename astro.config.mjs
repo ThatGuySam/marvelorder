@@ -8,7 +8,20 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-  integrations: [// Enable Preact to support Preact JSX components.
-  preact(), // Enable React for the Algolia search component.
-  react(), vue(), tailwind(), sitemap()]
-});
+    integrations: [// Enable Preact to support Preact JSX components.
+        preact(), // Enable React for the Algolia search component.
+        react(), 
+        vue(), 
+        tailwind(), 
+        sitemap()
+    ],
+    // Vite options
+    // https://docs.astro.build/en/reference/configuration-reference/#vite
+    vite: {
+        build: {
+            commonjsOptions: {
+                transformMixedEsModules: true,
+            }
+        }
+    }
+})
