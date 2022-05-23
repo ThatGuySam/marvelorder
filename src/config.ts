@@ -1,6 +1,6 @@
 export const SITE = {
-	title: 'Documentation',
-	description: 'Your website description.',
+	title: 'Marvel Order',
+	description: 'List of Marvel movies and shows ordered chronologically, release, and more. ',
 	defaultLanguage: 'en_US',
 };
 
