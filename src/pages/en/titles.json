@@ -17,6 +17,8 @@
 		"poster_path": "/isYAlE7hfuvd9Tfbr0cLCcAjgfX.jpg",
 		"vote_average": 0,
 		"vote_count": 0,
+		"title": "I Am Groot",
+		"slug": "i-am-groot",
 		"type": "tv",
 		"companies": [
 			{
@@ -43,6 +45,8 @@
 		"poster_path": "/vXkmdLWnXpBaaErF4faB2BKLStL.jpg",
 		"vote_average": 0,
 		"vote_count": 0,
+		"title": "Armor Wars",
+		"slug": "armor-wars",
 		"type": "tv",
 		"companies": [
 			{
@@ -70,6 +74,8 @@
 		"poster_path": "/ha1kackPwP1BLtyibzuv5hABiDk.jpg",
 		"vote_average": 0,
 		"vote_count": 0,
+		"title": "Ironheart",
+		"slug": "ironheart",
 		"type": "tv",
 		"companies": [
 			{
@@ -97,6 +103,8 @@
 		"poster_path": "/qRNTyyJ7jPo0UPbr3kcUVtfjmjE.jpg",
 		"vote_average": 0,
 		"vote_count": 0,
+		"title": "Secret Invasion",
+		"slug": "secret-invasion",
 		"type": "tv",
 		"companies": [
 			{
@@ -124,6 +132,8 @@
 		"poster_path": null,
 		"vote_average": 0,
 		"vote_count": 0,
+		"title": "Untitled Wakanda Series",
+		"slug": "untitled-wakanda-series",
 		"type": "tv",
 		"companies": [
 			{
@@ -151,6 +161,8 @@
 		"poster_path": "/3bv5Dv3YmQfzg5ckQMwzCUQ89hU.jpg",
 		"vote_average": 0,
 		"vote_count": 0,
+		"title": "Echo",
+		"slug": "echo",
 		"type": "tv",
 		"companies": [
 			{
@@ -178,6 +190,8 @@
 		"poster_path": "/akjfAgmQ6KEP5exgJ2DLyyom9Eq.jpg",
 		"vote_average": 0,
 		"vote_count": 0,
+		"title": "Agatha: House of Harkness",
+		"slug": "agatha-house-of-harkness",
 		"type": "tv",
 		"companies": [
 			{
@@ -204,6 +218,8 @@
 		"poster_path": "/kZhODsClYVftvqwwZB7nPcuA1km.jpg",
 		"vote_average": 0,
 		"vote_count": 0,
+		"title": "X-Men '97",
+		"slug": "x-men-97",
 		"type": "tv",
 		"companies": [
 			{
@@ -230,6 +246,8 @@
 		"poster_path": "/7ecqjxf49CaTsqQFIUd1iceoXZB.jpg",
 		"vote_average": 0,
 		"vote_count": 0,
+		"title": "Spider-Man: Freshman Year",
+		"slug": "spider-man-freshman-year",
 		"type": "tv",
 		"companies": [
 			{
@@ -257,6 +275,8 @@
 		"poster_path": "/vK2ZJlnurjxajVXGxy6KMeHJuW8.jpg",
 		"vote_average": 0,
 		"vote_count": 0,
+		"title": "Marvel Zombies",
+		"slug": "marvel-zombies",
 		"type": "tv",
 		"companies": [
 			{
@@ -281,6 +301,8 @@
 		"poster_path": null,
 		"vote_average": 0,
 		"vote_count": 0,
+		"title": "Untitled Destin Daniel Cretton Disney+ series",
+		"slug": "untitled-destin-daniel-cretton-disney-series",
 		"type": "tv",
 		"companies": [
 			{
@@ -307,6 +329,7 @@
 		"video": false,
 		"vote_average": 0,
 		"vote_count": 0,
+		"slug": "deadpool-3",
 		"type": "movie",
 		"companies": [
 			{
@@ -333,6 +356,7 @@
 		"video": false,
 		"vote_average": 0,
 		"vote_count": 0,
+		"slug": "untitled-spider-women-film",
 		"type": "movie",
 		"companies": [
 			{
@@ -359,6 +383,7 @@
 		"video": false,
 		"vote_average": 0,
 		"vote_count": 0,
+		"slug": "fantastic-four",
 		"type": "movie",
 		"companies": [
 			{
@@ -387,6 +412,7 @@
 		"video": false,
 		"vote_average": 0,
 		"vote_count": 0,
+		"slug": "blade",
 		"type": "movie",
 		"companies": [
 			{
@@ -414,6 +440,7 @@
 		"video": false,
 		"vote_average": 0,
 		"vote_count": 0,
+		"slug": "the-mutants",
 		"type": "movie",
 		"companies": [
 			{
@@ -440,6 +467,7 @@
 		"video": false,
 		"vote_average": 0,
 		"vote_count": 0,
+		"slug": "jackpot",
 		"type": "movie",
 		"companies": [
 			{
@@ -466,6 +494,7 @@
 		"video": false,
 		"vote_average": 0,
 		"vote_count": 0,
+		"slug": "the-guardians-of-the-galaxy-holiday-special",
 		"type": "movie",
 		"companies": [
 			{
@@ -492,6 +521,7 @@
 		"video": false,
 		"vote_average": 0,
 		"vote_count": 0,
+		"slug": "untitled-female-centered-marvel-film",
 		"type": "movie",
 		"companies": [
 			{
@@ -518,6 +548,7 @@
 		"video": false,
 		"vote_average": 0,
 		"vote_count": 0,
+		"slug": "captain-america-4",
 		"type": "movie",
 		"companies": [
 			{
@@ -545,6 +576,7 @@
 		"video": false,
 		"vote_average": 0,
 		"vote_count": 0,
+		"slug": "untitled-marvel-halloween-special",
 		"type": "movie",
 		"companies": [
 			{
@@ -571,6 +603,7 @@
 		"video": false,
 		"vote_average": 0,
 		"vote_count": 0,
+		"slug": "shang-chi-2",
 		"type": "movie",
 		"companies": [
 			{
@@ -598,6 +631,7 @@
 		"video": false,
 		"vote_average": 0,
 		"vote_count": 0,
+		"slug": "venom-3",
 		"type": "movie",
 		"companies": [
 			{
@@ -621,6 +655,7 @@
 		"video": false,
 		"vote_average": 0,
 		"vote_count": 0,
+		"slug": "untitled-spider-man-4-movie",
 		"type": "movie",
 		"companies": [
 			{
@@ -644,6 +679,7 @@
 		"video": false,
 		"vote_average": 0,
 		"vote_count": 0,
+		"slug": "secret-invasion",
 		"type": "movie",
 		"companies": [
 			{
@@ -672,6 +708,7 @@
 		"video": false,
 		"vote_average": 0,
 		"vote_count": 0,
+		"slug": "spider-man-beyond-the-spider-verse",
 		"type": "movie",
 		"companies": [
 			{
@@ -699,6 +736,7 @@
 		"video": false,
 		"vote_average": 0,
 		"vote_count": 0,
+		"slug": "el-muerto",
 		"type": "movie",
 		"companies": [
 			{
@@ -726,6 +764,7 @@
 		"video": false,
 		"vote_average": 0,
 		"vote_count": 0,
+		"slug": "the-marvels",
 		"type": "movie",
 		"companies": [
 			{
@@ -752,6 +791,7 @@
 		"video": false,
 		"vote_average": 0,
 		"vote_count": 0,
+		"slug": "madame-web",
 		"type": "movie",
 		"companies": [
 			{
@@ -780,6 +820,7 @@
 		"video": false,
 		"vote_average": 0,
 		"vote_count": 0,
+		"slug": "spider-man-across-the-spider-verse",
 		"type": "movie",
 		"companies": [
 			{
@@ -808,6 +849,7 @@
 		"video": false,
 		"vote_average": 0,
 		"vote_count": 0,
+		"slug": "guardians-of-the-galaxy-vol-3",
 		"type": "movie",
 		"companies": [
 			{
@@ -835,6 +877,7 @@
 		"video": false,
 		"vote_average": 0,
 		"vote_count": 0,
+		"slug": "ant-man-and-the-wasp-quantumania",
 		"type": "movie",
 		"companies": [
 			{
@@ -861,6 +904,7 @@
 		"video": false,
 		"vote_average": 0,
 		"vote_count": 0,
+		"slug": "kraven-the-hunter",
 		"type": "movie",
 		"companies": [
 			{
@@ -888,6 +932,7 @@
 		"video": false,
 		"vote_average": 0,
 		"vote_count": 0,
+		"slug": "black-panther-wakanda-forever",
 		"type": "movie",
 		"companies": [
 			{
@@ -897,7 +942,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/404gXPWureXernXxdiTiXSo2UHd.jpg",
+		"backdrop_path": "/2xExHdAMLMOJBnVzULaBlMcZoYg.jpg",
 		"first_air_date": "2022-08-17",
 		"genre_ids": [
 			35,
@@ -916,6 +961,8 @@
 		"poster_path": "/byoxtap1YEyRvgsuGoLTdl25Ii3.jpg",
 		"vote_average": 0,
 		"vote_count": 0,
+		"title": "She-Hulk: Attorney at Law",
+		"slug": "she-hulk-attorney-at-law",
 		"type": "tv",
 		"companies": [
 			{
@@ -943,6 +990,7 @@
 		"video": false,
 		"vote_average": 0,
 		"vote_count": 0,
+		"slug": "thor-love-and-thunder",
 		"type": "movie",
 		"companies": [
 			{
@@ -970,6 +1018,8 @@
 		"poster_path": "/A8UVjdSH3kr5bo8iuBwXVSWXlHu.jpg",
 		"vote_average": 0,
 		"vote_count": 0,
+		"title": "Ms. Marvel",
+		"slug": "ms-marvel",
 		"type": "tv",
 		"companies": [
 			{
@@ -995,6 +1045,7 @@
 		"video": false,
 		"vote_average": 0,
 		"vote_count": 0,
+		"slug": "marvel-studios-assembled-the-making-of-moon-knight",
 		"type": "movie",
 		"companies": [
 			{
@@ -1022,6 +1073,7 @@
 		"video": false,
 		"vote_average": 7.4,
 		"vote_count": 1789,
+		"slug": "doctor-strange-in-the-multiverse-of-madness",
 		"type": "movie",
 		"companies": [
 			{
@@ -1050,6 +1102,8 @@
 		"poster_path": "/YksR65as1ppF2N48TJAh2PLamX.jpg",
 		"vote_average": 8.3,
 		"vote_count": 864,
+		"title": "Moon Knight",
+		"slug": "moon-knight",
 		"type": "tv",
 		"companies": [
 			{
@@ -1077,6 +1131,7 @@
 		"video": false,
 		"vote_average": 6.4,
 		"vote_count": 1052,
+		"slug": "morbius",
 		"type": "movie",
 		"companies": [
 			{
@@ -1102,6 +1157,7 @@
 		"video": false,
 		"vote_average": 6.9,
 		"vote_count": 13,
+		"slug": "assembled-the-making-of-eternals",
 		"type": "movie",
 		"companies": [
 			{
@@ -1127,6 +1183,7 @@
 		"video": false,
 		"vote_average": 6.4,
 		"vote_count": 11,
+		"slug": "assembled-the-making-of-hawkeye",
 		"type": "movie",
 		"companies": [
 			{
@@ -1154,6 +1211,7 @@
 		"video": false,
 		"vote_average": 8.1,
 		"vote_count": 12964,
+		"slug": "spider-man-no-way-home",
 		"type": "movie",
 		"companies": [
 			{
@@ -1181,6 +1239,8 @@
 		"poster_path": "/pqzjCxPVc9TkVgGRWeAoMmyqkZV.jpg",
 		"vote_average": 8.2,
 		"vote_count": 2005,
+		"title": "Hawkeye",
+		"slug": "hawkeye",
 		"type": "tv",
 		"companies": [
 			{
@@ -1208,6 +1268,8 @@
 		"poster_path": "/1aK7hApRSDUv8xxDQXyQil7qBjN.jpg",
 		"vote_average": 7.9,
 		"vote_count": 47,
+		"title": "Marvel's Hit-Monkey",
+		"slug": "marvels-hit-monkey",
 		"type": "tv",
 		"companies": [
 			{
@@ -1233,6 +1295,7 @@
 		"video": false,
 		"vote_average": 6.9,
 		"vote_count": 12,
+		"slug": "marvel-studios-2021-disney-day-special",
 		"type": "movie",
 		"companies": [
 			{
@@ -1260,6 +1323,7 @@
 		"video": false,
 		"vote_average": 7.1,
 		"vote_count": 5582,
+		"slug": "eternals",
 		"type": "movie",
 		"companies": [
 			{
@@ -1287,6 +1351,7 @@
 		"video": false,
 		"vote_average": 7,
 		"vote_count": 7338,
+		"slug": "venom-let-there-be-carnage",
 		"type": "movie",
 		"companies": [
 			{
@@ -1315,6 +1380,7 @@
 		"video": false,
 		"vote_average": 7.7,
 		"vote_count": 6487,
+		"slug": "shang-chi-and-the-legend-of-the-ten-rings",
 		"type": "movie",
 		"companies": [
 			{
@@ -1343,6 +1409,8 @@
 		"poster_path": "/lztz5XBMG1x6Y5ubz7CxfPFsAcW.jpg",
 		"vote_average": 8.4,
 		"vote_count": 3009,
+		"title": "What If...?",
+		"slug": "what-if",
 		"type": "tv",
 		"companies": [
 			{
@@ -1370,6 +1438,8 @@
 		"poster_path": "/dA4S18rnLx4sWW8agmLLKUvRM7n.jpg",
 		"vote_average": 7.4,
 		"vote_count": 197,
+		"title": "Marvel's Spidey and His Amazing Friends",
+		"slug": "marvels-spidey-and-his-amazing-friends",
 		"type": "tv",
 		"companies": [
 			{
@@ -1397,6 +1467,7 @@
 		"video": false,
 		"vote_average": 7.4,
 		"vote_count": 7590,
+		"slug": "black-widow",
 		"type": "movie",
 		"companies": [
 			{
@@ -1424,6 +1495,8 @@
 		"poster_path": "/kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg",
 		"vote_average": 8.2,
 		"vote_count": 8852,
+		"title": "Loki",
+		"slug": "loki",
 		"type": "tv",
 		"companies": [
 			{
@@ -1451,6 +1524,8 @@
 		"poster_path": "/dOOFAtzsRQ641p2NL4s4nyThJSO.jpg",
 		"vote_average": 7.1,
 		"vote_count": 108,
+		"title": "Marvel's M.O.D.O.K.",
+		"slug": "marvels-modok",
 		"type": "tv",
 		"companies": [
 			{
@@ -1479,6 +1554,8 @@
 		"poster_path": "/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
 		"vote_average": 7.8,
 		"vote_count": 7135,
+		"title": "The Falcon and the Winter Soldier",
+		"slug": "the-falcon-and-the-winter-soldier",
 		"type": "tv",
 		"companies": [
 			{
@@ -1505,6 +1582,8 @@
 		"poster_path": "/v2BHRwtQVkt5fssLdo5MpFgHJPY.jpg",
 		"vote_average": 7.4,
 		"vote_count": 142,
+		"title": "Marvel Studios: Assembled",
+		"slug": "marvel-studios-assembled",
 		"type": "tv",
 		"companies": [
 			{
@@ -1530,6 +1609,7 @@
 		"video": false,
 		"vote_average": 7.5,
 		"vote_count": 30,
+		"slug": "marvels-behind-the-mask",
 		"type": "movie",
 		"companies": [
 			{
@@ -1558,6 +1638,8 @@
 		"poster_path": "/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
 		"vote_average": 8.3,
 		"vote_count": 10049,
+		"title": "WandaVision",
+		"slug": "wandavision",
 		"type": "tv",
 		"companies": [
 			{
@@ -1586,6 +1668,8 @@
 		"poster_path": "/EpDuYIK81YtCUT3gH2JDpyj8Qk.jpg",
 		"vote_average": 7.5,
 		"vote_count": 553,
+		"title": "Marvel Studios: Legends",
+		"slug": "marvel-studios-legends",
 		"type": "tv",
 		"companies": [
 			{
@@ -1614,6 +1698,8 @@
 		"poster_path": "/8fPIcaRIZgsoBcgA5yAm3GNz61M.jpg",
 		"vote_average": 7,
 		"vote_count": 129,
+		"title": "Helstrom",
+		"slug": "helstrom",
 		"type": "tv",
 		"companies": [
 			{
@@ -1642,6 +1728,7 @@
 		"video": false,
 		"vote_average": 6.2,
 		"vote_count": 2674,
+		"slug": "the-new-mutants",
 		"type": "movie",
 		"companies": [
 			{
@@ -1669,6 +1756,8 @@
 		"poster_path": "/wu7VuEO9eRCtul31pV8MvWwAxyI.jpg",
 		"vote_average": 5.7,
 		"vote_count": 3,
+		"title": "Marvel Battleworld: Mystery of the Thanostones",
+		"slug": "marvel-battleworld-mystery-of-the-thanostones",
 		"type": "tv",
 		"companies": [
 			{
@@ -1695,6 +1784,7 @@
 		"video": false,
 		"vote_average": 7.8,
 		"vote_count": 10,
+		"slug": "celebrating-marvels-stan-lee",
 		"type": "movie",
 		"companies": [
 			{
@@ -1720,6 +1810,7 @@
 		"video": false,
 		"vote_average": 5.9,
 		"vote_count": 16,
+		"slug": "marvel-studios-expanding-the-universe",
 		"type": "movie",
 		"companies": [
 			{
@@ -1747,6 +1838,7 @@
 		"video": false,
 		"vote_average": 7.3,
 		"vote_count": 28,
+		"slug": "peters-to-do-list",
 		"type": "movie",
 		"companies": [
 			{
@@ -1774,6 +1866,7 @@
 		"video": false,
 		"vote_average": 7.5,
 		"vote_count": 12592,
+		"slug": "spider-man-far-from-home",
 		"type": "movie",
 		"companies": [
 			{
@@ -1801,6 +1894,7 @@
 		"video": false,
 		"vote_average": 8.3,
 		"vote_count": 21039,
+		"slug": "avengers-endgame",
 		"type": "movie",
 		"companies": [
 			{
@@ -1829,6 +1923,7 @@
 		"video": false,
 		"vote_average": 6.9,
 		"vote_count": 152,
+		"slug": "spider-ham-caught-in-a-ham",
 		"type": "movie",
 		"companies": [
 			{
@@ -1856,6 +1951,7 @@
 		"video": false,
 		"vote_average": 6.9,
 		"vote_count": 13067,
+		"slug": "captain-marvel",
 		"type": "movie",
 		"companies": [
 			{
@@ -1884,6 +1980,7 @@
 		"video": false,
 		"vote_average": 7.3,
 		"vote_count": 34,
+		"slug": "marvel-rising-chasing-ghosts",
 		"type": "movie",
 		"companies": [
 			{
@@ -1910,6 +2007,7 @@
 		"video": false,
 		"vote_average": 7.1,
 		"vote_count": 574,
+		"slug": "once-upon-a-deadpool",
 		"type": "movie",
 		"companies": [
 			{
@@ -1936,6 +2034,7 @@
 		"video": false,
 		"vote_average": 6.8,
 		"vote_count": 13325,
+		"slug": "venom",
 		"type": "movie",
 		"companies": [
 			{
@@ -1963,6 +2062,7 @@
 		"video": false,
 		"vote_average": 7,
 		"vote_count": 11134,
+		"slug": "ant-man-and-the-wasp",
 		"type": "movie",
 		"companies": [
 			{
@@ -1991,6 +2091,8 @@
 		"poster_path": "/3y2pkhy4smkSkXy7nL9CDW0GGiQ.jpg",
 		"vote_average": 7.4,
 		"vote_count": 448,
+		"title": "Marvel's Cloak & Dagger",
+		"slug": "marvels-cloak-and-dagger",
 		"type": "tv",
 		"companies": [
 			{
@@ -2018,6 +2120,7 @@
 		"video": false,
 		"vote_average": 6.7,
 		"vote_count": 38,
+		"slug": "lego-marvel-super-heroes-black-panther-trouble-in-wakanda",
 		"type": "movie",
 		"companies": [
 			{
@@ -2045,6 +2148,7 @@
 		"video": false,
 		"vote_average": 8.3,
 		"vote_count": 24598,
+		"slug": "avengers-infinity-war",
 		"type": "movie",
 		"companies": [
 			{
@@ -2070,6 +2174,7 @@
 		"video": false,
 		"vote_average": 6.4,
 		"vote_count": 75,
+		"slug": "team-darryl",
 		"type": "movie",
 		"companies": [
 			{
@@ -2097,6 +2202,7 @@
 		"video": false,
 		"vote_average": 7.4,
 		"vote_count": 19061,
+		"slug": "black-panther",
 		"type": "movie",
 		"companies": [
 			{
@@ -2124,6 +2230,7 @@
 		"video": false,
 		"vote_average": 7.1,
 		"vote_count": 37,
+		"slug": "lego-marvel-super-heroes-guardians-of-the-galaxy-the-thanos-threat",
 		"type": "movie",
 		"companies": [
 			{
@@ -2153,6 +2260,8 @@
 		"poster_path": "/zceMrfO17AQkeWJZNra4O90s1vE.jpg",
 		"vote_average": 7.6,
 		"vote_count": 718,
+		"title": "Marvel's Runaways",
+		"slug": "marvels-runaways",
 		"type": "tv",
 		"companies": [
 			{
@@ -2181,6 +2290,8 @@
 		"poster_path": "/tM6xqRKXoloH9UchaJEyyRE9O1w.jpg",
 		"vote_average": 8.1,
 		"vote_count": 1701,
+		"title": "Marvel's The Punisher",
+		"slug": "marvels-the-punisher",
 		"type": "tv",
 		"companies": [
 			{
@@ -2209,6 +2320,7 @@
 		"video": false,
 		"vote_average": 7.6,
 		"vote_count": 17641,
+		"slug": "thor-ragnarok",
 		"type": "movie",
 		"companies": [
 			{
@@ -2237,6 +2349,8 @@
 		"poster_path": "/nshCqszjTNuqhrB53vrSqWO18sE.jpg",
 		"vote_average": 7.7,
 		"vote_count": 1229,
+		"title": "The Gifted",
+		"slug": "the-gifted",
 		"type": "tv",
 		"companies": [
 			{
@@ -2265,6 +2379,8 @@
 		"poster_path": "/zKfGip55oJ9tdzhyd9ayGyFFhuo.jpg",
 		"vote_average": 6.3,
 		"vote_count": 483,
+		"title": "Marvel's Inhumans",
+		"slug": "marvels-inhumans",
 		"type": "tv",
 		"companies": [
 			{
@@ -2293,6 +2409,8 @@
 		"poster_path": "/49XzINhH4LFsgz7cx6TOPcHUJUL.jpg",
 		"vote_average": 7.2,
 		"vote_count": 942,
+		"title": "Marvel's The Defenders",
+		"slug": "marvels-the-defenders",
 		"type": "tv",
 		"companies": [
 			{
@@ -2321,6 +2439,7 @@
 		"video": false,
 		"vote_average": 7.4,
 		"vote_count": 18577,
+		"slug": "spider-man-homecoming",
 		"type": "movie",
 		"companies": [
 			{
@@ -2348,6 +2467,7 @@
 		"video": false,
 		"vote_average": 7.6,
 		"vote_count": 18302,
+		"slug": "guardians-of-the-galaxy-vol-2",
 		"type": "movie",
 		"companies": [
 			{
@@ -2376,6 +2496,8 @@
 		"poster_path": "/4l6KD9HhtD6nCDEfg10Lp6C6zah.jpg",
 		"vote_average": 6.6,
 		"vote_count": 1881,
+		"title": "Marvel's Iron Fist",
+		"slug": "marvels-iron-fist",
 		"type": "tv",
 		"companies": [
 			{
@@ -2403,6 +2525,8 @@
 		"poster_path": "/7FHJr40MPFwtHrOyOD9buQDoVcs.jpg",
 		"vote_average": 8.2,
 		"vote_count": 10,
+		"title": "Marvel's Rocket & Groot",
+		"slug": "marvels-rocket-and-groot",
 		"type": "tv",
 		"companies": [
 			{
@@ -2430,6 +2554,7 @@
 		"video": false,
 		"vote_average": 7.1,
 		"vote_count": 225,
+		"slug": "team-thor-part-2",
 		"type": "movie",
 		"companies": [
 			{
@@ -2457,6 +2582,8 @@
 		"poster_path": "/vT0Zsbm4GWd7llNjgWEtwY0CqOv.jpg",
 		"vote_average": 7.6,
 		"vote_count": 1074,
+		"title": "Legion",
+		"slug": "legion",
 		"type": "tv",
 		"companies": [
 			{
@@ -2485,6 +2612,8 @@
 		"poster_path": "/bwJej7WdmGRMCMyuDlotwAqVX7S.jpg",
 		"vote_average": 7.1,
 		"vote_count": 169,
+		"title": "Marvel's Agents of S.H.I.E.L.D.: Slingshot",
+		"slug": "marvels-agents-of-shield-slingshot",
 		"type": "tv",
 		"companies": [
 			{
@@ -2511,6 +2640,8 @@
 		"poster_path": "/6ObO02dL4QbzMuhnW3jU3XYkuAq.jpg",
 		"vote_average": 4.3,
 		"vote_count": 3,
+		"title": "Marvel's Ultimate Comics",
+		"slug": "marvels-ultimate-comics",
 		"type": "tv",
 		"companies": [
 			{
@@ -2539,6 +2670,7 @@
 		"video": false,
 		"vote_average": 7.4,
 		"vote_count": 19012,
+		"slug": "doctor-strange",
 		"type": "movie",
 		"companies": [
 			{
@@ -2568,6 +2700,8 @@
 		"poster_path": "/quTfV803fGaSADzTeEqCbIZnt9d.jpg",
 		"vote_average": 7,
 		"vote_count": 1290,
+		"title": "Marvel's Luke Cage",
+		"slug": "marvels-luke-cage",
 		"type": "tv",
 		"companies": [
 			{
@@ -2594,6 +2728,7 @@
 		"video": false,
 		"vote_average": 7.4,
 		"vote_count": 414,
+		"slug": "team-thor",
 		"type": "movie",
 		"companies": [
 			{
@@ -2622,6 +2757,7 @@
 		"video": false,
 		"vote_average": 6.5,
 		"vote_count": 11294,
+		"slug": "x-men-apocalypse",
 		"type": "movie",
 		"companies": [
 			{
@@ -2649,6 +2785,7 @@
 		"video": false,
 		"vote_average": 7.4,
 		"vote_count": 19802,
+		"slug": "captain-america-civil-war",
 		"type": "movie",
 		"companies": [
 			{
@@ -2674,6 +2811,7 @@
 		"video": false,
 		"vote_average": 6.8,
 		"vote_count": 29,
+		"slug": "marvels-captain-america-75-heroic-years",
 		"type": "movie",
 		"companies": [
 			{
@@ -2701,6 +2839,8 @@
 		"poster_path": "/1ghmaDw650NuUpGI7mYq6xE2QE2.jpg",
 		"vote_average": 7.6,
 		"vote_count": 1702,
+		"title": "Marvel's Jessica Jones",
+		"slug": "marvels-jessica-jones",
 		"type": "tv",
 		"companies": [
 			{
@@ -2728,6 +2868,7 @@
 		"video": false,
 		"vote_average": 4.4,
 		"vote_count": 5163,
+		"slug": "fantastic-four",
 		"type": "movie",
 		"companies": [
 			{
@@ -2755,6 +2896,7 @@
 		"video": false,
 		"vote_average": 7.1,
 		"vote_count": 17072,
+		"slug": "ant-man",
 		"type": "movie",
 		"companies": [
 			{
@@ -2782,6 +2924,7 @@
 		"video": false,
 		"vote_average": 7.3,
 		"vote_count": 19835,
+		"slug": "avengers-age-of-ultron",
 		"type": "movie",
 		"companies": [
 			{
@@ -2810,6 +2953,8 @@
 		"poster_path": "/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
 		"vote_average": 8.1,
 		"vote_count": 3252,
+		"title": "Marvel's Daredevil",
+		"slug": "marvels-daredevil",
 		"type": "tv",
 		"companies": [
 			{
@@ -2835,6 +2980,7 @@
 		"video": false,
 		"vote_average": 6,
 		"vote_count": 1,
+		"slug": "wolverine-versus-sabretooth-reborn",
 		"type": "movie",
 		"companies": [
 			{
@@ -2860,6 +3006,7 @@
 		"video": false,
 		"vote_average": 5.7,
 		"vote_count": 2,
+		"slug": "marvel-and-espn-films-present-1-of-1-genesis",
 		"type": "movie",
 		"companies": [
 			{
@@ -2887,6 +3034,8 @@
 		"poster_path": "/7kqIsjjDMZA5GRMH5VCdQYZJqc6.jpg",
 		"vote_average": 7.6,
 		"vote_count": 1388,
+		"title": "Marvel's Agent Carter",
+		"slug": "marvels-agent-carter",
 		"type": "tv",
 		"companies": [
 			{
@@ -2912,6 +3061,7 @@
 		"video": false,
 		"vote_average": 6.8,
 		"vote_count": 55,
+		"slug": "marvel-75-years-from-pulp-to-pop",
 		"type": "movie",
 		"companies": [
 			{
@@ -2937,6 +3087,7 @@
 		"video": false,
 		"vote_average": 7.5,
 		"vote_count": 21,
+		"slug": "marvel-knights-eternals",
 		"type": "movie",
 		"companies": [
 			{
@@ -2962,6 +3113,7 @@
 		"video": false,
 		"vote_average": 5.3,
 		"vote_count": 3,
+		"slug": "the-marvel-universe-expands-marvel-75th-anniversary",
 		"type": "movie",
 		"companies": [
 			{
@@ -2989,6 +3141,7 @@
 		"video": false,
 		"vote_average": 7.9,
 		"vote_count": 24413,
+		"slug": "guardians-of-the-galaxy",
 		"type": "movie",
 		"companies": [
 			{
@@ -3017,6 +3170,7 @@
 		"video": false,
 		"vote_average": 7.5,
 		"vote_count": 13374,
+		"slug": "x-men-days-of-future-past",
 		"type": "movie",
 		"companies": [
 			{
@@ -3042,6 +3196,7 @@
 		"video": false,
 		"vote_average": 10,
 		"vote_count": 1,
+		"slug": "wolverine-weapon-x-tomorrow-dies-today",
 		"type": "movie",
 		"companies": [
 			{
@@ -3069,6 +3224,7 @@
 		"video": false,
 		"vote_average": 6.5,
 		"vote_count": 11023,
+		"slug": "the-amazing-spider-man-2",
 		"type": "movie",
 		"companies": [
 			{
@@ -3097,6 +3253,8 @@
 		"poster_path": "/h97gzg5LbUDZ61rAfNmR4OS0AzT.jpg",
 		"vote_average": 4.5,
 		"vote_count": 2,
+		"title": "Marvel Disk Wars: The Avengers",
+		"slug": "marvel-disk-wars-the-avengers",
 		"type": "tv",
 		"companies": [
 			{
@@ -3124,6 +3282,7 @@
 		"video": false,
 		"vote_average": 7.7,
 		"vote_count": 16126,
+		"slug": "captain-america-the-winter-soldier",
 		"type": "movie",
 		"companies": [
 			{
@@ -3150,6 +3309,7 @@
 		"video": false,
 		"vote_average": 7.1,
 		"vote_count": 125,
+		"slug": "marvel-studios-assembling-a-universe",
 		"type": "movie",
 		"companies": [
 			{
@@ -3178,6 +3338,7 @@
 		"video": false,
 		"vote_average": 6.8,
 		"vote_count": 358,
+		"slug": "marvel-one-shot-all-hail-the-king",
 		"type": "movie",
 		"companies": [
 			{
@@ -3203,6 +3364,7 @@
 		"video": false,
 		"vote_average": 7.7,
 		"vote_count": 3,
+		"slug": "wolverine-versus-sabretooth",
 		"type": "movie",
 		"companies": [
 			{
@@ -3228,6 +3390,7 @@
 		"video": false,
 		"vote_average": 6.4,
 		"vote_count": 16,
+		"slug": "the-wolverine-path-of-a-ronin",
 		"type": "movie",
 		"companies": [
 			{
@@ -3251,6 +3414,7 @@
 		"video": false,
 		"vote_average": 0,
 		"vote_count": 0,
+		"slug": "astonishing-x-men-unstoppable",
 		"type": "movie",
 		"companies": [
 			{
@@ -3278,6 +3442,7 @@
 		"video": false,
 		"vote_average": 6.6,
 		"vote_count": 14835,
+		"slug": "thor-the-dark-world",
 		"type": "movie",
 		"companies": [
 			{
@@ -3306,6 +3471,8 @@
 		"poster_path": "/gHUCCMy1vvj58tzE3dZqeC9SXus.jpg",
 		"vote_average": 7.5,
 		"vote_count": 2848,
+		"title": "Marvel's Agents of S.H.I.E.L.D.",
+		"slug": "marvels-agents-of-shield",
 		"type": "tv",
 		"companies": [
 			{
@@ -3331,6 +3498,7 @@
 		"video": false,
 		"vote_average": 6.7,
 		"vote_count": 11,
+		"slug": "ultimate-wolverine-vs-hulk",
 		"type": "movie",
 		"companies": [
 			{
@@ -3359,6 +3527,7 @@
 		"video": false,
 		"vote_average": 7.4,
 		"vote_count": 548,
+		"slug": "marvel-one-shot-agent-carter",
 		"type": "movie",
 		"companies": [
 			{
@@ -3384,6 +3553,7 @@
 		"video": false,
 		"vote_average": 6.5,
 		"vote_count": 10,
+		"slug": "wolverine-origin",
 		"type": "movie",
 		"companies": [
 			{
@@ -3409,6 +3579,7 @@
 		"video": false,
 		"vote_average": 6.7,
 		"vote_count": 6,
+		"slug": "inhumans",
 		"type": "movie",
 		"companies": [
 			{
@@ -3436,6 +3607,7 @@
 		"video": false,
 		"vote_average": 6.9,
 		"vote_count": 19450,
+		"slug": "iron-man-3",
 		"type": "movie",
 		"companies": [
 			{
@@ -3463,6 +3635,7 @@
 		"video": false,
 		"vote_average": 6.5,
 		"vote_count": 368,
+		"slug": "marvel-one-shot-item-47",
 		"type": "movie",
 		"companies": [
 			{
@@ -3488,6 +3661,7 @@
 		"video": false,
 		"vote_average": 8,
 		"vote_count": 2,
+		"slug": "astonishing-x-men-torn",
 		"type": "movie",
 		"companies": [
 			{
@@ -3515,6 +3689,7 @@
 		"video": false,
 		"vote_average": 6.7,
 		"vote_count": 14882,
+		"slug": "the-amazing-spider-man",
 		"type": "movie",
 		"companies": [
 			{
@@ -3541,6 +3716,8 @@
 		"poster_path": "/fEpnfXuukOOkZTbJh6qylrdahbu.jpg",
 		"vote_average": 0,
 		"vote_count": 0,
+		"title": "Fury Files",
+		"slug": "fury-files",
 		"type": "tv",
 		"companies": [
 			{
@@ -3568,6 +3745,7 @@
 		"video": false,
 		"vote_average": 7.7,
 		"vote_count": 26919,
+		"slug": "the-avengers",
 		"type": "movie",
 		"companies": [
 			{
@@ -3593,6 +3771,7 @@
 		"video": false,
 		"vote_average": 7.7,
 		"vote_count": 3,
+		"slug": "astonishing-x-men-dangerous",
 		"type": "movie",
 		"companies": [
 			{
@@ -3620,6 +3799,7 @@
 		"video": false,
 		"vote_average": 5,
 		"vote_count": 3135,
+		"slug": "ghost-rider-spirit-of-vengeance",
 		"type": "movie",
 		"companies": [
 			{
@@ -3646,6 +3826,7 @@
 		"video": false,
 		"vote_average": 7,
 		"vote_count": 300,
+		"slug": "marvel-one-shot-a-funny-thing-happened-on-the-way-to-thors-hammer",
 		"type": "movie",
 		"companies": [
 			{
@@ -3674,6 +3855,7 @@
 		"video": false,
 		"vote_average": 6.4,
 		"vote_count": 364,
+		"slug": "marvel-one-shot-the-consultant",
 		"type": "movie",
 		"companies": [
 			{
@@ -3701,6 +3883,7 @@
 		"video": false,
 		"vote_average": 7,
 		"vote_count": 18587,
+		"slug": "captain-america-the-first-avenger",
 		"type": "movie",
 		"companies": [
 			{
@@ -3729,6 +3912,8 @@
 		"poster_path": "/xRowPbnDmzJnaqSolUpHUTlqhDx.jpg",
 		"vote_average": 7.1,
 		"vote_count": 46,
+		"title": "Blade",
+		"slug": "blade",
 		"type": "tv",
 		"companies": [
 			{
@@ -3756,6 +3941,7 @@
 		"video": false,
 		"vote_average": 6.8,
 		"vote_count": 18187,
+		"slug": "thor",
 		"type": "movie",
 		"companies": [
 			{
@@ -3784,6 +3970,8 @@
 		"poster_path": "/eMQcgexc7bbbXsL0tNsNtLNPo56.jpg",
 		"vote_average": 7.3,
 		"vote_count": 122,
+		"title": "X-Men",
+		"slug": "x-men",
 		"type": "tv",
 		"companies": [
 			{
@@ -3808,6 +3996,8 @@
 		"poster_path": "/tvd33sRfEEf4fBlyqxTI62wY9qF.jpg",
 		"vote_average": 6.9,
 		"vote_count": 7,
+		"title": "Thor & Loki: Blood Brothers",
+		"slug": "thor-and-loki-blood-brothers",
 		"type": "tv",
 		"companies": [
 			{
@@ -3836,6 +4026,8 @@
 		"poster_path": "/cXPQEgUEbDz5NERfBJxeKFqUGwa.jpg",
 		"vote_average": 6.5,
 		"vote_count": 52,
+		"title": "Wolverine",
+		"slug": "wolverine",
 		"type": "tv",
 		"companies": [
 			{
@@ -3862,6 +4054,8 @@
 		"poster_path": "/w10ClxT6uqnyxJZiMAx2ty9GkWu.jpg",
 		"vote_average": 6.8,
 		"vote_count": 10,
+		"title": "Iron Man: Extremis",
+		"slug": "iron-man-extremis",
 		"type": "tv",
 		"companies": [
 			{
@@ -3890,6 +4084,8 @@
 		"poster_path": "/zOTJT7JbzSrMBX2OCGPqUnkQA4y.jpg",
 		"vote_average": 7.2,
 		"vote_count": 59,
+		"title": "Iron Man",
+		"slug": "iron-man",
 		"type": "tv",
 		"companies": [
 			{
@@ -3915,6 +4111,7 @@
 		"video": false,
 		"vote_average": 6.8,
 		"vote_count": 6,
+		"slug": "astonishing-x-men-gifted",
 		"type": "movie",
 		"companies": [
 			{
@@ -3942,6 +4139,7 @@
 		"video": false,
 		"vote_average": 6.8,
 		"vote_count": 17930,
+		"slug": "iron-man-2",
 		"type": "movie",
 		"companies": [
 			{
@@ -3967,6 +4165,7 @@
 		"video": false,
 		"vote_average": 5.8,
 		"vote_count": 16,
+		"slug": "black-panther",
 		"type": "movie",
 		"companies": [
 			{
@@ -3994,6 +4193,8 @@
 		"poster_path": "/3ceDcLkeK3egaqg3AVnqpn6L638.jpg",
 		"vote_average": 7.1,
 		"vote_count": 16,
+		"title": "Black Panther",
+		"slug": "black-panther",
 		"type": "tv",
 		"companies": [
 			{
@@ -4021,6 +4222,8 @@
 		"poster_path": "/93pxdXPT8RC2pArLU3iQPGyQkAX.jpg",
 		"vote_average": 6.2,
 		"vote_count": 14,
+		"title": "Marvel Knights: Spider-Woman, Agent of S.W.O.R.D.",
+		"slug": "marvel-knights-spider-woman-agent-of-sword",
 		"type": "tv",
 		"companies": [
 			{
@@ -4049,6 +4252,8 @@
 		"poster_path": "/uwMIL8PR1jHpHQksIq7kzdeqg2A.jpg",
 		"vote_average": 7.6,
 		"vote_count": 97,
+		"title": "Iron Man: Armored Adventures",
+		"slug": "iron-man-armored-adventures",
 		"type": "tv",
 		"companies": [
 			{
@@ -4078,6 +4283,8 @@
 		"poster_path": "/zTADaqgnIhE9QZAnX6M9YVn5wsv.jpg",
 		"vote_average": 7.7,
 		"vote_count": 216,
+		"title": "Wolverine and the X-Men",
+		"slug": "wolverine-and-the-x-men",
 		"type": "tv",
 		"companies": [
 			{
@@ -4104,6 +4311,7 @@
 		"video": false,
 		"vote_average": 5.8,
 		"vote_count": 868,
+		"slug": "punisher-war-zone",
 		"type": "movie",
 		"companies": [
 			{
@@ -4131,6 +4339,7 @@
 		"video": false,
 		"vote_average": 6.2,
 		"vote_count": 9798,
+		"slug": "the-incredible-hulk",
 		"type": "movie",
 		"companies": [
 			{
@@ -4158,6 +4367,7 @@
 		"video": false,
 		"vote_average": 7.6,
 		"vote_count": 22743,
+		"slug": "iron-man",
 		"type": "movie",
 		"companies": [
 			{
@@ -4185,6 +4395,8 @@
 		"poster_path": "/dCNxOhXT7c4lqYuRpdM3m8s9XDp.jpg",
 		"vote_average": 8.7,
 		"vote_count": 568,
+		"title": "The Spectacular Spider-Man",
+		"slug": "the-spectacular-spider-man",
 		"type": "tv",
 		"companies": [
 			{
@@ -4213,6 +4425,7 @@
 		"video": false,
 		"vote_average": 5.6,
 		"vote_count": 6765,
+		"slug": "fantastic-four-rise-of-the-silver-surfer",
 		"type": "movie",
 		"companies": [
 			{
@@ -4238,6 +4451,7 @@
 		"video": false,
 		"vote_average": 6.5,
 		"vote_count": 6,
+		"slug": "jack-kirby-story-teller",
 		"type": "movie",
 		"companies": [
 			{
@@ -4265,6 +4479,7 @@
 		"video": false,
 		"vote_average": 6.4,
 		"vote_count": 11620,
+		"slug": "spider-man-3",
 		"type": "movie",
 		"companies": [
 			{
@@ -4292,6 +4507,7 @@
 		"video": false,
 		"vote_average": 5.5,
 		"vote_count": 4874,
+		"slug": "ghost-rider",
 		"type": "movie",
 		"companies": [
 			{
@@ -4319,6 +4535,8 @@
 		"poster_path": "/zCtCW0JlbMpzfQDAX1bO1o1KLi.jpg",
 		"vote_average": 7.5,
 		"vote_count": 63,
+		"title": "Fantastic Four: World's Greatest Heroes",
+		"slug": "fantastic-four-worlds-greatest-heroes",
 		"type": "tv",
 		"companies": [
 			{
@@ -4347,6 +4565,7 @@
 		"video": false,
 		"vote_average": 6.7,
 		"vote_count": 228,
+		"slug": "ultimate-avengers-2-rise-of-the-panther",
 		"type": "movie",
 		"companies": [
 			{
@@ -4376,6 +4595,8 @@
 		"poster_path": "/xthJ8MoYaJROntPHaI5mUrXd4Qs.jpg",
 		"vote_average": 6.6,
 		"vote_count": 20,
+		"title": "Blade: The Series",
+		"slug": "blade-the-series",
 		"type": "tv",
 		"companies": [
 			{
@@ -4404,6 +4625,7 @@
 		"video": false,
 		"vote_average": 5.8,
 		"vote_count": 8040,
+		"slug": "fantastic-four",
 		"type": "movie",
 		"companies": [
 			{
@@ -4431,6 +4653,7 @@
 		"video": false,
 		"vote_average": 4.3,
 		"vote_count": 137,
+		"slug": "man-thing",
 		"type": "movie",
 		"companies": [
 			{
@@ -4458,6 +4681,7 @@
 		"video": false,
 		"vote_average": 5,
 		"vote_count": 1961,
+		"slug": "elektra",
 		"type": "movie",
 		"companies": [
 			{
@@ -4485,6 +4709,7 @@
 		"video": false,
 		"vote_average": 5.9,
 		"vote_count": 3165,
+		"slug": "blade-trinity",
 		"type": "movie",
 		"companies": [
 			{
@@ -4512,6 +4737,7 @@
 		"video": false,
 		"vote_average": 7.2,
 		"vote_count": 12581,
+		"slug": "spider-man-2",
 		"type": "movie",
 		"companies": [
 			{
@@ -4539,6 +4765,7 @@
 		"video": false,
 		"vote_average": 6.3,
 		"vote_count": 2237,
+		"slug": "the-punisher",
 		"type": "movie",
 		"companies": [
 			{
@@ -4565,6 +4792,7 @@
 		"video": false,
 		"vote_average": 5.5,
 		"vote_count": 4788,
+		"slug": "hulk",
 		"type": "movie",
 		"companies": [
 			{
@@ -4591,6 +4819,7 @@
 		"video": false,
 		"vote_average": 5.2,
 		"vote_count": 4222,
+		"slug": "daredevil",
 		"type": "movie",
 		"companies": [
 			{
@@ -4617,6 +4846,7 @@
 		"video": false,
 		"vote_average": 7.2,
 		"vote_count": 15691,
+		"slug": "spider-man",
 		"type": "movie",
 		"companies": [
 			{
@@ -4645,6 +4875,7 @@
 		"video": false,
 		"vote_average": 6.5,
 		"vote_count": 3833,
+		"slug": "blade-ii",
 		"type": "movie",
 		"companies": [
 			{
@@ -4670,6 +4901,7 @@
 		"video": false,
 		"vote_average": 7.1,
 		"vote_count": 171,
+		"slug": "x-men-the-mutant-watch",
 		"type": "movie",
 		"companies": [
 			{
@@ -4699,6 +4931,8 @@
 		"poster_path": "/whZRsqrMYoigHoPRme1Pdsyf5UO.jpg",
 		"vote_average": 8,
 		"vote_count": 350,
+		"title": "X-Men: Evolution",
+		"slug": "x-men-evolution",
 		"type": "tv",
 		"companies": [
 			{
@@ -4725,6 +4959,8 @@
 		"poster_path": "/p2SrnKTQjLRXBCcTZtYkTZCwLpp.jpg",
 		"vote_average": 6.7,
 		"vote_count": 12,
+		"title": "The Avengers: United They Stand",
+		"slug": "the-avengers-united-they-stand",
 		"type": "tv",
 		"companies": [
 			{
@@ -4752,6 +4988,8 @@
 		"poster_path": "/fvmC5QzQwkI5ZNJauE4xpF24PTB.jpg",
 		"vote_average": 7.5,
 		"vote_count": 180,
+		"title": "Spider-Man Unlimited",
+		"slug": "spider-man-unlimited",
 		"type": "tv",
 		"companies": [
 			{
@@ -4778,6 +5016,7 @@
 		"video": false,
 		"vote_average": 6.7,
 		"vote_count": 4796,
+		"slug": "blade",
 		"type": "movie",
 		"companies": [
 			{
@@ -4805,6 +5044,7 @@
 		"video": false,
 		"vote_average": 4.6,
 		"vote_count": 56,
+		"slug": "nick-fury-agent-of-shield",
 		"type": "movie",
 		"companies": [
 			{
@@ -4833,6 +5073,8 @@
 		"poster_path": "/mBJTL4CRSoNkAQRmfwbiLTtviuW.jpg",
 		"vote_average": 7.6,
 		"vote_count": 47,
+		"title": "Silver Surfer",
+		"slug": "silver-surfer",
 		"type": "tv",
 		"companies": [
 			{
@@ -4861,6 +5103,8 @@
 		"poster_path": "/xqqZjLBUEOVAsXneUwITCuas9jL.jpg",
 		"vote_average": 6.6,
 		"vote_count": 44,
+		"title": "Fantastic Four",
+		"slug": "fantastic-four",
 		"type": "tv",
 		"companies": [
 			{
@@ -4888,6 +5132,7 @@
 		"video": false,
 		"vote_average": 4.6,
 		"vote_count": 326,
+		"slug": "captain-america",
 		"type": "movie",
 		"companies": [
 			{
@@ -4914,6 +5159,7 @@
 		"video": false,
 		"vote_average": 5.8,
 		"vote_count": 433,
+		"slug": "the-punisher",
 		"type": "movie",
 		"companies": [
 			{
@@ -4941,6 +5187,7 @@
 		"video": false,
 		"vote_average": 5.5,
 		"vote_count": 8,
+		"slug": "monster-of-frankenstein",
 		"type": "movie",
 		"companies": [
 			{
@@ -4968,6 +5215,7 @@
 		"video": false,
 		"vote_average": 7.7,
 		"vote_count": 3,
+		"slug": "battle-fever-j-the-movie",
 		"type": "movie",
 		"companies": [
 			{
@@ -4996,6 +5244,8 @@
 		"poster_path": "/g4HNifqEWTbrnNdT83038jKh7BM.jpg",
 		"vote_average": 7.2,
 		"vote_count": 93,
+		"title": "Spider-Man",
+		"slug": "spider-man",
 		"type": "tv",
 		"companies": [
 			{
@@ -5025,6 +5275,8 @@
 		"poster_path": "/n6eMF2lPQxiGmh2D612R5Tuxbzm.jpg",
 		"vote_average": 7.8,
 		"vote_count": 149,
+		"title": "Spider-Man",
+		"slug": "spider-man",
 		"type": "tv",
 		"companies": [
 			{
@@ -5052,6 +5304,8 @@
 		"poster_path": "/o2jhtGqOR3UAWg4wIBu21Ub4ecP.jpg",
 		"vote_average": 7.4,
 		"vote_count": 73,
+		"title": "Fantastic Four",
+		"slug": "fantastic-four",
 		"type": "tv",
 		"companies": [
 			{
