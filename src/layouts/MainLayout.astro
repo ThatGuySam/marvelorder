@@ -20,7 +20,7 @@ const githubEditUrl = CONFIG.GITHUB_EDIT_URL && CONFIG.GITHUB_EDIT_URL + current
 		<HeadSEO {content} canonicalURL={Astro.canonicalURL} />
 		<title>{content.title ? `${content.title} 🚀 ${CONFIG.SITE.title}` : CONFIG.SITE.title}</title>
 		<style>
-			body {
+			body.main-layout {
 				width: 100%;
 				display: grid;
 				grid-template-rows: var(--theme-navbar-height) 1fr;
@@ -103,7 +103,7 @@ const githubEditUrl = CONFIG.GITHUB_EDIT_URL && CONFIG.GITHUB_EDIT_URL + current
 		</style>
 	</head>
 
-	<body>
+	<body class="main-layout">
 		<Header {currentPage} />
 		<main class="layout">
 			<aside id="grid-left" class="grid-sidebar" title="Site Navigation">
