@@ -15,6 +15,11 @@ import matter from 'https://jspm.dev/gray-matter'
 
 import { TMDB_COMPANIES, storePath } from '../src/config.ts'
 import { byListingDate } from '../src/helpers/sort.ts'
+import { 
+    makeTMDbMarkdownSection, 
+    makeNewListingContents,
+    getPartsFromMarkdown
+} from '../src/helpers/markdown-page.ts'
 
 function makeSlug ( name ) {
     return slugify(name, {
@@ -100,32 +105,6 @@ async function fetchTitlesFromCompanies ( companies ) {
     return sortedTitles
 }
 
-const tmdbHeading = `## TMDB Data`
-
-function makeTMDbMarkdownSection ( listing ) {
-    const detailsJSON = JSON.stringify( listing, null, 4 )
-
-    return [
-        tmdbHeading, 
-        '```json',
-        detailsJSON,
-        '\n```'
-    ].join('\n')
-}
-
-async function makeNewListingContents ( listing ) {
-    const pageMeta = {
-        title: listing.title, 
-        slug: listing.slug, 
-        description: listing.overview, 
-        type: listing.type, 
-        layout: '../../layouts/MainLayout.astro',
-    }
-
-    const wrappedCode = makeTMDbMarkdownSection( listing )
-
-    return matter.stringify( wrappedCode, pageMeta )
-}
 
 async function saveTitlesAsMarkdown ( titles ) {
 
@@ -141,7 +120,7 @@ async function saveTitlesAsMarkdown ( titles ) {
             const decoder = new TextDecoder( 'utf-8' )
             const markdownContent = decoder.decode(await Deno.readFile( filePath ))
             // Split off and leave behind existing TMDb data
-            const [ existingContent ] = markdownContent.split( tmdbHeading )
+            const { existingContent } = getPartsFromMarkdown( markdownContent )
 
             // Merge in existing meta above the current TMDb data
             content = [
@@ -150,14 +129,18 @@ async function saveTitlesAsMarkdown ( titles ) {
             ].join('\n')
 
         } else {
-            content = await makeNewListingContents( listing )
+            const {
+                wrappedCode,
+                pageMeta
+            } = await makeNewListingContents( listing )
+
+            content = matter.stringify( wrappedCode, pageMeta )
         }
 
         await Deno.writeTextFile( filePath, content )
 
     }
 }
-
 
 ;(async () => {
 
