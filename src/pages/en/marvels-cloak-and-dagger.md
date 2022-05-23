@@ -23,6 +23,7 @@ companies:
   - name: Marvel Television
     id: '38679'
 title: Marvel's Cloak & Dagger
+slug: marvels-cloak-and-dagger
 description: >-
   Two teenagers from very different backgrounds awaken to newly acquired
   superpowers which mysteriously link them to one another.

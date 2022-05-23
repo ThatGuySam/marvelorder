@@ -24,6 +24,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: doctor-strange
 description: >-
   After his career is destroyed, a brilliant but arrogant surgeon gets a new
   lease on life when a sorcerer takes him under her wing and trains him to

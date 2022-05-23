@@ -26,6 +26,7 @@ companies:
   - name: Marvel Television
     id: '38679'
 title: Marvel's Agent Carter
+slug: marvels-agent-carter
 description: >-
   It's 1946, and peace has dealt Peggy Carter a serious blow as she finds
   herself marginalized when the men return home from fighting abroad. Working

@@ -22,6 +22,7 @@ companies:
   - name: Marvel Studios
     id: '420'
 title: 'Marvel Studios: Assembled'
+slug: marvel-studios-assembled
 description: >-
   Go behind the scenes of the shows and movies of the Marvel Cinematic Universe,
   following the filmmakers, cast and crew, and Marvel heroes every step of the

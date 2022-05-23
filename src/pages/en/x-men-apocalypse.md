@@ -23,6 +23,7 @@ type: movie
 companies:
   - name: Marvel Entertainment
     id: '7505'
+slug: x-men-apocalypse
 description: >-
   After the re-emergence of the world's first mutant, world-destroyer
   Apocalypse, the X-Men must unite to defeat his extinction level plan.

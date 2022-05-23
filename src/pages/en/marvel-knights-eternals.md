@@ -26,6 +26,7 @@ type: movie
 companies:
   - name: Marvel Knights
     id: '11106'
+slug: marvel-knights-eternals
 description: >-
   You are thousands of years old. You have amazing powers. You have watched
   civilizations rise and fall. So why does no one remember any of this?

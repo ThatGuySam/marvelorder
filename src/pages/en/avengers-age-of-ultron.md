@@ -26,6 +26,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: avengers-age-of-ultron
 description: >-
   When Tony Stark tries to jumpstart a dormant peacekeeping program, things go
   awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of

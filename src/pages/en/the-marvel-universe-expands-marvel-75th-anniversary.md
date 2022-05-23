@@ -18,6 +18,7 @@ type: movie
 companies:
   - name: Marvel Entertainment
     id: '7505'
+slug: the-marvel-universe-expands-marvel-75th-anniversary
 description: A documentary about some of Marvel's most famous characters.
 layout: ../../layouts/MainLayout.astro
 ---

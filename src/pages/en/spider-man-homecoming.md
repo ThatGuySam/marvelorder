@@ -25,6 +25,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: spider-man-homecoming
 description: >-
   Following the events of Captain America: Civil War, Peter Parker, with the
   help of his mentor Tony Stark, tries to balance his life as an ordinary high

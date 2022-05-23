@@ -20,6 +20,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: the-mutants
 description: Upcoming Marvel Studios film announced as in development at SDCC 2019.
 layout: ../../layouts/MainLayout.astro
 ---

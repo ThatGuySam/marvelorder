@@ -25,6 +25,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: black-widow
 description: >-
   Natasha Romanoff, also known as Black Widow, confronts the darker parts of her
   ledger when a dangerous conspiracy with ties to her past arises. Pursued by a

@@ -22,6 +22,7 @@ type: movie
 companies:
   - name: Marvel Enterprises
     id: '19551'
+slug: hulk
 description: >-
   Bruce Banner, a genetics researcher with a tragic past, suffers massive
   radiation exposure in his laboratory that causes him to transform into a

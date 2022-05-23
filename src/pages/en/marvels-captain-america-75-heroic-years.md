@@ -24,6 +24,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: marvels-captain-america-75-heroic-years
 description: >-
   A full-length documentary that follows the history of Captain America from
   1941 to present and explores how “Cap” has been a reflection of the changing

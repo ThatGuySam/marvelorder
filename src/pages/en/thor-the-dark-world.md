@@ -25,6 +25,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: thor-the-dark-world
 description: >-
   Thor fights to restore order across the cosmos… but an ancient race led by the
   vengeful Malekith returns to plunge the universe back into darkness. Faced

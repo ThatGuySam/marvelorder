@@ -23,6 +23,7 @@ companies:
   - name: Marvel Entertainment
     id: '7505'
 title: 'Marvel Disk Wars: The Avengers'
+slug: marvel-disk-wars-the-avengers
 description: >-
   A group of teenagers join forces with the Avengers, Earth's mightiest heroes,
   to fight against the tyrannical Loki and his mighty empire.

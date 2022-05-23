@@ -20,6 +20,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: black-panther-wakanda-forever
 description: The sequel to Black Panther (2018).
 layout: ../../layouts/MainLayout.astro
 ---

@@ -22,6 +22,7 @@ companies:
   - name: Marvel Entertainment
     id: '7505'
 title: Marvel's Rocket & Groot
+slug: marvels-rocket-and-groot
 description: >-
   Before becoming Guardians of the Galaxy, Rocket and Groot were bounty hunters
   trying to get a ship.

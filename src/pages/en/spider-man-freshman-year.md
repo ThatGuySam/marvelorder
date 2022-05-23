@@ -21,6 +21,7 @@ companies:
   - name: Marvel Studios
     id: '420'
 title: 'Spider-Man: Freshman Year'
+slug: spider-man-freshman-year
 description: >-
   Follow Peter Parker on his way to becoming Spider-Man in the MCU, with a
   journey unlike we've ever seen.

@@ -26,6 +26,7 @@ type: movie
 companies:
   - name: Marvel Enterprises
     id: '19551'
+slug: blade-trinity
 description: >-
   For years, Blade has fought against the vampires in the cover of the night.
   But now, after falling into the crosshairs of the FBI, he is forced out into

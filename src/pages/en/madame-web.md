@@ -19,6 +19,7 @@ type: movie
 companies:
   - name: Marvel Entertainment
     id: '7505'
+slug: madame-web
 description: A Madame Web movie set in Sony's Spider-Man Universe.
 layout: ../../layouts/MainLayout.astro
 ---

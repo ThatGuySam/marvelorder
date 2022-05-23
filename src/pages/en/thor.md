@@ -25,6 +25,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: thor
 description: >-
   Against his father Odin's will, The Mighty Thor - a powerful but arrogant
   warrior god - recklessly reignites an ancient war. Thor is cast down to Earth

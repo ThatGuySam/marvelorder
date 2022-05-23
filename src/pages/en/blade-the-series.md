@@ -28,6 +28,7 @@ companies:
   - name: Marvel Enterprises
     id: '19551'
 title: 'Blade: The Series'
+slug: blade-the-series
 description: >-
   Blade is a half-man, half-vampire who employs his extraordinary powers in a
   crusade to save mankind from the demonic creatures who walk the night. Set in

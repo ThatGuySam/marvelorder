@@ -24,6 +24,7 @@ type: movie
 companies:
   - name: Marvel Knights
     id: '11106'
+slug: astonishing-x-men-dangerous
 description: >-
   The tragic death of a student at the Xavier Institute reveals that a powerful
   enemy is working from inside the mansion to destroy the X-Men, an enemy who

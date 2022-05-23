@@ -20,6 +20,7 @@ companies:
   - name: Marvel Studios
     id: '420'
 title: 'Agatha: House of Harkness'
+slug: agatha-house-of-harkness
 description: Follows Agatha Harkness before her appearance in WandaVision.
 layout: ../../layouts/MainLayout.astro
 ---

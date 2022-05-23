@@ -26,6 +26,7 @@ companies:
   - name: Marvel Knights
     id: '11106'
 title: Black Panther
+slug: black-panther
 description: >-
   Deep in the heart of Africa lies Wakanda, an advanced and unconquerable
   civilization. A family of warrior kings possessing superior speed, strength

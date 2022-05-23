@@ -21,6 +21,7 @@ type: movie
 companies:
   - name: Marvel Entertainment
     id: '7505'
+slug: untitled-female-centered-marvel-film
 description: >-
   Described as a female-centric Marvel film rumored and teased by Wilde to
   follow Spider-Woman.

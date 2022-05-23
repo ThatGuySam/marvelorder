@@ -26,6 +26,7 @@ type: movie
 companies:
   - name: Marvel Enterprises
     id: '19551'
+slug: blade-ii
 description: >-
   A rare mutation has occurred within the vampire community - The Reaper. A
   vampire so consumed with an insatiable bloodlust that they prey on vampires as

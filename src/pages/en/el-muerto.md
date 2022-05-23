@@ -22,6 +22,7 @@ type: movie
 companies:
   - name: Marvel Entertainment
     id: '7505'
+slug: el-muerto
 description: >-
   A wrestler gains super strength thanks to a mystical mask that is passed down
   throughout his family.

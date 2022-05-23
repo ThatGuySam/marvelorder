@@ -31,6 +31,7 @@ type: movie
 companies:
   - name: Marvel Entertainment
     id: '7505'
+slug: battle-fever-j-the-movie
 description: >-
   Egos kidnaps the children of Information Supervisor Sakaguchi, Yoko and
   Kenichi. They then blackmail him into stealing the blueprints and completion

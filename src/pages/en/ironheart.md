@@ -22,6 +22,7 @@ companies:
   - name: Marvel Studios
     id: '420'
 title: Ironheart
+slug: ironheart
 description: >-
   Genius inventor Riri Williams creates the most advanced suit of armor since
   Iron Man and becomes Ironheart.

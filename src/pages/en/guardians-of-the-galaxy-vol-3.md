@@ -21,6 +21,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: guardians-of-the-galaxy-vol-3
 description: The third and final film in the Guardians of the Galaxy trilogy.
 layout: ../../layouts/MainLayout.astro
 ---

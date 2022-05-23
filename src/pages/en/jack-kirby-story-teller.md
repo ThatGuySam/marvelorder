@@ -21,6 +21,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: jack-kirby-story-teller
 description: >-
   A documentary on the life of Jack Kirby, co-creator of Captain America, The
   Fantastic Four, Iron Man, Thor, The Avengers, The Hulk, The X-Men and the New

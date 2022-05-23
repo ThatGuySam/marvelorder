@@ -30,6 +30,7 @@ type: movie
 companies:
   - name: Marvel Knights
     id: '11106'
+slug: wolverine-origin
 description: >-
   Wolverine is the best there is at what he does--although of course, what he
   does isn’t very nice. But long before he was a member of the X-Men, a

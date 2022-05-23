@@ -24,6 +24,7 @@ companies:
   - name: Marvel Enterprises
     id: '19551'
 title: 'The Avengers: United They Stand'
+slug: the-avengers-united-they-stand
 description: >-
   When the planet is threatened by Super Villains, time traveling conquerors,
   alien invaders, mythical monsters or mad robots bent on the total destruction

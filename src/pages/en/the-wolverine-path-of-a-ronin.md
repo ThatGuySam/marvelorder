@@ -23,6 +23,7 @@ type: movie
 companies:
   - name: Marvel Entertainment
     id: '7505'
+slug: the-wolverine-path-of-a-ronin
 description: >-
   A nice exploration of the samurai-ninja aspect of the story, including its
   roots in the actual Marvel comic books. There are the requisite interviews

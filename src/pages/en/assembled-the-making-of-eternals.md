@@ -23,6 +23,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: assembled-the-making-of-eternals
 description: >-
   Join director Chloe Zhao and the Cast of Eternals as they recount their
   experiences during the making of Marvel Studios’ most ambitious film to date.

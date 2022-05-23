@@ -23,6 +23,7 @@ companies:
   - name: Marvel Entertainment
     id: '7505'
 title: 'Fantastic Four: World''s Greatest Heroes'
+slug: fantastic-four-worlds-greatest-heroes
 description: >-
   Mister Fantastic, the Invisible Woman, the Human Torch, and Thing battle some
   of their greatest foes, including Doctor Doom, Ronan the Accuser, the Multiple

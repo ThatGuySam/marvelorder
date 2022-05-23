@@ -26,6 +26,7 @@ type: movie
 companies:
   - name: Marvel Entertainment
     id: '7505'
+slug: lego-marvel-super-heroes-black-panther-trouble-in-wakanda
 description: >-
   After speaking at the Wakanda Embassy, Black Panther fights Thanos and fends
   him off with the help of fellow Avengers Captain America, Thor, Iron Man,

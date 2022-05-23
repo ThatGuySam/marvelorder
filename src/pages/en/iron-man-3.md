@@ -22,6 +22,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: iron-man-3
 description: >-
   When Tony Stark's world is torn apart by a formidable terrorist called the
   Mandarin, he starts an odyssey of rebuilding and retribution.

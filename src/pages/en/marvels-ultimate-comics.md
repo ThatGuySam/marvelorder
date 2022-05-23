@@ -25,6 +25,7 @@ companies:
   - name: Marvel Television
     id: '38679'
 title: Marvel's Ultimate Comics
+slug: marvels-ultimate-comics
 description: >-
   After Spider-Man stops some crooks from robbing a Stark Enterprises facility,
   Iron Man decides to pay him back with some on the job training. His plan goes

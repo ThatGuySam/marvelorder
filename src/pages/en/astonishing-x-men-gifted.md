@@ -22,6 +22,7 @@ type: movie
 companies:
   - name: Marvel Knights
     id: '11106'
+slug: astonishing-x-men-gifted
 description: >-
   Cyclops and Emma Frost re-form the X-Men with the express purpose of
   "astonishing" the world. But when breaking news regarding a cure to the mutant

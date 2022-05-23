@@ -20,6 +20,7 @@ companies:
   - name: Marvel Studios
     id: '420'
 title: Untitled Wakanda Series
+slug: untitled-wakanda-series
 description: Upcoming Marvel Cinematic Universe series set in the Kingdom of Wakanda.
 layout: ../../layouts/MainLayout.astro
 ---

@@ -21,6 +21,7 @@ companies:
   - name: Marvel Studios
     id: '420'
 title: I Am Groot
+slug: i-am-groot
 description: >-
   Everyone’s favorite little tree, Baby Groot, stars in a series of shorts
   featuring several new and unusual characters.

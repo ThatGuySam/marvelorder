@@ -26,6 +26,7 @@ companies:
   - name: Marvel Studios
     id: '420'
 title: Loki
+slug: loki
 description: >-
   After stealing the Tesseract during the events of “Avengers: Endgame,” an
   alternate version of Loki is brought to the mysterious Time Variance

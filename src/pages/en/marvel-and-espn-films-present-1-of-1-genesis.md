@@ -20,6 +20,7 @@ type: movie
 companies:
   - name: Marvel Entertainment
     id: '7505'
+slug: marvel-and-espn-films-present-1-of-1-genesis
 description: >-
   This documentary explores the connections between elite athletes and Marvel
   superheros such as Spider Man, Black Widow and Captain America.

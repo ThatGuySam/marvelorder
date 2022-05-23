@@ -23,6 +23,7 @@ type: movie
 companies:
   - name: Marvel Enterprises
     id: '19551'
+slug: elektra
 description: >-
   Elektra the warrior survives a near-death experience, becomes an
   assassin-for-hire, and tries to protect her two latest targets, a single

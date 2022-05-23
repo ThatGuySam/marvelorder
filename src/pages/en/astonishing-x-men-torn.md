@@ -26,6 +26,7 @@ type: movie
 companies:
   - name: Marvel Knights
     id: '11106'
+slug: astonishing-x-men-torn
 description: >-
   They're back! The chart-topping super-team of Joss Whedon and John Cassaday
   return for more Astonshing X-Men! If you thought their past efforts were full

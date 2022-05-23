@@ -23,6 +23,7 @@ companies:
   - name: Marvel Entertainment
     id: '7505'
 title: Silver Surfer
+slug: silver-surfer
 description: >-
   The adventures of the cosmic wanderer as he seeks his lost home after
   rebelling from his master.

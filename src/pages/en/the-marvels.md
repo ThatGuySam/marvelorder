@@ -20,6 +20,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: the-marvels
 description: The sequel to Captain Marvel (2019).
 layout: ../../layouts/MainLayout.astro
 ---

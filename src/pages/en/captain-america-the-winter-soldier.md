@@ -30,6 +30,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: captain-america-the-winter-soldier
 description: >-
   After the cataclysmic events in New York with The Avengers, Steve Rogers, aka
   Captain America is living quietly in Washington, D.C. and trying to adjust to

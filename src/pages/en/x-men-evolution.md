@@ -24,6 +24,7 @@ companies:
   - name: Marvel Studios
     id: '420'
 title: 'X-Men: Evolution'
+slug: x-men-evolution
 description: >-
   Teenagers Cyclops, Jean Grey, Rogue, Nightcrawler, Shadowcat, and Spike fight
   for a world that fears and hates them.

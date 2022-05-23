@@ -21,6 +21,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: captain-america-4
 description: >-
   A sequel to Marvel Studios' The Falcon and the Winter Soldier and follows Sam
   Wilson as the new Captain America.

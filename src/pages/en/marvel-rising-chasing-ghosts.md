@@ -23,6 +23,7 @@ type: movie
 companies:
   - name: Marvel Television
     id: '38679'
+slug: marvel-rising-chasing-ghosts
 description: >-
   Hot on the trails of Sheath and Exile, Ghost-Spider teams up with the rest of
   the Secret Warriors to bring down the villains for good.

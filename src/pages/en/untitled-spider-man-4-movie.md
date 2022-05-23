@@ -17,6 +17,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: untitled-spider-man-4-movie
 description: ''
 layout: ../../layouts/MainLayout.astro
 ---

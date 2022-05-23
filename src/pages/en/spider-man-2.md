@@ -26,6 +26,7 @@ type: movie
 companies:
   - name: Marvel Enterprises
     id: '19551'
+slug: spider-man-2
 description: >-
   Peter Parker is going through a major identity crisis. Burned out from being
   Spider-Man, he decides to shelve his superhero alter ego, which leaves the

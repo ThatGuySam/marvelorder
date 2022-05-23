@@ -26,6 +26,7 @@ type: movie
 companies:
   - name: Marvel Enterprises
     id: '19551'
+slug: ultimate-avengers-2-rise-of-the-panther
 description: >-
   Mysterious Wakanda lies in the darkest heart of Africa, unknown to most of the
   world. An isolated land hidden behind closed borders, fiercely protected by

@@ -25,6 +25,7 @@ companies:
   - name: Marvel Studios
     id: '420'
 title: Wolverine and the X-Men
+slug: wolverine-and-the-x-men
 description: >-
   Wolverine and the X-Men must join together again to not only battle the
   increasingly powerful Mutant Response Division, but also to prevent a

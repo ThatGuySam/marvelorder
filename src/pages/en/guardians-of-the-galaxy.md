@@ -23,6 +23,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: guardians-of-the-galaxy
 description: >-
   Light years from Earth, 26 years after being abducted, Peter Quill finds
   himself the prime target of a manhunt after discovering an orb wanted by Ronan

@@ -24,6 +24,7 @@ companies:
   - name: Marvel Television
     id: '38679'
 title: Marvel's Hit-Monkey
+slug: marvels-hit-monkey
 description: >-
   A Japanese snow macaque's clan meets a stranded hitman, Bryce, and nurses him
   back to health. But when Bryce bites the dust, it's up to the titular simian

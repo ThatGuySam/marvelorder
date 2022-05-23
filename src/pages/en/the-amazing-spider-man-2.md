@@ -27,6 +27,7 @@ type: movie
 companies:
   - name: Marvel Entertainment
     id: '7505'
+slug: the-amazing-spider-man-2
 description: >-
   For Peter Parker, life is busy. Between taking out the bad guys as Spider-Man
   and spending time with the person he loves, Gwen Stacy, high school graduation

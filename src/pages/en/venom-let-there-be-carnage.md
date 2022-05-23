@@ -23,6 +23,7 @@ type: movie
 companies:
   - name: Marvel Entertainment
     id: '7505'
+slug: venom-let-there-be-carnage
 description: >-
   After finding a host body in investigative reporter Eddie Brock, the alien
   symbiote must face a new enemy, Carnage, the alter ego of serial killer Cletus

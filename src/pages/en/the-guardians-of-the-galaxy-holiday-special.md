@@ -23,6 +23,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: the-guardians-of-the-galaxy-holiday-special
 description: >-
   Before Star-Lord, Gamora, Drax, Rocket, Mantis and Groot hit the big screen
   with the next Guardians of the Galaxy film in 2023, watch the Guardians engage

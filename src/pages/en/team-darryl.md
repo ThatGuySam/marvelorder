@@ -24,6 +24,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: team-darryl
 description: >-
   Fresh off being unseated as the ruler of Sakaar, the Grandmaster makes his way
   to Earth to start a new life. It's been over a year since Thor left Australia

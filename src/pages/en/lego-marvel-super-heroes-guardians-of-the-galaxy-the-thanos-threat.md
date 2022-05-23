@@ -22,6 +22,7 @@ type: movie
 companies:
   - name: Marvel Entertainment
     id: '7505'
+slug: lego-marvel-super-heroes-guardians-of-the-galaxy-the-thanos-threat
 description: >-
   The Guardians are on a mission to deliver the Build Stone to the Avengers
   before the Ravagers, Thanos and his underlings steal it from them.

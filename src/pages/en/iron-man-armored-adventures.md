@@ -40,6 +40,7 @@ companies:
   - name: Marvel Entertainment
     id: '7505'
 title: 'Iron Man: Armored Adventures'
+slug: iron-man-armored-adventures
 description: >-
   Iron Man: Armored Adventures is a 3D CGI cartoon series based on the Marvel
   Comics superhero Iron Man. It debuted in the USA on the Nicktoons on April 24,

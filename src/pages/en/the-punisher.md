@@ -26,6 +26,7 @@ type: movie
 companies:
   - name: Marvel Entertainment
     id: '7505'
+slug: the-punisher
 description: >-
   The avenging angel of Marvel Comics fame comes brilliantly to life in this
   searing action-adventure thriller! Dolph Lundgren stars as Frank Castle, a

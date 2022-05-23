@@ -25,6 +25,7 @@ companies:
   - name: Marvel Entertainment
     id: '7505'
 title: The Spectacular Spider-Man
+slug: the-spectacular-spider-man
 description: >-
   The 10th television series about Spider-Man picks up the original
   web-slinger's mythology at the beginning of his hero's journey, as a not so

@@ -21,6 +21,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: marvel-one-shot-a-funny-thing-happened-on-the-way-to-thors-hammer
 description: >-
   Agent Coulson stops at a convenience store and deals with a coincidental
   robbery during his visit.

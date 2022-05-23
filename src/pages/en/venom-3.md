@@ -22,6 +22,7 @@ type: movie
 companies:
   - name: Marvel Entertainment
     id: '7505'
+slug: venom-3
 description: >-
   The third entry in the Venom trilogy confirmed to be in development by Amy
   Pascal.

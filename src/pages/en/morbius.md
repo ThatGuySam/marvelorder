@@ -24,6 +24,7 @@ type: movie
 companies:
   - name: Marvel Entertainment
     id: '7505'
+slug: morbius
 description: >-
   Dangerously ill with a rare blood disorder, and determined to save others
   suffering his same fate, Dr. Michael Morbius attempts a desperate gamble. What

@@ -27,6 +27,7 @@ companies:
   - name: Marvel Studios
     id: '420'
 title: Moon Knight
+slug: moon-knight
 description: >-
   When Steven Grant, a mild-mannered gift-shop employee, becomes plagued with
   blackouts and memories of another life, he discovers he has dissociative

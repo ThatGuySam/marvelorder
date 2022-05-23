@@ -22,6 +22,7 @@ type: movie
 companies:
   - name: Marvel Entertainment
     id: '7505'
+slug: marvels-behind-the-mask
 description: >-
   A documentary special that explores the power of identity behind the iconic
   superheroes we know and love today. These legendary Marvel creations and

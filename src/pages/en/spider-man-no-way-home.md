@@ -24,6 +24,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: spider-man-no-way-home
 description: >-
   Peter Parker is unmasked and no longer able to separate his normal life from
   the high-stakes of being a super-hero. When he asks for help from Doctor

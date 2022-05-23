@@ -24,6 +24,7 @@ companies:
   - name: Marvel Television
     id: '38679'
 title: Marvel's Daredevil
+slug: marvels-daredevil
 description: >-
   Lawyer-by-day Matt Murdock uses his heightened senses from being blinded as a
   young boy to fight crime at night on the streets of Hell’s Kitchen as

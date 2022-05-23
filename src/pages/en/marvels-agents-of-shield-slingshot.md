@@ -26,6 +26,7 @@ companies:
   - name: Marvel Television
     id: '38679'
 title: 'Marvel''s Agents of S.H.I.E.L.D.: Slingshot'
+slug: marvels-agents-of-shield-slingshot
 description: >-
   Elena "Yo-Yo" Rodriguez, an Inhuman with the ability to move at super-speed,
   is required to sign the Sokovia Accords. However, the restrictions of the

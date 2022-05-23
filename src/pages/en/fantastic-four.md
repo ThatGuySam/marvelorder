@@ -20,6 +20,7 @@ companies:
   - name: Marvel Enterprises
     id: '19551'
 title: Fantastic Four
+slug: fantastic-four
 description: The first animated series based on Marvel's comic book series Fantastic Four.
 layout: ../../layouts/MainLayout.astro
 ---

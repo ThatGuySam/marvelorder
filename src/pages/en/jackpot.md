@@ -19,6 +19,7 @@ type: movie
 companies:
   - name: Marvel Entertainment
     id: '7505'
+slug: jackpot
 description: A film based on the Marvel superheroine.
 layout: ../../layouts/MainLayout.astro
 ---

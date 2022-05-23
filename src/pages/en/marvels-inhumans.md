@@ -25,6 +25,7 @@ companies:
   - name: Marvel Television
     id: '38679'
 title: Marvel's Inhumans
+slug: marvels-inhumans
 description: >-
   After the Royal Family of Inhumans is splintered by a military coup, they
   barely escape to Hawaii where their surprising interactions with the lush

@@ -19,6 +19,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: deadpool-3
 description: ''
 layout: ../../layouts/MainLayout.astro
 ---

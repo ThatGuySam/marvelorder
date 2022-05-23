@@ -21,6 +21,7 @@ type: movie
 companies:
   - name: Marvel Enterprises
     id: '19551'
+slug: daredevil
 description: >-
   A man blinded in a childhood accident fights crime using his
   superhumanly-elevated remaining senses.

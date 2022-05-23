@@ -18,6 +18,7 @@ companies:
   - name: Marvel Studios
     id: '420'
 title: Untitled Destin Daniel Cretton Disney+ series
+slug: untitled-destin-daniel-cretton-disney-series
 description: ''
 layout: ../../layouts/MainLayout.astro
 ---

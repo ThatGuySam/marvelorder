@@ -24,6 +24,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: captain-marvel
 description: >-
   The story follows Carol Danvers as she becomes one of the universe’s most
   powerful heroes when Earth is caught in the middle of a galactic war between

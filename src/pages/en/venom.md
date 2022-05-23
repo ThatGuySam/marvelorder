@@ -23,6 +23,7 @@ type: movie
 companies:
   - name: Marvel Entertainment
     id: '7505'
+slug: venom
 description: >-
   Investigative journalist Eddie Brock attempts a comeback following a scandal,
   but accidentally becomes the host of Venom, a violent, super powerful alien

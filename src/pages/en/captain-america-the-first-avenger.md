@@ -25,6 +25,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: captain-america-the-first-avenger
 description: >-
   During World War II, Steve Rogers is a sickly man from Brooklyn who's
   transformed into super-soldier Captain America to aid in the war effort.

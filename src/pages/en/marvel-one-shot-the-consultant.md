@@ -25,6 +25,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: marvel-one-shot-the-consultant
 description: >-
   Agent Coulson informs Agent Sitwell that the World Security Council wishes
   Emil Blonsky to be released from prison to join the Avengers Initiative. As

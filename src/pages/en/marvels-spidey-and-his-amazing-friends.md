@@ -24,6 +24,7 @@ companies:
   - name: Marvel Entertainment
     id: '7505'
 title: Marvel's Spidey and His Amazing Friends
+slug: marvels-spidey-and-his-amazing-friends
 description: >-
   Follow Peter Parker, Gwen Stacy and Miles Morales and their adventures as the
   young heroes team up with Hulk, Ms. Marvel and Black Panther to defeat foes

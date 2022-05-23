@@ -23,6 +23,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: marvel-studios-assembled-the-making-of-moon-knight
 description: >-
   Join the likes of Oscar Isaac and Ethan Hawke as they reveal how Marvel
   Studios' Moon Knight was painstakingly brought to life. Through insightful

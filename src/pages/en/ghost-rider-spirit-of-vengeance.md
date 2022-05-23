@@ -24,6 +24,7 @@ type: movie
 companies:
   - name: Marvel Knights
     id: '11106'
+slug: ghost-rider-spirit-of-vengeance
 description: >-
   When the devil resurfaces with aims to take over the world in human form,
   Johnny Blaze reluctantly comes out of hiding to transform into the

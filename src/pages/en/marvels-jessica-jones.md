@@ -23,6 +23,7 @@ companies:
   - name: Marvel Television
     id: '38679'
 title: Marvel's Jessica Jones
+slug: marvels-jessica-jones
 description: >-
   After a tragic ending to her short-lived super hero stint, Jessica Jones is
   rebuilding her personal life and career as a detective who gets pulled into

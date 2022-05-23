@@ -24,6 +24,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: assembled-the-making-of-hawkeye
 description: >-
   Join the likes of Jeremy Renner, Hailee Steinfeld, Florence Pugh, and Vincent
   D’Onofrio as they reveal how Marvel Studios’ “Hawkeye” was conceived and

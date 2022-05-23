@@ -19,6 +19,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: secret-invasion
 description: >-
   Fury and Talos try to stop the Skrulls who have infiltrated the highest
   spheres of the Marvel Universe.

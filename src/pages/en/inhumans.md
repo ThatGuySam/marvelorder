@@ -28,6 +28,7 @@ type: movie
 companies:
   - name: Marvel Knights
     id: '11106'
+slug: inhumans
 description: >-
   The Inhumans have always been one of Marvel’s most enduring oddities. A race
   of genetic freaks, they live secluded in their island kingdom of Attilan,

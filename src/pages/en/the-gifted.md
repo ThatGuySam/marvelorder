@@ -25,6 +25,7 @@ companies:
   - name: Marvel Television
     id: '38679'
 title: The Gifted
+slug: the-gifted
 description: >-
   A suburban couple's ordinary lives are rocked by the sudden discovery that
   their children possess mutant powers. Forced to go on the run from a hostile

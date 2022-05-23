@@ -29,6 +29,7 @@ type: movie
 companies:
   - name: Marvel Entertainment
     id: '7505'
+slug: the-amazing-spider-man
 description: >-
   Peter Parker is an outcast high schooler abandoned by his parents as a boy,
   leaving him to be raised by his Uncle Ben and Aunt May. Like most teenagers,

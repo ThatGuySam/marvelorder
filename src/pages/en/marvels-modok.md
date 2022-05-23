@@ -26,6 +26,7 @@ companies:
   - name: Marvel Television
     id: '38679'
 title: Marvel's M.O.D.O.K.
+slug: marvels-modok
 description: >-
   The megalomaniacal supervillain M.O.D.O.K. has long pursued his dream of one
   day conquering the world. But after years of setbacks and failures fighting

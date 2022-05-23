@@ -24,6 +24,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: marvel-one-shot-agent-carter
 description: >-
   The film takes place one year after the events of Captain America: The First
   Avenger, in which Agent Carter, a member of the Strategic Scientific Reserve,

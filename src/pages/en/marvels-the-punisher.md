@@ -23,6 +23,7 @@ companies:
   - name: Marvel Television
     id: '38679'
 title: Marvel's The Punisher
+slug: marvels-the-punisher
 description: >-
   A former Marine out to punish the criminals responsible for his family's
   murder finds himself ensnared in a military conspiracy.

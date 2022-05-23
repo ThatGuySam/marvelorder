@@ -25,6 +25,7 @@ type: movie
 companies:
   - name: Marvel Enterprises
     id: '19551'
+slug: nick-fury-agent-of-shield
 description: >-
   Marvel's hard-boiled hero is brought back to fight the menace of Hydra after
   exiling himself in the Yukon since the end of the Cold War. The children of

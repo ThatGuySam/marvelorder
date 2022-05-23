@@ -22,6 +22,7 @@ type: movie
 companies:
   - name: Marvel Entertainment
     id: '7505'
+slug: once-upon-a-deadpool
 description: >-
   A kidnapped Fred Savage is forced to endure Deadpool's PG-13 rendition of
   Deadpool 2 as a Princess Bride-esque story that's full of magic, wonder & zero

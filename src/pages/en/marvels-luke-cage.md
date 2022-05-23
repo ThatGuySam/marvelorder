@@ -24,6 +24,7 @@ companies:
   - name: Marvel Television
     id: '38679'
 title: Marvel's Luke Cage
+slug: marvels-luke-cage
 description: >-
   Given superstrength and durability by a sabotaged experiment, a wrongly
   accused man escapes prison to become a superhero for hire.

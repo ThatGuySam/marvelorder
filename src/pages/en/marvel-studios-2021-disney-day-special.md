@@ -18,6 +18,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: marvel-studios-2021-disney-day-special
 description: 'Explore the Disney+ series of the MCU—past, present and future.'
 layout: ../../layouts/MainLayout.astro
 ---

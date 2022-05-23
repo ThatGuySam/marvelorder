@@ -25,6 +25,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: avengers-endgame
 description: >-
   After the devastating events of Avengers: Infinity War, the universe is in
   ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining

@@ -24,6 +24,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: spider-man-far-from-home
 description: >-
   Peter Parker and his friends go on a summer trip to Europe. However, they will
   hardly be able to rest - Peter will have to agree to help Nick Fury uncover

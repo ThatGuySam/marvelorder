@@ -24,6 +24,7 @@ type: movie
 companies:
   - name: Marvel Entertainment
     id: '7505'
+slug: the-new-mutants
 description: >-
   Five young mutants, just discovering their abilities while held in a secret
   facility against their will, fight to escape their past sins and save

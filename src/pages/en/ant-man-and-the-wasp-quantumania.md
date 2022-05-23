@@ -20,6 +20,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: ant-man-and-the-wasp-quantumania
 description: The third film in the Marvel Studios' Ant-Man trilogy.
 layout: ../../layouts/MainLayout.astro
 ---

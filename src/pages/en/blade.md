@@ -21,6 +21,7 @@ type: movie
 companies:
   - name: Marvel Entertainment
     id: '7505'
+slug: blade
 description: >-
   The Daywalker known as "Blade" - a half-vampire, half-mortal man - becomes the
   protector of humanity against an underground army of vampires.

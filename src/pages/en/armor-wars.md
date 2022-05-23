@@ -21,6 +21,7 @@ companies:
   - name: Marvel Studios
     id: '420'
 title: Armor Wars
+slug: armor-wars
 description: >-
   James Rhodes aka War Machine faces the consequences of Tony Stark's worst fear
   coming true: what happens when his tech falls into the wrong hands?

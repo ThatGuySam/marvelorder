@@ -27,6 +27,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: avengers-infinity-war
 description: >-
   As the Avengers and their allies have continued to protect the world from
   threats too large for any one hero to handle, a new danger has emerged from

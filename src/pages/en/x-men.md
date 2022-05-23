@@ -25,6 +25,7 @@ companies:
   - name: Marvel Entertainment
     id: '7505'
 title: X-Men
+slug: x-men
 description: >-
   X-Men, still grieving over the death of Phoenix (Jean Grey), are investigating
   a case of a missing mutant girl in Northern Japan. This leads them to a

@@ -24,6 +24,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: eternals
 description: >-
   The Eternals are a team of ancient aliens who have been living on Earth in
   secret for thousands of years. When an unexpected tragedy forces them out of

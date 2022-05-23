@@ -26,6 +26,7 @@ companies:
   - name: Marvel Studios
     id: '420'
 title: 'Marvel Studios: Legends'
+slug: marvel-studios-legends
 description: >-
   Revisit the epic heroes, villains and moments from across the MCU in
   preparation for the stories still to come. Each dynamic segment feeds directly

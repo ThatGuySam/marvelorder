@@ -22,6 +22,7 @@ type: movie
 companies:
   - name: Marvel Entertainment
     id: '7505'
+slug: marvel-studios-assembling-a-universe
 description: >-
   A look at the story behind Marvel Studios and the Marvel Cinematic Universe,
   featuring interviews and behind-the-scenes footage from all of the Marvel

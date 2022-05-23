@@ -26,6 +26,7 @@ type: movie
 companies:
   - name: Marvel Entertainment
     id: '7505'
+slug: monster-of-frankenstein
 description: >-
   The film centers around the life of Victor Frankenstein. After creating the
   monster together with his partner Zuckel, the monster attacks the assistant

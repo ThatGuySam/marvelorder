@@ -25,6 +25,7 @@ companies:
   - name: Marvel Studios
     id: '420'
 title: Ms. Marvel
+slug: ms-marvel
 description: >-
   A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a
   special affinity for superheroes, particularly Captain Marvel. However, she

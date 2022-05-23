@@ -22,6 +22,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: untitled-marvel-halloween-special
 description: >-
   A Marvel Halloween special for Disney+ based around the character Werewolf by
   Night.

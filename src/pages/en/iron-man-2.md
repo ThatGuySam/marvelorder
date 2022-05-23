@@ -25,6 +25,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: iron-man-2
 description: >-
   With the world now aware of his dual life as the armored superhero Iron Man,
   billionaire inventor Tony Stark faces pressure from the government, the press

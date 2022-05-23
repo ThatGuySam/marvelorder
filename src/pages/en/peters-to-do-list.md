@@ -22,6 +22,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: peters-to-do-list
 description: >-
   On the eve of his departure to Europe, Peter Parker tells Ned Leeds that he
   has several things to do before they leave.

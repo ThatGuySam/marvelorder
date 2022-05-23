@@ -21,6 +21,7 @@ companies:
   - name: Marvel Knights
     id: '11106'
 title: 'Iron Man: Extremis'
+slug: iron-man-extremis
 description: >-
   An experimental serum called Extremis gets stolen, and Iron Man rockets into
   action. The ensuing battles test Stark's spirit and Iron Man's power.

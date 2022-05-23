@@ -24,6 +24,7 @@ type: movie
 companies:
   - name: Marvel Entertainment
     id: '7505'
+slug: x-men-days-of-future-past
 description: >-
   The ultimate X-Men ensemble fights a war for the survival of the species
   across two time periods as they join forces with their younger selves in an

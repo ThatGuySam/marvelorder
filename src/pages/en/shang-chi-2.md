@@ -19,6 +19,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: shang-chi-2
 description: Sequel to the 2021 film “Shang-Chi and the Legend of the Ten Rings”.
 layout: ../../layouts/MainLayout.astro
 ---

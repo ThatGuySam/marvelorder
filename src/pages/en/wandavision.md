@@ -23,6 +23,7 @@ companies:
   - name: Marvel Studios
     id: '420'
 title: WandaVision
+slug: wandavision
 description: >-
   Wanda Maximoff and Vision—two super-powered beings living idealized suburban
   lives—begin to suspect that everything is not as it seems.

@@ -25,6 +25,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: ghost-rider
 description: >-
   In order to save his dying father, young stunt cyclist Johnny Blaze sells his
   soul to Mephistopheles and sadly parts from the pure-hearted Roxanne Simpson,

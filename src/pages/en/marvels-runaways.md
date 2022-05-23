@@ -25,6 +25,7 @@ companies:
   - name: Marvel Television
     id: '38679'
 title: Marvel's Runaways
+slug: marvels-runaways
 description: >-
   Every teenager thinks their parents are evil. What if you found out they
   actually were? Six diverse teenagers who can barely stand each other must

@@ -25,6 +25,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: thor-ragnarok
 description: >-
   Thor is imprisoned on the other side of the universe and finds himself in a
   race against time to get back to Asgard to stop Ragnarok, the destruction of

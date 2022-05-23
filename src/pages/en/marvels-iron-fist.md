@@ -23,6 +23,7 @@ companies:
   - name: Marvel Television
     id: '38679'
 title: Marvel's Iron Fist
+slug: marvels-iron-fist
 description: >-
   Danny Rand resurfaces 15 years after being presumed dead. Now, with the power
   of the Iron Fist, he seeks to reclaim his past and fulfill his destiny.

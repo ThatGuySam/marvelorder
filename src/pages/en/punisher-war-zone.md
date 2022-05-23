@@ -26,6 +26,7 @@ type: movie
 companies:
   - name: Marvel Knights
     id: '11106'
+slug: punisher-war-zone
 description: >-
   Waging his one-man war on the world of organized crime, ruthless
   vigilante-hero Frank Castle sets his sights on overeager mob boss Billy

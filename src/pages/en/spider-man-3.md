@@ -24,6 +24,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: spider-man-3
 description: >-
   The seemingly invincible Spider-Man goes up against an all-new crop of
   villains—including the shape-shifting Sandman. While Spider-Man’s superpowers

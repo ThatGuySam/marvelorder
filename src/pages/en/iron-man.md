@@ -22,6 +22,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: iron-man
 description: >-
   After being held captive in an Afghan cave, billionaire engineer Tony Stark
   creates a unique weaponized suit of armor to fight evil.

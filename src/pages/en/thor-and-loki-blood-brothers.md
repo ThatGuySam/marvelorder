@@ -25,6 +25,7 @@ companies:
   - name: Marvel Knights
     id: '11106'
 title: 'Thor & Loki: Blood Brothers'
+slug: thor-and-loki-blood-brothers
 description: >-
   Inspired by the acclaimed graphic novel from Robert Rodi and Esad Ribic,
   Marvel Knights Animation's "Thor & Loki: Blood Brothers" takes a powerful look

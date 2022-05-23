@@ -24,6 +24,7 @@ companies:
   - name: Marvel Studios
     id: '420'
 title: The Falcon and the Winter Soldier
+slug: the-falcon-and-the-winter-soldier
 description: >-
   Following the events of “Avengers: Endgame”, the Falcon, Sam Wilson and the
   Winter Soldier, Bucky Barnes team up in a global adventure that tests their

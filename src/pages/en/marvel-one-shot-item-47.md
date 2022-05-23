@@ -22,6 +22,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: marvel-one-shot-item-47
 description: >-
   Benny and Claire, a down on their luck couple find a discarded Chitauri gun,
   referred to as 'Item 47'...

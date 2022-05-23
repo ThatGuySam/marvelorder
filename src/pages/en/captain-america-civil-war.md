@@ -24,6 +24,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: captain-america-civil-war
 description: >-
   Following the events of Age of Ultron, the collective governments of the world
   pass an act designed to regulate all superhuman activity. This polarizes

@@ -22,6 +22,7 @@ companies:
   - name: Marvel Studios
     id: '420'
 title: Marvel Zombies
+slug: marvel-zombies
 description: >-
   The Marvel Universe is reimagined as a new generation of heroes battle against
   an ever-spreading zombie scourge.

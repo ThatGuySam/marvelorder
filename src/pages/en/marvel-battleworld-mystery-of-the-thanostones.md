@@ -23,6 +23,7 @@ companies:
   - name: Marvel Entertainment
     id: '7505'
 title: 'Marvel Battleworld: Mystery of the Thanostones'
+slug: marvel-battleworld-mystery-of-the-thanostones
 description: >-
   Can Iron Man and this rag-tag group - Captain Marvel, Spider-Ham, Groot, and
   Throg - figure out what the Mad Titan Thanos wants and why they've been

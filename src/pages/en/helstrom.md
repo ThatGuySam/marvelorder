@@ -24,6 +24,7 @@ companies:
   - name: Marvel Television
     id: '38679'
 title: Helstrom
+slug: helstrom
 description: >-
   Daimon and Ana Helstrom are the son and daughter of a mysterious and powerful
   serial killer. The siblings have a complicated dynamic as they track down the

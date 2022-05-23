@@ -22,6 +22,7 @@ type: movie
 companies:
   - name: Marvel Knights
     id: '11106'
+slug: wolverine-versus-sabretooth-reborn
 description: >-
   Wolverine and Sabretooth have been locked in an endless grudge match that goes
   back longer than either can remember: or even imagine. The key to victory is

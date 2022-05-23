@@ -25,6 +25,7 @@ companies:
   - name: Marvel Television
     id: '38679'
 title: Marvel's Agents of S.H.I.E.L.D.
+slug: marvels-agents-of-shield
 description: >-
   Agent Phil Coulson of S.H.I.E.L.D. (Strategic Homeland Intervention,
   Enforcement and Logistics Division) puts together a team of agents to

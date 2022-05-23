@@ -26,6 +26,7 @@ type: movie
 companies:
   - name: Marvel Entertainment
     id: '7505'
+slug: spider-man-across-the-spider-verse
 description: >-
   Miles Morales returns for the next chapter of the Spider-Verse saga, an epic
   adventure that will transport Brooklyn’s full-time, friendly neighborhood

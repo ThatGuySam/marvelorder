@@ -23,6 +23,7 @@ type: movie
 companies:
   - name: Marvel Entertainment
     id: '7505'
+slug: spider-ham-caught-in-a-ham
 description: >-
   Spider-Ham: Caught in a Ham follows Spider-Ham as he faces off against bad
   guys, chows down on hot dogs, and makes plenty of food-based puns.

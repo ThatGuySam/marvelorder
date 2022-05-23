@@ -28,6 +28,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: thor-love-and-thunder
 description: >-
   Thor goes on a journey unlike anything he’s ever faced — a quest for inner
   peace. But his retirement is interrupted by a galactic killer known as Gorr

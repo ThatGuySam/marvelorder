@@ -24,6 +24,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: the-avengers
 description: >-
   When an unexpected enemy emerges and threatens global safety and security,
   Nick Fury, director of the international peacekeeping agency known as

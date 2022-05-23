@@ -24,6 +24,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: the-incredible-hulk
 description: >-
   Scientist Bruce Banner scours the planet for an antidote to the unbridled
   force of rage within him: the Hulk. But when the military masterminds who

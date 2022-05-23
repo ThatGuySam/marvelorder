@@ -23,6 +23,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: team-thor-part-2
 description: >-
   A continuation of the documentary spoof of what Thor and his roommate Darryl
   were up to during the events of "Captain America: Civil War". While Cap and

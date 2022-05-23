@@ -36,6 +36,7 @@ companies:
   - name: Marvel Enterprises
     id: '19551'
 title: Spider-Man
+slug: spider-man
 description: >-
   Spider-Man is an animated television series that ran from September 9, 1967 to
   June 14, 1970. It was jointly produced in Canada and the United States and was

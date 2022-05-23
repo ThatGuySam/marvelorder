@@ -23,6 +23,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: shang-chi-and-the-legend-of-the-ten-rings
 description: >-
   Shang-Chi must confront the past he thought he left behind when he is drawn
   into the web of the mysterious Ten Rings organization.

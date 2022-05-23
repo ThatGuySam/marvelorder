@@ -22,6 +22,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: guardians-of-the-galaxy-vol-2
 description: >-
   The Guardians must fight to keep their newfound family together as they
   unravel the mysteries of Peter Quill's true parentage.

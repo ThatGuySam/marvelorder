@@ -25,6 +25,7 @@ companies:
   - name: Marvel Studios
     id: '420'
 title: Hawkeye
+slug: hawkeye
 description: >-
   Former Avenger Clint Barton has a seemingly simple mission: get back to his
   family for Christmas. Possible? Maybe with the help of Kate Bishop, a

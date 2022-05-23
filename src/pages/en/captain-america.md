@@ -25,6 +25,7 @@ type: movie
 companies:
   - name: Marvel Entertainment
     id: '7505'
+slug: captain-america
 description: >-
   During World War II, a brave, patriotic American Soldier undergoes experiments
   to become a new supersoldier, "Captain America". Racing to Germany to sabotage

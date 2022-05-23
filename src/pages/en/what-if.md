@@ -24,6 +24,7 @@ companies:
   - name: Marvel Studios
     id: '420'
 title: What If...?
+slug: what-if
 description: >-
   Taking inspiration from the comic books of the same name, each episode
   explores a pivotal moment from the Marvel Cinematic Universe and turns it on

@@ -23,6 +23,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: doctor-strange-in-the-multiverse-of-madness
 description: >-
   Doctor Strange, with the help of mystical allies both old and new, traverses
   the mind-bending and dangerous alternate realities of the Multiverse to

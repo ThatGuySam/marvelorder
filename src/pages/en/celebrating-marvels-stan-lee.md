@@ -24,6 +24,7 @@ type: movie
 companies:
   - name: Marvel Entertainment
     id: '7505'
+slug: celebrating-marvels-stan-lee
 description: >-
   Filmed in part in front of a live audience at The New Amsterdam Theater in New
   York City, this Stan Lee tribute takes viewers on an action-packed journey

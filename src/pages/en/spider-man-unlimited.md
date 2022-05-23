@@ -22,6 +22,7 @@ companies:
   - name: Marvel Studios
     id: '420'
 title: Spider-Man Unlimited
+slug: spider-man-unlimited
 description: >-
   Spider-Man travels to Counter-Earth to rescue a Terran shuttle crew trapped
   there and discovers a tyrannical & warped version of his world.

@@ -20,6 +20,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: marvel-studios-expanding-the-universe
 description: >-
   An exciting look into the future of Marvel Studios' films and upcoming Disney+
   series.

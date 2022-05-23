@@ -19,6 +19,7 @@ type: movie
 companies:
   - name: Marvel Knights
     id: '11106'
+slug: astonishing-x-men-unstoppable
 description: >-
   The X-Men are off to protect the Earth from its destruction at the hands of
   the Breakworld. And when it’s all over, nothing will ever be the same!

@@ -25,6 +25,7 @@ companies:
   - name: Marvel Television
     id: '38679'
 title: Legion
+slug: legion
 description: >-
   David Haller, AKA Legion, is a troubled young man who may be more than human.
   Diagnosed as schizophrenic, David has been in and out of psychiatric hospitals

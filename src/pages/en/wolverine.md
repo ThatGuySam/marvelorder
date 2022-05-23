@@ -25,6 +25,7 @@ companies:
   - name: Marvel Entertainment
     id: '7505'
 title: Wolverine
+slug: wolverine
 description: >-
   Wolverine is a mutant, possessing animal-keen senses, enhanced physical
   capabilities, three retracting bone claws on each hand and a healing factor

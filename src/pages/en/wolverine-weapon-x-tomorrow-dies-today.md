@@ -22,6 +22,7 @@ type: movie
 companies:
   - name: Marvel Knights
     id: '11106'
+slug: wolverine-weapon-x-tomorrow-dies-today
 description: >-
   It’s the debut of an all-new, all-different Deathlok. Killer cyborgs have come
   from the future to kill the heroes of today, while Wolverine embarks on an

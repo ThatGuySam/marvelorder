@@ -23,6 +23,7 @@ companies:
   - name: Marvel Television
     id: '38679'
 title: Marvel's The Defenders
+slug: marvels-the-defenders
 description: >-
   Daredevil, Jessica Jones, Luke Cage and Iron Fist join forces to take on
   common enemies as a sinister conspiracy threatens New York City.

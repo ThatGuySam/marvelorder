@@ -24,6 +24,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: ant-man-and-the-wasp
 description: >-
   Just when his time under house arrest is about to end, Scott Lang once again
   puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the

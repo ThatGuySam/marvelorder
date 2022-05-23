@@ -23,6 +23,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: marvel-one-shot-all-hail-the-king
 description: >-
   A documentary filmmaker interviews the now-famous Trevor Slattery from behind
   bars.

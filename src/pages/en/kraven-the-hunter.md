@@ -21,6 +21,7 @@ type: movie
 companies:
   - name: Marvel Entertainment
     id: '7505'
+slug: kraven-the-hunter
 description: >-
   Sergei Kravinoff is a big game hunter, who takes a magical serum giving him
   superhuman abilities and a longer life.

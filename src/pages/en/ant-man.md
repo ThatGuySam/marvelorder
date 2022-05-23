@@ -26,6 +26,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: ant-man
 description: >-
   Armed with the astonishing ability to shrink in scale but increase in
   strength, master thief Scott Lang must embrace his inner-hero and help his

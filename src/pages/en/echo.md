@@ -24,6 +24,7 @@ companies:
   - name: Marvel Studios
     id: '420'
 title: Echo
+slug: echo
 description: >-
   After her ruthless behavior in New York City catches up with her in her
   hometown, Maya Lopez must face her past, reconnect with her Native American

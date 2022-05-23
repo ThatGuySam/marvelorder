@@ -23,6 +23,7 @@ type: movie
 companies:
   - name: Marvel Entertainment
     id: '7505'
+slug: spider-man-beyond-the-spider-verse
 description: >-
   The further continuing story of Miles Morales and the many other Spider-People
   from different realities.

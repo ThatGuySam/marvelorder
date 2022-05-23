@@ -21,6 +21,7 @@ type: movie
 companies:
   - name: Marvel Entertainment
     id: '7505'
+slug: untitled-spider-women-film
 description: >-
   A spin-off to 'Spider-Man: Into The Spider-Verse', focused on three
   generations of female, Spider-related characters.

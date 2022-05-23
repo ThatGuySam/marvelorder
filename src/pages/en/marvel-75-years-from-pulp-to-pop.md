@@ -26,6 +26,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: marvel-75-years-from-pulp-to-pop
 description: >-
   In celebration of the publisher's 75th anniversary, the hour-long special will
   take a detailed look at the company's journey from fledgling comics publisher

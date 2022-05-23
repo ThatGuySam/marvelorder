@@ -21,6 +21,7 @@ companies:
   - name: Marvel Studios
     id: '420'
 title: X-Men '97
+slug: x-men-97
 description: >-
   An animated series from Marvel Studios that explores new stories in the iconic
   ‘90s timeline of the original series.

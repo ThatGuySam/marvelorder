@@ -26,6 +26,7 @@ type: movie
 companies:
   - name: Marvel Knights
     id: '11106'
+slug: ultimate-wolverine-vs-hulk
 description: >-
   Following Hulk's murderous rampage through Manhattan, Dr. Bruce Banner was
   sentenced to execution, bringing an end to The Hulk . Or did it? When reports

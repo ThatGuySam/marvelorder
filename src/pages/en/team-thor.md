@@ -19,6 +19,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: team-thor
 description: 'Discover what Thor was up to during the events of Captain America: Civil War.'
 layout: ../../layouts/MainLayout.astro
 ---

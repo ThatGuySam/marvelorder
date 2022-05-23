@@ -25,6 +25,7 @@ type: movie
 companies:
   - name: Marvel Studios
     id: '420'
+slug: fantastic-four-rise-of-the-silver-surfer
 description: >-
   The Fantastic Four return to the big screen as a new and all powerful enemy
   threatens the Earth. The seemingly unstoppable 'Silver Surfer', but all is not

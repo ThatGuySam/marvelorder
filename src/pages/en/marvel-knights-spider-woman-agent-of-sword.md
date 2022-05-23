@@ -24,6 +24,7 @@ companies:
   - name: Marvel Knights
     id: '11106'
 title: 'Marvel Knights: Spider-Woman, Agent of S.W.O.R.D.'
+slug: marvel-knights-spider-woman-agent-of-sword
 description: >-
   Feeling like the most hated person on Earth after the events of Secret
   Invasion, Jessica Drew aka Spider-Woman is approached by a mysterious stranger
