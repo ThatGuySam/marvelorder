@@ -6,38 +6,9 @@
 // https://droces.github.io/Deno-Cheat-Sheet/
 import { readJSON, writeJSON, removeFile } from 'https://deno.land/x/flat@0.0.14/mod.ts'
 import 'https://deno.land/std/dotenv/load.ts'
-import { exists } from 'https://deno.land/std/fs/mod.ts'
 import axios from 'https://deno.land/x/axiod/mod.ts'
 
 import { TMDB_COMPANIES, storePath } from '../src/config.ts'
-
-
-// import { fetchUrlsFromGoogle } from '../src/utils/fetch-urls-from-google.mjs'
-// import { downloadSite } from '../src/utils/download-site.mjs'
-
-
-
-
-// async function storeDocsUrls ( newUrls ) {
-//   // Get current docs urls
-//   const docsUrls = await readJSON( docsUrlsPath )
-
-//   // Merge the docsUrls with the htmlResourceUrls, remove duplicates, and sort
-//   const mergedUrls = Array.from(new Set([
-//     ...docsUrls,
-//     ...newUrls
-//   ]))
-//   .sort()
-
-//   // Save htmlResourceUrls to json
-//   await writeJSON(  docsUrlsPath, mergedUrls, null, '\t' )
-// }
-
-// async function ensureRemove ( path ) {
-//   if ( await exists( path ) ) {
-//     await Deno.remove( path, { recursive: true })
-//   }
-// }
 
 
 async function fetchTitles ({ company, type }) {
