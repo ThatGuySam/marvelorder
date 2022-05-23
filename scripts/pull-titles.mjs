@@ -4,13 +4,12 @@
 // Helper library written for useful postprocessing tasks with Flat Data
 // Has helper functions for manipulating csv, txt, json, excel, zip, and image files
 // https://droces.github.io/Deno-Cheat-Sheet/
-import { readJSON, writeJSON, removeFile } from 'https://deno.land/x/flat@0.0.14/mod.ts'
+import { writeJSON } from 'https://deno.land/x/flat@0.0.14/mod.ts'
 import { exists } from "https://deno.land/std/fs/mod.ts"
 
 import 'https://deno.land/std/dotenv/load.ts'
 import { slugify } from 'https://deno.land/x/slugify/mod.ts'
 import axios from 'https://deno.land/x/axiod/mod.ts'
-import { Marked } from 'https://deno.land/x/markdown@v2.0.0/mod.ts'
 import matter from 'https://jspm.dev/gray-matter'
 
 
