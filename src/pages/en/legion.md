@@ -1,0 +1,36 @@
+---
+backdrop_path: /r1e0lDIsezrklektX82AetUHr5m.jpg
+first_air_date: '2017-02-08'
+genre_ids:
+  - 10759
+  - 10765
+id: 67195
+name: Legion
+origin_country:
+  - US
+original_language: en
+original_name: Legion
+overview: >-
+  David Haller, AKA Legion, is a troubled young man who may be more than human.
+  Diagnosed as schizophrenic, David has been in and out of psychiatric hospitals
+  for years. But after a strange encounter with a fellow patient, he’s
+  confronted with the possibility that the voices he hears and the visions he
+  sees might be real.
+popularity: 38.156
+poster_path: /vT0Zsbm4GWd7llNjgWEtwY0CqOv.jpg
+vote_average: 7.6
+vote_count: 1074
+type: tv
+companies:
+  - name: Marvel Television
+    id: '38679'
+title: Legion
+description: >-
+  David Haller, AKA Legion, is a troubled young man who may be more than human.
+  Diagnosed as schizophrenic, David has been in and out of psychiatric hospitals
+  for years. But after a strange encounter with a fellow patient, he’s
+  confronted with the possibility that the voices he hears and the visions he
+  sees might be real.
+layout: ../../layouts/MainLayout.astro
+---
+

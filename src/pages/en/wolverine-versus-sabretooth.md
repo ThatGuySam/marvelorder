@@ -1,0 +1,28 @@
+---
+adult: false
+backdrop_path: null
+genre_ids:
+  - 16
+id: 276148
+original_language: en
+original_title: Wolverine Versus Sabretooth
+overview: >-
+  It's claw versus claw as Logan faces his age-old foe in the latest Marvel
+  Knights Animation, Wolverine Vs. Sabretooth.
+popularity: 2.612
+poster_path: /xhhsWTu80RX05uDF3b3R22kyluc.jpg
+release_date: '2014-01-14'
+title: Wolverine Versus Sabretooth
+video: false
+vote_average: 7.7
+vote_count: 3
+type: movie
+companies:
+  - name: Marvel Knights
+    id: '11106'
+description: >-
+  It's claw versus claw as Logan faces his age-old foe in the latest Marvel
+  Knights Animation, Wolverine Vs. Sabretooth.
+layout: ../../layouts/MainLayout.astro
+---
+

@@ -1,0 +1,26 @@
+---
+adult: false
+backdrop_path: /dbuR6XuVubN5ZmRUiOycZi2457l.jpg
+genre_ids:
+  - 12
+  - 878
+  - 35
+id: 640146
+original_language: en
+original_title: 'Ant-Man and the Wasp: Quantumania'
+overview: The third film in the Marvel Studios' Ant-Man trilogy.
+popularity: 16.486
+poster_path: /mYCBuVGQGWPlUNZQusdHfbSzP1h.jpg
+release_date: '2023-02-15'
+title: 'Ant-Man and the Wasp: Quantumania'
+video: false
+vote_average: 0
+vote_count: 0
+type: movie
+companies:
+  - name: Marvel Studios
+    id: '420'
+description: The third film in the Marvel Studios' Ant-Man trilogy.
+layout: ../../layouts/MainLayout.astro
+---
+
