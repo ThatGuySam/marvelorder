@@ -14,6 +14,7 @@ import matter from 'https://jspm.dev/gray-matter'
 
 
 import { TMDB_COMPANIES, storePath } from '../src/config.ts'
+import { byListingDate } from '../src/helpers/sort.ts'
 
 function makeSlug ( name ) {
     return slugify(name, {
@@ -72,18 +73,6 @@ async function fetchTitles ({ company, type }) {
     return titles
 }
 
-function getTitleDate ( title ) {
-    if ( title?.release_date ) {
-        return new Date( title.release_date )
-    } else if ( title?.first_air_date ) {
-        return new Date( title.first_air_date )
-    }
-
-    // If no release date or first air date
-    // then push the title towards the future
-    return Infinity
-}
-
 // Fetches movies from the 
 async function fetchTitlesFromCompanies ( companies ) {
     const titles = {}
@@ -106,16 +95,7 @@ async function fetchTitlesFromCompanies ( companies ) {
 
     // Sort movies by release_date/first_air_date and empty first
     const sortedTitles = Object.values(titles)
-        .sort((a, b) => {
-            const aDate = getTitleDate(a)
-            const bDate = getTitleDate(b)
-
-            if ( aDate > bDate ) {
-                return -1
-            } else if ( aDate < bDate ) {
-                return 1
-            }
-        })
+        .sort( byListingDate )
 
     return sortedTitles
 }
