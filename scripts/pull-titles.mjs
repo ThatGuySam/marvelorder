@@ -6,10 +6,20 @@
 // https://droces.github.io/Deno-Cheat-Sheet/
 import { readJSON, writeJSON, removeFile } from 'https://deno.land/x/flat@0.0.14/mod.ts'
 import 'https://deno.land/std/dotenv/load.ts'
+import { slugify } from 'https://deno.land/x/slugify/mod.ts'
 import axios from 'https://deno.land/x/axiod/mod.ts'
+import matter from 'https://jspm.dev/gray-matter'
+
 
 import { TMDB_COMPANIES, storePath } from '../src/config.ts'
 
+function makeSlug ( name ) {
+    return slugify(name, {
+        lower: true,
+        remove: /[^a-zA-Z\d\s\-]/g,
+        strict: true
+    })
+}
 
 async function fetchTitles ({ company, type }) {
     const titles = {}
@@ -103,12 +113,37 @@ async function fetchTitlesFromCompanies ( companies ) {
     return sortedTitles
 }
 
+async function saveTitlesAsMarkdown ( titles ) {
+    const markdown = []
+
+    for ( const title of titles ) {
+        // markdown.push( `- ${ title.title }` )
+
+        const pageMeta = {
+            ...title,
+            title: title.name || title.title, 
+            description: title.overview, 
+            type: title.type, 
+            layout: '../../layouts/MainLayout.astro',
+        }
+
+        console.log('pageMeta', pageMeta, title)
+
+        const content = matter.stringify( '', pageMeta )
+
+        await Deno.writeTextFile( `${ storePath }/${ makeSlug( pageMeta.title ) }.md`, content )
+
+    }
+}
+
 
 ;(async () => {
 
     const titles = await fetchTitlesFromCompanies( TMDB_COMPANIES )
 
     await writeJSON( `${ storePath }/titles.json`, titles, null, '\t' )
+
+    await saveTitlesAsMarkdown( titles )
 
     console.log('Pull complete.')
 
