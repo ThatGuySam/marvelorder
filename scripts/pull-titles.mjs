@@ -133,7 +133,7 @@ async function saveTitlesAsMarkdown ( titles ) {
 
         const content = matter.stringify( '', pageMeta )
 
-        await Deno.writeTextFile( `${ storePath }/${  }.md`, content )
+        await Deno.writeTextFile( `${ storePath }/${ slug }.md`, content )
 
     }
 }
