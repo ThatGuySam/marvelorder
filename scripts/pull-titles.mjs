@@ -5,9 +5,12 @@
 // Has helper functions for manipulating csv, txt, json, excel, zip, and image files
 // https://droces.github.io/Deno-Cheat-Sheet/
 import { readJSON, writeJSON, removeFile } from 'https://deno.land/x/flat@0.0.14/mod.ts'
+import { exists } from "https://deno.land/std/fs/mod.ts"
+
 import 'https://deno.land/std/dotenv/load.ts'
 import { slugify } from 'https://deno.land/x/slugify/mod.ts'
 import axios from 'https://deno.land/x/axiod/mod.ts'
+import { Marked } from 'https://deno.land/x/markdown@v2.0.0/mod.ts'
 import matter from 'https://jspm.dev/gray-matter'
 
 
@@ -51,8 +54,13 @@ async function fetchTitles ({ company, type }) {
                 continue
             }
 
+            const title = result.name || result.title
+            const slug = makeSlug( title )
+
             titles[ result.id ] = {
                 ...result,
+                title,
+                slug,
                 type,
                 companies: [ company ]
             }
@@ -113,29 +121,58 @@ async function fetchTitlesFromCompanies ( companies ) {
     return sortedTitles
 }
 
+const tmdbHeading = `## TMDB Data`
+
+function makeTMDbMarkdownSection ( listing ) {
+    const detailsJSON = JSON.stringify( listing, null, 4 )
+
+    return [
+        tmdbHeading, 
+        '```json',
+        detailsJSON,
+        '\n```'
+    ].join('\n')
+}
+
+async function makeNewListingContents ( listing ) {
+    const pageMeta = {
+        title: listing.title, 
+        slug: listing.slug, 
+        description: listing.overview, 
+        type: listing.type, 
+        layout: '../../layouts/MainLayout.astro',
+    }
+
+    const wrappedCode = makeTMDbMarkdownSection( listing )
+
+    return matter.stringify( wrappedCode, pageMeta )
+}
+
 async function saveTitlesAsMarkdown ( titles ) {
-    const markdown = []
 
     for ( const listing of titles ) {
 
-        const filePath = `${ storePath }/${ slug }.md`
+        const filePath = `${ storePath }/${ listing.slug }.md`
+        const hasExistingFile = await exists( filePath )
 
-        const titleTitle = listing.name || listing.title
-        const slug = makeSlug( titleTitle )
+        let content = ''
+        
+        // If there's no existing file, create one with meta data from our listing
+        if ( hasExistingFile ) {
+            const decoder = new TextDecoder( 'utf-8' )
+            const markdownContent = decoder.decode(await Deno.readFile( filePath ))
+            // Split off and leave behind existing TMDb data
+            const [ existingContent ] = markdownContent.split( tmdbHeading )
 
-        const pageMeta = {
-            title: titleTitle, 
-            slug, 
-            description: listing.overview, 
-            type: listing.type, 
-            layout: '../../layouts/MainLayout.astro',
+            // Merge in existing meta above the current TMDb data
+            content = [
+                existingContent.trim(),
+                makeTMDbMarkdownSection( listing )
+            ].join('\n')
+
+        } else {
+            content = await makeNewListingContents( listing )
         }
-
-        const detailsJSON = JSON.stringify( listing, null, 4 )
-
-        const wrappedCode = '```json\n' + detailsJSON + '\n```'
-
-        const content = matter.stringify( wrappedCode, pageMeta )
 
         await Deno.writeTextFile( filePath, content )
 
