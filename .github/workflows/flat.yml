@@ -26,4 +26,4 @@ jobs:
         with:
           http_url: https://raw.githubusercontent.com/ThatGuySam/marvelorder/main/README.md
           downloaded_filename: README.md
-          postprocess: ./scripts/flat-postprocessing.mjs
+          postprocess: ./scripts/pull-titles.mjs
