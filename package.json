@@ -6,7 +6,8 @@
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
-    "preview": "astro preview"
+    "preview": "astro preview",
+    "pull-titles": "deno run -q -A --unstable scripts/pull-titles.mjs"
   },
   "dependencies": {
     "@algolia/client-search": "^4.13.1",
