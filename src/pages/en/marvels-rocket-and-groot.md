@@ -24,7 +24,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "Marvel's Rocket & Groot",
     "overview": "Before becoming Guardians of the Galaxy, Rocket and Groot were bounty hunters trying to get a ship.",
-    "popularity": 4.309,
+    "popularity": 3.455,
     "poster_path": "/7FHJr40MPFwtHrOyOD9buQDoVcs.jpg",
     "vote_average": 8.2,
     "vote_count": 10,

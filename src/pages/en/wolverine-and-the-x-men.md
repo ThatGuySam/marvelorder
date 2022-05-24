@@ -27,7 +27,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "Wolverine and the X-Men",
     "overview": "Wolverine and the X-Men must join together again to not only battle the increasingly powerful Mutant Response Division, but also to prevent a catastrophic future that Xavier has warned Wolverine must never come to pass.",
-    "popularity": 13.095,
+    "popularity": 10.859,
     "poster_path": "/zTADaqgnIhE9QZAnX6M9YVn5wsv.jpg",
     "vote_average": 7.7,
     "vote_count": 216,

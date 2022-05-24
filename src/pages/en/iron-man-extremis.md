@@ -23,7 +23,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "Iron Man: Extremis",
     "overview": "An experimental serum called Extremis gets stolen, and Iron Man rockets into action. The ensuing battles test Stark's spirit and Iron Man's power.",
-    "popularity": 3.914,
+    "popularity": 3.64,
     "poster_path": "/w10ClxT6uqnyxJZiMAx2ty9GkWu.jpg",
     "vote_average": 6.8,
     "vote_count": 10,

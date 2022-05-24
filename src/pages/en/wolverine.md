@@ -27,7 +27,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "ja",
     "original_name": "ウルヴァリン",
     "overview": "Wolverine is a mutant, possessing animal-keen senses, enhanced physical capabilities, three retracting bone claws on each hand and a healing factor that allows him to recover from virtually any wound, disease or toxin at a accelerated rate.",
-    "popularity": 8.278,
+    "popularity": 7.555,
     "poster_path": "/cXPQEgUEbDz5NERfBJxeKFqUGwa.jpg",
     "vote_average": 6.5,
     "vote_count": 52,

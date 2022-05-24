@@ -27,7 +27,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "Ms. Marvel",
     "overview": "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school — that is, until she gets super powers like the heroes she’s always looked up to. Life is easier with super powers, right?",
-    "popularity": 40.885,
+    "popularity": 30.311,
     "poster_path": "/A8UVjdSH3kr5bo8iuBwXVSWXlHu.jpg",
     "vote_average": 0,
     "vote_count": 0,

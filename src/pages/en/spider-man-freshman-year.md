@@ -23,7 +23,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "Spider-Man: Freshman Year",
     "overview": "Follow Peter Parker on his way to becoming Spider-Man in the MCU, with a journey unlike we've ever seen.",
-    "popularity": 7.897,
+    "popularity": 6.935,
     "poster_path": "/7ecqjxf49CaTsqQFIUd1iceoXZB.jpg",
     "vote_average": 0,
     "vote_count": 0,

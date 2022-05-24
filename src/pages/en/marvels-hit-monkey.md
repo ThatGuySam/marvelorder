@@ -26,7 +26,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "Marvel's Hit-Monkey",
     "overview": "A Japanese snow macaque's clan meets a stranded hitman, Bryce, and nurses him back to health. But when Bryce bites the dust, it's up to the titular simian (guided by Bryce's ghost) to follow in his assassin footsteps and seek vengeance.",
-    "popularity": 31.709,
+    "popularity": 32.266,
     "poster_path": "/1aK7hApRSDUv8xxDQXyQil7qBjN.jpg",
     "vote_average": 7.9,
     "vote_count": 47,

@@ -24,7 +24,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "Spider-Man Unlimited",
     "overview": "Spider-Man travels to Counter-Earth to rescue a Terran shuttle crew trapped there and discovers a tyrannical & warped version of his world.",
-    "popularity": 38.808,
+    "popularity": 31.572,
     "poster_path": "/fvmC5QzQwkI5ZNJauE4xpF24PTB.jpg",
     "vote_average": 7.5,
     "vote_count": 180,

@@ -28,7 +28,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "Marvel's Agents of S.H.I.E.L.D.: Slingshot",
     "overview": "Elena \"Yo-Yo\" Rodriguez, an Inhuman with the ability to move at super-speed, is required to sign the Sokovia Accords. However, the restrictions of the Accords are in direct conflict with a personal mission she's desperate to fulfill, one that will test her abilities and will include tense encounters with S.H.I.E.L.D. team members.",
-    "popularity": 21.805,
+    "popularity": 17.529,
     "poster_path": "/bwJej7WdmGRMCMyuDlotwAqVX7S.jpg",
     "vote_average": 7.1,
     "vote_count": 169,

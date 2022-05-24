@@ -25,7 +25,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "Marvel's Jessica Jones",
     "overview": "After a tragic ending to her short-lived super hero stint, Jessica Jones is rebuilding her personal life and career as a detective who gets pulled into cases involving people with extraordinary abilities in New York City.",
-    "popularity": 47.994,
+    "popularity": 39.715,
     "poster_path": "/1ghmaDw650NuUpGI7mYq6xE2QE2.jpg",
     "vote_average": 7.6,
     "vote_count": 1702,

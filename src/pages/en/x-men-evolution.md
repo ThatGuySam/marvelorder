@@ -26,7 +26,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "X-Men: Evolution",
     "overview": "Teenagers Cyclops, Jean Grey, Rogue, Nightcrawler, Shadowcat, and Spike fight for a world that fears and hates them.",
-    "popularity": 35.953,
+    "popularity": 34.144,
     "poster_path": "/whZRsqrMYoigHoPRme1Pdsyf5UO.jpg",
     "vote_average": 8,
     "vote_count": 350,

@@ -26,7 +26,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "Marvel Knights: Spider-Woman, Agent of S.W.O.R.D.",
     "overview": "Feeling like the most hated person on Earth after the events of Secret Invasion, Jessica Drew aka Spider-Woman is approached by a mysterious stranger to join S.W.O.R.D. (Sentient World Observation and Response Department), a counter-terrorism and intelligence agency for extraterrestrial threats.",
-    "popularity": 18.482,
+    "popularity": 13.945,
     "poster_path": "/93pxdXPT8RC2pArLU3iQPGyQkAX.jpg",
     "vote_average": 6.2,
     "vote_count": 14,

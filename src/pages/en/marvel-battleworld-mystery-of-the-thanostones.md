@@ -25,7 +25,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "Marvel Battleworld: Mystery of the Thanostones",
     "overview": "Can Iron Man and this rag-tag group - Captain Marvel, Spider-Ham, Groot, and Throg - figure out what the Mad Titan Thanos wants and why they've been brought to this strange, new world?",
-    "popularity": 1.3,
+    "popularity": 1.82,
     "poster_path": "/wu7VuEO9eRCtul31pV8MvWwAxyI.jpg",
     "vote_average": 5.7,
     "vote_count": 3,

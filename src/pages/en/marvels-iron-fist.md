@@ -25,7 +25,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "Marvel's Iron Fist",
     "overview": "Danny Rand resurfaces 15 years after being presumed dead. Now, with the power of the Iron Fist, he seeks to reclaim his past and fulfill his destiny.",
-    "popularity": 23.069,
+    "popularity": 21.802,
     "poster_path": "/4l6KD9HhtD6nCDEfg10Lp6C6zah.jpg",
     "vote_average": 6.6,
     "vote_count": 1881,

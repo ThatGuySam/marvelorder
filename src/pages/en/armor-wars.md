@@ -23,7 +23,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "Armor Wars",
     "overview": "James Rhodes aka War Machine faces the consequences of Tony Stark's worst fear coming true: what happens when his tech falls into the wrong hands?",
-    "popularity": 4.133,
+    "popularity": 4.12,
     "poster_path": "/vXkmdLWnXpBaaErF4faB2BKLStL.jpg",
     "vote_average": 0,
     "vote_count": 0,

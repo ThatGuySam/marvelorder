@@ -27,7 +27,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "ja",
     "original_name": "エックスメン",
     "overview": "X-Men, still grieving over the death of Phoenix (Jean Grey), are investigating a case of a missing mutant girl in Northern Japan. This leads them to a mysterious virus that turns mutants into monsters. U-Men and the Inner Circle want it.",
-    "popularity": 11.255,
+    "popularity": 11.941,
     "poster_path": "/eMQcgexc7bbbXsL0tNsNtLNPo56.jpg",
     "vote_average": 7.3,
     "vote_count": 122,

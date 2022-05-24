@@ -25,7 +25,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "Fantastic Four: World's Greatest Heroes",
     "overview": "Mister Fantastic, the Invisible Woman, the Human Torch, and Thing battle some of their greatest foes, including Doctor Doom, Ronan the Accuser, the Multiple Man, and Mole Man.",
-    "popularity": 14.146,
+    "popularity": 13.264,
     "poster_path": "/zCtCW0JlbMpzfQDAX1bO1o1KLi.jpg",
     "vote_average": 7.5,
     "vote_count": 63,
