@@ -24,7 +24,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "Marvel Studios: Assembled",
     "overview": "Go behind the scenes of the shows and movies of the Marvel Cinematic Universe, following the filmmakers, cast and crew, and Marvel heroes every step of the way.",
-    "popularity": 54.226,
+    "popularity": 55.231,
     "poster_path": "/v2BHRwtQVkt5fssLdo5MpFgHJPY.jpg",
     "vote_average": 7.4,
     "vote_count": 142,

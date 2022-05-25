@@ -25,7 +25,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Blade: Trinity",
     "overview": "For years, Blade has fought against the vampires in the cover of the night. But now, after falling into the crosshairs of the FBI, he is forced out into the daylight, where he is driven to join forces with a clan of human vampire hunters he never knew existed—The Nightstalkers. Together with Abigail and Hannibal, two deftly trained Nightstalkers, Blade follows a trail of blood to the ancient creature that is also hunting him—the original vampire, Dracula.",
-    "popularity": 37.716,
+    "popularity": 36.409,
     "poster_path": "/iQ2fyewqYDNmcUN18m8XbRGWgIM.jpg",
     "release_date": "2004-12-08",
     "title": "Blade: Trinity",

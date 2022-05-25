@@ -24,7 +24,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "Marvel Zombies",
     "overview": "The Marvel Universe is reimagined as a new generation of heroes battle against an ever-spreading zombie scourge.",
-    "popularity": 18.749,
+    "popularity": 14.562,
     "poster_path": "/vK2ZJlnurjxajVXGxy6KMeHJuW8.jpg",
     "vote_average": 0,
     "vote_count": 0,

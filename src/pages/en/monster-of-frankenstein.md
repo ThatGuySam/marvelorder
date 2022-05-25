@@ -25,7 +25,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "ja",
     "original_title": "恐怖伝説　怪奇！フランケンシュタイン",
     "overview": "The film centers around the life of Victor Frankenstein. After creating the monster together with his partner Zuckel, the monster attacks the assistant and falls from a cliff. Assuming the monster is dead, Victor returns to his wife Elizabeth and daughter Emily. A police inspector named Bellbeau investigates some mysterious mutilations killings, and Victor is blackmailed by his former assistant, who lost an eye in his fight with the monster.",
-    "popularity": 1.325,
+    "popularity": 1.189,
     "poster_path": "/6crVZ3TN2MUwtbx25pbBVBGn11d.jpg",
     "release_date": "1981-07-27",
     "title": "Monster of Frankenstein",

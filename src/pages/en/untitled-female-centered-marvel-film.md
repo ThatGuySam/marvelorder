@@ -20,7 +20,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Untitled Female-Centered Marvel Film",
     "overview": "Described as a female-centric Marvel film rumored and teased by Wilde to follow Spider-Woman.",
-    "popularity": 2.313,
+    "popularity": 1.388,
     "poster_path": null,
     "release_date": "",
     "title": "Untitled Female-Centered Marvel Film",

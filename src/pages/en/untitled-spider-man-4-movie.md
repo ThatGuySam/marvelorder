@@ -15,7 +15,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Untitled Spider-Man 4 Movie",
     "overview": "",
-    "popularity": 10.002,
+    "popularity": 7.2,
     "poster_path": null,
     "release_date": "",
     "title": "Untitled Spider-Man 4 Movie",

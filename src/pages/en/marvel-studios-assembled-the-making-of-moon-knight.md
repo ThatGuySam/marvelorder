@@ -22,7 +22,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Marvel Studios: Assembled – The Making of Moon Knight",
     "overview": "Join the likes of Oscar Isaac and Ethan Hawke as they reveal how Marvel Studios' Moon Knight was painstakingly brought to life. Through insightful interviews with cast and crew, along with immersive footage from the set, this Making Of pulls back the curtain on this groundbreaking series. Additionally, incorporates a candid \"roundtable discussion\" with the series' directors.",
-    "popularity": 37.866,
+    "popularity": 45.682,
     "poster_path": null,
     "release_date": "2022-05-25",
     "title": "Marvel Studios: Assembled – The Making of Moon Knight",

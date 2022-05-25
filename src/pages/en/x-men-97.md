@@ -23,7 +23,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "X-Men '97",
     "overview": "An animated series from Marvel Studios that explores new stories in the iconic ‘90s timeline of the original series.",
-    "popularity": 7.573,
+    "popularity": 5.636,
     "poster_path": "/kZhODsClYVftvqwwZB7nPcuA1km.jpg",
     "vote_average": 0,
     "vote_count": 0,

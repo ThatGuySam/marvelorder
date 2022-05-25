@@ -23,7 +23,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Ghost Rider: Spirit of Vengeance",
     "overview": "When the devil resurfaces with aims to take over the world in human form, Johnny Blaze reluctantly comes out of hiding to transform into the flame-spewing supernatural hero Ghost Rider -- and rescue a 10-year-old boy from an unsavory end.",
-    "popularity": 96.278,
+    "popularity": 76.946,
     "poster_path": "/fDtIZXLNreDHk3mOskJYABrQNOQ.jpg",
     "release_date": "2011-12-11",
     "title": "Ghost Rider: Spirit of Vengeance",

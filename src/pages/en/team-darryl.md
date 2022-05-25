@@ -23,7 +23,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Team Darryl",
     "overview": "Fresh off being unseated as the ruler of Sakaar, the Grandmaster makes his way to Earth to start a new life. It's been over a year since Thor left Australia and Darryl has been struggling to pay his rent. Now Darryl needs a new roommate to help make the monthly payments. Unfortunately for Darryl, the Grandmaster was the only one who answered Darryl's \"Roommate Needed\" ad and with no viable options, the Grandmaster moves in.",
-    "popularity": 5.125,
+    "popularity": 7.175,
     "poster_path": "/axlLFvTfV4W8zbWby7H4vf1vMPq.jpg",
     "release_date": "2018-02-20",
     "title": "Team Darryl",

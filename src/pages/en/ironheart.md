@@ -24,7 +24,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "Ironheart",
     "overview": "Genius inventor Riri Williams creates the most advanced suit of armor since Iron Man and becomes Ironheart.",
-    "popularity": 3.212,
+    "popularity": 2.732,
     "poster_path": "/ha1kackPwP1BLtyibzuv5hABiDk.jpg",
     "vote_average": 0,
     "vote_count": 0,

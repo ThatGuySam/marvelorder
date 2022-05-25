@@ -21,7 +21,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Captain America 4",
     "overview": "A sequel to Marvel Studios' The Falcon and the Winter Soldier and follows Sam Wilson as the new Captain America.",
-    "popularity": 3.981,
+    "popularity": 2.597,
     "poster_path": "/fYyB5IApuVmZBwd84OPNev8mq4L.jpg",
     "title": "Captain America 4",
     "video": false,

@@ -25,7 +25,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "LEGO Marvel Super Heroes: Black Panther - Trouble in Wakanda",
     "overview": "After speaking at the Wakanda Embassy, Black Panther fights Thanos and fends him off with the help of fellow Avengers Captain America, Thor, Iron Man, Hulk, and Black Widow. After regaining conscious, Thanos is approached by Erik Killmonger and Ulysses Klaue in a plot where they will obtain the Vibranium in Wakanda to empower Thanos. When Black Panther discovers this plot, he must work with Shuri, Okoye, and the Avengers to defeat them.",
-    "popularity": 9.784,
+    "popularity": 10.62,
     "poster_path": "/7MqkF8uSnZOoEiSamSrufwrbmPM.jpg",
     "release_date": "2018-06-04",
     "title": "LEGO Marvel Super Heroes: Black Panther - Trouble in Wakanda",

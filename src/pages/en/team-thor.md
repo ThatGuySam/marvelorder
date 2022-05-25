@@ -18,7 +18,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Team Thor",
     "overview": "Discover what Thor was up to during the events of Captain America: Civil War.",
-    "popularity": 13.96,
+    "popularity": 15.852,
     "poster_path": "/jVSmX89BvsQV2z3wh2IVYVNVw1a.jpg",
     "release_date": "2016-08-28",
     "title": "Team Thor",

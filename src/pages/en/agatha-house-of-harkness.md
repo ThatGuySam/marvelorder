@@ -22,7 +22,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "Agatha: House of Harkness",
     "overview": "Follows Agatha Harkness before her appearance in WandaVision.",
-    "popularity": 2.863,
+    "popularity": 2.929,
     "poster_path": "/akjfAgmQ6KEP5exgJ2DLyyom9Eq.jpg",
     "vote_average": 0,
     "vote_count": 0,

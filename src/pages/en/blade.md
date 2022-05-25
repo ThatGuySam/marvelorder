@@ -18,7 +18,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Blade",
     "overview": "The Daywalker known as \"Blade\" - a half-vampire, half-mortal man - becomes the protector of humanity against an underground army of vampires.",
-    "popularity": 51.394,
+    "popularity": 50.71,
     "poster_path": "/e6ErRnIgKmoBtcKpht3amsMfo52.jpg",
     "release_date": "1998-08-21",
     "title": "Blade",

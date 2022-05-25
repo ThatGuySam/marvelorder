@@ -26,7 +26,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "Helstrom",
     "overview": "Daimon and Ana Helstrom are the son and daughter of a mysterious and powerful serial killer. The siblings have a complicated dynamic as they track down the terrorizing worst of humanity — each with their attitude and skills.",
-    "popularity": 11.865,
+    "popularity": 9.811,
     "poster_path": "/8fPIcaRIZgsoBcgA5yAm3GNz61M.jpg",
     "vote_average": 7,
     "vote_count": 129,

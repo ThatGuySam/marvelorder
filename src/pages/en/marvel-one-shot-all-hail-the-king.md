@@ -22,7 +22,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Marvel One-Shot: All Hail the King",
     "overview": "A documentary filmmaker interviews the now-famous Trevor Slattery from behind bars.",
-    "popularity": 12.36,
+    "popularity": 11.359,
     "poster_path": "/ozXvopXv1TiOTls8zb09dBmu9dt.jpg",
     "release_date": "2014-02-04",
     "title": "Marvel One-Shot: All Hail the King",
