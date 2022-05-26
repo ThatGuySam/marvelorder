@@ -19,7 +19,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "X-Men: The Mutant Watch",
     "overview": "While Senator Kelly addresses a senate committee about the supposed mutant menace, we learn about the making of the movie, X-Men.",
-    "popularity": 36.251,
+    "popularity": 36.439,
     "poster_path": "/4FwbuT0NJwcHGRqRc3kpTjgj0jS.jpg",
     "release_date": "2001-08-11",
     "title": "X-Men: The Mutant Watch",

@@ -22,7 +22,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Man-Thing",
     "overview": "Agents of an oil tycoon vanish while exploring a swamp marked for drilling. The local sheriff investigates and faces a Seminole legend come to life: Man-Thing, a shambling swamp-monster whose touch burns those who feel fear.",
-    "popularity": 10.442,
+    "popularity": 10.818,
     "poster_path": "/kfPPnOygXSGaBFpsCUyu7xQdkoO.jpg",
     "release_date": "2005-04-21",
     "title": "Man-Thing",

@@ -19,7 +19,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Deadpool 3",
     "overview": "",
-    "popularity": 75.159,
+    "popularity": 73.474,
     "poster_path": "/4gdqWCVvidYR0pOHuVOqFundbUG.jpg",
     "title": "Deadpool 3",
     "video": false,

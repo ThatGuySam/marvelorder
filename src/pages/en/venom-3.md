@@ -21,7 +21,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Venom 3",
     "overview": "The third entry in the Venom trilogy confirmed to be in development by Amy Pascal.",
-    "popularity": 86.396,
+    "popularity": 74.959,
     "poster_path": "/p2iubH4NpXpIDAWCuITTuJhmde5.jpg",
     "release_date": "",
     "title": "Venom 3",

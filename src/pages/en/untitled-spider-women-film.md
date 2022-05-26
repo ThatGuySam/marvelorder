@@ -20,7 +20,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Untitled Spider-Women Film",
     "overview": "A spin-off to 'Spider-Man: Into The Spider-Verse', focused on three generations of female, Spider-related characters.",
-    "popularity": 2.327,
+    "popularity": 1.396,
     "poster_path": null,
     "release_date": "",
     "title": "Untitled Spider-Women Film",

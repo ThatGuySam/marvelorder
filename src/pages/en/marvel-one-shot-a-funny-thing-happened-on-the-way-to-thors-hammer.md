@@ -20,7 +20,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer",
     "overview": "Agent Coulson stops at a convenience store and deals with a coincidental robbery during his visit.",
-    "popularity": 11.79,
+    "popularity": 13.522,
     "poster_path": "/njrOqsmFH4pxBrhcoslqLfw2OGk.jpg",
     "release_date": "2011-10-25",
     "title": "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer",

@@ -19,7 +19,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Shang-Chi 2",
     "overview": "Sequel to the 2021 film “Shang-Chi and the Legend of the Ten Rings”.",
-    "popularity": 14.826,
+    "popularity": 17.724,
     "poster_path": "/ruUz3vhYuq3011WzSNM0SlgaVzh.jpg",
     "title": "Shang-Chi 2",
     "video": false,

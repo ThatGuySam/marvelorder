@@ -30,7 +30,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "ja",
     "original_title": "バトルフィーバーJ THE MOVIE",
     "overview": "Egos kidnaps the children of Information Supervisor Sakaguchi, Yoko and Kenichi. They then blackmail him into stealing the blueprints and completion status of the Battle Fever robo. Tetsuzan Shogun, who joined the Defense Department at the same time as Sakaguchi, is greatly concerned and confronts him. Sakaguchi escapes but vows to make amends. He appears at Egos factory, where they too are building a giant robo, and discloses a false timetable. When Egos orders them killed, Sakaguchi reveals dynamite strapped to his body. He backs away with his children and gets them to safety. He then returns to the factory, and blows himself up to destroy it. Unfortunately, his sacrifice is in vain, as their evil robo is already completed. But Battle Fever’s giant robo is also complete and ready to save the day!",
-    "popularity": 1.851,
+    "popularity": 1.111,
     "poster_path": "/iSiD46YjoMMy0yOWImZUT6yZbWD.jpg",
     "release_date": "1979-07-21",
     "title": "Battle Fever J: The Movie",

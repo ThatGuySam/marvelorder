@@ -17,7 +17,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Astonishing X-Men: Unstoppable",
     "overview": "The X-Men are off to protect the Earth from its destruction at the hands of the Breakworld. And when it’s all over, nothing will ever be the same!",
-    "popularity": 0.84,
+    "popularity": 1.131,
     "poster_path": "/cIvtMh7G877NEKXlRP6SgPMr8bl.jpg",
     "release_date": "2013-11-13",
     "title": "Astonishing X-Men: Unstoppable",

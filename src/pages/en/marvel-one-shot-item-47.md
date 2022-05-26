@@ -21,7 +21,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Marvel One-Shot: Item 47",
     "overview": "Benny and Claire, a down on their luck couple find a discarded Chitauri gun, referred to as 'Item 47'...",
-    "popularity": 40.243,
+    "popularity": 39.54,
     "poster_path": "/rfxvoRoZtBLUXJqLf8z9kgJWkKt.jpg",
     "release_date": "2012-09-13",
     "title": "Marvel One-Shot: Item 47",

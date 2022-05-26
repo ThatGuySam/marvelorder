@@ -25,7 +25,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "Marvel's Cloak & Dagger",
     "overview": "Two teenagers from very different backgrounds awaken to newly acquired superpowers which mysteriously link them to one another.",
-    "popularity": 22.605,
+    "popularity": 27.657,
     "poster_path": "/3y2pkhy4smkSkXy7nL9CDW0GGiQ.jpg",
     "vote_average": 7.5,
     "vote_count": 449,

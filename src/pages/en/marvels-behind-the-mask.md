@@ -21,7 +21,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Marvel's Behind the Mask",
     "overview": "A documentary special that explores the power of identity behind the iconic superheroes we know and love today. These legendary Marvel creations and stories have not only reflected the world outside our window – they have become a reflection of our own identities and who we truly are.",
-    "popularity": 11.859,
+    "popularity": 12.718,
     "poster_path": "/p71YgDQk5sFHTqF3FBygLPmZEX5.jpg",
     "release_date": "2021-02-12",
     "title": "Marvel's Behind the Mask",

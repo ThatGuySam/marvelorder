@@ -24,7 +24,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "Fury Files",
     "overview": "The mysterious Fury gives viewers top-secret access to S.H.I.E.L.D. intel on key Marvel heroes and villains by bringing together a mix of animation and motion comic art.",
-    "popularity": 1.152,
+    "popularity": 1.613,
     "poster_path": "/fEpnfXuukOOkZTbJh6qylrdahbu.jpg",
     "vote_average": 0,
     "vote_count": 0,

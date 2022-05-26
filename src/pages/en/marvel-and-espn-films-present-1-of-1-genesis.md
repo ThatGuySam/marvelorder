@@ -19,7 +19,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Marvel & ESPN Films Present: 1 of 1: Genesis",
     "overview": "This documentary explores the connections between elite athletes and Marvel superheros such as Spider Man, Black Widow and Captain America.",
-    "popularity": 1.806,
+    "popularity": 2.087,
     "poster_path": null,
     "release_date": "2015-03-17",
     "title": "Marvel & ESPN Films Present: 1 of 1: Genesis",

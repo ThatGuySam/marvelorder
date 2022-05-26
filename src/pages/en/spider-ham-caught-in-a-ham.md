@@ -22,7 +22,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Spider-Ham: Caught in a Ham",
     "overview": "Spider-Ham: Caught in a Ham follows Spider-Ham as he faces off against bad guys, chows down on hot dogs, and makes plenty of food-based puns.",
-    "popularity": 5.281,
+    "popularity": 6.307,
     "poster_path": "/wuZ34Erl7kR5FmhAkimpfA5HF6m.jpg",
     "release_date": "2019-03-19",
     "title": "Spider-Ham: Caught in a Ham",

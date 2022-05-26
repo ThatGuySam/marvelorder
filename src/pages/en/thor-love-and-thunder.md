@@ -17,7 +17,7 @@ layout: ../../layouts/MainLayout.astro
 ```json
 {
     "adult": false,
-    "backdrop_path": "/9stSj68nRpNCQkqn67h3sTMoBUe.jpg",
+    "backdrop_path": "/bcpATvKQmSgCbwxONs9PPQrer3A.jpg",
     "genre_ids": [
         28,
         12,
@@ -26,8 +26,8 @@ layout: ../../layouts/MainLayout.astro
     "id": 616037,
     "original_language": "en",
     "original_title": "Thor: Love and Thunder",
-    "overview": "After his retirement is interrupted by a galactic killer who seeks the extinction of the gods, Thor enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now inexplicably wields Mjolnir as the Mighty Thor. Together, they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
-    "popularity": 112.403,
+    "overview": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now inexplicably wields Mjolnir as the Mighty Thor. Together, they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
+    "popularity": 157.364,
     "poster_path": "/2MiG2aG2OrOgnPpbv8xnuS984xQ.jpg",
     "release_date": "2022-07-06",
     "title": "Thor: Love and Thunder",

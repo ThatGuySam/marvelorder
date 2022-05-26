@@ -18,7 +18,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Madame Web",
     "overview": "An origin story of the clairvoyant known as Madame Web, whose psychic abilities allow her to see within the spider world.",
-    "popularity": 2.894,
+    "popularity": 4.052,
     "poster_path": "/urh8yBp7ihPaBeLSmlYmJB3qgYy.jpg",
     "release_date": "2023-07-07",
     "title": "Madame Web",

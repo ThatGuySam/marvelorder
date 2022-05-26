@@ -23,7 +23,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Marvel One-Shot: Agent Carter",
     "overview": "The film takes place one year after the events of Captain America: The First Avenger, in which Agent Carter, a member of the Strategic Scientific Reserve, is in search of the mysterious Zodiac.",
-    "popularity": 27.128,
+    "popularity": 22.574,
     "poster_path": "/4vFKKWPvCVDJTOWiwReBfpAMScP.jpg",
     "release_date": "2013-09-03",
     "title": "Marvel One-Shot: Agent Carter",

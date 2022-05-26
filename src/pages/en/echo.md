@@ -26,7 +26,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "Echo",
     "overview": "After her ruthless behavior in New York City catches up with her in her hometown, Maya Lopez must face her past, reconnect with her Native American roots and embrace the meaning of family and community if she ever hopes to move forward.",
-    "popularity": 4.237,
+    "popularity": 5.932,
     "poster_path": "/3bv5Dv3YmQfzg5ckQMwzCUQ89hU.jpg",
     "vote_average": 0,
     "vote_count": 0,

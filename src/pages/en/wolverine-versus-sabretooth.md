@@ -19,7 +19,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Wolverine Versus Sabretooth",
     "overview": "It's claw versus claw as Logan faces his age-old foe in the latest Marvel Knights Animation, Wolverine Vs. Sabretooth.",
-    "popularity": 1.987,
+    "popularity": 1.893,
     "poster_path": "/xhhsWTu80RX05uDF3b3R22kyluc.jpg",
     "release_date": "2014-01-14",
     "title": "Wolverine Versus Sabretooth",

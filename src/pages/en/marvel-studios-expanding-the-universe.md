@@ -19,7 +19,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Marvel Studios: Expanding the Universe",
     "overview": "An exciting look into the future of Marvel Studios' films and upcoming Disney+ series.",
-    "popularity": 19.604,
+    "popularity": 17.94,
     "poster_path": "/dU7qXzttvOUvSlwwpEFQDsLnThK.jpg",
     "release_date": "2019-11-12",
     "title": "Marvel Studios: Expanding the Universe",

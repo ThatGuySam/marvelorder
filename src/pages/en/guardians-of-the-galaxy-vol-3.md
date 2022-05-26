@@ -20,7 +20,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Guardians of the Galaxy Vol. 3",
     "overview": "The third and final film in the Guardians of the Galaxy trilogy.",
-    "popularity": 38.188,
+    "popularity": 40.435,
     "poster_path": "/1neAtYqPFfuyzpOnj3ZVDXtGXLf.jpg",
     "release_date": "2023-05-03",
     "title": "Guardians of the Galaxy Vol. 3",

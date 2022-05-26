@@ -23,7 +23,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "I Am Groot",
     "overview": "Everyone’s favorite little tree, Baby Groot, stars in a series of shorts featuring several new and unusual characters.",
-    "popularity": 6.467,
+    "popularity": 4.97,
     "poster_path": "/isYAlE7hfuvd9Tfbr0cLCcAjgfX.jpg",
     "vote_average": 0,
     "vote_count": 0,

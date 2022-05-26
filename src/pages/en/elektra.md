@@ -22,7 +22,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Elektra",
     "overview": "Elektra the warrior survives a near-death experience, becomes an assassin-for-hire, and tries to protect her two latest targets, a single father and his young daughter, from a group of supernatural assassins.",
-    "popularity": 16.655,
+    "popularity": 20,
     "poster_path": "/Z4dAOxjAHTUZO6DJ2WVAsxzwe3.jpg",
     "release_date": "2005-01-13",
     "title": "Elektra",

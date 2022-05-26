@@ -21,7 +21,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Astonishing X-Men: Gifted",
     "overview": "Cyclops and Emma Frost re-form the X-Men with the express purpose of \"astonishing\" the world. But when breaking news regarding a cure to the mutant gene unexpectedly hits the airwaves, will it derail their new plans before they even get started? Kitty Pride ( aka shadowcat ) returns to the mansion.",
-    "popularity": 5.861,
+    "popularity": 4.812,
     "poster_path": "/48MJRUJY3Yf5jyMLbJFAFmQkAdz.jpg",
     "release_date": "2010-09-28",
     "title": "Astonishing X-Men: Gifted",

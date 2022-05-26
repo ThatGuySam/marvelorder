@@ -23,7 +23,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Celebrating Marvel's Stan Lee",
     "overview": "Filmed in part in front of a live audience at The New Amsterdam Theater in New York City, this Stan Lee tribute takes viewers on an action-packed journey throughout the life of Lee and across the Marvel Universe, sharing never-before-seen interviews and archive footage with Lee himself from deep within the Marvel and ABC News archives.",
-    "popularity": 2.736,
+    "popularity": 3.83,
     "poster_path": "/8qlFNCxQQOLfnqwRcHY6WMkb7tF.jpg",
     "release_date": "2019-12-20",
     "title": "Celebrating Marvel's Stan Lee",
