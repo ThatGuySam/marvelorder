@@ -29,8 +29,8 @@ function makeSlug ( name ) {
     })
 }
 
-async function fetchTitles ({ company, type }) {
-    const titles = {}
+async function fetchListings ({ company, type }) {
+    const listings = {}
 
     let total_pages = Infinity
     let page = 1
@@ -52,17 +52,17 @@ async function fetchTitles ({ company, type }) {
         for ( const result of data.results ) {
 
             // If we've already seen this title, add the new company to the list
-            if ( titles[ result.id ] ) {
+            if ( listings[ result.id ] ) {
                 console.log( 'Merging company', result )
 
-                titles[ result.id ].companies.push( company )
+                listings[ result.id ].companies.push( company )
                 continue
             }
 
             const title = result.name || result.title
             const slug = makeSlug( title )
 
-            titles[ result.id ] = {
+            listings[ result.id ] = {
                 ...result,
                 title,
                 slug,
@@ -75,40 +75,40 @@ async function fetchTitles ({ company, type }) {
         page += 1
     }
 
-    return titles
+    return listings
 }
 
 // Fetches movies from the 
-async function fetchTitlesFromCompanies ( companies ) {
-    const titles = {}
+async function fetchListingsFromCompanies ( companies ) {
+    const listings = {}
 
     for ( const company of companies ) {
 
-        const movies = await fetchTitles ({ company, type: 'movie' })
-        const tvShows = await fetchTitles ({ company, type: 'tv' })
+        const movies = await fetchListings ({ company, type: 'movie' })
+        const tvShows = await fetchListings ({ company, type: 'tv' })
 
-        // Merge into titles
+        // Merge into listings
         for ( const id in movies ) {
-            titles[ id ] = movies[ id ]
+            listings[ id ] = movies[ id ]
         }
         
         for ( const id in tvShows ) {
-            titles[ id ] = tvShows[ id ]
+            listings[ id ] = tvShows[ id ]
         }
         
     }
 
     // Sort movies by release_date/first_air_date and empty first
-    const sortedTitles = Object.values(titles)
+    const sortedListings = Object.values(listings)
         .sort( byListingDate )
 
-    return sortedTitles
+    return sortedListings
 }
 
 
-async function saveTitlesAsMarkdown ( titles ) {
+async function saveListingsAsMarkdown ( listings ) {
 
-    for ( const listing of titles ) {
+    for ( const listing of listings ) {
 
         const filePath = `${ storePath }/${ listing.slug }.md`
         const hasExistingFile = await exists( filePath )
@@ -144,11 +144,11 @@ async function saveTitlesAsMarkdown ( titles ) {
 
 ;(async () => {
 
-    const titles = await fetchTitlesFromCompanies( TMDB_COMPANIES )
+    const listings = await fetchListingsFromCompanies( TMDB_COMPANIES )
 
-    await writeJSON( `${ storePath }/titles.json`, titles, null, '\t' )
+    await writeJSON( `${ storePath }/listings.json`, listings, null, '\t' )
 
-    await saveTitlesAsMarkdown( titles )
+    await saveListingsAsMarkdown( listings )
 
     console.log('Pull complete.')
 
