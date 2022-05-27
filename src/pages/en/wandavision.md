@@ -25,7 +25,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "WandaVision",
     "overview": "Wanda Maximoff and Vision—two super-powered beings living idealized suburban lives—begin to suspect that everything is not as it seems.",
-    "popularity": 308.02,
+    "popularity": 288.244,
     "poster_path": "/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
     "vote_average": 8.3,
     "vote_count": 10058,

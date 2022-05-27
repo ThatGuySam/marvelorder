@@ -21,7 +21,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Peter's To-Do List",
     "overview": "On the eve of his departure to Europe, Peter Parker tells Ned Leeds that he has several things to do before they leave.",
-    "popularity": 19.545,
+    "popularity": 17.35,
     "poster_path": "/wf7SV7nSgxjSB9nCcCZGkwWTAdd.jpg",
     "release_date": "2019-09-17",
     "title": "Peter's To-Do List",

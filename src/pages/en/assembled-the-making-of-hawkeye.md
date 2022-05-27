@@ -23,7 +23,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "ASSEMBLED: The Making of Hawkeye",
     "overview": "Join the likes of Jeremy Renner, Hailee Steinfeld, Florence Pugh, and Vincent D’Onofrio as they reveal how Marvel Studios’ “Hawkeye” was conceived and created. Witness firsthand what it took to pull off the show’s pulse-pounding action set pieces, and discover how iconic characters from the pages of Marvel Comics such as Kate Bishop were adapted and brought to life for the six-episode series.",
-    "popularity": 15.542,
+    "popularity": 16.09,
     "poster_path": "/pQOLNPHe4rwXl3RpKNa0VWjYNLR.jpg",
     "release_date": "2022-02-09",
     "title": "ASSEMBLED: The Making of Hawkeye",

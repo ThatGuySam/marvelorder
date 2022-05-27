@@ -26,7 +26,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "Marvel's Luke Cage",
     "overview": "Given superstrength and durability by a sabotaged experiment, a wrongly accused man escapes prison to become a superhero for hire.",
-    "popularity": 53.341,
+    "popularity": 47.763,
     "poster_path": "/quTfV803fGaSADzTeEqCbIZnt9d.jpg",
     "vote_average": 7,
     "vote_count": 1290,

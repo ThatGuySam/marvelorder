@@ -17,7 +17,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Marvel Studios' 2021 Disney+ Day Special",
     "overview": "Explore the Disney+ series of the MCU—past, present and future.",
-    "popularity": 7.498,
+    "popularity": 7.362,
     "poster_path": "/zh0B5DDP93e3zokktb5aHHfIh01.jpg",
     "release_date": "2021-11-12",
     "title": "Marvel Studios' 2021 Disney+ Day Special",

@@ -26,7 +26,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "The Falcon and the Winter Soldier",
     "overview": "Following the events of “Avengers: Endgame”, the Falcon, Sam Wilson and the Winter Soldier, Bucky Barnes team up in a global adventure that tests their abilities, and their patience.",
-    "popularity": 160.826,
+    "popularity": 128.17,
     "poster_path": "/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
     "vote_average": 7.8,
     "vote_count": 7137,

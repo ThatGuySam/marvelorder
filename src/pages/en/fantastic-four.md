@@ -22,7 +22,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "Fantastic Four",
     "overview": "The first animated series based on Marvel's comic book series Fantastic Four.",
-    "popularity": 6.395,
+    "popularity": 4.65,
     "poster_path": "/o2jhtGqOR3UAWg4wIBu21Ub4ecP.jpg",
     "vote_average": 7.4,
     "vote_count": 73,

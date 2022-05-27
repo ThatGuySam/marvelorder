@@ -27,7 +27,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "Marvel's Ultimate Comics",
     "overview": "After Spider-Man stops some crooks from robbing a Stark Enterprises facility, Iron Man decides to pay him back with some on the job training. His plan goes awry when D-List villain Batroc the Leaper returns with new powers. Black Panther gets a visit from Everett K. Ross to discuss security for a possible international summit in Wakanda. The visit is unexpectedly interrupted by super-villain, Ghost.",
-    "popularity": 1.976,
+    "popularity": 1.644,
     "poster_path": "/6ObO02dL4QbzMuhnW3jU3XYkuAq.jpg",
     "vote_average": 4.3,
     "vote_count": 3,

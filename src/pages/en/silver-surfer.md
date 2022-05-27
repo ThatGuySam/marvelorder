@@ -25,7 +25,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "Silver Surfer",
     "overview": "The adventures of the cosmic wanderer as he seeks his lost home after rebelling from his master.",
-    "popularity": 4.24,
+    "popularity": 4.797,
     "poster_path": "/mBJTL4CRSoNkAQRmfwbiLTtviuW.jpg",
     "vote_average": 7.6,
     "vote_count": 47,

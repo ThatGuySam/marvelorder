@@ -21,7 +21,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Marvel Studios: Assembling a Universe",
     "overview": "A look at the story behind Marvel Studios and the Marvel Cinematic Universe, featuring interviews and behind-the-scenes footage from all of the Marvel films, the Marvel One-Shots and \"Marvel's Agents of S.H.I.E.L.D.\"",
-    "popularity": 12.093,
+    "popularity": 16.069,
     "poster_path": "/41Ke02UzYoPsiTc3YbomPGiQKMl.jpg",
     "release_date": "2014-03-18",
     "title": "Marvel Studios: Assembling a Universe",

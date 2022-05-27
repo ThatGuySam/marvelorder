@@ -25,7 +25,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "ja",
     "original_name": "ディスク・ウォーズ:アベンジャーズ",
     "overview": "A group of teenagers join forces with the Avengers, Earth's mightiest heroes, to fight against the tyrannical Loki and his mighty empire.",
-    "popularity": 7.3,
+    "popularity": 5.161,
     "poster_path": "/h97gzg5LbUDZ61rAfNmR4OS0AzT.jpg",
     "vote_average": 4.5,
     "vote_count": 2,

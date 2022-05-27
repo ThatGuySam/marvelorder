@@ -19,7 +19,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "Untitled Daredevil Series",
     "overview": "",
-    "popularity": 1.257,
+    "popularity": 1.76,
     "poster_path": null,
     "vote_average": 0,
     "vote_count": 0,

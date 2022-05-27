@@ -21,7 +21,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Untitled Marvel Halloween Special",
     "overview": "A Marvel Halloween special for Disney+ based around the character Werewolf by Night.",
-    "popularity": 2.067,
+    "popularity": 1.24,
     "poster_path": null,
     "release_date": "",
     "title": "Untitled Marvel Halloween Special",

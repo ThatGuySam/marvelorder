@@ -30,7 +30,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "Black Panther",
     "overview": "Deep in the heart of Africa lies Wakanda, an advanced and unconquerable civilization. A family of warrior kings possessing superior speed, strength and agility has governed this mysterious nation as long as time itself. The latest in this famed line is young King T’Challa, the great hero known worldwide as the Black Panther. Now, outsiders once again threaten to invade and plunder Wakanda.",
-    "popularity": 5.61,
+    "popularity": 7.854,
     "poster_path": "/3ceDcLkeK3egaqg3AVnqpn6L638.jpg",
     "vote_average": 7.1,
     "vote_count": 16,

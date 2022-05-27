@@ -26,7 +26,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "Thor & Loki: Blood Brothers",
     "overview": "Inspired by the acclaimed graphic novel from Robert Rodi and Esad Ribic, Marvel Knights Animation's \"Thor & Loki: Blood Brothers\" takes a powerful look inside the minds of Thor & Loki, brothers in the mythical land of Asgard and seemingly forever enemies. But just why does Loki hate his brother Thor? And could it be that this master of mischief isn’t really the villain he’s been branded? Loki's insatiable lust for power and his feud with Thor take on new meaning in this resonant epic.",
-    "popularity": 22.393,
+    "popularity": 24.822,
     "poster_path": "/tvd33sRfEEf4fBlyqxTI62wY9qF.jpg",
     "vote_average": 6.9,
     "vote_count": 7,

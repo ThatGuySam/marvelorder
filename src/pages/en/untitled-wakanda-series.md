@@ -22,7 +22,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "Untitled Wakanda Series",
     "overview": "Upcoming Marvel Cinematic Universe series set in the Kingdom of Wakanda.",
-    "popularity": 1.164,
+    "popularity": 0.698,
     "poster_path": null,
     "vote_average": 0,
     "vote_count": 0,

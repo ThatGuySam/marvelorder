@@ -24,7 +24,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "Secret Invasion",
     "overview": "Nick Fury and Talos discover a faction of shapeshifting Skrulls who have been infiltrating Earth for years.",
-    "popularity": 8.123,
+    "popularity": 4.968,
     "poster_path": "/qRNTyyJ7jPo0UPbr3kcUVtfjmjE.jpg",
     "vote_average": 0,
     "vote_count": 0,

@@ -27,7 +27,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "Legion",
     "overview": "David Haller, AKA Legion, is a troubled young man who may be more than human. Diagnosed as schizophrenic, David has been in and out of psychiatric hospitals for years. But after a strange encounter with a fellow patient, he’s confronted with the possibility that the voices he hears and the visions he sees might be real.",
-    "popularity": 33.891,
+    "popularity": 34.001,
     "poster_path": "/vT0Zsbm4GWd7llNjgWEtwY0CqOv.jpg",
     "vote_average": 7.6,
     "vote_count": 1075,

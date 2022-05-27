@@ -28,7 +28,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "Marvel's M.O.D.O.K.",
     "overview": "The megalomaniacal supervillain M.O.D.O.K. has long pursued his dream of one day conquering the world. But after years of setbacks and failures fighting the Earth’s mightiest heroes, M.O.D.O.K. has run his evil organization A.I.M. into the ground. Ousted as A.I.M.’s leader, while also dealing with his crumbling marriage and family life, the Mental Organism Designed Only for Killing is set to confront his greatest challenge yet: a midlife crisis!",
-    "popularity": 25.356,
+    "popularity": 21.853,
     "poster_path": "/dOOFAtzsRQ641p2NL4s4nyThJSO.jpg",
     "vote_average": 7.1,
     "vote_count": 108,

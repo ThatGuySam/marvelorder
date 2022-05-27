@@ -21,7 +21,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Wolverine Weapon X: Tomorrow Dies Today",
     "overview": "It’s the debut of an all-new, all-different Deathlok. Killer cyborgs have come from the future to kill the heroes of today, while Wolverine embarks on an international pub crawl with a certain recently reborn Sentinel of Liberty. Beer and bullets galore!",
-    "popularity": 1.526,
+    "popularity": 1.514,
     "poster_path": "/e8WAisdioWhANec2S5ihq8xuls7.jpg",
     "release_date": "2014-05-13",
     "title": "Wolverine Weapon X: Tomorrow Dies Today",
