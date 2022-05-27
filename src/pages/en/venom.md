@@ -22,13 +22,11 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Venom",
     "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
-    "popularity": 132.791,
     "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
     "release_date": "2018-09-28",
     "title": "Venom",
     "video": false,
     "vote_average": 6.8,
-    "vote_count": 13337,
     "slug": "venom",
     "type": "movie",
     "companies": [

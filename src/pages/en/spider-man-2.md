@@ -25,13 +25,11 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Spider-Man 2",
     "overview": "Peter Parker is going through a major identity crisis. Burned out from being Spider-Man, he decides to shelve his superhero alter ego, which leaves the city suffering in the wake of carnage left by the evil Doc Ock. In the meantime, Parker still can't act on his feelings for Mary Jane Watson, a girl he's loved since childhood. A certain anger begins to brew in his best friend Harry Osborn as well...",
-    "popularity": 38.149,
     "poster_path": "/olxpyq9kJAZ2NU1siLshhhXEPR7.jpg",
     "release_date": "2004-06-25",
     "title": "Spider-Man 2",
     "video": false,
     "vote_average": 7.2,
-    "vote_count": 12590,
     "slug": "spider-man-2",
     "type": "movie",
     "companies": [

@@ -22,13 +22,11 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Spider-Man: Beyond the Spider-Verse",
     "overview": "The further continuing story of Miles Morales and the many other Spider-People from different realities.",
-    "popularity": 17.381,
     "poster_path": "/5cAuJOfd5tuuFBz2yQmBCtVBaj0.jpg",
     "release_date": "2024-03-28",
     "title": "Spider-Man: Beyond the Spider-Verse",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0,
     "slug": "spider-man-beyond-the-spider-verse",
     "type": "movie",
     "companies": [

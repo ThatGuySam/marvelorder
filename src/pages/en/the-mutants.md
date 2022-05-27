@@ -19,13 +19,11 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "The Mutants",
     "overview": "Upcoming Marvel Studios film announced as in development at SDCC 2019.",
-    "popularity": 0.84,
     "poster_path": null,
     "release_date": "",
     "title": "The Mutants",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0,
     "slug": "the-mutants",
     "type": "movie",
     "companies": [

@@ -24,13 +24,11 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Thor: Ragnarok",
     "overview": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.",
-    "popularity": 272.32,
     "poster_path": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
     "release_date": "2017-10-24",
     "title": "Thor: Ragnarok",
     "video": false,
     "vote_average": 7.6,
-    "vote_count": 17656,
     "slug": "thor-ragnarok",
     "type": "movie",
     "companies": [

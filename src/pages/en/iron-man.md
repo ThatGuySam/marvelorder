@@ -22,13 +22,11 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Iron Man",
     "overview": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
-    "popularity": 128.228,
     "poster_path": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
     "release_date": "2008-04-30",
     "title": "Iron Man",
     "video": false,
     "vote_average": 7.6,
-    "vote_count": 22756,
     "slug": "iron-man",
     "type": "movie",
     "companies": [

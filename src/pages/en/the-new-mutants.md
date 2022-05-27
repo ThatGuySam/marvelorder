@@ -23,13 +23,11 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "The New Mutants",
     "overview": "Five young mutants, just discovering their abilities while held in a secret facility against their will, fight to escape their past sins and save themselves.",
-    "popularity": 82.573,
     "poster_path": "/xZNw9xxtwbEf25NYoz52KdbXHPM.jpg",
     "release_date": "2020-08-26",
     "title": "The New Mutants",
     "video": false,
     "vote_average": 6.2,
-    "vote_count": 2678,
     "slug": "the-new-mutants",
     "type": "movie",
     "companies": [

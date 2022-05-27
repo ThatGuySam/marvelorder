@@ -19,13 +19,11 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Ant-Man and the Wasp: Quantumania",
     "overview": "The third film in the Marvel Studios' Ant-Man trilogy.",
-    "popularity": 14.79,
     "poster_path": "/mYCBuVGQGWPlUNZQusdHfbSzP1h.jpg",
     "release_date": "2023-02-15",
     "title": "Ant-Man and the Wasp: Quantumania",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0,
     "slug": "ant-man-and-the-wasp-quantumania",
     "type": "movie",
     "companies": [

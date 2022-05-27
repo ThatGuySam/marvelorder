@@ -22,13 +22,11 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Doctor Strange in the Multiverse of Madness",
     "overview": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
-    "popularity": 2966.347,
     "poster_path": "/odQ902qHzB4B7ltLrIzDa6hCl9U.jpg",
     "release_date": "2022-05-04",
     "title": "Doctor Strange in the Multiverse of Madness",
     "video": false,
     "vote_average": 7.4,
-    "vote_count": 1882,
     "slug": "doctor-strange-in-the-multiverse-of-madness",
     "type": "movie",
     "companies": [

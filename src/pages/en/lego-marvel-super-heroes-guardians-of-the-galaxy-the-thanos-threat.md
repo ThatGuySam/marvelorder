@@ -21,13 +21,11 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "LEGO Marvel Super Heroes: Guardians of the Galaxy - The Thanos Threat",
     "overview": "The Guardians are on a mission to deliver the Build Stone to the Avengers before the Ravagers, Thanos and his underlings steal it from them.",
-    "popularity": 11.914,
     "poster_path": "/e5h1RlnQzjgEAh4s96k50S8XkKa.jpg",
     "release_date": "2017-12-09",
     "title": "LEGO Marvel Super Heroes: Guardians of the Galaxy - The Thanos Threat",
     "video": false,
     "vote_average": 7.1,
-    "vote_count": 37,
     "slug": "lego-marvel-super-heroes-guardians-of-the-galaxy-the-thanos-threat",
     "type": "movie",
     "companies": [

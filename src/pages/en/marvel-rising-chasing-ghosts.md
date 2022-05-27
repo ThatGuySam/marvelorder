@@ -22,13 +22,11 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Marvel Rising: Chasing Ghosts",
     "overview": "Hot on the trails of Sheath and Exile, Ghost-Spider teams up with the rest of the Secret Warriors to bring down the villains for good.",
-    "popularity": 4.811,
     "poster_path": "/pufQvXrrxng95dT4kYlQtXn98kK.jpg",
     "release_date": "2019-01-16",
     "title": "Marvel Rising: Chasing Ghosts",
     "video": false,
     "vote_average": 7.3,
-    "vote_count": 34,
     "slug": "marvel-rising-chasing-ghosts",
     "type": "movie",
     "companies": [

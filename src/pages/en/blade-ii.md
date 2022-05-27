@@ -25,13 +25,11 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Blade II",
     "overview": "A rare mutation has occurred within the vampire community - The Reaper. A vampire so consumed with an insatiable bloodlust that they prey on vampires as well as humans, transforming victims who are unlucky enough to survive into Reapers themselves. Blade is asked by the Vampire Nation for his help in preventing a nightmare plague that would wipe out both humans and vampires.",
-    "popularity": 42.316,
     "poster_path": "/azzTa03g0Fb8HC7O3521qq0oc8Q.jpg",
     "release_date": "2002-03-22",
     "title": "Blade II",
     "video": false,
     "vote_average": 6.5,
-    "vote_count": 3837,
     "slug": "blade-ii",
     "type": "movie",
     "companies": [

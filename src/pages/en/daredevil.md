@@ -20,13 +20,11 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Daredevil",
     "overview": "A man blinded in a childhood accident fights crime using his superhumanly-elevated remaining senses.",
-    "popularity": 30.25,
     "poster_path": "/oCDBwSkntYamuw8VJIxMRCtDBmi.jpg",
     "release_date": "2003-02-14",
     "title": "Daredevil",
     "video": false,
     "vote_average": 5.2,
-    "vote_count": 4226,
     "slug": "daredevil",
     "type": "movie",
     "companies": [

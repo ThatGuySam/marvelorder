@@ -17,13 +17,11 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "The Making of Doctor Strange in the Multiverse of Madness",
     "overview": "",
-    "popularity": 0.712,
     "poster_path": null,
     "release_date": "2022-06-22",
     "title": "The Making of Doctor Strange in the Multiverse of Madness",
     "video": false,
     "vote_average": 0,
-    "vote_count": 0,
     "slug": "the-making-of-doctor-strange-in-the-multiverse-of-madness",
     "type": "movie",
     "companies": [

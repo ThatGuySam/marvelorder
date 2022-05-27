@@ -22,13 +22,11 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Guardians of the Galaxy",
     "overview": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
-    "popularity": 63.606,
     "poster_path": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
     "release_date": "2014-07-30",
     "title": "Guardians of the Galaxy",
     "video": false,
     "vote_average": 7.9,
-    "vote_count": 24423,
     "slug": "guardians-of-the-galaxy",
     "type": "movie",
     "companies": [
