@@ -10,6 +10,12 @@
     // Enable stricter transpilation for better output.
     "isolatedModules": true,
     // Add type definitions for our Vite runtime.
+
+    // https://www.typescriptlang.org/tsconfig#esModuleInterop
+    "esModuleInterop": true, 
+    // https://www.typescriptlang.org/tsconfig#allowSyntheticDefaultImports
+    "allowSyntheticDefaultImports": true,
+
     "types": [ "vite/client", "node" ]
   }
 }
