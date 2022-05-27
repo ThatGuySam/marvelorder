@@ -29,8 +29,24 @@ function makeSlug ( name ) {
     })
 }
 
-async function fetchListings ({ company, type }) {
+function cleanListings ( fetchedListings ) {
     const listings = {}
+
+    for ( const id in fetchedListings ) {
+
+        // Delete noisy properties
+        // so we don't get a bunch of noise in our commits
+        delete fetchedListings[id].popularity
+        delete fetchedListings[id].vote_count
+        
+
+    }
+
+    return fetchedListings
+}
+
+async function fetchListings ({ company, type }) {
+    const fetchedListings = {}
 
     let total_pages = Infinity
     let page = 1
@@ -52,17 +68,17 @@ async function fetchListings ({ company, type }) {
         for ( const result of data.results ) {
 
             // If we've already seen this title, add the new company to the list
-            if ( listings[ result.id ] ) {
+            if ( fetchedListings[ result.id ] ) {
                 console.log( 'Merging company', result )
 
-                listings[ result.id ].companies.push( company )
+                fetchedListings[ result.id ].companies.push( company )
                 continue
             }
 
             const title = result.name || result.title
             const slug = makeSlug( title )
 
-            listings[ result.id ] = {
+            fetchedListings[ result.id ] = {
                 ...result,
                 title,
                 slug,
@@ -75,7 +91,7 @@ async function fetchListings ({ company, type }) {
         page += 1
     }
 
-    return listings
+    return cleanListings( fetchedListings )
 }
 
 // Fetches movies from the 
