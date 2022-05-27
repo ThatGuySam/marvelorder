@@ -8,7 +8,8 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "pull": "deno run -q -A --unstable scripts/pull.mjs"
+    "pull": "deno run -q -A --unstable scripts/pull.mjs",
+    "netlify-build": "npm run test && npm run build"
   },
   "dependencies": {
     "@algolia/client-search": "^4.13.1",
