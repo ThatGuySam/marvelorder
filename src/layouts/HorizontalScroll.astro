@@ -1,0 +1,38 @@
+---
+import HeadCommon from '../components/HeadCommon.astro';
+import HeadSEO from '../components/HeadSEO.astro';
+// import Header from '../components/Header/Header.astro';
+// import Footer from '../components/Footer/Footer.astro';
+// import PageContent from '../components/PageContent/PageContent.astro';
+// import LeftSidebar from '../components/LeftSidebar/LeftSidebar.astro';
+// import RightSidebar from '../components/RightSidebar/RightSidebar.astro';
+import * as CONFIG from '../config';
+
+const { content = {} } = Astro.props;
+const currentPage = new URL(Astro.request.url).pathname;
+const currentFile = `src/pages${currentPage.replace(/\/$/, '')}.md`;
+const githubEditUrl = CONFIG.GITHUB_EDIT_URL && CONFIG.GITHUB_EDIT_URL + currentFile;
+---
+
+<html dir={content.dir ?? 'ltr'} lang={content.lang ?? 'en-us'} class="initial fill-height">
+	<head>
+		<HeadCommon />
+		<HeadSEO {content} canonicalURL={Astro.canonicalURL} />
+		<title>{content.title ? `${content.title} 🚀 ${CONFIG.SITE.title}` : CONFIG.SITE.title}</title>
+		<style>
+			body {
+				width: 100%;
+			}
+		</style>
+	</head>
+
+	<body class="fill-height">
+		<main>
+			<!-- <aside id="grid-left" class="grid-sidebar" title="Site Navigation"></aside> -->
+			<div id="grid-main" class="fill-height">
+				<slot />
+			</div>
+			<!-- <aside id="grid-right" class="grid-sidebar" title="Table of Contents"></aside> -->
+		</main>
+	</body>
+</html>
