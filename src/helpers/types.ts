@@ -15,6 +15,7 @@ export interface Listing {
     vote_average: number
     vote_count: number
     type: string
+    logo_on_black?: string
     slug: string
     companies: Array<{
         id: number
