@@ -3,6 +3,7 @@ title: The Marvels
 slug: the-marvels
 description: The sequel to Captain Marvel (2019).
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/bnz17wOkp9O0c9JADOncEx0Q1sJ.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
