@@ -16,6 +16,13 @@
     // https://www.typescriptlang.org/tsconfig#allowSyntheticDefaultImports
     "allowSyntheticDefaultImports": true,
 
-    "types": [ "vite/client", "node" ]
+    "types": [ "vite/client", "node" ],
+
+    "baseUrl": ".",
+    "paths": {
+        "~/*": ["./*"],
+        "~helpers": ["./src/helpers/*"],
+        "~astro": ["./src/*"]
+    }
   }
 }
