@@ -20,6 +20,7 @@ import {
     makeNewListingContents,
     getPartsFromMarkdown
 } from '../src/helpers/markdown-page.ts'
+import { makeListingEndpoint } from '../src/helpers/listing.ts'
 
 function makeSlug ( name ) {
     return slugify(name, {
@@ -126,7 +127,7 @@ async function saveListingsAsMarkdown ( listings ) {
 
     for ( const listing of listings ) {
 
-        const filePath = `${ storePath }/${ listing.slug }-${ listing.id }.md`
+        const filePath = `${ storePath }/${ makeListingEndpoint( listing ) }.md`
         const hasExistingFile = await exists( filePath )
 
         let content = ''
@@ -162,7 +163,7 @@ async function saveListingsAsMarkdown ( listings ) {
 
     const listings = await fetchListingsFromCompanies( TMDB_COMPANIES )
 
-    await writeJSON( `${ storePath }/listings.json`, listings, null, '\t' )
+    await writeJSON( `${ storePath }/en/listings.json`, listings, null, '\t' )
 
     await saveListingsAsMarkdown( listings )
 

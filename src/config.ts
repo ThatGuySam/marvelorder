@@ -46,7 +46,7 @@ export const SIDEBAR = {
 };
 
 
-export const storePath = './src/pages/en'
+export const storePath = './src/pages'
 
 export const TMDB_COMPANIES = [
 	{
