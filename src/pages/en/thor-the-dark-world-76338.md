@@ -8,6 +8,7 @@ description: >-
   his most perilous and personal journey yet, one that will reunite him with
   Jane Foster and force him to sacrifice everything to save us all.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/uwQbAHY7cttDgcX2Av1mm51PsRx.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

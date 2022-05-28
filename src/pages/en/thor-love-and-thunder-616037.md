@@ -9,6 +9,7 @@ description: >-
   uncover the mystery of the God Butcher’s vengeance and stop him before it’s
   too late.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/ifx23jgqQ8ZjUb9eiGjwbKtf0qQ.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
