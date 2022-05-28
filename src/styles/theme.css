@@ -85,7 +85,7 @@ body {
 	color: var(--theme-text);
 }
 
-:root.theme-dark {
+:root {
 	color-scheme: dark;
 	--theme-accent-opacity: 0.15;
 	--theme-accent: hsla(var(--color-blue), 1);
