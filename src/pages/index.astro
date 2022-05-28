@@ -1,10 +1,10 @@
 ---
 import { byListingDate } from '../helpers/sort.ts'
 import { getListingFromFile } from '../helpers/node/listing.ts'
-import { getLayoutModes } from '../helpers/layout.ts'
 import { MappedListing } from '../helpers/node/listing.ts'
 
 import Layout from '../layouts/HorizontalScroll.astro'
+import ListingColumn from '../components/listing-column.astro'
 
 const pages = await Astro.glob('../pages/en/*.md')
 
@@ -29,30 +29,15 @@ listings = listings.sort( byListingDate ).reverse()
 	<div class="listing-row relative fill-height w-screen">
 
 		<div 
-			class="listing-row-contents flex overflow-x-auto whitespace-no-wrap space-x-6" 
+			class="listing-row-contents flex overflow-x-auto whitespace-no-wrap" 
 			style="scroll-snap-type:x mandatory;"
 		>
 
 			{ listings.map( ( listing, listingIndex ) => (
-				<article 
-					class="listing-card w-full h-screen flex-shrink-0 flex-grow-0 border-2 rounded-2xl overflow-hidden p-4" 
-					style="max-width: 325px; flex-basis: 325px; scroll-snap-align: end;"
-				>
-					<a href={ `/en/${ listing.slug }` } class="">
-						<div 
-							class={ `listing-card-container flex flex-col justify-${ getLayoutModes( listingIndex ).outer } overflow-hidden bg-black` }
-						>
-
-							<!-- Video Text Content -->
-							<div 
-								class={`listing-card-content flex items-${ getLayoutModes( listingIndex ).inner } py-4 px-6`}
-							>
-								<h2 class="w-full text-3xl test-white font-bold text-left whitespace-normal">{ listing.title }</h2>
-								<div>{ listing.year }</div>
-							</div>
-						</div>
-					</a>
-				</article>
+				<ListingColumn 
+					listing={ listing }
+					index={ listingIndex }
+				/>
 			)) }
 
 		</div>
