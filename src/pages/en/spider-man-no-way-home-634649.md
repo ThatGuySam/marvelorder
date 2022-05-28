@@ -7,7 +7,7 @@ description: >-
   Strange the stakes become even more dangerous, forcing him to discover what it
   truly means to be Spider-Man.
 type: movie
-logo_on_black: /.netlify/functions/tmdb-image/5RjyUm9HP2ZRwvqCqK9sDqlQHxa.jpg
+logo_on_black: /.netlify/functions/tmdb-image/5RjyUm9HP2ZRwvqCqK9sDqlQHxa.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

@@ -8,7 +8,7 @@ description: >-
   powers like the heroes she’s always looked up to. Life is easier with super
   powers, right?
 type: tv
-logo_on_black: /.netlify/functions/tmdb-image/7UGKZ5c0HSwro6n7GChl8uyaIfy.jpg
+logo_on_black: /.netlify/functions/tmdb-image/7UGKZ5c0HSwro6n7GChl8uyaIfy.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

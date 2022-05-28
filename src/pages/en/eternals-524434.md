@@ -7,7 +7,7 @@ description: >-
   the shadows, they are forced to reunite against mankind’s most ancient enemy,
   the Deviants.
 type: movie
-logo_on_black: /.netlify/functions/tmdb-image/baGpVQSp3SlY3GEwIg3oAnbbkpH.jpg
+logo_on_black: /.netlify/functions/tmdb-image/uRc0RTpUszMFakhXouZzK1clLsb.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

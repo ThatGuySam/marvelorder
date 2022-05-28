@@ -9,7 +9,7 @@ description: >-
   identities while thrust into a deadly mystery among the powerful gods of
   Egypt.
 type: tv
-logo_on_black: /.netlify/functions/tmdb-image/zFLOpjoo5pViEa71ZyDliJqhskn.jpg
+logo_on_black: /.netlify/functions/tmdb-image/zFLOpjoo5pViEa71ZyDliJqhskn.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

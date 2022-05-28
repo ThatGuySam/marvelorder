@@ -6,7 +6,7 @@ description: >-
   explores a pivotal moment from the Marvel Cinematic Universe and turns it on
   its head, leading the audience into uncharted territory.
 type: tv
-logo_on_black: /.netlify/functions/tmdb-image/wzFmZOBRSYbrPxJE2nkhq2tAKwI.jpg
+logo_on_black: /.netlify/functions/tmdb-image/wzFmZOBRSYbrPxJE2nkhq2tAKwI.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

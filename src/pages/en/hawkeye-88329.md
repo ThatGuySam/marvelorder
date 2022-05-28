@@ -8,7 +8,7 @@ description: >-
   work together when a presence from Barton’s past threatens to derail far more
   than the festive spirit.
 type: tv
-logo_on_black: /.netlify/functions/tmdb-image/lpBHu9ZXCcuzq1XGPZo02U3Ah9f.jpg
+logo_on_black: /.netlify/functions/tmdb-image/lpBHu9ZXCcuzq1XGPZo02U3Ah9f.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
