@@ -3,6 +3,7 @@ title: 'Black Panther: Wakanda Forever'
 slug: black-panther-wakanda-forever
 description: The sequel to Black Panther (2018).
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/6N6Rr1Y5wsi2KbTP4hFAP3hnWQE.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
