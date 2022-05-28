@@ -5,6 +5,7 @@ import matter from 'gray-matter'
 
 // @ts-ignore
 import { Listing } from './types.ts'
+import { makeListingEndpoint } from '../listing.ts'
 import { 
     getPartsFromMarkdown, 
     parseTMDbMarkdown
@@ -57,6 +58,10 @@ export class MappedListing {
 
     get year () {
         return this.date.year
+    }
+
+    get endpoint () {
+        return makeListingEndpoint( this.sourceListing )
     }
     
 }

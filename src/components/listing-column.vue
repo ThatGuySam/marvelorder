@@ -7,7 +7,7 @@
 			scrollSnapAlign: 'end' 
 		}"
 	>
-		<a :href="endpoint" class="">
+		<a :href="listing.endpoint" class="">
 			<div 
 				:class="[`listing-card-container flex gap-8 ${ outerDirection } h-screen justify-${ modes.outer }`]"
 			>
@@ -30,7 +30,7 @@
 						<div 
 							:class="`vertical-line w-1 bg-current h-full`"
 						/>
-						<div class="w-32">
+						<div class="w-32 text-center font-bold uppercase">
 							{{ listing.date.monthLong }} {{ listing.date.year }}
 						</div>
 					</div>
@@ -43,8 +43,7 @@
 
 				<div 
 					class="inner-container h-full"
-				>
-				</div>
+				/>
 
 			</div>
 		</a>
@@ -80,9 +79,6 @@ export default {
 		title () {
 			return this.listing.title
 		}, 
-        endpoint () {
-			return `/en/${ this.listing.slug }`
-		},
 		modes () {
 			return getLayoutModes( this.index )
 		},
