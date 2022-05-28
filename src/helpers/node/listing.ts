@@ -60,6 +60,10 @@ export class MappedListing {
         return this.date.year
     }
 
+    get dateHumanReadable () {
+        return `${ this.date.monthLong } ${ this.date.year }`
+    }
+
     get endpoint () {
         return makeListingEndpoint( this.sourceListing )
     }
