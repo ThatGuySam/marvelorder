@@ -5,6 +5,7 @@ description: >-
   Jennifer Walters navigates the complicated life of a single, 30-something
   attorney who also happens to be a green 6-foot-7-inch superpowered hulk.
 type: tv
+logo_on_black: /.netlify/functions/tmdb-image/9DjjTb8SEquq25sScE0SXRZiKZ1.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
