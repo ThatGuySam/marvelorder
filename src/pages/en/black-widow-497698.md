@@ -8,6 +8,7 @@ description: >-
   history as a spy and the broken relationships left in her wake long before she
   became an Avenger.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/3EM7YdUjcOWOV8rZoYUAGtrVzyc.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
