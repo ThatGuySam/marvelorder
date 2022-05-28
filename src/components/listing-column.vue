@@ -29,7 +29,7 @@
 							<img 
 								v-if="logo"
 								:src="logo"
-								class="w-full h-full object-cover relative"
+								class="w-full h-full object-contain relative max-h-28"
 								:alt="title"
 							/>
 							<h2 
