@@ -160,17 +160,23 @@ export async function handler( event ) {
         }
     }
 
+    // Trim source image
+    const trimmedSource = await sharp(sourceBufferData)
+        .resize(width, null, { withoutEnlargement: true })
+        .trim()
+        .toBuffer()
+
+
     // Set contrast and brightness for mask - https://github.com/lovell/sharp/issues/1958#issuecomment-552115591
     const contrast = 1.1;
     const brightness = 6.5;
 
     // Use an RGB channel buffer to create a easy Mask
     // https://github.com/lovell/sharp/issues/1113#issuecomment-363187713
-    const maskBuffer = await sharp(sourceBufferData)
+    const maskBuffer = await sharp( trimmedSource )
         .rotate()
         // .greyscale()
         .extractChannel('red') // also B or G would work
-        .resize(width, null, { withoutEnlargement: true })
         .linear(contrast, -(128 * contrast) + 128)
         .modulate({ brightness: brightness })
         .toBuffer()
@@ -178,7 +184,7 @@ export async function handler( event ) {
 
     // The format methods are just to set options: they don't
     // make it return that format.
-    const { info, data: outputBuffer } = await sharp(sourceBufferData)
+    const { info, data: outputBuffer } = await sharp( trimmedSource )
         .rotate()
         .ensureAlpha()
         .joinChannel( maskBuffer )
@@ -186,9 +192,7 @@ export async function handler( event ) {
         .png({ quality, force: true })
         // .webp({ quality, force: requestExtension === 'webp' })
         // .avif({ quality, force: requestExtension === 'avif' })
-        .resize(width, null, { withoutEnlargement: true })
         // Trims of any transparent pixels - https://github.com/lovell/sharp/issues/1246#issuecomment-393854745
-        // .trim()
         .toBuffer({ resolveWithObject: true })
 
     if (outputBuffer.length > MAX_RESPONSE_SIZE) {
