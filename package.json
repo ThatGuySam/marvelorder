@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "test": "vitest",
+    "dev-netlify": "netlify dev",
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
