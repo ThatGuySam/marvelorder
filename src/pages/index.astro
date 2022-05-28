@@ -4,7 +4,7 @@ import { getListingFromFile } from '../helpers/node/listing.ts'
 import { MappedListing } from '../helpers/node/listing.ts'
 
 import Layout from '../layouts/HorizontalScroll.astro'
-import ListingColumn from '../components/listing-column.vue'
+import ListingRow from '../components/listing-row.vue'
 
 const pages = await Astro.glob('../pages/en/*.md')
 
@@ -21,48 +21,14 @@ let listings = await Promise.all( pages.map( async page => {
 // Sort lstings by date
 listings = listings.sort( byListingDate ).reverse()
 
-// Find closest upcoming listing in the future
-const upcomingListing = listings.find( listing => listing.date > new Date() )
-// arr.filter(function(d) {
-//     return d - diffdate > 0;
-// })
-
-console.log('upcomingListing', upcomingListing)
-
-// console.log( 'listing', listings[0].date )
-
 ---
 <Layout>
 
-	<div class="listing-row relative fill-height w-screen">
-
-		<div 
-			class="listing-row-contents flex overflow-x-auto whitespace-no-wrap" 
-			style="scroll-snap-type:x mandatory;"
-		>
-
-			{ listings.map( ( listing, listingIndex ) => (
-				<ListingColumn 
-					listing={ listing }
-					index={ listingIndex }
-				/>
-			)) }
-
-		</div>
-
-		<!-- <button class="absolute left-0 h-10 w-10 flex justify-center items-center transform -translate-y-1/2 -translate-x-1/2 bg-darker rounded-full" style="top:50%;" distance="-325" scroll-target="#row-adn9shse7" onclick="scrollHorizontalCarousel( event )" aria-label="Scroll to previous listings">
-			<svg viewBox="0 0 20 20" fill="currentColor" class="h-5 w-5 text-gray-400" style="transform: scaleX(-1);">
-				<path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path>
-			</svg>
-		</button>
-		<button class="absolute right-0 h-10 w-10 flex justify-center items-center transform -translate-y-1/2 translate-x-1/2 bg-darker rounded-full" style="top:50%;" distance="325" scroll-target="#row-adn9shse7" onclick="scrollHorizontalCarousel( event )" aria-label="Scroll to next listings">
-			<svg viewBox="0 0 20 20" fill="currentColor" class="h-5 w-5 text-gray-400">
-				<path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path>
-			</svg>
-		</button> -->
-
-	</div>
-
+	
+	<ListingRow 
+		client:load
+		listings={ listings }
+	/>
 	
   
 	<script is:inline>
