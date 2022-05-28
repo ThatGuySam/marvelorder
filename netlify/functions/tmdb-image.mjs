@@ -40,8 +40,8 @@ function getOptions( eventUrlString ) {
     console.log('eventUrl', eventUrl) // eslint-disable-line no-console
 
     const {
-        w = 500,
-        q = 85,
+        w = 750,
+        q = 95,
         // format = null,
     } = Object.fromEntries( eventUrl.searchParams )
 
