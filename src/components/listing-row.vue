@@ -14,6 +14,7 @@
 				:key="index"
 			>
 				<ListingColumn 
+					:ref="listing.elementId"
 					:listing="listing"
 					:index="index"
 				/>
@@ -40,10 +41,63 @@
 
 <script>
 
+import scrollIntoView from 'scroll-into-view-if-needed'
+
+
 import { byListingDate } from '~/src/helpers/sort.ts'
 import { MappedListing } from '~/src/helpers/node/listing.ts'
 
 import ListingColumn from './listing-column.vue'
+
+function isUpcoming ( listing ) {
+	// console.log( 'now - listing.date', now - listing.date )
+
+	const now = new Date()
+
+	const timeDifference = now - listing.date
+
+	if ( typeof timeDifference !== 'number') {
+		return true
+	}
+
+	return timeDifference < 0
+}
+
+function isDoc ( listing ) {
+	const docMatchingTerms = [
+		'making of',
+		'assembled:'
+	]
+
+	// Check if our listing title contains any of the terms
+	for ( let term of docMatchingTerms ) {
+		if ( listing.title.toLowerCase().includes( term ) ) {
+			return true
+		}
+	}
+
+	return false
+}
+
+function matchesFilters ( filters ) {
+	return listing => {
+
+		// Loop through filters
+		// and stop of a filter doesn't match
+		// our set value
+		for ( const [ filterMethod, targetValue ] of filters ) {
+			// Apply filter to listing
+
+			if ( filterMethod( listing ) !== targetValue ) {
+				// If the filter doesn't match
+				// return false
+				return false
+			}
+		}
+
+		return true
+	}
+}
 
 export default {
 	components: {
@@ -55,36 +109,66 @@ export default {
             required: true
         }
     },
+	data: function () {
+        return {
+            activeListingFilters: [
+				[ isDoc, false ],
+			]
+        }
+    },
 	computed: {
 		sortedListings () {
 			// Sort listings by date
 			return this.listings
 				.map( listing => new MappedListing( listing ) )
+				.filter( matchesFilters( this.activeListingFilters ) )
 				.sort( byListingDate )
 				.reverse()
 		}, 
-		upcomingListing () {
-			console.log( 'listings', this.listings )
-			return this.listings.filter( listing => {
-				if ( listing?.date ) return true
-				
-				// return new Date() - listing.date > 0
-			} )
+		upcomingListings () {
+			// console.log( 'listings', this.listings )
+
+			const filters = [
+				[ isUpcoming, true ],
+				[ isDoc, false ]
+			]
+
+			return this.sortedListings.filter( matchesFilters( filters )  )
+		},
+		nextUpcomingListing () {
+			return this.upcomingListings[0]
 		}
 	}, 
-    // data: function () {
-    //     return {
-    //         // isOpen: false
-    //     }
-    // }
-	mounted () {
-		// Find closest upcoming listing in the future
-		// const upcomingListing = listings.find( listing => listing.date > new Date() )
-		// arr.filter(function(d) {
-		//     return d - diffdate > 0;
-		// })
+	methods: {
+		async scrollToUpcomingListing () {
+			console.log('nextUpcomingListing', this.nextUpcomingListing)
 
-		console.log('upcomingListing', this.upcomingListing)
+			const { elementId } = this.nextUpcomingListing
+			const [ elementRef ] = this.$refs[ elementId ]
+			const elementNode = elementRef.$el
+
+			// Instant scroll to element before 
+			// so we can setup a small scroll animation
+			await scrollIntoView( elementNode.previousElementSibling , {
+				// behavior: 'smooth',
+				scrollMode: 'if-needed',
+				block: 'end',
+				inline: 'end',
+			})
+
+			// Animate scroll to element after
+			//  so that our whole column is visible
+			await scrollIntoView( elementNode.nextElementSibling , {
+				scrollMode: 'if-needed',
+				behavior: 'smooth', 
+				block: 'end',
+				inline: 'end',
+				duration: 1000
+			})
+		}
+	}, 
+	mounted () {
+		this.scrollToUpcomingListing()
 	}
 }
 </script>
