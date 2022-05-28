@@ -36,5 +36,12 @@ export class MappedListing {
     get endpoint () {
         return makeListingEndpoint( this.sourceListing )
     }
+
+    get elementId () {
+        return [
+            this.sourceListing.slug,
+            this.sourceListing.id,
+        ].join('-')
+    }
     
 }
