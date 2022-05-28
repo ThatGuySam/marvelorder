@@ -7,6 +7,7 @@ description: >-
   quantum realm and try to accomplish, against time and any chance of success, a
   very dangerous rescue mission.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/kbYbZR4FgcLTfI6HT2hiEqoPvr9.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
