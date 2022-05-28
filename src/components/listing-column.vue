@@ -31,7 +31,7 @@
 							:class="`vertical-line w-1 bg-current h-full`"
 						/>
 						<div class="w-32 text-center font-bold uppercase">
-							{{ listing.date.monthLong }} {{ listing.date.year }}
+							{{ listing.dateHumanReadable }}
 						</div>
 					</div>
 
