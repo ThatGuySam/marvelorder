@@ -12,7 +12,7 @@
 				:key="index"
 			>
 				<ListingColumn 
-					:listing="listing"
+					:listing="sortedListings"
 					:index="index"
 				/>
 			</template>
@@ -36,6 +36,9 @@
 
 <script>
 
+import { byListingDate } from '~/src/helpers/sort.ts'
+import { MappedListing } from '~/src/helpers/node/listing.ts'
+
 import ListingColumn from './listing-column.vue'
 
 export default {
@@ -49,10 +52,20 @@ export default {
         }
     },
 	computed: {
+		sortedListings () {
+			// Sort listings by date
+			return this.listings
+				.map( listing => new MappedListing( listing ) )
+				.sort( byListingDate )
+				.reverse()
+		}, 
 		upcomingListing () {
 			console.log( 'listings', this.listings )
-
-			return this.listings.find( listing => listing.date > new Date() )
+			return this.listings.filter( listing => {
+				if ( listing?.date ) return true
+				
+				// return new Date() - listing.date > 0
+			} )
 		}
 	}, 
     // data: function () {
@@ -61,7 +74,6 @@ export default {
     //     }
     // }
 	mounted () {
-		console.log( 'listings', this.listings )
 		// Find closest upcoming listing in the future
 		// const upcomingListing = listings.find( listing => listing.date > new Date() )
 		// arr.filter(function(d) {
