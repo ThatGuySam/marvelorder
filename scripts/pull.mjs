@@ -126,7 +126,7 @@ async function saveListingsAsMarkdown ( listings ) {
 
     for ( const listing of listings ) {
 
-        const filePath = `${ storePath }/${ listing.slug }.md`
+        const filePath = `${ storePath }/${ listing.slug }-${ listing.id }.md`
         const hasExistingFile = await exists( filePath )
 
         let content = ''
