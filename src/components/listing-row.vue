@@ -7,15 +7,19 @@
 			style="scroll-snap-type: x mandatory;"
 		>
 
+			<div class="start-cap w-full flex-shrink-0 max-w-xs" />
+
 			<template
-				v-for="( listing, index ) in listings"
+				v-for="( listing, index ) in sortedListings"
 				:key="index"
 			>
 				<ListingColumn 
-					:listing="sortedListings"
+					:listing="listing"
 					:index="index"
 				/>
 			</template>
+
+			<div class="end-cap  w-full flex-shrink-0 max-w-xs snap-end" />
 
 		</div>
 
