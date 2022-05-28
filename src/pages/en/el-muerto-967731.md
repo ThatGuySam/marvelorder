@@ -5,6 +5,7 @@ description: >-
   A wrestler gains super strength thanks to a mystical mask that is passed down
   throughout his family.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/gRNB6GsKrI410Nvsbur3Rf0Ixnr.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
