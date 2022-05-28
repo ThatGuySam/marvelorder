@@ -25,7 +25,17 @@
 							:class="`listing-card-content absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 flex flex-col justify-center`"
 							:style="{ width: `${ markWidth }px` }"
 						>
-							<h2 class="w-full text-3xl test-white font-bold text-center whitespace-normal">{{ title }}</h2>
+							<!-- <div class="bg-green-600 absolute inset-0" /> -->
+							<img 
+								v-if="logo"
+								:src="logo"
+								class="w-full h-full object-cover relative"
+								:alt="title"
+							/>
+							<h2 
+								v-else
+								class="w-full text-3xl test-white font-bold text-center whitespace-normal"
+							>{{ title }}</h2>
 						</div>
 					</div>
 
@@ -73,7 +83,7 @@ export default {
 		},
 		markWidth: {
 			type: Number,
-			default: 325
+			default: 275
 		}, 
 		width: {
 			type: Number,
@@ -100,6 +110,9 @@ export default {
 		innerHeight () {
 			return this.modes.inner === 'start' ? 'h-full' : 'h-1/4'
 		},
+		logo () {
+			return this.listing?.logo_on_black
+		}
     }
     // data: function () {
     //     return {
