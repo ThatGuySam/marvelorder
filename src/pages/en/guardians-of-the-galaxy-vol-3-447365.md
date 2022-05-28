@@ -3,6 +3,7 @@ title: Guardians of the Galaxy Vol. 3
 slug: guardians-of-the-galaxy-vol-3
 description: The third and final film in the Guardians of the Galaxy trilogy.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/1neAtYqPFfuyzpOnj3ZVDXtGXLf.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

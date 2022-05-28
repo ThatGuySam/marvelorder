@@ -6,6 +6,7 @@ description: >-
   himself the prime target of a manhunt after discovering an orb wanted by Ronan
   the Accuser.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/hQ4OntIEfd4R4kP6wBzCfbc0ymR.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

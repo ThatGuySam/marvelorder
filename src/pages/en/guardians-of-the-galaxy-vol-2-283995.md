@@ -5,6 +5,7 @@ description: >-
   The Guardians must fight to keep their newfound family together as they
   unravel the mysteries of Peter Quill's true parentage.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/ct5a6qPoZLQG7VjLuf2WOUheEZP.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

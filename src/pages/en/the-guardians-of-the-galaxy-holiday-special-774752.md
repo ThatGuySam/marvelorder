@@ -7,6 +7,7 @@ description: >-
   in some spirited shenanigans in an all-new original special, created for
   Disney+, during the 2022 holiday season.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/A7NLWwvgzlbg8RBJKPHlEszdD74.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
