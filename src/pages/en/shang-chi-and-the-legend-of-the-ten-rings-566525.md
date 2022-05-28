@@ -5,6 +5,7 @@ description: >-
   Shang-Chi must confront the past he thought he left behind when he is drawn
   into the web of the mysterious Ten Rings organization.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/ftsBQHsGJ6O7ELZ29Pd0RIK64vq.jpg
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
