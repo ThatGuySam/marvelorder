@@ -108,7 +108,7 @@ export default {
 		// 	return this.modes.inner === 'start' ? 'flex-col' : 'flex-col-reverse'
 		// },
 		innerHeight () {
-			return this.modes.inner === 'start' ? 'h-full' : 'h-1/4'
+			return this.modes.inner === 'start' ? 'h-1/2' : 'h-1/5'
 		},
 		logo () {
 			return this.listing?.logo_on_black
