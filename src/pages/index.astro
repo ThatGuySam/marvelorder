@@ -9,17 +9,14 @@ import ListingRow from '../components/listing-row.vue'
 const pages = await Astro.glob('../pages/en/*.md')
 
 
-let listings = await Promise.all( pages.map( async page => {
+const listings = await Promise.all( pages.map( async page => {
   const { listing } = await getListingFromFile( page.file )
 
 //   listing.date = new Date( listing.date )
 
-  return new MappedListing( listing )
+  return listing//new MappedListing( listing )
 
 }) )
-
-// Sort lstings by date
-listings = listings.sort( byListingDate ).reverse()
 
 ---
 <Layout>
