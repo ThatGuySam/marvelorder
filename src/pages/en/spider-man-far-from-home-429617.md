@@ -7,6 +7,7 @@ description: >-
   the mystery of creatures that cause natural disasters and destruction
   throughout the continent.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/olS3u1bIU0tnnJH54wOibD0wSNA.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

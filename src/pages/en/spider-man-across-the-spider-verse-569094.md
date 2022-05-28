@@ -8,6 +8,7 @@ description: >-
   of Spider-People to face off with a villain more powerful than anything they
   have ever encountered.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/zfZuSNGKxIlWQKi4xlIhFoRrlnj.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

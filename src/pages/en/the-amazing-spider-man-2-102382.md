@@ -10,6 +10,7 @@ description: >-
   emerges, an old friend, Harry Osborn, returns, and Peter uncovers new clues
   about his past.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/yq9gpQ5f1eHdLjwRCcThBPW4f26.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

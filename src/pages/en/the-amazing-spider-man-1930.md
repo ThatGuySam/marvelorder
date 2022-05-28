@@ -12,6 +12,7 @@ description: >-
   The Lizard, Peter will make life-altering choices to use his powers and shape
   his destiny to become a hero.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/qEmoi6UPzGUW7puvDrnhztpxtCJ.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

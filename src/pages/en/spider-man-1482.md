@@ -17,6 +17,7 @@ description: >-
   cast. Those three being Paul Soles the voice of Spider-Man, Chris Wiggins the
   voice of Mysterio and Carl Banas the voice of the Scorpion.
 type: tv
+logo_on_black: /.netlify/functions/tmdb-image/8jRRetsEy3Yjj6uX5OTJOtNPXzu.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

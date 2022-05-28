@@ -7,6 +7,7 @@ description: >-
   school student in Queens, New York City, with fighting crime as his superhero
   alter ego Spider-Man as a new threat, the Vulture, emerges.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/sU5ltHiXFBB2daTrBL3BFc9w8Hr.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
