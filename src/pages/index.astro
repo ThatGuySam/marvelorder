@@ -21,6 +21,14 @@ let listings = await Promise.all( pages.map( async page => {
 // Sort lstings by date
 listings = listings.sort( byListingDate ).reverse()
 
+// Find closest upcoming listing in the future
+const upcomingListing = listings.find( listing => listing.date > new Date() )
+// arr.filter(function(d) {
+//     return d - diffdate > 0;
+// })
+
+console.log('upcomingListing', upcomingListing)
+
 // console.log( 'listing', listings[0].date )
 
 ---
