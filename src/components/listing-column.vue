@@ -10,12 +10,14 @@
 			<div 
 				:class="[
 					`listing-card-container flex gap-8 ${ outerDirection } h-screen justify-${ modes.outer }`,
-					'transition-opacity ease-in-out duration-750', 
-					visibilityClass
 				]"
 			>
 				<div 
-					:class="[ `inner-container flex ${ outerDirection } h-full w-full justify-end` ]"
+					:class="[ 
+						`inner-container flex ${ outerDirection } h-full w-full justify-end`, 
+						'transition-opacity ease-in-out duration-750', 
+						visibilityClass
+					]"
 				>
 
 					<div class="inner-container relative py-16">
