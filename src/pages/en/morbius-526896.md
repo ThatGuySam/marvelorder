@@ -7,6 +7,7 @@ description: >-
   at first appears to be a radical success soon reveals itself to be a remedy
   potentially worse than the disease.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/wjKbFUkniQltWnjPS1nCfAN1Rb3.jpg
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
