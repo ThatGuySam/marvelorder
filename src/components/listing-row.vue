@@ -67,7 +67,8 @@ function isUpcoming ( listing ) {
 function isDoc ( listing ) {
 	const docMatchingTerms = [
 		'making of',
-		'assembled:'
+		'assembled',
+		'marvel studios:'
 	]
 
 	// Check if our listing title contains any of the terms
