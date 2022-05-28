@@ -1,0 +1,56 @@
+---
+import { getLayoutModes } from '../helpers/layout.ts'
+
+const { 
+	listing, 
+	index,
+	width = '100',
+	markWidth = '325',
+} = Astro.props
+
+const title = listing.title
+const endpoint = `/en/${ listing.slug }`
+
+const {
+	outer,
+	inner,
+} = getLayoutModes( index )
+
+const outerDirection = outer === 'start' ? 'flex-col' : 'flex-col-reverse'
+// const innerDirection = inner === 'start' ? 'flex-col' : 'flex-col-reverse'
+const innerHeight = inner === 'start' ? 'h-full' : 'h-1/4'
+
+---
+
+<article 
+	class="listing-card w-full flex-shrink-0 flex-grow-0 border border-white/10" 
+	style={ `max-width: ${ width }px; flex-basis: ${ width }px; scroll-snap-align: end;` }
+>
+	<a href={ endpoint } class="">
+		<div 
+			class={ `listing-card-container flex ${ outerDirection } h-screen justify-${ outer }` }
+		>
+			<div 
+				class={ `inner-container flex ${ outerDirection } h-full w-full justify-end border border-white/10` }
+			>
+				<div class="inner-container relative py-16">
+					<div 
+						class={`listing-card-content absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 flex flex-col justify-center`}
+						style={ `width: ${ markWidth }px;` }
+					>
+						<h2 class="w-full text-3xl test-white font-bold text-center whitespace-normal">{ title }</h2>
+						<div>{ listing.year }</div>
+					</div>
+				</div>
+				<div class={ `vertical-line w-1 bg-current ${ innerHeight }` } />
+			</div>
+
+			<div 
+				class={ `inner-container h-full` }
+			>
+			</div>
+
+		</div>
+	</a>
+</article>
+
