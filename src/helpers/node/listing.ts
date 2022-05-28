@@ -1,40 +1,9 @@
-import { promises as fs } from 'fs'
 import { DateTime } from 'luxon'
-// import fs from 'fs-extra'
-import matter from 'gray-matter'
 
 // @ts-ignore
-import { Listing } from './types.ts'
-import { makeListingEndpoint } from '../listing.ts'
-import { 
-    getPartsFromMarkdown, 
-    parseTMDbMarkdown
+import { Listing } from '~/src/helpers/types.ts'
 // @ts-ignore
-} from '../markdown-page.ts' 
-
-export function getDataFromListingContents ( markdown: string ) {
-    const { tmdbContent } = getPartsFromMarkdown( markdown )
-
-    const frontmatter = matter( markdown ).data
-    const tmdb = parseTMDbMarkdown( tmdbContent )
-
-    return {
-        // Merge letting the frontmatter take precedence
-        listing: {
-            ...tmdb,
-            ...frontmatter
-        },
-        frontmatter,
-        tmdb,
-    }
-}
-
-export async function getListingFromFile ( filePath: string ) {
-    const markdown = await fs.readFile( filePath, 'utf8' )
-
-    return getDataFromListingContents( markdown )
-}
-
+import { makeListingEndpoint } from '~/src/helpers/listing.ts'
 
 export class MappedListing {
     constructor ( listing : Listing ) {
