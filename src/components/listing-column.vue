@@ -54,7 +54,7 @@
 
 <script>
 
-import { getLayoutModes } from '../helpers/layout.ts'
+import { getLayoutModes } from '~/src/helpers/layout.ts'
 
 export default {
     props: {
