@@ -60,7 +60,7 @@ function getOptions( eventUrlString ) {
     const contentUrl = `${ base_url }/${ imagePath }`
 
     // Just always assume it's a jpg source
-    const requestExtension = 'jpg'//imagePath.split(/[#?]/)[0].split('.').pop().trim()
+    const requestExtension = imagePath.split(/[#?]/)[0].split('.').pop().trim()
 
 
     return {
@@ -115,7 +115,7 @@ export async function handler( event ) {
 
     // Run through image types until we find one that works
     for (const imageType of imageTypes) {
-        const typeUrl = contentUrl.replace( `.${requestExtension}`, `.${imageType}` )
+        const typeUrl = contentUrl.replace( `.${requestExtension}`, `.jpg` )
 
         // Fetch our WordPress image
         sourceImage = await fetch( typeUrl )
@@ -189,8 +189,8 @@ export async function handler( event ) {
         .ensureAlpha()
         .joinChannel( maskBuffer )
         // .jpeg({ quality, force: requestExtension === 'jpg' })
-        .png({ quality, force: true })
-        // .webp({ quality, force: requestExtension === 'webp' })
+        // .png({ quality, force: true })
+        .webp({ quality, force: true })
         // .avif({ quality, force: requestExtension === 'avif' })
         // Trims of any transparent pixels - https://github.com/lovell/sharp/issues/1246#issuecomment-393854745
         .toBuffer({ resolveWithObject: true })
