@@ -8,7 +8,11 @@
 	>
 		<a :href="listing.endpoint" class="">
 			<div 
-				:class="[`listing-card-container flex gap-8 ${ outerDirection } h-screen justify-${ modes.outer }`]"
+				:class="[
+					`listing-card-container flex gap-8 ${ outerDirection } h-screen justify-${ modes.outer }`,
+					'transition-opacity ease-in-out duration-750', 
+					visibilityClass
+				]"
 			>
 				<div 
 					:class="[ `inner-container flex ${ outerDirection } h-full w-full justify-end` ]"
@@ -72,6 +76,10 @@ export default {
 		width: {
 			type: Number,
 			default: 100
+		},
+		visibilityClass: {
+			type: String,
+			default: ''
 		}
     },
     computed: {

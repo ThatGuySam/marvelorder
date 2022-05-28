@@ -17,6 +17,7 @@
 					:ref="listing.elementId"
 					:listing="listing"
 					:index="index"
+					:visibility-class="visibilityClass( listing )"
 				/>
 			</template>
 
@@ -113,7 +114,8 @@ export default {
         return {
             activeListingFilters: [
 				[ isDoc, false ],
-			]
+			],
+			showAllListings: false,
         }
     },
 	computed: {
@@ -163,11 +165,29 @@ export default {
 				behavior: 'smooth', 
 				block: 'end',
 				inline: 'end',
-				duration: 1000
+				duration: 1500
 			})
-		}
+		},
+
+		visibilityClass ( listing ) {
+			// const { elementId } = listing
+			// const [ elementRef ] = this.$refs[ elementId ]
+			// const elementNode = elementRef.$el
+
+			// Show our upcoming listing first
+			if ( listing.elementId === this.nextUpcomingListing.elementId ) {
+				return ''
+			}
+
+			return this.showAllListings ? '' : 'opacity-0'
+		},
 	}, 
 	mounted () {
+		// Reveal all listings after a delay
+		setTimeout( () => {
+			this.showAllListings = true
+		}, 2000 )
+		
 		this.scrollToUpcomingListing()
 	}
 }
