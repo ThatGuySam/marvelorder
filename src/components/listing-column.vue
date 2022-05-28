@@ -1,10 +1,9 @@
 <template>
 	<article 
-		class="listing-card w-full flex-shrink-0 flex-grow-0" 
+		class="listing-card w-full flex-shrink-0 flex-grow-0 snap-end" 
 		:style="{ 
 			maxWidth: `${ width }px`, 
 			flexBasis: `${ width }px`, 
-			scrollSnapAlign: 'end' 
 		}"
 	>
 		<a :href="listing.endpoint" class="">
