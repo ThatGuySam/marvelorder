@@ -6,6 +6,7 @@ description: >-
   assassin-for-hire, and tries to protect her two latest targets, a single
   father and his young daughter, from a group of supernatural assassins.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/9Azi1GBNj3gPPwmQWAMcATg7JOl.webp?crop.top=0.83&crop.bottom=0.02
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
