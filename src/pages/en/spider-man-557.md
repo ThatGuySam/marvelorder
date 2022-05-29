@@ -6,7 +6,7 @@ description: >-
   endearing high school student Peter Parker is endowed with amazing powers to
   become the superhero known as Spider-Man.
 type: movie
-logo_on_black: /.netlify/functions/tmdb-image/41mvxMPWR8ZZhqRknDJ9zS3RayP.webp?crop.bottom=0.1
+logo_on_black: /.netlify/functions/tmdb-image/2oei26rOW8jYNcvQ17lAip78S6H.webp?crop.top=0.82&crop.bottom=0.12
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

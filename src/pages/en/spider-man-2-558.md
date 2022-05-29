@@ -9,7 +9,7 @@ description: >-
   he's loved since childhood. A certain anger begins to brew in his best friend
   Harry Osborn as well...
 type: movie
-logo_on_black: /.netlify/functions/tmdb-image/uxVEClLLSF5CDeQeVtDrtXzqGXh.webp?crop.bottom=0.1
+logo_on_black: /.netlify/functions/tmdb-image/bKpPYsXVLRzjN639XEBP91LrAnT.webp?crop.top=0.92&crop.bottom=0.04
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

@@ -7,7 +7,7 @@ description: >-
   are altered by an alien organism, his alter ego, Peter Parker, deals with
   nemesis Eddie Brock and also gets caught up in a love triangle.
 type: movie
-logo_on_black: /.netlify/functions/tmdb-image/8jyEX2lBvMtq5JA66l9f165yj0O.webp?crop.bottom=0.1
+logo_on_black: /.netlify/functions/tmdb-image/qjhalSrfqe0nXmNflgY76nN4zpn.webp?crop.top=0.84&crop.bottom=0.12
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
