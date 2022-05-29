@@ -18,7 +18,7 @@ layout: ../../layouts/MainLayout.astro
     "id": 980659,
     "original_language": "en",
     "original_title": "Untitled Morbius Sequel",
-    "overview": "",
+    "overview": "Pilates helps",
     "poster_path": null,
     "release_date": "",
     "title": "Untitled Morbius Sequel",

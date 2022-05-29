@@ -20,7 +20,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Black Panther: Wakanda Forever",
     "overview": "The sequel to Black Panther (2018).",
-    "poster_path": "/yupYSoXiQLLtFgkCEGFOXi0hMfy.jpg",
+    "poster_path": "/6N6Rr1Y5wsi2KbTP4hFAP3hnWQE.jpg",
     "release_date": "2022-11-09",
     "title": "Black Panther: Wakanda Forever",
     "video": false,
