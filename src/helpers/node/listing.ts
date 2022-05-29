@@ -30,6 +30,11 @@ export class MappedListing {
     }
 
     get dateHumanReadable () {
+        // Just say Date Unknown for null dates
+        if ( !this.dateString ) {
+            return 'TBA'
+        }
+
         if ( typeof this.dateString === 'string' && this.dateString.trim().length === 4 ) {
             return this.date.year
         }
