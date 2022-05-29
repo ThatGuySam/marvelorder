@@ -5,6 +5,7 @@ description: >-
   The Marvel Universe is reimagined as a new generation of heroes battle against
   an ever-spreading zombie scourge.
 type: tv
+logo_on_black: /.netlify/functions/tmdb-image/vK2ZJlnurjxajVXGxy6KMeHJuW8.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
