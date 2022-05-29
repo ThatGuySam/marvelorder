@@ -11,7 +11,7 @@ description: >-
   forces') and an American secret agent, to prevent Wakanda from being dragged
   into a world war.
 type: movie
-logo_on_black: /.netlify/functions/tmdb-image/s9JF9kAaBk6CBcY8JVVrsGtAnr4.webp
+logo_on_black: /.netlify/functions/tmdb-image/9oGVJj8zOMXoIPqDHGBfvSWCq2c.webp?crop.top=0.71
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

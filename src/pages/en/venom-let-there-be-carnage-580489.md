@@ -6,7 +6,7 @@ description: >-
   symbiote must face a new enemy, Carnage, the alter ego of serial killer Cletus
   Kasady.
 type: movie
-logo_on_black: /.netlify/functions/tmdb-image/wi0w3uNtvHdMqPtOA6meuqn8y6r.webp
+logo_on_black: /.netlify/functions/tmdb-image/wi0w3uNtvHdMqPtOA6meuqn8y6r.webp?crop.bottom=0.2
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

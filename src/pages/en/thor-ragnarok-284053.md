@@ -7,7 +7,7 @@ description: >-
   his home-world and the end of Asgardian civilization, at the hands of a
   powerful new threat, the ruthless Hela.
 type: movie
-logo_on_black: /.netlify/functions/tmdb-image/8hnNdUFlUkjPWxKDyiE4Kn8h7Q5.webp
+logo_on_black: /.netlify/functions/tmdb-image/wmKML1hNmHS2m7RCpISyB0uMLxS.webp?crop.bottom=0.86
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
