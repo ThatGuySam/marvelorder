@@ -7,6 +7,7 @@ description: >-
   dream of exploiting his powers force him back to civilization, he finds
   himself coming face to face with a new, deadly foe.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/zaHqckCJEwrUptgpU7VWzRsD7ET.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
