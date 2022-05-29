@@ -26,12 +26,13 @@
 							:style="{ width: `${ markWidth }px` }"
 						>
 							<!-- <div class="bg-green-600 absolute inset-0" /> -->
-							<img 
-								v-if="logo"
-								:src="logo"
-								class="w-full h-full object-contain relative max-h-28"
-								:alt="title"
-							/>
+							<template v-if="logo">
+								<ListingLogo 
+									:src="logo"
+									class="w-full h-full object-contain relative max-h-28"
+									:alt="title"
+								/>
+							</template>
 							<h2 
 								v-else
 								class="w-full text-3xl test-white font-bold text-center whitespace-normal"
@@ -71,7 +72,12 @@
 
 import { getLayoutModes } from '~/src/helpers/layout.ts'
 
+import ListingLogo from './listing-logo.vue'
+
 export default {
+	components: {
+		ListingLogo
+	},
     props: {
         listing: {
             type: Object,
