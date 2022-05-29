@@ -3,6 +3,7 @@ title: 'Agatha: House of Harkness'
 slug: agatha-house-of-harkness
 description: Follows Agatha Harkness before her appearance in WandaVision.
 type: tv
+logo_on_black: /.netlify/functions/tmdb-image/akjfAgmQ6KEP5exgJ2DLyyom9Eq.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
