@@ -1,9 +1,10 @@
 <template>
 
-	<div class="listing-row relative fill-height w-screen">
+	<div class="listing-row-container relative fill-height w-screen">
 
 		<div 
-			class="listing-row-contents flex overflow-x-auto whitespace-no-wrap" 
+			ref="row"
+			class="listing-row flex overflow-x-auto whitespace-no-wrap" 
 			style="scroll-snap-type: x mandatory;"
 		>
 
@@ -18,6 +19,9 @@
 					:listing="listing"
 					:index="index"
 					:visibility-class="visibilityClass( listing )"
+					:class="[
+						isListingNextUpcoming( listing ) ? 'listing-card-next-upcoming' : '',
+					]"
 				/>
 			</template>
 
@@ -144,7 +148,7 @@ export default {
 	}, 
 	methods: {
 		async scrollToUpcomingListing () {
-			console.log('nextUpcomingListing', this.nextUpcomingListing)
+			// console.log('nextUpcomingListing', this.nextUpcomingListing)
 
 			const { elementId } = this.nextUpcomingListing
 			const [ elementRef ] = this.$refs[ elementId ]
@@ -152,22 +156,21 @@ export default {
 
 			// Instant scroll to element before 
 			// so we can setup a small scroll animation
-			await scrollIntoView( elementNode.previousElementSibling , {
-				// behavior: 'smooth',
-				scrollMode: 'if-needed',
-				block: 'end',
-				inline: 'end',
-			})
+			// this.$refs.row.scrollLeft = elementNode.previousElementSibling.offsetLeft - window.innerWidth + 275
 
 			// Animate scroll to element after
 			//  so that our whole column is visible
 			await scrollIntoView( elementNode.nextElementSibling , {
-				scrollMode: 'if-needed',
+				scrollMode: 'always',
 				behavior: 'smooth', 
 				block: 'end',
 				inline: 'end',
 				duration: 1500
 			})
+		},
+
+		isListingNextUpcoming ( listing ) {
+			return listing.elementId === this.nextUpcomingListing.elementId
 		},
 
 		visibilityClass ( listing ) {

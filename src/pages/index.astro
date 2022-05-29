@@ -29,8 +29,9 @@ const listings = await Promise.all( pages.map( async page => {
 	
   
 	<script is:inline>
-		// Redirect your homepage to the first page of documentation.
-		// If you have a landing page, remove this script and add it here!
-		// window.location.pathname = `/en/introduction`;
+		const nextUpcoming = document.querySelector('.listing-card-next-upcoming')
+		// Trigger scroll to out upcoming listign here
+		// so that we don't have to wait for Vue to hydrate
+		document.querySelector('.listing-row').scrollLeft = nextUpcoming.offsetLeft - window.innerWidth + nextUpcoming.offsetWidth * 1.75
 	</script>
 </Layout>
