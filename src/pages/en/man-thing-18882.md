@@ -6,6 +6,7 @@ description: >-
   The local sheriff investigates and faces a Seminole legend come to life:
   Man-Thing, a shambling swamp-monster whose touch burns those who feel fear.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/kfPPnOygXSGaBFpsCUyu7xQdkoO.webp?crop.top=0.8&crop.bottom=0.1
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
