@@ -3,6 +3,7 @@ title: Deadpool 3
 slug: deadpool-3
 description: ''
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/4gdqWCVvidYR0pOHuVOqFundbUG.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
