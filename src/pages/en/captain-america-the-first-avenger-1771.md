@@ -8,6 +8,7 @@ description: >-
   the leader of an organization that intends to use a mysterious device of
   untold powers for world domination.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/2YOgiFrB4NuDiu6zbfHEuNJMHrO.webp?crop.bottom=0.86
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

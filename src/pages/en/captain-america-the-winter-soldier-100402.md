@@ -13,6 +13,7 @@ description: >-
   the Falcon. However, they soon find themselves up against an unexpected and
   formidable enemy—the Winter Soldier.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/75iIbyu04kcaAsywQLv1ctXLNSE.webp?crop.bottom=0.86
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

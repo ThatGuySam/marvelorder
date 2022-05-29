@@ -7,6 +7,7 @@ description: >-
   opinion amongst the Avengers, causing two factions to side with Iron Man or
   Captain America, which causes an epic battle between former allies.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/qoiTHkI2ETt6a4bl0ap0KtQmnYj.webp?crop.bottom=0.86
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

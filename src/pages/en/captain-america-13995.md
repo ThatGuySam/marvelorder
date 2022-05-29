@@ -8,6 +8,7 @@ description: >-
   the 1990s. He reawakens to find that the Red Skull has changed identities and
   is now planning to kidnap the President of the United States.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/lUsDBhzogxYOU5XshARgnnZY4Xd.webp?crop.bottom=0.81
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
