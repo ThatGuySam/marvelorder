@@ -1,13 +1,16 @@
 <template>
     <img 
-        :src="src"
-        :src-set="srcSet"
+        :data-src="src"
+        :data-src-set="srcSet"
         :sizes="`(max-width: ${ maxWidth }px) 100vw, ${ maxWidth }px`"
+        class="lazyload"
         :alt="alt"
     />
 </template>
 
 <script>
+
+import 'lazysizes'
 
 export default {
     props: {
@@ -36,7 +39,7 @@ export default {
 
                 sizeUrl.searchParams.set( 'width', size )
 
-                console.log('sizeUrl', sizeUrl)
+                // console.log('sizeUrl', sizeUrl)
                 
                 srcSet.push( `${ sizeUrl.pathname }${ sizeUrl.search } ${ size }w` )
             }
