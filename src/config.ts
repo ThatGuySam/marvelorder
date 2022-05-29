@@ -1,5 +1,5 @@
 export const SITE = {
-	title: 'Marvel Order',
+	title: 'MarvelOrder.com',
 	description: 'List of Marvel movies and shows ordered chronologically, release, and more. ',
 	defaultLanguage: 'en_US',
 };

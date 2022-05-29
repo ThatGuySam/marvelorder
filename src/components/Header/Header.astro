@@ -11,7 +11,7 @@ const { currentPage } = Astro.props;
 const lang = currentPage && getLanguageFromURL(currentPage);
 ---
 
-<header>
+<header class="fixed inset-x top-0 w-full">
 	<SkipToContent />
 	<nav class="nav-wrapper" title="Top Navigation">
 		<div class="menu-toggle">
@@ -19,8 +19,8 @@ const lang = currentPage && getLanguageFromURL(currentPage);
 		</div>
 		<div class="logo flex">
 			<a href="/">
-				<AstroLogo size={40} />
-				<h1>{CONFIG.SITE.title ?? "Documentation"}</h1>
+				<!-- <AstroLogo size={40} /> -->
+				<h1>{ CONFIG.SITE.title }</h1>
 			</a>
 		</div>
 		<div style="flex-grow: 1;"></div>
@@ -36,15 +36,15 @@ const lang = currentPage && getLanguageFromURL(currentPage);
 <style>
 	header {
 		z-index: 11;
-		height: var(--theme-navbar-height);
+		/* height: var(--theme-navbar-height); */
 		width: 100%;
-		background-color: var(--theme-navbar-bg);
+		/* background-color: var(--theme-navbar-bg); */
 		display: flex;
 		align-items: center;
 		justify-content: center;
 		overflow: hidden;
-		position: sticky;
-		top: 0;
+		/* position: sticky;
+		top: 0; */
 	}
 
 	.logo {
@@ -52,7 +52,7 @@ const lang = currentPage && getLanguageFromURL(currentPage);
 		display: flex;
 		overflow: hidden;
 		width: 30px;
-		font-size: 2rem;
+		/* font-size: 2rem; */
 		flex-shrink: 0;
 		font-weight: 600;
 		line-height: 1;
@@ -66,7 +66,7 @@ const lang = currentPage && getLanguageFromURL(currentPage);
 		padding: 0.5em 0.25em;
 		margin: -0.5em -0.25em;
 		text-decoration: none;
-		font-weight: bold;
+		font-weight: light;
 	}
 
 	.logo a {
@@ -92,14 +92,14 @@ const lang = currentPage && getLanguageFromURL(currentPage);
 		justify-content: flex-end;
 		gap: 1em;
 		width: 100%;
-		max-width: 82em;
+		/* max-width: 82em; */
 		padding: 0 1rem;
 	}
 
 	@media (min-width: 50em) {
 		header {
-			position: static;
-			padding: 2rem 0rem;
+			/* position: static; */
+			padding: 1rem 0rem;
 		}
 		.logo {
 			width: auto;
