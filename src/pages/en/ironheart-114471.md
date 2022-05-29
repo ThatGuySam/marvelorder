@@ -5,6 +5,7 @@ description: >-
   Genius inventor Riri Williams creates the most advanced suit of armor since
   Iron Man and becomes Ironheart.
 type: tv
+logo_on_black: /.netlify/functions/tmdb-image/ha1kackPwP1BLtyibzuv5hABiDk.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
