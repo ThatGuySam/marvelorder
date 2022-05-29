@@ -9,6 +9,7 @@ description: >-
   powers. Using his powers, Takuya fights Professor Monster's army and other
   threats to Earth under the name Spiderman.
 type: tv
+logo_on_black: /.netlify/functions/tmdb-image/vlSuwzyt3Hyq5OSFpvJDYnYDN1a.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

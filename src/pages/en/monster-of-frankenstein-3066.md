@@ -9,6 +9,7 @@ description: >-
   investigates some mysterious mutilations killings, and Victor is blackmailed
   by his former assistant, who lost an eye in his fight with the monster.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/6crVZ3TN2MUwtbx25pbBVBGn11d.webp?crop.bottom=0.78
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
