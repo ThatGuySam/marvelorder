@@ -11,9 +11,10 @@
 <script>
 
 import 'lazysizes'
+import 'lazysizes/plugins/attrchange/ls.attrchange'
 
-function makeSizedImageUrl ( imageUrl, maxWidth ) {
-    const sizeUrl = new URL( this.src, 'https://example.com' )
+function makeSizedImageUrl ( imageUrl, size ) {
+    const sizeUrl = new URL( imageUrl, 'https://example.com' )
 
     sizeUrl.searchParams.set( 'width', size )
 
