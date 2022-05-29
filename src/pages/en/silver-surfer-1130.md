@@ -5,6 +5,7 @@ description: >-
   The adventures of the cosmic wanderer as he seeks his lost home after
   rebelling from his master.
 type: tv
+logo_on_black: /.netlify/functions/tmdb-image/mBJTL4CRSoNkAQRmfwbiLTtviuW.webp?crop.bottom=0.7
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
