@@ -7,6 +7,7 @@ description: >-
   flame-spewing supernatural hero Ghost Rider -- and rescue a 10-year-old boy
   from an unsavory end.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/gG7N8hvj3LwbdSFZ6NealucfH0h.webp?crop.top=0.02&crop.bottom=0.83
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

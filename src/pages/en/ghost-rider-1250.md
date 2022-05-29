@@ -8,6 +8,7 @@ description: >-
   now a go-getting reporter, and also with Mephistopheles, who offers to release
   Johnny's soul if Johnny becomes the fabled, fiery 'Ghost Rider'.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/8LaVQiXBsnlo7MXCPK1nXTVARUZ.webp?crop.top=0.02&crop.bottom=0.85
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
