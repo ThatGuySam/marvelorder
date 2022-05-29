@@ -33,7 +33,7 @@ export default {
         }, 
         sizes: {
             type: Array,
-            default: [ 75, 100, 275, 550, 900, 1440 ]
+            default: [ 75, 100, 275, 550, 850, 1440 ]
         }
     },
     computed: {
