@@ -3,6 +3,7 @@ import getImageTypeFromBuffer from 'image-type'
 import sharp from 'sharp'
 import etag from 'etag'
 import isSvg from 'is-svg'
+import sizeOf from 'image-size'
 
 // Sizes at https://api.themoviedb.org/3/configuration
 const base_url = 'https://image.tmdb.org/t/p/original'
@@ -37,21 +38,23 @@ function getOptions( eventUrlString ) {
 
     const eventUrl = new URL( eventUrlString, process.env.URL )
 
-    console.log('eventUrl', eventUrl) // eslint-disable-line no-console
+    // console.log('searchParams', Object.fromEntries( eventUrl.searchParams ))
 
     const {
-        w = 750,
-        q = 95,
+        width: widthParam = 750,
+        // q = 95,
+        'crop.top': cropTop = 0,
+        'crop.bottom': cropBottom = 0,
         // format = null,
     } = Object.fromEntries( eventUrl.searchParams )
 
-    const width = parseInt(w)
+    const width = parseInt( widthParam )
 
     if (!width) {
         throw new Error('Width is not a number')
     }
 
-    const quality = parseInt(q) || 60
+    const quality = 95//parseInt(q) || 60
 
 
     // marvelorderstaging.wpengine.com/2021/11/Chamber-1-V2.jpg
@@ -66,6 +69,8 @@ function getOptions( eventUrlString ) {
     return {
         width,
         quality,
+        cropTop,
+        cropBottom,
         contentUrl,
         requestExtension
         // format,
@@ -84,7 +89,7 @@ export async function handler( event ) {
 
     // Parse and validate options
     try {
-        options = getOptions( event.path )
+        options = getOptions( event.rawUrl )
 
     } catch (error) {
         console.error( 'Invalid image options', error ) // eslint-disable-line no-console
@@ -99,6 +104,8 @@ export async function handler( event ) {
     const {
         width,
         quality,
+        cropTop,
+        cropBottom,
         contentUrl,
         requestExtension
     } = options
@@ -140,9 +147,9 @@ export async function handler( event ) {
     // console.log('imageTypes', imageTypes) // eslint-disable-line no-console
 
 
-    const sourceBufferData = await sourceImage.buffer()
+    let workingBuffer = await sourceImage.buffer()
 
-    const sourceType = getImageType(sourceBufferData)
+    const sourceType = getImageType( workingBuffer )
 
     if (!sourceType) {
         return { statusCode: 400, body: 'Source does not appear to be an image' }
@@ -160,12 +167,27 @@ export async function handler( event ) {
         }
     }
 
+    const source = sizeOf( workingBuffer )
+
+    const extractOptions = { 
+        left: 0, 
+        top: Math.round( cropTop * source.height ), 
+        width: source.width, 
+        height: Math.round( (1 - cropBottom) * source.height - (cropTop * source.height) ),
+    }
+
+    // If there is a crop, crop it
+    if ( cropTop > 0 || cropBottom > 0 ) {
+        workingBuffer = await sharp( workingBuffer )
+            .extract(extractOptions)
+            .toBuffer()
+    }
+
     // Trim source image
-    const trimmedSource = await sharp(sourceBufferData)
+    workingBuffer = await sharp( workingBuffer )
         .resize(width, null, { withoutEnlargement: true })
         .trim()
         .toBuffer()
-
 
     // Set contrast and brightness for mask - https://github.com/lovell/sharp/issues/1958#issuecomment-552115591
     const contrast = 1.1;
@@ -173,7 +195,7 @@ export async function handler( event ) {
 
     // Use an RGB channel buffer to create a easy Mask
     // https://github.com/lovell/sharp/issues/1113#issuecomment-363187713
-    const maskBuffer = await sharp( trimmedSource )
+    const maskBuffer = await sharp( workingBuffer )
         .rotate()
         // .greyscale()
         .extractChannel('red') // also B or G would work
@@ -184,7 +206,7 @@ export async function handler( event ) {
 
     // The format methods are just to set options: they don't
     // make it return that format.
-    const { info, data: outputBuffer } = await sharp( trimmedSource )
+    const { info, data: outputBuffer } = await sharp( workingBuffer )
         .rotate()
         .ensureAlpha()
         .joinChannel( maskBuffer )
