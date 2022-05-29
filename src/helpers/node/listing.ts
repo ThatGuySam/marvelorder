@@ -30,6 +30,10 @@ export class MappedListing {
     }
 
     get dateHumanReadable () {
+        if ( typeof this.dateString === 'string' && this.dateString.trim().length === 4 ) {
+            return this.date.year
+        }
+
         return `${ this.date.monthLong } ${ this.date.year }`
     }
 
