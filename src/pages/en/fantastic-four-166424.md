@@ -7,6 +7,7 @@ description: >-
   learn to harness their daunting new abilities and work together to save Earth
   from a former friend turned enemy.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/iZ90T7EXGEuEXTWe8EeOJfBZpj4.webp?crop.top=0.83&crop.bottom=0.03
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

@@ -3,6 +3,7 @@ title: Fantastic Four
 slug: fantastic-four
 description: ''
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/jatnqRPnxjg2Q6cFsAjmrBNhx9.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

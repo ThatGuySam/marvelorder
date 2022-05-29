@@ -10,6 +10,7 @@ description: >-
   dedicated to the protection of Earth from menaces like the Latverian King Dr.
   Doom and Galactus, the planet consumer.
 type: tv
+logo_on_black: /.netlify/functions/tmdb-image/xqqZjLBUEOVAsXneUwITCuas9jL.webp?crop.top=0&crop.bottom=0.3
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

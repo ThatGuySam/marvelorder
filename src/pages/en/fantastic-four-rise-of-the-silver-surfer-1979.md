@@ -7,6 +7,7 @@ description: >-
   what it seems and there are old and new enemies that pose a greater threat
   than the intrepid superheroes realize.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/f3ldtPF7SESMcyAIyIJHBLlBBkr.webp?crop.bottom=0.48&crop.top=0.31
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
