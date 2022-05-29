@@ -10,6 +10,7 @@ description: >-
   When the populace is caught in the midst of a gang war that he caused, Castle
   must again emerge from the shadows and save the innocent.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/r7FhyLf8NLtV4b5mwRGuI06OOir.webp?crop.top=0.6&crop.bottom=0.1
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

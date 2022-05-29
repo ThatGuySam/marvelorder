@@ -6,6 +6,7 @@ description: >-
   becomes 'the Punisher' -- a ruthless vigilante willing to go to any length to
   avenge his family.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/cTh0cap1xBcP9RtW0eh8MYtf7em.webp?crop.top=0.74&crop.bottom=0.1
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

@@ -10,6 +10,7 @@ description: >-
   formidable army that Jigsaw has recruited before more of his evil deeds go
   unpunished.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/r4Cyf3lL2ffta1kd7H5IaAZorE8.webp?crop.bottom=0.8
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
