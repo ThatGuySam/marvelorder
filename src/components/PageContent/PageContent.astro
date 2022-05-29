@@ -2,6 +2,8 @@
 import MoreMenu from '../RightSidebar/MoreMenu.astro';
 import TableOfContents from '../RightSidebar/TableOfContents.tsx';
 
+import ListingLogo from '~/src/components/listing-logo.vue'
+
 const { content, githubEditUrl } = Astro.props;
 const title = content.title;
 const headers = content.astro?.headers || [];
@@ -11,7 +13,8 @@ const logo = content?.logo_on_black
 
 <article id="article" class="content">
 	<section class="main-section">
-		{ logo && <img 
+		{ logo && <ListingLogo
+			client:load 
 			src={ logo }
 			class="w-full object-contain"
 			alt={ title }
