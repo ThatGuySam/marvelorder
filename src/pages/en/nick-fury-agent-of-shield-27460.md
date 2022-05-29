@@ -8,6 +8,7 @@ description: >-
   organization. Under the lead of his vicious daughter, Viper, Hydra has seized
   a deadly virus and threatens the destruction of America.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/4T0YjvnBaMASZkkRKxMIe6IoWO0.webp?crop.top=0.415&crop.bottom=0.3
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
