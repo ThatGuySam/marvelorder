@@ -8,6 +8,7 @@ description: >-
   threat leaves Black Panther with no option but to go against the sacred
   decrees of his people and ask for help from outsiders.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/bsDLG069v8esZkI2owKvduQIrq.webp?crop.top=0.02&crop.bottom=0.74
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
