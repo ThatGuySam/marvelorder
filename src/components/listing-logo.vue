@@ -1,7 +1,7 @@
 <template>
     <img 
         :data-src="smallestImage"
-        :data-src-set="srcSet"
+        :data-srcset="srcSet"
         :sizes="`(max-width: ${ maxWidth }px) 100vw, ${ maxWidth }px`"
         class="lazyload"
         :alt="alt"
