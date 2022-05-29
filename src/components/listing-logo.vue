@@ -1,6 +1,6 @@
 <template>
     <img 
-        :data-src="src"
+        :data-src="smallestImage"
         :data-src-set="srcSet"
         :sizes="`(max-width: ${ maxWidth }px) 100vw, ${ maxWidth }px`"
         class="lazyload"
@@ -11,6 +11,14 @@
 <script>
 
 import 'lazysizes'
+
+function makeSizedImageUrl ( imageUrl, maxWidth ) {
+    const sizeUrl = new URL( this.src, 'https://example.com' )
+
+    sizeUrl.searchParams.set( 'width', size )
+
+    return `${ sizeUrl.pathname }${ sizeUrl.search }`
+}
 
 export default {
     props: {
@@ -35,17 +43,15 @@ export default {
 			const srcSet = []
 
             for ( const size of this.sizes ) {
-                const sizeUrl = new URL( this.src, 'https://example.com' )
-
-                sizeUrl.searchParams.set( 'width', size )
-
-                // console.log('sizeUrl', sizeUrl)
                 
-                srcSet.push( `${ sizeUrl.pathname }${ sizeUrl.search } ${ size }w` )
+                srcSet.push( `${ makeSizedImageUrl( this.src, size ) } ${ size }w` )
             }
 
             return srcSet.join( ', ' )
-		}
+		},
+        smallestImage () {
+            return makeSizedImageUrl( this.src, this.sizes[ 0 ] ) 
+        },
     }
 }
 </script>
