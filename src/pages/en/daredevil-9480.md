@@ -5,6 +5,7 @@ description: >-
   A man blinded in a childhood accident fights crime using his
   superhumanly-elevated remaining senses.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/kcOwV5mpp8gxxgrZ4iGsxAcMt9F.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

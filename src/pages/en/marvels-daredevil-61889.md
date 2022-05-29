@@ -6,6 +6,7 @@ description: >-
   young boy to fight crime at night on the streets of Hell’s Kitchen as
   Daredevil.
 type: tv
+logo_on_black: /.netlify/functions/tmdb-image/ojZQWLfaN16Ix0a3BKoKB0VyCZ6.webp?crop.top=0.3&crop.bottom=0.3
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
