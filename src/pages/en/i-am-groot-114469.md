@@ -5,6 +5,7 @@ description: >-
   Everyone’s favorite little tree, Baby Groot, stars in a series of shorts
   featuring several new and unusual characters.
 type: tv
+logo_on_black: /.netlify/functions/tmdb-image/lOqw1w20tjRbbjPImUjbFRfNffp.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
