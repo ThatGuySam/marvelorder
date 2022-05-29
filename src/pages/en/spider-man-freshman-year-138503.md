@@ -5,6 +5,7 @@ description: >-
   Follow Peter Parker on his way to becoming Spider-Man in the MCU, with a
   journey unlike we've ever seen.
 type: tv
+logo_on_black: /.netlify/functions/tmdb-image/7x61rNltpwfCRHuE5iqL6PIy4oR.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
