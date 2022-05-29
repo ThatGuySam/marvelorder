@@ -5,6 +5,7 @@ description: >-
   James Rhodes aka War Machine faces the consequences of Tony Stark's worst fear
   coming true: what happens when his tech falls into the wrong hands?
 type: tv
+logo_on_black: /.netlify/functions/tmdb-image/vXkmdLWnXpBaaErF4faB2BKLStL.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
