@@ -187,7 +187,7 @@ export default {
 		// Reveal all listings after a delay
 		setTimeout( () => {
 			this.showAllListings = true
-		}, 2000 )
+		}, 1000 )
 		
 		this.scrollToUpcomingListing()
 	}
