@@ -6,12 +6,10 @@ export const SITE = {
 
 export const OPEN_GRAPH = {
 	image: {
-		src: 'https://github.com/ThatGuySam/marvelorder/blob/main/assets/social/banner.jpg?raw=true',
-		alt:
-			'astro logo on a starry expanse of space,' +
-			' with a purple saturn-like planet floating in the right foreground',
+		src: 'https://marvelorder.com/og-image.png',
+		alt: 'Marvel Order Text'
 	},
-	twitter: 'astrodotbuild',
+	twitter: 'thatguysam',
 };
 
 export const KNOWN_LANGUAGES = {
