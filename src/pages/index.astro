@@ -30,7 +30,7 @@ const listings = await Promise.all( pages.map( async page => {
   
 	<script is:inline>
 		const nextUpcoming = document.querySelector('.listing-card-next-upcoming')
-		// Trigger scroll to out upcoming listign here
+		// Trigger scroll to out upcoming listing here
 		// so that we don't have to wait for Vue to hydrate
 		document.querySelector('.listing-row').scrollLeft = nextUpcoming.offsetLeft - window.innerWidth + nextUpcoming.offsetWidth * 1.75
 	</script>
