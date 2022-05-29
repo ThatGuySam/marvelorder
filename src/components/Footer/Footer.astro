@@ -3,14 +3,9 @@ import AvatarList from './AvatarList.astro';
 const { path } = Astro.props;
 ---
 
-<footer>
-	<AvatarList {path} />
+<footer class="fixed bottom-2 inset-x w-full flex justify-center">
+	<!-- <AvatarList {path} /> -->
+
+	<div class="text-xs opacity-10">This site is not affiliated with or endorsed by the Marvel. </div>
 </footer>
 
-<style>
-	footer {
-		margin-top: auto;
-		padding: 2rem 0;
-		border-top: 3px solid var(--theme-divider);
-	}
-</style>
