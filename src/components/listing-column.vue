@@ -44,9 +44,17 @@
 						:class="`vertical-line-container relative flex gap-4 ${ outerDirection } ${ innerHeight }`"
 					>
 						<div 
-							:class="`vertical-line w-1 bg-current h-full`"
+							:class="[
+								`vertical-line w-1 bg-current h-full`, 
+								listing.hasDate ? '' : 'opacity-10',
+							]"
 						/>
-						<div class="w-32 text-center font-bold uppercase">
+						<div 
+							:class="[
+								'w-32 text-center font-bold uppercase', 
+								listing.hasDate ? '' : 'opacity-20',
+							]"
+						>
 							{{ listing.dateHumanReadable }}
 						</div>
 					</div>

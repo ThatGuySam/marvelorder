@@ -25,14 +25,18 @@ export class MappedListing {
         return DateTime.fromISO( this.dateString )
     }
 
+    get hasDate () {
+        return !!this.dateString
+    }
+
     get year () {
         return this.date.year
     }
 
     get dateHumanReadable () {
         // Just say Date Unknown for null dates
-        if ( !this.dateString ) {
-            return 'TBA'
+        if ( !this.hasDate ) {
+            return 'Order TBA'
         }
 
         if ( typeof this.dateString === 'string' && this.dateString.trim().length === 4 ) {
