@@ -9,6 +9,7 @@ description: >-
   becomes entrenched in the world of vampires while investigating the murder of
   her twin brother.
 type: tv
+logo_on_black: /.netlify/functions/tmdb-image/9n1kYtHNeOxXNSDBqzOJF6sNzFW.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
