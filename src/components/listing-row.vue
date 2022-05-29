@@ -85,6 +85,10 @@ function isDoc ( listing ) {
 	return false
 }
 
+function isShow ( listing ) {
+	return listing.type === 'tv'
+}
+
 function matchesFilters ( filters ) {
 	return listing => {
 
@@ -119,6 +123,7 @@ export default {
         return {
             activeListingFilters: [
 				[ isDoc, false ],
+				// [ isShow, false ],
 			],
 			showAllListings: false,
         }
