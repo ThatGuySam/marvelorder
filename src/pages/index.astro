@@ -1,6 +1,6 @@
 ---
 // import { byListingDate } from '~/src/helpers/sort.ts'
-import { getListingFromFile } from '~/src/helpers/node/listing-files.ts'
+import { getListingsFromFilePaths } from '~/src/helpers/node/listing-files.ts'
 // import { MappedListing } from '~/src/helpers/node/listing.ts'
 
 import Layout from '../layouts/HorizontalScroll.astro'
@@ -9,14 +9,7 @@ import ListingRow from '../components/listing-row.vue'
 const pages = await Astro.glob('../pages/en/*.md')
 
 
-const listings = await Promise.all( pages.map( async page => {
-  const { listing } = await getListingFromFile( page.file )
-
-//   listing.date = new Date( listing.date )
-
-  return listing//new MappedListing( listing )
-
-}) )
+const listings = await getListingsFromFilePaths( pages.map( page => page.file ) )
 
 ---
 <Layout>

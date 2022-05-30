@@ -31,4 +31,19 @@ export async function getListingFromFile ( filePath: string ) {
     return getDataFromListingContents( markdown )
 }
 
+export async function getListingsFromFilePaths ( filePaths: string[] ) {
+    const listings = []
 
+    for ( const filePath of filePaths ) {
+        const { listing } = await getListingFromFile( filePath )
+
+        // if the listing is diabled, skip it
+        if ( listing?.disabled === true ) {
+            continue
+        }
+
+        listings.push( listing )
+    }
+
+    return listings
+}

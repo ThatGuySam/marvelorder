@@ -1,4 +1,5 @@
 export interface Listing {
+    disabled?: boolean
     title: string
     name?: string
     overview: string
