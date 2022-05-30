@@ -73,3 +73,38 @@ export const TMDB_COMPANIES = [
 		id: '11106',
 	}
 ]
+
+
+export const TMDB_LISTS = [
+	{
+		// https://www.themoviedb.org/list/8204859
+		name: 'Main', 
+		id: '8204859',
+		tags: []
+	},
+	{
+		// https://www.themoviedb.org/list/8204862
+		name: 'Classic Marvel Movies',
+		id: '8204862',
+		tags: ['classic']
+	},
+	{
+		// https://www.themoviedb.org/list/8204860
+		name: 'X-Men Movies',
+		id: '8204860',
+		tags: ['x-men']
+	}
+]
+
+
+// Has to be different from lists 
+// since it uses 'items' and this uses 'parts'
+export const TMDB_COLLECTTIONS = [
+	{
+		// https://www.themoviedb.org/movie/36657-x-men
+		name: 'X-Men', 
+		id: '36657',
+		tags: ['x-men']
+	}
+]
+
