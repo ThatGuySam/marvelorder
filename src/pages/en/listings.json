@@ -720,6 +720,32 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": "/ygkQwS4xWMZ05kI2iKnC5zZnenR.jpg",
+		"genre_ids": [
+			27,
+			878,
+			9648
+		],
+		"id": 981611,
+		"original_language": "en",
+		"original_title": "Morbius and Wong",
+		"overview": "Morbius the Marvel Legend (Jared Leto) fights the sorcerer supreme (Benedict Wong) and the CEO Of Sex (Jacob Batalon)",
+		"poster_path": null,
+		"release_date": "2023-10-26",
+		"title": "Morbius and Wong",
+		"video": false,
+		"vote_average": 0,
+		"slug": "morbius-and-wong",
+		"type": "movie",
+		"companies": [
+			{
+				"name": "Marvel Studios",
+				"id": "420"
+			}
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/3AbHZcRdon7TmpqracuQqgJxOGE.jpg",
 		"genre_ids": [
 			28,
@@ -940,7 +966,7 @@
 		"original_language": "en",
 		"original_title": "Thor: Love and Thunder",
 		"overview": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now inexplicably wields Mjolnir as the Mighty Thor. Together, they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
-		"poster_path": "/cOkx3uu5FVgC902Q6Y3MxLpBWbX.jpg",
+		"poster_path": "/4zLfBbGnuUBLbMVtagTZvzFwS8l.jpg",
 		"release_date": "2022-07-06",
 		"title": "Thor: Love and Thunder",
 		"video": false,
@@ -964,7 +990,7 @@
 		"original_language": "en",
 		"original_title": "The Making of Doctor Strange in the Multiverse of Madness",
 		"overview": "",
-		"poster_path": "/kcWYWN9RvBnh49YqXKJ7ViBDmkS.jpg",
+		"poster_path": null,
 		"release_date": "2022-06-22",
 		"title": "The Making of Doctor Strange in the Multiverse of Madness",
 		"video": false,
@@ -983,7 +1009,8 @@
 		"first_air_date": "2022-06-08",
 		"genre_ids": [
 			10765,
-			10759
+			10759,
+			35
 		],
 		"id": 92782,
 		"name": "Ms. Marvel",
@@ -1031,7 +1058,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/AdyJH8kDm8xT8IKTlgpEC15ny4u.jpg",
+		"backdrop_path": "/gUNRlH66yNDH3NQblYMIwgZXJ2u.jpg",
 		"genre_ids": [
 			14,
 			28,
@@ -1041,7 +1068,7 @@
 		"original_language": "en",
 		"original_title": "Doctor Strange in the Multiverse of Madness",
 		"overview": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
-		"poster_path": "/odQ902qHzB4B7ltLrIzDa6hCl9U.jpg",
+		"poster_path": "/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
 		"release_date": "2022-05-04",
 		"title": "Doctor Strange in the Multiverse of Madness",
 		"video": false,
@@ -1080,32 +1107,6 @@
 			{
 				"name": "Marvel Studios",
 				"id": "420"
-			}
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/gG9fTyDL03fiKnOpf2tr01sncnt.jpg",
-		"genre_ids": [
-			28,
-			878,
-			14
-		],
-		"id": 526896,
-		"original_language": "en",
-		"original_title": "Morbius",
-		"overview": "Dangerously ill with a rare blood disorder, and determined to save others suffering his same fate, Dr. Michael Morbius attempts a desperate gamble. What at first appears to be a radical success soon reveals itself to be a remedy potentially worse than the disease.",
-		"poster_path": "/6JjfSchsU6daXk2AKX8EEBjO3Fm.jpg",
-		"release_date": "2022-03-30",
-		"title": "Morbius",
-		"video": false,
-		"vote_average": 6.4,
-		"slug": "morbius",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
 			}
 		]
 	},
@@ -1384,7 +1385,7 @@
 		"original_name": "Marvel's Spidey and His Amazing Friends",
 		"overview": "Follow Peter Parker, Gwen Stacy and Miles Morales and their adventures as the young heroes team up with Hulk, Ms. Marvel and Black Panther to defeat foes like Rhino, Doc Ock and Green Goblin and learn that teamwork is the best way to save the day.",
 		"poster_path": "/dA4S18rnLx4sWW8agmLLKUvRM7n.jpg",
-		"vote_average": 7.4,
+		"vote_average": 7.3,
 		"title": "Marvel's Spidey and His Amazing Friends",
 		"slug": "marvels-spidey-and-his-amazing-friends",
 		"type": "tv",

@@ -18,7 +18,8 @@ layout: ../../layouts/MainLayout.astro
     "first_air_date": "2022-06-08",
     "genre_ids": [
         10765,
-        10759
+        10759,
+        35
     ],
     "id": 92782,
     "name": "Ms. Marvel",

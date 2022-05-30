@@ -17,7 +17,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "The Making of Doctor Strange in the Multiverse of Madness",
     "overview": "",
-    "poster_path": "/kcWYWN9RvBnh49YqXKJ7ViBDmkS.jpg",
+    "poster_path": null,
     "release_date": "2022-06-22",
     "title": "The Making of Doctor Strange in the Multiverse of Madness",
     "video": false,
