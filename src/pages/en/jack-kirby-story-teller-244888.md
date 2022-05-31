@@ -6,6 +6,9 @@ description: >-
   Fantastic Four, Iron Man, Thor, The Avengers, The Hulk, The X-Men and the New
   Gods, among other classic comic book superheroes.
 type: movie
+tags: [
+    doc
+]
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
