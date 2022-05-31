@@ -10,6 +10,7 @@ description: >-
   closer to the truth Miguel threatens to spray the chemical on a major city
   unless his demands are met. But the President does not negotiate with
   terrorists, can Captain America save the day!?
+logo_on_black: /.netlify/functions/tmdb-image/ggbq4863ttkoNT7X96eILcc7PkU.webp?crop.bottom=0.785
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
