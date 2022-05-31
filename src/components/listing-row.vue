@@ -30,26 +30,39 @@
 		</div>
 
 		<button 
-			class="absolute left-12 h-16 w-16 flex justify-center items-center transform -translate-y-1/2 -translate-x-1/2 bg-black/25 backdrop-blur rounded-full" 
+			:class="[
+				'absolute left-12 h-16 w-16 flex justify-center items-center transform -translate-y-1/2 -translate-x-1/2 bg-black/25 backdrop-blur rounded-full', 
+				'transition-all duration-200 ease-in-out',
+			]" 
 			style="top:50%;" 
 			aria-label="Scroll to previous listings"
 
 			@click="scroll( -0.8 )"
 		>
 			<svg viewBox="0 0 20 20" fill="currentColor" class="h-5 w-5 text-gray-400" style="transform: scaleX(-1);">
-				<path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path>
+				<path 
+					fill-rule="evenodd" 
+					d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" 
+					clip-rule="evenodd"
+				></path>
 			</svg>
 		</button>
 		<button 
-			class="absolute right-12 h-16 w-16 flex justify-center items-center transform -translate-y-1/2 translate-x-1/2 bg-black/25 backdrop-blur rounded-full" 
+			:class="[
+				'absolute right-12 h-16 w-16 flex justify-center items-center transform -translate-y-1/2 translate-x-1/2 bg-black/25 backdrop-blur rounded-full', 
+				'transition-all duration-200 ease-in-out',
+			]" 
 			style="top:50%;" 
-			distance="325" 
 			aria-label="Scroll to next listings"
 
 			@click="scroll( 0.8 )"
 		>
 			<svg viewBox="0 0 20 20" fill="currentColor" class="h-5 w-5 text-gray-400">
-				<path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path>
+				<path 
+					fill-rule="evenodd" 
+					d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" 
+					clip-rule="evenodd"
+				></path>
 			</svg>
 		</button>
 
