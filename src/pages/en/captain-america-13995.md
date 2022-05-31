@@ -29,7 +29,7 @@ layout: ../../layouts/MainLayout.astro
     "release_date": "1990-12-14",
     "title": "Captain America",
     "video": false,
-    "vote_average": 4.6,
+    "vote_average": 4.7,
     "slug": "captain-america",
     "type": "movie",
     "companies": [
