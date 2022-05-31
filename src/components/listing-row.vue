@@ -95,6 +95,11 @@ function isUpcoming ( listing ) {
 }
 
 function isDoc ( listing ) {
+	// Check if listing has a doc tag
+	if ( listing.hasTag( 'doc' ) ) {
+		return true
+	}
+
 	const docMatchingTerms = [
 		'making of',
 		'assembled',
