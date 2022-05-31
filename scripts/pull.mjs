@@ -11,9 +11,13 @@ import 'https://deno.land/std/dotenv/load.ts'
 import { slugify } from 'https://deno.land/x/slugify/mod.ts'
 import axios from 'https://deno.land/x/axiod/mod.ts'
 import matter from 'https://jspm.dev/gray-matter'
+import { deepmerge, deepmergeCustom } from 'https://deno.land/x/deepmergets@v4.0.3/dist/deno/mod.ts'
 
-
-import { TMDB_COMPANIES, storePath } from '../src/config.ts'
+import { 
+    TMDB_COMPANIES, 
+    TMDB_LISTS, 
+    storePath 
+} from '../src/config.ts'
 import { byListingDate } from '../src/helpers/sort.ts'
 import { 
     makeTMDbMarkdownSection, 
@@ -21,6 +25,11 @@ import {
     getPartsFromMarkdown
 } from '../src/helpers/markdown-page.ts'
 import { makeListingEndpoint } from '../src/helpers/listing.ts'
+
+// https://github.com/RebeccaStevens/deepmerge-ts/blob/beae8b841561bd206150ef02fe10db94856c6e45/docs/deepmergeCustom.md
+const deepmergeListings = deepmergeCustom({ mergeArrays: values => {
+    return Array.from( new Set( values.flat() ) )
+} })
 
 function makeSlug ( name ) {
     return slugify(name, {
@@ -84,7 +93,7 @@ async function fetchListings ({
             })
 
         
-        for ( const result of data.results ) {
+        for ( const result of data[ listKey ] ) {
 
             // If we've already seen this title, add the new company to the list
             if ( fetchedListings[ result.id ] ) {
@@ -128,20 +137,46 @@ async function fetchListingsFromCompanies ( companies ) {
 
         // Merge into listings
         for ( const id in movies ) {
-            listings[ id ] = movies[ id ]
+            listings[ id ] = deepmergeListings( movies[ id ], listings[ id ] || {} ) 
         }
         
         for ( const id in tvShows ) {
-            listings[ id ] = tvShows[ id ]
+            listings[ id ] = deepmergeListings( tvShows[ id ], listings[ id ] || {} ) 
         }
         
     }
 
     // Sort movies by release_date/first_air_date and empty first
-    const sortedListings = Object.values(listings)
-        .sort( byListingDate )
+    // const sortedListings = Object.values(listings)
+    //     .sort( byListingDate )
 
-    return sortedListings
+    return listings
+}
+
+
+async function fetchListingsFromLists ( lists ) {
+    const listings = {}
+
+    for ( const list of lists ) {
+
+        const fetchedListings = await fetchListings({ 
+            // https://api.themoviedb.org/3/list/8204859?append_to_response=videos,images,company&api_key={{API_KEY}}
+            endpoint: `/3/list/${ list.id }`, 
+            params: {
+                append_to_response: 'videos,images,company'
+            },
+            tags: [ `list-${ list.id }` ], 
+            listKey: 'items'
+        })
+
+        // Merge into listings
+        for ( const id in fetchedListings ) {
+            listings[ id ] = deepmergeListings( fetchedListings[ id ], listings[ id ] || {} ) 
+        }
+        
+    }
+
+    return listings//sortedListings
 }
 
 
@@ -173,6 +208,9 @@ async function saveListingsAsMarkdown ( listings ) {
                 pageMeta
             } = await makeNewListingContents( listing )
 
+            // console.log('wrappedCode', wrappedCode)
+            // console.log('pageMeta', pageMeta)
+
             content = matter.stringify( wrappedCode, pageMeta )
         }
 
@@ -182,12 +220,28 @@ async function saveListingsAsMarkdown ( listings ) {
 }
 
 ;(async () => {
+    
+    let listings = []
 
-    const listings = await fetchListingsFromCompanies( TMDB_COMPANIES )
+    const companylistings = await fetchListingsFromCompanies( TMDB_COMPANIES )
 
-    await writeJSON( `${ storePath }/en/listings.json`, listings, null, '\t' )
+    const listListings = await fetchListingsFromLists( TMDB_LISTS )
 
-    await saveListingsAsMarkdown( listings )
+    // console.log('listListings', listListings[ 668 ] )
+    // console.log('companylistings', companylistings.find( ( listing ) => listing.id === 668 ))
+
+    listings = deepmergeListings( companylistings, listListings )
+
+    // console.log('listings', listings[ 668 ])
+
+    // Sort movies by release_date/first_air_date and empty first
+    const sortedListings = Object.values(listings)
+        .sort( byListingDate )
+
+
+    await writeJSON( `${ storePath }/en/listings.json`, sortedListings, null, '\t' )
+
+    await saveListingsAsMarkdown( sortedListings )
 
     console.log('Pull complete.')
 
