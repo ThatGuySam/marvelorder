@@ -7,6 +7,7 @@ description: >-
   duck's planet. A few kids try to keep him from the greedy scientists and help
   him back to his planet. But then a much less friendly being arrives through
   the beam...
+logo_on_black: /.netlify/functions/tmdb-image/wNCqwzGoslikNaWYPg75Cycs7qQ.webp?crop.top=0.74&crop.bottom=0.05
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
