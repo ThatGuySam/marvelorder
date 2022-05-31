@@ -32,12 +32,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 7.1,
     "title": "Marvel's Agents of S.H.I.E.L.D.: Slingshot",
     "slug": "marvels-agents-of-shield-slingshot",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Television",
-            "id": "38679"
-        }
+    "tags": [
+        "tv",
+        "company-38679"
     ]
 }
 

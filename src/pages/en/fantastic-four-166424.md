@@ -30,12 +30,9 @@ layout: ../../layouts/MainLayout.astro
     "video": false,
     "vote_average": 4.4,
     "slug": "fantastic-four",
-    "type": "movie",
-    "companies": [
-        {
-            "name": "Marvel Entertainment",
-            "id": "7505"
-        }
+    "tags": [
+        "movie",
+        "company-7505"
     ]
 }
 

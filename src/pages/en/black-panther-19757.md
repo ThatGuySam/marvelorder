@@ -32,12 +32,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 7.1,
     "title": "Black Panther",
     "slug": "black-panther",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Knights",
-            "id": "11106"
-        }
+    "tags": [
+        "tv",
+        "company-11106"
     ]
 }
 

@@ -29,12 +29,9 @@ layout: ../../layouts/MainLayout.astro
     "video": false,
     "vote_average": 7,
     "slug": "venom-let-there-be-carnage",
-    "type": "movie",
-    "companies": [
-        {
-            "name": "Marvel Entertainment",
-            "id": "7505"
-        }
+    "tags": [
+        "movie",
+        "company-7505"
     ]
 }
 

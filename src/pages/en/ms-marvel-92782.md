@@ -33,12 +33,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 0,
     "title": "Ms. Marvel",
     "slug": "ms-marvel",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Studios",
-            "id": "420"
-        }
+    "tags": [
+        "tv",
+        "company-420"
     ]
 }
 

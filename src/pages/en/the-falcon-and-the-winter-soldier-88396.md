@@ -31,12 +31,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 7.8,
     "title": "The Falcon and the Winter Soldier",
     "slug": "the-falcon-and-the-winter-soldier",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Studios",
-            "id": "420"
-        }
+    "tags": [
+        "tv",
+        "company-420"
     ]
 }
 

@@ -35,12 +35,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 6.6,
     "title": "Blade: The Series",
     "slug": "blade-the-series",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Enterprises",
-            "id": "19551"
-        }
+    "tags": [
+        "tv",
+        "company-19551"
     ]
 }
 

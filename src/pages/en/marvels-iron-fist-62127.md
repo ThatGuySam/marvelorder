@@ -29,12 +29,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 6.6,
     "title": "Marvel's Iron Fist",
     "slug": "marvels-iron-fist",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Television",
-            "id": "38679"
-        }
+    "tags": [
+        "tv",
+        "company-38679"
     ]
 }
 

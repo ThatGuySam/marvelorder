@@ -26,12 +26,9 @@ layout: ../../layouts/MainLayout.astro
     "video": false,
     "vote_average": 5.8,
     "slug": "black-panther",
-    "type": "movie",
-    "companies": [
-        {
-            "name": "Marvel Knights",
-            "id": "11106"
-        }
+    "tags": [
+        "movie",
+        "company-11106"
     ]
 }
 

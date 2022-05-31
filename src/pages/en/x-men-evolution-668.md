@@ -30,12 +30,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 8,
     "title": "X-Men: Evolution",
     "slug": "x-men-evolution",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Studios",
-            "id": "420"
-        }
+    "tags": [
+        "tv",
+        "company-420"
     ]
 }
 

@@ -34,12 +34,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 7.2,
     "title": "Spider-Man",
     "slug": "spider-man",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Entertainment",
-            "id": "7505"
-        }
+    "tags": [
+        "tv",
+        "company-7505"
     ]
 }
 

@@ -30,12 +30,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 8.1,
     "title": "Marvel's The Punisher",
     "slug": "marvels-the-punisher",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Television",
-            "id": "38679"
-        }
+    "tags": [
+        "tv",
+        "company-38679"
     ]
 }
 

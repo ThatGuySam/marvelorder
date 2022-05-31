@@ -29,12 +29,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 0,
     "title": "Marvel Zombies",
     "slug": "marvel-zombies",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Studios",
-            "id": "420"
-        }
+    "tags": [
+        "tv",
+        "company-420"
     ]
 }
 

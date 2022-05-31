@@ -30,12 +30,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 6.7,
     "title": "The Avengers: United They Stand",
     "slug": "the-avengers-united-they-stand",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Enterprises",
-            "id": "19551"
-        }
+    "tags": [
+        "tv",
+        "company-19551"
     ]
 }
 

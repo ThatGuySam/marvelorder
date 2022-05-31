@@ -33,12 +33,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 7.1,
     "title": "Marvel's M.O.D.O.K.",
     "slug": "marvels-modok",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Television",
-            "id": "38679"
-        }
+    "tags": [
+        "tv",
+        "company-38679"
     ]
 }
 

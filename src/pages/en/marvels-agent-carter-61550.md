@@ -32,12 +32,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 7.6,
     "title": "Marvel's Agent Carter",
     "slug": "marvels-agent-carter",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Television",
-            "id": "38679"
-        }
+    "tags": [
+        "tv",
+        "company-38679"
     ]
 }
 

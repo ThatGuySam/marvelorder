@@ -30,12 +30,9 @@ layout: ../../layouts/MainLayout.astro
     "video": false,
     "vote_average": 7.5,
     "slug": "spider-man-far-from-home",
-    "type": "movie",
-    "companies": [
-        {
-            "name": "Marvel Studios",
-            "id": "420"
-        }
+    "tags": [
+        "movie",
+        "company-420"
     ]
 }
 

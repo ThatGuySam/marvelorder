@@ -32,12 +32,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 8.2,
     "title": "Hawkeye",
     "slug": "hawkeye",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Studios",
-            "id": "420"
-        }
+    "tags": [
+        "tv",
+        "company-420"
     ]
 }
 

@@ -32,12 +32,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 7.5,
     "title": "Marvel Studios: Legends",
     "slug": "marvel-studios-legends",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Studios",
-            "id": "420"
-        }
+    "tags": [
+        "tv",
+        "company-420"
     ]
 }
 

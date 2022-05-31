@@ -29,12 +29,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 4.5,
     "title": "Marvel Disk Wars: The Avengers",
     "slug": "marvel-disk-wars-the-avengers",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Entertainment",
-            "id": "7505"
-        }
+    "tags": [
+        "tv",
+        "company-7505"
     ]
 }
 

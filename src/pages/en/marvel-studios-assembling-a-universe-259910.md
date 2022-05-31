@@ -15,6 +15,8 @@ layout: ../../layouts/MainLayout.astro
     "backdrop_path": "/czHz1DWWE0bcffXybT7u1wNshSx.jpg",
     "genre_ids": [
         10770,
+        99,
+        10770,
         99
     ],
     "id": 259910,
@@ -27,12 +29,11 @@ layout: ../../layouts/MainLayout.astro
     "video": false,
     "vote_average": 7.1,
     "slug": "marvel-studios-assembling-a-universe",
-    "type": "movie",
-    "companies": [
-        {
-            "name": "Marvel Entertainment",
-            "id": "7505"
-        }
+    "tags": [
+        "movie",
+        "company-7505",
+        "movie",
+        "company-420"
     ]
 }
 

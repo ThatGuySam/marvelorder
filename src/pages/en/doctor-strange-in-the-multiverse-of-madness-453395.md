@@ -29,12 +29,9 @@ layout: ../../layouts/MainLayout.astro
     "video": false,
     "vote_average": 7.4,
     "slug": "doctor-strange-in-the-multiverse-of-madness",
-    "type": "movie",
-    "companies": [
-        {
-            "name": "Marvel Studios",
-            "id": "420"
-        }
+    "tags": [
+        "movie",
+        "company-420"
     ]
 }
 

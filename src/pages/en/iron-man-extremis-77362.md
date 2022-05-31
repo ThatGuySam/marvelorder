@@ -27,12 +27,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 6.8,
     "title": "Iron Man: Extremis",
     "slug": "iron-man-extremis",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Knights",
-            "id": "11106"
-        }
+    "tags": [
+        "tv",
+        "company-11106"
     ]
 }
 

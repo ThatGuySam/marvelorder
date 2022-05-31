@@ -30,12 +30,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 6.9,
     "title": "Thor & Loki: Blood Brothers",
     "slug": "thor-and-loki-blood-brothers",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Knights",
-            "id": "11106"
-        }
+    "tags": [
+        "tv",
+        "company-11106"
     ]
 }
 

@@ -31,12 +31,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 8.7,
     "title": "The Spectacular Spider-Man",
     "slug": "the-spectacular-spider-man",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Entertainment",
-            "id": "7505"
-        }
+    "tags": [
+        "tv",
+        "company-7505"
     ]
 }
 

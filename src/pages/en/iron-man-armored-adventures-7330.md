@@ -46,12 +46,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 7.6,
     "title": "Iron Man: Armored Adventures",
     "slug": "iron-man-armored-adventures",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Entertainment",
-            "id": "7505"
-        }
+    "tags": [
+        "tv",
+        "company-7505"
     ]
 }
 

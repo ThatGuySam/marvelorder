@@ -23,12 +23,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 0,
     "title": "Untitled Daredevil Series",
     "slug": "untitled-daredevil-series",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Studios",
-            "id": "420"
-        }
+    "tags": [
+        "tv",
+        "company-420"
     ]
 }
 

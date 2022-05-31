@@ -29,12 +29,9 @@ layout: ../../layouts/MainLayout.astro
     "video": false,
     "vote_average": 7.7,
     "slug": "shang-chi-and-the-legend-of-the-ten-rings",
-    "type": "movie",
-    "companies": [
-        {
-            "name": "Marvel Studios",
-            "id": "420"
-        }
+    "tags": [
+        "movie",
+        "company-420"
     ]
 }
 

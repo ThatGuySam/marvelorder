@@ -27,12 +27,9 @@ layout: ../../layouts/MainLayout.astro
     "video": false,
     "vote_average": 7.5,
     "slug": "marvels-behind-the-mask",
-    "type": "movie",
-    "companies": [
-        {
-            "name": "Marvel Entertainment",
-            "id": "7505"
-        }
+    "tags": [
+        "movie",
+        "company-7505"
     ]
 }
 

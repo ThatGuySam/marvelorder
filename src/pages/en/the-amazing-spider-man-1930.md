@@ -35,12 +35,9 @@ layout: ../../layouts/MainLayout.astro
     "video": false,
     "vote_average": 6.7,
     "slug": "the-amazing-spider-man",
-    "type": "movie",
-    "companies": [
-        {
-            "name": "Marvel Entertainment",
-            "id": "7505"
-        }
+    "tags": [
+        "movie",
+        "company-7505"
     ]
 }
 

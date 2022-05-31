@@ -34,12 +34,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 8.2,
     "title": "Moon Knight",
     "slug": "moon-knight",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Studios",
-            "id": "420"
-        }
+    "tags": [
+        "tv",
+        "company-420"
     ]
 }
 

@@ -30,12 +30,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 7,
     "title": "Helstrom",
     "slug": "helstrom",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Television",
-            "id": "38679"
-        }
+    "tags": [
+        "tv",
+        "company-38679"
     ]
 }
 

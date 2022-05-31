@@ -28,12 +28,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 8.2,
     "title": "Marvel's Rocket & Groot",
     "slug": "marvels-rocket-and-groot",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Entertainment",
-            "id": "7505"
-        }
+    "tags": [
+        "tv",
+        "company-7505"
     ]
 }
 

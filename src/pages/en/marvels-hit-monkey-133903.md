@@ -31,12 +31,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 7.9,
     "title": "Marvel's Hit-Monkey",
     "slug": "marvels-hit-monkey",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Television",
-            "id": "38679"
-        }
+    "tags": [
+        "tv",
+        "company-38679"
     ]
 }
 

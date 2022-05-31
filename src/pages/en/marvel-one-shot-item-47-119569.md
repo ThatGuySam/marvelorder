@@ -27,12 +27,9 @@ layout: ../../layouts/MainLayout.astro
     "video": false,
     "vote_average": 6.5,
     "slug": "marvel-one-shot-item-47",
-    "type": "movie",
-    "companies": [
-        {
-            "name": "Marvel Studios",
-            "id": "420"
-        }
+    "tags": [
+        "movie",
+        "company-420"
     ]
 }
 

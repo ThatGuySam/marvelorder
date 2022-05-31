@@ -31,12 +31,9 @@ layout: ../../layouts/MainLayout.astro
     "video": false,
     "vote_average": 5.5,
     "slug": "ghost-rider",
-    "type": "movie",
-    "companies": [
-        {
-            "name": "Marvel Studios",
-            "id": "420"
-        }
+    "tags": [
+        "movie",
+        "company-420"
     ]
 }
 

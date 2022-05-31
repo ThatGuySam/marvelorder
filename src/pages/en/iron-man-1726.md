@@ -27,12 +27,9 @@ layout: ../../layouts/MainLayout.astro
     "video": false,
     "vote_average": 7.6,
     "slug": "iron-man",
-    "type": "movie",
-    "companies": [
-        {
-            "name": "Marvel Studios",
-            "id": "420"
-        }
+    "tags": [
+        "movie",
+        "company-420"
     ]
 }
 

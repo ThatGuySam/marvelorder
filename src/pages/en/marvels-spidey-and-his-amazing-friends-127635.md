@@ -30,12 +30,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 7.3,
     "title": "Marvel's Spidey and His Amazing Friends",
     "slug": "marvels-spidey-and-his-amazing-friends",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Entertainment",
-            "id": "7505"
-        }
+    "tags": [
+        "tv",
+        "company-7505"
     ]
 }
 

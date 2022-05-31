@@ -23,12 +23,9 @@ layout: ../../layouts/MainLayout.astro
     "video": false,
     "vote_average": 5.3,
     "slug": "the-marvel-universe-expands-marvel-75th-anniversary",
-    "type": "movie",
-    "companies": [
-        {
-            "name": "Marvel Entertainment",
-            "id": "7505"
-        }
+    "tags": [
+        "movie",
+        "company-7505"
     ]
 }
 

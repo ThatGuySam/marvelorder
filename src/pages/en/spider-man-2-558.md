@@ -32,12 +32,9 @@ layout: ../../layouts/MainLayout.astro
     "video": false,
     "vote_average": 7.2,
     "slug": "spider-man-2",
-    "type": "movie",
-    "companies": [
-        {
-            "name": "Marvel Enterprises",
-            "id": "19551"
-        }
+    "tags": [
+        "movie",
+        "company-19551"
     ]
 }
 

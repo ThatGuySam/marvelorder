@@ -31,12 +31,9 @@ layout: ../../layouts/MainLayout.astro
     "video": false,
     "vote_average": 6.6,
     "slug": "thor-the-dark-world",
-    "type": "movie",
-    "companies": [
-        {
-            "name": "Marvel Studios",
-            "id": "420"
-        }
+    "tags": [
+        "movie",
+        "company-420"
     ]
 }
 

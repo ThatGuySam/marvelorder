@@ -25,12 +25,9 @@ layout: ../../layouts/MainLayout.astro
     "video": false,
     "vote_average": 5.7,
     "slug": "marvel-and-espn-films-present-1-of-1-genesis",
-    "type": "movie",
-    "companies": [
-        {
-            "name": "Marvel Entertainment",
-            "id": "7505"
-        }
+    "tags": [
+        "movie",
+        "company-7505"
     ]
 }
 

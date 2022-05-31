@@ -31,12 +31,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 6.3,
     "title": "Marvel's Inhumans",
     "slug": "marvels-inhumans",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Television",
-            "id": "38679"
-        }
+    "tags": [
+        "tv",
+        "company-38679"
     ]
 }
 

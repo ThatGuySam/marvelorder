@@ -28,12 +28,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 0,
     "title": "I Am Groot",
     "slug": "i-am-groot",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Studios",
-            "id": "420"
-        }
+    "tags": [
+        "tv",
+        "company-420"
     ]
 }
 

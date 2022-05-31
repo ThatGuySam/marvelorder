@@ -29,12 +29,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 7.5,
     "title": "Marvel's Cloak & Dagger",
     "slug": "marvels-cloak-and-dagger",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Television",
-            "id": "38679"
-        }
+    "tags": [
+        "tv",
+        "company-38679"
     ]
 }
 

@@ -31,12 +31,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 8.4,
     "title": "What If...?",
     "slug": "what-if",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Studios",
-            "id": "420"
-        }
+    "tags": [
+        "tv",
+        "company-420"
     ]
 }
 

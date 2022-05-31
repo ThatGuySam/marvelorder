@@ -29,12 +29,9 @@ layout: ../../layouts/MainLayout.astro
     "video": false,
     "vote_average": 4.3,
     "slug": "the-making-of-moon-knight",
-    "type": "movie",
-    "companies": [
-        {
-            "name": "Marvel Studios",
-            "id": "420"
-        }
+    "tags": [
+        "movie",
+        "company-420"
     ]
 }
 

@@ -35,12 +35,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 6.6,
     "title": "Fantastic Four",
     "slug": "fantastic-four",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Enterprises",
-            "id": "19551"
-        }
+    "tags": [
+        "tv",
+        "company-19551"
     ]
 }
 

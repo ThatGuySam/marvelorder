@@ -30,12 +30,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 7.5,
     "title": "Fantastic Four: World's Greatest Heroes",
     "slug": "fantastic-four-worlds-greatest-heroes",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Entertainment",
-            "id": "7505"
-        }
+    "tags": [
+        "tv",
+        "company-7505"
     ]
 }
 

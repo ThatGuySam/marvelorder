@@ -31,12 +31,9 @@ layout: ../../layouts/MainLayout.astro
     "video": false,
     "vote_average": 6.8,
     "slug": "marvel-75-years-from-pulp-to-pop",
-    "type": "movie",
-    "companies": [
-        {
-            "name": "Marvel Studios",
-            "id": "420"
-        }
+    "tags": [
+        "movie",
+        "company-420"
     ]
 }
 

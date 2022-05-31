@@ -28,12 +28,9 @@ layout: ../../layouts/MainLayout.astro
     "video": false,
     "vote_average": 6.8,
     "slug": "marvel-one-shot-all-hail-the-king",
-    "type": "movie",
-    "companies": [
-        {
-            "name": "Marvel Studios",
-            "id": "420"
-        }
+    "tags": [
+        "movie",
+        "company-420"
     ]
 }
 

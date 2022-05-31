@@ -31,12 +31,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 6.5,
     "title": "Wolverine",
     "slug": "wolverine",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Entertainment",
-            "id": "7505"
-        }
+    "tags": [
+        "tv",
+        "company-7505"
     ]
 }
 

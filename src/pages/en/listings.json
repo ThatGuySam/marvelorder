@@ -17,12 +17,9 @@
 		"vote_average": 0,
 		"title": "I Am Groot",
 		"slug": "i-am-groot",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"tv",
+			"company-420"
 		]
 	},
 	{
@@ -43,12 +40,9 @@
 		"vote_average": 0,
 		"title": "Armor Wars",
 		"slug": "armor-wars",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"tv",
+			"company-420"
 		]
 	},
 	{
@@ -70,12 +64,9 @@
 		"vote_average": 0,
 		"title": "Ironheart",
 		"slug": "ironheart",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"tv",
+			"company-420"
 		]
 	},
 	{
@@ -97,12 +88,9 @@
 		"vote_average": 0,
 		"title": "Secret Invasion",
 		"slug": "secret-invasion",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"tv",
+			"company-420"
 		]
 	},
 	{
@@ -124,12 +112,9 @@
 		"vote_average": 0,
 		"title": "Untitled Wakanda Series",
 		"slug": "untitled-wakanda-series",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"tv",
+			"company-420"
 		]
 	},
 	{
@@ -151,12 +136,9 @@
 		"vote_average": 0,
 		"title": "Echo",
 		"slug": "echo",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"tv",
+			"company-420"
 		]
 	},
 	{
@@ -178,12 +160,9 @@
 		"vote_average": 0,
 		"title": "Agatha: House of Harkness",
 		"slug": "agatha-house-of-harkness",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"tv",
+			"company-420"
 		]
 	},
 	{
@@ -204,12 +183,9 @@
 		"vote_average": 0,
 		"title": "X-Men '97",
 		"slug": "x-men-97",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"tv",
+			"company-420"
 		]
 	},
 	{
@@ -230,12 +206,9 @@
 		"vote_average": 0,
 		"title": "Spider-Man: Freshman Year",
 		"slug": "spider-man-freshman-year",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"tv",
+			"company-420"
 		]
 	},
 	{
@@ -257,12 +230,9 @@
 		"vote_average": 0,
 		"title": "Marvel Zombies",
 		"slug": "marvel-zombies",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"tv",
+			"company-420"
 		]
 	},
 	{
@@ -281,12 +251,9 @@
 		"vote_average": 0,
 		"title": "Untitled Destin Daniel Cretton Disney+ series",
 		"slug": "untitled-destin-daniel-cretton-disney-series",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"tv",
+			"company-420"
 		]
 	},
 	{
@@ -305,12 +272,9 @@
 		"vote_average": 0,
 		"title": "Untitled Daredevil Series",
 		"slug": "untitled-daredevil-series",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"tv",
+			"company-420"
 		]
 	},
 	{
@@ -330,12 +294,9 @@
 		"video": false,
 		"vote_average": 0,
 		"slug": "deadpool-3",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -355,12 +316,9 @@
 		"video": false,
 		"vote_average": 0,
 		"slug": "untitled-spider-women-film",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -380,12 +338,9 @@
 		"video": false,
 		"vote_average": 0,
 		"slug": "fantastic-four",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -406,12 +361,9 @@
 		"video": false,
 		"vote_average": 0,
 		"slug": "blade",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -432,12 +384,9 @@
 		"video": false,
 		"vote_average": 0,
 		"slug": "the-mutants",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -457,12 +406,9 @@
 		"video": false,
 		"vote_average": 0,
 		"slug": "jackpot",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -482,12 +428,9 @@
 		"video": false,
 		"vote_average": 0,
 		"slug": "the-guardians-of-the-galaxy-holiday-special",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -507,12 +450,9 @@
 		"video": false,
 		"vote_average": 0,
 		"slug": "untitled-female-centered-marvel-film",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -532,12 +472,9 @@
 		"video": false,
 		"vote_average": 0,
 		"slug": "captain-america-4",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -558,12 +495,9 @@
 		"video": false,
 		"vote_average": 0,
 		"slug": "untitled-marvel-halloween-special",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -583,12 +517,9 @@
 		"video": false,
 		"vote_average": 0,
 		"slug": "shang-chi-2",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -609,12 +540,9 @@
 		"video": false,
 		"vote_average": 0,
 		"slug": "venom-3",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -631,12 +559,9 @@
 		"video": false,
 		"vote_average": 0,
 		"slug": "untitled-spider-man-4-movie",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -658,12 +583,9 @@
 		"video": false,
 		"vote_average": 0,
 		"slug": "spider-man-beyond-the-spider-verse",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -684,12 +606,9 @@
 		"video": false,
 		"vote_average": 0,
 		"slug": "el-muerto",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -710,12 +629,9 @@
 		"video": false,
 		"vote_average": 0,
 		"slug": "the-marvels",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -735,12 +651,9 @@
 		"video": false,
 		"vote_average": 0,
 		"slug": "madame-web",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -762,12 +675,9 @@
 		"video": false,
 		"vote_average": 0,
 		"slug": "spider-man-across-the-spider-verse",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -789,12 +699,9 @@
 		"video": false,
 		"vote_average": 0,
 		"slug": "guardians-of-the-galaxy-vol-3",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -815,12 +722,9 @@
 		"video": false,
 		"vote_average": 0,
 		"slug": "ant-man-and-the-wasp-quantumania",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -840,12 +744,9 @@
 		"video": false,
 		"vote_average": 0,
 		"slug": "kraven-the-hunter",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -866,12 +767,9 @@
 		"video": false,
 		"vote_average": 0,
 		"slug": "black-panther-wakanda-forever",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -894,12 +792,9 @@
 		"vote_average": 0,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"tv",
+			"company-420"
 		]
 	},
 	{
@@ -920,12 +815,9 @@
 		"video": false,
 		"vote_average": 0,
 		"slug": "thor-love-and-thunder",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -944,12 +836,9 @@
 		"video": false,
 		"vote_average": 0,
 		"slug": "assembled-the-making-of-doctor-strange-in-the-multiverse-of-madness",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -972,12 +861,9 @@
 		"vote_average": 0,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"tv",
+			"company-420"
 		]
 	},
 	{
@@ -996,12 +882,9 @@
 		"video": false,
 		"vote_average": 4.3,
 		"slug": "the-making-of-moon-knight",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -1022,12 +905,9 @@
 		"video": false,
 		"vote_average": 7.4,
 		"slug": "doctor-strange-in-the-multiverse-of-madness",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -1050,12 +930,9 @@
 		"vote_average": 8.2,
 		"title": "Moon Knight",
 		"slug": "moon-knight",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"tv",
+			"company-420"
 		]
 	},
 	{
@@ -1074,12 +951,9 @@
 		"video": false,
 		"vote_average": 6.9,
 		"slug": "assembled-the-making-of-eternals",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -1098,12 +972,9 @@
 		"video": false,
 		"vote_average": 6.4,
 		"slug": "assembled-the-making-of-hawkeye",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -1124,12 +995,9 @@
 		"video": false,
 		"vote_average": 8.1,
 		"slug": "spider-man-no-way-home",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -1151,12 +1019,9 @@
 		"vote_average": 8.2,
 		"title": "Hawkeye",
 		"slug": "hawkeye",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"tv",
+			"company-420"
 		]
 	},
 	{
@@ -1178,12 +1043,9 @@
 		"vote_average": 7.9,
 		"title": "Marvel's Hit-Monkey",
 		"slug": "marvels-hit-monkey",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Television",
-				"id": "38679"
-			}
+		"tags": [
+			"tv",
+			"company-38679"
 		]
 	},
 	{
@@ -1202,12 +1064,9 @@
 		"video": false,
 		"vote_average": 6.9,
 		"slug": "marvel-studios-2021-disney-day-special",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -1228,12 +1087,9 @@
 		"video": false,
 		"vote_average": 7.1,
 		"slug": "eternals",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -1254,12 +1110,9 @@
 		"video": false,
 		"vote_average": 7,
 		"slug": "venom-let-there-be-carnage",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -1281,12 +1134,9 @@
 		"video": false,
 		"vote_average": 7.7,
 		"slug": "shang-chi-and-the-legend-of-the-ten-rings",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -1309,12 +1159,9 @@
 		"vote_average": 8.4,
 		"title": "What If...?",
 		"slug": "what-if",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"tv",
+			"company-420"
 		]
 	},
 	{
@@ -1336,12 +1183,9 @@
 		"vote_average": 7.3,
 		"title": "Marvel's Spidey and His Amazing Friends",
 		"slug": "marvels-spidey-and-his-amazing-friends",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"tv",
+			"company-7505"
 		]
 	},
 	{
@@ -1362,12 +1206,9 @@
 		"video": false,
 		"vote_average": 7.4,
 		"slug": "black-widow",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -1389,12 +1230,9 @@
 		"vote_average": 8.2,
 		"title": "Loki",
 		"slug": "loki",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"tv",
+			"company-420"
 		]
 	},
 	{
@@ -1416,12 +1254,9 @@
 		"vote_average": 7.1,
 		"title": "Marvel's M.O.D.O.K.",
 		"slug": "marvels-modok",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Television",
-				"id": "38679"
-			}
+		"tags": [
+			"tv",
+			"company-38679"
 		]
 	},
 	{
@@ -1444,12 +1279,9 @@
 		"vote_average": 7.8,
 		"title": "The Falcon and the Winter Soldier",
 		"slug": "the-falcon-and-the-winter-soldier",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"tv",
+			"company-420"
 		]
 	},
 	{
@@ -1470,12 +1302,9 @@
 		"vote_average": 7.4,
 		"title": "Marvel Studios: Assembled",
 		"slug": "marvel-studios-assembled",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"tv",
+			"company-420"
 		]
 	},
 	{
@@ -1494,12 +1323,9 @@
 		"video": false,
 		"vote_average": 7.5,
 		"slug": "marvels-behind-the-mask",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -1522,12 +1348,9 @@
 		"vote_average": 8.3,
 		"title": "WandaVision",
 		"slug": "wandavision",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"tv",
+			"company-420"
 		]
 	},
 	{
@@ -1550,12 +1373,9 @@
 		"vote_average": 7.5,
 		"title": "Marvel Studios: Legends",
 		"slug": "marvel-studios-legends",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"tv",
+			"company-420"
 		]
 	},
 	{
@@ -1578,12 +1398,9 @@
 		"vote_average": 7,
 		"title": "Helstrom",
 		"slug": "helstrom",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Television",
-				"id": "38679"
-			}
+		"tags": [
+			"tv",
+			"company-38679"
 		]
 	},
 	{
@@ -1605,12 +1422,9 @@
 		"video": false,
 		"vote_average": 6.2,
 		"slug": "the-new-mutants",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -1632,12 +1446,9 @@
 		"vote_average": 5.7,
 		"title": "Marvel Battleworld: Mystery of the Thanostones",
 		"slug": "marvel-battleworld-mystery-of-the-thanostones",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"tv",
+			"company-7505"
 		]
 	},
 	{
@@ -1657,12 +1468,9 @@
 		"video": false,
 		"vote_average": 7.3,
 		"slug": "celebrating-marvels-stan-lee",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -1681,12 +1489,9 @@
 		"video": false,
 		"vote_average": 5.9,
 		"slug": "marvel-studios-expanding-the-universe",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -1707,12 +1512,9 @@
 		"video": false,
 		"vote_average": 7.3,
 		"slug": "peters-to-do-list",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -1733,12 +1535,9 @@
 		"video": false,
 		"vote_average": 7.5,
 		"slug": "spider-man-far-from-home",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -1759,12 +1558,9 @@
 		"video": false,
 		"vote_average": 8.3,
 		"slug": "avengers-endgame",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -1786,12 +1582,9 @@
 		"video": false,
 		"vote_average": 6.9,
 		"slug": "spider-ham-caught-in-a-ham",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -1812,18 +1605,19 @@
 		"video": false,
 		"vote_average": 6.9,
 		"slug": "captain-marvel",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
 		"adult": false,
 		"backdrop_path": "/tMOWRvHc7sdsc7UNtK6Nfb0onWD.jpg",
 		"genre_ids": [
+			10751,
+			16,
+			28,
+			12,
 			10751,
 			16,
 			28,
@@ -1839,12 +1633,11 @@
 		"video": false,
 		"vote_average": 7.3,
 		"slug": "marvel-rising-chasing-ghosts",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Television",
-				"id": "38679"
-			}
+		"tags": [
+			"movie",
+			"company-38679",
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -1864,12 +1657,9 @@
 		"video": false,
 		"vote_average": 7.1,
 		"slug": "once-upon-a-deadpool",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -1889,12 +1679,9 @@
 		"video": false,
 		"vote_average": 6.8,
 		"slug": "venom",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -1915,12 +1702,9 @@
 		"video": false,
 		"vote_average": 7,
 		"slug": "ant-man-and-the-wasp",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -1943,12 +1727,9 @@
 		"vote_average": 7.5,
 		"title": "Marvel's Cloak & Dagger",
 		"slug": "marvels-cloak-and-dagger",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Television",
-				"id": "38679"
-			}
+		"tags": [
+			"tv",
+			"company-38679"
 		]
 	},
 	{
@@ -1969,12 +1750,9 @@
 		"video": false,
 		"vote_average": 6.7,
 		"slug": "lego-marvel-super-heroes-black-panther-trouble-in-wakanda",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -1995,12 +1773,9 @@
 		"video": false,
 		"vote_average": 8.3,
 		"slug": "avengers-infinity-war",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -2019,12 +1794,9 @@
 		"video": false,
 		"vote_average": 6.4,
 		"slug": "team-darryl",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -2045,12 +1817,9 @@
 		"video": false,
 		"vote_average": 7.4,
 		"slug": "black-panther",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -2071,12 +1840,9 @@
 		"video": false,
 		"vote_average": 7.1,
 		"slug": "lego-marvel-super-heroes-guardians-of-the-galaxy-the-thanos-threat",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -2100,12 +1866,9 @@
 		"vote_average": 7.6,
 		"title": "Marvel's Runaways",
 		"slug": "marvels-runaways",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Television",
-				"id": "38679"
-			}
+		"tags": [
+			"tv",
+			"company-38679"
 		]
 	},
 	{
@@ -2128,12 +1891,9 @@
 		"vote_average": 8.1,
 		"title": "Marvel's The Punisher",
 		"slug": "marvels-the-punisher",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Television",
-				"id": "38679"
-			}
+		"tags": [
+			"tv",
+			"company-38679"
 		]
 	},
 	{
@@ -2155,12 +1915,9 @@
 		"video": false,
 		"vote_average": 7.6,
 		"slug": "thor-ragnarok",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -2183,12 +1940,9 @@
 		"vote_average": 7.7,
 		"title": "The Gifted",
 		"slug": "the-gifted",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Television",
-				"id": "38679"
-			}
+		"tags": [
+			"tv",
+			"company-38679"
 		]
 	},
 	{
@@ -2211,12 +1965,9 @@
 		"vote_average": 6.3,
 		"title": "Marvel's Inhumans",
 		"slug": "marvels-inhumans",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Television",
-				"id": "38679"
-			}
+		"tags": [
+			"tv",
+			"company-38679"
 		]
 	},
 	{
@@ -2239,12 +1990,9 @@
 		"vote_average": 7.2,
 		"title": "Marvel's The Defenders",
 		"slug": "marvels-the-defenders",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Television",
-				"id": "38679"
-			}
+		"tags": [
+			"tv",
+			"company-38679"
 		]
 	},
 	{
@@ -2266,12 +2014,9 @@
 		"video": false,
 		"vote_average": 7.4,
 		"slug": "spider-man-homecoming",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -2292,12 +2037,9 @@
 		"video": false,
 		"vote_average": 7.6,
 		"slug": "guardians-of-the-galaxy-vol-2",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -2320,12 +2062,9 @@
 		"vote_average": 6.6,
 		"title": "Marvel's Iron Fist",
 		"slug": "marvels-iron-fist",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Television",
-				"id": "38679"
-			}
+		"tags": [
+			"tv",
+			"company-38679"
 		]
 	},
 	{
@@ -2347,12 +2086,9 @@
 		"vote_average": 8.2,
 		"title": "Marvel's Rocket & Groot",
 		"slug": "marvels-rocket-and-groot",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"tv",
+			"company-7505"
 		]
 	},
 	{
@@ -2373,12 +2109,9 @@
 		"video": false,
 		"vote_average": 7.1,
 		"slug": "team-thor-part-2",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -2400,12 +2133,9 @@
 		"vote_average": 7.6,
 		"title": "Legion",
 		"slug": "legion",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Television",
-				"id": "38679"
-			}
+		"tags": [
+			"tv",
+			"company-38679"
 		]
 	},
 	{
@@ -2428,12 +2158,9 @@
 		"vote_average": 7.1,
 		"title": "Marvel's Agents of S.H.I.E.L.D.: Slingshot",
 		"slug": "marvels-agents-of-shield-slingshot",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Television",
-				"id": "38679"
-			}
+		"tags": [
+			"tv",
+			"company-38679"
 		]
 	},
 	{
@@ -2454,12 +2181,9 @@
 		"vote_average": 4.3,
 		"title": "Marvel's Ultimate Comics",
 		"slug": "marvels-ultimate-comics",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Television",
-				"id": "38679"
-			}
+		"tags": [
+			"tv",
+			"company-38679"
 		]
 	},
 	{
@@ -2481,12 +2205,9 @@
 		"video": false,
 		"vote_average": 7.4,
 		"slug": "doctor-strange",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -2510,12 +2231,9 @@
 		"vote_average": 7,
 		"title": "Marvel's Luke Cage",
 		"slug": "marvels-luke-cage",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Television",
-				"id": "38679"
-			}
+		"tags": [
+			"tv",
+			"company-38679"
 		]
 	},
 	{
@@ -2535,12 +2253,9 @@
 		"video": false,
 		"vote_average": 7.4,
 		"slug": "team-thor",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -2562,12 +2277,9 @@
 		"video": false,
 		"vote_average": 6.5,
 		"slug": "x-men-apocalypse",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -2588,12 +2300,9 @@
 		"video": false,
 		"vote_average": 7.4,
 		"slug": "captain-america-civil-war",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -2612,12 +2321,9 @@
 		"video": false,
 		"vote_average": 6.8,
 		"slug": "marvels-captain-america-75-heroic-years",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -2639,12 +2345,9 @@
 		"vote_average": 7.6,
 		"title": "Marvel's Jessica Jones",
 		"slug": "marvels-jessica-jones",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Television",
-				"id": "38679"
-			}
+		"tags": [
+			"tv",
+			"company-38679"
 		]
 	},
 	{
@@ -2665,12 +2368,9 @@
 		"video": false,
 		"vote_average": 4.4,
 		"slug": "fantastic-four",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -2691,12 +2391,9 @@
 		"video": false,
 		"vote_average": 7.1,
 		"slug": "ant-man",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -2717,12 +2414,9 @@
 		"video": false,
 		"vote_average": 7.3,
 		"slug": "avengers-age-of-ultron",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -2745,12 +2439,9 @@
 		"vote_average": 8.1,
 		"title": "Marvel's Daredevil",
 		"slug": "marvels-daredevil",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Television",
-				"id": "38679"
-			}
+		"tags": [
+			"tv",
+			"company-38679"
 		]
 	},
 	{
@@ -2769,12 +2460,9 @@
 		"video": false,
 		"vote_average": 6,
 		"slug": "wolverine-versus-sabretooth-reborn",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Knights",
-				"id": "11106"
-			}
+		"tags": [
+			"movie",
+			"company-11106"
 		]
 	},
 	{
@@ -2793,12 +2481,9 @@
 		"video": false,
 		"vote_average": 5.7,
 		"slug": "marvel-and-espn-films-present-1-of-1-genesis",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -2820,12 +2505,9 @@
 		"vote_average": 7.6,
 		"title": "Marvel's Agent Carter",
 		"slug": "marvels-agent-carter",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Television",
-				"id": "38679"
-			}
+		"tags": [
+			"tv",
+			"company-38679"
 		]
 	},
 	{
@@ -2844,12 +2526,9 @@
 		"video": false,
 		"vote_average": 6.8,
 		"slug": "marvel-75-years-from-pulp-to-pop",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -2868,12 +2547,9 @@
 		"video": false,
 		"vote_average": 7.5,
 		"slug": "marvel-knights-eternals",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Knights",
-				"id": "11106"
-			}
+		"tags": [
+			"movie",
+			"company-11106"
 		]
 	},
 	{
@@ -2892,12 +2568,9 @@
 		"video": false,
 		"vote_average": 5.3,
 		"slug": "the-marvel-universe-expands-marvel-75th-anniversary",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -2918,12 +2591,9 @@
 		"video": false,
 		"vote_average": 7.9,
 		"slug": "guardians-of-the-galaxy",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -2945,12 +2615,9 @@
 		"video": false,
 		"vote_average": 7.5,
 		"slug": "x-men-days-of-future-past",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -2969,12 +2636,9 @@
 		"video": false,
 		"vote_average": 10,
 		"slug": "wolverine-weapon-x-tomorrow-dies-today",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Knights",
-				"id": "11106"
-			}
+		"tags": [
+			"movie",
+			"company-11106"
 		]
 	},
 	{
@@ -2995,12 +2659,9 @@
 		"video": false,
 		"vote_average": 6.5,
 		"slug": "the-amazing-spider-man-2",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -3023,12 +2684,9 @@
 		"vote_average": 4.5,
 		"title": "Marvel Disk Wars: The Avengers",
 		"slug": "marvel-disk-wars-the-avengers",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"tv",
+			"company-7505"
 		]
 	},
 	{
@@ -3049,18 +2707,17 @@
 		"video": false,
 		"vote_average": 7.7,
 		"slug": "captain-america-the-winter-soldier",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
 		"adult": false,
 		"backdrop_path": "/czHz1DWWE0bcffXybT7u1wNshSx.jpg",
 		"genre_ids": [
+			10770,
+			99,
 			10770,
 			99
 		],
@@ -3074,12 +2731,11 @@
 		"video": false,
 		"vote_average": 7.1,
 		"slug": "marvel-studios-assembling-a-universe",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"movie",
+			"company-7505",
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -3101,12 +2757,9 @@
 		"video": false,
 		"vote_average": 6.8,
 		"slug": "marvel-one-shot-all-hail-the-king",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -3125,12 +2778,9 @@
 		"video": false,
 		"vote_average": 7.7,
 		"slug": "wolverine-versus-sabretooth",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Knights",
-				"id": "11106"
-			}
+		"tags": [
+			"movie",
+			"company-11106"
 		]
 	},
 	{
@@ -3149,12 +2799,9 @@
 		"video": false,
 		"vote_average": 6.4,
 		"slug": "the-wolverine-path-of-a-ronin",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -3171,12 +2818,9 @@
 		"video": false,
 		"vote_average": 0,
 		"slug": "astonishing-x-men-unstoppable",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Knights",
-				"id": "11106"
-			}
+		"tags": [
+			"movie",
+			"company-11106"
 		]
 	},
 	{
@@ -3197,12 +2841,9 @@
 		"video": false,
 		"vote_average": 6.6,
 		"slug": "thor-the-dark-world",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -3225,12 +2866,9 @@
 		"vote_average": 7.5,
 		"title": "Marvel's Agents of S.H.I.E.L.D.",
 		"slug": "marvels-agents-of-shield",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Television",
-				"id": "38679"
-			}
+		"tags": [
+			"tv",
+			"company-38679"
 		]
 	},
 	{
@@ -3249,12 +2887,9 @@
 		"video": false,
 		"vote_average": 6.7,
 		"slug": "ultimate-wolverine-vs-hulk",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Knights",
-				"id": "11106"
-			}
+		"tags": [
+			"movie",
+			"company-11106"
 		]
 	},
 	{
@@ -3276,12 +2911,9 @@
 		"video": false,
 		"vote_average": 7.4,
 		"slug": "marvel-one-shot-agent-carter",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -3300,12 +2932,9 @@
 		"video": false,
 		"vote_average": 6.5,
 		"slug": "wolverine-origin",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Knights",
-				"id": "11106"
-			}
+		"tags": [
+			"movie",
+			"company-11106"
 		]
 	},
 	{
@@ -3324,12 +2953,9 @@
 		"video": false,
 		"vote_average": 6.7,
 		"slug": "inhumans",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Knights",
-				"id": "11106"
-			}
+		"tags": [
+			"movie",
+			"company-11106"
 		]
 	},
 	{
@@ -3350,12 +2976,9 @@
 		"video": false,
 		"vote_average": 6.9,
 		"slug": "iron-man-3",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -3376,12 +2999,9 @@
 		"video": false,
 		"vote_average": 6.5,
 		"slug": "marvel-one-shot-item-47",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -3400,12 +3020,9 @@
 		"video": false,
 		"vote_average": 8,
 		"slug": "astonishing-x-men-torn",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Knights",
-				"id": "11106"
-			}
+		"tags": [
+			"movie",
+			"company-11106"
 		]
 	},
 	{
@@ -3426,12 +3043,9 @@
 		"video": false,
 		"vote_average": 6.7,
 		"slug": "the-amazing-spider-man",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -3452,12 +3066,9 @@
 		"vote_average": 0,
 		"title": "Fury Files",
 		"slug": "fury-files",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"tv",
+			"company-7505"
 		]
 	},
 	{
@@ -3478,12 +3089,9 @@
 		"video": false,
 		"vote_average": 7.7,
 		"slug": "the-avengers",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -3502,18 +3110,18 @@
 		"video": false,
 		"vote_average": 7.7,
 		"slug": "astonishing-x-men-dangerous",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Knights",
-				"id": "11106"
-			}
+		"tags": [
+			"movie",
+			"company-11106"
 		]
 	},
 	{
 		"adult": false,
 		"backdrop_path": "/aHc765LRg5d5DtoS4LKiGEROWrq.jpg",
 		"genre_ids": [
+			28,
+			14,
+			53,
 			28,
 			14,
 			53
@@ -3528,12 +3136,11 @@
 		"video": false,
 		"vote_average": 5,
 		"slug": "ghost-rider-spirit-of-vengeance",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Knights",
-				"id": "11106"
-			}
+		"tags": [
+			"movie",
+			"company-11106",
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -3553,12 +3160,9 @@
 		"video": false,
 		"vote_average": 7,
 		"slug": "marvel-one-shot-a-funny-thing-happened-on-the-way-to-thors-hammer",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -3580,12 +3184,9 @@
 		"video": false,
 		"vote_average": 6.4,
 		"slug": "marvel-one-shot-the-consultant",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -3606,12 +3207,9 @@
 		"video": false,
 		"vote_average": 7,
 		"slug": "captain-america-the-first-avenger",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -3634,12 +3232,9 @@
 		"vote_average": 7.1,
 		"title": "Blade",
 		"slug": "blade",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"tv",
+			"company-7505"
 		]
 	},
 	{
@@ -3660,12 +3255,9 @@
 		"video": false,
 		"vote_average": 6.8,
 		"slug": "thor",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -3688,12 +3280,9 @@
 		"vote_average": 7.3,
 		"title": "X-Men",
 		"slug": "x-men",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"tv",
+			"company-7505"
 		]
 	},
 	{
@@ -3712,12 +3301,9 @@
 		"vote_average": 6.9,
 		"title": "Thor & Loki: Blood Brothers",
 		"slug": "thor-and-loki-blood-brothers",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Knights",
-				"id": "11106"
-			}
+		"tags": [
+			"tv",
+			"company-11106"
 		]
 	},
 	{
@@ -3740,12 +3326,9 @@
 		"vote_average": 6.5,
 		"title": "Wolverine",
 		"slug": "wolverine",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"tv",
+			"company-7505"
 		]
 	},
 	{
@@ -3766,12 +3349,9 @@
 		"vote_average": 6.8,
 		"title": "Iron Man: Extremis",
 		"slug": "iron-man-extremis",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Knights",
-				"id": "11106"
-			}
+		"tags": [
+			"tv",
+			"company-11106"
 		]
 	},
 	{
@@ -3794,12 +3374,9 @@
 		"vote_average": 7.2,
 		"title": "Iron Man",
 		"slug": "iron-man",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"tv",
+			"company-7505"
 		]
 	},
 	{
@@ -3818,12 +3395,9 @@
 		"video": false,
 		"vote_average": 6.8,
 		"slug": "astonishing-x-men-gifted",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Knights",
-				"id": "11106"
-			}
+		"tags": [
+			"movie",
+			"company-11106"
 		]
 	},
 	{
@@ -3844,12 +3418,9 @@
 		"video": false,
 		"vote_average": 6.8,
 		"slug": "iron-man-2",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -3868,12 +3439,9 @@
 		"video": false,
 		"vote_average": 5.8,
 		"slug": "black-panther",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Knights",
-				"id": "11106"
-			}
+		"tags": [
+			"movie",
+			"company-11106"
 		]
 	},
 	{
@@ -3895,12 +3463,9 @@
 		"vote_average": 7.1,
 		"title": "Black Panther",
 		"slug": "black-panther",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Knights",
-				"id": "11106"
-			}
+		"tags": [
+			"tv",
+			"company-11106"
 		]
 	},
 	{
@@ -3922,12 +3487,9 @@
 		"vote_average": 6.2,
 		"title": "Marvel Knights: Spider-Woman, Agent of S.W.O.R.D.",
 		"slug": "marvel-knights-spider-woman-agent-of-sword",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Knights",
-				"id": "11106"
-			}
+		"tags": [
+			"tv",
+			"company-11106"
 		]
 	},
 	{
@@ -3950,12 +3512,9 @@
 		"vote_average": 7.6,
 		"title": "Iron Man: Armored Adventures",
 		"slug": "iron-man-armored-adventures",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"tv",
+			"company-7505"
 		]
 	},
 	{
@@ -3979,12 +3538,9 @@
 		"vote_average": 7.7,
 		"title": "Wolverine and the X-Men",
 		"slug": "wolverine-and-the-x-men",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"tv",
+			"company-420"
 		]
 	},
 	{
@@ -4004,12 +3560,9 @@
 		"video": false,
 		"vote_average": 5.8,
 		"slug": "punisher-war-zone",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Knights",
-				"id": "11106"
-			}
+		"tags": [
+			"movie",
+			"company-11106"
 		]
 	},
 	{
@@ -4030,12 +3583,9 @@
 		"video": false,
 		"vote_average": 6.2,
 		"slug": "the-incredible-hulk",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -4056,12 +3606,9 @@
 		"video": false,
 		"vote_average": 7.6,
 		"slug": "iron-man",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -4083,12 +3630,9 @@
 		"vote_average": 8.7,
 		"title": "The Spectacular Spider-Man",
 		"slug": "the-spectacular-spider-man",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"tv",
+			"company-7505"
 		]
 	},
 	{
@@ -4110,12 +3654,9 @@
 		"video": false,
 		"vote_average": 5.6,
 		"slug": "fantastic-four-rise-of-the-silver-surfer",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -4134,12 +3675,9 @@
 		"video": false,
 		"vote_average": 6.5,
 		"slug": "jack-kirby-story-teller",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -4160,12 +3698,9 @@
 		"video": false,
 		"vote_average": 6.4,
 		"slug": "spider-man-3",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -4186,12 +3721,9 @@
 		"video": false,
 		"vote_average": 5.5,
 		"slug": "ghost-rider",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -4213,12 +3745,9 @@
 		"vote_average": 7.5,
 		"title": "Fantastic Four: World's Greatest Heroes",
 		"slug": "fantastic-four-worlds-greatest-heroes",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"tv",
+			"company-7505"
 		]
 	},
 	{
@@ -4240,12 +3769,9 @@
 		"video": false,
 		"vote_average": 6.7,
 		"slug": "ultimate-avengers-2-rise-of-the-panther",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Enterprises",
-				"id": "19551"
-			}
+		"tags": [
+			"movie",
+			"company-19551"
 		]
 	},
 	{
@@ -4269,12 +3795,9 @@
 		"vote_average": 6.6,
 		"title": "Blade: The Series",
 		"slug": "blade-the-series",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Enterprises",
-				"id": "19551"
-			}
+		"tags": [
+			"tv",
+			"company-19551"
 		]
 	},
 	{
@@ -4296,12 +3819,9 @@
 		"video": false,
 		"vote_average": 5.8,
 		"slug": "fantastic-four",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Enterprises",
-				"id": "19551"
-			}
+		"tags": [
+			"movie",
+			"company-19551"
 		]
 	},
 	{
@@ -4322,12 +3842,9 @@
 		"video": false,
 		"vote_average": 4.3,
 		"slug": "man-thing",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Enterprises",
-				"id": "19551"
-			}
+		"tags": [
+			"movie",
+			"company-19551"
 		]
 	},
 	{
@@ -4348,12 +3865,9 @@
 		"video": false,
 		"vote_average": 5,
 		"slug": "elektra",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Enterprises",
-				"id": "19551"
-			}
+		"tags": [
+			"movie",
+			"company-19551"
 		]
 	},
 	{
@@ -4374,12 +3888,9 @@
 		"video": false,
 		"vote_average": 5.9,
 		"slug": "blade-trinity",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Enterprises",
-				"id": "19551"
-			}
+		"tags": [
+			"movie",
+			"company-19551"
 		]
 	},
 	{
@@ -4400,12 +3911,9 @@
 		"video": false,
 		"vote_average": 7.2,
 		"slug": "spider-man-2",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Enterprises",
-				"id": "19551"
-			}
+		"tags": [
+			"movie",
+			"company-19551"
 		]
 	},
 	{
@@ -4426,12 +3934,9 @@
 		"video": false,
 		"vote_average": 6.3,
 		"slug": "the-punisher",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Enterprises",
-				"id": "19551"
-			}
+		"tags": [
+			"movie",
+			"company-19551"
 		]
 	},
 	{
@@ -4451,12 +3956,9 @@
 		"video": false,
 		"vote_average": 5.5,
 		"slug": "hulk",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Enterprises",
-				"id": "19551"
-			}
+		"tags": [
+			"movie",
+			"company-19551"
 		]
 	},
 	{
@@ -4476,12 +3978,9 @@
 		"video": false,
 		"vote_average": 5.2,
 		"slug": "daredevil",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Enterprises",
-				"id": "19551"
-			}
+		"tags": [
+			"movie",
+			"company-19551"
 		]
 	},
 	{
@@ -4501,12 +4000,9 @@
 		"video": false,
 		"vote_average": 7.2,
 		"slug": "spider-man",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Enterprises",
-				"id": "19551"
-			}
+		"tags": [
+			"movie",
+			"company-19551"
 		]
 	},
 	{
@@ -4528,12 +4024,9 @@
 		"video": false,
 		"vote_average": 6.5,
 		"slug": "blade-ii",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Enterprises",
-				"id": "19551"
-			}
+		"tags": [
+			"movie",
+			"company-19551"
 		]
 	},
 	{
@@ -4552,12 +4045,9 @@
 		"video": false,
 		"vote_average": 7.1,
 		"slug": "x-men-the-mutant-watch",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -4581,12 +4071,9 @@
 		"vote_average": 8,
 		"title": "X-Men: Evolution",
 		"slug": "x-men-evolution",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"tv",
+			"company-420"
 		]
 	},
 	{
@@ -4607,12 +4094,9 @@
 		"vote_average": 6.7,
 		"title": "The Avengers: United They Stand",
 		"slug": "the-avengers-united-they-stand",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Enterprises",
-				"id": "19551"
-			}
+		"tags": [
+			"tv",
+			"company-19551"
 		]
 	},
 	{
@@ -4634,12 +4118,9 @@
 		"vote_average": 7.4,
 		"title": "Spider-Man Unlimited",
 		"slug": "spider-man-unlimited",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Studios",
-				"id": "420"
-			}
+		"tags": [
+			"tv",
+			"company-420"
 		]
 	},
 	{
@@ -4659,12 +4140,9 @@
 		"video": false,
 		"vote_average": 6.7,
 		"slug": "blade",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -4685,12 +4163,9 @@
 		"video": false,
 		"vote_average": 4.6,
 		"slug": "nick-fury-agent-of-shield",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Enterprises",
-				"id": "19551"
-			}
+		"tags": [
+			"movie",
+			"company-19551"
 		]
 	},
 	{
@@ -4699,11 +4174,15 @@
 		"genre_ids": [
 			16,
 			10759,
+			10765,
+			16,
+			10759,
 			10765
 		],
 		"id": 1130,
 		"name": "Silver Surfer",
 		"origin_country": [
+			"US",
 			"US"
 		],
 		"original_language": "en",
@@ -4713,12 +4192,11 @@
 		"vote_average": 7.6,
 		"title": "Silver Surfer",
 		"slug": "silver-surfer",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"tv",
+			"company-7505",
+			"tv",
+			"company-420"
 		]
 	},
 	{
@@ -4741,12 +4219,9 @@
 		"vote_average": 6.6,
 		"title": "Fantastic Four",
 		"slug": "fantastic-four",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Enterprises",
-				"id": "19551"
-			}
+		"tags": [
+			"tv",
+			"company-19551"
 		]
 	},
 	{
@@ -4767,12 +4242,9 @@
 		"video": false,
 		"vote_average": 4.7,
 		"slug": "captain-america",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -4792,12 +4264,9 @@
 		"video": false,
 		"vote_average": 5.8,
 		"slug": "the-punisher",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -4818,12 +4287,9 @@
 		"video": false,
 		"vote_average": 5.5,
 		"slug": "monster-of-frankenstein",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -4844,12 +4310,9 @@
 		"video": false,
 		"vote_average": 7.7,
 		"slug": "battle-fever-j-the-movie",
-		"type": "movie",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -4872,12 +4335,9 @@
 		"vote_average": 7.2,
 		"title": "Spider-Man",
 		"slug": "spider-man",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Entertainment",
-				"id": "7505"
-			}
+		"tags": [
+			"tv",
+			"company-7505"
 		]
 	},
 	{
@@ -4901,12 +4361,9 @@
 		"vote_average": 7.8,
 		"title": "Spider-Man",
 		"slug": "spider-man",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Enterprises",
-				"id": "19551"
-			}
+		"tags": [
+			"tv",
+			"company-19551"
 		]
 	},
 	{
@@ -4928,12 +4385,9 @@
 		"vote_average": 7.4,
 		"title": "Fantastic Four",
 		"slug": "fantastic-four",
-		"type": "tv",
-		"companies": [
-			{
-				"name": "Marvel Enterprises",
-				"id": "19551"
-			}
+		"tags": [
+			"tv",
+			"company-19551"
 		]
 	}
 ]

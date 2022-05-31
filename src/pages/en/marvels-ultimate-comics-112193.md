@@ -31,12 +31,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 4.3,
     "title": "Marvel's Ultimate Comics",
     "slug": "marvels-ultimate-comics",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Television",
-            "id": "38679"
-        }
+    "tags": [
+        "tv",
+        "company-38679"
     ]
 }
 

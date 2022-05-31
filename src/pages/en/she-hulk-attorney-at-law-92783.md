@@ -30,12 +30,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 0,
     "title": "She-Hulk: Attorney at Law",
     "slug": "she-hulk-attorney-at-law",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Studios",
-            "id": "420"
-        }
+    "tags": [
+        "tv",
+        "company-420"
     ]
 }
 

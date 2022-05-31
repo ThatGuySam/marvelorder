@@ -31,12 +31,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 7.7,
     "title": "Wolverine and the X-Men",
     "slug": "wolverine-and-the-x-men",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Studios",
-            "id": "420"
-        }
+    "tags": [
+        "tv",
+        "company-420"
     ]
 }
 

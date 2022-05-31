@@ -18,6 +18,9 @@ layout: ../../layouts/MainLayout.astro
     "genre_ids": [
         28,
         14,
+        53,
+        28,
+        14,
         53
     ],
     "id": 71676,
@@ -30,12 +33,11 @@ layout: ../../layouts/MainLayout.astro
     "video": false,
     "vote_average": 5,
     "slug": "ghost-rider-spirit-of-vengeance",
-    "type": "movie",
-    "companies": [
-        {
-            "name": "Marvel Knights",
-            "id": "11106"
-        }
+    "tags": [
+        "movie",
+        "company-11106",
+        "movie",
+        "company-7505"
     ]
 }
 

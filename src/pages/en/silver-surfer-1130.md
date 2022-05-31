@@ -16,11 +16,15 @@ layout: ../../layouts/MainLayout.astro
     "genre_ids": [
         16,
         10759,
+        10765,
+        16,
+        10759,
         10765
     ],
     "id": 1130,
     "name": "Silver Surfer",
     "origin_country": [
+        "US",
         "US"
     ],
     "original_language": "en",
@@ -30,12 +34,11 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 7.6,
     "title": "Silver Surfer",
     "slug": "silver-surfer",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Entertainment",
-            "id": "7505"
-        }
+    "tags": [
+        "tv",
+        "company-7505",
+        "tv",
+        "company-420"
     ]
 }
 

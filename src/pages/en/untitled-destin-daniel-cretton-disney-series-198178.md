@@ -23,12 +23,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 0,
     "title": "Untitled Destin Daniel Cretton Disney+ series",
     "slug": "untitled-destin-daniel-cretton-disney-series",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Studios",
-            "id": "420"
-        }
+    "tags": [
+        "tv",
+        "company-420"
     ]
 }
 

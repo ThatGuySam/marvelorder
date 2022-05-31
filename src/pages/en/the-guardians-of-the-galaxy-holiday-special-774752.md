@@ -30,12 +30,9 @@ layout: ../../layouts/MainLayout.astro
     "video": false,
     "vote_average": 0,
     "slug": "the-guardians-of-the-galaxy-holiday-special",
-    "type": "movie",
-    "companies": [
-        {
-            "name": "Marvel Studios",
-            "id": "420"
-        }
+    "tags": [
+        "movie",
+        "company-420"
     ]
 }
 

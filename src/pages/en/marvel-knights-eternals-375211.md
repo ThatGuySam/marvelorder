@@ -31,12 +31,9 @@ layout: ../../layouts/MainLayout.astro
     "video": false,
     "vote_average": 7.5,
     "slug": "marvel-knights-eternals",
-    "type": "movie",
-    "companies": [
-        {
-            "name": "Marvel Knights",
-            "id": "11106"
-        }
+    "tags": [
+        "movie",
+        "company-11106"
     ]
 }
 

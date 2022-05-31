@@ -29,12 +29,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 7.6,
     "title": "Marvel's Jessica Jones",
     "slug": "marvels-jessica-jones",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Television",
-            "id": "38679"
-        }
+    "tags": [
+        "tv",
+        "company-38679"
     ]
 }
 

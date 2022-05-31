@@ -32,12 +32,9 @@ layout: ../../layouts/MainLayout.astro
     "video": false,
     "vote_average": 5.9,
     "slug": "blade-trinity",
-    "type": "movie",
-    "companies": [
-        {
-            "name": "Marvel Enterprises",
-            "id": "19551"
-        }
+    "tags": [
+        "movie",
+        "company-19551"
     ]
 }
 

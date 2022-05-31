@@ -34,12 +34,9 @@ layout: ../../layouts/MainLayout.astro
     "video": false,
     "vote_average": 7.4,
     "slug": "black-panther",
-    "type": "movie",
-    "companies": [
-        {
-            "name": "Marvel Studios",
-            "id": "420"
-        }
+    "tags": [
+        "movie",
+        "company-420"
     ]
 }
 

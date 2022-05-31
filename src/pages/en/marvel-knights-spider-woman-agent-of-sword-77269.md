@@ -30,12 +30,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 6.2,
     "title": "Marvel Knights: Spider-Woman, Agent of S.W.O.R.D.",
     "slug": "marvel-knights-spider-woman-agent-of-sword",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Knights",
-            "id": "11106"
-        }
+    "tags": [
+        "tv",
+        "company-11106"
     ]
 }
 

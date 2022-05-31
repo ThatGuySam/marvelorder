@@ -31,12 +31,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 7.7,
     "title": "The Gifted",
     "slug": "the-gifted",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Television",
-            "id": "38679"
-        }
+    "tags": [
+        "tv",
+        "company-38679"
     ]
 }
 

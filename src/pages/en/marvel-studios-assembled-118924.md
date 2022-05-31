@@ -28,12 +28,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 7.4,
     "title": "Marvel Studios: Assembled",
     "slug": "marvel-studios-assembled",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Studios",
-            "id": "420"
-        }
+    "tags": [
+        "tv",
+        "company-420"
     ]
 }
 

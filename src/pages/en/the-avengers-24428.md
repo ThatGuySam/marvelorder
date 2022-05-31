@@ -29,12 +29,9 @@ layout: ../../layouts/MainLayout.astro
     "video": false,
     "vote_average": 7.7,
     "slug": "the-avengers",
-    "type": "movie",
-    "companies": [
-        {
-            "name": "Marvel Studios",
-            "id": "420"
-        }
+    "tags": [
+        "movie",
+        "company-420"
     ]
 }
 

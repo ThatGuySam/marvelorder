@@ -21,12 +21,9 @@ layout: ../../layouts/MainLayout.astro
     "video": false,
     "vote_average": 0,
     "slug": "untitled-spider-man-4-movie",
-    "type": "movie",
-    "companies": [
-        {
-            "name": "Marvel Studios",
-            "id": "420"
-        }
+    "tags": [
+        "movie",
+        "company-420"
     ]
 }
 

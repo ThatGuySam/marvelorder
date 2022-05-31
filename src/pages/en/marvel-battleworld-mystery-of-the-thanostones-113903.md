@@ -29,12 +29,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 5.7,
     "title": "Marvel Battleworld: Mystery of the Thanostones",
     "slug": "marvel-battleworld-mystery-of-the-thanostones",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Entertainment",
-            "id": "7505"
-        }
+    "tags": [
+        "tv",
+        "company-7505"
     ]
 }
 

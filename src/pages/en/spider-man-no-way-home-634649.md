@@ -30,12 +30,9 @@ layout: ../../layouts/MainLayout.astro
     "video": false,
     "vote_average": 8.1,
     "slug": "spider-man-no-way-home",
-    "type": "movie",
-    "companies": [
-        {
-            "name": "Marvel Studios",
-            "id": "420"
-        }
+    "tags": [
+        "movie",
+        "company-420"
     ]
 }
 

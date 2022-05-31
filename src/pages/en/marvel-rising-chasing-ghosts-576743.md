@@ -16,6 +16,10 @@ layout: ../../layouts/MainLayout.astro
         10751,
         16,
         28,
+        12,
+        10751,
+        16,
+        28,
         12
     ],
     "id": 576743,
@@ -28,12 +32,11 @@ layout: ../../layouts/MainLayout.astro
     "video": false,
     "vote_average": 7.3,
     "slug": "marvel-rising-chasing-ghosts",
-    "type": "movie",
-    "companies": [
-        {
-            "name": "Marvel Television",
-            "id": "38679"
-        }
+    "tags": [
+        "movie",
+        "company-38679",
+        "movie",
+        "company-7505"
     ]
 }
 

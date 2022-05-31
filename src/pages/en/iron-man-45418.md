@@ -30,12 +30,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 7.2,
     "title": "Iron Man",
     "slug": "iron-man",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Entertainment",
-            "id": "7505"
-        }
+    "tags": [
+        "tv",
+        "company-7505"
     ]
 }
 

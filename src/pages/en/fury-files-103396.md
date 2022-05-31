@@ -28,12 +28,9 @@ layout: ../../layouts/MainLayout.astro
     "vote_average": 0,
     "title": "Fury Files",
     "slug": "fury-files",
-    "type": "tv",
-    "companies": [
-        {
-            "name": "Marvel Entertainment",
-            "id": "7505"
-        }
+    "tags": [
+        "tv",
+        "company-7505"
     ]
 }
 
