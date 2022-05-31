@@ -11,6 +11,9 @@ description: >-
   the first official footage from next year's Avengers: Age of Ultron or
   Ant-Man? If they do, you'll know about it here.
 type: movie
+tags: [
+    doc
+]
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
