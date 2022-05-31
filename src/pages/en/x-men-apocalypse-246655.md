@@ -5,7 +5,7 @@ description: >-
   After the re-emergence of the world's first mutant, world-destroyer
   Apocalypse, the X-Men must unite to defeat his extinction level plan.
 type: movie
-logo_on_black: /.netlify/functions/tmdb-image/n4nmIUiht7JtjkvBLfa1h9XI92c.webp?crop.bottom=0.05&crop.top=0.863
+logo_on_black: /.netlify/functions/fanart/x-men-apocalypse-55eba423c1f8e.png
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

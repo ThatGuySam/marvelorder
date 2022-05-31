@@ -11,6 +11,7 @@ description: >-
   the new Hellfire Club makes its move! Plus: The X-Man destined to destroy the
   Breakworld stands revealed! Who is it, and what will be their fate?
 type: movie
+logo_on_black: /.netlify/functions/fanart/astonishing-x-men-torn-5e704b9bbe565.png
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

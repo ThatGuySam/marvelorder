@@ -6,7 +6,7 @@ description: >-
   facility against their will, fight to escape their past sins and save
   themselves.
 type: movie
-logo_on_black: /.netlify/functions/tmdb-image/9CnO8RFd1KkcTKgOrfHYv69sDU3.webp?crop.top=0.37&crop.bottom=0.3
+logo_on_black: /.netlify/functions/fanart/x-men-the-new-mutants-5ad3918d2486b.png
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
