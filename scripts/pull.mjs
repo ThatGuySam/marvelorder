@@ -46,7 +46,12 @@ function cleanListings ( fetchedListings ) {
     return fetchedListings
 }
 
-async function fetchListings ({ company, type }) {
+async function fetchListings ({ 
+    endpoint, 
+    params = {},
+    listKey = 'results',
+    tags = []
+} = {}) {
     const fetchedListings = {}
 
     let total_pages = Infinity
@@ -58,9 +63,22 @@ async function fetchListings ({ company, type }) {
         // console.log( 'Page', page )
 
         // https://www.themoviedb.org/talk/5f84426469eb900039c48872
-        const requestUrl = `https://api.themoviedb.org/3/discover/${ type }?api_key=${ Deno.env.get('TMDB_API_KEY') }&language=en-US&sort_by=popularity.desc&with_companies=${ company.id }&page=${ page }`
+        const requestUrl = `https://api.themoviedb.org${ endpoint }`
 
-        const { data } = await axios.get( requestUrl )
+        const requestOptions = {
+            params: {
+                api_key: Deno.env.get('TMDB_API_KEY'),
+                // language: 'en-US',
+                // sort_by: 'popularity.desc',
+                // with_companies: company.id,
+                page,
+
+                // Merge in params
+                ...params
+            }
+        }
+
+        const { data } = await axios.get( requestUrl, requestOptions )
             .catch( ( error ) => {
                 console.error( error )
             })
@@ -70,9 +88,6 @@ async function fetchListings ({ company, type }) {
 
             // If we've already seen this title, add the new company to the list
             if ( fetchedListings[ result.id ] ) {
-                console.log( 'Merging company', result )
-
-                fetchedListings[ result.id ].companies.push( company )
                 continue
             }
 
@@ -83,12 +98,11 @@ async function fetchListings ({ company, type }) {
                 ...result,
                 title,
                 slug,
-                type,
-                companies: [ company ]
+                tags,
             }
         }
 
-        total_pages = data.total_pages
+        total_pages = data.total_pages || 1
         page += 1
     }
 
@@ -101,8 +115,16 @@ async function fetchListingsFromCompanies ( companies ) {
 
     for ( const company of companies ) {
 
-        const movies = await fetchListings ({ company, type: 'movie' })
-        const tvShows = await fetchListings ({ company, type: 'tv' })
+        const movies = await fetchListings({ 
+            endpoint: `/3/discover/movie`, 
+            params: { with_companies: company.id }, 
+            tags: [ 'movie', `company-${ company.id }` ]
+        })
+        const tvShows = await fetchListings({ 
+            endpoint: `/3/discover/tv`, 
+            params: { with_companies: company.id }, 
+            tags: [ 'tv', `company-${ company.id }` ]
+        })
 
         // Merge into listings
         for ( const id in movies ) {
