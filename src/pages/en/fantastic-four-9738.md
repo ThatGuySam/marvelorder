@@ -8,7 +8,7 @@ description: >-
   super-strong … thing. Together, these "Fantastic Four" must now thwart the
   evil plans of Dr. Doom and save the world from certain destruction.
 type: movie
-logo_on_black: /.netlify/functions/tmdb-image/8HLQLILZLhDQWO6JDpvY6XJLH75.webp?crop.top=0.84
+logo_on_black: /.netlify/functions/fanart/fantastic-four-527c674a900f0.png
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

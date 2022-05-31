@@ -6,7 +6,7 @@ description: >-
   of their greatest foes, including Doctor Doom, Ronan the Accuser, the Multiple
   Man, and Mole Man.
 type: tv
-logo_on_black: /.netlify/functions/tmdb-image/2VWpIm14K48o0fDWVObyPeGLNGQ.webp?crop.top=0.67&crop.bottom=0.1
+logo_on_black: /.netlify/functions/fanart/fantastic-four-worlds-greatest-heroes-5cce5d9274152.png
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
