@@ -36,8 +36,10 @@ layout: ../../layouts/MainLayout.astro
     "slug": "spider-man",
     "tags": [
         "tv",
-        "company-7505"
-    ]
+        "company-7505",
+        "list-8204862"
+    ],
+    "media_type": "tv"
 }
 
 ```

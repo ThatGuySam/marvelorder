@@ -32,8 +32,10 @@ layout: ../../layouts/MainLayout.astro
     "slug": "the-new-mutants",
     "tags": [
         "movie",
-        "company-7505"
-    ]
+        "company-7505",
+        "list-8204860"
+    ],
+    "media_type": "movie"
 }
 
 ```

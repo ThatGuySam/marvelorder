@@ -29,8 +29,10 @@ layout: ../../layouts/MainLayout.astro
     "slug": "once-upon-a-deadpool",
     "tags": [
         "movie",
-        "company-7505"
-    ]
+        "company-7505",
+        "list-8204860"
+    ],
+    "media_type": "movie"
 }
 
 ```

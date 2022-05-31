@@ -27,8 +27,10 @@ layout: ../../layouts/MainLayout.astro
     "slug": "deadpool-3",
     "tags": [
         "movie",
-        "company-420"
-    ]
+        "company-420",
+        "list-8204860"
+    ],
+    "media_type": "movie"
 }
 
 ```

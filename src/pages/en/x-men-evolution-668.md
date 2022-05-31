@@ -32,8 +32,10 @@ layout: ../../layouts/MainLayout.astro
     "slug": "x-men-evolution",
     "tags": [
         "tv",
-        "company-420"
-    ]
+        "company-420",
+        "list-8204860"
+    ],
+    "media_type": "tv"
 }
 
 ```

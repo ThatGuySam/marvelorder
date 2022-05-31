@@ -16,10 +16,6 @@ layout: ../../layouts/MainLayout.astro
         10751,
         16,
         28,
-        12,
-        10751,
-        16,
-        28,
         12
     ],
     "id": 576743,
@@ -35,7 +31,6 @@ layout: ../../layouts/MainLayout.astro
     "tags": [
         "movie",
         "company-38679",
-        "movie",
         "company-7505"
     ]
 }

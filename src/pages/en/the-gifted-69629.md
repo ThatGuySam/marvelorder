@@ -33,8 +33,10 @@ layout: ../../layouts/MainLayout.astro
     "slug": "the-gifted",
     "tags": [
         "tv",
-        "company-38679"
-    ]
+        "company-38679",
+        "list-8204860"
+    ],
+    "media_type": "tv"
 }
 
 ```

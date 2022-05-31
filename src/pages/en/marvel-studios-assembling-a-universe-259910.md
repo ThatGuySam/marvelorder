@@ -15,8 +15,6 @@ layout: ../../layouts/MainLayout.astro
     "backdrop_path": "/czHz1DWWE0bcffXybT7u1wNshSx.jpg",
     "genre_ids": [
         10770,
-        99,
-        10770,
         99
     ],
     "id": 259910,
@@ -32,7 +30,6 @@ layout: ../../layouts/MainLayout.astro
     "tags": [
         "movie",
         "company-7505",
-        "movie",
         "company-420"
     ]
 }

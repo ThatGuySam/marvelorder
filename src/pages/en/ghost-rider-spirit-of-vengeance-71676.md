@@ -18,9 +18,6 @@ layout: ../../layouts/MainLayout.astro
     "genre_ids": [
         28,
         14,
-        53,
-        28,
-        14,
         53
     ],
     "id": 71676,
@@ -36,7 +33,6 @@ layout: ../../layouts/MainLayout.astro
     "tags": [
         "movie",
         "company-11106",
-        "movie",
         "company-7505"
     ]
 }

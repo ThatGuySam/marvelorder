@@ -1,0 +1,38 @@
+---
+title: Howard the Duck
+slug: howard-the-duck
+description: >-
+  A scientific experiment unknowingly brings extraterrestrial life forms to the
+  Earth through a laser beam. First is the cigar smoking drake Howard from the
+  duck's planet. A few kids try to keep him from the greedy scientists and help
+  him back to his planet. But then a much less friendly being arrives through
+  the beam...
+layout: ../../layouts/MainLayout.astro
+---
+## TMDB Data
+```json
+{
+    "adult": false,
+    "backdrop_path": "/srmu4KEEugZVWVSu0Uibu0M2Usw.jpg",
+    "genre_ids": [
+        35,
+        14,
+        878
+    ],
+    "id": 10658,
+    "media_type": "movie",
+    "original_language": "en",
+    "original_title": "Howard the Duck",
+    "overview": "A scientific experiment unknowingly brings extraterrestrial life forms to the Earth through a laser beam. First is the cigar smoking drake Howard from the duck's planet. A few kids try to keep him from the greedy scientists and help him back to his planet. But then a much less friendly being arrives through the beam...",
+    "poster_path": "/csBulWjE442zMwu0lT0DiEcTWQK.jpg",
+    "release_date": "1986-08-01",
+    "title": "Howard the Duck",
+    "video": false,
+    "vote_average": 5.4,
+    "slug": "howard-the-duck",
+    "tags": [
+        "list-8204859"
+    ]
+}
+
+```

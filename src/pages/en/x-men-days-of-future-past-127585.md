@@ -31,8 +31,10 @@ layout: ../../layouts/MainLayout.astro
     "slug": "x-men-days-of-future-past",
     "tags": [
         "movie",
-        "company-7505"
-    ]
+        "company-7505",
+        "list-8204860"
+    ],
+    "media_type": "movie"
 }
 
 ```

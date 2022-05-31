@@ -16,15 +16,11 @@ layout: ../../layouts/MainLayout.astro
     "genre_ids": [
         16,
         10759,
-        10765,
-        16,
-        10759,
         10765
     ],
     "id": 1130,
     "name": "Silver Surfer",
     "origin_country": [
-        "US",
         "US"
     ],
     "original_language": "en",
@@ -37,7 +33,6 @@ layout: ../../layouts/MainLayout.astro
     "tags": [
         "tv",
         "company-7505",
-        "tv",
         "company-420"
     ]
 }
