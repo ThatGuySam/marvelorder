@@ -4,6 +4,7 @@ slug: spider-man-the-dragons-challenge
 description: >-
   Two episodes of the TV series "Spider Man" edited together and released as a
   feature.
+logo_on_black: /.netlify/functions/fanart/spider-man-the-dragons-challenge-5d3508360b27d.png
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
