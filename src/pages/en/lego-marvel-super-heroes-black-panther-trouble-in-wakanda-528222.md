@@ -9,6 +9,7 @@ description: >-
   Wakanda to empower Thanos. When Black Panther discovers this plot, he must
   work with Shuri, Okoye, and the Avengers to defeat them.
 type: movie
+logo_on_black: /.netlify/functions/fanart/lego-marvel-super-heroes-black-panther---trouble-in-wakanda-5e85da0ef3416.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
