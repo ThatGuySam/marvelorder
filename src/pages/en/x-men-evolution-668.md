@@ -5,6 +5,7 @@ description: >-
   Teenagers Cyclops, Jean Grey, Rogue, Nightcrawler, Shadowcat, and Spike fight
   for a world that fears and hates them.
 type: tv
+logo_on_black: /.netlify/functions/tmdb-image/atNjQM4pFFoXr8EWxpRj59NN3bF.webp?crop.bottom=0.1
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

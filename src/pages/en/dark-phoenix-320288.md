@@ -8,6 +8,7 @@ description: >-
   she returns home, this force not only makes her infinitely more powerful, but
   far more unstable. The X-Men must now band together to save her soul and
   battle aliens that want to use Grey's new abilities to rule the galaxy.
+logo_on_black: /.netlify/functions/tmdb-image/b3wR7lmidhv1xYz6i50XI6NcOV1.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

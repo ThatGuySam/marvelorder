@@ -7,6 +7,7 @@ description: >-
   Before they were arch-enemies, they were closest of friends, working together
   with other mutants (some familiar, some new), to stop the greatest threat the
   world has ever known.
+logo_on_black: /.netlify/functions/tmdb-image/kE0aPz5XLP1vhYsbWILZCCnAqzk.webp?crop.top=0.846&crop.bottom=0.05
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

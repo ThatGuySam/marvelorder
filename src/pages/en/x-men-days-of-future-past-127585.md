@@ -6,6 +6,7 @@ description: >-
   across two time periods as they join forces with their younger selves in an
   epic battle that must change the past – to save our future.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/f816bJ1UK9svYR07mmTwdWmTfuy.webp?crop.bottom=0.07&crop.top=0.835
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
