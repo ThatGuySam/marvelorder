@@ -1,5 +1,5 @@
 ---
-disabled: true
+draft: true
 title: Morbius and Wong
 slug: morbius-and-wong
 description: >-

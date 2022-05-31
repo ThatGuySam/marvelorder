@@ -6,10 +6,6 @@ import ListingLogo from '~/src/components/listing-logo.vue'
 
 const { content, githubEditUrl } = Astro.props
 
-if ( content?.disabled === true ) {
-  return new Error('This page is disabled')
-}
-
 const title = content.title;
 const headers = content.astro?.headers || [];
 

@@ -1,5 +1,7 @@
 export interface Listing {
-    disabled?: boolean
+    // Doubles as disable since it's used by Astro
+    // https://docs.astro.build/en/guides/markdown-content/#markdown-drafts
+    draft?: boolean
     title: string
     name?: string
     overview: string
