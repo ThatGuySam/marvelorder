@@ -20,7 +20,7 @@ export function makeNewListingContents ( listing:Listing ) {
         title: listing.title, 
         slug: listing.slug, 
         description: listing.overview, 
-        type: listing.type, 
+        // type: listing.type, 
         layout: '../../layouts/MainLayout.astro',
     }
 
