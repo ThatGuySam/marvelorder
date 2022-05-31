@@ -5,7 +5,7 @@ description: >-
   The adventures of the cosmic wanderer as he seeks his lost home after
   rebelling from his master.
 type: tv
-logo_on_black: /.netlify/functions/tmdb-image/mBJTL4CRSoNkAQRmfwbiLTtviuW.webp?crop.bottom=0.7
+logo_on_black: /.netlify/functions/fanart/the-silver-surfer-5e71870f1dc60.png
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
