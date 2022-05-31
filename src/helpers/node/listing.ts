@@ -56,5 +56,14 @@ export class MappedListing {
             this.sourceListing.id,
         ].join('-')
     }
+
+    hasTag ( tagName : string ) {
+        // If this listting has no tags, return false
+        if ( !this.sourceListing?.tags ) {
+            return false
+        }
+
+        return this.sourceListing.tags.includes( tagName )
+    }
     
 }
