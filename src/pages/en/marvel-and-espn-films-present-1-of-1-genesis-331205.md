@@ -5,6 +5,9 @@ description: >-
   This documentary explores the connections between elite athletes and Marvel
   superheros such as Spider Man, Black Widow and Captain America.
 type: movie
+tags: [
+    doc
+]
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
