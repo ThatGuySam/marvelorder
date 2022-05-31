@@ -194,13 +194,13 @@ export default {
 			// so we can setup a small scroll animation
 			// this.$refs.row.scrollLeft = elementNode.previousElementSibling.offsetLeft - window.innerWidth + 275
 
-			// Animate scroll to element after
+			// Animate scroll to element before
 			//  so that our whole column is visible
-			await scrollIntoView( elementNode.nextElementSibling , {
+			await scrollIntoView( elementNode.previousElementSibling.previousElementSibling , {
 				scrollMode: 'always',
 				behavior: 'smooth', 
-				block: 'end',
-				inline: 'end',
+				block: 'start',
+				inline: 'start',
 				duration: 1500
 			})
 		},
