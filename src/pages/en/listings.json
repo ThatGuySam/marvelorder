@@ -811,7 +811,7 @@
 		"original_language": "en",
 		"original_title": "Thor: Love and Thunder",
 		"overview": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now inexplicably wields Mjolnir as the Mighty Thor. Together, they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
-		"poster_path": "/ovKPIihU0NlWfiu2o5uHW9JBlea.jpg",
+		"poster_path": "/2p6yIPQP2IpQ44wBkL3xhKrot0V.jpg",
 		"release_date": "2022-07-06",
 		"title": "Thor: Love and Thunder",
 		"video": false,
@@ -4310,6 +4310,32 @@
 		]
 	},
 	{
+		"backdrop_path": "/A2BqbbSs9E4emekdxdvWzLK6lpx.jpg",
+		"first_air_date": "2001-10-06",
+		"genre_ids": [
+			10765,
+			10759,
+			9648
+		],
+		"id": 1449,
+		"media_type": "tv",
+		"name": "Mutant X",
+		"origin_country": [
+			"CA",
+			"US"
+		],
+		"original_language": "en",
+		"original_name": "Mutant X",
+		"overview": "Mutant X is a science fiction television series that debuted on October 6, 2001. The show was created by Avi Arad, and it centers around Mutant X, a team of \"New Mutants\" who possess extraordinary powers as a result of genetic engineering. The members of Mutant X were used as test subjects in a series of covert government experiments. The mission of Mutant X is to seek out and protect their fellow New Mutants. The series was filmed in Toronto, Ontario, Canada.\n\nEven though the series had high ratings and was meant to be renewed for a fourth season, it was abruptly canceled in 2004 after the dismantling of Fireworks Entertainment, one of the show's production companies, ending the show on a cliffhanger.",
+		"poster_path": "/yiKg027jdpkSsguVBI9WqliNWez.jpg",
+		"vote_average": 6.7,
+		"title": "Mutant X",
+		"slug": "mutant-x",
+		"tags": [
+			"list-8204860"
+		]
+	},
+	{
 		"adult": false,
 		"backdrop_path": "/chn9jBtOC65JlOd4IObtNjwX3UK.jpg",
 		"genre_ids": [
@@ -4521,6 +4547,30 @@
 		"slug": "generation-x",
 		"tags": [
 			"list-8204860",
+			"list-8204859"
+		]
+	},
+	{
+		"backdrop_path": "/4QNBIgt5fwgNCN3OSU6BTFv0NGR.jpg",
+		"first_air_date": "1994-11-19",
+		"genre_ids": [
+			16,
+			10759
+		],
+		"id": 888,
+		"media_type": "tv",
+		"name": "Spider-Man",
+		"origin_country": [
+			"US"
+		],
+		"original_language": "en",
+		"original_name": "Spider-Man",
+		"overview": "Bitten by a radioactive spider, Peter Parker develops spider-like superpowers. He uses these to fight crime while trying to balance it with the struggles of his personal life.",
+		"poster_path": "/wXthtEN5kdWA1bHz03lkuCJS6hA.jpg",
+		"vote_average": 8.3,
+		"title": "Spider-Man",
+		"slug": "spider-man",
+		"tags": [
 			"list-8204859"
 		]
 	},
