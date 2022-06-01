@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Marvel Battleworld: Mystery of the Thanostones'
 slug: marvel-battleworld-mystery-of-the-thanostones
 description: >-
