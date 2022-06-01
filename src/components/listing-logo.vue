@@ -3,7 +3,7 @@
         :data-src="smallestImage"
         :data-srcset="srcSet"
         :sizes="`(max-width: ${ maxWidth }px) 100vw, ${ maxWidth }px`"
-        class="lazyload rounded-lg"
+        class="lazyload"
         :alt="alt"
     />
 </template>
