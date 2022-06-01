@@ -29,7 +29,7 @@
 							<template v-if="logo">
 								<ListingLogo 
 									:src="logo"
-									class="h-28 w-auto object-contain relative "
+									class="h-24 w-auto object-contain relative "
 									:alt="title"
 								/>
 							</template>
