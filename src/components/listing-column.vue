@@ -101,7 +101,7 @@ export default {
 		}, 
 		width: {
 			type: Number,
-			default: 100
+			default: 150
 		},
 		visibilityClass: {
 			type: String,
