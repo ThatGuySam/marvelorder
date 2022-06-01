@@ -11,6 +11,7 @@ description: >-
   senses so incredibly, he has become the amazingly athletic crime fighter
   called Daredevil. Fisk must now face off against Daredevil and the Incredible
   Hulk!
+logo_on_black: /.netlify/functions/tmdb-image/pStE8fkPIKoQYcqESNWvY2s9nuo.webp?crop.bottom=0.35&crop.top=0.1
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

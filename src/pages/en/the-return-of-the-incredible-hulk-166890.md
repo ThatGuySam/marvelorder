@@ -6,6 +6,7 @@ description: >-
   'Benton', continues in his efforts to find a cure. He accidentally finds
   himself in the middle of a plot to kill a young, crippled girl so her
   unscrupulous relatives can inherit the family fortune.
+logo_on_black: /.netlify/functions/tmdb-image/bzrcGjnFF9k7aSuEKkUXYXg3Kn6.webp?crop.top=0.66
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
