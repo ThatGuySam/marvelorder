@@ -4,7 +4,7 @@ import { assert, expect, test } from 'vitest'
 import { getLayoutModes } from '../src/helpers/layout.ts'
 
 
-test('Math.sqrt()', () => {
+test('Layout mode follow correct order', () => {
 
 
     expect( getLayoutModes(1) ).toContain( { outer: 'start', inner: 'start' } )
