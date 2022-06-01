@@ -6,6 +6,7 @@ description: >-
   nefarious Zodiac organization. It's up to Stark's Iron Man to defeat the
   Zodiac, and defend Japan.
 type: tv
+logo_on_black: /.netlify/functions/fanart/iron-man-2010-50cf8c2b3f830.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

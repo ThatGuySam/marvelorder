@@ -8,6 +8,7 @@ description: >-
   of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his
   side, must forge new alliances – and confront powerful enemies.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/PuAWzSlp3BoB9JT8lNIFHlNM6j.webp?crop.bottom=0.86
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

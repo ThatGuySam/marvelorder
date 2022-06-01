@@ -5,6 +5,7 @@ description: >-
   An experimental serum called Extremis gets stolen, and Iron Man rockets into
   action. The ensuing battles test Stark's spirit and Iron Man's power.
 type: tv
+logo_on_black: /.netlify/functions/fanart/iron-man-extremis-5cce83dd0cc4c.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

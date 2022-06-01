@@ -22,6 +22,7 @@ description: >-
   "Rhodey" Rhodes and Pepper Potts help him on his courageous, and dangerous
   adventures.
 type: tv
+logo_on_black: /.netlify/functions/fanart/iron-man-armored-adventures--5164abd4dc474.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

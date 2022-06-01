@@ -5,6 +5,7 @@ description: >-
   When Tony Stark's world is torn apart by a formidable terrorist called the
   Mandarin, he starts an odyssey of rebuilding and retribution.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/q0pw7Fp3DnTaR04LniqIRJFnHLw.webp?crop.bottom=0.86
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
