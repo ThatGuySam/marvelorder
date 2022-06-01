@@ -5,6 +5,7 @@ description: >-
   Miles Morales is juggling his life between being a high school student and
   being a spider-man. When Wilson "Kingpin" Fisk uses a super collider, others
   from across the Spider-Verse are transported to this dimension.
+logo_on_black: /.netlify/functions/fanart/spider-man-into-the-spider-verse-5a59e4c641c88.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

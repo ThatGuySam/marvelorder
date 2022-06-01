@@ -2,6 +2,8 @@
 title: The Amazing Spider-Man
 slug: the-amazing-spider-man
 description: The first live-action TV series based on the popular comic book.
+type: tv
+logo_on_black: /.netlify/functions/tmdb-image/kUTCJhSnH3Dt0KVzcQp8DnbmsjN.webp?crop.bottom=0.75
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
