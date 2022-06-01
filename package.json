@@ -38,8 +38,10 @@
     "@astrojs/sitemap": "^0.1.0",
     "@astrojs/tailwind": "^0.2.1",
     "@astrojs/vue": "^0.1.4",
+    "@faker-js/faker": "^7.1.0",
     "@types/node": "^17.0.35",
     "astro": "^1.0.0-beta.31",
+    "vite-tsconfig-paths": "^3.5.0",
     "vitest": "^0.12.9",
     "vue": "^3.2.36"
   }
