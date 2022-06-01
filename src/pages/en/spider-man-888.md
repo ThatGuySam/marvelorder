@@ -5,6 +5,7 @@ description: >-
   Bitten by a radioactive spider, Peter Parker develops spider-like superpowers.
   He uses these to fight crime while trying to balance it with the struggles of
   his personal life.
+logo_on_black: /.netlify/functions/fanart/spider-man-1994-5066c5aaac154.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
