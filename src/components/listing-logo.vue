@@ -24,7 +24,7 @@ function makeSizedImageUrl ( imageUrl, size ) {
 export default {
     props: {
         src: {
-            type: String,
+            type: [ String, Object ],
             required: true
         },
         alt: {
@@ -40,18 +40,25 @@ export default {
         maxWidth () {
             return this.sizes[ this.sizes.length - 1 ]
         },
+        logoUrl () {
+            if ( this.src?.logo_on_black ) {
+                return this.src.logo_on_black
+            }
+
+            return this.src
+        },
 		srcSet () {
 			const srcSet = []
 
             for ( const size of this.sizes ) {
                 
-                srcSet.push( `${ makeSizedImageUrl( this.src, size ) } ${ size }w` )
+                srcSet.push( `${ makeSizedImageUrl( this.logoUrl, size ) } ${ size }w` )
             }
 
             return srcSet.join( ', ' )
 		},
         smallestImage () {
-            return makeSizedImageUrl( this.src, this.sizes[ 0 ] ) 
+            return makeSizedImageUrl( this.logoUrl, this.sizes[ 0 ] ) 
         },
     }
 }
