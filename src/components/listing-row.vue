@@ -29,10 +29,9 @@
 
 		</div>
 
-		<button 
+		<CircleButton 
 			:class="[
-				'absolute left-12 h-16 w-16 flex justify-center items-center transform -translate-y-1/2 -translate-x-1/2 bg-black/25 backdrop-blur rounded-full', 
-				'transition-all duration-200 ease-in-out',
+				'absolute left-12 transform -translate-y-1/2 -translate-x-1/2'
 			]" 
 			style="top:50%;" 
 			aria-label="Scroll to previous listings"
@@ -46,11 +45,10 @@
 					clip-rule="evenodd"
 				></path>
 			</svg>
-		</button>
-		<button 
+		</CircleButton>
+		<CircleButton 
 			:class="[
-				'absolute right-12 h-16 w-16 flex justify-center items-center transform -translate-y-1/2 translate-x-1/2 bg-black/25 backdrop-blur rounded-full', 
-				'transition-all duration-200 ease-in-out',
+				'absolute right-12 transform -translate-y-1/2 translate-x-1/2', 
 			]" 
 			style="top:50%;" 
 			aria-label="Scroll to next listings"
@@ -64,7 +62,7 @@
 					clip-rule="evenodd"
 				></path>
 			</svg>
-		</button>
+		</CircleButton>
 
 	</div>
 
@@ -77,12 +75,14 @@ import scrollIntoView from 'scroll-into-view-if-needed'
 import { FilteredListings, isUpcoming } from '~/src/helpers/listing-filters.ts'
 
 import ListingColumn from './listing-column.vue'
+import CircleButton from './circle-button.vue'
 
 
 
 export default {
 	components: {
-		ListingColumn
+		ListingColumn,
+		CircleButton
 	},
     props: {
         listings: {
