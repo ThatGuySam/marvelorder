@@ -21,6 +21,8 @@ export class MappedListing {
 
     sourceListing
 
+    isMappedListing = true
+
     get dateString () {
         return this.sourceListing.release_date || this.sourceListing.first_air_date
     }
