@@ -26,7 +26,7 @@ layout: ../../layouts/MainLayout.astro
     "release_date": "2022-02-16",
     "title": "ASSEMBLED: The Making of Eternals",
     "video": false,
-    "vote_average": 6.9,
+    "vote_average": 7.1,
     "slug": "assembled-the-making-of-eternals",
     "tags": [
         "movie",

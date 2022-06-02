@@ -37,7 +37,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "Mutant X",
     "overview": "Mutant X is a science fiction television series that debuted on October 6, 2001. The show was created by Avi Arad, and it centers around Mutant X, a team of \"New Mutants\" who possess extraordinary powers as a result of genetic engineering. The members of Mutant X were used as test subjects in a series of covert government experiments. The mission of Mutant X is to seek out and protect their fellow New Mutants. The series was filmed in Toronto, Ontario, Canada.\n\nEven though the series had high ratings and was meant to be renewed for a fourth season, it was abruptly canceled in 2004 after the dismantling of Fireworks Entertainment, one of the show's production companies, ending the show on a cliffhanger.",
-    "poster_path": "/yiKg027jdpkSsguVBI9WqliNWez.jpg",
+    "poster_path": "/kYHYHpZV25CEM3OyMb3NT1tnNev.jpg",
     "vote_average": 6.7,
     "title": "Mutant X",
     "slug": "mutant-x",
