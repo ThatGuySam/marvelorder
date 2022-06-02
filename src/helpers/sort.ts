@@ -35,3 +35,10 @@ export function byListingDate ( a:Listing, b:Listing ) {
         return 1
     }
 }
+
+
+export function sortListToDefault ( listings:Listing[] ) {
+    return listings
+        .sort( byListingDate )
+        .reverse()
+}
