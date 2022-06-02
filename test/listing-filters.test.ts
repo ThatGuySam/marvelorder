@@ -3,9 +3,9 @@ import { assert, expect, test } from 'vitest'
 import { faker } from '@faker-js/faker'
 
 // @ts-ignore
-import { ListingFilters } from '../src/helpers/listing-filters.ts'
+import { ListingFilters, FilteredListings } from '~/src/helpers/listing-filters.ts'
 // @ts-ignore
-import { makeMappedListings } from '../src/helpers/node/listing.ts'
+import { makeMappedListings } from '~/src/helpers/node/listing.ts'
 
 
 const fakeListing = {
@@ -40,5 +40,23 @@ test('Can filter out docs by default', () => {
 
     // https://vitest.dev/api/#tocontain
     expect(filteredListings[0]).not.toContain( { tags: [ 'doc' ] } )
+    
+})
+
+test('Can filter out docs from FilteredListings by default', () => {
+
+    const apiListings = [
+        fakeListing,
+        { ...fakeListing, tags: [ 'doc' ] },
+    ]
+
+    const mappedListings = makeMappedListings( apiListings )
+
+    const filteredListings = new FilteredListings({ listings: mappedListings })
+
+    expect( filteredListings.list ).toHaveLength( 1 )
+
+    // https://vitest.dev/api/#tocontain
+    expect( filteredListings.first ).not.toContain( { tags: [ 'doc' ] } )
     
 })

@@ -1,3 +1,8 @@
+// @ts-ignore
+import { Listing } from './types.ts'
+// @ts-ignore
+import { ensureMappedListings } from './node/listing.ts'
+
 export function isUpcoming ( listing ) {
 	// console.log( 'now - listing.date', now - listing.date )
 
@@ -47,6 +52,8 @@ export function matchesFilters ( filters ) {
     if ( Array.isArray( filters ) ) {
         filters = new Map( filters )
     }
+
+    // console.log( 'filters', filters )
     
     // We create a function here 
     // so that we can use it as a filter
@@ -83,7 +90,7 @@ export const defaultFilters = new Map([
     [
         isDoc, 
         { 
-            targetValue: true
+            targetValue: false
         },
     ]
 ])
@@ -108,4 +115,49 @@ export class ListingFilters {
     filter( listings ) {
         return listings.filter( matchesFilters( this.activeFilters )  )
     }
+}
+
+export class FilteredListings {
+    constructor ( {
+        listings = null,
+        initialFilters = new Map(),
+    } = {} ) {
+
+        // Throw for invalid listings
+        if ( !Array.isArray( listings ) ) throw new Error( 'Listings must be an array' )
+
+        this.initialListings = ensureMappedListings( listings )
+
+        this.activeFilters = new Map([
+            ...defaultFilters,
+            ...initialFilters,
+        ])
+    }
+
+    initialListings : Listing[]
+
+    activeFilters : Map<Function, { targetValue : Boolean }>
+
+
+    withFilters ( extraFilters ) {
+        const filters = new Map([
+            ...this.activeFilters,
+            ...extraFilters,
+        ])
+
+        // console.log('activeFilters', this.activeFilters)
+        // console.log('this.list', this.list)
+
+        return this.list.filter( matchesFilters( filters ) )
+    }
+
+
+    get list () {
+        return this.initialListings.filter( matchesFilters( this.activeFilters ) )
+    }
+
+    get first () {
+        return this.list[0]
+    }
+
 }
