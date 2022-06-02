@@ -43,6 +43,11 @@ export function isShow ( listing ) {
 	return listing.type === 'tv'
 }
 
+export function hasFanartLogo ( listing ) {
+    return listing?.logo_on_black && listing.logo_on_black.includes( '/fanart/' )
+}
+
+
 export function matchesFilters ( filters ) {
     const filterOut = false
     const keep = true
