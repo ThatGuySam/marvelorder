@@ -36,9 +36,12 @@ export function byListingDate ( a:Listing, b:Listing ) {
     }
 }
 
+export function byListingDateReversed ( a:Listing, b:Listing ) {
+    return byListingDate( a, b ) * -1
+}
+
 
 export function sortListToDefault ( listings:Listing[] ) {
     return listings
-        .sort( byListingDate )
-        .reverse()
+        .sort( byListingDateReversed )
 }
