@@ -74,10 +74,7 @@
 
 import scrollIntoView from 'scroll-into-view-if-needed'
 
-
-import { byListingDate } from '~/src/helpers/sort.ts'
-import { MappedListing } from '~/src/helpers/node/listing.ts'
-import { matchesFilters, isDoc, isUpcoming } from '~/src/helpers/listing-filters.ts'
+import { FilteredListings, isUpcoming } from '~/src/helpers/listing-filters.ts'
 
 import ListingColumn from './listing-column.vue'
 
@@ -95,30 +92,25 @@ export default {
     },
 	data: function () {
         return {
-            activeListingFilters: [
-				[ isDoc, false ]
-			],
+            activeListingFilters: [],
 			showAllListings: false,
         }
     },
 	computed: {
+		filteredListings () {
+			return new FilteredListings({ 
+				listings: this.listings,  
+				initialFilters: this.activeListingFilters,
+			})
+		},
 		sortedListings () {
 			// Sort listings by date
-			return this.listings
-				.map( listing => new MappedListing( listing ) )
-				.filter( matchesFilters( this.activeListingFilters ) )
-				.sort( byListingDate )
-				.reverse()
+			return this.filteredListings.list
 		}, 
 		upcomingListings () {
-			// console.log( 'listings', this.listings )
-
-			const filters = [
-				[ isUpcoming, true ],
-				[ isDoc, false ]
-			]
-
-			return this.sortedListings.filter( matchesFilters( filters )  )
+			return this.filteredListings.withFilters( [
+				[ isUpcoming, true ]
+			] )
 		},
 		nextUpcomingListing () {
 			return this.upcomingListings[0]
