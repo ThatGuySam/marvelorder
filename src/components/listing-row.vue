@@ -22,6 +22,10 @@
 					:class="[
 						isListingNextUpcoming( listing ) ? 'listing-card-next-upcoming' : '',
 					]"
+
+					:expanded="expandedListingId === listing.elementId"
+					@expand="expandedListingId = listing.elementId"
+					@contract="expandedListingId = null"
 				/>
 			</template>
 
@@ -94,6 +98,7 @@ export default {
         return {
             activeListingFilters: [],
 			showAllListings: false,
+			expandedListingId: null,
         }
     },
 	computed: {

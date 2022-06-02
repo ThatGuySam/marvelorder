@@ -1,90 +1,137 @@
 <template>
 	<article 
-		class="listing-card w-full flex-shrink-0 flex-grow-0 snap-end" 
+		:class="[
+			'listing-card w-full flex-shrink-0 flex-grow-0 snap-start',
+			'transition-all duration-750 ease-in-out',
+			expanded ? 'listing-card-expanded border-x' : '',
+		]" 
 		:style="{ 
-			maxWidth: `${ width }px`, 
-			flexBasis: `${ width }px`, 
+			maxWidth: `${ articleWidth }px`, 
+			flexBasis: `${ articleWidth }px`, 
 		}"
 	>
-		<a :href="listing.endpoint" class="">
-			<div 
-				:class="[
-					`listing-card-container flex gap-8 ${ outerDirection } h-screen justify-${ modes.outer }`,
-				]"
+		<component
+			:is="expanded ? 'div' : 'a'"
+			:href="listing.endpoint" 
+			class="relative"
+
+			@click.prevent.capture="!expanded && expand()"
+		>
+			<Transition
+				name="custom-classes"
+				enter-active-class="animate__animated animate__tada"
+				leave-active-class="animate__animated animate__bounceOutRight"
 			>
 				<div 
-					:class="[ 
-						`inner-container flex ${ outerDirection } h-full w-full justify-end`, 
-						'transition-opacity ease-in-out duration-750', 
-						visibilityClass
+					v-if="!expanded"
+					:class="[
+						`listing-card-container flex gap-8 ${ outerDirection } h-screen justify-${ modes.outer }`,
+						// expanded ? 'pointer-event-none' : '',
 					]"
 				>
+					<div 
+						:class="[ 
+							`inner-container flex ${ outerDirection } h-full w-full justify-end`, 
+							'transition-opacity ease-in-out duration-750', 
+							visibilityClass
+						]"
+					>
 
-					<div class="inner-container relative py-16">
-						<div 
-							:class="`listing-card-content absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 flex flex-col justify-center`"
-							:style="{ width: `${ markWidth }px` }"
-						>
-							<!-- <div class="bg-green-600 absolute inset-0" /> -->
-							<template v-if="logo">
-								<ListingLogo 
-									:src="logo"
-									class="h-24 w-auto object-contain relative "
-									:alt="title"
-								/>
-							</template>
-							<h2 
-								v-else
-								class="w-full text-3xl test-white font-bold text-center whitespace-normal"
-							>{{ title }}</h2>
+						<div class="inner-container relative py-16">
+							<div 
+								:class="`listing-card-content absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 flex flex-col justify-center`"
+								:style="{ width: `${ markWidth }px` }"
+							>
+								<!-- <div class="bg-green-600 absolute inset-0" /> -->
+								<template v-if="logo">
+									<ListingLogo 
+										:src="logo"
+										class="h-24 w-auto object-contain relative"
+										:alt="title"
+									/>
+								</template>
+								<h2 
+									v-else
+									class="w-full text-3xl test-white font-bold text-center whitespace-normal"
+								>{{ title }}</h2>
+							</div>
 						</div>
+
+						<div 
+							:class="`vertical-line-container relative flex gap-4 ${ outerDirection } ${ innerHeight }`"
+						>
+							<div 
+								:class="[
+									`vertical-line w-1 bg-current h-full`, 
+									listing.hasDate ? '' : 'opacity-10',
+								]"
+							/>
+							<div 
+								:class="[
+									'w-32 text-center font-bold uppercase', 
+									listing.hasDate ? '' : 'opacity-20',
+								]"
+							>
+								{{ listing.dateHumanReadable }}
+							</div>
+						</div>
+
 					</div>
 
 					<div 
-						:class="`vertical-line-container relative flex gap-4 ${ outerDirection } ${ innerHeight }`"
-					>
-						<div 
-							:class="[
-								`vertical-line w-1 bg-current h-full`, 
-								listing.hasDate ? '' : 'opacity-10',
-							]"
-						/>
-						<div 
-							:class="[
-								'w-32 text-center font-bold uppercase', 
-								listing.hasDate ? '' : 'opacity-20',
-							]"
-						>
-							{{ listing.dateHumanReadable }}
-						</div>
-					</div>
+						:class="[
+							`center-line w-full border border-x-transparent border-y-white h-32`,
+							expanded ? 'opacity-0' : 'opacity-100',
+						]"
+					/>
+
+					<div 
+						class="inner-container h-full"
+					/>
 
 				</div>
+			</Transition>
 
-				<div 
-					:class="`center-line w-full border border-x-transparent border-y-white h-32`"
-				/>
+			<Transition>
+				<div
+					v-if="expanded"
+					class="relative h-screen"
+				>
+					<ListingContent 
+						:listing="listing"
+						class="h-full overflow-scroll p-8 pb-72"
+					/>
 
-				<div 
-					class="inner-container h-full"
-				/>
-
-			</div>
-		</a>
+					<CircleButton
+						class="close-button absolute bottom-24 left-1/2 transform-gpu -translate-x-1/2 translate-y-1/2"
+						@click="contract()"
+					>
+						<svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+							<path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
+						</svg>
+					</CircleButton>
+				</div>
+			</Transition>
+		</component>
 	</article>
 
 
 </template>
 
 <script>
+import scrollIntoView from 'scroll-into-view-if-needed'
 
 import { getLayoutModes } from '~/src/helpers/layout.ts'
 
 import ListingLogo from './listing-logo.vue'
+import ListingContent from './listing-content.vue'
+import CircleButton from './circle-button.vue'
 
 export default {
 	components: {
-		ListingLogo
+		ListingLogo,
+		ListingContent, 
+		CircleButton
 	},
     props: {
         listing: {
@@ -106,8 +153,31 @@ export default {
 		visibilityClass: {
 			type: String,
 			default: ''
+		},
+		expanded: {
+			type: Boolean,
+			default: false
 		}
     },
+	methods: {
+		expand () {
+			// console.log('expanding')
+
+			this.$emit('expand', this.listing)
+
+			scrollIntoView(this.$el, {
+				scrollMode: 'if-needed',
+				block: 'start',
+				inline: 'start',
+				behavior: 'smooth'
+			})
+		},
+		contract () {
+			// console.log('contracting')
+
+			this.$emit('contract', this.listing)
+		}
+	}, 
     computed: {
 		title () {
 			return this.listing.title
@@ -126,6 +196,13 @@ export default {
 		},
 		logo () {
 			return this.listing?.logo_on_black
+		},
+		articleWidth () {
+			if ( this.expanded ) {
+				return Math.min( window.innerWidth, 540 )
+			}
+
+			return this.width
 		}
     }
     // data: function () {
