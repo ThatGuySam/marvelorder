@@ -77,68 +77,11 @@ import scrollIntoView from 'scroll-into-view-if-needed'
 
 import { byListingDate } from '~/src/helpers/sort.ts'
 import { MappedListing } from '~/src/helpers/node/listing.ts'
+import { matchesFilters, isDoc, isUpcoming } from '~/src/helpers/listing-filters.ts'
 
 import ListingColumn from './listing-column.vue'
 
-function isUpcoming ( listing ) {
-	// console.log( 'now - listing.date', now - listing.date )
 
-	const now = new Date()
-
-	const timeDifference = now - listing.date
-
-	if ( typeof timeDifference !== 'number') {
-		return true
-	}
-
-	return timeDifference < 0
-}
-
-function isDoc ( listing ) {
-	// Check if listing has a doc tag
-	if ( listing.hasTag( 'doc' ) ) {
-		return true
-	}
-
-	const docMatchingTerms = [
-		'making of',
-		'assembled',
-		'marvel studios:'
-	]
-
-	// Check if our listing title contains any of the terms
-	for ( let term of docMatchingTerms ) {
-		if ( listing.title.toLowerCase().includes( term ) ) {
-			return true
-		}
-	}
-
-	return false
-}
-
-function isShow ( listing ) {
-	return listing.type === 'tv'
-}
-
-function matchesFilters ( filters ) {
-	return listing => {
-
-		// Loop through filters
-		// and stop of a filter doesn't match
-		// our set value
-		for ( const [ filterMethod, targetValue ] of filters ) {
-			// Apply filter to listing
-
-			if ( filterMethod( listing ) !== targetValue ) {
-				// If the filter doesn't match
-				// return false
-				return false
-			}
-		}
-
-		return true
-	}
-}
 
 export default {
 	components: {
@@ -153,8 +96,7 @@ export default {
 	data: function () {
         return {
             activeListingFilters: [
-				[ isDoc, false ],
-				// [ isShow, false ],
+				[ isDoc, false ]
 			],
 			showAllListings: false,
         }
