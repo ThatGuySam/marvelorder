@@ -5,6 +5,10 @@ import { Listing } from '~/src/helpers/types.ts'
 // @ts-ignore
 import { makeListingEndpoint } from '~/src/helpers/listing.ts'
 
+export function makeMappedListings ( listings: Listing[] ) {
+    return listings.map( listing => new MappedListing( listing ) )
+}
+
 export class MappedListing {
     constructor ( listing : Listing ) {
         this.sourceListing = listing
