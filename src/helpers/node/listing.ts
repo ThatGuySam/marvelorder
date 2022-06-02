@@ -4,9 +4,13 @@ import { DateTime } from 'luxon'
 import { Listing } from '~/src/helpers/types.ts'
 // @ts-ignore
 import { makeListingEndpoint } from '~/src/helpers/listing.ts'
+// @ts-ignore
+import { sortListToDefault } from '~/src/helpers/sort.ts'
 
 export function makeMappedListings ( listings: Listing[] ) {
-    return listings.map( listing => new MappedListing( listing ) )
+    const mappedList = listings.map( listing => new MappedListing( listing ) )
+    
+    return sortListToDefault( mappedList )
 }
 
 export function ensureMappedListings ( listings: Listing[] ) {
