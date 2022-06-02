@@ -9,6 +9,14 @@ export function makeMappedListings ( listings: Listing[] ) {
     return listings.map( listing => new MappedListing( listing ) )
 }
 
+export function ensureMappedListings ( listings: Listing[] ) {
+    if ( listings[0] instanceof MappedListing ) {
+        return listings
+    }
+
+    return makeMappedListings( listings )
+}
+
 export class MappedListing {
     constructor ( listing : Listing ) {
         this.sourceListing = listing
