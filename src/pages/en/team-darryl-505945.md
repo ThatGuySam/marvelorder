@@ -27,7 +27,7 @@ layout: ../../layouts/MainLayout.astro
     "release_date": "2018-02-20",
     "title": "Team Darryl",
     "video": false,
-    "vote_average": 6.4,
+    "vote_average": 6.3,
     "slug": "team-darryl",
     "tags": [
         "movie",

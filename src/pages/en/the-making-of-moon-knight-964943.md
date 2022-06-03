@@ -27,7 +27,7 @@ layout: ../../layouts/MainLayout.astro
     "release_date": "2022-05-25",
     "title": "The Making of Moon Knight",
     "video": false,
-    "vote_average": 4.3,
+    "vote_average": 5.8,
     "slug": "the-making-of-moon-knight",
     "tags": [
         "movie",

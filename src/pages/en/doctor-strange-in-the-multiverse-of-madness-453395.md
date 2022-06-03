@@ -13,7 +13,7 @@ layout: ../../layouts/MainLayout.astro
 ```json
 {
     "adult": false,
-    "backdrop_path": "/AdyJH8kDm8xT8IKTlgpEC15ny4u.jpg",
+    "backdrop_path": "/6tZeX0gvlPzHU8phHuiZD8Gsa11.jpg",
     "genre_ids": [
         14,
         28,

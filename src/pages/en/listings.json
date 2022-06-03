@@ -811,7 +811,7 @@
 		"original_language": "en",
 		"original_title": "Thor: Love and Thunder",
 		"overview": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now inexplicably wields Mjolnir as the Mighty Thor. Together, they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
-		"poster_path": "/2p6yIPQP2IpQ44wBkL3xhKrot0V.jpg",
+		"poster_path": "/4zLfBbGnuUBLbMVtagTZvzFwS8l.jpg",
 		"release_date": "2022-07-06",
 		"title": "Thor: Love and Thunder",
 		"video": false,
@@ -830,14 +830,14 @@
 		],
 		"id": 980017,
 		"original_language": "en",
-		"original_title": "ASSEMBLED: The Making of Doctor Strange in the Multiverse of Madness",
+		"original_title": "The Making of Doctor Strange in the Multiverse of Madness",
 		"overview": "",
 		"poster_path": null,
 		"release_date": "2022-06-22",
-		"title": "ASSEMBLED: The Making of Doctor Strange in the Multiverse of Madness",
+		"title": "The Making of Doctor Strange in the Multiverse of Madness",
 		"video": false,
 		"vote_average": 0,
-		"slug": "assembled-the-making-of-doctor-strange-in-the-multiverse-of-madness",
+		"slug": "the-making-of-doctor-strange-in-the-multiverse-of-madness",
 		"tags": [
 			"movie",
 			"company-420"
@@ -859,8 +859,8 @@
 		"original_language": "en",
 		"original_name": "Ms. Marvel",
 		"overview": "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school — that is, until she gets super powers like the heroes she’s always looked up to. Life is easier with super powers, right?",
-		"poster_path": "/gq4HVa4SGfoikGHeSXVsnuIWTjV.jpg",
-		"vote_average": 6,
+		"poster_path": "/nDBf9PaiBrp5xI1beRihwGcim4F.jpg",
+		"vote_average": 6.8,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
 		"tags": [
@@ -882,7 +882,7 @@
 		"release_date": "2022-05-25",
 		"title": "The Making of Moon Knight",
 		"video": false,
-		"vote_average": 4.3,
+		"vote_average": 5.8,
 		"slug": "the-making-of-moon-knight",
 		"tags": [
 			"movie",
@@ -891,7 +891,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/AdyJH8kDm8xT8IKTlgpEC15ny4u.jpg",
+		"backdrop_path": "/6tZeX0gvlPzHU8phHuiZD8Gsa11.jpg",
 		"genre_ids": [
 			14,
 			28,
@@ -1064,7 +1064,7 @@
 		"release_date": "2021-11-12",
 		"title": "Marvel Studios' 2021 Disney+ Day Special",
 		"video": false,
-		"vote_average": 6.9,
+		"vote_average": 7.1,
 		"slug": "marvel-studios-2021-disney-day-special",
 		"tags": [
 			"movie",
@@ -1863,7 +1863,7 @@
 		"release_date": "2018-02-20",
 		"title": "Team Darryl",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.3,
 		"slug": "team-darryl",
 		"tags": [
 			"movie",
