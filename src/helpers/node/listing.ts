@@ -5,12 +5,12 @@ import { Listing } from '~/src/helpers/types.ts'
 // @ts-ignore
 import { makeListingEndpoint } from '~/src/helpers/listing.ts'
 // @ts-ignore
-import { sortListToDefault } from '~/src/helpers/sort.ts'
+import { byDefaultListingSort } from '~/src/helpers/sort.ts'
 
 export function makeMappedListings ( listings: Listing[] ) {
     const mappedList = listings.map( listing => new MappedListing( listing ) )
     
-    return sortListToDefault( mappedList )
+    return mappedList.sort( byDefaultListingSort )
 }
 
 export function ensureMappedListings ( listings: Listing[] ) {
