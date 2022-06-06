@@ -11,7 +11,8 @@ layout: ../../layouts/MainLayout.astro
 ## TMDB Data
 ```json
 {
-    "backdrop_path": "/c4dj55sJMC1sYi0xe66IGZ7UDzV.jpg",
+    "backdrop_path": "/jpj3dBvDXzGF6Lg7gcg9QTIXYHw.jpg",
+    "first_air_date": "2022-08-10",
     "genre_ids": [
         10759,
         10765
@@ -23,8 +24,8 @@ layout: ../../layouts/MainLayout.astro
     ],
     "original_language": "en",
     "original_name": "I Am Groot",
-    "overview": "Everyone’s favorite little tree, Baby Groot, stars in a series of shorts featuring several new and unusual characters.",
-    "poster_path": "/isYAlE7hfuvd9Tfbr0cLCcAjgfX.jpg",
+    "overview": "Follow Baby Groot’s glory days growing up, and getting into trouble among the stars.",
+    "poster_path": "/ucXBxp0NkDhvdat4rR4QFXVxjp9.jpg",
     "vote_average": 0,
     "title": "I Am Groot",
     "slug": "i-am-groot",

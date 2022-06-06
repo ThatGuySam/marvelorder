@@ -30,7 +30,7 @@ layout: ../../layouts/MainLayout.astro
     "release_date": "1989-10-05",
     "title": "The Punisher",
     "video": false,
-    "vote_average": 5.8,
+    "vote_average": 5.7,
     "slug": "the-punisher",
     "tags": [
         "movie",
