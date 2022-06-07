@@ -860,7 +860,7 @@
 		"original_language": "en",
 		"original_name": "Ms. Marvel",
 		"overview": "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school — that is, until she gets super powers like the heroes she’s always looked up to. Life is easier with super powers, right?",
-		"poster_path": "/xN4jAr5Tz640oZYxrDMlpolt5cY.jpg",
+		"poster_path": "/nDBf9PaiBrp5xI1beRihwGcim4F.jpg",
 		"vote_average": 7.7,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
@@ -1078,7 +1078,8 @@
 		"genre_ids": [
 			878,
 			28,
-			12
+			12,
+			14
 		],
 		"id": 524434,
 		"original_language": "en",
@@ -2106,7 +2107,7 @@
 		"original_name": "Marvel’s Avengers: Secret Wars (Shorts)",
 		"overview": "Shorts episodes of Marvel’s Avengers as available at Disney +",
 		"poster_path": null,
-		"vote_average": 0,
+		"vote_average": 4,
 		"title": "Marvel’s Avengers: Secret Wars (Shorts)",
 		"slug": "marvels-avengers-secret-wars-shorts",
 		"tags": [
@@ -4197,7 +4198,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/Ao7mTUqaF84o4w2prRmjNgOXjIs.jpg",
+		"backdrop_path": "/bqEmxL8e6jlH3ZNECuaEZHiOvsX.jpg",
 		"genre_ids": [
 			28,
 			80,
@@ -4645,7 +4646,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/wM1Jzc1DiPlw4hKcq4VNVyLCahY.jpg",
+		"backdrop_path": "/5CPuNvSueKbCmltTzLAe8AiYS3u.jpg",
 		"first_air_date": "1992-10-31",
 		"genre_ids": [
 			10762,

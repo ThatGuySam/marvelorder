@@ -19,7 +19,7 @@ layout: ../../layouts/MainLayout.astro
     "original_name": "Marvel’s Avengers: Secret Wars (Shorts)",
     "overview": "Shorts episodes of Marvel’s Avengers as available at Disney +",
     "poster_path": null,
-    "vote_average": 0,
+    "vote_average": 4,
     "title": "Marvel’s Avengers: Secret Wars (Shorts)",
     "slug": "marvels-avengers-secret-wars-shorts",
     "tags": [

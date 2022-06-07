@@ -18,7 +18,8 @@ layout: ../../layouts/MainLayout.astro
     "genre_ids": [
         878,
         28,
-        12
+        12,
+        14
     ],
     "id": 524434,
     "original_language": "en",
