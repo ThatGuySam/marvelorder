@@ -1,7 +1,7 @@
 <template>
 	<article 
 		:class="[
-			'listing-card w-full flex-shrink-0 flex-grow-0 snap-start',
+			'listing-card group relative w-full flex-shrink-0 flex-grow-0 snap-start',
 			'transition-all duration-750 ease-in-out',
 			expanded ? 'listing-card-expanded border-x' : '',
 		]" 
@@ -113,6 +113,26 @@
 				</div>
 			</Transition>
 		</component>
+
+		<div
+			v-if="!expanded"
+			:class="[
+				'overlay w-60 flex justify-center items-center pointer-events-none', 
+				'absolute inset-y-0 left-1/2 -translate-x-1/2', 
+				// 'group-hover:border'
+			]"
+		>
+
+			<div class="relative flex justify-center w-full">
+				<SeenButton 
+					:listing="listing"
+					:class="[
+						'pointer-events-auto'
+					]"
+				/>
+    		</div>
+
+		</div>
 	</article>
 
 
@@ -126,12 +146,15 @@ import { getLayoutModes } from '~/src/helpers/layout.ts'
 import ListingLogo from './listing-logo.vue'
 import ListingContent from './listing-content.vue'
 import CircleButton from './circle-button.vue'
+import SeenButton from './seen-button.vue'
+
 
 export default {
 	components: {
 		ListingLogo,
 		ListingContent, 
-		CircleButton
+		CircleButton,
+		SeenButton
 	},
     props: {
         listing: {
@@ -205,10 +228,5 @@ export default {
 			return this.width
 		}
     }
-    // data: function () {
-    //     return {
-    //         // isOpen: false
-    //     }
-    // }
 }
 </script>
