@@ -335,7 +335,7 @@
 		"original_language": "en",
 		"original_title": "Blade",
 		"overview": "A reboot of Blade (1998) in the Marvel Cinematic Universe.",
-		"poster_path": "/fKqA4rgVJwrM7Gb3tQ9TGHnu8Tr.jpg",
+		"poster_path": "/AjY5EcW4ojQzoYrFOpzqmoP58Vj.jpg",
 		"title": "Blade",
 		"video": false,
 		"vote_average": 0,
@@ -860,8 +860,8 @@
 		"original_language": "en",
 		"original_name": "Ms. Marvel",
 		"overview": "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school — that is, until she gets super powers like the heroes she’s always looked up to. Life is easier with super powers, right?",
-		"poster_path": "/nDBf9PaiBrp5xI1beRihwGcim4F.jpg",
-		"vote_average": 7.7,
+		"poster_path": "/hJx9aFc8g32KjrW7mpv53cEvEDS.jpg",
+		"vote_average": 8.4,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
 		"tags": [
@@ -1669,7 +1669,8 @@
 		"backdrop_path": "/5ZSwZPKgcTJJwhxjbOHeoBTVaKh.jpg",
 		"genre_ids": [
 			35,
-			28
+			28,
+			12
 		],
 		"id": 567604,
 		"original_language": "en",

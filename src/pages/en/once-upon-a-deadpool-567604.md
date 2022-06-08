@@ -15,7 +15,8 @@ layout: ../../layouts/MainLayout.astro
     "backdrop_path": "/5ZSwZPKgcTJJwhxjbOHeoBTVaKh.jpg",
     "genre_ids": [
         35,
-        28
+        28,
+        12
     ],
     "id": 567604,
     "original_language": "en",
