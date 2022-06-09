@@ -43,6 +43,30 @@ export function isShow ( listing ) {
 	return listing.type === 'tv'
 }
 
+export function hasAnyTags ( listing ) {
+    return Array.isArray( listing.tags ) && listing.tags.length > 0
+}
+
+export function hasAnyGenres ( listing ) {
+    return Array.isArray( listing.genre_ids ) && listing.genre_ids.length > 0
+}
+
+export function isMarvelKnights ( listing ) {
+    if ( !hasAnyTags( listing ) ) return false
+
+    return listing.tags.includes( 'company-11106' )
+}
+
+export function isAnimatedGenre ( listing ) {
+    if ( !hasAnyGenres( listing ) ) return false
+
+    return listing.genre_ids.includes( 16 )
+}
+
+export function isMarvelKnightsAnimated ( listing ) {
+    return isMarvelKnights( listing ) && isAnimatedGenre( listing )
+}
+
 export function hasFanartLogo ( listing ) {
     return listing?.logo_on_black && listing.logo_on_black.includes( '/fanart/' )
 }
