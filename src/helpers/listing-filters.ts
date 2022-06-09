@@ -126,7 +126,13 @@ export const defaultFilters = new Map([
         isDoc, 
         { 
             targetValue: false
-        },
+        }
+    ],
+    [
+        isMarvelKnightsAnimated, 
+        {
+            targetValue: false
+        }
     ]
 ])
 
