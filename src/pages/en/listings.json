@@ -845,7 +845,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/reG6Pk1ABZEYssn8ZKzUC2VHJkT.jpg",
+		"backdrop_path": "/rlCRM7U5g2hcU1O8ylGcqsMYHIP.jpg",
 		"first_air_date": "2022-06-08",
 		"genre_ids": [
 			10765,
@@ -860,12 +860,33 @@
 		"original_language": "en",
 		"original_name": "Ms. Marvel",
 		"overview": "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school — that is, until she gets super powers like the heroes she’s always looked up to. Life is easier with super powers, right?",
-		"poster_path": "/hJx9aFc8g32KjrW7mpv53cEvEDS.jpg",
-		"vote_average": 8.4,
+		"poster_path": "/4qoFtoPvFGjlIXYfFVNKhOwZ6zD.jpg",
+		"vote_average": 8,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
 		"tags": [
 			"tv",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/dLaiXS1LSKEwV1gu7BUxQAa0j9n.jpg",
+		"genre_ids": [
+			99
+		],
+		"id": 979160,
+		"original_language": "en",
+		"original_title": "A Fan's Guide to Ms. Marvel",
+		"overview": "A documentary short that gives you an exclusive look behind the groundbreaking original series, \"Ms. Marvel\", from its comic book origins to its development and production as Marvel Studios’ next hit series on Disney+. It features interviews with its award winning filmmaking team and the show’s captivating star, newcomer Iman Vellani.",
+		"poster_path": "/aolMYjs6QWonQFlnRGvU3o5zeQH.jpg",
+		"release_date": "2022-06-01",
+		"title": "A Fan's Guide to Ms. Marvel",
+		"video": false,
+		"vote_average": 7,
+		"slug": "a-fans-guide-to-ms-marvel",
+		"tags": [
+			"movie",
 			"company-420"
 		]
 	},
@@ -1184,7 +1205,7 @@
 		"original_name": "Marvel's Spidey and His Amazing Friends",
 		"overview": "Follow Peter Parker, Gwen Stacy and Miles Morales and their adventures as the young heroes team up with Hulk, Ms. Marvel and Black Panther to defeat foes like Rhino, Doc Ock and Green Goblin and learn that teamwork is the best way to save the day.",
 		"poster_path": "/dA4S18rnLx4sWW8agmLLKUvRM7n.jpg",
-		"vote_average": 7.3,
+		"vote_average": 7.4,
 		"title": "Marvel's Spidey and His Amazing Friends",
 		"slug": "marvels-spidey-and-his-amazing-friends",
 		"tags": [
@@ -2092,27 +2113,6 @@
 		"slug": "spider-man-homecoming",
 		"tags": [
 			"movie",
-			"company-420"
-		]
-	},
-	{
-		"backdrop_path": null,
-		"first_air_date": "2017-06-02",
-		"genre_ids": [],
-		"id": 203471,
-		"name": "Marvel’s Avengers: Secret Wars (Shorts)",
-		"origin_country": [
-			"US"
-		],
-		"original_language": "en",
-		"original_name": "Marvel’s Avengers: Secret Wars (Shorts)",
-		"overview": "Shorts episodes of Marvel’s Avengers as available at Disney +",
-		"poster_path": null,
-		"vote_average": 4,
-		"title": "Marvel’s Avengers: Secret Wars (Shorts)",
-		"slug": "marvels-avengers-secret-wars-shorts",
-		"tags": [
-			"tv",
 			"company-420"
 		]
 	},
@@ -3076,7 +3076,7 @@
 		"release_date": "2013-09-03",
 		"title": "Marvel One-Shot: Agent Carter",
 		"video": false,
-		"vote_average": 7.4,
+		"vote_average": 7.3,
 		"slug": "marvel-one-shot-agent-carter",
 		"tags": [
 			"movie",

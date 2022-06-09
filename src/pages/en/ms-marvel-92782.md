@@ -14,7 +14,7 @@ layout: ../../layouts/MainLayout.astro
 ## TMDB Data
 ```json
 {
-    "backdrop_path": "/reG6Pk1ABZEYssn8ZKzUC2VHJkT.jpg",
+    "backdrop_path": "/rlCRM7U5g2hcU1O8ylGcqsMYHIP.jpg",
     "first_air_date": "2022-06-08",
     "genre_ids": [
         10765,
@@ -29,8 +29,8 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_name": "Ms. Marvel",
     "overview": "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school — that is, until she gets super powers like the heroes she’s always looked up to. Life is easier with super powers, right?",
-    "poster_path": "/hJx9aFc8g32KjrW7mpv53cEvEDS.jpg",
-    "vote_average": 8.4,
+    "poster_path": "/4qoFtoPvFGjlIXYfFVNKhOwZ6zD.jpg",
+    "vote_average": 8,
     "title": "Ms. Marvel",
     "slug": "ms-marvel",
     "tags": [
