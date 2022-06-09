@@ -8,6 +8,8 @@ description: >-
   well as some behind the scenes footage (including a look at that supercool
   metallic bed that the elderly Yashida lies on in the lab in his fortress).
 type: movie
+tags: 
+    doc
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
