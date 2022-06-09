@@ -76,7 +76,11 @@
 
 import scrollIntoView from 'scroll-into-view-if-needed'
 
-import { FilteredListings, isUpcoming } from '~/src/helpers/listing-filters.ts'
+import { 
+	FilteredListings, 
+	isUpcoming, 
+	hasLogo
+} from '~/src/helpers/listing-filters.ts'
 
 import ListingColumn from './listing-column.vue'
 import CircleButton from './circle-button.vue'
@@ -180,6 +184,20 @@ export default {
 		}, 1000 )
 		
 		this.scrollToUpcomingListing()
+
+		// Count listings with logos
+		const hasLogoListings = this.sortedListings.filter( hasLogo )
+
+		console.log( `Listings with Logos: ${ hasLogoListings.length } / ${ this.sortedListings.length }` )
+
+		// const marvelKnights = new FilteredListings({ 
+		// 	listings: this.listings,  
+		// 	initialFilters: new Map([ 
+		// 		[ isMarvelKnightsAnimated, true ]
+		// 	 ]),
+		// })
+
+		// console.log('marvelKnights', marvelKnights.list)
 	}
 }
 </script>
