@@ -4,6 +4,7 @@ slug: the-wolverine
 description: >-
   Wolverine faces his ultimate nemesis - and tests of his physical, emotional,
   and mortal limits - in a life-changing voyage to modern-day Japan.
+logo_on_black: /.netlify/functions/fanart/the-wolverine-57c9026be2d94.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

@@ -7,6 +7,7 @@ description: >-
   that allows him to recover from virtually any wound, disease or toxin at a
   accelerated rate.
 type: tv
+logo_on_black: /.netlify/functions/fanart/wolverine-540569e035577.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

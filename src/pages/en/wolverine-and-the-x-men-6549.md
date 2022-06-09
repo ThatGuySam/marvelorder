@@ -6,6 +6,7 @@ description: >-
   increasingly powerful Mutant Response Division, but also to prevent a
   catastrophic future that Xavier has warned Wolverine must never come to pass.
 type: tv
+logo_on_black: /.netlify/functions/fanart/wolverine-and-the-x-men-52375c6d29f1e.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
