@@ -67,8 +67,14 @@ export function isMarvelKnightsAnimated ( listing ) {
     return isMarvelKnights( listing ) && isAnimatedGenre( listing )
 }
 
+export function hasLogo ( listing ) {
+    if ( typeof listing?.logo_on_black !== 'string' ) return false
+
+    return listing.logo_on_black.length > 0
+}
+
 export function hasFanartLogo ( listing ) {
-    return listing?.logo_on_black && listing.logo_on_black.includes( '/fanart/' )
+    return hasLogo( listing ) && listing.logo_on_black.includes( '/fanart/' )
 }
 
 
