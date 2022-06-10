@@ -7,6 +7,7 @@ description: >-
   investigate the new, the strange and the unknown around the globe, protecting
   the ordinary from the extraordinary.
 type: tv
+logo_on_black: /.netlify/functions/fanart/marvels-agents-of-shield-52521ded92142.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
