@@ -5,6 +5,7 @@ description: >-
   Two teenagers from very different backgrounds awaken to newly acquired
   superpowers which mysteriously link them to one another.
 type: tv
+logo_on_black: /.netlify/functions/fanart/marvels-cloak--dagger-5b1cd013ba251.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
