@@ -6,6 +6,7 @@ description: >-
   Avenger, in which Agent Carter, a member of the Strategic Scientific Reserve,
   is in search of the mysterious Zodiac.
 type: movie
+logo_on_black: /.netlify/functions/fanart/marvel-one-shot-agent-carter-53a58d2492e07.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

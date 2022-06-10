@@ -5,6 +5,7 @@ description: >-
   Agent Coulson stops at a convenience store and deals with a coincidental
   robbery during his visit.
 type: movie
+logo_on_black: /.netlify/functions/fanart/marvel-one-shot-a-funny-thing-happened-on-the-way-to-thors-h-53a438986236d.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

@@ -7,6 +7,7 @@ description: >-
   Nick Fury doesn't want to release Blonsky, the two agents decide to send a
   patsy to sabotage the meeting...
 type: movie
+logo_on_black: /.netlify/functions/fanart/marvel-one-shot-the-consultant-53a431ea100ed.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
