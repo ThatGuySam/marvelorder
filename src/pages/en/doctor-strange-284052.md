@@ -6,6 +6,7 @@ description: >-
   lease on life when a sorcerer takes him under her wing and trains him to
   defend the world against evil.
 type: movie
+logo_on_black: /.netlify/functions/fanart/doctor-strange-579c974e516ca.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
