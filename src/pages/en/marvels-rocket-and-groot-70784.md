@@ -5,6 +5,7 @@ description: >-
   Before becoming Guardians of the Galaxy, Rocket and Groot were bounty hunters
   trying to get a ship.
 type: tv
+logo_on_black: /.netlify/functions/fanart/marvels-rocket--groot-59b6b3a83145f.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
