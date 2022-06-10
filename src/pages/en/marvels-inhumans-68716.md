@@ -7,6 +7,7 @@ description: >-
   world and humanity around them may prove to not only save them, but Earth
   itself.
 type: tv
+logo_on_black: /.netlify/functions/fanart/marvels-the-inhumans-590cc04b00a44.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
