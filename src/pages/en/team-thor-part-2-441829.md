@@ -2,7 +2,7 @@
 title: 'Team Thor: Part 2'
 slug: team-thor-part-2
 description: >-
-  A continuation of the documentary spoof of what Thor and his roommate Darryl
+  A continuation of the spoof doc of what Thor and his roommate Darryl
   were up to during the events of "Captain America: Civil War". While Cap and
   Iron Man duke it out, Thor tries to pay Darryl his rent in Asgardian coins.
 type: movie
