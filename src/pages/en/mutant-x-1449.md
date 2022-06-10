@@ -15,6 +15,7 @@ description: >-
   fourth season, it was abruptly canceled in 2004 after the dismantling of
   Fireworks Entertainment, one of the show's production companies, ending the
   show on a cliffhanger.
+logo_on_black: /.netlify/functions/fanart/mutant-x-512671c120573.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
