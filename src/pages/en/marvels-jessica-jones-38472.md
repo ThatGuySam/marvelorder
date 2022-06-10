@@ -6,6 +6,7 @@ description: >-
   rebuilding her personal life and career as a detective who gets pulled into
   cases involving people with extraordinary abilities in New York City.
 type: tv
+logo_on_black: /.netlify/functions/fanart/marvels-aka-jessica-jones-55f55caf06d6e.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
