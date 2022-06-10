@@ -4,6 +4,7 @@ slug: dr-strange
 description: >-
   A psychiatrist becomes the new Sorcerer Supreme of the Earth in order to
   battle an evil Sorceress from the past.
+logo_on_black: /.netlify/functions/tmdb-image/uMoUh0cgZmAfbVF1aF9WGRfXKoh.webp?crop.bottom=0.73&crop.top=0.06
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
