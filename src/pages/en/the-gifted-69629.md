@@ -7,6 +7,7 @@ description: >-
   government, the family joins up with an underground network of mutants and
   must fight to survive.
 type: tv
+logo_on_black: /.netlify/functions/fanart/the-gifted-59cd8a1ab8663.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
