@@ -5,6 +5,7 @@ description: >-
   On the eve of his departure to Europe, Peter Parker tells Ned Leeds that he
   has several things to do before they leave.
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/wf7SV7nSgxjSB9nCcCZGkwWTAdd.webp?crop.top=0.1&crop.bottom=0.7
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
