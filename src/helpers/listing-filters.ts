@@ -23,12 +23,12 @@ export function isDoc ( listing ) {
 		return true
 	}
 
-	const docMatchingTerms = [
-		'making of',
+	const docMatchingTerms = new Set([
+        'making of',
 		'assembled',
 		'marvel studios:',
         'anniversary',
-	]
+    ])
 
 	// Check if our listing title contains any of the terms
 	for ( let term of docMatchingTerms ) {
@@ -36,6 +36,13 @@ export function isDoc ( listing ) {
 			return true
 		}
 	}
+
+    // overview has word documentary
+    if ( listing.overview.toLowerCase().includes( 'documentary' ) ) {
+        return true
+    }
+
+    
 
 	return false
 }
