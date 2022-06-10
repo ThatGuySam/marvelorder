@@ -7,6 +7,7 @@ description: >-
   two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from
   a previously unseen period in the history of the Marvel Cinematic Universe.
 type: movie
+logo_on_black: /.netlify/functions/fanart/captain-marvel-5bc353bd435c3.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
