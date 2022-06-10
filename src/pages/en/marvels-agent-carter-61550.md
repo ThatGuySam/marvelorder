@@ -9,6 +9,7 @@ description: >-
   trying to navigate life as a single woman in America, in the wake of losing
   the love of her life - Steve Rogers.
 type: tv
+logo_on_black: /.netlify/functions/fanart/marvels-agent-carter-547ef538a02d8.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
