@@ -8,6 +8,7 @@ description: >-
   confronted with the possibility that the voices he hears and the visions he
   sees might be real.
 type: tv
+logo_on_black: /.netlify/functions/fanart/legion-585b52e9b0a15.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
