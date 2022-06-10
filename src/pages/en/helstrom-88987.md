@@ -6,6 +6,7 @@ description: >-
   serial killer. The siblings have a complicated dynamic as they track down the
   terrorizing worst of humanity — each with their attitude and skills.
 type: tv
+logo_on_black: /.netlify/functions/fanart/marvels-helstrom-5f7ec53e1c83f.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
