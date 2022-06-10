@@ -5,6 +5,7 @@ description: >-
   Sergei Kravinoff is a big game hunter, who takes a magical serum giving him
   superhuman abilities and a longer life.
 type: movie
+logo_on_black: /.netlify/functions/fanart/kraven-the-hunter-60c7dc51977a8.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
