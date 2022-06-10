@@ -5,6 +5,9 @@ description: >-
   The X-Men are off to protect the Earth from its destruction at the hands of
   the Breakworld. And when it’s all over, nothing will ever be the same!
 type: movie
+genre_ids: [
+  16
+]
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
