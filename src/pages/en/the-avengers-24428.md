@@ -7,6 +7,7 @@ description: >-
   S.H.I.E.L.D., finds himself in need of a team to pull the world back from the
   brink of disaster. Spanning the globe, a daring recruitment effort begins!
 type: movie
+logo_on_black: /.netlify/functions/fanart/marvels-the-avengers-53f39d73300c2.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

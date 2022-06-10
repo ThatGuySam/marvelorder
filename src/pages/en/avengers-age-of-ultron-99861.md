@@ -9,6 +9,7 @@ description: >-
   alliances and unexpected action pave the way for an epic and unique global
   adventure.
 type: movie
+logo_on_black: /.netlify/functions/fanart/the-avengers-2-51eca0725c412.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

@@ -8,6 +8,7 @@ description: >-
   and restore order to the universe once and for all, no matter what
   consequences may be in store.
 type: movie
+logo_on_black: /.netlify/functions/fanart/avengers-infinity-war---part-ii-5c0c46d26f593.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
