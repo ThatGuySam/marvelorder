@@ -5,6 +5,7 @@ description: >-
   Daredevil, Jessica Jones, Luke Cage and Iron Fist join forces to take on
   common enemies as a sinister conspiracy threatens New York City.
 type: tv
+logo_on_black: /.netlify/functions/fanart/marvels-the-defenders-594bfae9075c1.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
