@@ -26,7 +26,8 @@ export function isDoc ( listing ) {
 	const docMatchingTerms = [
 		'making of',
 		'assembled',
-		'marvel studios:'
+		'marvel studios:',
+        'anniversary',
 	]
 
 	// Check if our listing title contains any of the terms
