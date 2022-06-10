@@ -8,7 +8,7 @@ description: >-
   Reapers themselves. Blade is asked by the Vampire Nation for his help in
   preventing a nightmare plague that would wipe out both humans and vampires.
 type: movie
-logo_on_black: /.netlify/functions/tmdb-image/xOFKl3iqjYx3t0gla3ir1PSOJWb.webp?crop.top=0.77&crop.bottom=0.1
+logo_on_black: /.netlify/functions/fanart/blade-ii-514820db94dc2.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
