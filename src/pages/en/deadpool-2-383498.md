@@ -4,6 +4,7 @@ slug: deadpool-2
 description: >-
   Wisecracking mercenary Deadpool battles the evil and powerful Cable and other
   bad guys to save a boy's life.
+logo_on_black: /.netlify/functions/fanart/deadpool-2-5ace35fc5f5cd.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

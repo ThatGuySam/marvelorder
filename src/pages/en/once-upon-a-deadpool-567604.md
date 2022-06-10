@@ -6,6 +6,7 @@ description: >-
   Deadpool 2 as a Princess Bride-esque story that's full of magic, wonder & zero
   F's.
 type: movie
+logo_on_black: /.netlify/functions/fanart/once-upon-a-deadpool-5c3f2cb3d33dc.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

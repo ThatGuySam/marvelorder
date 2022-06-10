@@ -7,6 +7,7 @@ description: >-
   accelerated healing powers, adopts the alter ego Deadpool. Armed with his new
   abilities and a dark, twisted sense of humor, Deadpool hunts down the man who
   nearly destroyed his life.
+logo_on_black: /.netlify/functions/fanart/deadpool-567c7f079a308.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
