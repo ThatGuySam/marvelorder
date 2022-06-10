@@ -546,6 +546,25 @@
 	{
 		"adult": false,
 		"backdrop_path": null,
+		"genre_ids": [],
+		"id": 986056,
+		"original_language": "en",
+		"original_title": "Thunderbolts",
+		"overview": "A group of supervillains and antiheroes go on missions for the government. Based on the comic book series of the same name.",
+		"poster_path": null,
+		"release_date": "",
+		"title": "Thunderbolts",
+		"video": false,
+		"vote_average": 0,
+		"slug": "thunderbolts",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
 		"genre_ids": [
 			16,
 			28,
@@ -860,33 +879,12 @@
 		"original_language": "en",
 		"original_name": "Ms. Marvel",
 		"overview": "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school — that is, until she gets super powers like the heroes she’s always looked up to. Life is easier with super powers, right?",
-		"poster_path": "/4qoFtoPvFGjlIXYfFVNKhOwZ6zD.jpg",
-		"vote_average": 8,
+		"poster_path": "/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
+		"vote_average": 8.2,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
 		"tags": [
 			"tv",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/dLaiXS1LSKEwV1gu7BUxQAa0j9n.jpg",
-		"genre_ids": [
-			99
-		],
-		"id": 979160,
-		"original_language": "en",
-		"original_title": "A Fan's Guide to Ms. Marvel",
-		"overview": "A documentary short that gives you an exclusive look behind the groundbreaking original series, \"Ms. Marvel\", from its comic book origins to its development and production as Marvel Studios’ next hit series on Disney+. It features interviews with its award winning filmmaking team and the show’s captivating star, newcomer Iman Vellani.",
-		"poster_path": "/aolMYjs6QWonQFlnRGvU3o5zeQH.jpg",
-		"release_date": "2022-06-01",
-		"title": "A Fan's Guide to Ms. Marvel",
-		"video": false,
-		"vote_average": 7,
-		"slug": "a-fans-guide-to-ms-marvel",
-		"tags": [
-			"movie",
 			"company-420"
 		]
 	},
@@ -1003,7 +1001,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
+		"backdrop_path": "/ocUp7DJBIc8VJgLEw1prcyK1dYv.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -1493,7 +1491,7 @@
 		"release_date": "2019-12-20",
 		"title": "Celebrating Marvel's Stan Lee",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.2,
 		"slug": "celebrating-marvels-stan-lee",
 		"tags": [
 			"movie",
