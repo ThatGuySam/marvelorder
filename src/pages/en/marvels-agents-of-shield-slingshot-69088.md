@@ -8,6 +8,7 @@ description: >-
   fulfill, one that will test her abilities and will include tense encounters
   with S.H.I.E.L.D. team members.
 type: tv
+logo_on_black: /.netlify/functions/tmdb-image/bwJej7WdmGRMCMyuDlotwAqVX7S.webp?crop.top=0.73&crop.bottom=0.08
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
