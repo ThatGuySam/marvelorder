@@ -6,6 +6,7 @@ description: >-
   were up to during the events of "Captain America: Civil War". While Cap and
   Iron Man duke it out, Thor tries to pay Darryl his rent in Asgardian coins.
 type: movie
+logo_on_black: /.netlify/functions/fanart/team-thor-part-2-59a31b9ebd1ec.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
