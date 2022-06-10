@@ -4,11 +4,11 @@
 
 		<div 
 			ref="row"
-			class="listing-row flex overflow-x-auto whitespace-no-wrap" 
+			class="listing-row flex overflow-x-auto whitespace-no-wrap px-32" 
 			style="scroll-snap-type: x mandatory;"
 		>
 
-			<div class="start-cap w-full flex-shrink-0 max-w-xs" />
+			<div class="start-cap w-full flex-shrink-0 max-w-xs snap-start" />
 
 			<template
 				v-for="( listing, index ) in sortedListings"
@@ -29,7 +29,7 @@
 				/>
 			</template>
 
-			<div class="end-cap  w-full flex-shrink-0 max-w-xs snap-end" />
+			<div class="end-cap w-full flex-shrink-0 max-w-xs snap-end" />
 
 		</div>
 
@@ -187,8 +187,15 @@ export default {
 
 		// Count listings with logos
 		const hasLogoListings = this.sortedListings.filter( hasLogo )
+		const noLogoListings = this.sortedListings.filter( listing => !hasLogo( listing ) )
 
 		console.log( `Listings with Logos: ${ hasLogoListings.length } / ${ this.sortedListings.length }` )
+
+
+		console.log( 'Listings without Logos:' )
+		for ( const listing of noLogoListings ) {
+			console.log( `${ listing.title } (${ listing.id })` )
+		}
 
 		// const marvelKnights = new FilteredListings({ 
 		// 	listings: this.listings,  
