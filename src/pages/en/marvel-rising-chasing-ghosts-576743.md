@@ -5,6 +5,7 @@ description: >-
   Hot on the trails of Sheath and Exile, Ghost-Spider teams up with the rest of
   the Secret Warriors to bring down the villains for good.
 type: movie
+logo_on_black: /.netlify/functions/fanart/marvel-rising-chasing-ghosts-5e79da30345be.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
