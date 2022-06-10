@@ -3,6 +3,9 @@ title: Marvel Studios' 2021 Disney+ Day Special
 slug: marvel-studios-2021-disney-day-special
 description: 'Explore the Disney+ series of the MCU—past, present and future.'
 type: movie
+tags: [
+    doc
+]
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
