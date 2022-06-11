@@ -26,6 +26,7 @@ layout: ../../layouts/MainLayout.astro
     "original_title": "The Guardians of the Galaxy Holiday Special",
     "overview": "Before Star-Lord, Gamora, Drax, Rocket, Mantis and Groot hit the big screen with the next Guardians of the Galaxy film in 2023, watch the Guardians engage in some spirited shenanigans in an all-new original special, created for Disney+, during the 2022 holiday season.",
     "poster_path": "/A7NLWwvgzlbg8RBJKPHlEszdD74.jpg",
+    "release_date": "",
     "title": "The Guardians of the Galaxy Holiday Special",
     "video": false,
     "vote_average": 0,

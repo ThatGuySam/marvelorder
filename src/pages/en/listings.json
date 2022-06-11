@@ -403,6 +403,7 @@
 		"original_title": "The Guardians of the Galaxy Holiday Special",
 		"overview": "Before Star-Lord, Gamora, Drax, Rocket, Mantis and Groot hit the big screen with the next Guardians of the Galaxy film in 2023, watch the Guardians engage in some spirited shenanigans in an all-new original special, created for Disney+, during the 2022 holiday season.",
 		"poster_path": "/A7NLWwvgzlbg8RBJKPHlEszdD74.jpg",
+		"release_date": "",
 		"title": "The Guardians of the Galaxy Holiday Special",
 		"video": false,
 		"vote_average": 0,
@@ -546,12 +547,16 @@
 	{
 		"adult": false,
 		"backdrop_path": null,
-		"genre_ids": [],
+		"genre_ids": [
+			878,
+			12,
+			28
+		],
 		"id": 986056,
 		"original_language": "en",
 		"original_title": "Thunderbolts",
 		"overview": "A group of supervillains and antiheroes go on missions for the government. Based on the comic book series of the same name.",
-		"poster_path": null,
+		"poster_path": "/bnm574Ss7Z36OLj4c1vV9QO2oye.jpg",
 		"release_date": "",
 		"title": "Thunderbolts",
 		"video": false,
@@ -878,9 +883,9 @@
 		],
 		"original_language": "en",
 		"original_name": "Ms. Marvel",
-		"overview": "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school — that is, until she gets super powers like the heroes she’s always looked up to. Life is easier with super powers, right?",
-		"poster_path": "/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
-		"vote_average": 8.2,
+		"overview": "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school — that is, until she gets superpowers like the heroes she’s always looked up to. Life is easier with superpowers, right?",
+		"poster_path": "/dquIzIBVYcoCMnQ31EcwBX4gXoT.jpg",
+		"vote_average": 7.9,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
 		"tags": [
@@ -3960,6 +3965,31 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": "/oUi2pvNbHCUiEFSqawp5dJdQNMK.jpg",
+		"genre_ids": [
+			28,
+			12,
+			16,
+			14,
+			878
+		],
+		"id": 13647,
+		"media_type": "movie",
+		"original_language": "en",
+		"original_title": "The Invincible Iron Man",
+		"overview": "When a cocky industrialist's efforts to raise an ancient Chinese temple leads him to be seriously wounded and captured by enemy forces, he must use his ideas for a revolutionary power armor in order to fight back as a superhero.",
+		"poster_path": "/eebNTSRa5Hh5skPKGdGJIJpo9Ls.jpg",
+		"release_date": "2007-01-23",
+		"title": "The Invincible Iron Man",
+		"video": false,
+		"vote_average": 6.2,
+		"slug": "the-invincible-iron-man",
+		"tags": [
+			"list-8204859"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/ohfWCHT65P7b3kQvZnoy2BL95MB.jpg",
 		"genre_ids": [
 			53,
@@ -4622,6 +4652,31 @@
 		]
 	},
 	{
+		"backdrop_path": "/ijOzFQw37jjfZdG1zproCkO6oue.jpg",
+		"first_air_date": "1994-09-24",
+		"genre_ids": [
+			16,
+			10759,
+			10765
+		],
+		"id": 3097,
+		"media_type": "tv",
+		"name": "Iron Man",
+		"origin_country": [
+			"US"
+		],
+		"original_language": "en",
+		"original_name": "Iron Man",
+		"overview": "Industrialist Tony Stark leads a private team of superheroes as Iron Man against the forces of evil.",
+		"poster_path": "/nTQWWH6CFtl37x1nPx8HRwbwvGn.jpg",
+		"vote_average": 7,
+		"title": "Iron Man",
+		"slug": "iron-man",
+		"tags": [
+			"list-8204859"
+		]
+	},
+	{
 		"adult": false,
 		"backdrop_path": "/wQNYzjQKSZZ1eDJ0w1O62HPFDfN.jpg",
 		"genre_ids": [
@@ -5223,6 +5278,33 @@
 		"tags": [
 			"tv",
 			"company-19551"
+		]
+	},
+	{
+		"backdrop_path": "/vhbMTE6UVbIoyiD262wRYwFiNBa.jpg",
+		"first_air_date": "1966-09-05",
+		"genre_ids": [
+			16,
+			10759,
+			10765,
+			10762
+		],
+		"id": 2164,
+		"media_type": "tv",
+		"name": "The Marvel Super Heroes",
+		"origin_country": [
+			"CA",
+			"US"
+		],
+		"original_language": "en",
+		"original_name": "The Marvel Super Heroes",
+		"overview": "This cartoon series, characterized by extremely limited animation, features five of the most popular super-powered heroes from Marvel Comics: the Incredible Hulk, the Mighty Thor, Captain America, Iron Man, and the Sub-Mariner.",
+		"poster_path": "/iqBeSf9akkdX7SQt10ryd3T29Mz.jpg",
+		"vote_average": 8.8,
+		"title": "The Marvel Super Heroes",
+		"slug": "the-marvel-super-heroes",
+		"tags": [
+			"list-8204859"
 		]
 	},
 	{

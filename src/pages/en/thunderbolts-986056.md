@@ -11,12 +11,16 @@ layout: ../../layouts/MainLayout.astro
 {
     "adult": false,
     "backdrop_path": null,
-    "genre_ids": [],
+    "genre_ids": [
+        878,
+        12,
+        28
+    ],
     "id": 986056,
     "original_language": "en",
     "original_title": "Thunderbolts",
     "overview": "A group of supervillains and antiheroes go on missions for the government. Based on the comic book series of the same name.",
-    "poster_path": null,
+    "poster_path": "/bnm574Ss7Z36OLj4c1vV9QO2oye.jpg",
     "release_date": "",
     "title": "Thunderbolts",
     "video": false,
