@@ -304,8 +304,6 @@
 		"adult": false,
 		"backdrop_path": "/66zclx15SRNqXMMQqz6RqLdIzgS.jpg",
 		"genre_ids": [
-			28,
-			12,
 			878
 		],
 		"id": 617126,
@@ -403,7 +401,6 @@
 		"original_title": "The Guardians of the Galaxy Holiday Special",
 		"overview": "Before Star-Lord, Gamora, Drax, Rocket, Mantis and Groot hit the big screen with the next Guardians of the Galaxy film in 2023, watch the Guardians engage in some spirited shenanigans in an all-new original special, created for Disney+, during the 2022 holiday season.",
 		"poster_path": "/A7NLWwvgzlbg8RBJKPHlEszdD74.jpg",
-		"release_date": "",
 		"title": "The Guardians of the Galaxy Holiday Special",
 		"video": false,
 		"vote_average": 0,
@@ -470,7 +467,6 @@
 		"original_title": "Untitled Marvel Halloween Special",
 		"overview": "A Marvel Halloween special for Disney+ based around the character Werewolf by Night.",
 		"poster_path": null,
-		"release_date": "",
 		"title": "Untitled Marvel Halloween Special",
 		"video": false,
 		"vote_average": 0,
@@ -547,16 +543,12 @@
 	{
 		"adult": false,
 		"backdrop_path": null,
-		"genre_ids": [
-			878,
-			12,
-			28
-		],
+		"genre_ids": [],
 		"id": 986056,
 		"original_language": "en",
 		"original_title": "Thunderbolts",
 		"overview": "A group of supervillains and antiheroes go on missions for the government. Based on the comic book series of the same name.",
-		"poster_path": "/bnm574Ss7Z36OLj4c1vV9QO2oye.jpg",
+		"poster_path": null,
 		"release_date": "",
 		"title": "Thunderbolts",
 		"video": false,
@@ -884,7 +876,7 @@
 		"original_language": "en",
 		"original_name": "Ms. Marvel",
 		"overview": "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school — that is, until she gets superpowers like the heroes she’s always looked up to. Life is easier with superpowers, right?",
-		"poster_path": "/dquIzIBVYcoCMnQ31EcwBX4gXoT.jpg",
+		"poster_path": "/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
 		"vote_average": 7.9,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
@@ -1089,7 +1081,7 @@
 		"release_date": "2021-11-12",
 		"title": "Marvel Studios' 2021 Disney+ Day Special",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7.3,
 		"slug": "marvel-studios-2021-disney-day-special",
 		"tags": [
 			"movie",
@@ -3132,6 +3124,31 @@
 		]
 	},
 	{
+		"backdrop_path": "/6ZqXMR9aLLdGjbxkIMo77EhZexy.jpg",
+		"first_air_date": "2013-05-26",
+		"genre_ids": [
+			10759,
+			16,
+			10765
+		],
+		"id": 59427,
+		"media_type": "tv",
+		"name": "Marvel's Avengers Assemble",
+		"origin_country": [
+			"US"
+		],
+		"original_language": "en",
+		"original_name": "Marvel's Avengers Assemble",
+		"overview": "The further adventures of the Marvel Universe's mightiest general membership superhero team. With an all-star roster consisting of Iron Man, Captain America, Thor, Hulk, Hawkeye, Falcon and, occasionally--when she feels like it and only when she feels like it--Black Widow, the Avengers are a team in the truest sense. The Avengers save the world from the biggest threats imaginable--threats no single super hero could withstand.",
+		"poster_path": "/aVYPq7FSvsdNQOXVIFnndXJPCXn.jpg",
+		"vote_average": 7.6,
+		"title": "Marvel's Avengers Assemble",
+		"slug": "marvels-avengers-assemble",
+		"tags": [
+			"list-8204859"
+		]
+	},
+	{
 		"adult": false,
 		"backdrop_path": null,
 		"genre_ids": [
@@ -3588,6 +3605,32 @@
 		"tags": [
 			"tv",
 			"company-11106"
+		]
+	},
+	{
+		"backdrop_path": "/objUOSDFuZa3PgTrS3OPi3JwYR6.jpg",
+		"first_air_date": "2010-10-20",
+		"genre_ids": [
+			10759,
+			16,
+			10765,
+			10751
+		],
+		"id": 33623,
+		"media_type": "tv",
+		"name": "The Avengers: Earth's Mightiest Heroes",
+		"origin_country": [
+			"US"
+		],
+		"original_language": "en",
+		"original_name": "The Avengers: Earth's Mightiest Heroes",
+		"overview": "When the powers of a single hero are not enough to save the world, the world’s greatest heroes—Iron Man, Thor, Captain America, The Hulk, Ant-Man/Giant Man and Wasp—assemble to form the Avengers.",
+		"poster_path": "/eyUeOUefufuBCeih3lOi2NkFD9r.jpg",
+		"vote_average": 8.3,
+		"title": "The Avengers: Earth's Mightiest Heroes",
+		"slug": "the-avengers-earths-mightiest-heroes",
+		"tags": [
+			"list-8204859"
 		]
 	},
 	{
@@ -4168,7 +4211,7 @@
 		"original_language": "en",
 		"original_title": "Elektra",
 		"overview": "Elektra the warrior survives a near-death experience, becomes an assassin-for-hire, and tries to protect her two latest targets, a single father and his young daughter, from a group of supernatural assassins.",
-		"poster_path": "/Z4dAOxjAHTUZO6DJ2WVAsxzwe3.jpg",
+		"poster_path": "/gC6s6NKHneSrOKyQZnUMb443RKU.jpg",
 		"release_date": "2005-01-13",
 		"title": "Elektra",
 		"video": false,
@@ -4479,8 +4522,10 @@
 		"slug": "the-avengers-united-they-stand",
 		"tags": [
 			"tv",
-			"company-19551"
-		]
+			"company-19551",
+			"list-8204859"
+		],
+		"media_type": "tv"
 	},
 	{
 		"backdrop_path": "/wgA0uzHZx2NaCLoBucNCQsD6eYS.jpg",

@@ -33,8 +33,10 @@ layout: ../../layouts/MainLayout.astro
     "slug": "the-avengers-united-they-stand",
     "tags": [
         "tv",
-        "company-19551"
-    ]
+        "company-19551",
+        "list-8204859"
+    ],
+    "media_type": "tv"
 }
 
 ```

@@ -12,8 +12,6 @@ layout: ../../layouts/MainLayout.astro
     "adult": false,
     "backdrop_path": "/66zclx15SRNqXMMQqz6RqLdIzgS.jpg",
     "genre_ids": [
-        28,
-        12,
         878
     ],
     "id": 617126,
