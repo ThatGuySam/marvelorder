@@ -10,12 +10,8 @@
 			flexBasis: `${ articleWidth + 2 }px`, 
 		}"
 	>
-		<component
-			:is="expanded ? 'div' : 'a'"
-			:href="listing.endpoint" 
+		<div
 			class="relative"
-
-			@click.prevent.capture="!expanded && expand()"
 		>
 			<Transition
 				name="custom-classes"
@@ -28,6 +24,8 @@
 						`listing-card-container flex gap-8 ${ outerDirection } h-screen justify-${ modes.outer }`,
 						// expanded ? 'pointer-event-none' : '',
 					]"
+
+					@click.prevent.capture="expand()"
 				>
 					<div 
 						:class="[ 
@@ -38,23 +36,27 @@
 					>
 
 						<div class="inner-container relative py-16">
-							<div 
-								:class="`listing-card-content absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 flex flex-col justify-center`"
-								:style="{ width: `${ markWidth }px` }"
+							<a
+								:href="listing.endpoint" 
 							>
-								<!-- <div class="bg-green-600 absolute inset-0" /> -->
-								<template v-if="logo">
-									<ListingLogo 
-										:src="logo"
-										class="h-24 w-auto object-contain relative"
-										:alt="title"
-									/>
-								</template>
-								<h2 
-									v-else
-									class="w-full text-3xl test-white font-bold text-center whitespace-normal"
-								>{{ title }}</h2>
-							</div>
+								<div 
+									:class="`listing-card-content absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 flex flex-col justify-center`"
+									:style="{ width: `${ markWidth }px` }"
+								>
+									<!-- <div class="bg-green-600 absolute inset-0" /> -->
+									<template v-if="logo">
+										<ListingLogo 
+											:src="logo"
+											class="h-24 w-auto object-contain relative"
+											:alt="title"
+										/>
+									</template>
+									<h2 
+										v-else
+										class="w-full text-3xl test-white font-bold text-center whitespace-normal"
+									>{{ title }}</h2>
+								</div>
+							</a>
 						</div>
 
 						<div 
@@ -124,7 +126,7 @@
 					</CircleButton>
 				</div>
 			</Transition>
-		</component>
+		</div>
 
 		<div
 			v-if="!expanded"
