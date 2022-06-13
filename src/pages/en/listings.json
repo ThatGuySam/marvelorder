@@ -876,8 +876,8 @@
 		"original_language": "en",
 		"original_name": "Ms. Marvel",
 		"overview": "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school — that is, until she gets superpowers like the heroes she’s always looked up to. Life is easier with superpowers, right?",
-		"poster_path": "/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
-		"vote_average": 7.9,
+		"poster_path": "/cdkyMYdu8ao26XOBvilNzLneUg1.jpg",
+		"vote_average": 8,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
 		"tags": [
@@ -930,7 +930,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/vfWdZYGR5505zrCdgTHteFyARu3.jpg",
+		"backdrop_path": "/pUP3Owwq7WABfUV7TahwzstmXKC.jpg",
 		"first_air_date": "2022-03-30",
 		"genre_ids": [
 			10759,
@@ -2409,7 +2409,7 @@
 		"original_language": "en",
 		"original_title": "X-Men: Apocalypse",
 		"overview": "After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.",
-		"poster_path": "/2mtQwJKVKQrZgTz49Dizb25eOQQ.jpg",
+		"poster_path": "/qttNmCib9gHhR5q0QoZ3FgmGom9.jpg",
 		"release_date": "2016-05-18",
 		"title": "X-Men: Apocalypse",
 		"video": false,
@@ -5286,8 +5286,8 @@
 		"id": 1482,
 		"name": "Spider-Man",
 		"origin_country": [
-			"CA",
-			"US"
+			"US",
+			"CA"
 		],
 		"original_language": "en",
 		"original_name": "Spider-Man",

@@ -33,8 +33,8 @@ layout: ../../layouts/MainLayout.astro
     "id": 1482,
     "name": "Spider-Man",
     "origin_country": [
-        "CA",
-        "US"
+        "US",
+        "CA"
     ],
     "original_language": "en",
     "original_name": "Spider-Man",
