@@ -29,7 +29,7 @@
             >Image provided by <a class="underline" href="https://fanart.tv/">Fanart.tv</a></div>
         </div>
 
-        <span class="relative z-0 inline-flex text-center md:flex-row flex-col shadow-sm md:divide-x md:divide-y-0 divide-y divide-gray-700 border border-gray-300 rounded-md bg-gray-900 md:py-3 md:px-0 px-4">
+        <span class="relative z-0 inline-flex text-center md:flex-row flex-col shadow-sm md:divide-x md:divide-y-0 divide-y divide-gray-700 border border-gray-300 rounded-md bg-black/50 md:py-3 md:px-0 px-4">
             <a
                 v-for="(link, i) in links"
                 :key="i"
