@@ -1,6 +1,8 @@
 import { DateTime } from 'luxon'
 
 // @ts-ignore
+import * as CONFIG from '~/src/config.ts'
+// @ts-ignore
 import { Listing } from '~/src/helpers/types.ts'
 // @ts-ignore
 import { makeListingEndpoint } from '~/src/helpers/listing.ts'
@@ -66,6 +68,10 @@ export class MappedListing {
 
     get endpoint () {
         return makeListingEndpoint( this.sourceListing )
+    }
+
+    get githubEditUrl () {
+        return `${ CONFIG.GITHUB_EDIT_URL }src/pages${ this.endpoint }.md`
     }
 
     get elementId () {
