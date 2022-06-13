@@ -6,6 +6,7 @@
             /> -->
             <ListingLogo 
                 :src="listing"
+                class="h-full w-full object-contain relative"
             />
         </div>
 
