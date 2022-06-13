@@ -95,11 +95,20 @@
 			<Transition>
 				<div
 					v-if="expanded"
-					class="relative h-screen"
+					class="relative h-screen bg-black z-10"
 				>
+					<div 
+						class="backdrop absolute inset-0"
+					>
+						<TmdbImage
+							:src="listing.backdrop_path"
+							class="absolute w-full h-screen object-cover inset-0 linear-mask"
+						/>
+					</div>
+
 					<ListingContent 
 						:listing="listing"
-						class="h-full overflow-scroll p-8 pb-72"
+						class="relative h-full overflow-scroll p-8 pb-72"
 					/>
 
 					<CircleButton
@@ -147,14 +156,15 @@ import ListingLogo from './listing-logo.vue'
 import ListingContent from './listing-content.vue'
 import CircleButton from './circle-button.vue'
 import SeenButton from './seen-button.vue'
-
+import TmdbImage from './tmdb-image.vue'
 
 export default {
 	components: {
 		ListingLogo,
 		ListingContent, 
 		CircleButton,
-		SeenButton
+		SeenButton,
+		TmdbImage
 	},
     props: {
         listing: {
