@@ -6,8 +6,8 @@
 			expanded ? 'listing-card-expanded border-x overflow-hidden' : '',
 		]" 
 		:style="{ 
-			maxWidth: `${ articleWidth }px`, 
-			flexBasis: `${ articleWidth }px`, 
+			maxWidth: `${ articleWidth + 2 }px`, 
+			flexBasis: `${ articleWidth + 2 }px`, 
 		}"
 	>
 		<component
@@ -96,6 +96,9 @@
 				<div
 					v-if="expanded"
 					class="relative h-screen bg-black z-10"
+					:style="{
+						width: `${ articleWidth }px`
+					}"
 				>
 					<div 
 						class="backdrop absolute inset-0"
