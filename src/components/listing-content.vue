@@ -9,6 +9,14 @@
 
         <h1 class="content-title text-3xl md:text-5xl font-black" id="overview">{{ listing.title }}</h1>
 
+        <div
+            v-if="daysUntilRelease !== null"
+            class="w-full"
+        >
+            <div class="text-xs">Releases in</div>
+            <div class="text-2xl font-bold">{{ daysUntilRelease }} Days</div>
+        </div>
+
 		<h2  class="font-bold" id="description">Description</h2>
 		<div class="content-description">
 			{{ listing.overview }}
@@ -53,10 +61,17 @@
 </template>
 
 <script>
+import { DateTime, Interval } from 'luxon'
+
 import { makeFunctionUrlFromTmdb } from '~/src/helpers/url.ts'
-import { hasFanartLogo } from '~/src/helpers/listing-filters.ts'
+import { 
+    hasFanartLogo, 
+    isUpcoming
+} from '~/src/helpers/listing-filters.ts'
 
 import ListingLogo from './listing-logo.vue'
+
+const now = DateTime.now()
 
 export default {
     components: {
@@ -72,6 +87,15 @@ export default {
         hasFanartLogo
     },
     computed: {
+        daysUntilRelease () {
+            if ( !isUpcoming( this.listing ) ) return null
+
+            this.listing.date
+
+            const untilRelease = Interval.fromDateTimes( now, this.listing.date )
+
+            return Math.round( untilRelease.length('days') )
+        },
         links () {
             return [
                 {
