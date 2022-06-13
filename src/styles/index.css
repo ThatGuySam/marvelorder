@@ -405,3 +405,7 @@ h2.heading {
 
 	opacity: 1;
 }
+
+.linear-mask {
+	mask-image: linear-gradient(to top, rgba(0, 0, 0, 0) 25%, rgba(0, 0, 0, 0.25));
+}
