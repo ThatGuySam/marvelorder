@@ -45,6 +45,7 @@ function getOptions( eventUrlString ) {
         // q = 95,
         'crop.top': cropTop = 0,
         'crop.bottom': cropBottom = 0,
+        'transparent': transparent = 1,
         // format = null,
     } = Object.fromEntries( eventUrl.searchParams )
 
@@ -72,7 +73,8 @@ function getOptions( eventUrlString ) {
         cropTop,
         cropBottom,
         contentUrl,
-        requestExtension
+        requestExtension, 
+        transparent: Number( transparent ),
         // format,
     }
 }
@@ -183,38 +185,48 @@ export async function handler( event ) {
             .toBuffer()
     }
 
-    // Trim source image
+    // Rotate and Resize the image
     workingBuffer = await sharp( workingBuffer )
         .resize(width, null, { withoutEnlargement: true })
-        .trim()
-        .toBuffer()
-
-    // Set contrast and brightness for mask - https://github.com/lovell/sharp/issues/1958#issuecomment-552115591
-    const contrast = 1.1;
-    const brightness = 6.5;
-
-    // Use an RGB channel buffer to create a easy Mask
-    // https://github.com/lovell/sharp/issues/1113#issuecomment-363187713
-    const maskBuffer = await sharp( workingBuffer )
         .rotate()
-        // .greyscale()
-        .extractChannel('red') // also B or G would work
-        .linear(contrast, -(128 * contrast) + 128)
-        .modulate({ brightness: brightness })
         .toBuffer()
+
+    // console.log('options.transparent', options.transparent)
+
+    let maskBuffer = []
+
+    // Handle image transparency
+    if ( !!options.transparent ) {
+        // Trim source image
+        workingBuffer = await sharp( workingBuffer )
+            .trim()
+            .toBuffer()
+
+        // Set contrast and brightness for mask - https://github.com/lovell/sharp/issues/1958#issuecomment-552115591
+        const contrast = 1.1;
+        const brightness = 6.5;
+
+        // Use an RGB channel buffer to create a easy Mask
+        // https://github.com/lovell/sharp/issues/1113#issuecomment-363187713
+        maskBuffer = await sharp( workingBuffer )
+            // .rotate()
+            // .greyscale()
+            .extractChannel('red') // also B or G would work
+            .linear(contrast, -(128 * contrast) + 128)
+            .modulate({ brightness: brightness })
+            .toBuffer()
+    }
 
 
     // The format methods are just to set options: they don't
     // make it return that format.
     const { info, data: outputBuffer } = await sharp( workingBuffer )
-        .rotate()
         .ensureAlpha()
         .joinChannel( maskBuffer )
         // .jpeg({ quality, force: requestExtension === 'jpg' })
         // .png({ quality, force: true })
         .webp({ quality, force: true })
         // .avif({ quality, force: requestExtension === 'avif' })
-        // Trims of any transparent pixels - https://github.com/lovell/sharp/issues/1246#issuecomment-393854745
         .toBuffer({ resolveWithObject: true })
 
     if (outputBuffer.length > MAX_RESPONSE_SIZE) {
