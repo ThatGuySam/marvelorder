@@ -106,6 +106,7 @@
 						class="backdrop absolute inset-0"
 					>
 						<TmdbImage
+							v-if="!!listing.backdrop_path"
 							:src="listing.backdrop_path"
 							class="absolute w-full h-screen object-cover inset-0 linear-mask"
 						/>
