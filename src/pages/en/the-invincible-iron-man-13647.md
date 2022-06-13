@@ -5,6 +5,7 @@ description: >-
   When a cocky industrialist's efforts to raise an ancient Chinese temple leads
   him to be seriously wounded and captured by enemy forces, he must use his
   ideas for a revolutionary power armor in order to fight back as a superhero.
+logo_on_black: /.netlify/functions/fanart/invincible-iron-man-5ccd4a2e2817a.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

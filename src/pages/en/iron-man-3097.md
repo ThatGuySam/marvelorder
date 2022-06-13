@@ -4,6 +4,7 @@ slug: iron-man
 description: >-
   Industrialist Tony Stark leads a private team of superheroes as Iron Man
   against the forces of evil.
+logo_on_black: /.netlify/functions/fanart/iron-man-5e71877a7bf7c.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
