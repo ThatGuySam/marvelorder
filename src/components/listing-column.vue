@@ -2,8 +2,8 @@
 	<article 
 		:class="[
 			'listing-card group relative w-full flex-shrink-0 flex-grow-0 snap-start',
-			'transition-all duration-750 ease-in-out',
-			expanded ? 'listing-card-expanded border-x' : '',
+			'transition-all duration-500 ease-in-out',
+			expanded ? 'listing-card-expanded border-x overflow-hidden' : '',
 		]" 
 		:style="{ 
 			maxWidth: `${ articleWidth }px`, 
