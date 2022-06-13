@@ -1,12 +1,9 @@
 <template>
     <div class="flex flex-col gap-8 pb-16">
-        <div class="relative aspect-video">
-            <!-- <img 
-                :src="backdropUrl"
-            /> -->
+        <div class="relative aspect-video w-full flex items-center px-12">
             <ListingLogo 
                 :src="listing"
-                class="h-full w-full object-contain relative"
+                class="h-auto w-full relative transition-all"
             />
         </div>
 
