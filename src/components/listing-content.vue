@@ -99,6 +99,10 @@ export default {
         links () {
             return [
                 {
+                    label: 'Full details',
+                    href: this.listing.endpoint
+                },
+                {
                     label: 'Edit on GitHub',
                     href: this.listing.githubEditUrl
                 },
