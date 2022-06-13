@@ -8,6 +8,7 @@ description: >-
   and only when she feels like it--Black Widow, the Avengers are a team in the
   truest sense. The Avengers save the world from the biggest threats
   imaginable--threats no single super hero could withstand.
+logo_on_black: /.netlify/functions/fanart/avengers-assemble-2013-53b98665b250b.webp
 layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data

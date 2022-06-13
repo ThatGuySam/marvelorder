@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'The Avengers: United They Stand'
 slug: the-avengers-united-they-stand
 description: >-
@@ -8,6 +7,7 @@ description: >-
   of humanity, when the forces of evil are so overwhelming that no single hero
   has the power to save the world, when there is no hope left…the AVENGERS
   ASSEMBLE!
+logo_on_black: /.netlify/functions/fanart/avengers-1999-5da2f2765bc19.webp
 type: tv
 layout: ../../layouts/MainLayout.astro
 ---
