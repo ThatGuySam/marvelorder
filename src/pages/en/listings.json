@@ -796,8 +796,9 @@
 		"backdrop_path": "/jpj3dBvDXzGF6Lg7gcg9QTIXYHw.jpg",
 		"first_air_date": "2022-08-10",
 		"genre_ids": [
+			16,
 			10759,
-			10765
+			10751
 		],
 		"id": 114469,
 		"name": "I Am Groot",
