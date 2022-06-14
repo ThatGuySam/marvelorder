@@ -8,6 +8,8 @@ export function makeListingEndpoint ( listing : Listing ) {
 
 export const listingMergeConfig = { 
     mergeArrays: ( values : Array<any> ) => {
+        // Use Set to merge arrays 
+        // so that duplicates are removed
         return Array.from( new Set( values.flat() ) )
     } 
 }
