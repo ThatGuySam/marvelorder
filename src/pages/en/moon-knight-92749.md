@@ -15,7 +15,7 @@ layout: ../../layouts/MainLayout.astro
 ## TMDB Data
 ```json
 {
-    "backdrop_path": "/pUP3Owwq7WABfUV7TahwzstmXKC.jpg",
+    "backdrop_path": "/xLWYkefC1wjRlnLKrKvaH6LrfQM.jpg",
     "first_air_date": "2022-03-30",
     "genre_ids": [
         10759,
