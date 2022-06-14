@@ -2,11 +2,21 @@ import { promises as fs } from 'fs'
 // import fs from 'fs-extra'
 import matter from 'gray-matter'
 
+
 import { 
     getPartsFromMarkdown, 
-    parseTMDbMarkdown
+    parseTMDbMarkdown, 
+    makeNewListingContents
 // @ts-ignore
 } from '~/src/helpers/markdown-page.ts' 
+
+// @ts-ignore
+import { Listing } from '~/src/helpers/types.ts'
+// @ts-ignore
+import {
+    mergeListingData
+// @ts-ignore
+} from '~/src/helpers/node/listing.ts'
 
 export function getDataFromListingContents ( markdown: string ) {
     const { tmdbContent } = getPartsFromMarkdown( markdown )
@@ -50,3 +60,32 @@ export async function getListingsFromFilePaths ( filePaths: string[] ) {
     return listings
 }
 
+
+export function upsertListing ( listing: Listing , data: any ) {
+    
+    // Merge letting the frontmatter take precedence
+    return mergeListingData( listing, data )
+}
+
+
+export async function upsertListingFrontmatter ( listingSource: Listing | string, data: any ) {
+    const sourceIsString = typeof listingSource === 'string'
+
+    const listing = sourceIsString ? await getListingFromFile( listingSource ) : listingSource
+
+    const {
+        wrappedCode,
+        pageMeta
+    } = await makeNewListingContents( listing )
+
+    const updatedListing = upsertListing( pageMeta, data )
+
+    return makeTomlFromListingData( wrappedCode, updatedListing )
+}
+
+export function makeTomlFromListingData ( body: string , listing: Listing ) {
+
+    const markdownWithToml = matter.stringify( body, listing )
+
+    return markdownWithToml
+}

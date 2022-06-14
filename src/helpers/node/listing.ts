@@ -1,11 +1,15 @@
 import { DateTime } from 'luxon'
+import { deepmergeCustom } from 'deepmerge-ts'
 
 // @ts-ignore
 import * as CONFIG from '~/src/config.ts'
 // @ts-ignore
 import { Listing } from '~/src/helpers/types.ts'
+import { 
+    makeListingEndpoint, 
+    listingMergeConfig
 // @ts-ignore
-import { makeListingEndpoint } from '~/src/helpers/listing.ts'
+} from '~/src/helpers/listing.ts'
 // @ts-ignore
 import { byDefaultListingSort } from '~/src/helpers/sort.ts'
 
@@ -21,6 +25,12 @@ export function ensureMappedListings ( listings: Listing[] ) {
     }
 
     return makeMappedListings( listings )
+}
+
+export const listingMerger = deepmergeCustom( listingMergeConfig )
+
+export function mergeListingData ( listingA : Object, listingB : Object ) {
+    return listingMerger( listingA, listingB )
 }
 
 export class MappedListing {
