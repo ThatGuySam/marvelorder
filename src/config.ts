@@ -7,7 +7,7 @@ export const SITE = {
 export const OPEN_GRAPH = {
 	image: {
 		src: 'https://marvelorder.com/og-image.png',
-		alt: 'Marvel Order Text'
+		alt: 'MarvelOrder.com'
 	},
 	twitter: 'thatguysam',
 };
