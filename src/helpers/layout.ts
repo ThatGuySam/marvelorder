@@ -1,4 +1,4 @@
-export function getLayoutModes ( itemIndex ) {
+export function getLayoutModes ( itemIndex : number ) {
     // Get the layout mode
     const modeNumber = itemIndex % 4
 
