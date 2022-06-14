@@ -24,12 +24,13 @@ import {
     makeNewListingContents,
     getPartsFromMarkdown
 } from '../src/helpers/markdown-page.ts'
-import { makeListingEndpoint } from '../src/helpers/listing.ts'
+import { 
+    makeListingEndpoint, 
+    listingMergeConfig
+} from '../src/helpers/listing.ts'
 
 // https://github.com/RebeccaStevens/deepmerge-ts/blob/beae8b841561bd206150ef02fe10db94856c6e45/docs/deepmergeCustom.md
-const deepmergeListings = deepmergeCustom({ mergeArrays: values => {
-    return Array.from( new Set( values.flat() ) )
-} })
+const deepmergeListings = deepmergeCustom( listingMergeConfig )
 
 function makeSlug ( name ) {
     return slugify(name, {
