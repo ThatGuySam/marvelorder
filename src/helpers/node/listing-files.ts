@@ -37,7 +37,7 @@ export async function getListingsFromFilePaths ( filePaths: string[] ) {
     for ( const filePath of filePaths ) {
         const { listing } = await getListingFromFile( filePath )
 
-        // if the listing is diabled, skip it
+        // if the listing is disabled, skip it
         // Draft doubles as disable since it's used by Astro
         // https://docs.astro.build/en/guides/markdown-content/#markdown-drafts
         if ( listing?.draft === true ) {
@@ -49,3 +49,4 @@ export async function getListingsFromFilePaths ( filePaths: string[] ) {
 
     return listings
 }
+
