@@ -22,7 +22,7 @@
 					v-if="!expanded"
 					:class="[
 						`listing-card-container flex gap-8 ${ outerDirection } h-screen justify-${ modes.outer }`,
-						// expanded ? 'pointer-event-none' : '',
+						'cursor-pointer'
 					]"
 
 					@click.prevent.capture="expand()"
