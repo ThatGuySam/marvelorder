@@ -1,0 +1,41 @@
+---
+// import { byListingDate } from '~/src/helpers/sort.ts'
+import { getListingsFromFilePaths } from '~/src/helpers/node/listing-files.ts'
+import { 
+	isMCU, 
+	FilteredListings
+} from '~/src/helpers/listing-filters'
+// import { MappedListing } from '~/src/helpers/node/listing.ts'
+
+import Layout from '../layouts/HorizontalScroll.astro'
+import ListingRow from '../components/listing-row.vue'
+
+const pages = await Astro.glob('../pages/en/*.md')
+
+
+const allListings = await getListingsFromFilePaths( pages.map( page => page.file ) )
+
+const mcuFilteredListings = new FilteredListings({ 
+	listings: allListings, 
+	initialFilters: new Map([
+		[ isMCU, true ]
+	]) 
+})
+
+---
+<Layout>
+
+	
+	<ListingRow 
+		client:load
+		listings={ mcuFilteredListings.list }
+	/>
+	
+  
+	<script is:inline>
+		const nextUpcoming = document.querySelector('.listing-card-next-upcoming')
+		// Trigger scroll to out upcoming listing here
+		// so that we don't have to wait for Vue to hydrate
+		document.querySelector('.listing-row').scrollLeft = nextUpcoming.offsetLeft - window.innerWidth + nextUpcoming.offsetWidth * 1.75
+	</script>
+</Layout>
