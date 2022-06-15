@@ -65,6 +65,43 @@ export function isMarvelKnights ( listing ) {
     return listing.tags.includes( 'company-11106' )
 }
 
+export function isMarvelStudios ( listing ) {
+    if ( !hasAnyTags( listing ) ) return false
+
+    return listing.tags.includes( 'company-420' )
+}
+
+const theFuture = new Date( 999999999999999 )
+
+export function isMCU ( listing ) {
+    if ( !hasAnyTags( listing ) ) return false
+
+    if ( !isMarvelStudios( listing ) ) return false
+
+    const listingDate = listing.date?.valueOf() || theFuture
+
+    // console.log('listingDate', listing.title, listingDate)
+
+    // May 5, 2008
+    // April 1, 2008 - According to TMDb 
+    const ironManRelease = new Date( 2008, 3, 29 )
+    const isAfterIronMan = listingDate > ironManRelease
+
+    // If it's before April 2008(Iron Man)
+    // then it's not MCU
+    if ( !isAfterIronMan ) return false
+    
+    const whatIfRelease = new Date( 2021, 8, 1 )
+    const isBeforeWhatIf = listingDate > whatIfRelease
+
+    // If it's animated but before What If
+    // then it's not MCU
+    if ( isAnimatedGenre( listing ) && isBeforeWhatIf ) return false
+
+
+    return true
+}
+
 export function isAnimatedGenre ( listing ) {
     if ( !hasAnyGenres( listing ) ) return false
 
