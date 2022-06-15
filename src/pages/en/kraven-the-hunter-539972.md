@@ -21,7 +21,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Kraven the Hunter",
     "overview": "Sergei Kravinoff is a big game hunter, who takes a magical serum giving him superhuman abilities and a longer life.",
-    "poster_path": null,
+    "poster_path": "/sT4PjkY9KzqNGqrCqE0dH315JFv.jpg",
     "release_date": "2023-01-13",
     "title": "Kraven the Hunter",
     "video": false,
