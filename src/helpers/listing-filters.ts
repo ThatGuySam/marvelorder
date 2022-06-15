@@ -91,12 +91,19 @@ export function isMCU ( listing ) {
     // then it's not MCU
     if ( !isAfterIronMan ) return false
     
-    const whatIfRelease = new Date( 2021, 8, 1 )
-    const isBeforeWhatIf = listingDate > whatIfRelease
+    // August 11, 2021 - According to TMDb 
+    const whatIfRelease = new Date( 2021, 7, 1 )
+    const isBeforeWhatIf = listingDate < whatIfRelease
 
     // If it's animated but before What If
     // then it's not MCU
-    if ( isAnimatedGenre( listing ) && isBeforeWhatIf ) return false
+    if ( isAnimatedGenre( listing ) && isBeforeWhatIf ) {
+        // console.log('excluded animated', listing.title)
+        return false
+    }
+
+
+    // Maybe add a filter here for Marvel Studios series before WandaVision
 
 
     return true
