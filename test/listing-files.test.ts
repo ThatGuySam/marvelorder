@@ -37,4 +37,19 @@ test('Can insert listing Frontmatter Data', async () => {
     expect(markdownOutput).toContain( 'works: true' )
 })
 
-// test()
+test('Can merge Frontmatter arrays', async () => {
+    const sourceListing = {
+        title: faker.lorem.sentence(),
+        slug: faker.lorem.slug(), 
+        overview: faker.lorem.paragraph(),
+        tags: [ 'can-retain-tags' ]
+    }
+
+    const markdownOutput = await upsertListingFrontmatter( sourceListing, { tags: [ 'can-add-tags' ] } )
+
+    // console.log('markdownOutput', markdownOutput)
+
+    expect(markdownOutput).toContain( '- can-add-tags' )
+    expect(markdownOutput).toContain( '- can-retain-tags' )
+
+})

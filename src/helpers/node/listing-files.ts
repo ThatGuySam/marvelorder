@@ -63,6 +63,9 @@ export async function getListingsFromFilePaths ( filePaths: string[] ) {
 
 export function upsertListing ( listing: Listing , data: any ) {
     
+    // console.log( 'listing', listing )
+    // console.log( 'data', data )
+
     // Merge letting the frontmatter take precedence
     return mergeListingData( listing, data )
 }
@@ -74,13 +77,16 @@ export async function upsertListingFrontmatter ( listingSource: Listing | string
     const listing = sourceIsString ? await getListingFromFile( listingSource ) : listingSource
 
     const {
-        wrappedCode,
+        markdownBody,
         pageMeta
-    } = await makeNewListingContents( listing )
+    } = await makeNewListingContents({ listing })
 
     const updatedListing = upsertListing( pageMeta, data )
 
-    return makeTomlFromListingData( wrappedCode, updatedListing )
+    // console.log( 'markdownBody', markdownBody )
+    // console.log( 'updatedListing', updatedListing )
+
+    return makeTomlFromListingData( markdownBody, updatedListing )
 }
 
 export function makeTomlFromListingData ( body: string , listing: Listing ) {

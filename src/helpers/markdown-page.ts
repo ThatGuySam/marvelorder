@@ -15,19 +15,33 @@ export function makeTMDbMarkdownSection ( listing:Listing ) {
     ].join('\n')
 }
 
-export function makeNewListingContents ( listing:Listing ) {
+interface ListingContentsOptions {
+    listing: Listing
+    tmdb: Listing
+}
+
+export function makeNewListingContents ( options:ListingContentsOptions ) {
+
+    const { listing, tmdb = {} }  = options
+
+
     const pageMeta = {
         title: listing.title, 
         slug: listing.slug, 
-        description: listing.overview, 
+        description: listing?.description || tmdb?.overview || '', 
         // type: listing.type, 
         layout: '../../layouts/MainLayout.astro',
+        
+        // Merge in any other initial listing data
+        ...listing
     }
 
-    const wrappedCode = makeTMDbMarkdownSection( listing )
+    const hasTMDbData = Object.keys( tmdb ).length > 0
+
+    const wrappedTmdbCode = hasTMDbData ? makeTMDbMarkdownSection( tmdb ) : ''
 
     return {
-        wrappedCode,
+        markdownBody: wrappedTmdbCode,
         pageMeta
     }
 }
