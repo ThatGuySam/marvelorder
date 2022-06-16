@@ -46,6 +46,8 @@ export const SIDEBAR = {
 
 export const storePath = './src/pages'
 
+export const listingsGlobPattern = 'src/pages/en/*.md'
+
 export const TMDB_COMPANIES = [
 	{
 		// https://www.themoviedb.org/company/420/movie
