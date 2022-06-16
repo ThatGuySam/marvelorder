@@ -90,8 +90,7 @@ export async function upsertListingMarkdown ( options:any ) {
         listing = {} as any,
         readFile,
         writeMarkdownFile,
-        exists,
-        matter
+        exists
     } = options
 
 
