@@ -2,7 +2,7 @@ export const SITE = {
 	title: 'MarvelOrder.com',
 	description: 'List of Marvel movies and shows ordered chronologically, release, and more. ',
 	defaultLanguage: 'en_US',
-};
+}
 
 export const OPEN_GRAPH = {
 	image: {
@@ -10,14 +10,14 @@ export const OPEN_GRAPH = {
 		alt: 'MarvelOrder.com'
 	},
 	twitter: 'thatguysam',
-};
+}
 
 export const KNOWN_LANGUAGES = {
 	English: 'en',
-};
+}
 
 // Uncomment this to add an "Edit this page" button to every page of documentation.
-export const GITHUB_EDIT_URL = `https://github.com/ThatGuySam/marvelorder/blob/main/`;
+export const GITHUB_EDIT_URL = `https://github.com/ThatGuySam/marvelorder/blob/main/`
 
 // Uncomment this to add an "Join our Community" button to every page of documentation.
 // export const COMMUNITY_INVITE_URL = `https://astro.build/chat`;
@@ -41,7 +41,7 @@ export const SIDEBAR = {
 		{ text: 'Another Section', header: true },
 		{ text: 'Page 4', link: 'en/page-4' },
 	],
-};
+}
 
 
 export const storePath = './src/pages'
