@@ -10,7 +10,7 @@ import {
 import Layout from '../layouts/HorizontalScroll.astro'
 import ListingRow from '../components/listing-row.vue'
 
-const pages = await Astro.glob('../pages/en/*.md')
+const pages = await Astro.glob( '/src/pages/en/*.md' )
 
 
 const allListings = await getListingsFromFilePaths( pages.map( page => page.file ) )
