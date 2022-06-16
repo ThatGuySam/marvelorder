@@ -68,7 +68,7 @@
 						/>
 						<div 
 							:class="[
-								'w-32 text-center font-bold uppercase', 
+								'listing-date w-32 text-center font-bold uppercase', 
 								listing.hasDate ? '' : 'opacity-20',
 							]"
 						>
