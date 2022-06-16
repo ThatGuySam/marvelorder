@@ -205,17 +205,21 @@ async function saveListingsAsMarkdown ( listings ) {
 
         } else {
             const {
-                wrappedCode,
+                markdownBody,
                 pageMeta
             } = await makeNewListingContents({ 
-                // listing: {},
+                listing: {
+                    title: listing.title,
+                    slug: listing.slug,
+                    description: listing.overview,
+                },
                 tmdb: listing
             })
 
-            // console.log('wrappedCode', wrappedCode)
-            // console.log('pageMeta', pageMeta)
+            console.log('markdownBody', markdownBody)
+            console.log('pageMeta', pageMeta)
 
-            content = matter.stringify( wrappedCode, pageMeta )
+            content = matter.stringify( markdownBody, pageMeta )
         }
 
         await Deno.writeTextFile( filePath, content )
