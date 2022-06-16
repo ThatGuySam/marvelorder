@@ -20,13 +20,9 @@ import {
 } from '../src/config.ts'
 import { byListingDate } from '../src/helpers/sort.ts'
 import { 
-    makeTMDbMarkdownSection, 
-    makeNewListingContents,
-    getPartsFromMarkdown,
     upsertListingMarkdown
 } from '../src/helpers/markdown-page.ts'
 import { 
-    makeListingEndpoint, 
     listingMergeConfig
 } from '../src/helpers/listing.ts'
 
