@@ -216,8 +216,8 @@ async function saveListingsAsMarkdown ( listings ) {
                 tmdb: listing
             })
 
-            console.log('markdownBody', markdownBody)
-            console.log('pageMeta', pageMeta)
+            // console.log('markdownBody', markdownBody)
+            // console.log('pageMeta', pageMeta)
 
             content = matter.stringify( markdownBody, pageMeta )
         }
