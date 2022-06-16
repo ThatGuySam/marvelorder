@@ -26,7 +26,7 @@ layout: ../../layouts/MainLayout.astro
     "release_date": "2019-09-17",
     "title": "Peter's To-Do List",
     "video": false,
-    "vote_average": 7.3,
+    "vote_average": 7.4,
     "slug": "peters-to-do-list",
     "tags": [
         "movie",
