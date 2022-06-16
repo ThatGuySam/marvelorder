@@ -3,6 +3,7 @@
         <div class="relative aspect-video w-full flex items-center px-12">
             <ListingLogo 
                 :src="listing"
+                :baseSize="540"
                 class="h-auto w-full relative transition-all"
             />
         </div>
