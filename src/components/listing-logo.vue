@@ -1,8 +1,7 @@
 <template>
     <img 
-        :data-src="smallestImage"
+        :data-src="srcImage"
         :data-srcset="srcSet"
-        :sizes="`(max-width: ${ maxWidth }px) 100vw, ${ maxWidth }px`"
         class="lazyload"
         :alt="alt"
     />
@@ -31,9 +30,13 @@ export default {
             type: String,
             required: true
         }, 
+        baseSize: {
+            type: Number,
+            default: 275
+        },
         sizes: {
             type: Array,
-            default: [ 75, 100, 275, 550, 850, 1440 ]
+            default: [ 1, 1.5, 2, 3, 4, 5, 8 ]
         }
     },
     computed: {
@@ -51,14 +54,15 @@ export default {
 			const srcSet = []
 
             for ( const size of this.sizes ) {
+                const pixelWidth = Math.round( this.baseSize * size )
                 
-                srcSet.push( `${ makeSizedImageUrl( this.logoUrl, size ) } ${ size }w` )
+                srcSet.push( `${ makeSizedImageUrl( this.logoUrl, pixelWidth ) } ${ size }x` )
             }
 
             return srcSet.join( ', ' )
 		},
-        smallestImage () {
-            return makeSizedImageUrl( this.logoUrl, this.sizes[ 0 ] ) 
+        srcImage () {
+            return makeSizedImageUrl( this.logoUrl, this.sizes[ 1 ] ) 
         },
     }
 }
