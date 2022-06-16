@@ -177,15 +177,27 @@ async function fetchListingsFromLists ( lists ) {
     return listings//sortedListings
 }
 
-// const textEncode = new TextEncoder().encode
-// Deno specfic 
-async function writeMarkdownFile ({ path, markdownBody, pageMeta }) {
-    // const isTextContent = typeof contents === 'string'
 
-    console.log('markdownBody', markdownBody)
-    console.log('pageMeta', pageMeta)
+// Deno specfic markdown writer
+// since Deno uses custom fs and import method for gray-matter
+async function writeMarkdownFileDeno ({ path, markdownBody, pageMeta }) {
 
-    if ( Object( pageMeta ) === pageMeta ) {
+    // console.log('markdownBody', markdownBody)
+    // console.log('pageMeta', pageMeta)
+
+    const hasPageMeta = Object( pageMeta ) === pageMeta && Object.keys(pageMeta).length > 0
+
+
+    // If there is no pageMeta
+    // then assume everything the body already has encoded frontmatter
+    if ( hasPageMeta ) {
+        const bodyHasFrontmatter = markdownBody.startsWith('---')
+
+        // If there is no frontmatter then throw
+        if ( !bodyHasFrontmatter ) {
+            throw new Error(`No frontmatter found for ${ path }`)
+        }
+
         await Deno.writeTextFile( path, markdownBody )
 
         return
@@ -207,7 +219,7 @@ async function saveListingsAsMarkdown ( listings ) {
         await upsertListingMarkdown( {
             listing,
             readFile: async filePath =>  new TextDecoder( 'utf-8' ).decode( await Deno.readFile( filePath ) ),
-            writeMarkdownFile,//: ( filePath, content ) => Deno.writeFile( filePath, new TextEncoder().encode( content ) ),
+            writeMarkdownFile: writeMarkdownFileDeno,
             exists: exists
         })
 
