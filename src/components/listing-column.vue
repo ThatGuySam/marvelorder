@@ -47,8 +47,10 @@
 									<template v-if="logo">
 										<ListingLogo 
 											:src="logo"
-											class="h-24 w-auto object-contain relative"
+											class="h-auto relative"
 											:alt="title"
+											:base-size="markWidth"
+											:style="{ width: `${ markWidth }px` }"
 										/>
 									</template>
 									<h2 
@@ -183,7 +185,7 @@ export default {
 		},
 		markWidth: {
 			type: Number,
-			default: 275
+			default: 175
 		}, 
 		width: {
 			type: Number,
