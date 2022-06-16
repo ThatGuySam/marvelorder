@@ -10,126 +10,122 @@
 			flexBasis: `${ articleWidth + 2 }px`, 
 		}"
 	>
-		<div
-			class="relative"
+		<Transition
+			name="custom-classes"
+			enter-active-class="animate__animated animate__tada"
+			leave-active-class="animate__animated animate__bounceOutRight"
 		>
-			<Transition
-				name="custom-classes"
-				enter-active-class="animate__animated animate__tada"
-				leave-active-class="animate__animated animate__bounceOutRight"
+			<div 
+				v-if="!expanded"
+				:class="[
+					`listing-card-container flex gap-8 ${ outerDirection } h-screen justify-${ modes.outer }`,
+					'cursor-pointer'
+				]"
+
+				@click.prevent.capture="expand()"
 			>
 				<div 
-					v-if="!expanded"
-					:class="[
-						`listing-card-container flex gap-8 ${ outerDirection } h-screen justify-${ modes.outer }`,
-						'cursor-pointer'
+					:class="[ 
+						`inner-container flex ${ outerDirection } h-full w-full justify-end`, 
+						'transition-opacity ease-in-out duration-750', 
+						visibilityClass
 					]"
-
-					@click.prevent.capture="expand()"
 				>
-					<div 
-						:class="[ 
-							`inner-container flex ${ outerDirection } h-full w-full justify-end`, 
-							'transition-opacity ease-in-out duration-750', 
-							visibilityClass
-						]"
-					>
 
-						<div class="inner-container relative py-16">
-							<a
-								:href="listing.endpoint" 
-							>
-								<div 
-									:class="`listing-card-content absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 flex flex-col justify-center`"
-									:style="{ width: `${ markWidth }px` }"
-								>
-									<!-- <div class="bg-green-600 absolute inset-0" /> -->
-									<template v-if="logo">
-										<ListingLogo 
-											:src="logo"
-											class="h-auto relative"
-											:alt="title"
-											:base-size="markWidth"
-											:style="{ width: `${ markWidth }px` }"
-										/>
-									</template>
-									<h2 
-										v-else
-										class="w-full text-3xl test-white font-bold text-center whitespace-normal"
-									>{{ title }}</h2>
-								</div>
-							</a>
-						</div>
-
-						<div 
-							:class="`vertical-line-container relative flex gap-4 ${ outerDirection } ${ innerHeight }`"
+					<div class="inner-container relative py-16">
+						<a
+							:href="listing.endpoint" 
 						>
 							<div 
-								:class="[
-									`vertical-line w-1 bg-current h-full`, 
-									listing.hasDate ? '' : 'opacity-10',
-								]"
-							/>
-							<div 
-								:class="[
-									'w-32 text-center font-bold uppercase', 
-									listing.hasDate ? '' : 'opacity-20',
-								]"
+								:class="`listing-card-content absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 flex flex-col justify-center`"
+								:style="{ width: `${ markWidth }px` }"
 							>
-								{{ listing.dateHumanReadable }}
+								<!-- <div class="bg-green-600 absolute inset-0" /> -->
+								<template v-if="logo">
+									<ListingLogo 
+										:src="logo"
+										class="h-auto relative"
+										:alt="title"
+										:base-size="markWidth"
+										:style="{ width: `${ markWidth }px` }"
+									/>
+								</template>
+								<h2 
+									v-else
+									class="w-full text-3xl test-white font-bold text-center whitespace-normal"
+								>{{ title }}</h2>
 							</div>
-						</div>
-
+						</a>
 					</div>
 
 					<div 
-						:class="[
-							`center-line w-full border border-x-transparent border-y-white h-32`,
-							expanded ? 'opacity-0' : 'opacity-100',
-						]"
-					/>
-
-					<div 
-						class="inner-container h-full"
-					/>
-
-				</div>
-			</Transition>
-
-			<Transition>
-				<div
-					v-if="expanded"
-					class="relative h-screen bg-black z-10"
-					:style="{
-						width: `${ articleWidth }px`
-					}"
-				>
-					<div 
-						class="backdrop absolute inset-0"
+						:class="`vertical-line-container relative flex gap-4 ${ outerDirection } ${ innerHeight }`"
 					>
-						<TmdbImage
-							v-if="!!listing.backdrop_path"
-							:src="listing.backdrop_path"
-							class="absolute w-full h-screen object-cover inset-0 linear-mask"
+						<div 
+							:class="[
+								`vertical-line w-1 bg-current h-full`, 
+								listing.hasDate ? '' : 'opacity-10',
+							]"
 						/>
+						<div 
+							:class="[
+								'w-32 text-center font-bold uppercase', 
+								listing.hasDate ? '' : 'opacity-20',
+							]"
+						>
+							{{ listing.dateHumanReadable }}
+						</div>
 					</div>
 
-					<ListingContent 
-						:listing="listing"
-						class="relative h-full overflow-scroll p-8 pb-72"
-					/>
-
-					<CircleButton
-						class="close-button absolute bottom-24 left-1/2 transform-gpu -translate-x-1/2 translate-y-1/2"
-						@click="contract()"
-					>
-						<svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-							<path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
-						</svg>
-					</CircleButton>
 				</div>
-			</Transition>
-		</div>
+
+				<div 
+					:class="[
+						`center-line w-full border border-x-transparent border-y-white h-32`,
+						expanded ? 'opacity-0' : 'opacity-100',
+					]"
+				/>
+
+				<div 
+					class="inner-container h-full"
+				/>
+
+			</div>
+		</Transition>
+
+		<Transition>
+			<div
+				v-if="expanded"
+				class="relative h-screen bg-black z-10"
+				:style="{
+					width: `${ articleWidth }px`
+				}"
+			>
+				<div 
+					class="backdrop absolute inset-0"
+				>
+					<TmdbImage
+						v-if="!!listing.backdrop_path"
+						:src="listing.backdrop_path"
+						class="absolute w-full h-screen object-cover inset-0 linear-mask"
+					/>
+				</div>
+
+				<ListingContent 
+					:listing="listing"
+					class="relative h-full overflow-scroll p-8 pb-72"
+				/>
+
+				<CircleButton
+					class="close-button absolute bottom-24 left-1/2 transform-gpu -translate-x-1/2 translate-y-1/2"
+					@click="contract()"
+				>
+					<svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+						<path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
+					</svg>
+				</CircleButton>
+			</div>
+		</Transition>
 
 		<div
 			v-if="!expanded"
