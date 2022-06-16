@@ -22,7 +22,8 @@ import { byListingDate } from '../src/helpers/sort.ts'
 import { 
     makeTMDbMarkdownSection, 
     makeNewListingContents,
-    getPartsFromMarkdown
+    getPartsFromMarkdown,
+    upsertListingMarkdown
 } from '../src/helpers/markdown-page.ts'
 import { 
     makeListingEndpoint, 
@@ -180,49 +181,39 @@ async function fetchListingsFromLists ( lists ) {
     return listings//sortedListings
 }
 
+// const textEncode = new TextEncoder().encode
+// Deno specfic 
+async function writeMarkdownFile ({ path, markdownBody, pageMeta }) {
+    // const isTextContent = typeof contents === 'string'
+
+    console.log('markdownBody', markdownBody)
+    console.log('pageMeta', pageMeta)
+
+    if ( Object( pageMeta ) === pageMeta ) {
+        await Deno.writeTextFile( path, markdownBody )
+
+        return
+    }
+
+    const markdownContent = matter.stringify( markdownBody, pageMeta )
+
+    // console.log('markdownContent', markdownContent)
+    
+    await Deno.writeTextFile( path, markdownContent )
+}
+    
+
 
 async function saveListingsAsMarkdown ( listings ) {
 
     for ( const listing of listings ) {
 
-        const filePath = `${ storePath }/${ makeListingEndpoint( listing ) }.md`
-        const hasExistingFile = await exists( filePath )
-
-        let content = ''
-        
-        // If there's no existing file, create one with meta data from our listing
-        if ( hasExistingFile ) {
-            const decoder = new TextDecoder( 'utf-8' )
-            const markdownContent = decoder.decode(await Deno.readFile( filePath ))
-            // Split off and leave behind existing TMDb data
-            const { existingContent } = getPartsFromMarkdown( markdownContent )
-
-            // Merge in existing meta above the current TMDb data
-            content = [
-                existingContent.trim(),
-                makeTMDbMarkdownSection( listing )
-            ].join('\n')
-
-        } else {
-            const {
-                markdownBody,
-                pageMeta
-            } = await makeNewListingContents({ 
-                listing: {
-                    title: listing.title,
-                    slug: listing.slug,
-                    description: listing.overview,
-                },
-                tmdb: listing
-            })
-
-            // console.log('markdownBody', markdownBody)
-            // console.log('pageMeta', pageMeta)
-
-            content = matter.stringify( markdownBody, pageMeta )
-        }
-
-        await Deno.writeTextFile( filePath, content )
+        await upsertListingMarkdown( {
+            listing,
+            readFile: async filePath =>  new TextDecoder( 'utf-8' ).decode( await Deno.readFile( filePath ) ),
+            writeMarkdownFile,//: ( filePath, content ) => Deno.writeFile( filePath, new TextEncoder().encode( content ) ),
+            exists: exists
+        })
 
     }
 }

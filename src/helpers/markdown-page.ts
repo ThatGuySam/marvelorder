@@ -1,6 +1,12 @@
 
+import { 
+    storePath 
+// @ts-ignore
+} from '../config.ts'
 // @ts-ignore
 import { Listing } from './types.ts'
+// @ts-ignore
+import { makeListingEndpoint } from './listing.ts'
 
 export const tmdbHeading = `## TMDB Data`
 
@@ -76,4 +82,64 @@ export function parseTMDbMarkdown ( tmdbContent: string ) {
 
     // Parse the JSON
     return JSON.parse( jsonString )
+}
+
+
+export async function upsertListingMarkdown ( options:any ) {
+    const {
+        listing = {} as any,
+        readFile,
+        writeMarkdownFile,
+        exists,
+        matter
+    } = options
+
+
+    const filePath = `${ storePath }/${ makeListingEndpoint( listing ) }.md`
+    const hasExistingFile = await exists( filePath )
+
+    let markdownBody = ''
+    let pageMeta = null
+    
+    // If there's no existing file, create one with meta data from our listing
+    if ( hasExistingFile ) {
+        const markdownContent = await readFile( filePath )
+        // Split off and leave behind existing TMDb data
+        const { existingContent } = getPartsFromMarkdown( markdownContent )
+
+        // Merge in existing meta above the current TMDb data
+        markdownBody = [
+            existingContent.trim(),
+            makeTMDbMarkdownSection( listing )
+        ].join('\n')
+
+    } else {
+        // const {
+        //     markdownBody,
+        //     pageMeta
+        // }
+        
+        const newContents = await makeNewListingContents({ 
+            listing: {
+                title: listing.title,
+                slug: listing.slug,
+                description: listing.overview,
+            },
+            tmdb: listing
+        })
+
+        markdownBody = newContents.markdownBody
+        pageMeta = newContents.pageMeta
+
+        // console.log('markdownBody', markdownBody)
+        // console.log('pageMeta', pageMeta)
+
+        // content = matter.stringify( markdownBody, pageMeta )
+    }
+
+    await writeMarkdownFile( {
+        path: filePath, 
+        markdownBody, 
+        pageMeta
+    } )
 }
