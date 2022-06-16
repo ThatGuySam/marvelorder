@@ -16,24 +16,31 @@ export function makeTMDbMarkdownSection ( listing:Listing ) {
 }
 
 interface ListingContentsOptions {
-    listing: Listing
-    tmdb: Listing
+    // These are't fully fledged listings,
+    // since they don't have all the data yet on their own
+    listing:object
+    tmdb:object
 }
 
 export function makeNewListingContents ( options:ListingContentsOptions ) {
 
-    const { listing, tmdb = {} }  = options
+    // Any type since we're pulling in unknown data
+    // https://stackoverflow.com/a/57376029/1397641
+    const { 
+        listing = {} as any, 
+        tmdb = {} as any 
+    } = options
 
 
-    const pageMeta = {
+    const pageMeta = {        
         title: listing.title, 
         slug: listing.slug, 
         description: listing?.description || tmdb?.overview || '', 
         // type: listing.type, 
         layout: '../../layouts/MainLayout.astro',
-        
+
         // Merge in any other initial listing data
-        ...listing
+        ...listing,
     }
 
     const hasTMDbData = Object.keys( tmdb ).length > 0

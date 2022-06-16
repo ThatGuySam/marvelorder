@@ -207,7 +207,10 @@ async function saveListingsAsMarkdown ( listings ) {
             const {
                 wrappedCode,
                 pageMeta
-            } = await makeNewListingContents( listing )
+            } = await makeNewListingContents({ 
+                // listing: {},
+                tmdb: listing
+            })
 
             // console.log('wrappedCode', wrappedCode)
             // console.log('pageMeta', pageMeta)
