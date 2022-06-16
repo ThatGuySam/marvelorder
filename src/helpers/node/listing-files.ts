@@ -1,8 +1,11 @@
 import { promises as fs } from 'fs'
 // import fs from 'fs-extra'
 import matter from 'gray-matter'
+import glob from 'fast-glob'
 
 
+// @ts-ignore
+import { listingsGlobPattern } from '~/src/config.ts'
 import { 
     getPartsFromMarkdown, 
     parseTMDbMarkdown, 
@@ -17,6 +20,12 @@ import {
     mergeListingData
 // @ts-ignore
 } from '~/src/helpers/node/listing.ts'
+
+export async function getListingFiles () {
+    const listingFiles = await glob(listingsGlobPattern)
+    
+    return listingFiles
+}
 
 export function getDataFromListingContents ( markdown: string ) {
     const { tmdbContent } = getPartsFromMarkdown( markdown )
