@@ -40,16 +40,14 @@
 								:class="`listing-card-content absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 flex flex-col justify-center`"
 								:style="{ width: `${ markWidth }px` }"
 							>
-								<!-- <div class="bg-green-600 absolute inset-0" /> -->
-								<template v-if="logo">
-									<ListingLogo 
-										:src="logo"
-										class="h-auto relative"
-										:alt="title"
-										:base-size="markWidth"
-										:style="{ width: `${ markWidth }px` }"
-									/>
-								</template>
+								<ListingLogo 
+									v-if="logo"
+									:src="logo"
+									class="h-auto relative"
+									:alt="title"
+									:base-size="markWidth"
+									:style="{ width: `${ markWidth }px` }"
+								/>
 								<h2 
 									v-else
 									class="w-full text-3xl test-white font-bold text-center whitespace-normal"
