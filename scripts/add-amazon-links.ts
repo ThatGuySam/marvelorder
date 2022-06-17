@@ -59,13 +59,20 @@ async function readMarkdownFileNode ( filePath: string ) {
         // Skip listings that already have amazon links
         if ( !!details.listing?.rentLinks?.amazon ) continue
 
+        const searchKeywords = [
+            details.listing.title,
+            listing.date.year
+        ].join(' ')
 
-        console.log('Searching for', details.listing.title )
+
+        console.log('Searching for', searchKeywords )
+
+
           
         const response = await amazon.SearchItems(commonParameters, {
-            Keywords: details.listing.title,
+            Keywords: searchKeywords,
             // Official Amazon List - https://webservices.amazon.com/paapi5/documentation/locale-reference/united-states.html#search-index
-            SearchIndex: 'AmazonVideo',
+            SearchIndex: 'All',
             ItemCount: 5,
             Resources: [
                 'Images.Primary.Medium',
