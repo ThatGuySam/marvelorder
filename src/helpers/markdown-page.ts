@@ -5,8 +5,10 @@ import {
 } from '../config.ts'
 // @ts-ignore
 import { Listing } from './types.ts'
+import { 
+    makeListingEndpoint
 // @ts-ignore
-import { makeListingEndpoint } from './listing.ts'
+} from './listing.ts'
 
 export const tmdbHeading = `## TMDB Data`
 
@@ -92,6 +94,7 @@ function getUpdatedProperties ( oldObject:object, newObject:object ) {
 
         const existingValueJson = JSON.stringify( oldObject[ key ] )
         const newValueJson = JSON.stringify( value )
+
         if ( existingValueJson !== newValueJson ) {
             // console.log( 'newListingData', key, value, oldObject[ key ] )
             difference[ key ] = value
@@ -103,12 +106,12 @@ function getUpdatedProperties ( oldObject:object, newObject:object ) {
 
 export async function upsertListingMarkdown ( options:any ) {
     const {
-        listing = {} as any,
-        readFile,
-        writeMarkdownFile,
+        listing = {} as any, 
+        tmdb = {} as any, 
+        readMarkdownFile, 
+        writeMarkdownFile, 
         exists
     } = options
-
 
     const filePath = `${ storePath }/${ makeListingEndpoint( listing ) }.md`
     const hasExistingFile = await exists( filePath )
@@ -116,41 +119,37 @@ export async function upsertListingMarkdown ( options:any ) {
     let markdownBody = ''
     let pageMeta = null
     
-    // If there's no existing file, create one with meta data from our listing
-    if ( hasExistingFile ) {
-        const markdownContent = await readFile( filePath )
-        // Split off and leave behind existing TMDb data
-        const { existingContent } = getPartsFromMarkdown( markdownContent )
+    const existingListingDetails = 
+        hasExistingFile 
+        ? await readMarkdownFile( filePath )
+        : { frontmatter: {}, tmdb: {}, listing: {} }
 
-        // Merge in existing meta above the current TMDb data
-        markdownBody = [
-            existingContent.trim(),
-            makeTMDbMarkdownSection( listing )
-        ].join('\n')
+    const newListingData = getUpdatedProperties( existingListingDetails.listing, listing )
 
-    } else {
-        // const {
-        //     markdownBody,
-        //     pageMeta
-        // }
-        
-        const newContents = await makeNewListingContents({ 
-            listing: {
-                title: listing.title,
-                slug: listing.slug,
-                description: listing.overview,
-            },
-            tmdb: listing
-        })
 
-        markdownBody = newContents.markdownBody
-        pageMeta = newContents.pageMeta
+    // console.log( 'newListingData', newListingData )
 
-        // console.log('markdownBody', markdownBody)
-        // console.log('pageMeta', pageMeta)
+    const newContents = await makeNewListingContents({ 
+        listing: {
+            ...existingListingDetails.frontmatter, 
 
-        // content = matter.stringify( markdownBody, pageMeta )
-    }
+            title: listing.title,
+            slug: listing.slug,
+            description: listing.overview,
+
+            ...newListingData
+        },
+        tmdb: {
+            ...existingListingDetails.tmdb, 
+            // ...listing,
+            ...tmdb
+        }
+    })
+
+    markdownBody = newContents.markdownBody
+    pageMeta = newContents.pageMeta
+
+    // console.log( 'markdownBody', markdownBody )
 
     await writeMarkdownFile( {
         path: filePath, 
