@@ -6,8 +6,8 @@ description: >-
   superheroes we know and love today. These legendary Marvel creations and
   stories have not only reflected the world outside our window – they have
   become a reflection of our own identities and who we truly are.
-type: movie
 layout: ../../layouts/MainLayout.astro
+type: movie
 ---
 ## TMDB Data
 ```json

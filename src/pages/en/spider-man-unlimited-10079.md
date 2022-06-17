@@ -10,11 +10,12 @@ logo_on_black: /.netlify/functions/fanart/spider-man-unlimited-605d96a6818a5.web
 rentLinks:
   amazon: >-
     https://www.amazon.com/dp/B00M2DQL6U?tag=marvelorder-20&linkCode=osi&th=1&psc=1
+backdrop_path: /3WRvDj6od3V6PB90LXFthFLBJmL.jpg
 ---
 ## TMDB Data
 ```json
 {
-    "backdrop_path": "/wgA0uzHZx2NaCLoBucNCQsD6eYS.jpg",
+    "backdrop_path": "/3WRvDj6od3V6PB90LXFthFLBJmL.jpg",
     "first_air_date": "1999-10-02",
     "genre_ids": [
         16,

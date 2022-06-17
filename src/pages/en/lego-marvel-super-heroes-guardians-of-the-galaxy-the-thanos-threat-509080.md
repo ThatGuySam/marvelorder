@@ -1,12 +1,12 @@
 ---
-draft: true
 title: 'LEGO Marvel Super Heroes: Guardians of the Galaxy - The Thanos Threat'
 slug: lego-marvel-super-heroes-guardians-of-the-galaxy-the-thanos-threat
 description: >-
   The Guardians are on a mission to deliver the Build Stone to the Avengers
   before the Ravagers, Thanos and his underlings steal it from them.
-type: movie
 layout: ../../layouts/MainLayout.astro
+draft: true
+type: movie
 ---
 ## TMDB Data
 ```json

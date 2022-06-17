@@ -9,7 +9,7 @@ description: >-
 layout: ../../layouts/MainLayout.astro
 logo_on_black: /.netlify/functions/fanart/spider-man-the-movie-5e89f52be649e.webp
 rentLinks:
-  amazon: 'none'
+  amazon: none
 ---
 ## TMDB Data
 ```json

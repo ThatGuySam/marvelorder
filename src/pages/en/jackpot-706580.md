@@ -2,8 +2,8 @@
 title: Jackpot
 slug: jackpot
 description: A film based on the Marvel superheroine.
-type: movie
 layout: ../../layouts/MainLayout.astro
+type: movie
 ---
 ## TMDB Data
 ```json

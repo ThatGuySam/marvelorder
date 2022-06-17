@@ -2,8 +2,8 @@
 title: The Making of Doctor Strange in the Multiverse of Madness
 slug: the-making-of-doctor-strange-in-the-multiverse-of-madness
 description: ''
-type: movie
 layout: ../../layouts/MainLayout.astro
+type: movie
 ---
 ## TMDB Data
 ```json

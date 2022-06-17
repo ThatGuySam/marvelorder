@@ -4,8 +4,8 @@ slug: untitled-female-centered-marvel-film
 description: >-
   Described as a female-centric Marvel film rumored and teased by Wilde to
   follow Spider-Woman.
-type: movie
 layout: ../../layouts/MainLayout.astro
+type: movie
 ---
 ## TMDB Data
 ```json

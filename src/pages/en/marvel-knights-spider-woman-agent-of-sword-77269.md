@@ -6,8 +6,8 @@ description: >-
   Invasion, Jessica Drew aka Spider-Woman is approached by a mysterious stranger
   to join S.W.O.R.D. (Sentient World Observation and Response Department), a
   counter-terrorism and intelligence agency for extraterrestrial threats.
-type: tv
 layout: ../../layouts/MainLayout.astro
+type: tv
 ---
 ## TMDB Data
 ```json

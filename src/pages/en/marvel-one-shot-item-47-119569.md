@@ -4,12 +4,11 @@ slug: marvel-one-shot-item-47
 description: >-
   Benny and Claire, a down on their luck couple find a discarded Chitauri gun,
   referred to as 'Item 47'...
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/fanart/marvel-one-shot-item-47-53a58d4a3a305.webp
-layout: ../../layouts/MainLayout.astro
 rentLinks:
-  amazon: >-
-    none
+  amazon: none
 ---
 ## TMDB Data
 ```json

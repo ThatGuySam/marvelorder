@@ -7,11 +7,10 @@ description: >-
   performs missions only because her sister is being held hostage by Jasmin's
   superiors. Banner and Jasmin try to escape from the enemy agents to rebuild
   their lives together, but the Hulk is never far from them.
-logo_on_black: /.netlify/functions/fanart/the-death-of-the-incredible-hulk-5479080c56fd6.webp
 layout: ../../layouts/MainLayout.astro
+logo_on_black: /.netlify/functions/fanart/the-death-of-the-incredible-hulk-5479080c56fd6.webp
 rentLinks:
-  amazon: >-
-    https://amzn.to/39ueJB0
+  amazon: 'https://amzn.to/39ueJB0'
 ---
 ## TMDB Data
 ```json

@@ -6,7 +6,7 @@ layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/fanart/the-fantastic-four-1967-6266d7cc089eb.png
 rentLinks:
-  amazon: 'none'
+  amazon: none
 ---
 ## TMDB Data
 ```json

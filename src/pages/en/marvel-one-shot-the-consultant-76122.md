@@ -6,12 +6,11 @@ description: >-
   Emil Blonsky to be released from prison to join the Avengers Initiative. As
   Nick Fury doesn't want to release Blonsky, the two agents decide to send a
   patsy to sabotage the meeting...
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/fanart/marvel-one-shot-the-consultant-53a431ea100ed.webp
-layout: ../../layouts/MainLayout.astro
 rentLinks:
-  amazon: >-
-    none
+  amazon: none
 ---
 ## TMDB Data
 ```json

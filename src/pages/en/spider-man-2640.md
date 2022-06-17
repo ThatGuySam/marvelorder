@@ -12,7 +12,7 @@ layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/fanart/spider-man-1978-5cddabaeefc4e.webp
 rentLinks:
-  amazon: 'none'
+  amazon: none
 ---
 ## TMDB Data
 ```json

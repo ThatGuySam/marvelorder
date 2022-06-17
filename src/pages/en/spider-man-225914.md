@@ -7,7 +7,7 @@ description: >-
 layout: ../../layouts/MainLayout.astro
 logo_on_black: /.netlify/functions/tmdb-image/jNxRHZ2cxVkNRtxgHuCtv7GY4JP.webp?crop.top=0.7
 rentLinks:
-  amazon: 'none'
+  amazon: none
 ---
 ## TMDB Data
 ```json

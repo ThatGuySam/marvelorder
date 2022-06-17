@@ -4,9 +4,9 @@ slug: madame-web
 description: >-
   An origin story of the clairvoyant known as Madame Web, whose psychic
   abilities allow her to see within the spider world.
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/tmdb-image/urh8yBp7ihPaBeLSmlYmJB3qgYy.webp
-layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
 ```json

@@ -5,11 +5,10 @@ description: >-
   A look at the story behind Marvel Studios and the Marvel Cinematic Universe,
   featuring interviews and behind-the-scenes footage from all of the Marvel
   films, the Marvel One-Shots and "Marvel's Agents of S.H.I.E.L.D."
-type: movie
 layout: ../../layouts/MainLayout.astro
+type: movie
 rentLinks:
-  amazon: >-
-    none
+  amazon: none
 ---
 ## TMDB Data
 ```json

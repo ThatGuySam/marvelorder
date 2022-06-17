@@ -8,9 +8,9 @@ description: >-
   administrative work and going on secret missions for Howard Stark all while
   trying to navigate life as a single woman in America, in the wake of losing
   the love of her life - Steve Rogers.
+layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/fanart/marvels-agent-carter-547ef538a02d8.webp
-layout: ../../layouts/MainLayout.astro
 rentLinks:
   amazon: >-
     https://www.amazon.com/dp/B00RWAOJ7G?tag=marvelorder-20&linkCode=osi&th=1&psc=1

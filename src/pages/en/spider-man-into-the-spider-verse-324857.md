@@ -10,12 +10,13 @@ logo_on_black: /.netlify/functions/fanart/spider-man-into-the-spider-verse-5a59e
 rentLinks:
   amazon: >-
     https://www.amazon.com/dp/B07L8NHKP4?tag=marvelorder-20&linkCode=osi&th=1&psc=1
+backdrop_path: /x2IqsMlpbOhS8zIUJfyl1yO4gHF.jpg
 ---
 ## TMDB Data
 ```json
 {
     "adult": false,
-    "backdrop_path": "/16SHwVKGULFHsymmVrz2N14kEud.jpg",
+    "backdrop_path": "/x2IqsMlpbOhS8zIUJfyl1yO4gHF.jpg",
     "genre_ids": [
         28,
         12,

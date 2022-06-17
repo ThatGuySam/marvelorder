@@ -2,8 +2,8 @@
 title: Untitled Daredevil Series
 slug: untitled-daredevil-series
 description: ''
-type: tv
 layout: ../../layouts/MainLayout.astro
+type: tv
 ---
 ## TMDB Data
 ```json

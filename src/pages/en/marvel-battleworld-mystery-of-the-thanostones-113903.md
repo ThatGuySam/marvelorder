@@ -1,13 +1,13 @@
 ---
-draft: true
 title: 'Marvel Battleworld: Mystery of the Thanostones'
 slug: marvel-battleworld-mystery-of-the-thanostones
 description: >-
   Can Iron Man and this rag-tag group - Captain Marvel, Spider-Ham, Groot, and
   Throg - figure out what the Mad Titan Thanos wants and why they've been
   brought to this strange, new world?
-type: tv
 layout: ../../layouts/MainLayout.astro
+draft: true
+type: tv
 ---
 ## TMDB Data
 ```json

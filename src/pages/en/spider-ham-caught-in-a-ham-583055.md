@@ -4,12 +4,11 @@ slug: spider-ham-caught-in-a-ham
 description: >-
   Spider-Ham: Caught in a Ham follows Spider-Ham as he faces off against bad
   guys, chows down on hot dogs, and makes plenty of food-based puns.
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/fanart/spider-ham-caught-in-a-ham-629a4827462ac.webp
-layout: ../../layouts/MainLayout.astro
 rentLinks:
-  amazon: >-
-    none
+  amazon: none
 ---
 ## TMDB Data
 ```json

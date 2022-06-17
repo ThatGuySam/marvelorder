@@ -4,8 +4,9 @@ slug: bride-of-the-incredible-hulk
 description: >-
   David and Carolyn marry in Hawaii and continue to work to find a cure for both
   their afflictions in a race against time.
-logo_on_black: /.netlify/functions/tmdb-image/3apbGlabEmgR1jEgJgqg7FUMqCz.webp?crop.bottom=0.75
 layout: ../../layouts/MainLayout.astro
+logo_on_black: >-
+  /.netlify/functions/tmdb-image/3apbGlabEmgR1jEgJgqg7FUMqCz.webp?crop.bottom=0.75
 rentLinks:
   amazon: >-
     https://www.amazon.com/dp/B0171Z7TJG?tag=marvelorder-20&linkCode=osi&th=1&psc=1

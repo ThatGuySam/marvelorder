@@ -1,13 +1,13 @@
 ---
-draft: true
 title: The Incredible Hulk
 slug: the-incredible-hulk
 description: >-
   An accidental overdose of gamma radiation causes a mutation in scientist David
   Banner's DNA: now whenever he becomes angry, he metamorphoses into a
   seven-foot-tall, 330-pound, mindless muscular green creature.
-logo_on_black: /.netlify/functions/fanart/the-incredible-hulk-1982-5950c1b13ae4f.webp
 layout: ../../layouts/MainLayout.astro
+draft: true
+logo_on_black: /.netlify/functions/fanart/the-incredible-hulk-1982-5950c1b13ae4f.webp
 ---
 ## TMDB Data
 ```json

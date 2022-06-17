@@ -8,12 +8,11 @@ description: >-
   roommate to help make the monthly payments. Unfortunately for Darryl, the
   Grandmaster was the only one who answered Darryl's "Roommate Needed" ad and
   with no viable options, the Grandmaster moves in.
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/fanart/team-darryl-5bf82bf981b31.webp
-layout: ../../layouts/MainLayout.astro
 rentLinks:
-  amazon: >-
-    none
+  amazon: none
 ---
 ## TMDB Data
 ```json

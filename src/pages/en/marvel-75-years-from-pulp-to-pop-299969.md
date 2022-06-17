@@ -10,11 +10,11 @@ description: >-
   promises an "extraordinary peek into Marvel's future!" Might Marvel release
   the first official footage from next year's Avengers: Age of Ultron or
   Ant-Man? If they do, you'll know about it here.
-type: movie
-tags: [
-    doc
-]
 layout: ../../layouts/MainLayout.astro
+type: movie
+tags:
+  - movie
+  - company-420
 ---
 ## TMDB Data
 ```json

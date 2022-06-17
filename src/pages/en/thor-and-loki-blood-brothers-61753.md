@@ -9,8 +9,8 @@ description: >-
   could it be that this master of mischief isn’t really the villain he’s been
   branded? Loki's insatiable lust for power and his feud with Thor take on new
   meaning in this resonant epic.
-type: tv
 layout: ../../layouts/MainLayout.astro
+type: tv
 ---
 ## TMDB Data
 ```json

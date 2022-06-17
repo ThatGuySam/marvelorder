@@ -10,8 +10,7 @@ type: tv
 logo_on_black: >-
   /.netlify/functions/tmdb-image/uNtmLHraxsxblx4hVXcfnj5BAlF.webp?crop.top=0.21&crop.bottom=0.42
 rentLinks:
-  amazon: >-
-    none
+  amazon: none
 ---
 ## TMDB Data
 ```json

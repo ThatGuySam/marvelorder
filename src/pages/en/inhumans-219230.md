@@ -12,8 +12,8 @@ description: >-
   (who cannot speak for his voice carries the destructive power of an atom bomb)
   repel the foreign invaders who blast at their outer defense, as well as the
   internal threat of Black Bolt's brother, Maximus the Mad?
-type: movie
 layout: ../../layouts/MainLayout.astro
+type: movie
 ---
 ## TMDB Data
 ```json

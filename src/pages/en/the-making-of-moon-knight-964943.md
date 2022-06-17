@@ -8,8 +8,8 @@ description: >-
   a  candid "roundtable discussion" with the series' directors, this "making-of"
   pulls back the curtain on the groundbreaking series of Marvel Studios' newest
   hero.
-type: movie
 layout: ../../layouts/MainLayout.astro
+type: movie
 ---
 ## TMDB Data
 ```json

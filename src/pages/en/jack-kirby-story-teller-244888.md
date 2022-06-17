@@ -5,11 +5,11 @@ description: >-
   A documentary on the life of Jack Kirby, co-creator of Captain America, The
   Fantastic Four, Iron Man, Thor, The Avengers, The Hulk, The X-Men and the New
   Gods, among other classic comic book superheroes.
-type: movie
-tags: [
-    doc
-]
 layout: ../../layouts/MainLayout.astro
+type: movie
+tags:
+  - movie
+  - company-420
 ---
 ## TMDB Data
 ```json

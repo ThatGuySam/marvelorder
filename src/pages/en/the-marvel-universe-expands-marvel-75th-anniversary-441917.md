@@ -2,8 +2,8 @@
 title: 'The Marvel Universe Expands: Marvel 75th Anniversary'
 slug: the-marvel-universe-expands-marvel-75th-anniversary
 description: A documentary about some of Marvel's most famous characters.
-type: movie
 layout: ../../layouts/MainLayout.astro
+type: movie
 ---
 ## TMDB Data
 ```json

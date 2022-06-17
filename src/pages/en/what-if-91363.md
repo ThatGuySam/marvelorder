@@ -9,8 +9,7 @@ layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/tmdb-image/wzFmZOBRSYbrPxJE2nkhq2tAKwI.webp
 rentLinks:
-  amazon: >-
-    none
+  amazon: none
 ---
 ## TMDB Data
 ```json

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Marvel's Ultimate Comics
 slug: marvels-ultimate-comics
 description: >-
@@ -9,8 +8,9 @@ description: >-
   Panther gets a visit from Everett K. Ross to discuss security for a possible
   international summit in Wakanda. The visit is unexpectedly interrupted by
   super-villain, Ghost.
-type: tv
 layout: ../../layouts/MainLayout.astro
+draft: true
+type: tv
 ---
 ## TMDB Data
 ```json

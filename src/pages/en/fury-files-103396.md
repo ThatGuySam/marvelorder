@@ -1,13 +1,13 @@
 ---
-draft: true
 title: Fury Files
 slug: fury-files
 description: >-
   The mysterious Fury gives viewers top-secret access to S.H.I.E.L.D. intel on
   key Marvel heroes and villains by bringing together a mix of animation and
   motion comic art.
-type: tv
 layout: ../../layouts/MainLayout.astro
+draft: true
+type: tv
 ---
 ## TMDB Data
 ```json

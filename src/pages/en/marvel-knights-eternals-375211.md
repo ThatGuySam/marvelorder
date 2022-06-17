@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Marvel Knights: Eternals'
 slug: marvel-knights-eternals
 description: >-
@@ -11,8 +10,9 @@ description: >-
   meets Ike Harris, a man who believes that he is part of a centuries-old race
   of super-powered beings put here on Earth by aliens to preserve and safeguard
   the planet — and even crazier, tried to convince Mark that he is one too.
-type: movie
 layout: ../../layouts/MainLayout.astro
+draft: true
+type: movie
 ---
 ## TMDB Data
 ```json

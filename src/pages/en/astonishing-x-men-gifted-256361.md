@@ -6,9 +6,9 @@ description: >-
   "astonishing" the world. But when breaking news regarding a cure to the mutant
   gene unexpectedly hits the airwaves, will it derail their new plans before
   they even get started? Kitty Pride ( aka shadowcat ) returns to the mansion.
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/fanart/astonishing-x-men-gifted-5e70532739927.png
-layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
 ```json

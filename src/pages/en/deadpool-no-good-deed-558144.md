@@ -4,11 +4,10 @@ slug: deadpool-no-good-deed
 description: >-
   Deadpool sees an opportunity to save the day, but it doesn't go entirely as
   planned.
-logo_on_black: /.netlify/functions/tmdb-image/7p1v2CMnEd0Hb3eFi0iEA6kDAMU.webp
 layout: ../../layouts/MainLayout.astro
+logo_on_black: /.netlify/functions/tmdb-image/7p1v2CMnEd0Hb3eFi0iEA6kDAMU.webp
 rentLinks:
-  amazon: >-
-    none
+  amazon: none
 ---
 ## TMDB Data
 ```json

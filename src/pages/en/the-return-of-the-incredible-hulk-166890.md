@@ -9,8 +9,7 @@ description: >-
 layout: ../../layouts/MainLayout.astro
 logo_on_black: /.netlify/functions/tmdb-image/bzrcGjnFF9k7aSuEKkUXYXg3Kn6.webp?crop.top=0.66
 rentLinks:
-  amazon: >-
-    https://amzn.to/3HvReEd
+  amazon: 'https://amzn.to/3HvReEd'
 ---
 ## TMDB Data
 ```json

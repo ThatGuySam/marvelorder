@@ -2,11 +2,11 @@
 title: I Am Groot
 slug: i-am-groot
 description: >-
-  Everyone’s favorite little tree, Baby Groot, stars in a series of shorts
-  featuring several new and unusual characters.
+  Follow Baby Groot’s glory days growing up, and getting into trouble among the
+  stars.
+layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/tmdb-image/lOqw1w20tjRbbjPImUjbFRfNffp.webp
-layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
 ```json

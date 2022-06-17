@@ -17,12 +17,13 @@ logo_on_black: >-
 rentLinks:
   amazon: >-
     https://www.amazon.com/dp/B00715RHBC?tag=marvelorder-20&linkCode=osi&th=1&psc=1
+backdrop_path: /vrb9b26WDZto8vmUnDMgZZ1T9hS.jpg
 ---
 ## TMDB Data
 ```json
 {
     "adult": false,
-    "backdrop_path": "/fH1KNbpSjS5YBHovaSFY6AB1UJ6.jpg",
+    "backdrop_path": "/vrb9b26WDZto8vmUnDMgZZ1T9hS.jpg",
     "genre_ids": [
         12,
         14,

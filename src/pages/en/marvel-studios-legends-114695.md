@@ -7,8 +7,8 @@ description: >-
   into the upcoming series — setting the stage for future events. This series
   weaves together the many threads that constitute the unparalleled Marvel
   Cinematic Universe.
-type: tv
 layout: ../../layouts/MainLayout.astro
+type: tv
 ---
 ## TMDB Data
 ```json

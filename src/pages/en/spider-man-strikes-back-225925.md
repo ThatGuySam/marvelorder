@@ -13,7 +13,7 @@ description: >-
 layout: ../../layouts/MainLayout.astro
 logo_on_black: /.netlify/functions/fanart/spider-man-strikes-back-5d35084edf0b8.webp
 rentLinks:
-  amazon: 'none'
+  amazon: none
 ---
 ## TMDB Data
 ```json

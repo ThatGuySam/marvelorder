@@ -5,8 +5,8 @@ description: >-
   Go behind the scenes of the shows and movies of the Marvel Cinematic Universe,
   following the filmmakers, cast and crew, and Marvel heroes every step of the
   way.
-type: tv
 layout: ../../layouts/MainLayout.astro
+type: tv
 ---
 ## TMDB Data
 ```json

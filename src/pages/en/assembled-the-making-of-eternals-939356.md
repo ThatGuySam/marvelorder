@@ -7,8 +7,8 @@ description: >-
   Discover how the ensemble cast felt stepping into their roles, filming in
   remote locations, and creating bonds that would help to create the on-screen
   relationships that span over 7,000 years.
-type: movie
 layout: ../../layouts/MainLayout.astro
+type: movie
 ---
 ## TMDB Data
 ```json

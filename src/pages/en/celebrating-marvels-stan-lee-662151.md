@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Celebrating Marvel's Stan Lee
 slug: celebrating-marvels-stan-lee
 description: >-
@@ -8,8 +7,9 @@ description: >-
   throughout the life of Lee and across the Marvel Universe, sharing
   never-before-seen interviews and archive footage with Lee himself from deep
   within the Marvel and ABC News archives.
-type: movie
 layout: ../../layouts/MainLayout.astro
+draft: true
+type: movie
 ---
 ## TMDB Data
 ```json

@@ -7,10 +7,11 @@ description: >-
   with the principal cast and crew along with copious clips from the film as
   well as some behind the scenes footage (including a look at that supercool
   metallic bed that the elderly Yashida lies on in the lab in his fortress).
-type: movie
-tags: 
-    doc
 layout: ../../layouts/MainLayout.astro
+type: movie
+tags:
+  - movie
+  - company-7505
 ---
 ## TMDB Data
 ```json

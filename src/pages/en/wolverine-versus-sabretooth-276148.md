@@ -4,8 +4,8 @@ slug: wolverine-versus-sabretooth
 description: >-
   It's claw versus claw as Logan faces his age-old foe in the latest Marvel
   Knights Animation, Wolverine Vs. Sabretooth.
-type: movie
 layout: ../../layouts/MainLayout.astro
+type: movie
 ---
 ## TMDB Data
 ```json

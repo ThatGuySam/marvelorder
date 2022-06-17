@@ -4,8 +4,8 @@ slug: untitled-spider-women-film
 description: >-
   A spin-off to 'Spider-Man: Into The Spider-Verse', focused on three
   generations of female, Spider-related characters.
-type: movie
 layout: ../../layouts/MainLayout.astro
+type: movie
 ---
 ## TMDB Data
 ```json

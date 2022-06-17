@@ -10,6 +10,7 @@ logo_on_black: >-
 rentLinks:
   amazon: >-
     https://www.amazon.com/dp/B01JQXEKRA?tag=marvelorder-20&linkCode=osi&th=1&psc=1
+poster_path: /5B4z5Ch5Dek8hQJ7UlIVZgWLntV.jpg
 ---
 ## TMDB Data
 ```json
@@ -28,7 +29,7 @@ rentLinks:
     "original_language": "en",
     "original_title": "Dr. Strange",
     "overview": "A psychiatrist becomes the new Sorcerer Supreme of the Earth in order to battle an evil Sorceress from the past.",
-    "poster_path": "/uMoUh0cgZmAfbVF1aF9WGRfXKoh.jpg",
+    "poster_path": "/5B4z5Ch5Dek8hQJ7UlIVZgWLntV.jpg",
     "release_date": "1978-09-06",
     "title": "Dr. Strange",
     "video": false,

@@ -8,9 +8,9 @@ description: >-
   doesn’t want wealth, power or world domination: it only wants them dead. As
   the X-Men fight for their lives, they learn they’ve been deceived by one of
   their own . . . even if they survive, the team will never be the same.
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/fanart/astonishing-x-men-dangerous-5e7124ec3c5d1.png
-layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
 ```json

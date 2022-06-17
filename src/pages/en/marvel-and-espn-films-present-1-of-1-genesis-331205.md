@@ -4,11 +4,11 @@ slug: marvel-and-espn-films-present-1-of-1-genesis
 description: >-
   This documentary explores the connections between elite athletes and Marvel
   superheros such as Spider Man, Black Widow and Captain America.
-type: movie
-tags: [
-    doc
-]
 layout: ../../layouts/MainLayout.astro
+type: movie
+tags:
+  - movie
+  - company-7505
 ---
 ## TMDB Data
 ```json

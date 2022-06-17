@@ -4,12 +4,11 @@ slug: marvel-disk-wars-the-avengers
 description: >-
   A group of teenagers join forces with the Avengers, Earth's mightiest heroes,
   to fight against the tyrannical Loki and his mighty empire.
+layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/fanart/marvel-disk-wars-the-avengers-5c1ae4398df1e.webp
-layout: ../../layouts/MainLayout.astro
 rentLinks:
-  amazon: >-
-    none
+  amazon: none
 ---
 ## TMDB Data
 ```json

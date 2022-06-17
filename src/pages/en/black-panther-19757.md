@@ -8,8 +8,8 @@ description: >-
   latest in this famed line is young King T’Challa, the great hero known
   worldwide as the Black Panther. Now, outsiders once again threaten to invade
   and plunder Wakanda.
-type: tv
 layout: ../../layouts/MainLayout.astro
+type: tv
 ---
 ## TMDB Data
 ```json

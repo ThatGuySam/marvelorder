@@ -7,9 +7,9 @@ description: >-
   Spider-Man across the Multiverse to join forces with Gwen Stacy and a new team
   of Spider-People to face off with a villain more powerful than anything they
   have ever encountered.
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/tmdb-image/zfZuSNGKxIlWQKi4xlIhFoRrlnj.webp
-layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
 ```json

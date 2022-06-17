@@ -4,10 +4,10 @@ slug: secret-invasion
 description: >-
   Nick Fury and Talos discover a faction of shapeshifting Skrulls who have been
   infiltrating Earth for years.
+layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/tmdb-image/9w2rAdWyOiwBDloJCQzweOo09B6.webp
 release_date: 2022-09
-layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
 ```json

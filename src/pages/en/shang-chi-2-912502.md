@@ -2,9 +2,9 @@
 title: Shang-Chi 2
 slug: shang-chi-2
 description: Sequel to the 2021 film “Shang-Chi and the Legend of the Ten Rings”.
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/tmdb-image/ruUz3vhYuq3011WzSNM0SlgaVzh.webp
-layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
 ```json

@@ -5,12 +5,11 @@ description: >-
   The film takes place one year after the events of Captain America: The First
   Avenger, in which Agent Carter, a member of the Strategic Scientific Reserve,
   is in search of the mysterious Zodiac.
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/fanart/marvel-one-shot-agent-carter-53a58d2492e07.webp
-layout: ../../layouts/MainLayout.astro
 rentLinks:
-  amazon: >-
-    none
+  amazon: none
 ---
 ## TMDB Data
 ```json

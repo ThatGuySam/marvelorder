@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Marvel's Spidey and His Amazing Friends
 slug: marvels-spidey-and-his-amazing-friends
 description: >-
@@ -7,8 +6,9 @@ description: >-
   young heroes team up with Hulk, Ms. Marvel and Black Panther to defeat foes
   like Rhino, Doc Ock and Green Goblin and learn that teamwork is the best way
   to save the day.
-type: tv
 layout: ../../layouts/MainLayout.astro
+draft: true
+type: tv
 ---
 ## TMDB Data
 ```json

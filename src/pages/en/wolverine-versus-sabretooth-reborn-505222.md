@@ -6,8 +6,8 @@ description: >-
   back longer than either can remember: or even imagine. The key to victory is
   eons old, and it’s certain to rock their world. It’s the epic conclusion to
   the duo’s greatest battle!
-type: movie
 layout: ../../layouts/MainLayout.astro
+type: movie
 ---
 ## TMDB Data
 ```json

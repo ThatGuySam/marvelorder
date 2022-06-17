@@ -2,8 +2,8 @@
 title: Untitled Spider-Man 4 Movie
 slug: untitled-spider-man-4-movie
 description: ''
-type: movie
 layout: ../../layouts/MainLayout.astro
+type: movie
 ---
 ## TMDB Data
 ```json

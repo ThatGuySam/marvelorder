@@ -7,9 +7,9 @@ description: >-
   of humanity, when the forces of evil are so overwhelming that no single hero
   has the power to save the world, when there is no hope left…the AVENGERS
   ASSEMBLE!
+layout: ../../layouts/MainLayout.astro
 logo_on_black: /.netlify/functions/fanart/avengers-1999-5da2f2765bc19.webp
 type: tv
-layout: ../../layouts/MainLayout.astro
 rentLinks:
   amazon: >-
     https://www.amazon.com/dp/B007OH9MYW?tag=marvelorder-20&linkCode=osi&th=1&psc=1

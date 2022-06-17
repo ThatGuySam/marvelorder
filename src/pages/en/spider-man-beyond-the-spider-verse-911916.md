@@ -4,9 +4,9 @@ slug: spider-man-beyond-the-spider-verse
 description: >-
   The further continuing story of Miles Morales and the many other Spider-People
   from different realities.
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/tmdb-image/5cAuJOfd5tuuFBz2yQmBCtVBaj0.webp
-layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
 ```json

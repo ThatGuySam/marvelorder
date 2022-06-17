@@ -5,8 +5,8 @@ description: >-
   Black Panther is the ruler and protector of the African nation of Wakanda.
   Using technology, wits, and extraordinary fighting ability he must protect his
   nation from an invasion led by Ulysses Klaw, the man who killed his father.
-type: movie
 layout: ../../layouts/MainLayout.astro
+type: movie
 ---
 ## TMDB Data
 ```json

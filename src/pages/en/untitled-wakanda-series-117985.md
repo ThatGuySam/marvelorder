@@ -2,8 +2,8 @@
 title: Untitled Wakanda Series
 slug: untitled-wakanda-series
 description: Upcoming Marvel Cinematic Universe series set in the Kingdom of Wakanda.
-type: tv
 layout: ../../layouts/MainLayout.astro
+type: tv
 ---
 ## TMDB Data
 ```json

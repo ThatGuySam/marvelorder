@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Wolverine: Origin'
 slug: wolverine-origin
 description: >-
@@ -15,8 +14,9 @@ description: >-
   and childhood of young James Howlett…the intriguing secrets of his family
   history…and the tragedy that changed everything.  Welcome to the greatest
   story never told.
-type: movie
 layout: ../../layouts/MainLayout.astro
+draft: true
+type: movie
 ---
 ## TMDB Data
 ```json

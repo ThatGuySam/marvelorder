@@ -6,8 +6,8 @@ description: >-
   from the future to kill the heroes of today, while Wolverine embarks on an
   international pub crawl with a certain recently reborn Sentinel of Liberty.
   Beer and bullets galore!
-type: movie
 layout: ../../layouts/MainLayout.astro
+type: movie
 ---
 ## TMDB Data
 ```json

@@ -2,9 +2,9 @@
 title: 'Ant-Man and the Wasp: Quantumania'
 slug: ant-man-and-the-wasp-quantumania
 description: The third film in the Marvel Studios' Ant-Man trilogy.
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/tmdb-image/mYCBuVGQGWPlUNZQusdHfbSzP1h.webp
-layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
 ```json

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Ultimate Wolverine vs. Hulk
 slug: ultimate-wolverine-vs-hulk
 description: >-
@@ -11,8 +10,9 @@ description: >-
   bring down Nick Fury! Turning to the only man he can trust, Fury enlists
   Wolverine to help, and Wolverine is glad to take down Banner by any means
   necessary!
-type: movie
 layout: ../../layouts/MainLayout.astro
+draft: true
+type: movie
 ---
 ## TMDB Data
 ```json

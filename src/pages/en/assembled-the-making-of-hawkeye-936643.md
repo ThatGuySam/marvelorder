@@ -8,8 +8,8 @@ description: >-
   action set pieces, and discover how iconic characters from the pages of Marvel
   Comics such as Kate Bishop were adapted and brought to life for the
   six-episode series.
-type: movie
 layout: ../../layouts/MainLayout.astro
+type: movie
 ---
 ## TMDB Data
 ```json

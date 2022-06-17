@@ -2,8 +2,8 @@
 title: The Mutants
 slug: the-mutants
 description: Upcoming Marvel Studios film announced as in development at SDCC 2019.
-type: movie
 layout: ../../layouts/MainLayout.astro
+type: movie
 ---
 ## TMDB Data
 ```json

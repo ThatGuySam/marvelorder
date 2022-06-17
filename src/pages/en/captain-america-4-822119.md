@@ -4,9 +4,9 @@ slug: captain-america-4
 description: >-
   A sequel to Marvel Studios' The Falcon and the Winter Soldier and follows Sam
   Wilson as the new Captain America.
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/tmdb-image/d5N3e1ANYQQ7YJD2mxNEw6WMMJh.webp
-layout: ../../layouts/MainLayout.astro
 ---
 ## TMDB Data
 ```json

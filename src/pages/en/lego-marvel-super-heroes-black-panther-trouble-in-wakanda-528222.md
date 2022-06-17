@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'LEGO Marvel Super Heroes: Black Panther - Trouble in Wakanda'
 slug: lego-marvel-super-heroes-black-panther-trouble-in-wakanda
 description: >-
@@ -9,9 +8,11 @@ description: >-
   Killmonger and Ulysses Klaue in a plot where they will obtain the Vibranium in
   Wakanda to empower Thanos. When Black Panther discovers this plot, he must
   work with Shuri, Okoye, and the Avengers to defeat them.
-type: movie
-logo_on_black: /.netlify/functions/fanart/lego-marvel-super-heroes-black-panther---trouble-in-wakanda-5e85da0ef3416.webp
 layout: ../../layouts/MainLayout.astro
+draft: true
+type: movie
+logo_on_black: >-
+  /.netlify/functions/fanart/lego-marvel-super-heroes-black-panther---trouble-in-wakanda-5e85da0ef3416.webp
 ---
 ## TMDB Data
 ```json
