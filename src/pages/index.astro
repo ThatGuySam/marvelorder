@@ -1,7 +1,8 @@
 ---
 // @ts-ignore
 import { getListingsFromFilePaths } from '~/src/helpers/node/listing-files.ts'
-// import { MappedListing } from '~/src/helpers/node/listing.ts'
+// @ts-ignore
+import { convertNullValuesForAstro } from '~/src/helpers/listing.ts'
 
 import Layout from '../layouts/HorizontalScroll.astro'
 import ListingRow from '../components/listing-row.vue'
@@ -17,7 +18,7 @@ const listings = await getListingsFromFilePaths( pages.map( page => page.file ) 
 	
 	<ListingRow 
 		client:load
-		listings={ listings }
+		listings={ convertNullValuesForAstro( listings ) }
 	/>
 	
   

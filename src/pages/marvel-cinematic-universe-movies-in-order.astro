@@ -5,13 +5,13 @@ import {
 	isMCU, 
 	FilteredListings
 } from '~/src/helpers/listing-filters'
-// import { MappedListing } from '~/src/helpers/node/listing.ts'
+// @ts-ignore
+import { convertNullValuesForAstro } from '~/src/helpers/listing.ts'
 
 import Layout from '../layouts/HorizontalScroll.astro'
 import ListingRow from '../components/listing-row.vue'
 
 const pages = await Astro.glob( '/src/pages/en/*.md' )
-
 
 const allListings = await getListingsFromFilePaths( pages.map( page => page.file ) )
 
@@ -22,6 +22,10 @@ const mcuFilteredListings = new FilteredListings({
 	]) 
 })
 
+const rawListings = mcuFilteredListings.list.map( listing => listing.sourceListing )
+
+console.log( 'rawListings', rawListings )
+
 ---
 <Layout
 	content={{
@@ -31,7 +35,7 @@ const mcuFilteredListings = new FilteredListings({
 	
 	<ListingRow 
 		client:load
-		listings={ mcuFilteredListings.list }
+		listings={ convertNullValuesForAstro( rawListings ) }
 	/>
 	
   
