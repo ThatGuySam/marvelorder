@@ -7,6 +7,9 @@ description: >-
 type: movie
 logo_on_black: /.netlify/functions/fanart/marvel-one-shot-all-hail-the-king-53a58d5fd87d0.webp
 layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    none
 ---
 ## TMDB Data
 ```json

@@ -6,9 +6,13 @@ description: >-
   Johnny Blaze reluctantly comes out of hiding to transform into the
   flame-spewing supernatural hero Ghost Rider -- and rescue a 10-year-old boy
   from an unsavory end.
-type: movie
-logo_on_black: /.netlify/functions/tmdb-image/gG7N8hvj3LwbdSFZ6NealucfH0h.webp?crop.top=0.02&crop.bottom=0.83
 layout: ../../layouts/MainLayout.astro
+type: movie
+logo_on_black: >-
+  /.netlify/functions/tmdb-image/gG7N8hvj3LwbdSFZ6NealucfH0h.webp?crop.top=0.02&crop.bottom=0.83
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B00845PT18?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

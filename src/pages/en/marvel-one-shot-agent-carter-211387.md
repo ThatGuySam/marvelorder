@@ -8,6 +8,9 @@ description: >-
 type: movie
 logo_on_black: /.netlify/functions/fanart/marvel-one-shot-agent-carter-53a58d2492e07.webp
 layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    none
 ---
 ## TMDB Data
 ```json

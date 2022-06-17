@@ -7,6 +7,9 @@ description: >-
   films, the Marvel One-Shots and "Marvel's Agents of S.H.I.E.L.D."
 type: movie
 layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    none
 ---
 ## TMDB Data
 ```json

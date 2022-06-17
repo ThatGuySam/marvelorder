@@ -4,8 +4,12 @@ slug: x-men-origins-wolverine
 description: >-
   After seeking to live a normal life, Logan sets out to avenge the death of his
   girlfriend by undergoing the mutant Weapon X program and becoming Wolverine.
-logo_on_black: /.netlify/functions/tmdb-image/mQglrQzgZT0Oj9cQYPsLI8dsEqB.webp?crop.top=0.83&crop.bottom=0.04
 layout: ../../layouts/MainLayout.astro
+logo_on_black: >-
+  /.netlify/functions/tmdb-image/mQglrQzgZT0Oj9cQYPsLI8dsEqB.webp?crop.top=0.83&crop.bottom=0.04
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B002K99P7S?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

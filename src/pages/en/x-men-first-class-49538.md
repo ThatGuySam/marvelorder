@@ -7,8 +7,11 @@ description: >-
   Before they were arch-enemies, they were closest of friends, working together
   with other mutants (some familiar, some new), to stop the greatest threat the
   world has ever known.
-logo_on_black: /.netlify/functions/fanart/x-men-first-class-5071af664ca92.png
 layout: ../../layouts/MainLayout.astro
+logo_on_black: /.netlify/functions/fanart/x-men-first-class-5071af664ca92.png
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B009YMKL4A?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

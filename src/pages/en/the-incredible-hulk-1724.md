@@ -6,9 +6,12 @@ description: >-
   force of rage within him: the Hulk. But when the military masterminds who
   dream of exploiting his powers force him back to civilization, he finds
   himself coming face to face with a new, deadly foe.
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/tmdb-image/zaHqckCJEwrUptgpU7VWzRsD7ET.webp
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B001LM1456?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

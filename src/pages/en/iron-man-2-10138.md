@@ -7,9 +7,13 @@ description: >-
   and the public to share his technology with the military. Unwilling to let go
   of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his
   side, must forge new alliances – and confront powerful enemies.
-type: movie
-logo_on_black: /.netlify/functions/tmdb-image/PuAWzSlp3BoB9JT8lNIFHlNM6j.webp?crop.bottom=0.86
 layout: ../../layouts/MainLayout.astro
+type: movie
+logo_on_black: >-
+  /.netlify/functions/tmdb-image/PuAWzSlp3BoB9JT8lNIFHlNM6j.webp?crop.bottom=0.86
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B0040Z9H5K?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

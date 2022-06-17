@@ -5,9 +5,12 @@ description: >-
   Wolverine and the X-Men must join together again to not only battle the
   increasingly powerful Mutant Response Division, but also to prevent a
   catastrophic future that Xavier has warned Wolverine must never come to pass.
+layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/fanart/wolverine-and-the-x-men-52375c6d29f1e.webp
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B00CMVT4CA?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json
