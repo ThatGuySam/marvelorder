@@ -69,14 +69,32 @@ export async function getListingsFromFilePaths ( filePaths: string[] ) {
     return listings
 }
 
+export async function getListingDetailsFromPaths ( filePaths: string[] ) {
+    const listings = []
+
+    for ( const filePath of filePaths ) {
+        const details = await getListingFromFile( filePath )
+
+        // if the listing is disabled, skip it
+        // Draft doubles as disable since it's used by Astro
+        // https://docs.astro.build/en/guides/markdown-content/#markdown-drafts
+        if ( details.listing?.draft === true ) {
+            continue
+        }
+
+        listings.push( details )
+    }
+
+    return listings
+}
+
 
 export function upsertListing ( listing: Listing , data: any ) {
     
     // console.log( 'listing', listing )
     // console.log( 'data', data )
 
-    // Merge letting the frontmatter take precedence
-    return mergeListingData( listing, data )
+    // Merge letting the frontmatter take precedence    return mergeListingData( listing, data )
 }
 
 
