@@ -12,7 +12,7 @@ export function makeListingEndpoint ( listing : Listing ) {
 }
 
 
-export function convertNullValuesForAstro ( listings ) {
+export function convertNullValuesForAstro ( listings: Listing[] ) {
     return listings.map( listing => {
 
         const mappedEntries = Object.entries( listing ).map( ( [ key, value ] ) => {
