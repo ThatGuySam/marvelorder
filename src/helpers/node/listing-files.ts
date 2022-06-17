@@ -1,13 +1,12 @@
-import { promises as fs } from 'fs'
-// import fs from 'fs-extra'
+// import { promises as fs } from 'fs'
+import fs from 'fs-extra'
 import matter from 'gray-matter'
 import glob from 'fast-glob'
 
 
 // @ts-ignore
 import { listingsGlobPattern } from '~/src/config.ts'
-import { 
-    getPartsFromMarkdown, 
+import {     getPartsFromMarkdown, 
     parseTMDbMarkdown, 
     makeNewListingContents
 // @ts-ignore
