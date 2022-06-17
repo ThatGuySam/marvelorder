@@ -6,7 +6,7 @@ description: >-
   to fight against the tyrannical Loki and his mighty empire.
 type: tv
 logo_on_black: /.netlify/functions/fanart/marvel-disk-wars-the-avengers-5c1ae4398df1e.webp
-layout: ../../layouts/MainLayout.astro\
+layout: ../../layouts/MainLayout.astro
 rentLinks:
   amazon: >-
     none
