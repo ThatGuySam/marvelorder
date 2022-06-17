@@ -10,6 +10,10 @@ import {
     writeMarkdownFileNode
 // @ts-ignore
 } from '~/src/helpers/node/listing-files.ts'
+import { 
+	isUpcoming, 
+	FilteredListings
+} from '~/src/helpers/listing-filters'
 
 const amazon = require('amazon-paapi')
 
@@ -36,15 +40,27 @@ async function readMarkdownFileNode ( filePath: string ) {
 
     const rawListingsDetails = await getListingDetailsFromPaths( listingFiles )
 
-    for ( const details of rawListingsDetails ) {
-        console.log( 'rentLinks', details.listing?.rentLinks )
+    const listingDetailsMap = new Map( rawListingsDetails.map( ( details:any ) => [ details.listing.id, details ] ) )
+    const allListings = rawListingsDetails.map( ( details:any ) => details.listing )
+
+
+    const rentableListings = new FilteredListings({ 
+        listings: allListings, 
+        initialFilters: new Map([
+            [ isUpcoming, false ]
+        ]) 
+    })
+
+
+    for ( const listing of rentableListings.list ) {
+        const details:any = listingDetailsMap.get( listing.id )
+
+        // console.log( 'rentLinks', details.listing?.rentLinks )
         // Skip listings that already have amazon links
         if ( !!details.listing?.rentLinks?.amazon ) continue
 
 
-        // console.log( 'listingDetails', listingDetails )
-
-        console.log('details.listing.title', details.listing.title )
+        console.log('Searching for', details.listing.title )
           
         const response = await amazon.SearchItems(commonParameters, {
             Keywords: details.listing.title,
