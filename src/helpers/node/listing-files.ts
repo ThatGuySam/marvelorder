@@ -6,7 +6,8 @@ import glob from 'fast-glob'
 
 // @ts-ignore
 import { listingsGlobPattern } from '~/src/config.ts'
-import {     getPartsFromMarkdown, 
+import { 
+    getPartsFromMarkdown, 
     parseTMDbMarkdown, 
     makeNewListingContents
 // @ts-ignore
@@ -22,7 +23,7 @@ import {
 
 export async function getListingFiles () {
     const listingFiles = await glob(listingsGlobPattern)
-    
+
     return listingFiles
 }
 
@@ -93,7 +94,8 @@ export function upsertListing ( listing: Listing , data: any ) {
     // console.log( 'listing', listing )
     // console.log( 'data', data )
 
-    // Merge letting the frontmatter take precedence    return mergeListingData( listing, data )
+    // Merge letting the frontmatter take precedence
+    return mergeListingData( listing, data )
 }
 
 
@@ -120,4 +122,38 @@ export function makeTomlFromListingData ( body: string , listing: Listing ) {
     const markdownWithToml = matter.stringify( body, listing )
 
     return markdownWithToml
+}
+
+
+// Node specfic markdown writer
+// since Deno uses custom fs and import method for gray-matter
+export async function writeMarkdownFileNode ({ path, markdownBody, pageMeta }) {
+
+    console.log( 'path', path )
+    // console.log('markdownBody', markdownBody)
+    // console.log('pageMeta', pageMeta)
+
+    const hasPageMeta = Object( pageMeta ) === pageMeta && Object.keys(pageMeta).length > 0
+
+
+    // If there is no pageMeta
+    // then assume everything the body already has encoded frontmatter
+    if ( !hasPageMeta ) {
+        const bodyHasFrontmatter = markdownBody.startsWith('---')
+
+        // If there is no frontmatter then throw
+        if ( !bodyHasFrontmatter ) {
+            throw new Error(`No frontmatter found for ${ path }`)
+        }
+
+        await fs.writeFile( path, markdownBody )
+
+        return
+    }
+
+    const markdownContent = matter.stringify( markdownBody, pageMeta )
+
+    // console.log('markdownContent', markdownContent)
+    
+    await fs.writeFile( path, markdownContent )
 }
