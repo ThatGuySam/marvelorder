@@ -7,9 +7,13 @@ description: >-
   the rockets of Nazi baddie "Red Skull", Captain America winds up frozen until
   the 1990s. He reawakens to find that the Red Skull has changed identities and
   is now planning to kidnap the President of the United States.
-type: movie
-logo_on_black: /.netlify/functions/tmdb-image/lUsDBhzogxYOU5XshARgnnZY4Xd.webp?crop.bottom=0.81
 layout: ../../layouts/MainLayout.astro
+type: movie
+logo_on_black: >-
+  /.netlify/functions/tmdb-image/lUsDBhzogxYOU5XshARgnnZY4Xd.webp?crop.bottom=0.81
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B00BCMT49I?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

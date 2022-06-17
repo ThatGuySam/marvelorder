@@ -10,8 +10,10 @@ description: >-
   White shows up, and will stop at nothing to get his hands on the atomic bomb.
   Spider-Man must defeat this scheming villain and stop him blowing up the World
   Trade Centre.
-logo_on_black: /.netlify/functions/fanart/spider-man-strikes-back-5d35084edf0b8.webp
 layout: ../../layouts/MainLayout.astro
+logo_on_black: /.netlify/functions/fanart/spider-man-strikes-back-5d35084edf0b8.webp
+rentLinks:
+  amazon: 'none'
 ---
 ## TMDB Data
 ```json

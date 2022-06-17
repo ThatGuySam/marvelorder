@@ -15,8 +15,11 @@ description: >-
   fourth season, it was abruptly canceled in 2004 after the dismantling of
   Fireworks Entertainment, one of the show's production companies, ending the
   show on a cliffhanger.
-logo_on_black: /.netlify/functions/fanart/mutant-x-512671c120573.webp
 layout: ../../layouts/MainLayout.astro
+logo_on_black: /.netlify/functions/fanart/mutant-x-512671c120573.webp
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B07BPPH1Q8?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

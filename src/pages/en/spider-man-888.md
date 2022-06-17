@@ -5,8 +5,11 @@ description: >-
   Bitten by a radioactive spider, Peter Parker develops spider-like superpowers.
   He uses these to fight crime while trying to balance it with the struggles of
   his personal life.
-logo_on_black: /.netlify/functions/fanart/spider-man-1994-5066c5aaac154.webp
 layout: ../../layouts/MainLayout.astro
+logo_on_black: /.netlify/functions/fanart/spider-man-1994-5066c5aaac154.webp
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B006GQL4G6?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

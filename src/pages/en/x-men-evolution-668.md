@@ -4,9 +4,13 @@ slug: x-men-evolution
 description: >-
   Teenagers Cyclops, Jean Grey, Rogue, Nightcrawler, Shadowcat, and Spike fight
   for a world that fears and hates them.
-type: tv
-logo_on_black: /.netlify/functions/tmdb-image/atNjQM4pFFoXr8EWxpRj59NN3bF.webp?crop.bottom=0.1
 layout: ../../layouts/MainLayout.astro
+type: tv
+logo_on_black: >-
+  /.netlify/functions/tmdb-image/atNjQM4pFFoXr8EWxpRj59NN3bF.webp?crop.bottom=0.1
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B006GQP5CU?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

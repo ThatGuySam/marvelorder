@@ -6,8 +6,11 @@ description: >-
   Thor, a Norse god who is prevented from entering Valhalla. When the two
   superheroes stop feuding long enough to breathe, they are a team unmatched by
   any of their enemies.
-logo_on_black: /.netlify/functions/fanart/the-incredible-hulk-returns-5577f15dd6b57.webp
 layout: ../../layouts/MainLayout.astro
+logo_on_black: /.netlify/functions/fanart/the-incredible-hulk-returns-5577f15dd6b57.webp
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B00715QLKK?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

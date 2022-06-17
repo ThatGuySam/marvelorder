@@ -13,9 +13,11 @@ description: >-
   the factory, and blows himself up to destroy it. Unfortunately, his sacrifice
   is in vain, as their evil robo is already completed. But Battle Fever’s giant
   robo is also complete and ready to save the day!
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/tmdb-image/iSiD46YjoMMy0yOWImZUT6yZbWD.webp
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: 'none'
 ---
 ## TMDB Data
 ```json

@@ -6,6 +6,9 @@ description: >-
   their afflictions in a race against time.
 logo_on_black: /.netlify/functions/tmdb-image/3apbGlabEmgR1jEgJgqg7FUMqCz.webp?crop.bottom=0.75
 layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B0171Z7TJG?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

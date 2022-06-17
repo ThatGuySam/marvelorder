@@ -9,9 +9,12 @@ description: >-
   sewers and exacting vigilante violence against mob bosses throughout the city.
   When the populace is caught in the midst of a gang war that he caused, Castle
   must again emerge from the shadows and save the innocent.
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/fanart/the-punisher-5164a12f0fc20.png
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B01E2F5JAY?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

@@ -4,9 +4,12 @@ slug: silver-surfer
 description: >-
   The adventures of the cosmic wanderer as he seeks his lost home after
   rebelling from his master.
+layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/fanart/the-silver-surfer-5e71870f1dc60.png
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    none
 ---
 ## TMDB Data
 ```json

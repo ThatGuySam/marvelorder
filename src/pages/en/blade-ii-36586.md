@@ -7,9 +7,12 @@ description: >-
   well as humans, transforming victims who are unlucky enough to survive into
   Reapers themselves. Blade is asked by the Vampire Nation for his help in
   preventing a nightmare plague that would wipe out both humans and vampires.
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/fanart/blade-ii-514820db94dc2.webp
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B002WSAST6?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

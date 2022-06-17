@@ -6,8 +6,10 @@ description: >-
   the Sea-Devil, a semi-mechanical anthropomorphic swordfish with an ability to
   shoot torpedoes from its mouth. Spiderman employs the help of the interpol
   agent Juzo Mamiya to help him stop the Iron Cross Army.
-logo_on_black: /.netlify/functions/fanart/spider-man-the-movie-5e89f52be649e.webp
 layout: ../../layouts/MainLayout.astro
+logo_on_black: /.netlify/functions/fanart/spider-man-the-movie-5e89f52be649e.webp
+rentLinks:
+  amazon: 'none'
 ---
 ## TMDB Data
 ```json

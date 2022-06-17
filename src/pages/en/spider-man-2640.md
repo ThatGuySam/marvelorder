@@ -8,9 +8,11 @@ description: >-
   Garia injects Takuya with some of his own blood, giving Takuya spider-like
   powers. Using his powers, Takuya fights Professor Monster's army and other
   threats to Earth under the name Spiderman.
+layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/fanart/spider-man-1978-5cddabaeefc4e.webp
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: 'none'
 ---
 ## TMDB Data
 ```json

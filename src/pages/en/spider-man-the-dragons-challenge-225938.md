@@ -6,6 +6,9 @@ description: >-
   feature.
 logo_on_black: /.netlify/functions/fanart/spider-man-the-dragons-challenge-5d3508360b27d.png
 layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    none
 ---
 ## TMDB Data
 ```json

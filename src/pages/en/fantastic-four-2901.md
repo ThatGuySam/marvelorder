@@ -9,9 +9,12 @@ description: >-
   new powers to help people, they form the Fantastic Four, a superhero team
   dedicated to the protection of Earth from menaces like the Latverian King Dr.
   Doom and Galactus, the planet consumer.
+layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/fanart/the-fantastic-four-5ccdbd3222058.png
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B000KCJQ1C?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

@@ -11,8 +11,12 @@ description: >-
   senses so incredibly, he has become the amazingly athletic crime fighter
   called Daredevil. Fisk must now face off against Daredevil and the Incredible
   Hulk!
-logo_on_black: /.netlify/functions/tmdb-image/pStE8fkPIKoQYcqESNWvY2s9nuo.webp?crop.bottom=0.35&crop.top=0.1
 layout: ../../layouts/MainLayout.astro
+logo_on_black: >-
+  /.netlify/functions/tmdb-image/pStE8fkPIKoQYcqESNWvY2s9nuo.webp?crop.bottom=0.35&crop.top=0.1
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B00715RHBC?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

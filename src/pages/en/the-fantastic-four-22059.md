@@ -7,8 +7,11 @@ description: >-
   for release although the director, actors, and other participants were not
   informed of this fact. It was produced by low-budget specialist Roger Corman
   and Bernd Eichinger (who also produced another Fantastic Four movie in 2005).
-logo_on_black: /.netlify/functions/fanart/fantastic-four-5703a9f669d5f.png
 layout: ../../layouts/MainLayout.astro
+logo_on_black: /.netlify/functions/fanart/fantastic-four-5703a9f669d5f.png
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B01LWVLYEN?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

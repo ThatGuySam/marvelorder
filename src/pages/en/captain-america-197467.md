@@ -10,8 +10,12 @@ description: >-
   him with a special motorcycle loaded with gadgets and an indestructible
   shield. Now armed, he battles against the nation's enemies as the Sentinel of
   Liberty, Captain America.
-logo_on_black: /.netlify/functions/tmdb-image/n4o1ti6DjHTb8qyVWwuI8xnsudY.webp?crop.bottom=0.765&crop.top=0.017
 layout: ../../layouts/MainLayout.astro
+logo_on_black: >-
+  /.netlify/functions/tmdb-image/n4o1ti6DjHTb8qyVWwuI8xnsudY.webp?crop.bottom=0.765&crop.top=0.017
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B01E0LQKLW?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json
