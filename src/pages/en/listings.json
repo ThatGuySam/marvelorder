@@ -215,19 +215,21 @@
 	{
 		"backdrop_path": null,
 		"first_air_date": "",
-		"genre_ids": [],
+		"genre_ids": [
+			35
+		],
 		"id": 198178,
-		"name": "Untitled Destin Daniel Cretton Disney+ series",
+		"name": "Untitled Wonder Man Series",
 		"origin_country": [
 			"US"
 		],
 		"original_language": "en",
-		"original_name": "Untitled Destin Daniel Cretton Disney+ series",
+		"original_name": "Untitled Wonder Man Series",
 		"overview": "",
 		"poster_path": null,
 		"vote_average": 0,
-		"title": "Untitled Destin Daniel Cretton Disney+ series",
-		"slug": "untitled-destin-daniel-cretton-disney-series",
+		"title": "Untitled Wonder Man Series",
+		"slug": "untitled-wonder-man-series",
 		"tags": [
 			"tv",
 			"company-420"
@@ -682,8 +684,7 @@
 		"genre_ids": [
 			28,
 			12,
-			878,
-			35
+			878
 		],
 		"id": 447365,
 		"original_language": "en",
@@ -820,29 +821,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/bcpATvKQmSgCbwxONs9PPQrer3A.jpg",
-		"genre_ids": [
-			28,
-			12,
-			14
-		],
-		"id": 616037,
-		"original_language": "en",
-		"original_title": "Thor: Love and Thunder",
-		"overview": "After his retirement, Thor is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods. Thor enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now inexplicably wields Mjölnir as the Mighty Thor, as they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
-		"poster_path": "/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
-		"release_date": "2022-07-06",
-		"title": "Thor: Love and Thunder",
-		"video": false,
-		"vote_average": 0,
-		"slug": "thor-love-and-thunder",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": null,
 		"genre_ids": [
 			99
@@ -879,11 +857,34 @@
 		"original_name": "Ms. Marvel",
 		"overview": "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school — that is, until she gets superpowers like the heroes she’s always looked up to. Life is easier with superpowers, right?",
 		"poster_path": "/cdkyMYdu8ao26XOBvilNzLneUg1.jpg",
-		"vote_average": 8,
+		"vote_average": 7.9,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
 		"tags": [
 			"tv",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/bcpATvKQmSgCbwxONs9PPQrer3A.jpg",
+		"genre_ids": [
+			28,
+			12,
+			14
+		],
+		"id": 616037,
+		"original_language": "en",
+		"original_title": "Thor: Love and Thunder",
+		"overview": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now inexplicably wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
+		"poster_path": "/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+		"release_date": "2022-06-07",
+		"title": "Thor: Love and Thunder",
+		"video": false,
+		"vote_average": 0,
+		"slug": "thor-love-and-thunder",
+		"tags": [
+			"movie",
 			"company-420"
 		]
 	},
@@ -4530,7 +4531,7 @@
 		"media_type": "tv"
 	},
 	{
-		"backdrop_path": "/wgA0uzHZx2NaCLoBucNCQsD6eYS.jpg",
+		"backdrop_path": "/3WRvDj6od3V6PB90LXFthFLBJmL.jpg",
 		"first_air_date": "1999-10-02",
 		"genre_ids": [
 			16,
@@ -4843,7 +4844,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/fH1KNbpSjS5YBHovaSFY6AB1UJ6.jpg",
+		"backdrop_path": "/vrb9b26WDZto8vmUnDMgZZ1T9hS.jpg",
 		"genre_ids": [
 			12,
 			14,
@@ -5097,7 +5098,7 @@
 		"original_language": "en",
 		"original_title": "Dr. Strange",
 		"overview": "A psychiatrist becomes the new Sorcerer Supreme of the Earth in order to battle an evil Sorceress from the past.",
-		"poster_path": "/uMoUh0cgZmAfbVF1aF9WGRfXKoh.jpg",
+		"poster_path": "/5B4z5Ch5Dek8hQJ7UlIVZgWLntV.jpg",
 		"release_date": "1978-09-06",
 		"title": "Dr. Strange",
 		"video": false,
