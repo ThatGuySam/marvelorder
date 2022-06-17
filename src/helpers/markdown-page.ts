@@ -86,7 +86,7 @@ export function parseTMDbMarkdown ( tmdbContent: string ) {
     return JSON.parse( jsonString )
 }
 
-function getUpdatedProperties ( oldObject:any, newObject:any ) {
+function getUpdatedProperties ( oldObject:any, newObject:any, mergeArrays:boolean = false ) {
     const difference:any = {}
 
     for ( const key of Object.keys( newObject ) ) {
@@ -97,6 +97,17 @@ function getUpdatedProperties ( oldObject:any, newObject:any ) {
 
         if ( existingValueJson !== newValueJson ) {
             // console.log( 'newListingData', key, value, oldObject[ key ] )
+
+            // If the old value is an array 
+            // and the new value is an array
+            // then let merge them in 
+            // but with a Set to remove duplicates
+            if ( mergeArrays && Array.isArray( oldObject[ key ] ) && Array.isArray( value ) ) {
+                difference[ key ] = [ ...new Set( oldObject[ key ].concat( value ) ) ]
+                continue
+            }
+
+
             difference[ key ] = value
         }
     }
@@ -134,7 +145,11 @@ export async function upsertListingMarkdown ( options:any ) {
         tmdb = {} as any, 
         readMarkdownFile, 
         writeMarkdownFile, 
-        exists
+        exists,
+
+        // This is so that tmdb can remove things like genreId
+        // while in other places we can merge in things like tags
+        mergeArrays = false
     } = options
 
     const filePath = `${ storePath }/${ makeListingEndpoint( listing ) }.md`
@@ -148,7 +163,7 @@ export async function upsertListingMarkdown ( options:any ) {
         ? await readMarkdownFile( filePath )
         : { frontmatter: {}, tmdb: {}, listing: {} }
 
-    const newListingData = getUpdatedProperties( existingListingDetails.listing, listing )
+    const newListingData = getUpdatedProperties( existingListingDetails.listing, listing, mergeArrays )
 
 
     // console.log( 'newListingData', newListingData )
