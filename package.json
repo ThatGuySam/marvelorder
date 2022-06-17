@@ -12,6 +12,7 @@
     "preview": "astro preview",
     "pull": "deno run -q -A --unstable scripts/pull.mjs",
     "add-amazon-links": "npx tsx scripts/add-amazon-links.ts",
+    "pull-mcu-timeline-sheet": "npx tsx scripts/pull-mcu-timeline-sheet.ts",
     "netlify-build": "npm run build-test && npm run build"
   },
   "dependencies": {

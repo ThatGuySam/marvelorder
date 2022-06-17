@@ -25,8 +25,8 @@ jobs:
         run: |
           echo ${{ secrets.ACTIONS_ENV }} | base64 -d > ./.env
           cat ./.env
-      - name: Node Version
-        run: node -v
+      - name: Pull MCU Timeline Sheet
+        run: npm run pull-mcu-timeline-sheet
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
