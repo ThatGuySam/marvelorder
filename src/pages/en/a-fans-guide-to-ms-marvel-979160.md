@@ -7,9 +7,10 @@ description: >-
   and production as Marvel Studios’ next hit series on Disney+. It features
   interviews with its award winning filmmaking team and the show’s captivating
   star, newcomer Iman Vellani.
-tags:
-    doc
 layout: ../../layouts/MainLayout.astro
+tags: doc
+rentLinks:
+  amazon: 'none'
 ---
 ## TMDB Data
 ```json
