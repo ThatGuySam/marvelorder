@@ -30,7 +30,10 @@ export async function getListingFiles () {
 export async function getListingFromFile ( filePath: string ) {
     const markdown = await fs.readFile( filePath, 'utf8' )
 
-    return getDataFromListingContents( markdown )
+    return getDataFromListingContents({
+        markdown,
+        matter
+    })
 }
 
 export async function getListingsFromFilePaths ( filePaths: string[] ) {
