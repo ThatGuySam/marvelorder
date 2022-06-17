@@ -8,9 +8,13 @@ description: >-
   meantime, Parker still can't act on his feelings for Mary Jane Watson, a girl
   he's loved since childhood. A certain anger begins to brew in his best friend
   Harry Osborn as well...
-type: movie
-logo_on_black: /.netlify/functions/tmdb-image/bKpPYsXVLRzjN639XEBP91LrAnT.webp?crop.top=0.92&crop.bottom=0.04
 layout: ../../layouts/MainLayout.astro
+type: movie
+logo_on_black: >-
+  /.netlify/functions/tmdb-image/bKpPYsXVLRzjN639XEBP91LrAnT.webp?crop.top=0.92&crop.bottom=0.04
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B000I9YV2Q?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

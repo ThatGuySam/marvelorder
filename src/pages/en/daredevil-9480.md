@@ -4,9 +4,12 @@ slug: daredevil
 description: >-
   A man blinded in a childhood accident fights crime using his
   superhumanly-elevated remaining senses.
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/tmdb-image/kcOwV5mpp8gxxgrZ4iGsxAcMt9F.webp
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B001GJ1BBQ?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

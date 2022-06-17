@@ -8,9 +8,13 @@ description: >-
   hunters he never knew existed—The Nightstalkers. Together with Abigail and
   Hannibal, two deftly trained Nightstalkers, Blade follows a trail of blood to
   the ancient creature that is also hunting him—the original vampire, Dracula.
-type: movie
-logo_on_black: /.netlify/functions/tmdb-image/nSHtakagRBHTc8qTZWXnoTIK6Fb.webp?crop.top=0.73&crop.bottom=0.1
 layout: ../../layouts/MainLayout.astro
+type: movie
+logo_on_black: >-
+  /.netlify/functions/tmdb-image/nSHtakagRBHTc8qTZWXnoTIK6Fb.webp?crop.top=0.73&crop.bottom=0.1
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B07CT4S66N?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

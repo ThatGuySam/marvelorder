@@ -7,9 +7,13 @@ description: >-
   typical 16-year-old entering his junior year of high school. Having spent the
   summer engaging common criminals with his new-found powers, Peter Parker must
   conceal his secret identity and battle super-villains in the real world.
-type: tv
-logo_on_black: /.netlify/functions/tmdb-image/y0Z46zEXJ2OR0DLBWd24QpQ2KKV.webp?crop.bottom=0.75
 layout: ../../layouts/MainLayout.astro
+type: tv
+logo_on_black: >-
+  /.netlify/functions/tmdb-image/y0Z46zEXJ2OR0DLBWd24QpQ2KKV.webp?crop.bottom=0.75
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B002OBF3G4?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

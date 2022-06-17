@@ -7,9 +7,13 @@ description: >-
   the love of his life. Years later, Johnny's path crosses again with Roxanne,
   now a go-getting reporter, and also with Mephistopheles, who offers to release
   Johnny's soul if Johnny becomes the fabled, fiery 'Ghost Rider'.
-type: movie
-logo_on_black: /.netlify/functions/tmdb-image/8LaVQiXBsnlo7MXCPK1nXTVARUZ.webp?crop.top=0.02&crop.bottom=0.85
 layout: ../../layouts/MainLayout.astro
+type: movie
+logo_on_black: >-
+  /.netlify/functions/tmdb-image/8LaVQiXBsnlo7MXCPK1nXTVARUZ.webp?crop.top=0.02&crop.bottom=0.85
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B000RVK1AQ?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

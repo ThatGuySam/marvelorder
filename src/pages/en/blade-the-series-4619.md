@@ -8,9 +8,12 @@ description: >-
   forms an uneasy alliance with Krista Starr, a former military veteran who
   becomes entrenched in the world of vampires while investigating the murder of
   her twin brother.
+layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/tmdb-image/9n1kYtHNeOxXNSDBqzOJF6sNzFW.webp
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B0010TDRP0?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

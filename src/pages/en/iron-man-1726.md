@@ -4,9 +4,12 @@ slug: iron-man
 description: >-
   After being held captive in an Afghan cave, billionaire engineer Tony Stark
   creates a unique weaponized suit of armor to fight evil.
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/tmdb-image/wceJWXt0neJ0biXKOajMoAz2vaY.webp?crop.top=0.82
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B001FD5KJM?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

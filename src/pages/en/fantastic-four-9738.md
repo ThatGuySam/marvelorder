@@ -7,9 +7,12 @@ description: >-
   invisible; Johnny Storm controls fire; and Ben Grimm is turned into a
   super-strong … thing. Together, these "Fantastic Four" must now thwart the
   evil plans of Dr. Doom and save the world from certain destruction.
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/fanart/fantastic-four-527c674a900f0.png
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B000I9U8NW?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

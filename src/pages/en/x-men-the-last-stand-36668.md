@@ -5,8 +5,11 @@ description: >-
   When a cure is found to treat mutations, lines are drawn amongst the X-Men—led
   by Professor Charles Xavier—and the Brotherhood, a band of powerful mutants
   organised under Xavier's former ally, Magneto.
-logo_on_black: /.netlify/functions/fanart/x-men-the-last-stand-5cd52c0045576.png
 layout: ../../layouts/MainLayout.astro
+logo_on_black: /.netlify/functions/fanart/x-men-the-last-stand-5cd52c0045576.png
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B000JFDBXO?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

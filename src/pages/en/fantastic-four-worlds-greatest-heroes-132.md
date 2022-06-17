@@ -5,9 +5,13 @@ description: >-
   Mister Fantastic, the Invisible Woman, the Human Torch, and Thing battle some
   of their greatest foes, including Doctor Doom, Ronan the Accuser, the Multiple
   Man, and Mole Man.
-type: tv
-logo_on_black: /.netlify/functions/fanart/fantastic-four-worlds-greatest-heroes-5cce5d9274152.png
 layout: ../../layouts/MainLayout.astro
+type: tv
+logo_on_black: >-
+  /.netlify/functions/fanart/fantastic-four-worlds-greatest-heroes-5cce5d9274152.png
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B007PAQ6KG?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json
