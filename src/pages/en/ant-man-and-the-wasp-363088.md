@@ -6,9 +6,12 @@ description: >-
   puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the
   quantum realm and try to accomplish, against time and any chance of success, a
   very dangerous rescue mission.
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/tmdb-image/kbYbZR4FgcLTfI6HT2hiEqoPvr9.webp
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B07F1HTM3K?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json
