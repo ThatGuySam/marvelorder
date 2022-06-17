@@ -72,8 +72,8 @@ async function readMarkdownFileNode ( filePath: string ) {
         const response = await amazon.SearchItems(commonParameters, {
             Keywords: searchKeywords,
             // Official Amazon List - https://webservices.amazon.com/paapi5/documentation/locale-reference/united-states.html#search-index
-            SearchIndex: 'All',
             ItemCount: 5,
+            SearchIndex: 'AmazonVideo',
             Resources: [
                 'Images.Primary.Medium',
                 'ItemInfo.Title',
