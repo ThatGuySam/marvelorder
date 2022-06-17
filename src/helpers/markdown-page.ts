@@ -86,8 +86,8 @@ export function parseTMDbMarkdown ( tmdbContent: string ) {
     return JSON.parse( jsonString )
 }
 
-function getUpdatedProperties ( oldObject:object, newObject:object ) {
-    const difference = {}
+function getUpdatedProperties ( oldObject:any, newObject:any ) {
+    const difference:any = {}
 
     for ( const key of Object.keys( newObject ) ) {
         const value = newObject[ key ]
@@ -102,6 +102,30 @@ function getUpdatedProperties ( oldObject:object, newObject:object ) {
     }
 
     return difference
+}
+
+
+export function getDataFromListingContents ( options:any ) {
+
+    const { 
+        markdown, 
+        matter
+    } = options
+
+    const { tmdbContent } = getPartsFromMarkdown( markdown )
+
+    const frontmatter = matter( markdown ).data
+    const tmdb = parseTMDbMarkdown( tmdbContent )
+
+    return {
+        // Merge letting the frontmatter take precedence
+        listing: {
+            ...tmdb,
+            ...frontmatter
+        },
+        frontmatter,
+        tmdb,
+    }
 }
 
 export async function upsertListingMarkdown ( options:any ) {

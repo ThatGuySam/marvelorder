@@ -7,9 +7,8 @@ import glob from 'fast-glob'
 // @ts-ignore
 import { listingsGlobPattern } from '~/src/config.ts'
 import { 
-    getPartsFromMarkdown, 
-    parseTMDbMarkdown, 
-    makeNewListingContents
+    makeNewListingContents,
+    getDataFromListingContents
 // @ts-ignore
 } from '~/src/helpers/markdown-page.ts' 
 
@@ -27,22 +26,6 @@ export async function getListingFiles () {
     return listingFiles
 }
 
-export function getDataFromListingContents ( markdown: string ) {
-    const { tmdbContent } = getPartsFromMarkdown( markdown )
-
-    const frontmatter = matter( markdown ).data
-    const tmdb = parseTMDbMarkdown( tmdbContent )
-
-    return {
-        // Merge letting the frontmatter take precedence
-        listing: {
-            ...tmdb,
-            ...frontmatter
-        },
-        frontmatter,
-        tmdb,
-    }
-}
 
 export async function getListingFromFile ( filePath: string ) {
     const markdown = await fs.readFile( filePath, 'utf8' )

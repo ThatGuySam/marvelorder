@@ -20,7 +20,8 @@ import {
 } from '../src/config.ts'
 import { byListingDate } from '../src/helpers/sort.ts'
 import { 
-    upsertListingMarkdown
+    upsertListingMarkdown,
+    getDataFromListingContents
 } from '../src/helpers/markdown-page.ts'
 import { 
     listingMergeConfig
@@ -190,7 +191,7 @@ async function writeMarkdownFileDeno ({ path, markdownBody, pageMeta }) {
 
     // If there is no pageMeta
     // then assume everything the body already has encoded frontmatter
-    if ( hasPageMeta ) {
+    if ( !hasPageMeta ) {
         const bodyHasFrontmatter = markdownBody.startsWith('---')
 
         // If there is no frontmatter then throw
@@ -209,8 +210,18 @@ async function writeMarkdownFileDeno ({ path, markdownBody, pageMeta }) {
     
     await Deno.writeTextFile( path, markdownContent )
 }
-    
 
+async function readMarkdownFileDeno ( filePath ) {
+    // const markdownContent = await fs.readFile( filePath, 'utf8' )
+
+    const markdownContent = new TextDecoder( 'utf-8' ).decode( await Deno.readFile( filePath ) )
+
+
+    return await getDataFromListingContents({ 
+        markdown: markdownContent, 
+        matter 
+    })
+}
 
 async function saveListingsAsMarkdown ( listings ) {
 
@@ -218,7 +229,8 @@ async function saveListingsAsMarkdown ( listings ) {
 
         await upsertListingMarkdown( {
             listing,
-            readFile: async filePath =>  new TextDecoder( 'utf-8' ).decode( await Deno.readFile( filePath ) ),
+            tmdb: listing,
+            readMarkdownFile: readMarkdownFileDeno, 
             writeMarkdownFile: writeMarkdownFileDeno,
             exists: exists
         })
