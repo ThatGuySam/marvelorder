@@ -6,9 +6,12 @@ description: >-
   the high-stakes of being a super-hero. When he asks for help from Doctor
   Strange the stakes become even more dangerous, forcing him to discover what it
   truly means to be Spider-Man.
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/tmdb-image/5RjyUm9HP2ZRwvqCqK9sDqlQHxa.webp
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B09NMFWBL2?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

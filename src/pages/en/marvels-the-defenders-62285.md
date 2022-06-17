@@ -7,6 +7,9 @@ description: >-
 type: tv
 logo_on_black: /.netlify/functions/fanart/marvels-the-defenders-594bfae9075c1.webp
 layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    none
 ---
 ## TMDB Data
 ```json

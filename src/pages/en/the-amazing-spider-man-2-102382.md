@@ -9,9 +9,12 @@ description: >-
   cannot keep. Things will change for Peter when a new villain, Electro,
   emerges, an old friend, Harry Osborn, returns, and Peter uncovers new clues
   about his past.
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/fanart/the-amazing-spider-man-2-519c7fd6a53e3.webp
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B00JPNZPCG?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

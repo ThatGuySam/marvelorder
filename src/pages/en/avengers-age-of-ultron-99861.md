@@ -8,9 +8,12 @@ description: >-
   The Avengers to stop him from enacting his terrible plans, and soon uneasy
   alliances and unexpected action pave the way for an epic and unique global
   adventure.
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/fanart/the-avengers-2-51eca0725c412.webp
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B07FYX2MT3?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

@@ -7,9 +7,12 @@ description: >-
   with an enemy that even Odin and Asgard cannot withstand, Thor must embark on
   his most perilous and personal journey yet, one that will reunite him with
   Jane Foster and force him to sacrifice everything to save us all.
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/tmdb-image/uwQbAHY7cttDgcX2Av1mm51PsRx.webp
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B00IMYSVY8?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

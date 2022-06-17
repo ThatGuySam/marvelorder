@@ -5,9 +5,12 @@ description: >-
   Five young mutants, just discovering their abilities while held in a secret
   facility against their will, fight to escape their past sins and save
   themselves.
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/fanart/x-men-the-new-mutants-5ad3918d2486b.png
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B086M69YK2?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

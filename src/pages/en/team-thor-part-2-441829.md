@@ -8,6 +8,9 @@ description: >-
 type: movie
 logo_on_black: /.netlify/functions/fanart/team-thor-part-2-59a31b9ebd1ec.webp
 layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    none
 ---
 ## TMDB Data
 ```json

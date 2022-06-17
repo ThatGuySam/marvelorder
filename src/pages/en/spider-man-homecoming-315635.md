@@ -6,9 +6,12 @@ description: >-
   help of his mentor Tony Stark, tries to balance his life as an ordinary high
   school student in Queens, New York City, with fighting crime as his superhero
   alter ego Spider-Man as a new threat, the Vulture, emerges.
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/tmdb-image/sU5ltHiXFBB2daTrBL3BFc9w8Hr.webp
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B073HL8JW4?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

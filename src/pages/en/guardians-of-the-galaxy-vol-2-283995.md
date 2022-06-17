@@ -4,9 +4,12 @@ slug: guardians-of-the-galaxy-vol-2
 description: >-
   The Guardians must fight to keep their newfound family together as they
   unravel the mysteries of Peter Quill's true parentage.
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/tmdb-image/ct5a6qPoZLQG7VjLuf2WOUheEZP.webp
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B0716DT6G3?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

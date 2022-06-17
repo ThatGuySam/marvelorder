@@ -5,9 +5,13 @@ description: >-
   After finding a host body in investigative reporter Eddie Brock, the alien
   symbiote must face a new enemy, Carnage, the alter ego of serial killer Cletus
   Kasady.
-type: movie
-logo_on_black: /.netlify/functions/tmdb-image/wi0w3uNtvHdMqPtOA6meuqn8y6r.webp?crop.bottom=0.2
 layout: ../../layouts/MainLayout.astro
+type: movie
+logo_on_black: >-
+  /.netlify/functions/tmdb-image/wi0w3uNtvHdMqPtOA6meuqn8y6r.webp?crop.bottom=0.2
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B09HH7CQLW?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

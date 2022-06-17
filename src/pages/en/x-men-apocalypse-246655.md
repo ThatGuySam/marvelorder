@@ -4,9 +4,12 @@ slug: x-men-apocalypse
 description: >-
   After the re-emergence of the world's first mutant, world-destroyer
   Apocalypse, the X-Men must unite to defeat his extinction level plan.
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/fanart/x-men-apocalypse-55eba423c1f8e.png
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B01FV2BJOM?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

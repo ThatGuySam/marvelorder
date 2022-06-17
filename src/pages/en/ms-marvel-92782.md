@@ -4,12 +4,15 @@ slug: ms-marvel
 description: >-
   A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a
   special affinity for superheroes, particularly Captain Marvel. However, she
-  struggles to fit in at home and at school — that is, until she gets super
-  powers like the heroes she’s always looked up to. Life is easier with super
-  powers, right?
+  struggles to fit in at home and at school — that is, until she gets
+  superpowers like the heroes she’s always looked up to. Life is easier with
+  superpowers, right?
+layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/tmdb-image/7UGKZ5c0HSwro6n7GChl8uyaIfy.webp
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    none
 ---
 ## TMDB Data
 ```json

@@ -5,9 +5,12 @@ description: >-
   A kidnapped Fred Savage is forced to endure Deadpool's PG-13 rendition of
   Deadpool 2 as a Princess Bride-esque story that's full of magic, wonder & zero
   F's.
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/fanart/once-upon-a-deadpool-5c3f2cb3d33dc.webp
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B07M9ZNGFK?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

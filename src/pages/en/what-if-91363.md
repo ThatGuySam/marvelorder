@@ -5,9 +5,12 @@ description: >-
   Taking inspiration from the comic books of the same name, each episode
   explores a pivotal moment from the Marvel Cinematic Universe and turns it on
   its head, leading the audience into uncharted territory.
+layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/tmdb-image/wzFmZOBRSYbrPxJE2nkhq2tAKwI.webp
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    none
 ---
 ## TMDB Data
 ```json

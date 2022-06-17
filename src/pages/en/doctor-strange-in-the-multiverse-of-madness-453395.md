@@ -5,9 +5,12 @@ description: >-
   Doctor Strange, with the help of mystical allies both old and new, traverses
   the mind-bending and dangerous alternate realities of the Multiverse to
   confront a mysterious new adversary.
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/tmdb-image/fpwAkeawcsUWPl34Gomy1SajOTw.webp
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B0B37W5683?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

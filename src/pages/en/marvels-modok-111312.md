@@ -8,9 +8,12 @@ description: >-
   into the ground. Ousted as A.I.M.’s leader, while also dealing with his
   crumbling marriage and family life, the Mental Organism Designed Only for
   Killing is set to confront his greatest challenge yet: a midlife crisis!
+layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/tmdb-image/sbRrk3dAkjXbVV644Wr7ogOKp7w.webp
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B097S4N99J?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

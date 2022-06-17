@@ -4,9 +4,13 @@ slug: wandavision
 description: >-
   Wanda Maximoff and Vision—two super-powered beings living idealized suburban
   lives—begin to suspect that everything is not as it seems.
-type: tv
-logo_on_black: /.netlify/functions/tmdb-image/pqzQvGVOGTvLjdAsv6BskKdq6kM.webp?crop.top=0.2&crop.bottom=0.4
 layout: ../../layouts/MainLayout.astro
+type: tv
+logo_on_black: >-
+  /.netlify/functions/tmdb-image/pqzQvGVOGTvLjdAsv6BskKdq6kM.webp?crop.top=0.2&crop.bottom=0.4
+rentLinks:
+  amazon: >-
+    none
 ---
 ## TMDB Data
 ```json

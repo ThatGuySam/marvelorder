@@ -2,9 +2,12 @@
 title: Team Thor
 slug: team-thor
 description: 'Discover what Thor was up to during the events of Captain America: Civil War.'
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/fanart/team-thor-59a46003e7d03.webp
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    none
 ---
 ## TMDB Data
 ```json

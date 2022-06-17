@@ -7,9 +7,12 @@ description: >-
   force that will stop at nothing to bring her down, Natasha must deal with her
   history as a spy and the broken relationships left in her wake long before she
   became an Avenger.
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/tmdb-image/3EM7YdUjcOWOV8rZoYUAGtrVzyc.webp
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B09BSD5GGK?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

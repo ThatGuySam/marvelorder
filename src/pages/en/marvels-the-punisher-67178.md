@@ -4,9 +4,12 @@ slug: marvels-the-punisher
 description: >-
   A former Marine out to punish the criminals responsible for his family's
   murder finds himself ensnared in a military conspiracy.
+layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/tmdb-image/12RGdH6KG8E1ORDe7GuMdTbAIjl.webp
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    none
 ---
 ## TMDB Data
 ```json

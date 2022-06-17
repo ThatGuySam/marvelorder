@@ -4,9 +4,13 @@ slug: iron-man-3
 description: >-
   When Tony Stark's world is torn apart by a formidable terrorist called the
   Mandarin, he starts an odyssey of rebuilding and retribution.
-type: movie
-logo_on_black: /.netlify/functions/tmdb-image/q0pw7Fp3DnTaR04LniqIRJFnHLw.webp?crop.bottom=0.86
 layout: ../../layouts/MainLayout.astro
+type: movie
+logo_on_black: >-
+  /.netlify/functions/tmdb-image/q0pw7Fp3DnTaR04LniqIRJFnHLw.webp?crop.bottom=0.86
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B07VGNTNV7?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

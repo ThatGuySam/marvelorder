@@ -9,6 +9,9 @@ description: >-
 type: tv
 logo_on_black: /.netlify/functions/fanart/marvels-agents-of-shield-52521ded92142.webp
 layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B00EY7LT9Q?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

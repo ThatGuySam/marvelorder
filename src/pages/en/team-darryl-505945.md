@@ -11,6 +11,9 @@ description: >-
 type: movie
 logo_on_black: /.netlify/functions/fanart/team-darryl-5bf82bf981b31.webp
 layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    none
 ---
 ## TMDB Data
 ```json

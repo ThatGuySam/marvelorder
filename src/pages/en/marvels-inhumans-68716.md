@@ -6,9 +6,12 @@ description: >-
   barely escape to Hawaii where their surprising interactions with the lush
   world and humanity around them may prove to not only save them, but Earth
   itself.
+layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/fanart/marvels-the-inhumans-590cc04b00a44.webp
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B0756NHJD3?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

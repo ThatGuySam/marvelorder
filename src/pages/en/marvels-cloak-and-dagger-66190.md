@@ -4,9 +4,12 @@ slug: marvels-cloak-and-dagger
 description: >-
   Two teenagers from very different backgrounds awaken to newly acquired
   superpowers which mysteriously link them to one another.
+layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/fanart/marvels-cloak--dagger-5b1cd013ba251.webp
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B07DHDV8YL?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

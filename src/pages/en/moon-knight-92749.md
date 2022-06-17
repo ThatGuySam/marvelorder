@@ -8,9 +8,12 @@ description: >-
   Steven/Marc’s enemies converge upon them, they must navigate their complex
   identities while thrust into a deadly mystery among the powerful gods of
   Egypt.
+layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/tmdb-image/zFLOpjoo5pViEa71ZyDliJqhskn.webp
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    none
 ---
 ## TMDB Data
 ```json

@@ -5,9 +5,13 @@ description: >-
   Following the events of “Avengers: Endgame”, the Falcon, Sam Wilson and the
   Winter Soldier, Bucky Barnes team up in a global adventure that tests their
   abilities, and their patience.
-type: tv
-logo_on_black: /.netlify/functions/tmdb-image/uNtmLHraxsxblx4hVXcfnj5BAlF.webp?crop.top=0.21&crop.bottom=0.42
 layout: ../../layouts/MainLayout.astro
+type: tv
+logo_on_black: >-
+  /.netlify/functions/tmdb-image/uNtmLHraxsxblx4hVXcfnj5BAlF.webp?crop.top=0.21&crop.bottom=0.42
+rentLinks:
+  amazon: >-
+    none
 ---
 ## TMDB Data
 ```json

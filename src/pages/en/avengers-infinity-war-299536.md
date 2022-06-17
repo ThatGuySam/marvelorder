@@ -9,9 +9,12 @@ description: >-
   to inflict his twisted will on all of reality. Everything the Avengers have
   fought for has led up to this moment - the fate of Earth and existence itself
   has never been more uncertain.
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/fanart/avengers-infinity-war---part-i-5a4eae6d4addb.webp
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B07CKNQGLN?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

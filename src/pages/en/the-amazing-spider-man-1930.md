@@ -11,9 +11,13 @@ description: >-
   partner. As Spider-Man is set on a collision course with Connors' alter ego,
   The Lizard, Peter will make life-altering choices to use his powers and shape
   his destiny to become a hero.
-type: movie
-logo_on_black: /.netlify/functions/tmdb-image/qEmoi6UPzGUW7puvDrnhztpxtCJ.webp?crop.bottom=0.2
 layout: ../../layouts/MainLayout.astro
+type: movie
+logo_on_black: >-
+  /.netlify/functions/tmdb-image/qEmoi6UPzGUW7puvDrnhztpxtCJ.webp?crop.bottom=0.2
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B009B0JQ8M?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

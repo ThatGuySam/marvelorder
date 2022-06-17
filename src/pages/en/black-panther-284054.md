@@ -10,9 +10,12 @@ description: >-
   his princess-kid sister, members of the Dora Milaje (the Wakandan 'special
   forces') and an American secret agent, to prevent Wakanda from being dragged
   into a world war.
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/tmdb-image/9oGVJj8zOMXoIPqDHGBfvSWCq2c.webp?crop.top=0.71
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B07CSKDGFF?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

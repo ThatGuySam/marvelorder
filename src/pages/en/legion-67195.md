@@ -7,9 +7,12 @@ description: >-
   for years. But after a strange encounter with a fellow patient, he’s
   confronted with the possibility that the voices he hears and the visions he
   sees might be real.
+layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/fanart/legion-585b52e9b0a15.webp
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    none
 ---
 ## TMDB Data
 ```json

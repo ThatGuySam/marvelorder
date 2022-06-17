@@ -4,9 +4,12 @@ slug: marvels-luke-cage
 description: >-
   Given superstrength and durability by a sabotaged experiment, a wrongly
   accused man escapes prison to become a superhero for hire.
+layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/fanart/marvels-luke-cage-57931ed78bc64.webp
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    none
 ---
 ## TMDB Data
 ```json

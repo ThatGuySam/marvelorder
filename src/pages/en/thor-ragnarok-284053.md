@@ -6,9 +6,13 @@ description: >-
   race against time to get back to Asgard to stop Ragnarok, the destruction of
   his home-world and the end of Asgardian civilization, at the hands of a
   powerful new threat, the ruthless Hela.
-type: movie
-logo_on_black: /.netlify/functions/tmdb-image/wmKML1hNmHS2m7RCpISyB0uMLxS.webp?crop.bottom=0.86
 layout: ../../layouts/MainLayout.astro
+type: movie
+logo_on_black: >-
+  /.netlify/functions/tmdb-image/wmKML1hNmHS2m7RCpISyB0uMLxS.webp?crop.bottom=0.86
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B076XWTHP8?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

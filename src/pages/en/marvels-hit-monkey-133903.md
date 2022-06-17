@@ -6,9 +6,12 @@ description: >-
   back to health. But when Bryce bites the dust, it's up to the titular simian
   (guided by Bryce's ghost) to follow in his assassin footsteps and seek
   vengeance.
+layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/tmdb-image/AaZ2RVrevEReuLJ00tIdJRruinp.webp?crop.top=0.75
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    none
 ---
 ## TMDB Data
 ```json

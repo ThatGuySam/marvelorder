@@ -5,9 +5,12 @@ description: >-
   After a tragic ending to her short-lived super hero stint, Jessica Jones is
   rebuilding her personal life and career as a detective who gets pulled into
   cases involving people with extraordinary abilities in New York City.
+layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/fanart/marvels-aka-jessica-jones-55f55caf06d6e.webp
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    none
 ---
 ## TMDB Data
 ```json

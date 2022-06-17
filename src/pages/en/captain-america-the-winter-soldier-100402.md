@@ -12,9 +12,13 @@ description: >-
   revealed, Captain America and the Black Widow enlist the help of a new ally,
   the Falcon. However, they soon find themselves up against an unexpected and
   formidable enemy—the Winter Soldier.
-type: movie
-logo_on_black: /.netlify/functions/tmdb-image/75iIbyu04kcaAsywQLv1ctXLNSE.webp?crop.bottom=0.86
 layout: ../../layouts/MainLayout.astro
+type: movie
+logo_on_black: >-
+  /.netlify/functions/tmdb-image/75iIbyu04kcaAsywQLv1ctXLNSE.webp?crop.bottom=0.86
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B07PY8BPPW?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

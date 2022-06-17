@@ -7,9 +7,12 @@ description: >-
   22-year-old archer with dreams of becoming a superhero. The two are forced to
   work together when a presence from Barton’s past threatens to derail far more
   than the festive spirit.
+layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/tmdb-image/lpBHu9ZXCcuzq1XGPZo02U3Ah9f.webp
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    none
 ---
 ## TMDB Data
 ```json

@@ -6,9 +6,13 @@ description: >-
   pass an act designed to regulate all superhuman activity. This polarizes
   opinion amongst the Avengers, causing two factions to side with Iron Man or
   Captain America, which causes an epic battle between former allies.
-type: movie
-logo_on_black: /.netlify/functions/tmdb-image/qoiTHkI2ETt6a4bl0ap0KtQmnYj.webp?crop.bottom=0.86
 layout: ../../layouts/MainLayout.astro
+type: movie
+logo_on_black: >-
+  /.netlify/functions/tmdb-image/qoiTHkI2ETt6a4bl0ap0KtQmnYj.webp?crop.bottom=0.86
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B01EXR6C8Y?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

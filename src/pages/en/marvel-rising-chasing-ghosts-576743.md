@@ -7,6 +7,9 @@ description: >-
 type: movie
 logo_on_black: /.netlify/functions/fanart/marvel-rising-chasing-ghosts-5e79da30345be.webp
 layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    none
 ---
 ## TMDB Data
 ```json

@@ -6,9 +6,12 @@ description: >-
   secret for thousands of years. When an unexpected tragedy forces them out of
   the shadows, they are forced to reunite against mankind’s most ancient enemy,
   the Deviants.
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/tmdb-image/uRc0RTpUszMFakhXouZzK1clLsb.webp
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B09P4K9BVK?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

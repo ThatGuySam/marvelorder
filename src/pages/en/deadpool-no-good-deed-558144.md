@@ -6,6 +6,9 @@ description: >-
   planned.
 logo_on_black: /.netlify/functions/tmdb-image/7p1v2CMnEd0Hb3eFi0iEA6kDAMU.webp
 layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    none
 ---
 ## TMDB Data
 ```json

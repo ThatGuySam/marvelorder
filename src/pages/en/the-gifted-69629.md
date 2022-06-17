@@ -6,9 +6,12 @@ description: >-
   their children possess mutant powers. Forced to go on the run from a hostile
   government, the family joins up with an underground network of mutants and
   must fight to survive.
+layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/fanart/the-gifted-59cd8a1ab8663.webp
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B07532C4NG?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

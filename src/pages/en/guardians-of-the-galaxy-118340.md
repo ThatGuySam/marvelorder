@@ -5,9 +5,12 @@ description: >-
   Light years from Earth, 26 years after being abducted, Peter Quill finds
   himself the prime target of a manhunt after discovering an orb wanted by Ronan
   the Accuser.
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/tmdb-image/hQ4OntIEfd4R4kP6wBzCfbc0ymR.webp
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B00QROGCPU?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json

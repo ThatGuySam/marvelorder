@@ -5,9 +5,12 @@ description: >-
   Every teenager thinks their parents are evil. What if you found out they
   actually were? Six diverse teenagers who can barely stand each other must
   unite against a common foe – their parents.
+layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/fanart/marvels-runaways-59f759d7c6d0a.webp
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    none
 ---
 ## TMDB Data
 ```json

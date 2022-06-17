@@ -5,9 +5,12 @@ description: >-
   After his career is destroyed, a brilliant but arrogant surgeon gets a new
   lease on life when a sorcerer takes him under her wing and trains him to
   defend the world against evil.
+layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/fanart/doctor-strange-579c974e516ca.webp
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: >-
+    https://www.amazon.com/dp/B01M4QJGX2?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
 ## TMDB Data
 ```json
