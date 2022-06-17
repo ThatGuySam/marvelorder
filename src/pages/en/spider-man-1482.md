@@ -16,9 +16,11 @@ description: >-
   Ferguson on March 7 2013, there are only three surviving members from the
   cast. Those three being Paul Soles the voice of Spider-Man, Chris Wiggins the
   voice of Mysterio and Carl Banas the voice of the Scorpion.
+layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/fanart/spider-man-1967-5ccdc639b8d4b.webp
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: 'none'
 ---
 ## TMDB Data
 ```json

@@ -6,8 +6,11 @@ description: >-
   five of the most popular super-powered heroes from Marvel Comics: the
   Incredible Hulk, the Mighty Thor, Captain America, Iron Man, and the
   Sub-Mariner.
-logo_on_black: /.netlify/functions/fanart/the-marvel-superheroes-5ccdadcf50aa1.webp
 layout: ../../layouts/MainLayout.astro
+logo_on_black: /.netlify/functions/fanart/the-marvel-superheroes-5ccdadcf50aa1.webp
+rentLinks:
+  amazon: >-
+    https://amzn.to/3b42gEE
 ---
 ## TMDB Data
 ```json

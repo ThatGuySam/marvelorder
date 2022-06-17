@@ -6,9 +6,11 @@ description: >-
   behemoth whenever he becomes agitated. Unable to control his transformations,
   David Banner searches for a cure as he crosses the country, fugitive-style,
   with a dogged tabloid reporter on his trail.
-logo_on_black: /.netlify/functions/fanart/the-incredible-hulk-5cdaa5b6b5d2d.webp
-
 layout: ../../layouts/MainLayout.astro
+logo_on_black: /.netlify/functions/fanart/the-incredible-hulk-5cdaa5b6b5d2d.webp
+rentLinks:
+  amazon: >-
+    https://amzn.to/39xpHpv
 ---
 ## TMDB Data
 ```json

@@ -2,9 +2,11 @@
 title: Fantastic Four
 slug: fantastic-four
 description: The first animated series based on Marvel's comic book series Fantastic Four.
+layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/fanart/the-fantastic-four-1967-6266d7cc089eb.png
-layout: ../../layouts/MainLayout.astro
+rentLinks:
+  amazon: 'none'
 ---
 ## TMDB Data
 ```json

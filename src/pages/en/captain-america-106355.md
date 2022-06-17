@@ -5,8 +5,12 @@ description: >-
   Superhero Captain America battles the evil forces of the archvillain called
   The Scarab, who poisons his enemies and steals a secret device capable of
   destroying buildings by sound vibrations.
-logo_on_black: /.netlify/functions/tmdb-image/nBRcChS66NohR3x6KVYMp6Obutt.webp?crop.bottom=0.86
 layout: ../../layouts/MainLayout.astro
+logo_on_black: >-
+  /.netlify/functions/tmdb-image/nBRcChS66NohR3x6KVYMp6Obutt.webp?crop.bottom=0.86
+rentLinks:
+  amazon: >-
+    'none'
 ---
 ## TMDB Data
 ```json
