@@ -84,6 +84,22 @@ export function parseTMDbMarkdown ( tmdbContent: string ) {
     return JSON.parse( jsonString )
 }
 
+function getUpdatedProperties ( oldObject:object, newObject:object ) {
+    const difference = {}
+
+    for ( const key of Object.keys( newObject ) ) {
+        const value = newObject[ key ]
+
+        const existingValueJson = JSON.stringify( oldObject[ key ] )
+        const newValueJson = JSON.stringify( value )
+        if ( existingValueJson !== newValueJson ) {
+            // console.log( 'newListingData', key, value, oldObject[ key ] )
+            difference[ key ] = value
+        }
+    }
+
+    return difference
+}
 
 export async function upsertListingMarkdown ( options:any ) {
     const {
