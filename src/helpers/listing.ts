@@ -11,6 +11,23 @@ export function makeListingEndpoint ( listing : Listing ) {
     return `/en/${ listing.slug }-${ listing.id }`
 }
 
+
+export function convertNullValuesForAstro ( listings ) {
+    return listings.map( listing => {
+
+        const mappedEntries = Object.entries( listing ).map( ( [ key, value ] ) => {
+            if ( value === null ) {
+                return [ key, '' ]
+            }
+            return [ key, value ]
+        })
+    
+        // Stringify null values
+        return Object.fromEntries( mappedEntries )
+    })
+}
+
+
 export const listingMergeConfig = { 
     mergeArrays: ( values : Array<any> ) => {
         // Use Set to merge arrays 
