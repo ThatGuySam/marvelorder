@@ -4,6 +4,8 @@ import { faker } from '@faker-js/faker'
 
 import { 
     upsertListingFrontmatter, 
+    getListingFiles, 
+    getListingDetailsFromPaths
 // @ts-ignore
 } from '~/src/helpers/node/listing-files.ts'
 
@@ -52,4 +54,35 @@ test('Can merge Frontmatter arrays', async () => {
     expect(markdownOutput).toContain( '- can-add-tags' )
     expect(markdownOutput).toContain( '- can-retain-tags' )
 
+})
+
+function noEndingBackSlashes( arrayOrObject ) {
+
+    const array = Array.isArray( arrayOrObject ) ? arrayOrObject : Object.values( arrayOrObject )
+
+    for (const value of array) {
+
+        if ( typeof value === 'string' && value.endsWith('\\') ) {
+            console.log( 'value', value )
+            return false
+        }
+
+        if ( Object( value ) === value || Array.isArray( value ) ) {
+          const child = noEndingBackSlashes( value )
+
+          if (!child) return false
+        }
+    }
+
+    return true
+}
+
+test('No listing frontmatter properties end with backward slash', async () => {
+    const listingFiles = await getListingFiles()
+
+    // console.log( 'listingFiles', listingFiles )
+
+    const details = await getListingDetailsFromPaths( listingFiles )
+
+    expect( noEndingBackSlashes( details ) ).toBe( true )
 })
