@@ -25,6 +25,8 @@ jobs:
         run: |
           echo ${{ secrets.ACTIONS_ENV }} | base64 -d > ./.env
           cat ./.env
+      - name: NPM Install
+        run: npm ci
       - name: Pull MCU Timeline Sheet
         run: npm run pull-mcu-timeline-sheet
       - name: Fetch data
