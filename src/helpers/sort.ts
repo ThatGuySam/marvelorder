@@ -30,6 +30,10 @@ function getTitleDate ( listing:Listing ) {
     return Infinity
 }
 
+export function noSort () {
+    return 0
+}
+
 export function byPremiere ( a:Listing, b:Listing ) {
     const aDate = getTitleDate(a)
     const bDate = getTitleDate(b)
