@@ -3,7 +3,7 @@ import { Listing } from './types.ts'
 // @ts-ignore
 import { ensureMappedListings } from './node/listing.ts'
 // @ts-ignore
-import { noSort, getSortByName } from '~/src/helpers/sort.ts'
+import { getSortByName } from '~/src/helpers/sort.ts'
 
 export function isUpcoming ( listing ) {
 	// console.log( 'now - listing.date', now - listing.date )
