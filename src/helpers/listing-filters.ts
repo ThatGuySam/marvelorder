@@ -3,7 +3,7 @@ import { Listing } from './types.ts'
 // @ts-ignore
 import { ensureMappedListings } from './node/listing.ts'
 // @ts-ignore
-import { byDefaultListingSort } from '~/src/helpers/sort.ts'
+import { noSort, getSortByName } from '~/src/helpers/sort.ts'
 
 export function isUpcoming ( listing ) {
 	// console.log( 'now - listing.date', now - listing.date )
@@ -133,6 +133,7 @@ export function hasFanartLogo ( listing ) {
 
 
 export function isMcuSheetOrdered ( listing ) {
+    // console.log( 'isMcuSheetOrdered', listing.title, listing?.mcuTimelineOrder )
     return !!listing?.mcuTimelineOrder
 }
 
@@ -221,24 +222,29 @@ export class FilteredListings {
     constructor ( {
         listings = null,
         initialFilters = new Map(),
-        listingsSort = byDefaultListingSort
+        listingsSort = 'none' as string,
     } = {} ) {
 
         // Throw for invalid listings
         if ( !Array.isArray( listings ) ) throw new Error( 'Listings must be an array' )
 
-        this.initialListings = ensureMappedListings( listings ).sort( listingsSort )
+        this.listingsSort = getSortByName( listingsSort )
+
+        this.initialListings = ensureMappedListings( listings ).sort( this.listingsSort )
 
         this.activeFilters = new Map([
             ...defaultFilters,
             ...initialFilters,
         ])
+        
     }
+
+    listingsSort : Function
 
     initialListings : Listing[]
 
     activeFilters : Map<Function, { targetValue : Boolean }>
-
+    
 
     withFilters ( extraFilters ) {
         const filters = new Map([
@@ -251,7 +257,6 @@ export class FilteredListings {
 
         return this.list.filter( matchesFilters( filters ) )
     }
-
 
     get list () {
         return this.initialListings.filter( matchesFilters( this.activeFilters ) )
