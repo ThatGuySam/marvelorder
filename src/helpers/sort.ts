@@ -10,10 +10,13 @@ function hasLogo ( listing:Listing ) {
 }
 
 function getTitleDate ( listing:Listing ) {
-    if ( listing?.release_date ) {
-        return new Date( listing.release_date )
-    } else if ( listing?.first_air_date ) {
-        return new Date( listing.first_air_date )
+
+    const sourceListing = listing?.isMappedListing ? listing.sourceListing : listing
+    const dateString = sourceListing?.release_date || sourceListing?.first_air_date
+
+
+    if ( !!dateString ) {
+        return new Date( dateString )
     }
 
     if ( hasLogo( listing ) ) {
