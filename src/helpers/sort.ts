@@ -3,6 +3,8 @@
 import { Listing } from './types.ts'
 
 
+export const byDefaultListingSort = byPremiereReversed
+
 const bigOleNumber = 9999999999999999
 
 function hasLogo ( listing:Listing ) {
@@ -28,7 +30,7 @@ function getTitleDate ( listing:Listing ) {
     return Infinity
 }
 
-export function byListingDate ( a:Listing, b:Listing ) {
+export function byPremiere ( a:Listing, b:Listing ) {
     const aDate = getTitleDate(a)
     const bDate = getTitleDate(b)
 
@@ -50,8 +52,7 @@ export function byTimelineOrder ( a:Listing, b:Listing ) {
     }
 }
 
-export function byListingDateReversed ( a:Listing, b:Listing ) {
-    return Number( byListingDate( a, b ) ) * -1
+export function byPremiereReversed ( a:Listing, b:Listing ) {
+    return Number( byPremiere( a, b ) ) * -1
 }
 
-export const byDefaultListingSort = byListingDateReversed
