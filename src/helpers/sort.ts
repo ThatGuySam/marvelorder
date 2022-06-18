@@ -39,6 +39,17 @@ export function byListingDate ( a:Listing, b:Listing ) {
     }
 }
 
+export function byTimelineOrder ( a:Listing, b:Listing ) {
+    const aOrder = a.mcuTimelineOrder
+    const bOrder = b.mcuTimelineOrder
+
+    if ( aOrder > bOrder ) {
+        return 1
+    } else if ( aOrder < bOrder ) {
+        return -1
+    }
+}
+
 export function byListingDateReversed ( a:Listing, b:Listing ) {
     return Number( byListingDate( a, b ) ) * -1
 }
