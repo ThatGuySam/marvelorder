@@ -10,7 +10,6 @@ import { fuzzyMatchesWholeWord } from '~/src/helpers/matching.ts'
 import { 
     organizeOrderData, 
     matchListingToOrdered,
-    getYearAndMonth
 // @ts-ignore
 } from '~/src/helpers/node/mcu-timeline-sheet.ts'
 // @ts-ignore
@@ -32,7 +31,11 @@ import {
 const macroUrl = 'https://script.google.com/macros/s/AKfycbzGvKKUIaqsMuCj7-A2YRhR-f7GZjl4kSxSN1YyLkS01_CfiyE/exec'
 const mcuTimelineSheetId = '1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_wKs'
 
+async function readMarkdownFileNode ( filePath: string ) {
+    // const markdownContent = await fs.readFile( filePath, 'utf8' )
 
+    return await getListingFromFile( filePath )
+}
 
 ;(async () => {
 
@@ -110,11 +113,25 @@ const mcuTimelineSheetId = '1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_wKs'
                 // console.log( 'Match!', 1, orderedDetails.title, 2, details.listing.title, getYearAndMonth( orderedDetails.premiereDate ) )
 
                 matches.set( details.listing.id, orderedDetails )
+
+
+                await upsertListingMarkdown( {
+                    listing: {
+                        id: details.listing.id,
+                        slug: listing.slug,
+                        overview: listing.sourceListing.description,
+                        title: listing.title,
+
+                        mcuTimelineOrder: orderedDetails.mcuTimelineOrder,
+                    },
+                    tmdb: {},
+                    readMarkdownFile: readMarkdownFileNode,
+                    writeMarkdownFile: writeMarkdownFileNode,
+                    exists: fs.exists,
+                })
             }
         }
     }
-
-    console.log( 'matches', matches )
     
     process.exit()
 })()
