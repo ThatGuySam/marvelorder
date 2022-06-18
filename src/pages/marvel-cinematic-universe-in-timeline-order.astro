@@ -1,0 +1,59 @@
+---
+// import { byListingDate } from '~/src/helpers/sort.ts'
+import { getListingsFromFilePaths } from '~/src/helpers/node/listing-files.ts'
+import { 
+	isMcuSheetOrdered, 
+	FilteredListings
+} from '~/src/helpers/listing-filters'
+// @ts-ignore
+import { byTimelineOrder } from '~/src/helpers/sort.ts'
+// @ts-ignore
+import { convertNullValuesForAstro } from '~/src/helpers/listing.ts'
+
+import Layout from '../layouts/HorizontalScroll.astro'
+import ListingRow from '../components/listing-row.vue'
+
+const pages = await Astro.glob( '/src/pages/en/*.md' )
+
+const allListings = await getListingsFromFilePaths( pages.map( page => page.file ) )
+
+const mcuFilteredListings = new FilteredListings({ 
+	listings: allListings, 
+	initialFilters: new Map([
+		[ isMcuSheetOrdered, true ],
+	]),
+
+	// We'll leave as is here and sort on LinstingRow.vue
+	listingsSort: 'none'
+})
+
+// console.log( 'mcuFilteredListings', mcuFilteredListings.list )
+
+const rawListings = mcuFilteredListings.list.map( listing => listing.sourceListing )
+
+// console.log( 'rawListings', rawListings )
+
+---
+<Layout
+	content={{
+		title: 'Chronogically ordered Marvel Cinematic Universe Movies and Series - MarvelOrder.com',
+	}}
+>
+	
+	<ListingRow 
+		client:load
+		listings={ convertNullValuesForAstro( rawListings ) }
+		initial-sort="timeline"
+	/>
+	
+  
+	<script is:inline>
+		const initialListing = document.querySelector('.listing-card-initial')
+
+		console.log( 'initialListing', initialListing )
+		
+		// Trigger scroll to out upcoming listing here
+		// so that we don't have to wait for Vue to hydrate
+		document.querySelector('.listing-row').scrollLeft = initialListing.offsetLeft - window.innerWidth + initialListing.offsetWidth * 1.75
+	</script>
+</Layout>
