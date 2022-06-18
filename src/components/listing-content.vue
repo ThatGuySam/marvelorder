@@ -40,10 +40,16 @@
 		</div>
 
         <div class="credits opacity-50">
-            <div>Data provided by <a class="underline" href="https://www.themoviedb.org/">The Movie Database</a></div>
+            <div>Title data via <a class="underline" href="https://www.themoviedb.org/">The Movie Database</a></div>
             <div
                 v-if="hasFanartLogo( listing )"
-            >Image provided by <a class="underline" href="https://fanart.tv/">Fanart.tv</a></div>
+            >Image via <a class="underline" href="https://fanart.tv/">Fanart.tv</a></div>
+
+            <div
+                v-if="isMcuSheetOrdered( listing )"
+            >Timeline Order data via <a class="underline" href="https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_wKs/edit#gid=0">r/MarvelStudios MCU Viewing</a></div>
+
+            
         </div>
 
         <span class="relative z-0 inline-flex text-center md:flex-row flex-col shadow-sm md:divide-x md:divide-y-0 divide-y divide-gray-700 border border-gray-300 rounded-md bg-black/50 md:py-3 md:px-0 px-4">
@@ -84,7 +90,8 @@ import { isValidHttpUrl } from '~/src/helpers/check.ts'
 import { makeFunctionUrlFromTmdb } from '~/src/helpers/url.ts'
 import { 
     hasFanartLogo, 
-    isUpcoming
+    isUpcoming,
+    isMcuSheetOrdered
 } from '~/src/helpers/listing-filters.ts'
 
 import ListingLogo from './listing-logo.vue'
@@ -105,7 +112,10 @@ export default {
     },
     methods: {
         isValidHttpUrl,
-        hasFanartLogo
+
+        // Filters
+        hasFanartLogo,
+        isMcuSheetOrdered
     },
     computed: {
         daysUntilRelease () {
