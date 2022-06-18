@@ -23,9 +23,9 @@ const listings = await getListingsFromFilePaths( pages.map( page => page.file ) 
 	
   
 	<script is:inline>
-		const nextUpcoming = document.querySelector('.listing-card-next-upcoming')
+		const initialListing = document.querySelector('.listing-card-initial')
 		// Trigger scroll to out upcoming listing here
 		// so that we don't have to wait for Vue to hydrate
-		document.querySelector('.listing-row').scrollLeft = nextUpcoming.offsetLeft - window.innerWidth + nextUpcoming.offsetWidth * 1.75
+		document.querySelector('.listing-row').scrollLeft = initialListing.offsetLeft - window.innerWidth + initialListing.offsetWidth * 1.75
 	</script>
 </Layout>
