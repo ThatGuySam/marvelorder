@@ -52,7 +52,7 @@ test('Can filter out docs from FilteredListings by default', () => {
 
     const mappedListings = makeMappedListings( apiListings )
 
-    const filteredListings = new FilteredListings({ listings: mappedListings })
+    const filteredListings = new FilteredListings({ listings: mappedListings, listingsSort: 'none' })
 
     expect( filteredListings.list ).toHaveLength( 1 )
 
