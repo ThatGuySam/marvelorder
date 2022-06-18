@@ -48,7 +48,8 @@ async function readMarkdownFileNode ( filePath: string ) {
         listings: allListings, 
         initialFilters: new Map([
             [ isUpcoming, false ]
-        ]) 
+        ]),
+        listingsSort: 'default'
     })
 
 

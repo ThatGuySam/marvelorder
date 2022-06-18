@@ -19,7 +19,8 @@ const mcuFilteredListings = new FilteredListings({
 	listings: allListings, 
 	initialFilters: new Map([
 		[ isMCU, true ]
-	]) 
+	]),
+	listingsSort: 'default'
 })
 
 const rawListings = mcuFilteredListings.list.map( listing => listing.sourceListing )
@@ -36,6 +37,7 @@ console.log( 'rawListings', rawListings )
 	<ListingRow 
 		client:load
 		listings={ convertNullValuesForAstro( rawListings ) }
+		initial-sort="none"
 	/>
 	
   
