@@ -222,8 +222,11 @@ export class FilteredListings {
     constructor ( {
         listings = null,
         initialFilters = new Map(),
-        listingsSort = 'none' as string,
+        listingsSort = '' as string,
     } = {} ) {
+
+        // Throw for empty sort
+        if ( listingsSort.length === 0 ) throw new Error( 'Must specify a sort' )
 
         // Throw for invalid listings
         if ( !Array.isArray( listings ) ) throw new Error( 'Listings must be an array' )
