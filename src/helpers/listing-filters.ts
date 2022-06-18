@@ -2,6 +2,8 @@
 import { Listing } from './types.ts'
 // @ts-ignore
 import { ensureMappedListings } from './node/listing.ts'
+// @ts-ignore
+import { byDefaultListingSort } from '~/src/helpers/sort.ts'
 
 export function isUpcoming ( listing ) {
 	// console.log( 'now - listing.date', now - listing.date )
@@ -214,12 +216,13 @@ export class FilteredListings {
     constructor ( {
         listings = null,
         initialFilters = new Map(),
+        listingsSort = byDefaultListingSort
     } = {} ) {
 
         // Throw for invalid listings
         if ( !Array.isArray( listings ) ) throw new Error( 'Listings must be an array' )
 
-        this.initialListings = ensureMappedListings( listings )
+        this.initialListings = ensureMappedListings( listings ).sort( listingsSort )
 
         this.activeFilters = new Map([
             ...defaultFilters,
