@@ -5,8 +5,7 @@ description: 'Explore the Disney+ series of the MCU—past, present and future.'
 layout: ../../layouts/MainLayout.astro
 type: movie
 tags:
-  - movie
-  - company-420
+  - doc
 ---
 ## TMDB Data
 ```json

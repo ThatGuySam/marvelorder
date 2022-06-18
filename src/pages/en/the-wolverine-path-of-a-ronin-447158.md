@@ -10,8 +10,7 @@ description: >-
 layout: ../../layouts/MainLayout.astro
 type: movie
 tags:
-  - movie
-  - company-7505
+  - doc
 ---
 ## TMDB Data
 ```json
