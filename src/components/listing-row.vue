@@ -81,6 +81,9 @@ import {
 	isUpcoming, 
 	hasLogo
 } from '~/src/helpers/listing-filters.ts'
+import { 
+	noSort
+} from '~/src/helpers/sort.ts'
 
 import ListingColumn from './listing-column.vue'
 import CircleButton from './circle-button.vue'
@@ -96,7 +99,11 @@ export default {
         listings: {
             type: Array,
             required: true
-        }
+        },
+		initialSort: {
+			type: String,
+			default: 'default'
+		}
     },
 	data: function () {
         return {
@@ -107,9 +114,11 @@ export default {
     },
 	computed: {
 		filteredListings () {
+			console.log( 'this.initialSort', this.initialSort )
 			return new FilteredListings({ 
 				listings: this.listings,  
 				initialFilters: this.activeListingFilters,
+				listingsSort: this.initialSort,
 			})
 		},
 		sortedListings () {
@@ -159,11 +168,7 @@ export default {
 		},
 
 		isFocusedListing ( listing ) {
-			if ( !this.nextUpcomingListing ) {
-				return false
-			}
-
-			return listing.elementId === this.nextUpcomingListing.elementId
+			return listing.elementId === this.focusedListing.elementId
 		},
 
 		visibilityClass ( listing ) {
