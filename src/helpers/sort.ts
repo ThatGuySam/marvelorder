@@ -7,6 +7,18 @@ export const byDefaultListingSort = byPremiereReversed
 
 const bigOleNumber = 9999999999999999
 
+export const sortTypes = {
+	'default': byDefaultListingSort, 
+	'none': noSort,
+	'timeline': byTimelineOrder,
+	'premiere': byPremiere,
+    'premiere-reversed': byPremiereReversed
+}
+
+export function getSortByName ( sortType:string ) {
+    return sortTypes[ sortType ]
+}
+
 function hasLogo ( listing:Listing ) {
     return listing?.logo_on_black
 }
