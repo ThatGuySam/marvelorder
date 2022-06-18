@@ -134,7 +134,7 @@ export function hasFanartLogo ( listing ) {
 
 export function isMcuSheetOrdered ( listing ) {
     // console.log( 'isMcuSheetOrdered', listing.title, listing?.mcuTimelineOrder )
-    return !!listing?.mcuTimelineOrder
+    return typeof listing?.mcuTimelineOrder === 'number'
 }
 
 
