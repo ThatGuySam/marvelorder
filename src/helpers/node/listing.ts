@@ -10,13 +10,11 @@ import {
     listingMergeConfig
 // @ts-ignore
 } from '~/src/helpers/listing.ts'
-// @ts-ignore
-import { byDefaultListingSort } from '~/src/helpers/sort.ts'
 
 export function makeMappedListings ( listings: Listing[] ) {
     const mappedList = listings.map( listing => new MappedListing( listing ) )
     
-    return mappedList.sort( byDefaultListingSort )
+    return mappedList
 }
 
 export function ensureMappedListings ( listings: Listing[] ) {
