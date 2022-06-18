@@ -13,6 +13,7 @@ type: tv
 logo_on_black: /.netlify/functions/fanart/spider-man-1978-5cddabaeefc4e.webp
 rentLinks:
   amazon: none
+vote_average: 7.1
 ---
 ## TMDB Data
 ```json
@@ -33,7 +34,7 @@ rentLinks:
     "original_name": "スパイダーマン",
     "overview": "Young motorcycle racer Takuya Yamashiro sees a UFO falling to earth, in fact a space warship named the Marveller. Takuya follows his scientist father to the Marveller and discovers Garia, the last surviving warrior of Planet Spider. Garia injects Takuya with some of his own blood, giving Takuya spider-like powers. Using his powers, Takuya fights Professor Monster's army and other threats to Earth under the name Spiderman.",
     "poster_path": "/g4HNifqEWTbrnNdT83038jKh7BM.jpg",
-    "vote_average": 7.2,
+    "vote_average": 7.1,
     "title": "Spider-Man",
     "slug": "spider-man",
     "tags": [
