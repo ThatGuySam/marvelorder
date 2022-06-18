@@ -14,6 +14,7 @@ logo_on_black: /.netlify/functions/fanart/marvels-agent-carter-547ef538a02d8.web
 rentLinks:
   amazon: >-
     https://www.amazon.com/dp/B00RWAOJ7G?tag=marvelorder-20&linkCode=osi&th=1&psc=1
+mcuTimelineOrder: 1
 ---
 ## TMDB Data
 ```json
