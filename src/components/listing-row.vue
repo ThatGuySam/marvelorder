@@ -20,7 +20,7 @@
 					:index="index"
 					:visibility-class="visibilityClass( listing )"
 					:class="[
-						isListingNextUpcoming( listing ) ? 'listing-card-next-upcoming' : '',
+						isFocusedListing( listing ) ? 'listing-card-initial' : '',
 					]"
 
 					:expanded="expandedListingId === listing.elementId"
@@ -123,13 +123,23 @@ export default {
 		},
 		nextUpcomingListing () {
 			return this.upcomingListings[0]
+		},
+		lastListing () {
+			return this.sortedListings[ this.sortedListings.length - 1 ]
+		},
+		focusedListing () {
+			if ( !this.nextUpcomingListing ) {
+				return this.lastListing
+			}
+
+			return this.nextUpcomingListing
 		}
 	}, 
 	methods: {
 		async scrollToUpcomingListing () {
 			// console.log('nextUpcomingListing', this.nextUpcomingListing)
 
-			const { elementId } = this.nextUpcomingListing
+			const { elementId } = this.focusedListing
 			const [ elementRef ] = this.$refs[ elementId ]
 			const elementNode = elementRef.$el
 
@@ -148,7 +158,11 @@ export default {
 			})
 		},
 
-		isListingNextUpcoming ( listing ) {
+		isFocusedListing ( listing ) {
+			if ( !this.nextUpcomingListing ) {
+				return false
+			}
+
 			return listing.elementId === this.nextUpcomingListing.elementId
 		},
 
@@ -158,7 +172,7 @@ export default {
 			// const elementNode = elementRef.$el
 
 			// Show our upcoming listing first
-			if ( listing.elementId === this.nextUpcomingListing.elementId ) {
+			if ( listing.elementId === this.focusedListing.elementId ) {
 				return ''
 			}
 
