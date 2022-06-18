@@ -51,9 +51,13 @@ export function byTimelineOrder ( a:Listing, b:Listing ) {
 
     if ( aOrder > bOrder ) {
         return 1
-    } else if ( aOrder < bOrder ) {
+    }
+    
+    if ( aOrder < bOrder ) {
         return -1
     }
+
+    return 0
 }
 
 export function byPremiereReversed ( a:Listing, b:Listing ) {
