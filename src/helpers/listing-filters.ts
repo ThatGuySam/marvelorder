@@ -132,6 +132,11 @@ export function hasFanartLogo ( listing ) {
 }
 
 
+export function isMcuSheetOrdered ( listing ) {
+    return !!listing?.mcuTimelineOrder
+}
+
+
 export function matchesFilters ( filters ) {
     const filterOut = false
     const keep = true
