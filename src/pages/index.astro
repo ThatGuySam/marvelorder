@@ -19,6 +19,7 @@ const listings = await getListingsFromFilePaths( pages.map( page => page.file ) 
 	<ListingRow 
 		client:load
 		listings={ convertNullValuesForAstro( listings ) }
+		initial-sort="default"
 	/>
 	
   
