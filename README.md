@@ -79,3 +79,6 @@ List of Marvel movies and shows ordered chronologically, release, and more.
 - #55 - [Ms. Marvel](https://marvelorder.com/en/ms-marvel-92782) - 🏰 Disney+ - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/ms-marvel-92782.md)
 
 <!-- end-viewing-order-list -->
+
+
+Viewing Order data provided thanks to [r/MarvelStudios MCU Viewing Order Sheet](https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_wKs/edit#gid=0)
