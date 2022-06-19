@@ -4,6 +4,7 @@ export interface Listing {
     draft?: boolean
     title: string
     name?: string
+    sourceListing?: Listing
     overview: string
     backdrop_path: string,
     genre_ids: Array<number>
@@ -24,6 +25,7 @@ export interface Listing {
         id: number
         name: string
     }>
+    mcuTimelineOrder?: number
 
 
     
