@@ -60,8 +60,8 @@ export function byPremiere ( a:Listing, b:Listing ) {
 }
 
 export function byTimelineOrder ( a:Listing, b:Listing ) {
-    const aOrder = a.mcuTimelineOrder
-    const bOrder = b.mcuTimelineOrder
+    const aOrder = a.mcuTimelineOrder || 0
+    const bOrder = b.mcuTimelineOrder || 0
 
     if ( aOrder > bOrder ) {
         return 1
