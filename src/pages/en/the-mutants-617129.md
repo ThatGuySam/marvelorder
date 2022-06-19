@@ -11,8 +11,6 @@ type: movie
     "adult": false,
     "backdrop_path": null,
     "genre_ids": [
-        28,
-        12,
         878
     ],
     "id": 617129,

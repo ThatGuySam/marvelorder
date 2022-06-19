@@ -26,7 +26,7 @@ rentLinks:
     "original_language": "en",
     "original_title": "X-Men: Apocalypse",
     "overview": "After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.",
-    "poster_path": "/qttNmCib9gHhR5q0QoZ3FgmGom9.jpg",
+    "poster_path": "/8ApCZX8zpaOixZddzQr0EvyPeuP.jpg",
     "release_date": "2016-05-18",
     "title": "X-Men: Apocalypse",
     "video": false,

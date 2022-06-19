@@ -22,14 +22,13 @@ mcuTimelineOrder: 454
     "genre_ids": [
         878,
         28,
-        12,
-        14
+        12
     ],
     "id": 524434,
     "original_language": "en",
     "original_title": "Eternals",
     "overview": "The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants.",
-    "poster_path": "/bcCBq9N1EMo3daNIjWJ8kYvrQm6.jpg",
+    "poster_path": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
     "release_date": "2021-11-03",
     "title": "Eternals",
     "video": false,

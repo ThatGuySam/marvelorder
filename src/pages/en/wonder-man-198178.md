@@ -31,8 +31,7 @@ tags:
     "backdrop_path": null,
     "first_air_date": "",
     "genre_ids": [
-        35,
-        10759
+        35
     ],
     "id": 198178,
     "name": "Wonder Man",
@@ -41,7 +40,7 @@ tags:
     ],
     "original_language": "en",
     "original_name": "Wonder Man",
-    "overview": "Follows Simon Williams, also known as Marvel’s Wonder Man. Plot details unknown.",
+    "overview": "Follows Simon Williams, also known as Marvel’s Wonder Man. Described as a Hollywood satire.",
     "poster_path": null,
     "vote_average": 0,
     "title": "Wonder Man",
