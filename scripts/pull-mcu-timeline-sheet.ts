@@ -5,13 +5,13 @@ import axios from 'axios'
 // @ts-ignore
 import { storePath } from '~/src/config.ts'
 // @ts-ignore
-import { fuzzyMatchesWholeWord } from '~/src/helpers/matching.ts'
-// @ts-ignore
 import { 
     organizeOrderData, 
     matchListingToOrdered,
 // @ts-ignore
 } from '~/src/helpers/node/mcu-timeline-sheet.ts'
+// @ts-ignore
+import { updateReadmeListContent } from '~/src/helpers/node/readme.ts'
 // @ts-ignore
 import { upsertListingMarkdown } from '~/src/helpers/markdown-page.ts'
 // @ts-ignore
@@ -45,28 +45,6 @@ const typesReadmeMap = {
     'disney-plus-netflix': '🟥 Netflix',
     'disney-plus': '🏰 Disney+',
     'hulu': '🟩 Hulu',
-}
-
-async function updateReadmeListContent ( newListMardown: string ) {
-    const startMarker = '<!-- start-viewing-order-list -->'
-    const endMarker = '<!-- end-viewing-order-list -->'
-
-
-    // Get README.md content
-    const readmeContent = await fs.readFile( './README.md', 'utf8' )
-
-    console.log( 'readmeContent', readmeContent )
-
-    const startIndex = readmeContent.indexOf( startMarker ) + startMarker.length
-    const endIndex = readmeContent.indexOf( endMarker )
-
-    const newReadmeListContent = readmeContent.slice( 0, startIndex ) + newListMardown + readmeContent.slice( endIndex )
-
-    console.log( 'newReadmeListContent', newReadmeListContent )
-
-    await fs.writeFile( './README.md', newReadmeListContent )
-
-    return newReadmeListContent
 }
 
 function buildReadmeList ( matchesMap:Map<number, any> ) {
@@ -193,7 +171,7 @@ function buildReadmeList ( matchesMap:Map<number, any> ) {
 
     // console.log( 'updatedList', updatedList )
 
-    await updateReadmeListContent( updatedList )
+    await updateReadmeListContent( updatedList, 'viewing-order-list' )
     
     process.exit()
 })()
