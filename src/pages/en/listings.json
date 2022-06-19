@@ -216,8 +216,7 @@
 		"backdrop_path": null,
 		"first_air_date": "",
 		"genre_ids": [
-			35,
-			10759
+			35
 		],
 		"id": 198178,
 		"name": "Wonder Man",
@@ -226,7 +225,7 @@
 		],
 		"original_language": "en",
 		"original_name": "Wonder Man",
-		"overview": "Follows Simon Williams, also known as Marvel’s Wonder Man. Plot details unknown.",
+		"overview": "Follows Simon Williams, also known as Marvel’s Wonder Man. Described as a Hollywood satire.",
 		"poster_path": null,
 		"vote_average": 0,
 		"title": "Wonder Man",
@@ -325,12 +324,10 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/v0AV5ss7YZPBbYazi6uTxGnVbSi.jpg",
+		"backdrop_path": null,
 		"genre_ids": [
 			28,
-			14,
-			53,
-			27
+			14
 		],
 		"id": 617127,
 		"original_language": "en",
@@ -350,8 +347,6 @@
 		"adult": false,
 		"backdrop_path": null,
 		"genre_ids": [
-			28,
-			12,
 			878
 		],
 		"id": 617129,
@@ -832,11 +827,11 @@
 		"original_language": "en",
 		"original_title": "Thor: Love and Thunder",
 		"overview": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now inexplicably wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
-		"poster_path": "/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+		"poster_path": "/4zLfBbGnuUBLbMVtagTZvzFwS8l.jpg",
 		"release_date": "2022-07-06",
 		"title": "Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 1,
+		"vote_average": 0,
 		"slug": "thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -1098,14 +1093,13 @@
 		"genre_ids": [
 			878,
 			28,
-			12,
-			14
+			12
 		],
 		"id": 524434,
 		"original_language": "en",
 		"original_title": "Eternals",
 		"overview": "The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants.",
-		"poster_path": "/bcCBq9N1EMo3daNIjWJ8kYvrQm6.jpg",
+		"poster_path": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
 		"release_date": "2021-11-03",
 		"title": "Eternals",
 		"video": false,
@@ -1145,8 +1139,7 @@
 		"genre_ids": [
 			28,
 			12,
-			14,
-			878
+			14
 		],
 		"id": 566525,
 		"original_language": "en",
@@ -2413,7 +2406,7 @@
 		"original_language": "en",
 		"original_title": "X-Men: Apocalypse",
 		"overview": "After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.",
-		"poster_path": "/qttNmCib9gHhR5q0QoZ3FgmGom9.jpg",
+		"poster_path": "/8ApCZX8zpaOixZddzQr0EvyPeuP.jpg",
 		"release_date": "2016-05-18",
 		"title": "X-Men: Apocalypse",
 		"video": false,
@@ -2462,7 +2455,7 @@
 		"original_language": "en",
 		"original_title": "Deadpool",
 		"overview": "The origin story of former Special Forces operative turned mercenary Wade Wilson, who, after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
-		"poster_path": "/fSRb7vyIP8rQpL0I47P3qUsEKX3.jpg",
+		"poster_path": "/yGSxMiF0cYuAiyuve5DA6bnWEOI.jpg",
 		"release_date": "2016-02-09",
 		"title": "Deadpool",
 		"video": false,
@@ -2776,7 +2769,7 @@
 		"original_language": "en",
 		"original_title": "X-Men: Days of Future Past",
 		"overview": "The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past – to save our future.",
-		"poster_path": "/9aq2sHfkkAFwH0wi4bZasXA8NbS.jpg",
+		"poster_path": "/bvN8iUpHyBIvniUk4e52SUZMA7Z.jpg",
 		"release_date": "2014-05-15",
 		"title": "X-Men: Days of Future Past",
 		"video": false,
@@ -4386,7 +4379,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/xlEJbzhq975o8EEDW3Cg2obgZIA.jpg",
+		"backdrop_path": "/g8cjJHZFeZQ5GRbFiDp5jXgfOZW.jpg",
 		"genre_ids": [
 			14,
 			27,
@@ -4496,7 +4489,7 @@
 		"original_language": "en",
 		"original_title": "X-Men",
 		"overview": "Two mutants, Rogue and Wolverine, come to a private academy for their kind whose resident superhero team, the X-Men, must oppose a terrorist organization with similar powers.",
-		"poster_path": "/bRDAc4GogyS9ci3ow7UnInOcriN.jpg",
+		"poster_path": "/ypiv2HEiNftzrg9ovDCFv16Q6Ti.jpg",
 		"release_date": "2000-07-13",
 		"title": "X-Men",
 		"video": false,
