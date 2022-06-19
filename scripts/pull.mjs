@@ -21,10 +21,13 @@ import {
 import { byPremiere } from '../src/helpers/sort.ts'
 import { 
     upsertListingMarkdown,
-    getDataFromListingContents
+    getDataFromListingContents,
+    getPartsFromMarkdown, 
+    makeTMDbMarkdownSection
 } from '../src/helpers/markdown-page.ts'
 import { 
-    listingMergeConfig
+    listingMergeConfig,
+    makeListingEndpoint
 } from '../src/helpers/listing.ts'
 
 // https://github.com/RebeccaStevens/deepmerge-ts/blob/beae8b841561bd206150ef02fe10db94856c6e45/docs/deepmergeCustom.md
@@ -37,6 +40,12 @@ function makeSlug ( name ) {
         strict: true
     })
 }
+
+async function hasListingFile ( listing ) {
+    const listingFilePath = `${ storePath }/${ makeListingEndpoint( listing ) }.md`
+    return await exists( listingFilePath )
+}
+
 
 function cleanListings ( fetchedListings ) {
     const listings = {}
@@ -223,9 +232,39 @@ async function readMarkdownFileDeno ( filePath ) {
     })
 }
 
+async function writeTmdbDataOnly ( listing ) {
+
+    const listingFilePath = `${ storePath }/${ makeListingEndpoint( listing ) }.md`
+
+    const decoder = new TextDecoder( 'utf-8' )
+    const markdownContent = decoder.decode(await Deno.readFile( listingFilePath ))
+    // Split off and leave behind existing TMDb data
+    const { existingContent } = getPartsFromMarkdown( markdownContent )
+
+    // console.log( 'existingContent', existingContent )
+
+    // Merge in existing meta above the current TMDb data
+    const content = [
+        existingContent.trim(),
+        makeTMDbMarkdownSection( listing )
+    ].join('\n')
+
+    await Deno.writeTextFile( listingFilePath, content )
+
+}
+
 async function saveListingsAsMarkdown ( listings ) {
 
     for ( const listing of listings ) {
+
+        const listingFilePath = `${ storePath }/${ makeListingEndpoint( listing ) }.md`
+
+        if ( await exists( listingFilePath ) ) {
+
+            await writeTmdbDataOnly( listing )
+
+            continue
+        }
 
         await upsertListingMarkdown( {
             listing,
