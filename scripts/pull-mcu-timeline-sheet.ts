@@ -37,6 +37,56 @@ async function readMarkdownFileNode ( filePath: string ) {
     return await getListingFromFile( filePath )
 }
 
+const typesReadmeMap = {
+    'movie': 'Marvel Studios',
+    'tv': 'Marvel Studios',
+    'sony': 'Sony',
+    'disney-plus-netflix': 'Netflix',
+    'disney-plus': 'Disney+',
+    'hulu': 'Hulu',
+}
+
+async function updateReadmeListContent ( newListMardown: string ) {
+    const startMarker = '<!-- start-viewing-order-list -->'
+    const endMarker = '<!-- end-viewing-order-list -->'
+
+
+    // Get README.md content
+    const readmeContent = await fs.readFile( './README.md', 'utf8' )
+
+    console.log( 'readmeContent', readmeContent )
+
+    const startIndex = readmeContent.indexOf( startMarker ) + startMarker.length
+    const endIndex = readmeContent.indexOf( endMarker )
+
+    const newReadmeListContent = readmeContent.slice( 0, startIndex ) + newListMardown + readmeContent.slice( endIndex )
+
+    console.log( 'newReadmeListContent', newReadmeListContent )
+
+    await fs.writeFile( './README.md', newReadmeListContent )
+
+    return newReadmeListContent
+}
+
+function buildReadmeList ( matchesMap:Map<number, any> ) {
+    const matches = Array.from( matchesMap.values() )
+
+    const readmeListLines = matches.map( ( match:any, index ) => {
+        const { listing } = match
+        const parts = [
+            '', 
+            `#${index + 1}`,
+            `[${ listing.title }](https://marvelorder.com${ listing.endpoint })`,
+            typesReadmeMap[ listing.type ],
+            `[Edit](${ listing.githubEditUrl })`
+        ]
+        
+        return parts.join( ' - ' ).trim()
+    })
+
+    return '\n\n' + readmeListLines.join( '\n' ) + '\n\n'
+}
+
 ;(async () => {
 
     const listingFiles = await getListingFiles()
@@ -113,7 +163,10 @@ async function readMarkdownFileNode ( filePath: string ) {
 
                 // console.log( 'Match!', 1, orderedDetails.title, 2, details.listing.title, getYearAndMonth( orderedDetails.premiereDate ) )
 
-                matches.set( details.listing.id, orderedDetails )
+                matches.set( details.listing.id, {
+                    ...orderedDetails,
+                    listing
+                } )
 
 
                 await upsertListingMarkdown( {
@@ -133,6 +186,13 @@ async function readMarkdownFileNode ( filePath: string ) {
             }
         }
     }
+
+
+    const updatedList = buildReadmeList( matches )
+
+    // console.log( 'updatedList', updatedList )
+
+    await updateReadmeListContent( updatedList )
     
     process.exit()
 })()
