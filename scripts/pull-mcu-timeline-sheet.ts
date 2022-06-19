@@ -72,12 +72,12 @@ function buildReadmeList ( matchesMap:Map<number, any> ) {
     const matches = Array.from( matchesMap.values() )
 
     const readmeListLines = matches.map( ( match:any, index ) => {
-        const { listing } = match
+        const { listing, timelineType } = match
         const parts = [
             '', 
             `#${index + 1}`,
             `[${ listing.title }](https://marvelorder.com${ listing.endpoint })`,
-            typesReadmeMap[ listing.type ],
+            typesReadmeMap[ timelineType ],
             `[Edit](${ listing.githubEditUrl })`
         ]
         
