@@ -7,7 +7,7 @@ export const byDefaultListingSort = byPremiereReversed
 
 const bigOleNumber = 9999999999999999
 
-export const sortTypes = {
+export const sortTypes:any = {
 	'default': byDefaultListingSort, 
 	'none': noSort,
 	'timeline': byTimelineOrder,
