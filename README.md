@@ -1,5 +1,5 @@
 # Marvel Order
-An Open-source Interactive version of the upcoming Marvel Films and Series' ordered chronologically and by release so you can see the latest correct dates. 
+An Open-source Interactive version of the upcoming Marvel Films and Series ordered chronologically and by release so you can see the latest correct dates. 
 
 I've been wanting a way to keep track of all the Marvel movies and shows so since there's so much going on and they frequently swap positions for different releases. 
 
@@ -19,8 +19,8 @@ https://www.reddit.com/r/weeklyplanetpodcast/comments/kb3ibw/updated_marvel_rele
 
 ## Site Lists
 
-- [By Timeline](https://marvelorder.com/marvel-cinematic-universe-in-timeline-order/) - Marvel Films and Series' by In Universe Timeline
-- [By MCU Release Order](https://marvelorder.com/marvel-cinematic-universe-movies-in-order/) - Marvel Studios Films and Series' by Date Released
+- [By Timeline](https://marvelorder.com/marvel-cinematic-universe-in-timeline-order/) - Marvel Films and Series by In Universe Timeline
+- [By MCU Release Order](https://marvelorder.com/marvel-cinematic-universe-movies-in-order/) - Marvel Studios Films and Series by Date Released
 - [All By Release Order](https://marvelorder.com) - ALL Marvel Film and Series by Date Released
 
 
