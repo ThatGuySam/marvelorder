@@ -25,7 +25,9 @@ function hasLogo ( listing:Listing ) {
 
 function getTitleDate ( listing:Listing ) {
 
-    const sourceListing = listing?.isMappedListing ? listing.sourceListing : listing
+    const isMappedListing = Object.keys( listing ).includes('isMappedListing')//typeof listing.isMappedListing !== 'undefined'
+
+    const sourceListing = isMappedListing ? listing.sourceListing : listing
     const dateString = sourceListing?.release_date || sourceListing?.first_air_date
 
 
