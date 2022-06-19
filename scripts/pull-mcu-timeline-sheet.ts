@@ -38,12 +38,13 @@ async function readMarkdownFileNode ( filePath: string ) {
 }
 
 const typesReadmeMap = {
-    'movie': 'Marvel Studios',
-    'tv': 'Marvel Studios',
-    'sony': 'Sony',
-    'disney-plus-netflix': 'Netflix',
-    'disney-plus': 'Disney+',
-    'hulu': 'Hulu',
+    'movie': '🎬 Marvel Studios',
+    'abc': '⚫️ ABC',
+    'freeform': '🔵 Freeform',
+    'sony': '🕷 Sony',
+    'disney-plus-netflix': '🟥 Netflix',
+    'disney-plus': '🏰 Disney+',
+    'hulu': '🟩 Hulu',
 }
 
 async function updateReadmeListContent ( newListMardown: string ) {
