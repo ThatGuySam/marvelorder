@@ -1,11 +1,17 @@
 # Marvel Order
+An Open-source Interactive version of the upcoming Marvel Film and Series ordered chronologically and by release so you can see the latest correct dates. 
 
-List of Marvel movies and shows ordered chronologically, release, and more. 
+I've been wanting a way to keep track of all the Marvel movies and shows so since there's so much going on and they frequently swap positions for different releases. 
+
+I based it on these types of images so you can see how the order is updated over time. 
+https://www.reddit.com/r/weeklyplanetpodcast/comments/kb3ibw/updated_marvel_release_schedule/
 
 ## Features
 
 - ✅ **Data Checked Daily**
+- ✅ **Updates automatically from TMDb Data**
 - ✅ **Includes non-MCU films and series**
+- ✅ **Listing saved as Markdown for easy edits**
 - ✅ **Automatic table of contents**
 - ✅ **Automatic list of contributors**
 - ✅ (and, best of all) **dark mode**
