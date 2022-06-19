@@ -18,7 +18,7 @@ import {
     TMDB_LISTS, 
     storePath 
 } from '../src/config.ts'
-import { byListingDate } from '../src/helpers/sort.ts'
+import { byPremiere } from '../src/helpers/sort.ts'
 import { 
     upsertListingMarkdown,
     getDataFromListingContents
@@ -255,7 +255,7 @@ async function saveListingsAsMarkdown ( listings ) {
 
     // Sort movies by release_date/first_air_date and empty first
     const sortedListings = Object.values(listings)
-        .sort( byListingDate )
+        .sort( byPremiere )
 
 
     await writeJSON( `${ storePath }/en/listings.json`, sortedListings, null, '\t' )
