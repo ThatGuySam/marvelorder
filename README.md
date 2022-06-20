@@ -8,6 +8,7 @@ https://www.reddit.com/r/weeklyplanetpodcast/comments/kb3ibw/updated_marvel_rele
 
 ## Features
 
+- ✅ **Let's you mark and keep track of which you've seen**
 - ✅ **Data Checked Daily**
 - ✅ **Updates automatically from TMDb Data**
 - ✅ **Includes non-MCU films and series**
