@@ -34,7 +34,7 @@ mcuTimelineOrder: 554
     "original_name": "Ms. Marvel",
     "overview": "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school — that is, until she gets superpowers like the heroes she’s always looked up to. Life is easier with superpowers, right?",
     "poster_path": "/cdkyMYdu8ao26XOBvilNzLneUg1.jpg",
-    "vote_average": 8,
+    "vote_average": 7.9,
     "title": "Ms. Marvel",
     "slug": "ms-marvel",
     "tags": [
