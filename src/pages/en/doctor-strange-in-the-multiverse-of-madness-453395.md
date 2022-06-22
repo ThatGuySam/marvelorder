@@ -10,7 +10,7 @@ type: movie
 logo_on_black: /.netlify/functions/tmdb-image/fpwAkeawcsUWPl34Gomy1SajOTw.webp
 rentLinks:
   amazon: >-
-    https://www.amazon.com/dp/B0B37W5683?tag=marvelorder-20&linkCode=osi&th=1&psc=1
+    https://amzn.to/3nbCKA0
 mcuTimelineOrder: 553
 ---
 ## TMDB Data
