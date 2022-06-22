@@ -27,7 +27,7 @@ type: movie
     "release_date": "2022-05-25",
     "title": "The Making of Moon Knight",
     "video": false,
-    "vote_average": 5.8,
+    "vote_average": 5.9,
     "slug": "the-making-of-moon-knight",
     "tags": [
         "movie",

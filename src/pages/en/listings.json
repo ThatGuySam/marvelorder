@@ -766,7 +766,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/9YJULFUvzaw6kuFbZWApsA6VZ1j.jpg",
+		"backdrop_path": "/rhzB322XUxEKdcgIVZCQZc11r4F.jpg",
 		"first_air_date": "2022-08-17",
 		"genre_ids": [
 			35,
@@ -791,7 +791,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/jpj3dBvDXzGF6Lg7gcg9QTIXYHw.jpg",
+		"backdrop_path": "/rIOD8quR4YIgcjwJnTjp6zG6HGP.jpg",
 		"first_air_date": "2022-08-10",
 		"genre_ids": [
 			16,
@@ -847,9 +847,9 @@
 		"id": 980017,
 		"original_language": "en",
 		"original_title": "The Making of Doctor Strange in the Multiverse of Madness",
-		"overview": "",
+		"overview": "Join visionary director Sam Raimi and the cast of the film as they recount their experiences bringing Marvel’s darkest story to life.  From world-building to universe-building, hear first hand accounts from the cast and crew on what it took to design, create and make each universe unique and believable.",
 		"poster_path": null,
-		"release_date": "2022-06-22",
+		"release_date": "2022-07-01",
 		"title": "The Making of Doctor Strange in the Multiverse of Madness",
 		"video": false,
 		"vote_average": 0,
@@ -876,7 +876,7 @@
 		"original_name": "Ms. Marvel",
 		"overview": "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school — that is, until she gets superpowers like the heroes she’s always looked up to. Life is easier with superpowers, right?",
 		"poster_path": "/cdkyMYdu8ao26XOBvilNzLneUg1.jpg",
-		"vote_average": 7.9,
+		"vote_average": 7.8,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
 		"tags": [
@@ -898,7 +898,7 @@
 		"release_date": "2022-05-25",
 		"title": "The Making of Moon Knight",
 		"video": false,
-		"vote_average": 5.8,
+		"vote_average": 5.9,
 		"slug": "the-making-of-moon-knight",
 		"tags": [
 			"movie",
@@ -907,7 +907,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/gUNRlH66yNDH3NQblYMIwgZXJ2u.jpg",
+		"backdrop_path": "/wcKFYIiVDvRURrzglV9kGu7fpfY.jpg",
 		"genre_ids": [
 			14,
 			28,
@@ -921,7 +921,7 @@
 		"release_date": "2022-05-04",
 		"title": "Doctor Strange in the Multiverse of Madness",
 		"video": false,
-		"vote_average": 7.4,
+		"vote_average": 7.5,
 		"slug": "doctor-strange-in-the-multiverse-of-madness",
 		"tags": [
 			"movie",
@@ -997,7 +997,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/ocUp7DJBIc8VJgLEw1prcyK1dYv.jpg",
+		"backdrop_path": "/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -2455,7 +2455,7 @@
 		"original_language": "en",
 		"original_title": "Deadpool",
 		"overview": "The origin story of former Special Forces operative turned mercenary Wade Wilson, who, after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
-		"poster_path": "/pcZT1Ouq99dY6J2iGXjMxw16x6o.jpg",
+		"poster_path": "/zq8Cl3PNIDGU3iWNRoc5nEZ6pCe.jpg",
 		"release_date": "2016-02-09",
 		"title": "Deadpool",
 		"video": false,
@@ -5096,7 +5096,7 @@
 		"release_date": "1978-09-06",
 		"title": "Dr. Strange",
 		"video": false,
-		"vote_average": 6.3,
+		"vote_average": 6.4,
 		"slug": "dr-strange",
 		"tags": [
 			"list-8204862"

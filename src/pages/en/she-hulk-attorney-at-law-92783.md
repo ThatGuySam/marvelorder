@@ -11,7 +11,7 @@ logo_on_black: /.netlify/functions/tmdb-image/9DjjTb8SEquq25sScE0SXRZiKZ1.webp
 ## TMDB Data
 ```json
 {
-    "backdrop_path": "/9YJULFUvzaw6kuFbZWApsA6VZ1j.jpg",
+    "backdrop_path": "/rhzB322XUxEKdcgIVZCQZc11r4F.jpg",
     "first_air_date": "2022-08-17",
     "genre_ids": [
         35,
