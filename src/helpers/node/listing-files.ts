@@ -19,6 +19,11 @@ import {
     mergeListingData
 // @ts-ignore
 } from '~/src/helpers/node/listing.ts'
+import { 
+    isUpcoming, 
+    FilteredListings
+// @ts-ignore
+} from '~/src/helpers/listing-filters.ts'
 
 export async function getListingFiles () {
     const listingFiles = await glob(listingsGlobPattern)
@@ -94,6 +99,22 @@ export async function getListingDetailsFromPaths ( filePaths: string[] ) {
     }
 
     return listings
+}
+
+
+export async function getUpcomingListings () {
+    const rawListings = await getAllListings()
+    
+    // Filter listings
+    const upcomingListings = new FilteredListings({
+        listings: rawListings,
+        initialFilters: [
+            [ isUpcoming, true ]
+        ],
+        listingsSort: 'default'
+    })
+
+    return upcomingListings.list
 }
 
 

@@ -1,17 +1,12 @@
 import { assert, expect, test } from 'vitest'
 
 // @ts-ignore
-import { getAllListings } from '~/src/helpers/node/listing-files.ts'
+import { getUpcomingListings } from '~/src/helpers/node/listing-files.ts'
 import { 
     makeUpcomingListingsMarkdown, 
     updateMarkdownContent
 // @ts-ignore
 } from '~/src/helpers/node/readme.ts'
-import { 
-    isUpcoming, 
-    FilteredListings
-// @ts-ignore
-} from '~/src/helpers/listing-filters.ts'
 
 
 
@@ -26,23 +21,15 @@ const testMarkdown = `
 
 test('Can generate upcoming Listing Markdown', async () => {
 
-    const rawListings = await getAllListings()
-    // Filter listings
-    const upcomingListings = new FilteredListings({
-        listings: rawListings,
-        initialFilters: [
-            [ isUpcoming, true ]
-        ],
-        listingsSort: 'default'
-    })
+    const upcomingListings = await getUpcomingListings()
 
-    const [ nextUpcomingListing ] = upcomingListings.list
+    const [ nextUpcomingListing ] = upcomingListings
 
     // Expect first mark to have a date of this current month or in the future
     expect( Number( nextUpcomingListing.date ) ).toBeGreaterThan( Date.now() )
 
     // Generate markdown
-    const newUpcomingMarkdown = makeUpcomingListingsMarkdown( upcomingListings.list )
+    const newUpcomingMarkdown = makeUpcomingListingsMarkdown( upcomingListings )
 
     const newReadmeListContent = updateMarkdownContent({
         sourceMarkdown: testMarkdown,
