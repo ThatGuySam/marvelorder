@@ -1,5 +1,7 @@
 import fs from 'fs-extra'
 
+// @ts-ignore
+import { Listing } from '~/src/helpers/types.ts'
 
 function updateMarkdownContent ( options:any = {} ) {
     const {
@@ -26,10 +28,25 @@ function updateMarkdownContent ( options:any = {} ) {
     return newReadmeListContent
 }
 
-// function makeUpcomingListingsMarkdown ( upcomingListings: Listing[] ) {
-// }
+export function makeUpcomingListingsMarkdown ( upcomingListings: Listing[] ) {
 
+    const markdownLines = upcomingListings.map( ( mappedListing: Listing ) => {
 
+        // console.log( 'mappedListing.date', mappedListing.date )
+
+        const lineParts = [
+            '', 
+            mappedListing.date.toLocaleString({ month: 'long', day: 'numeric', year: 'numeric' }),
+            `[${ mappedListing.title }](https://marvelorder.com${ mappedListing.endpoint })`,
+            // typesReadmeMap[ timelineType ],
+            `[Edit](${ mappedListing.githubEditUrl })`
+        ]
+        
+        return lineParts.join( ' - ' ).trim()
+    })
+
+    return '\n\n' + markdownLines.join( '\n' ) + '\n\n'
+}
 
 export async function updateReadmeListContent ( newListMardown: string, markerString: string ) {
 
