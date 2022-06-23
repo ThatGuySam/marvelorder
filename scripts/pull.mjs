@@ -197,6 +197,8 @@ async function writeMarkdownFileDeno ({ path, markdownBody, pageMeta }) {
 
     const hasPageMeta = Object( pageMeta ) === pageMeta && Object.keys(pageMeta).length > 0
 
+    // Ensure markdown body end with newline
+    // markdownBody = markdownBody.endsWith( '\n' ) ? markdownBody : `${ markdownBody }\n`
 
     // If there is no pageMeta
     // then assume everything the body already has encoded frontmatter
@@ -240,14 +242,18 @@ async function writeTmdbDataOnly ( listing ) {
     const markdownContent = decoder.decode(await Deno.readFile( listingFilePath ))
     // Split off and leave behind existing TMDb data
     const { existingContent } = getPartsFromMarkdown( markdownContent )
+    const tmdbSection = makeTMDbMarkdownSection( listing )
 
     // console.log( 'existingContent', existingContent )
 
     // Merge in existing meta above the current TMDb data
     const content = [
         existingContent.trim(),
-        makeTMDbMarkdownSection( listing )
+        tmdbSection,
+        // Ensure newline at end
+        // tmdbSection.endsWith( '\n' ) ? '' : '\n'
     ].join('\n')
+
 
     await Deno.writeTextFile( listingFilePath, content )
 
