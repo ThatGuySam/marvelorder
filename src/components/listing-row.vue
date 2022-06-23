@@ -114,7 +114,7 @@ export default {
     },
 	computed: {
 		filteredListings () {
-			console.log( 'this.initialSort', this.initialSort )
+			// console.log( 'this.initialSort', this.initialSort )
 			return new FilteredListings({ 
 				listings: this.listings,  
 				initialFilters: this.activeListingFilters,
