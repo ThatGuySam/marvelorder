@@ -104,7 +104,7 @@ const githubEditUrl = CONFIG.GITHUB_EDIT_URL && CONFIG.GITHUB_EDIT_URL + current
 
 	<body class="main-layout theme-dark">
 		<Header {currentPage} />
-		<main class="layout">
+		<main class="layout min-h-screen">
 			<aside 
 				id="grid-left" 
 				class="grid-sidebar backdrop-blur bg-black/25" 
@@ -112,9 +112,7 @@ const githubEditUrl = CONFIG.GITHUB_EDIT_URL && CONFIG.GITHUB_EDIT_URL + current
 			>
 				<LeftSidebar {currentPage} />
 			</aside>
-			<div
-				class="main-content "
-			>
+			<div id="grid-main">
 				<PageContent {content} {githubEditUrl}>
 					<slot />
 				</PageContent>
