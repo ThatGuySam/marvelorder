@@ -20,9 +20,20 @@ const githubEditUrl = CONFIG.GITHUB_EDIT_URL && CONFIG.GITHUB_EDIT_URL + current
 		<HeadSEO {content} canonicalURL={Astro.canonicalURL} />
 		<title>{content.title ? `${content.title} 🚀 ${CONFIG.SITE.title}` : CONFIG.SITE.title}</title>
 		<style>
+
+			html, body {
+				/* Disable scrolling */
+				overflow: none;
+				/* Disable macOS Swipe Between Pages Gesture */
+				overscroll-behavior-x: none;
+			}
+
+
 			body {
 				width: 100%;
 			}
+
+
 		</style>
 	</head>
 
