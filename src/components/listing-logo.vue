@@ -8,8 +8,6 @@
 </template>
 
 <script>
-
-import 'lazysizes'
 import 'lazysizes/plugins/attrchange/ls.attrchange'
 
 function makeSizedImageUrl ( imageUrl, size ) {
