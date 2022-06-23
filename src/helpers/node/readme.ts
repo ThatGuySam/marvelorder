@@ -13,8 +13,10 @@ export function updateMarkdownContent ( options:any = {} ) {
     const startMarker = `<!-- start-${ markerString } -->`
     const endMarker = `<!-- end-${ markerString } -->`
 
-    // Throw if start marker is not found
-    
+    // Throw if start or end marker is not found
+    if ( !sourceMarkdown.includes( startMarker ) || !sourceMarkdown.includes( endMarker ) ) {
+        throw new Error( `Missing start or end marker for ${ markerString }` )
+    }
 
     const startIndex = sourceMarkdown.indexOf( startMarker ) + startMarker.length
     const endIndex = sourceMarkdown.indexOf( endMarker )
@@ -48,7 +50,7 @@ export function makeUpcomingListingsMarkdown ( upcomingListings: Listing[] ) {
     return '\n\n' + markdownLines.join( '\n' ) + '\n\n'
 }
 
-export async function updateReadmeListContent ( newListMardown: string, markerString: string ) {
+export async function updateReadmeListContent ( newListMarkdown: string, markerString: string ) {
 
     // Get README.md content
     const readmeContent = await fs.readFile( './README.md', 'utf8' )
@@ -57,7 +59,7 @@ export async function updateReadmeListContent ( newListMardown: string, markerSt
 
     const newReadmeListContent = updateMarkdownContent({
         sourceMarkdown: readmeContent,
-        newMarkdown: newListMardown,
+        newMarkdown: newListMarkdown,
         markerString
     })
 

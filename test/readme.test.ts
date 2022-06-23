@@ -45,3 +45,19 @@ test('Can generate upcoming Listing Markdown', async () => {
     // Expect upcomingMarkdown to not contain 'Old Listing'
     expect( newReadmeListContent ).not.toContain( 'Old Listing' )
 })
+
+test('Can catch missing start marker', async () => {
+
+    const emptyMarkdown = ``
+
+
+    expect(() => {
+
+        const newReadmeListContent = updateMarkdownContent({
+            sourceMarkdown: emptyMarkdown,
+            newMarkdown: `Test`,
+            markerString: 'upcoming-list'
+        })
+
+    }).toThrowError('upcoming-list')
+})
