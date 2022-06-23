@@ -10,8 +10,11 @@ import {
     matchListingToOrdered,
 // @ts-ignore
 } from '~/src/helpers/node/mcu-timeline-sheet.ts'
+import { 
+    updateReadmeListContent, 
+    makeUpcomingListingsMarkdown
 // @ts-ignore
-import { updateReadmeListContent } from '~/src/helpers/node/readme.ts'
+} from '~/src/helpers/node/readme.ts'
 // @ts-ignore
 import { upsertListingMarkdown } from '~/src/helpers/markdown-page.ts'
 // @ts-ignore
@@ -19,7 +22,8 @@ import {
     getListingFiles,
     getListingDetailsFromPaths,
     getListingFromFile,
-    writeMarkdownFileNode
+    writeMarkdownFileNode,
+    getUpcomingListings
 // @ts-ignore
 } from '~/src/helpers/node/listing-files.ts'
 import { 
@@ -172,6 +176,15 @@ function buildReadmeList ( matchesMap:Map<number, any> ) {
     // console.log( 'updatedList', updatedList )
 
     await updateReadmeListContent( updatedList, 'viewing-order-list' )
+
+
+    const upcomingListings = await getUpcomingListings()
+
+    // Generate markdown
+    const newUpcomingMarkdown = makeUpcomingListingsMarkdown( upcomingListings )
+
+    await updateReadmeListContent( newUpcomingMarkdown, 'upcoming-list' )
+
     
     process.exit()
 })()
