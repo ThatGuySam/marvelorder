@@ -11,10 +11,19 @@ import {
 // @ts-ignore
 } from '~/src/helpers/listing.ts'
 
+
 export function makeMappedListings ( listings: Listing[] ) {
     const mappedList = listings.map( listing => new MappedListing( listing ) )
     
     return mappedList
+}
+
+export function ensureMappedListing ( listing: Listing ) {
+    if ( listing instanceof MappedListing ) {
+        return listing
+    }
+
+    return new MappedListing( listing )
 }
 
 export function ensureMappedListings ( listings: Listing[] ) {
