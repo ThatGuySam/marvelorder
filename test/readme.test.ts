@@ -3,7 +3,8 @@ import { assert, expect, test } from 'vitest'
 // @ts-ignore
 import { getAllListings } from '~/src/helpers/node/listing-files.ts'
 import { 
-    makeUpcomingListingsMarkdown
+    makeUpcomingListingsMarkdown, 
+    updateMarkdownContent
 // @ts-ignore
 } from '~/src/helpers/node/readme.ts'
 import { 
@@ -41,10 +42,19 @@ test('Can generate upcoming Listing Markdown', async () => {
     expect( Number( nextUpcomingListing.date ) ).toBeGreaterThan( Date.now() )
 
     // Generate markdown
-    const upcomingMarkdown = makeUpcomingListingsMarkdown( upcomingListings.list )
+    const newUpcomingMarkdown = makeUpcomingListingsMarkdown( upcomingListings.list )
+
+    const newReadmeListContent = updateMarkdownContent({
+        sourceMarkdown: testMarkdown,
+        newMarkdown: newUpcomingMarkdown,
+        markerString: 'upcoming-list'
+    })
+
+    // Expect markdown to have list markers
+    expect( newReadmeListContent ).toContain( '<!-- start-upcoming-list -->' )
 
     // console.log( 'upcomingMarkdown', upcomingMarkdown )
 
     // Expect upcomingMarkdown to not contain 'Old Listing'
-    expect( upcomingMarkdown ).not.toContain( 'Old Listing' )
+    expect( newReadmeListContent ).not.toContain( 'Old Listing' )
 })

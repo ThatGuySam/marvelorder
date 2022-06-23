@@ -3,7 +3,7 @@ import fs from 'fs-extra'
 // @ts-ignore
 import { Listing } from '~/src/helpers/types.ts'
 
-function updateMarkdownContent ( options:any = {} ) {
+export function updateMarkdownContent ( options:any = {} ) {
     const {
         sourceMarkdown, 
         newMarkdown,
