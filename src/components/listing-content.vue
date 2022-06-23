@@ -8,7 +8,10 @@
             />
         </div>
 
-        <h1 class="content-title text-3xl md:text-5xl font-black" id="overview">{{ mappedListing.title }}</h1>
+        <h1 
+            class="content-title text-3xl md:text-5xl font-black" 
+            id="overview"
+        >{{ mappedListing.title }}</h1>
 
         <div
             v-if="daysUntilRelease !== null"
@@ -19,7 +22,7 @@
         </div>
 
         <ButtonLink
-            v-if="isValidHttpUrl( mappedListing?.rentLinks?.amazon )"
+            v-if="isValidHttpUrl( mappedListing?.rentLinks?.amazon ) && context !== 'listing-page'"
             :href="mappedListing.rentLinks.amazon"
             target="_blank"
             class="amazon-link text-black text-sm font-bold bg-amber-400"
@@ -109,6 +112,10 @@ export default {
         listing: {
             type: Object,
             required: true
+        },
+        context: {
+            type: String,
+            default: 'listing-column'
         }
     },
     methods: {
