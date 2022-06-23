@@ -20,6 +20,23 @@ https://www.reddit.com/r/weeklyplanetpodcast/comments/kb3ibw/updated_marvel_rele
 
 ## Upcoming
 <!-- start-upcoming-list -->
+
+- July 6, 2022 - [Thor: Love and Thunder](https://marvelorder.com/en/thor-love-and-thunder-616037) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/thor-love-and-thunder-616037.md)
+- August 10, 2022 - [I Am Groot](https://marvelorder.com/en/i-am-groot-114469) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/i-am-groot-114469.md)
+- August 17, 2022 - [She-Hulk: Attorney at Law](https://marvelorder.com/en/she-hulk-attorney-at-law-92783) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/she-hulk-attorney-at-law-92783.md)
+- September 1, 2022 - [Secret Invasion](https://marvelorder.com/en/secret-invasion-114472) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/secret-invasion-114472.md)
+- November 9, 2022 - [Black Panther: Wakanda Forever](https://marvelorder.com/en/black-panther-wakanda-forever-505642) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/black-panther-wakanda-forever-505642.md)
+- December 1, 2022 - [The Guardians of the Galaxy Holiday Special](https://marvelorder.com/en/the-guardians-of-the-galaxy-holiday-special-774752) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/the-guardians-of-the-galaxy-holiday-special-774752.md)
+- January 1, 2023 - [Echo](https://marvelorder.com/en/echo-122226) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/echo-122226.md)
+- January 13, 2023 - [Kraven the Hunter](https://marvelorder.com/en/kraven-the-hunter-539972) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/kraven-the-hunter-539972.md)
+- February 15, 2023 - [Ant-Man and the Wasp: Quantumania](https://marvelorder.com/en/ant-man-and-the-wasp-quantumania-640146) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/ant-man-and-the-wasp-quantumania-640146.md)
+- May 3, 2023 - [Guardians of the Galaxy Vol. 3](https://marvelorder.com/en/guardians-of-the-galaxy-vol-3-447365) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/guardians-of-the-galaxy-vol-3-447365.md)
+- June 2, 2023 - [Spider-Man: Across the Spider-Verse](https://marvelorder.com/en/spider-man-across-the-spider-verse-569094) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/spider-man-across-the-spider-verse-569094.md)
+- July 7, 2023 - [Madame Web](https://marvelorder.com/en/madame-web-634492) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/madame-web-634492.md)
+- July 26, 2023 - [The Marvels](https://marvelorder.com/en/the-marvels-609681) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/the-marvels-609681.md)
+- January 11, 2024 - [El Muerto](https://marvelorder.com/en/el-muerto-967731) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/el-muerto-967731.md)
+- March 28, 2024 - [Spider-Man: Beyond the Spider-Verse](https://marvelorder.com/en/spider-man-beyond-the-spider-verse-911916) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/spider-man-beyond-the-spider-verse-911916.md)
+
 <!-- end-upcoming-list -->
 
 ## Site Lists
