@@ -55,6 +55,14 @@ export async function getListingsFromFilePaths ( filePaths: string[] ) {
     return listings
 }
 
+export async function getAllListings () {
+    const listingFilePaths = await getListingFiles()
+
+    const listingDetails = await getListingsFromFilePaths( listingFilePaths )
+
+    return listingDetails
+}
+
 export async function getSingleListingFromUrl ( rawUrl: string ) {
     // Parse URL
     const url = new URL( rawUrl )
@@ -64,7 +72,7 @@ export async function getSingleListingFromUrl ( rawUrl: string ) {
     const filePath = `./src/pages/${ urlPathname }.md`
     const { listing } = await getListingFromFile( filePath )
 
-    
+
     return listing
 }
 
