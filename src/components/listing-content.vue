@@ -56,31 +56,35 @@
         </div>
 
         <span class="relative z-0 inline-flex text-center md:flex-row flex-col shadow-sm md:divide-x md:divide-y-0 divide-y divide-gray-700 border border-gray-300 rounded-md bg-black/50 md:py-3 md:px-0 px-4">
-            <a
+            <template 
                 v-for="(link, i) in links"
                 :key="i"
-                type="button"
-                :href="link.href"
-                :class="[
-                    'relative inline-flex justify-center items-center font-medium focus:z-10 focus:outline-none focus:ring-1 focus:ring-indigo-500 focus:border-indigo-500',
-                    'text-white',
-                ]"
             >
-                <div
+                <a
+                    v-if="link.enabled"
+                    type="button"
+                    :href="link.href"
                     :class="[
-                        'inner-link hover:bg-indigo-400 active:bg-indigo-600 rounded-md px-4 md:py-2 md:mx-0 md:-my-3',
-                        'py-3 -mx-4',
-                        // First Link
-                        // i === 0 && 'rounded-l-md',
-                        // Not first Link
-                        i !== 0 ? 'md:-ml-px' : '',
-                        // Last Link
-                        // i === totalLinks - 1 ? 'rounded-r-md' : ''
+                        'relative inline-flex justify-center items-center font-medium focus:z-10 focus:outline-none focus:ring-1 focus:ring-indigo-500 focus:border-indigo-500',
+                        'text-white',
                     ]"
                 >
-                    {{ link.label }}
-                </div>
-            </a>
+                    <div
+                        :class="[
+                            'inner-link hover:bg-indigo-400 active:bg-indigo-600 rounded-md px-4 md:py-2 md:mx-0 md:-my-3',
+                            'py-3 -mx-4',
+                            // First Link
+                            // i === 0 && 'rounded-l-md',
+                            // Not first Link
+                            i !== 0 ? 'md:-ml-px' : '',
+                            // Last Link
+                            // i === totalLinks - 1 ? 'rounded-r-md' : ''
+                        ]"
+                    >
+                        {{ link.label }}
+                    </div>
+                </a>
+            </template>
         </span>
 
     </div>
@@ -145,10 +149,12 @@ export default {
         links () {
             return [
                 {
+                    enabled: this.context !== 'listing-page',
                     label: 'Full details',
                     href: this.mappedListing.endpoint
                 },
                 {
+                    enabled: true,
                     label: 'Edit on GitHub',
                     href: this.mappedListing.githubEditUrl
                 },
