@@ -8,11 +8,24 @@ import MoreMenu from '../RightSidebar/MoreMenu.astro';
 
 import ListingLogo from '~/src/components/listing-logo.vue'
 import ListingContent from '~/src/components/listing-content.vue'
+import TmdbImage from '~/src/components/tmdb-image.vue'
 
 const { content, githubEditUrl } = Astro.props
 
 const rawListing = await getSingleListingFromUrl( Astro.canonicalURL.href )
 ---
+
+{ !!rawListing.backdrop_path && (
+	<div 
+		class="backdrop absolute inset-0"
+	>
+		<TmdbImage
+			src={ rawListing.backdrop_path }
+			class="absolute w-full h-screen object-cover inset-0 linear-mask"
+		/>
+	</div>
+)}
+
 
 <article id="article" class="content">
 	<section class="main-section">
