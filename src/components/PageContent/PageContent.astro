@@ -22,6 +22,7 @@ const rawListing = await getSingleListingFromUrl( Astro.canonicalURL.href )
 		
 		<ListingContent
 			listing={ rawListing }
+			context="listing-page"
 			class="relative h-full px-8"
 		/>
 			
