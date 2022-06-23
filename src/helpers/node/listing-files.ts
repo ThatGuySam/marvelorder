@@ -104,7 +104,7 @@ export async function getListingDetailsFromPaths ( filePaths: string[] ) {
 
 export async function getUpcomingListings () {
     const rawListings = await getAllListings()
-    
+
     // Filter listings
     const upcomingListings = new FilteredListings({
         listings: rawListings,
@@ -157,6 +157,9 @@ export function makeTomlFromListingData ( body: string , listing: Listing ) {
 // Node specfic markdown writer
 // since Deno uses custom fs and import method for gray-matter
 export async function writeMarkdownFileNode ({ path, markdownBody, pageMeta }) {
+
+    // Ensure markdown body end with newline
+    markdownBody = markdownBody.endsWith( '\n' ) ? markdownBody : `${ markdownBody }\n`
 
     console.log( 'path', path )
     // console.log('markdownBody', markdownBody)
