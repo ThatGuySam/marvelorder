@@ -19,7 +19,7 @@ logo_on_black: /.netlify/functions/tmdb-image/4gdqWCVvidYR0pOHuVOqFundbUG.webp
     "id": 533535,
     "original_language": "en",
     "original_title": "Deadpool 3",
-    "overview": "",
+    "overview": "The third installment in the Deadpool franchise.",
     "poster_path": "/4gdqWCVvidYR0pOHuVOqFundbUG.jpg",
     "title": "Deadpool 3",
     "video": false,
