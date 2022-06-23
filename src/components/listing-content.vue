@@ -2,13 +2,13 @@
     <div class="flex flex-col items-start gap-8">
         <div class="relative aspect-video w-full flex items-center px-12">
             <ListingLogo 
-                :src="listing"
+                :src="mappedListing"
                 :baseSize="540"
                 class="h-auto w-full relative transition-all"
             />
         </div>
 
-        <h1 class="content-title text-3xl md:text-5xl font-black" id="overview">{{ listing.title }}</h1>
+        <h1 class="content-title text-3xl md:text-5xl font-black" id="overview">{{ mappedListing.title }}</h1>
 
         <div
             v-if="daysUntilRelease !== null"
@@ -19,8 +19,8 @@
         </div>
 
         <ButtonLink
-            v-if="isValidHttpUrl( listing?.rentLinks?.amazon )"
-            :href="listing.rentLinks.amazon"
+            v-if="isValidHttpUrl( mappedListing?.rentLinks?.amazon )"
+            :href="mappedListing.rentLinks.amazon"
             target="_blank"
             class="amazon-link text-black text-sm font-bold bg-amber-400"
         >
@@ -36,17 +36,17 @@
 
 		<h2  class="font-bold" id="description">Description</h2>
 		<div class="content-description">
-			{{ listing.overview }}
+			{{ mappedListing.overview }}
 		</div>
 
         <div class="credits opacity-50">
             <div>Title data via <a class="underline" href="https://www.themoviedb.org/">The Movie Database</a></div>
             <div
-                v-if="hasFanartLogo( listing )"
+                v-if="hasFanartLogo( mappedListing )"
             >Image via <a class="underline" href="https://fanart.tv/">Fanart.tv</a></div>
 
             <div
-                v-if="isMcuSheetOrdered( listing )"
+                v-if="isMcuSheetOrdered( mappedListing )"
             >Timeline Order data via <a class="underline" href="https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_wKs/edit#gid=0">r/MarvelStudios MCU Viewing</a></div>
 
             
@@ -88,6 +88,7 @@ import { DateTime, Interval } from 'luxon'
 
 import { isValidHttpUrl } from '~/src/helpers/check.ts'  
 import { makeFunctionUrlFromTmdb } from '~/src/helpers/url.ts'
+import { ensureMappedListing } from '~/src/helpers/node/listing.ts'
 import { 
     hasFanartLogo, 
     isUpcoming,
@@ -118,12 +119,19 @@ export default {
         isMcuSheetOrdered
     },
     computed: {
+        mappedListing () {
+
+            // console.log( 'this.listing', this.listing )
+
+            // Map the listing to the correct format
+            return ensureMappedListing( this.listing )
+        }, 
         daysUntilRelease () {
-            if ( !isUpcoming( this.listing ) ) return null
+            if ( !isUpcoming( this.mappedListing ) ) return null
 
-            this.listing.date
+            this.mappedListing.date
 
-            const untilRelease = Interval.fromDateTimes( now, this.listing.date )
+            const untilRelease = Interval.fromDateTimes( now, this.mappedListing.date )
 
             return Math.round( untilRelease.length('days') )
         },
@@ -131,16 +139,16 @@ export default {
             return [
                 {
                     label: 'Full details',
-                    href: this.listing.endpoint
+                    href: this.mappedListing.endpoint
                 },
                 {
                     label: 'Edit on GitHub',
-                    href: this.listing.githubEditUrl
+                    href: this.mappedListing.githubEditUrl
                 },
             ]
         },
         backdropUrl () {
-            return makeFunctionUrlFromTmdb( this.listing.backdrop_path )
+            return makeFunctionUrlFromTmdb( this.mappedListing.backdrop_path )
         },
     }
 }
