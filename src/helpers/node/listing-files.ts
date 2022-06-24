@@ -101,6 +101,16 @@ export async function getListingDetailsFromPaths ( filePaths: string[] ) {
     return listings
 }
 
+export async function getDefaultFilteredListings () {
+    const rawListings = await getAllListings()
+
+    const filteredListings = new FilteredListings({
+        listings: rawListings,
+        listingsSort: 'default'
+    })
+
+    return filteredListings.list
+}
 
 export async function getUpcomingListings () {
     const rawListings = await getAllListings()
