@@ -17,6 +17,13 @@ https://www.reddit.com/r/weeklyplanetpodcast/comments/kb3ibw/updated_marvel_rele
 - ✅ **Automatic list of contributors**
 - ✅ (and, best of all) **dark mode**
 
+## Marvel Cinematic In Universe Timeline
+
+This is the *most* official list for the Marvel Chronologically, aka by the time period in the movies, according to the [Marvel Page on Disney+](https://www.disneyplus.com/brand/marvel)
+⚠️ Watching this way will spoil later movies later movies so follow at your own discretion.
+<!-- start-in-universe-list -->
+<!-- end-in-universe-list -->
+
 
 ## Upcoming
 <!-- start-upcoming-list -->
