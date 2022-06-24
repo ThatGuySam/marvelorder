@@ -103,5 +103,5 @@ export async function getInUniverseTimelineAndListings () {
         })
     }
 
-    return matches.values()
+    return Array.from( matches.values() )
 }
