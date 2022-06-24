@@ -2,7 +2,7 @@
 title: 'Marvel One-Shot: All Hail the King'
 slug: marvel-one-shot-all-hail-the-king
 description: >-
-  A documentary filmmaker interviews the now-famous Trevor Slattery from behind
+  A filmmaker interviews the now-famous Trevor Slattery from behind
   bars.
 layout: ../../layouts/MainLayout.astro
 type: movie

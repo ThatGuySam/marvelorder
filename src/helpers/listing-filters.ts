@@ -39,8 +39,12 @@ export function isDoc ( listing ) {
 		}
 	}
 
+    // Prefer description
+    // so that we can override it in Markdown
+    const description = listing?.description || listing.overview
+
     // overview has word documentary
-    if ( listing.overview.toLowerCase().includes( 'documentary' ) ) {
+    if ( description.toLowerCase().includes( 'documentary' ) ) {
         return true
     }
 
