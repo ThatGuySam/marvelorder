@@ -3,6 +3,11 @@ import fs from 'fs-extra'
 // @ts-ignore
 import { Listing } from '~/src/helpers/types.ts'
 
+import {
+    getInUniverseTimelineAndListings
+// @ts-ignore
+} from '~/src/helpers/node/in-universe-timeline.ts'
+
 export function updateMarkdownContent ( options:any = {} ) {
     const {
         sourceMarkdown, 
@@ -68,4 +73,31 @@ export async function updateReadmeListContent ( newListMarkdown: string, markerS
     await fs.writeFile( './README.md', newReadmeListContent )
 
     return newReadmeListContent
+}
+
+
+export async function makeInUniverseMarkdown () {
+    const timeline = await getInUniverseTimelineAndListings()
+
+    const markdownLines = timeline.map( ( timelineEntry:any ) => {
+        
+        const { 
+            inUniverseEntry = null as any, 
+            mappedListing = null as Listing 
+        } = timelineEntry
+
+        console.log( 'inUniverseEntry', inUniverseEntry )
+
+        const lineParts = [
+            '', 
+            mappedListing.date.toLocaleString({ month: 'long', day: 'numeric', year: 'numeric' }),
+            `[${ mappedListing.title }](https://marvelorder.com${ mappedListing.endpoint })`,
+            // typesReadmeMap[ timelineType ],
+            `[Edit](${ mappedListing.githubEditUrl })`
+        ]
+        
+        return lineParts.join( ' - ' ).trim()
+    })
+
+    return '\n\n' + markdownLines.join( '\n' ) + '\n\n'
 }
