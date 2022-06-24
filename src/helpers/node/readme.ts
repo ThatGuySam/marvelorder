@@ -85,7 +85,9 @@ const inUniverseTypeMap = {
 export async function makeInUniverseMarkdown () {
     const timeline = await getInUniverseTimelineAndListings()
 
-    const markdownLines = timeline.map( ( timelineEntry:any ) => {
+    // console.log( 'timeline', timeline[0] )
+
+    const markdownLines = timeline.map( ( timelineEntry:any, index:number ) => {
         
         const { 
             inUniverseEntry = null as any, 
@@ -96,7 +98,8 @@ export async function makeInUniverseMarkdown () {
 
         const lineParts = [
             '', 
-            mappedListing.date.toLocaleString({ month: 'long', day: 'numeric', year: 'numeric' }),
+            `<kbd>${ index + 1 }</kbd>`,
+            // mappedListing.date.toLocaleString({ month: 'long', day: 'numeric', year: 'numeric' }),
             `[${ mappedListing.title }](https://marvelorder.com${ mappedListing.endpoint })`,
             inUniverseTypeMap[ inUniverseEntry.type ] || '⁇',
             `[Edit](${ mappedListing.githubEditUrl })`
