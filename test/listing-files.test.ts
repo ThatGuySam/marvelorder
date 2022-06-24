@@ -5,9 +5,14 @@ import { faker } from '@faker-js/faker'
 import { 
     upsertListingFrontmatter, 
     getListingFiles, 
-    getListingDetailsFromPaths
+    getListingDetailsFromPaths,
 // @ts-ignore
 } from '~/src/helpers/node/listing-files.ts'
+
+import {
+    getInUniverseTimeline
+// @ts-ignore
+} from '~/src/helpers/node/in-universe-timeline.ts'
 
 
 const fakeListing = {
@@ -85,4 +90,16 @@ test('No listing frontmatter properties end with backward slash', async () => {
     const details = await getListingDetailsFromPaths( listingFiles )
 
     expect( noEndingBackSlashes( details ) ).toBe( true )
+})
+
+
+test('Can get Disney+ In Universe Timeline', async () => {
+    
+    const universeTimeline = await getInUniverseTimeline()
+
+    expect( universeTimeline ).toBeDefined()
+    expect( universeTimeline.length ).toBeGreaterThan( 0 )
+
+    expect( universeTimeline[0].title ).toContain('First Avenger')
+
 })
