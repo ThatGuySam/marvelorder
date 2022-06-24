@@ -1,4 +1,4 @@
-name: data
+name: Data Layering
 on:
   schedule:
     - cron: 0 0 * * *
