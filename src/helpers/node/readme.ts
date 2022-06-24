@@ -76,6 +76,12 @@ export async function updateReadmeListContent ( newListMarkdown: string, markerS
 }
 
 
+const inUniverseTypeMap = {
+    'series': '📺 Series',
+    'movie': '🎬 Movie',
+    'short-form': '▶️ Short',
+}
+
 export async function makeInUniverseMarkdown () {
     const timeline = await getInUniverseTimelineAndListings()
 
@@ -92,7 +98,7 @@ export async function makeInUniverseMarkdown () {
             '', 
             mappedListing.date.toLocaleString({ month: 'long', day: 'numeric', year: 'numeric' }),
             `[${ mappedListing.title }](https://marvelorder.com${ mappedListing.endpoint })`,
-            // typesReadmeMap[ timelineType ],
+            inUniverseTypeMap[ inUniverseEntry.type ] || '⁇',
             `[Edit](${ mappedListing.githubEditUrl })`
         ]
         
