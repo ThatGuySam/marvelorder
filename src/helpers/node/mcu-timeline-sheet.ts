@@ -1,14 +1,10 @@
 import { deepmerge } from 'deepmerge-ts'
-import slugify from 'slugify'
-import { DateTime } from 'luxon'
 
-function makeSlug ( name ) {
-    return slugify( name.replace( '+', ' plus' ) , {
-        lower: true,
-        remove: /[^a-zA-Z\d\s\-]/g,
-        strict: true
-    })
-}
+import { 
+    getYearAndMonth, 
+    makeSlug,
+// @ts-ignore
+} from '~/helpers/node/listing.ts'
 
 function parseOrderedTitle ( rawTitle:string ) {
     const [
@@ -34,18 +30,7 @@ function parseOrderedTitle ( rawTitle:string ) {
     }
 }
 
-export function getYearAndMonth ( date: string ) {
 
-    if ( typeof date !== 'string' ) {
-        throw new Error( 'date must be a string' )
-    }
-
-    const dateTime = DateTime.fromISO( date )
-    const year = dateTime.year
-    const month = dateTime.month
-
-    return `${ year }`//-${ month }`
-}
 
 export function matchListingToOrdered ( listing, orderedEntry ) {
 

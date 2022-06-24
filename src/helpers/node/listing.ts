@@ -1,5 +1,6 @@
 import { DateTime } from 'luxon'
 import { deepmergeCustom } from 'deepmerge-ts'
+import slugify from 'slugify'
 
 // @ts-ignore
 import * as CONFIG from '~/src/config.ts'
@@ -11,6 +12,14 @@ import {
 // @ts-ignore
 } from '~/src/helpers/listing.ts'
 
+
+export function makeSlug ( name ) {
+    return slugify( name.replace( '+', ' plus' ) , {
+        lower: true,
+        remove: /[^a-zA-Z\d\s\-]/g,
+        strict: true
+    })
+}
 
 export function makeMappedListings ( listings: Listing[] ) {
     const mappedList = listings.map( listing => new MappedListing( listing ) )
@@ -38,6 +47,19 @@ export const listingMerger = deepmergeCustom( listingMergeConfig )
 
 export function mergeListingData ( listingA : Object, listingB : Object ) {
     return listingMerger( listingA, listingB )
+}
+
+export function getYearAndMonth ( date: string ) {
+
+    if ( typeof date !== 'string' ) {
+        throw new Error( 'date must be a string' )
+    }
+
+    const dateTime = DateTime.fromISO( date )
+    const year = dateTime.year
+    const month = dateTime.month
+
+    return `${ year }`//-${ month }`
 }
 
 export class MappedListing {
