@@ -33,5 +33,5 @@ jobs:
         uses: githubocto/flat@v3
         with:
           http_url: https://raw.githubusercontent.com/ThatGuySam/marvelorder/main/README.md
-          downloaded_filename: README.md
+          downloaded_filename: flat.txt
           postprocess: ./scripts/pull.mjs
