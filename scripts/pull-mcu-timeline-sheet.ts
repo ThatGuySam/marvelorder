@@ -59,7 +59,7 @@ function buildReadmeList ( matchesMap:Map<number, any> ) {
         const { listing, timelineType } = match
         const parts = [
             '', 
-            `#${index + 1}`,
+            `<kbd>${ index + 1 }</kbd>`,
             `[${ listing.title }](https://marvelorder.com${ listing.endpoint })`,
             typesReadmeMap[ timelineType ],
             `[Edit](${ listing.githubEditUrl })`
