@@ -94,7 +94,7 @@ export async function makeInUniverseMarkdown () {
             mappedListing = null as Listing 
         } = timelineEntry
 
-        console.log( 'inUniverseEntry', inUniverseEntry )
+        // console.log( 'inUniverseEntry', inUniverseEntry )
 
         const lineParts = [
             '', 
