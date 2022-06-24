@@ -6,11 +6,14 @@ import {
     upsertListingFrontmatter, 
     getListingFiles, 
     getListingDetailsFromPaths,
+    getDefaultFilteredListings
 // @ts-ignore
 } from '~/src/helpers/node/listing-files.ts'
 
 import {
-    getInUniverseTimeline
+    getInUniverseTimeline,
+    matchTimelineEntryToSavedListing,
+    getInUniverseTimelineAndListings,
 // @ts-ignore
 } from '~/src/helpers/node/in-universe-timeline.ts'
 
@@ -102,4 +105,13 @@ test('Can get Disney+ In Universe Timeline', async () => {
 
     expect( universeTimeline[0].title ).toContain('First Avenger')
 
+})
+
+test('Can match Disney+ In Universe Timeline to save listings', async () => {
+    const universeTimelineAndListings = await getInUniverseTimelineAndListings()
+
+    for ( const { mappedListing } of universeTimelineAndListings ) {
+        // console.log( 'mappedListing', mappedListing )
+        expect( mappedListing ).toHaveProperty( 'title' )
+    }
 })

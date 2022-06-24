@@ -1,6 +1,17 @@
 import 'dotenv/config'
 import axios from 'axios'
 
+import { 
+    getYearAndMonth, 
+    makeSlug
+// @ts-ignore
+} from '~/src/helpers/node/listing.ts'
+
+// @ts-ignore
+import { getDefaultFilteredListings } from '~/src/helpers/node/listing-files.ts'
+
+
+
 const inUniverseFirstPage = '/CuratedSet/version/5.1/region/US/audience/k-false,l-true/maturity/1450/language/en/setId/9466a148-f6b4-4c1a-8028-b0129323f4a9/pageSize/15/page/1'
 
 
@@ -40,4 +51,57 @@ export async function getInUniverseTimeline () {
     }
 
     return allItems
+}
+
+export function matchListingToInUniverse ( listing, inUniverseEntry ) {
+
+    // Skip if listing has no release date
+    if ( !listing.dateString ) {
+        return false
+    }
+
+    // console.log( 'listing.dateString', listing.dateString )
+    // console.log( 'inUniverseEntry.releases[0].releaseDate', inUniverseEntry.releases[0].releaseDate )
+    const dateMatches = getYearAndMonth( inUniverseEntry.releases[0].releaseDate ) === getYearAndMonth( listing.dateString )
+
+    if ( !dateMatches ) return false
+
+
+    const listingSlug = makeSlug( listing.title ).replace( 'marvel-one-shot', '' )
+    const inUniverseSlug = makeSlug( inUniverseEntry.title )
+
+    // console.log( 'listingSlug', listingSlug )
+    // console.log( 'orderedSlug', inUniverseSlug )
+
+    // We can be a bit more generous with the slug matching
+    // since the listing are all in the same month and year
+    return inUniverseSlug.includes( listingSlug ) || listingSlug.includes( inUniverseSlug )
+}
+
+export function matchTimelineEntryToSavedListing ( inUniverseEntry:any, savedListings:any[] ) {
+    for ( const savedListing of savedListings ) {
+        if ( matchListingToInUniverse( savedListing, inUniverseEntry ) ) {
+            return savedListing
+        }
+    }
+
+    throw new Error( `Could not match timeline entry to saved listing: ${ inUniverseEntry.title }` )
+}
+
+export async function getInUniverseTimelineAndListings () {
+    const universeTimeline = await getInUniverseTimeline()
+    const savedListings = await getDefaultFilteredListings()
+
+    const matches = new Map()
+
+    for ( const inUniverseEntry of universeTimeline ) {
+        const matchingListing = matchTimelineEntryToSavedListing( inUniverseEntry, savedListings )
+
+        matches.set( matchingListing.id, {
+            inUniverseEntry,
+            mappedListing: matchingListing,
+        })
+    }
+
+    return matches.values()
 }
