@@ -12,7 +12,8 @@ import {
 } from '~/src/helpers/node/mcu-timeline-sheet.ts'
 import { 
     updateReadmeListContent, 
-    makeUpcomingListingsMarkdown
+    makeUpcomingListingsMarkdown,
+    makeInUniverseMarkdown
 // @ts-ignore
 } from '~/src/helpers/node/readme.ts'
 // @ts-ignore
@@ -176,6 +177,14 @@ function buildReadmeList ( matchesMap:Map<number, any> ) {
     // console.log( 'updatedList', updatedList )
 
     await updateReadmeListContent( updatedList, 'viewing-order-list' )
+
+
+
+    const inUniverseList = await makeInUniverseMarkdown()
+
+    // console.log( 'updatedList', updatedList )
+
+    await updateReadmeListContent( inUniverseList, 'in-universe-list' )
 
 
     const upcomingListings = await getUpcomingListings()
