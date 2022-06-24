@@ -4,7 +4,7 @@ import {
     getYearAndMonth, 
     makeSlug,
 // @ts-ignore
-} from '~/helpers/node/listing.ts'
+} from '~/src/helpers/node/listing.ts'
 
 function parseOrderedTitle ( rawTitle:string ) {
     const [
