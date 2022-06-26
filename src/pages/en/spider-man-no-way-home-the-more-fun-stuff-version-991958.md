@@ -5,25 +5,8 @@ description: >-
   An extended cut of ‘Spider-Man: No Way Home’ featuring up to 15 minutes of
   added content!
 layout: ../../layouts/MainLayout.astro
-adult: false
-backdrop_path: /84sFVTJ5p026BKcCCtB5EnDNVko.jpg
-genre_ids:
-  - 28
-  - 12
-  - 878
-id: 991958
-original_language: en
-original_title: 'Spider-Man No Way Home: The More Fun Stuff Version'
-overview: >-
-  An extended cut of ‘Spider-Man: No Way Home’ featuring up to 15 minutes of
-  added content!
 poster_path: /fUdWbWCgJSo1his6Mp60hxiDp53.jpg
-release_date: '2022-09-02'
-video: false
-vote_average: 0
-tags:
-  - movie
-  - company-420
+logo_on_black: /.netlify/functions/tmdb-image/fUdWbWCgJSo1his6Mp60hxiDp53.webp
 ---
 ## TMDB Data
 ```json
