@@ -547,7 +547,7 @@
 		"original_language": "en",
 		"original_title": "Thunderbolts",
 		"overview": "A group of supervillains and antiheroes go on missions for the government. Based on the comic book series of the same name.",
-		"poster_path": "/q2NuUAl7CZiSRCAk3QUfaiMs533.jpg",
+		"poster_path": null,
 		"release_date": "",
 		"title": "Thunderbolts",
 		"video": false,
@@ -766,6 +766,29 @@
 		]
 	},
 	{
+		"adult": false,
+		"backdrop_path": "/84sFVTJ5p026BKcCCtB5EnDNVko.jpg",
+		"genre_ids": [
+			28,
+			12,
+			878
+		],
+		"id": 991958,
+		"original_language": "en",
+		"original_title": "Spider-Man No Way Home: The More Fun Stuff Version",
+		"overview": "An extended cut of ‘Spider-Man: No Way Home’ featuring up to 15 minutes of added content!",
+		"poster_path": "/fUdWbWCgJSo1his6Mp60hxiDp53.jpg",
+		"release_date": "2022-09-02",
+		"title": "Spider-Man No Way Home: The More Fun Stuff Version",
+		"video": false,
+		"vote_average": 0,
+		"slug": "spider-man-no-way-home-the-more-fun-stuff-version",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
 		"backdrop_path": "/9YJULFUvzaw6kuFbZWApsA6VZ1j.jpg",
 		"first_air_date": "2022-08-17",
 		"genre_ids": [
@@ -875,7 +898,7 @@
 		"original_name": "Ms. Marvel",
 		"overview": "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school — that is, until she gets superpowers like the heroes she’s always looked up to. Life is easier with superpowers, right?",
 		"poster_path": "/cdkyMYdu8ao26XOBvilNzLneUg1.jpg",
-		"vote_average": 7.8,
+		"vote_average": 7.7,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
 		"tags": [
@@ -1984,7 +2007,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/6G2fLCVm9fiLyHvBrccq6GSe2ih.jpg",
+		"backdrop_path": "/kaIfm5ryEOwYg8mLbq8HkPuM1Fo.jpg",
 		"genre_ids": [
 			28,
 			12,

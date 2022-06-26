@@ -16,7 +16,7 @@ layout: ../../layouts/MainLayout.astro
     "original_language": "en",
     "original_title": "Thunderbolts",
     "overview": "A group of supervillains and antiheroes go on missions for the government. Based on the comic book series of the same name.",
-    "poster_path": "/q2NuUAl7CZiSRCAk3QUfaiMs533.jpg",
+    "poster_path": null,
     "release_date": "",
     "title": "Thunderbolts",
     "video": false,
