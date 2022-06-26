@@ -115,6 +115,17 @@ export function isMCU ( listing ) {
     return true
 }
 
+export function isPhaseZero ( listing ) {
+    const listingDate = listing.date?.valueOf() || theFuture
+
+    // May 2, 2008 - According to Google
+    // April 1, 2008 - According to TMDb 
+    const ironManRelease = new Date( 2008, 2, 5 )
+    const isBeforeIronMan = listingDate < ironManRelease
+
+    return isBeforeIronMan
+}
+
 export function isAnimatedGenre ( listing ) {
     if ( !hasAnyGenres( listing ) ) return false
 
