@@ -11,6 +11,7 @@ rentLinks:
   amazon: >-
     https://www.amazon.com/dp/B001FD5KJM?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 mcuTimelineOrder: 24
+release_date: "2008-05-02"
 ---
 ## TMDB Data
 ```json
