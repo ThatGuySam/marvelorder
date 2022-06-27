@@ -29,7 +29,7 @@ poster_path: /5B4z5Ch5Dek8hQJ7UlIVZgWLntV.jpg
     "original_language": "en",
     "original_title": "Dr. Strange",
     "overview": "A psychiatrist becomes the new Sorcerer Supreme of the Earth in order to battle an evil Sorceress from the past.",
-    "poster_path": "/5B4z5Ch5Dek8hQJ7UlIVZgWLntV.jpg",
+    "poster_path": "/lwS93OYnC5S7v0UPQR8Ex4cH79b.jpg",
     "release_date": "1978-09-06",
     "title": "Dr. Strange",
     "video": false,

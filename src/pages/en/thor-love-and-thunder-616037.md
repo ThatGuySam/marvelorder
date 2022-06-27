@@ -24,7 +24,7 @@ vote_average: 1
 ```json
 {
     "adult": false,
-    "backdrop_path": "/bcpATvKQmSgCbwxONs9PPQrer3A.jpg",
+    "backdrop_path": "/ynUgLlrTASSz87Op39DKj6SHeOR.jpg",
     "genre_ids": [
         28,
         12,

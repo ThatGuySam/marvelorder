@@ -766,29 +766,6 @@
 		]
 	},
 	{
-		"adult": false,
-		"backdrop_path": "/84sFVTJ5p026BKcCCtB5EnDNVko.jpg",
-		"genre_ids": [
-			28,
-			12,
-			878
-		],
-		"id": 991958,
-		"original_language": "en",
-		"original_title": "Spider-Man No Way Home: The More Fun Stuff Version",
-		"overview": "An extended cut of ‘Spider-Man: No Way Home’ featuring up to 15 minutes of added content!",
-		"poster_path": "/fUdWbWCgJSo1his6Mp60hxiDp53.jpg",
-		"release_date": "2022-09-02",
-		"title": "Spider-Man No Way Home: The More Fun Stuff Version",
-		"video": false,
-		"vote_average": 0,
-		"slug": "spider-man-no-way-home-the-more-fun-stuff-version",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
 		"backdrop_path": "/9YJULFUvzaw6kuFbZWApsA6VZ1j.jpg",
 		"first_air_date": "2022-08-17",
 		"genre_ids": [
@@ -839,7 +816,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/bcpATvKQmSgCbwxONs9PPQrer3A.jpg",
+		"backdrop_path": "/ynUgLlrTASSz87Op39DKj6SHeOR.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -898,7 +875,7 @@
 		"original_name": "Ms. Marvel",
 		"overview": "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school — that is, until she gets superpowers like the heroes she’s always looked up to. Life is easier with superpowers, right?",
 		"poster_path": "/cdkyMYdu8ao26XOBvilNzLneUg1.jpg",
-		"vote_average": 7.7,
+		"vote_average": 7.8,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
 		"tags": [
@@ -1010,7 +987,7 @@
 		"release_date": "2022-02-09",
 		"title": "ASSEMBLED: The Making of Hawkeye",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.5,
 		"slug": "assembled-the-making-of-hawkeye",
 		"tags": [
 			"movie",
@@ -3700,7 +3677,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/6zINLC59ButA0fjAQIyJmFFNdjM.jpg",
+		"backdrop_path": "/7lmBufEG7P7Y1HClYK3gCxYrkgS.jpg",
 		"genre_ids": [
 			12,
 			28,
@@ -5114,7 +5091,7 @@
 		"original_language": "en",
 		"original_title": "Dr. Strange",
 		"overview": "A psychiatrist becomes the new Sorcerer Supreme of the Earth in order to battle an evil Sorceress from the past.",
-		"poster_path": "/5B4z5Ch5Dek8hQJ7UlIVZgWLntV.jpg",
+		"poster_path": "/lwS93OYnC5S7v0UPQR8Ex4cH79b.jpg",
 		"release_date": "1978-09-06",
 		"title": "Dr. Strange",
 		"video": false,
@@ -5369,6 +5346,29 @@
 		"slug": "the-marvel-super-heroes",
 		"tags": [
 			"list-8204859"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			16,
+			99,
+			80
+		],
+		"id": 992630,
+		"original_language": "en",
+		"original_title": "Stalker 2: The Zone Returns",
+		"overview": "Morbius uncovers a secret, heavily protected area called THE ZONE. in it, he finds the movie STALKER dir. andrei takrvpvsy. He watched it and sent to the zone. he led into zone by the staker.",
+		"poster_path": null,
+		"release_date": "1959-01-03",
+		"title": "Stalker 2: The Zone Returns",
+		"video": false,
+		"vote_average": 0,
+		"slug": "stalker-2-the-zone-returns",
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
