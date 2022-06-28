@@ -25,7 +25,7 @@ type: movie
     "release_date": "2021-02-12",
     "title": "Marvel's Behind the Mask",
     "video": false,
-    "vote_average": 7.5,
+    "vote_average": 7.3,
     "slug": "marvels-behind-the-mask",
     "tags": [
         "movie",
