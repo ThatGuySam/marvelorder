@@ -561,6 +561,25 @@
 	{
 		"adult": false,
 		"backdrop_path": null,
+		"genre_ids": [],
+		"id": 993837,
+		"original_language": "en",
+		"original_title": "Doctor Doom",
+		"overview": "",
+		"poster_path": null,
+		"release_date": "",
+		"title": "Doctor Doom",
+		"video": false,
+		"vote_average": 0,
+		"slug": "doctor-doom",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
 		"genre_ids": [
 			16,
 			28,
@@ -816,7 +835,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/6eFDnvpsgPMrxcVnLCM12rBv8Fk.jpg",
+		"backdrop_path": "/bcpATvKQmSgCbwxONs9PPQrer3A.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -826,7 +845,7 @@
 		"original_language": "en",
 		"original_title": "Thor: Love and Thunder",
 		"overview": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now inexplicably wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
-		"poster_path": "/4zLfBbGnuUBLbMVtagTZvzFwS8l.jpg",
+		"poster_path": "/xvWasZH6cTgA5mr7V56R7OxEu6J.jpg",
 		"release_date": "2022-07-06",
 		"title": "Thor: Love and Thunder",
 		"video": false,
@@ -3547,7 +3566,7 @@
 		"original_name": "Thor & Loki: Blood Brothers",
 		"overview": "Inspired by the acclaimed graphic novel from Robert Rodi and Esad Ribic, Marvel Knights Animation's \"Thor & Loki: Blood Brothers\" takes a powerful look inside the minds of Thor & Loki, brothers in the mythical land of Asgard and seemingly forever enemies. But just why does Loki hate his brother Thor? And could it be that this master of mischief isn’t really the villain he’s been branded? Loki's insatiable lust for power and his feud with Thor take on new meaning in this resonant epic.",
 		"poster_path": "/tvd33sRfEEf4fBlyqxTI62wY9qF.jpg",
-		"vote_average": 6.9,
+		"vote_average": 7.3,
 		"title": "Thor & Loki: Blood Brothers",
 		"slug": "thor-and-loki-blood-brothers",
 		"tags": [
@@ -4729,7 +4748,7 @@
 		"media_type": "movie",
 		"original_language": "en",
 		"original_title": "The Fantastic Four",
-		"overview": "The Fantastic Four is an unreleased low-budget feature film completed in 1994. Created to secure copyright to the property, the producers never intended it for release although the director, actors, and other participants were not informed of this fact. It was produced by low-budget specialist Roger Corman and Bernd Eichinger (who also produced another Fantastic Four movie in 2005).",
+		"overview": "The Fantastic Four is an unreleased low-budget feature film completed in 1994. Created to secure copyright to the property, the producers never intended it for release although the director, actors, and other participants were not informed of this fact. It was produced by low-budget specialist Roger Corman and Bernd Eichinger (who also produced the 2005 Fantastic Four movie).",
 		"poster_path": "/2jJoV3Lze514jOAPagF4Fkp5Cl8.jpg",
 		"release_date": "1994-01-01",
 		"title": "The Fantastic Four",
@@ -5141,7 +5160,7 @@
 		"original_name": "スパイダーマン",
 		"overview": "Young motorcycle racer Takuya Yamashiro sees a UFO falling to earth, in fact a space warship named the Marveller. Takuya follows his scientist father to the Marveller and discovers Garia, the last surviving warrior of Planet Spider. Garia injects Takuya with some of his own blood, giving Takuya spider-like powers. Using his powers, Takuya fights Professor Monster's army and other threats to Earth under the name Spiderman.",
 		"poster_path": "/g4HNifqEWTbrnNdT83038jKh7BM.jpg",
-		"vote_average": 7.1,
+		"vote_average": 7.2,
 		"title": "Spider-Man",
 		"slug": "spider-man",
 		"tags": [
