@@ -1,4 +1,6 @@
 ---
+import HeadCommon from '../components/HeadCommon.astro';
+
 import * as CONFIG from '../config';
 
 const { content = {} } = Astro.props;
@@ -11,7 +13,8 @@ console.log( 'content', content )
 <!DOCTYPE html>
 <html ⚡>
   <head>
-    <meta charset="utf-8" />
+    <HeadCommon />
+	
     <title>Joy of Pets</title>
     <link rel="canonical" href="pets.html" />
     <meta
@@ -151,7 +154,7 @@ console.log( 'content', content )
       title="Joy of Pets"
       publisher="AMP tutorials"
       publisher-logo-src="assets/AMP-Brand-White-Icon.svg"
-      poster-portrait-src="assets/cover.jpg"
+      poster-portrait-src="https://vumbnail.com/Go8nTmfrQd8.jpg"
     >
       <!-- These metadata attributes supplement and do not replace any Structured Data (e.g. JSON-LD) on the page. To ensure your Web Stories are discovered across all platforms, you should add Structured Data to all your AMP pages, including AMP stories. -->
       <!-- Each amp-story component must have at least one or more amp-story-page children, which serve as the individual screens. -->
@@ -183,7 +186,7 @@ console.log( 'content', content )
         <amp-story-grid-layer template="vertical">
           <h1>Cats</h1>
           <amp-img
-            src="assets/cat.jpg"
+            src="https://vumbnail.com/Go8nTmfrQd8.jpg"
             width="720"
             height="1280"
             layout="responsive"
@@ -203,7 +206,7 @@ console.log( 'content', content )
       <amp-story-page id="page2">
         <amp-story-grid-layer template="fill">
           <amp-img
-            src="assets/dog.jpg"
+            src="https://vumbnail.com/Go8nTmfrQd8.jpg"
             width="720"
             height="1280"
             layout="responsive"
@@ -222,10 +225,10 @@ console.log( 'content', content )
       </amp-story-page>
 
       <!-- Page 3 (Bird): 3 layers (fill + vertical + vertical) + Audio-->
-      <amp-story-page id="page3" background-audio="assets/bird-singing.mp3">
+      <amp-story-page id="page3">
         <amp-story-grid-layer template="fill">
           <amp-img
-            src="assets/bird.jpg"
+            src="https://vumbnail.com/Go8nTmfrQd8.jpg"
             width="720"
             height="1280"
             layout="responsive"
@@ -251,10 +254,10 @@ console.log( 'content', content )
             loop
             width="720"
             height="1280"
-            poster="assets/rabbit.jpg"
+            poster="https://vumbnail.com/Go8nTmfrQd8.jpg"
             layout="responsive"
           >
-            <source src="assets/rabbit.mp4" type="video/mp4" />
+            <source src="https://vumbnail.com/Go8nTmfrQd8.mp4" type="video/mp4" />
           </amp-video>
         </amp-story-grid-layer>
         <amp-story-grid-layer template="vertical">
@@ -273,7 +276,7 @@ console.log( 'content', content )
         <amp-story-grid-layer template="vertical" class="noedge">
           <div class="wrapper">
             <amp-img
-              src="assets/cat.jpg"
+              src="https://vumbnail.com/Go8nTmfrQd8.jpg"
               width="720"
               height="1280"
               layout="responsive"
@@ -282,7 +285,7 @@ console.log( 'content', content )
             >
             </amp-img>
             <amp-img
-              src="assets/dog.jpg"
+              src="https://vumbnail.com/Go8nTmfrQd8.jpg"
               width="720"
               height="1280"
               layout="responsive"
@@ -291,7 +294,7 @@ console.log( 'content', content )
             >
             </amp-img>
             <amp-img
-              src="assets/bird.jpg"
+              src="https://vumbnail.com/Go8nTmfrQd8.jpg"
               width="720"
               height="1280"
               layout="responsive"
@@ -300,7 +303,7 @@ console.log( 'content', content )
             >
             </amp-img>
             <amp-img
-              src="assets/rabbit.jpg"
+              src="https://vumbnail.com/Go8nTmfrQd8.jpg"
               width="720"
               height="1280"
               layout="responsive"
