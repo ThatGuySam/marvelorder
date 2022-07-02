@@ -21,6 +21,12 @@ const videoUrl = 'https://vumbnail.com/Go8nTmfrQd8.mp4'
     <head>
         <HeadCommon />
         <title>{ content.title } - MarvelOrder.com</title>
+
+        <!-- Preloads -->
+        <link href="https://cdn.ampproject.org/v0.js" rel="preload">
+        <link href="https://cdn.ampproject.org/v0/amp-story-1.0.js" rel="preload">
+        <link href="https://cdn.ampproject.org/v0/amp-video-0.1.js" rel="preload">
+
         <link rel="canonical" href="pets.html" />
         <meta
             name="viewport"
@@ -41,16 +47,14 @@ const videoUrl = 'https://vumbnail.com/Go8nTmfrQd8.mp4'
             body {
             -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
             -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
-            -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
-            animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;            animation: -amp-start 8s steps(1, end) 0s 1 normal both;
             }
             @-webkit-keyframes -amp-start {
             from {
             visibility: hidden;
             }
             to {
-            visibility: visible;
-            }
+            visibility: visible;            }
             }
             @-moz-keyframes -amp-start {
             from {
