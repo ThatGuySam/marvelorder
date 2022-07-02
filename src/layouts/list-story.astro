@@ -318,8 +318,46 @@ const videoUrl = 'https://vumbnail.com/Go8nTmfrQd8.mp4'
             </amp-story-page>
             <!-- The bookend is the correct way to properly bring a clean, shareable end to the Web Story. -->
             <!-- Bookend -->
-            <amp-story-bookend src="bookend.json" layout="nodisplay">
-                <!-- View the associated json file to understand the linking here. -->
+            <amp-story-bookend layout="nodisplay">
+                <script
+                    type="application/json"
+                    is:inline
+                >
+                    {
+                        "bookendVersion": "v1.0",
+                        "shareProviders": [
+                            "twitter",
+                            "email"
+                        ],
+                        "components": [
+                            {
+                                "type": "heading",
+                                "text": "More to read"
+                            },
+                            {
+                                "type": "small",
+                                "title": "Visit the charming Dutch village where cars aren't allowed",
+                                "url": "https://www.nationalgeographic.com/travel/destinations/europe/netherlands/visit-giethoorn-quaint-village-without-cars/?cmpid=int_org=ngp::int_mc=website::int_src=ngp::int_cmp=ampstories::int_add=ampstoriesclickthrough",
+                                "image": "assets/houses-giethoorn-holland.jpg",
+                                "category": "Travel"
+                            },
+                            {
+                                "type": "small",
+                                "title": "Why is this Bronze Age town so popular today?",
+                                "url": "https://www.nationalgeographic.com/travel/destinations/europe/austria/a-weekend-in-hallstatt-fairy-tale-town/?cmpid=int_org=ngp::int_mc=website::int_src=ngp::int_cmp=ampstories::int_add=ampstoriesclickthrough",
+                                "image": "assets/hallstatt-austria-2.jpg",
+                                "category": "Travel"
+                            },
+                            {
+                                "type": "small",
+                                "title": "High in the mountains, this European village stands frozen in time",
+                                "url": "https://www.nationalgeographic.com/travel/destinations/europe/bosnia-herzegovina/things-to-do-high-mountain-village-lukomir/?cmpid=int_org=ngp::int_mc=website::int_src=ngp::int_cmp=ampstories::int_add=ampstoriesclickthrough",
+                                "image": "assets/lukomir-village-bosnia01.jpg",
+                                "category": "Travel"
+                            }
+                        ]
+                      }
+                </script>
             </amp-story-bookend>
         </amp-story>
     </body>
