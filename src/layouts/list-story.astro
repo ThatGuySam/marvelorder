@@ -33,28 +33,32 @@ const videoUrl = 'https://vumbnail.com/Go8nTmfrQd8.mp4'
             content="width=device-width,minimum-scale=1,initial-scale=1"
             />
         <!-- Take note of the unique scripts used here. Most, if not all Web Stories will require the first two scripts. -->
-        <script async src="https://cdn.ampproject.org/v0.js"></script>        <script
+        <script async src="https://cdn.ampproject.org/v0.js"></script>
+        <script
             async
             custom-element="amp-story"
             src="https://cdn.ampproject.org/v0/amp-story-1.0.js"
             ></script>
         <!-- This script specifically enables any embedded video content to render correctly on a Web Story. -->
         <script
-            async            custom-element="amp-video"
+            async
+            custom-element="amp-video"
             src="https://cdn.ampproject.org/v0/amp-video-0.1.js"
             ></script>
         <style amp-boilerplate>
             body {
             -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
             -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
-            -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;            animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            animation: -amp-start 8s steps(1, end) 0s 1 normal both;
             }
             @-webkit-keyframes -amp-start {
             from {
             visibility: hidden;
             }
             to {
-            visibility: visible;            }
+            visibility: visible;
+            }
             }
             @-moz-keyframes -amp-start {
             from {
@@ -99,12 +103,7 @@ const videoUrl = 'https://vumbnail.com/Go8nTmfrQd8.mp4'
                 animation: none;
                 }
             </style>
-        </noscript
-            >
-        <link
-            href="https://fonts.googleapis.com/css?family=Oswald:200,300,400"
-            rel="stylesheet"
-            />
+        </noscript>
         <style amp-custom>
             amp-story {
             font-family: "Oswald", sans-serif;
@@ -196,7 +195,8 @@ const videoUrl = 'https://vumbnail.com/Go8nTmfrQd8.mp4'
                         >
                     </amp-img>
                     https://vumbnail.com/Go8nTmfrQd8.mp4
-                    <q                        >Dogs come when they're called. Cats take a message and get back to
+                    <q
+                        >Dogs come when they're called. Cats take a message and get back to
                     you. --Mary Bly</q
                         >
                 </amp-story-grid-layer>
@@ -212,7 +212,8 @@ const videoUrl = 'https://vumbnail.com/Go8nTmfrQd8.mp4'
                         >
                     </amp-img>
                 </amp-story-grid-layer>
-                <amp-story-grid-layer template="thirds">                    <h1 grid-area="upper-third">Dogs</h1>
+                <amp-story-grid-layer template="thirds">
+                    <h1 grid-area="upper-third">Dogs</h1>
                     <p grid-area="lower-third">
                         Dogs were probably the first tame animals. They have accompanied
                         humans for some 10,000 years. Some scientists assert that all dogs,
@@ -232,14 +233,16 @@ const videoUrl = 'https://vumbnail.com/Go8nTmfrQd8.mp4'
                         >
                     </amp-img>
                 </amp-story-grid-layer>
-                <amp-story-grid-layer template="vertical">                    <h1>Birds</h1>
+                <amp-story-grid-layer template="vertical">
+                    <h1>Birds</h1>
                 </amp-story-grid-layer>
                 <amp-story-grid-layer template="vertical" class="bottom">
                     <q
                         >A bird is three things: Feathers, flight and song, And feathers are
                     the least of these.--Marjorie Allen Seiffert
                     </q>
-                </amp-story-grid-layer>            </amp-story-page>
+                </amp-story-grid-layer>
+            </amp-story-page>
             <!-- Page 4 (Rabbit): 3 layers (fill (video) + vertical + vertical) -->
             <amp-story-page id="page4">
                 <amp-story-grid-layer template="fill">
@@ -259,7 +262,8 @@ const videoUrl = 'https://vumbnail.com/Go8nTmfrQd8.mp4'
                     <h1>Rabbits</h1>
                 </amp-story-grid-layer>
                 <amp-story-grid-layer template="vertical" class="bottom">
-                    <p>                        Rabbits can learn to follow simple voice commands and come when
+                    <p>
+                        Rabbits can learn to follow simple voice commands and come when
                         called by name, and are curious and playful.
                     </p>
                 </amp-story-grid-layer>
@@ -303,7 +307,8 @@ const videoUrl = 'https://vumbnail.com/Go8nTmfrQd8.mp4'
                             animate-in="fade-in"
                             animate-in-delay="1.0s"
                             >
-                        </amp-img>                    </div>
+                        </amp-img>
+                    </div>
                 </amp-story-grid-layer>
                 <amp-story-grid-layer template="vertical" class="center-text">
                     <p class="banner-text" animate-in="whoosh-in-right">
