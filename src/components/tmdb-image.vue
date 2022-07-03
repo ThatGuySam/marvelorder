@@ -1,5 +1,5 @@
 <template>
-    <img 
+    <img
         v-once
         :data-src="smallestImage"
         :data-srcset="srcSet"
@@ -11,7 +11,10 @@
 
 <script>
 
-import 'lazysizes'
+import {
+    makeTmdbImageUrl
+} from '~/src/helpers/listing'
+
 import 'lazysizes/plugins/attrchange/ls.attrchange'
 
 function makeSizedImageUrl ( imageUrl, size ) {
@@ -22,6 +25,7 @@ function makeSizedImageUrl ( imageUrl, size ) {
     return `${ sizeUrl.pathname }${ sizeUrl.search }`
 }
 
+
 export default {
     props: {
         src: {
@@ -31,7 +35,7 @@ export default {
         alt: {
             type: String,
             required: true
-        }, 
+        },
         sizes: {
             type: Array,
             default: [ 75, 100, 275, 550, 850, 1440 ]
@@ -42,27 +46,20 @@ export default {
             return this.sizes[ this.sizes.length - 1 ]
         },
         imageUrl () {
-            // Get id from backdrop src url
-            const id = this.src
-                .split('/').pop()
-                .split('.').shift()
-
-            console.log('id', id)
-            
-            return `/.netlify/functions/tmdb-image/${ id }.webp?&transparent=0`
+            return makeTmdbImageUrl( this.src )
         },
 		srcSet () {
 			const srcSet = []
 
             for ( const size of this.sizes ) {
-                
+
                 srcSet.push( `${ makeSizedImageUrl( this.imageUrl, size ) } ${ size }w` )
             }
 
             return srcSet.join( ', ' )
 		},
         smallestImage () {
-            return makeSizedImageUrl( this.imageUrl, this.sizes[ 0 ] ) 
+            return makeSizedImageUrl( this.imageUrl, this.sizes[ 0 ] )
         },
     }
 }

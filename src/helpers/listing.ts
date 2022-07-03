@@ -21,17 +21,35 @@ export function convertNullValuesForAstro ( listings: Listing[] ) {
             }
             return [ key, value ]
         })
-    
+
         // Stringify null values
         return Object.fromEntries( mappedEntries )
     })
 }
 
 
-export const listingMergeConfig = { 
+export const listingMergeConfig = {
     mergeArrays: ( values : Array<any> ) => {
-        // Use Set to merge arrays 
+        // Use Set to merge arrays
         // so that duplicates are removed
         return Array.from( new Set( values.flat() ) )
-    } 
+    }
+}
+
+export function makeTmdbImageUrl ( tmdbImagePath , params = {} ) {
+
+    const id = tmdbImagePath
+        .split('/').pop()
+        .split('.').shift()
+
+    const imageFunctionPath = `/.netlify/functions/tmdb-image/${ id }.webp?&transparent=0`
+
+    const sizeUrl = new URL( imageFunctionPath, 'https://marvelorder.com' )
+
+
+    for ( const [ key, value ] of Object.entries( params ) ) {
+        sizeUrl.searchParams.set( key, String( value ) )
+    }
+
+    return `${ sizeUrl.pathname }${ sizeUrl.search }`
 }
