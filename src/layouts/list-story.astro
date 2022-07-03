@@ -122,13 +122,6 @@ const author = 'MarvelOrder.com'
             is:inline
             amp-custom
         >
-            amp-story {
-            font-family: "Oswald", sans-serif;
-            color: #fff;
-            }
-            amp-story-page {
-            background-color: #000;
-            }
             h1 {
             font-weight: bold;
             font-size: 2.875em;
@@ -175,11 +168,14 @@ const author = 'MarvelOrder.com'
             publisher={ author }
             publisher-logo-src="/mark.png"
             poster-portrait-src={ videoPosterUrl }
+            class="text-white"
         >
             <!-- These metadata attributes supplement and do not replace any Structured Data (e.g. JSON-LD) on the page. To ensure your Web Stories are discovered across all platforms, you should add Structured Data to all your AMP pages, including AMP stories. -->
             <!-- Each amp-story component must have at least one or more amp-story-page children, which serve as the individual screens. -->
             <!-- Cover page -->
-            <amp-story-page id="cover">
+            <StoryPage
+                id="cover"
+            >
                 <!-- Each amp-story-page component must have at least one or more layer components, which stack upon one another to create visual effects. -->
                 <amp-story-grid-layer template="fill">
                     <amp-video
@@ -199,9 +195,9 @@ const author = 'MarvelOrder.com'
                     <h1>{ content.title }</h1>
                     <p>{ author }</p>
                 </amp-story-grid-layer>
-            </amp-story-page>
+            </StoryPage>
             <!-- Page 1 (Cat): 1 layer (vertical) -->
-            <amp-story-page id="page1">
+            <StoryPage id="page1">
                 <amp-story-grid-layer template="vertical">
                     <h1>Cats</h1>
                     <amp-img
@@ -217,9 +213,9 @@ const author = 'MarvelOrder.com'
                     you. --Mary Bly</q
                         >
                 </amp-story-grid-layer>
-            </amp-story-page>
+            </StoryPage>
             <!-- Page 2 (Dog): 2 layers (fill + thirds) -->
-            <amp-story-page id="page2">
+            <StoryPage id="page2">
                 <amp-story-grid-layer template="fill">
                     <amp-img
                         src={ videoPosterUrl }
@@ -238,9 +234,9 @@ const author = 'MarvelOrder.com'
                         wolf.
                     </p>
                 </amp-story-grid-layer>
-            </amp-story-page>
+            </StoryPage>
             <!-- Page 3 (Bird): 3 layers (fill + vertical + vertical) + Audio-->
-            <amp-story-page id="page3">
+            <StoryPage id="page3">
                 <amp-story-grid-layer template="fill">
                     <amp-img
                         src={ videoPosterUrl }
@@ -259,9 +255,9 @@ const author = 'MarvelOrder.com'
                     the least of these.--Marjorie Allen Seiffert
                     </q>
                 </amp-story-grid-layer>
-            </amp-story-page>
+            </StoryPage>
             <!-- Page 4 (Rabbit): 3 layers (fill (video) + vertical + vertical) -->
-            <amp-story-page id="page4">
+            <StoryPage id="page4">
                 <amp-story-grid-layer template="fill">
                     <amp-video
                         autoplay
@@ -284,9 +280,9 @@ const author = 'MarvelOrder.com'
                         called by name, and are curious and playful.
                     </p>
                 </amp-story-grid-layer>
-            </amp-story-page>
+            </StoryPage>
             <!-- Page 5 (Collage): 2 layers + animations -->
-            <amp-story-page id="page5">
+            <StoryPage id="page5">
                 <amp-story-grid-layer template="vertical" class="noedge">
                     <div class="wrapper">
                         <amp-img
@@ -332,7 +328,7 @@ const author = 'MarvelOrder.com'
                         Pets can lower your stress levels!
                     </p>
                 </amp-story-grid-layer>
-            </amp-story-page>
+            </StoryPage>
             <!-- The bookend is the correct way to properly bring a clean, shareable end to the Web Story. -->
             <!-- Bookend -->
             <amp-story-bookend layout="nodisplay">
