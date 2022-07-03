@@ -1,8 +1,9 @@
 ---
 import HeadCommon from '../components/HeadCommon.astro'
-import tailwindStyles from '@astrojs/tailwind/base.css'
+import tailwindStyles from '@astrojs/tailwind/base.css?inline'
 
 import * as CONFIG from '../config'
+
 
 const { content = {} } = Astro.props;
 const currentPage = new URL(Astro.request.url).pathname;
