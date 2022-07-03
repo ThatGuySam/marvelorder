@@ -1,9 +1,12 @@
 ---
+import tailwindStyles from '@astrojs/tailwind/base.css?inline'
+import { getTaggedListings } from '~/src/helpers/node/listing-files'
+
 import HeadCommon from '../components/HeadCommon.astro'
 import MainHeading from '~/src/components/story/main-heading.astro'
 import StoryPage from '~/src/components/story/amp-story-page.astro'
 
-import tailwindStyles from '@astrojs/tailwind/base.css?inline'
+
 
 import * as CONFIG from '../config'
 
@@ -18,6 +21,11 @@ const videoPosterUrl = 'https://vumbnail.com/Go8nTmfrQd8.jpg'
 const videoUrl = 'https://vumbnail.com/Go8nTmfrQd8.mp4'
 const canonicalUrl = '/stories/thor-anthology'
 const author = 'MarvelOrder.com'
+
+
+const thorListings = await getTaggedListings( [ 'has-thor' ] )
+
+// console.log( 'thorListings', thorListings )
 
 ---
 <!DOCTYPE html>
@@ -146,6 +154,29 @@ const author = 'MarvelOrder.com'
                     <p>{ author }</p>
                 </amp-story-grid-layer>
             </StoryPage>
+
+            { thorListings.map( listing => [
+                <StoryPage
+                    id="page1"
+                    backgroundSrc={ listing.backdrop() }
+                >
+                    <amp-story-grid-layer template="vertical">
+                        <amp-img
+                            src={ listing.logo_on_black }
+                            width="1"
+                            height="1"
+                            layout="responsive"
+                            class="[&>*]:object-contain"
+                        >
+                        </amp-img>
+                        <MainHeading>{ listing.name }</MainHeading>
+                        <q
+                            >Dogs come when they're called. Cats take a message and get back to
+                        you. --Mary Bly</q
+                            >
+                    </amp-story-grid-layer>
+                </StoryPage>
+            ])}
 
             <!-- Page 1 (Cat): 1 layer (vertical) -->
             <StoryPage id="page1">
