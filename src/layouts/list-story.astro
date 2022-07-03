@@ -1,5 +1,8 @@
 ---
 import HeadCommon from '../components/HeadCommon.astro'
+import MainHeading from '~/src/components/story/main-heading.astro'
+import StoryPage from '~/src/components/story/amp-story-page.astro'
+
 import tailwindStyles from '@astrojs/tailwind/base.css?inline'
 
 import * as CONFIG from '../config'
@@ -122,12 +125,6 @@ const author = 'MarvelOrder.com'
             is:inline
             amp-custom
         >
-            h1 {
-            font-weight: bold;
-            font-size: 2.875em;
-            font-weight: normal;
-            line-height: 1.174;
-            }
             p {
             font-weight: normal;
             font-size: 1.3em;
@@ -192,14 +189,14 @@ const author = 'MarvelOrder.com'
                     </amp-video>
                 </amp-story-grid-layer>
                 <amp-story-grid-layer template="vertical">
-                    <h1>{ content.title }</h1>
+                    <MainHeading>{ content.title }</MainHeading>
                     <p>{ author }</p>
                 </amp-story-grid-layer>
             </StoryPage>
             <!-- Page 1 (Cat): 1 layer (vertical) -->
             <StoryPage id="page1">
                 <amp-story-grid-layer template="vertical">
-                    <h1>Cats</h1>
+                    <MainHeading>Cats</MainHeading>
                     <amp-img
                         src={ videoPosterUrl }
                         width="720"
@@ -226,7 +223,8 @@ const author = 'MarvelOrder.com'
                     </amp-img>
                 </amp-story-grid-layer>
                 <amp-story-grid-layer template="thirds">
-                    <h1 grid-area="upper-third">Dogs</h1>
+
+                    <MainHeading grid-area="upper-third">Cats</MainHeading>
                     <p grid-area="lower-third">
                         Dogs were probably the first tame animals. They have accompanied
                         humans for some 10,000 years. Some scientists assert that all dogs,
@@ -247,7 +245,7 @@ const author = 'MarvelOrder.com'
                     </amp-img>
                 </amp-story-grid-layer>
                 <amp-story-grid-layer template="vertical">
-                    <h1>Birds</h1>
+                    <MainHeading>Cats</MainHeading>
                 </amp-story-grid-layer>
                 <amp-story-grid-layer template="vertical" class="bottom">
                     <q
@@ -272,7 +270,7 @@ const author = 'MarvelOrder.com'
                     </amp-video>
                 </amp-story-grid-layer>
                 <amp-story-grid-layer template="vertical">
-                    <h1>Rabbits</h1>
+                    <MainHeading>Cats</MainHeading>
                 </amp-story-grid-layer>
                 <amp-story-grid-layer template="vertical" class="bottom">
                     <p>
