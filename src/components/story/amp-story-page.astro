@@ -3,6 +3,7 @@
 const {
     backgroundSrc = '',
     backgroundPoster = '',
+    backgroundClass = 'linear-mask',
 } = Astro.props
 
 const backgroundType = (() => {
@@ -26,7 +27,10 @@ const backgroundType = (() => {
     { backgroundType === 'video' && (
         // Video Poster BG
         // Each amp-story-page component must have at least one or more layer components, which stack upon one another to create visual effects.
-        <amp-story-grid-layer template="fill">
+        <amp-story-grid-layer
+            template="fill"
+            class={ backgroundClass }
+        >
             <amp-video
                 autoplay
                 loop
@@ -44,7 +48,10 @@ const backgroundType = (() => {
 
     { backgroundType === 'image' && (
         // Image Poster BG
-        <amp-story-grid-layer template="fill">
+        <amp-story-grid-layer
+            template="fill"
+            class={ backgroundClass }
+        >
             <amp-img
                 src={ backgroundSrc }
                 width="720"
