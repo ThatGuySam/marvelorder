@@ -117,38 +117,10 @@ const author = 'MarvelOrder.com'
 
         <!-- Inline Tailwind styles so we're complying with amp inline policy -->
         <style
-        is:inline
-            set:html={ tailwindStyles }
-        />
-
-        <style
             is:inline
             amp-custom
-        >
-            q {
-            font-weight: 300;
-            font-size: 1.1em;
-            }
-            amp-story-grid-layer.bottom {
-            align-content: end;
-            }
-            amp-story-grid-layer.noedge {
-            padding: 0px;
-            }
-            amp-story-grid-layer.center-text {
-            align-content: center;
-            }
-            .wrapper {
-            display: grid;
-            grid-template-columns: 50% 50%;
-            grid-template-rows: 50% 50%;
-            }
-            .banner-text {
-            text-align: center;
-            background-color: #000;
-            line-height: 2em;
-            }
-        </style>
+            set:html={ tailwindStyles }
+        />
     </head>
     <body>
         <!-- Everything else is included inside the single child of the body element -- amp-story. -->
@@ -241,7 +213,7 @@ const author = 'MarvelOrder.com'
                 <amp-story-grid-layer template="vertical">
                     <MainHeading>Cats</MainHeading>
                 </amp-story-grid-layer>
-                <amp-story-grid-layer template="vertical" class="bottom">
+                <amp-story-grid-layer template="vertical" class="items-end">
                     <q
                         >A bird is three things: Feathers, flight and song, And feathers are
                     the least of these.--Marjorie Allen Seiffert
@@ -275,8 +247,8 @@ const author = 'MarvelOrder.com'
             </StoryPage>
             <!-- Page 5 (Collage): 2 layers + animations -->
             <StoryPage id="page5">
-                <amp-story-grid-layer template="vertical" class="noedge">
-                    <div class="wrapper">
+                <amp-story-grid-layer template="vertical" class="p-0">
+                    <div class="grid grid-cols-2 grid-rows-2">
                         <amp-img
                             src={ videoPosterUrl }
                             width="720"
@@ -315,8 +287,8 @@ const author = 'MarvelOrder.com'
                         </amp-img>
                     </div>
                 </amp-story-grid-layer>
-                <amp-story-grid-layer template="vertical" class="center-text">
-                    <p class="banner-text" animate-in="whoosh-in-right">
+                <amp-story-grid-layer template="vertical" class="content-center">
+                    <p class="text-center bg-black leading-12" animate-in="whoosh-in-right">
                         Pets can lower your stress levels!
                     </p>
                 </amp-story-grid-layer>
