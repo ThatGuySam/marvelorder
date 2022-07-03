@@ -11,9 +11,13 @@ export default defineConfig({
     site: 'https://marvelorder.com',
     integrations: [// Enable Preact to support Preact JSX components.
         preact(), // Enable React for the Algolia search component.
-        react(), 
-        vue(), 
-        tailwind(), 
+        react(),
+        vue(),
+        tailwind({
+            // Example: Disable injecting a basic `base.css` import on every page.
+            // Useful if you need to define and/or import your own custom `base.css`.
+            config: { applyBaseStyles: false },
+        }),
         sitemap()
     ],
     // Vite options
