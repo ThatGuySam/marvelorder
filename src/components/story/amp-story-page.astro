@@ -1,10 +1,18 @@
 ---
 
 const {
+    id,
+
+    class = '',
     backgroundSrc = '',
     backgroundPoster = '',
     backgroundClass = 'linear-mask',
 } = Astro.props
+
+// const pageAttributes = {
+//     id,
+//     class
+// }
 
 const backgroundType = (() => {
     console.log( 'backgroundSrc', backgroundSrc )
