@@ -11,6 +11,8 @@ logo_on_black: /.netlify/functions/tmdb-image/wzFmZOBRSYbrPxJE2nkhq2tAKwI.webp
 rentLinks:
   amazon: none
 mcuTimelineOrder: 462
+tags: 
+  - has-thor
 ---
 ## TMDB Data
 ```json
