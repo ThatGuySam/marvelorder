@@ -11,6 +11,8 @@ description: >-
   meaning in this resonant epic.
 layout: ../../layouts/MainLayout.astro
 type: tv
+tags: 
+  - has-thor
 ---
 ## TMDB Data
 ```json

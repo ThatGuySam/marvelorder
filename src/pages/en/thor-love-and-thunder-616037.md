@@ -19,6 +19,8 @@ overview: >-
   uncover the mystery of the God Butcher’s vengeance and stop him before it’s
   too late.
 vote_average: 1
+tags: 
+  - has-thor
 ---
 ## TMDB Data
 ```json

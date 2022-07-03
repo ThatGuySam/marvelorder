@@ -10,6 +10,8 @@ layout: ../../layouts/MainLayout.astro
 logo_on_black: /.netlify/functions/fanart/the-marvel-superheroes-5ccdadcf50aa1.webp
 rentLinks:
   amazon: 'https://amzn.to/3b42gEE'
+tags: 
+  - has-thor
 ---
 ## TMDB Data
 ```json

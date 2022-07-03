@@ -11,6 +11,8 @@ logo_on_black: /.netlify/functions/fanart/the-incredible-hulk-returns-5577f15dd6
 rentLinks:
   amazon: >-
     https://www.amazon.com/dp/B00715QLKK?tag=marvelorder-20&linkCode=osi&th=1&psc=1
+tags: 
+  - has-thor
 ---
 ## TMDB Data
 ```json

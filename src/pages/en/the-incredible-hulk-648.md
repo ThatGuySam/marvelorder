@@ -10,6 +10,8 @@ layout: ../../layouts/MainLayout.astro
 logo_on_black: /.netlify/functions/fanart/the-incredible-hulk-5cdaa5b6b5d2d.webp
 rentLinks:
   amazon: 'https://amzn.to/39xpHpv'
+tags: 
+  - has-thor
 ---
 ## TMDB Data
 ```json

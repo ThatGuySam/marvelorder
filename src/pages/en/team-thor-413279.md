@@ -7,6 +7,8 @@ type: movie
 logo_on_black: /.netlify/functions/fanart/team-thor-59a46003e7d03.webp
 rentLinks:
   amazon: none
+tags: 
+  - has-thor
 ---
 ## TMDB Data
 ```json
