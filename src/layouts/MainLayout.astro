@@ -17,6 +17,7 @@ const githubEditUrl = CONFIG.GITHUB_EDIT_URL && CONFIG.GITHUB_EDIT_URL + current
 <html dir={content.dir ?? 'ltr'} lang={content.lang ?? 'en-us'} class="initial">
 	<head>
 		<HeadCommon />
+        <HeadScript />
 		<HeadSEO {content} canonicalURL={Astro.canonicalURL} />
 		<title>{content.title ? `${content.title} 🚀 ${CONFIG.SITE.title}` : CONFIG.SITE.title}</title>
 		<style>
@@ -105,9 +106,9 @@ const githubEditUrl = CONFIG.GITHUB_EDIT_URL && CONFIG.GITHUB_EDIT_URL + current
 	<body class="main-layout theme-dark">
 		<Header {currentPage} />
 		<main class="layout min-h-screen">
-			<aside 
-				id="grid-left" 
-				class="grid-sidebar backdrop-blur bg-black/25" 
+			<aside
+				id="grid-left"
+				class="grid-sidebar backdrop-blur bg-black/25"
 				title="Site Navigation"
 			>
 				<LeftSidebar {currentPage} />
