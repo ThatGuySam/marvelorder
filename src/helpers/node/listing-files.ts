@@ -6,11 +6,11 @@ import glob from 'fast-glob'
 
 // @ts-ignore
 import { listingsGlobPattern } from '~/src/config.ts'
-import { 
+import {
     makeNewListingContents,
     getDataFromListingContents
 // @ts-ignore
-} from '~/src/helpers/markdown-page.ts' 
+} from '~/src/helpers/markdown-page.ts'
 
 // @ts-ignore
 import { Listing } from '~/src/helpers/types.ts'
@@ -19,11 +19,13 @@ import {
     mergeListingData
 // @ts-ignore
 } from '~/src/helpers/node/listing.ts'
-import { 
-    isUpcoming, 
+import {
+    isUpcoming,
     FilteredListings
 // @ts-ignore
 } from '~/src/helpers/listing-filters.ts'
+
+
 
 export async function getListingFiles () {
     const listingFiles = await glob(listingsGlobPattern)
@@ -128,8 +130,32 @@ export async function getUpcomingListings () {
 }
 
 
+export async function getTaggedListings ( tags: string[] ) {
+    const rawListings = await getAllListings()
+
+    const hasAnyTag = ( listing: Listing ) => {
+        return tags.some( tag => {
+            return listing.hasTag( tag )
+        })
+    }
+
+    // Filter listings
+    const upcomingListings = new FilteredListings({
+        listings: rawListings,
+        initialFilters: [
+            [ hasAnyTag, true ]
+        ],
+        listingsSort: 'default'
+    })
+
+    return upcomingListings.list
+}
+
+
+
+
 export function upsertListing ( listing: Listing , data: any ) {
-    
+
     // console.log( 'listing', listing )
     // console.log( 'data', data )
 
@@ -196,6 +222,6 @@ export async function writeMarkdownFileNode ({ path, markdownBody, pageMeta }) {
     const markdownContent = matter.stringify( markdownBody, pageMeta )
 
     // console.log('markdownContent', markdownContent)
-    
+
     await fs.writeFile( path, markdownContent )
 }
