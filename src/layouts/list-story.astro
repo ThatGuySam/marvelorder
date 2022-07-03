@@ -1,14 +1,18 @@
 ---
 import tailwindStyles from '@astrojs/tailwind/base.css?inline'
+import indexStyles from '~/src/styles/index.css?inline'
 import { getTaggedListings } from '~/src/helpers/node/listing-files'
 
 import HeadCommon from '../components/HeadCommon.astro'
 import MainHeading from '~/src/components/story/main-heading.astro'
 import StoryPage from '~/src/components/story/amp-story-page.astro'
 
-
-
 import * as CONFIG from '../config'
+
+const inlineStyles = [
+    tailwindStyles,
+    indexStyles
+].join('\n\n\n')
 
 
 const { content = {} } = Astro.props;
@@ -127,7 +131,7 @@ const thorListings = await getTaggedListings( [ 'has-thor' ] )
         <style
             is:inline
             amp-custom
-            set:html={ tailwindStyles }
+            set:html={ inlineStyles }
         />
     </head>
     <body>
