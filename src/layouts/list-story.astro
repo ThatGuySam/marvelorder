@@ -110,6 +110,14 @@ const author = 'MarvelOrder.com'
                 }
             </style>
         </noscript>
+
+
+        <!-- Inline Tailwind styles so we're complying with amp inline policy -->
+        <style
+        is:inline
+            set:html={ tailwindStyles }
+        />
+
         <style
             is:inline
             amp-custom
