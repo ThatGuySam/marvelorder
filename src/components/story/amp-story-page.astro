@@ -1,5 +1,11 @@
+---
+import { AssertionError } from "assert";
+
+---
+
 <amp-story-page
     class="bg-black"
+    { ...Astro.props }
 >
     <slot />
 </amp-story-page>
