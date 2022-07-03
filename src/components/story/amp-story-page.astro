@@ -1,11 +1,58 @@
 ---
-import { AssertionError } from "assert";
 
+const {
+    backgroundSrc = '',
+    backgroundPoster = '',
+} = Astro.props
+
+const backgroundType = (() => {
+    console.log( 'backgroundSrc', backgroundSrc )
+    if ( backgroundSrc.endsWith('.mp4') ) {
+        return 'video'
+    }
+
+    if ( backgroundSrc.endsWith('.jpg') ) {
+        return 'image'
+    }
+
+    return ''
+})()
 ---
 
 <amp-story-page
     class="bg-black"
     { ...Astro.props }
 >
+    { backgroundType === 'video' && (
+        // Video Poster BG
+        // Each amp-story-page component must have at least one or more layer components, which stack upon one another to create visual effects.
+        <amp-story-grid-layer template="fill">
+            <amp-video
+                autoplay
+                loop
+                width="720"
+                height="1280"
+                poster={ backgroundPoster }
+                layout="responsive"
+                class="blur"
+                title="Thor arriving with Lightning"
+            >
+                <source src={ backgroundSrc } type="video/mp4" />
+            </amp-video>
+        </amp-story-grid-layer>
+    )}
+
+    { backgroundType === 'image' && (
+        // Image Poster BG
+        <amp-story-grid-layer template="fill">
+            <amp-img
+                src={ backgroundSrc }
+                width="720"
+                height="1280"
+                layout="responsive"
+            >
+            </amp-img>
+        </amp-story-grid-layer>
+    )}
     <slot />
 </amp-story-page>
