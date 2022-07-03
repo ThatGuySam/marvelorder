@@ -14,6 +14,7 @@ console.log( 'content', content )
 const videoPosterUrl = 'https://vumbnail.com/Go8nTmfrQd8.jpg'
 const videoUrl = 'https://vumbnail.com/Go8nTmfrQd8.mp4'
 const canonicalUrl = '/stories/thor-anthology'
+const author = 'MarvelOrder.com'
 
 ---
 <!DOCTYPE html>
@@ -21,7 +22,7 @@ const canonicalUrl = '/stories/thor-anthology'
     <head>
         <HeadCommon />
 
-        <title>{ content.title } - MarvelOrder.com</title>
+        <title>{ content.title } - { author }</title>
 
         <!-- Preloads -->
         <link href="https://cdn.ampproject.org/v0.js" rel="preload">
@@ -166,7 +167,7 @@ const canonicalUrl = '/stories/thor-anthology'
         <amp-story
             standalone=""
             title={ content.title }
-            publisher="MarvelOrder.com"
+            publisher={ author }
             publisher-logo-src="/mark.png"
             poster-portrait-src={ videoPosterUrl }
         >
@@ -191,7 +192,7 @@ const canonicalUrl = '/stories/thor-anthology'
                 </amp-story-grid-layer>
                 <amp-story-grid-layer template="vertical">
                     <h1>{ content.title }</h1>
-                    <p>By AMP Tutorials</p>
+                    <p>{ author }</p>
                 </amp-story-grid-layer>
             </amp-story-page>
             <!-- Page 1 (Cat): 1 layer (vertical) -->
