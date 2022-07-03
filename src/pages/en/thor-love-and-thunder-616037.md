@@ -34,11 +34,11 @@ vote_average: 1
     "original_language": "en",
     "original_title": "Thor: Love and Thunder",
     "overview": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now inexplicably wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
-    "poster_path": "/e2Q3woL3YEes9imRXtnN5ZjePdx.jpg",
+    "poster_path": "/4zLfBbGnuUBLbMVtagTZvzFwS8l.jpg",
     "release_date": "2022-07-06",
     "title": "Thor: Love and Thunder",
     "video": false,
-    "vote_average": 6.9,
+    "vote_average": 7.2,
     "slug": "thor-love-and-thunder",
     "tags": [
         "movie",

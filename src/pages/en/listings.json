@@ -581,6 +581,29 @@
 		"adult": false,
 		"backdrop_path": null,
 		"genre_ids": [
+			28,
+			878,
+			12
+		],
+		"id": 994962,
+		"original_language": "pt",
+		"original_title": "Homem De Ferro",
+		"overview": "",
+		"poster_path": "/qXnQYaWjSMVYm6R25anqBwxjS82.jpg",
+		"release_date": "",
+		"title": "Homem De Ferro",
+		"video": false,
+		"vote_average": 0,
+		"slug": "homem-de-ferro",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
 			16,
 			28,
 			12,
@@ -845,10 +868,10 @@
 		"overview": "Join visionary director Sam Raimi and the cast of the film as they recount their experiences bringing Marvel’s darkest story to life.  From world-building to universe-building, hear first hand accounts from the cast and crew on what it took to design, create and make each universe unique and believable.",
 		"poster_path": null,
 		"release_date": "2022-07-08",
-		"title": "ASSEMBLED: The Making of Doctor Strange in the Multiverse of Madness",
+		"title": "The Making of Doctor Strange in the Multiverse of Madness",
 		"video": false,
 		"vote_average": 0,
-		"slug": "assembled-the-making-of-doctor-strange-in-the-multiverse-of-madness",
+		"slug": "the-making-of-doctor-strange-in-the-multiverse-of-madness",
 		"tags": [
 			"movie",
 			"company-420"
@@ -866,11 +889,11 @@
 		"original_language": "en",
 		"original_title": "Thor: Love and Thunder",
 		"overview": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now inexplicably wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
-		"poster_path": "/e2Q3woL3YEes9imRXtnN5ZjePdx.jpg",
+		"poster_path": "/4zLfBbGnuUBLbMVtagTZvzFwS8l.jpg",
 		"release_date": "2022-07-06",
 		"title": "Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 6.9,
+		"vote_average": 7.2,
 		"slug": "thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -939,7 +962,7 @@
 		"release_date": "2022-05-04",
 		"title": "Doctor Strange in the Multiverse of Madness",
 		"video": false,
-		"vote_average": 7.6,
+		"vote_average": 7.5,
 		"slug": "doctor-strange-in-the-multiverse-of-madness",
 		"tags": [
 			"movie",
@@ -985,7 +1008,7 @@
 		"release_date": "2022-02-16",
 		"title": "ASSEMBLED: The Making of Eternals",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 6.8,
 		"slug": "assembled-the-making-of-eternals",
 		"tags": [
 			"movie",
@@ -1015,7 +1038,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
+		"backdrop_path": "/ocUp7DJBIc8VJgLEw1prcyK1dYv.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -1480,7 +1503,7 @@
 		"original_name": "Marvel Battleworld: Mystery of the Thanostones",
 		"overview": "Can Iron Man and this rag-tag group - Captain Marvel, Spider-Ham, Groot, and Throg - figure out what the Mad Titan Thanos wants and why they've been brought to this strange, new world?",
 		"poster_path": "/wu7VuEO9eRCtul31pV8MvWwAxyI.jpg",
-		"vote_average": 5.7,
+		"vote_average": 5,
 		"title": "Marvel Battleworld: Mystery of the Thanostones",
 		"slug": "marvel-battleworld-mystery-of-the-thanostones",
 		"tags": [
@@ -1993,7 +2016,7 @@
 		"original_name": "Marvel's The Punisher",
 		"overview": "A former Marine out to punish the criminals responsible for his family's murder finds himself ensnared in a military conspiracy.",
 		"poster_path": "/tM6xqRKXoloH9UchaJEyyRE9O1w.jpg",
-		"vote_average": 8.2,
+		"vote_average": 8.1,
 		"title": "Marvel's The Punisher",
 		"slug": "marvels-the-punisher",
 		"tags": [
@@ -2190,7 +2213,7 @@
 		"original_name": "Marvel's Rocket & Groot",
 		"overview": "Before becoming Guardians of the Galaxy, Rocket and Groot were bounty hunters trying to get a ship.",
 		"poster_path": "/7FHJr40MPFwtHrOyOD9buQDoVcs.jpg",
-		"vote_average": 8.2,
+		"vote_average": 7.9,
 		"title": "Marvel's Rocket & Groot",
 		"slug": "marvels-rocket-and-groot",
 		"tags": [
@@ -3071,7 +3094,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/kv8KDbi2I4F4MNBbBMCR4LDqP6H.jpg",
+		"backdrop_path": "/5SssJxnWxcd5bj1dPg7rKHn1VDm.jpg",
 		"genre_ids": [
 			28,
 			12,

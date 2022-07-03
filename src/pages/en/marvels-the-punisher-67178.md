@@ -30,7 +30,7 @@ mcuTimelineOrder: 241
     "original_name": "Marvel's The Punisher",
     "overview": "A former Marine out to punish the criminals responsible for his family's murder finds himself ensnared in a military conspiracy.",
     "poster_path": "/tM6xqRKXoloH9UchaJEyyRE9O1w.jpg",
-    "vote_average": 8.2,
+    "vote_average": 8.1,
     "title": "Marvel's The Punisher",
     "slug": "marvels-the-punisher",
     "tags": [
