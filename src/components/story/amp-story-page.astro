@@ -2,19 +2,17 @@
 
 const {
     id,
-
-    class = '',
     // layout = '',
     backgroundSrc = '',
     backgroundPoster = '',
     backgroundClass = 'linear-mask',
 } = Astro.props
 
-// const pageAttributes = {
-//     id,
-//     class
-// }
+const pageAttributes = {
+    id,
+    className: Astro.props.className,
     // layout,
+}
 
 const backgroundType = (() => {
     console.log( 'backgroundSrc', backgroundSrc )
@@ -32,7 +30,7 @@ const backgroundType = (() => {
 
 <amp-story-page
     class="bg-black"
-    { ...Astro.props }
+    { ...pageAttributes }
 >
     { backgroundType === 'video' && (
         // Video Poster BG
