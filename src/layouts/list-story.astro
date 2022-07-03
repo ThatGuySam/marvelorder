@@ -44,13 +44,6 @@ const canonicalUrl = '/stories/thor-anthology'
             src="https://cdn.ampproject.org/v0/amp-video-0.1.js"
         ></script>
 
-        <!-- Inline Tailwind styles so we're comply with amp inline policy -->
-        <style
-            is:inline
-            amp-custom
-            set:html={ tailwindStyles }
-        ></style>
-
 
         <style
             is:inline
@@ -120,6 +113,9 @@ const canonicalUrl = '/stories/thor-anthology'
             is:inline
             amp-custom
         >
+
+            /* Inline Tailwind styles so we're complying with amp inline policy */
+            { tailwindStyles }
             amp-story {
             font-family: "Oswald", sans-serif;
             color: #fff;
