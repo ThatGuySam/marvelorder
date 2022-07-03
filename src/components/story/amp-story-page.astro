@@ -11,7 +11,7 @@ const backgroundType = (() => {
         return 'video'
     }
 
-    if ( backgroundSrc.endsWith('.jpg') ) {
+    if ( backgroundSrc.includes('.webp') || backgroundSrc.includes('.jpg') ) {
         return 'image'
     }
 
