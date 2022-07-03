@@ -7,6 +7,7 @@ export interface Listing {
     sourceListing?: Listing
     overview: string
     backdrop_path: string,
+    backdrop: Function,
     genre_ids: Array<number>
     id: number
     origin_country: Array<string>
@@ -28,7 +29,7 @@ export interface Listing {
     mcuTimelineOrder?: number
 
 
-    
+
     // "origin_country": [
     //     "US"
     // ],

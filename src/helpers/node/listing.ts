@@ -6,9 +6,10 @@ import slugify from 'slugify'
 import * as CONFIG from '~/src/config.ts'
 // @ts-ignore
 import { Listing } from '~/src/helpers/types.ts'
-import { 
-    makeListingEndpoint, 
-    listingMergeConfig
+import {
+    makeListingEndpoint,
+    listingMergeConfig,
+    makeTmdbImageUrl
 // @ts-ignore
 } from '~/src/helpers/listing.ts'
 
@@ -23,7 +24,7 @@ export function makeSlug ( name ) {
 
 export function makeMappedListings ( listings: Listing[] ) {
     const mappedList = listings.map( listing => new MappedListing( listing ) )
-    
+
     return mappedList
 }
 
@@ -113,6 +114,10 @@ export class MappedListing {
         return `${ CONFIG.GITHUB_EDIT_URL }src/pages${ this.endpoint }.md`
     }
 
+    backdrop ( params = { transparent: 0 } ) {
+        return makeTmdbImageUrl( this.sourceListing.backdrop_path, params )
+    }
+
     get elementId () {
         return [
             this.sourceListing.slug,
@@ -128,5 +133,5 @@ export class MappedListing {
 
         return this.sourceListing.tags.includes( tagName )
     }
-    
+
 }
