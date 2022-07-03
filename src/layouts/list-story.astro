@@ -45,67 +45,76 @@ const canonicalUrl = '/stories/thor-anthology'
             async
             custom-element="amp-video"
             src="https://cdn.ampproject.org/v0/amp-video-0.1.js"
-            ></script>
-        <style amp-boilerplate>
+        ></script>
+
+        <style
+            is:inline
+            amp-boilerplate
+        >
             body {
-            -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
-            -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
-            -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
-            animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+                -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+                -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+                -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+                animation: -amp-start 8s steps(1, end) 0s 1 normal both;
             }
             @-webkit-keyframes -amp-start {
-            from {
-            visibility: hidden;
-            }
-            to {
-            visibility: visible;
-            }
+                from {
+                    visibility: hidden;
+                }
+                to {
+                    visibility: visible;
+                }
             }
             @-moz-keyframes -amp-start {
-            from {
-            visibility: hidden;
-            }
-            to {
-            visibility: visible;
-            }
+                from {
+                    visibility: hidden;
+                }
+                to {
+                    visibility: visible;
+                }
             }
             @-ms-keyframes -amp-start {
-            from {
-            visibility: hidden;
-            }
-            to {
-            visibility: visible;
-            }
+                from {
+                    visibility: hidden;
+                }
+                to {
+                    visibility: visible;
+                }
             }
             @-o-keyframes -amp-start {
-            from {
-            visibility: hidden;
-            }
-            to {
-            visibility: visible;
-            }
+                from {
+                    visibility: hidden;
+                }
+                to {
+                    visibility: visible;
+                }
             }
             @keyframes -amp-start {
-            from {
-            visibility: hidden;
-            }
-            to {
-            visibility: visible;
-            }
+                from {
+                    visibility: hidden;
+                }
+                to {
+                    visibility: visible;
+                }
             }
         </style>
-        <noscript
+        <noscript>
+            <style
+                is:inline
+                amp-boilerplate
             >
-            <style amp-boilerplate>
                 body {
-                -webkit-animation: none;
-                -moz-animation: none;
-                -ms-animation: none;
-                animation: none;
+                    -webkit-animation: none;
+                    -moz-animation: none;
+                    -ms-animation: none;
+                    animation: none;
                 }
             </style>
         </noscript>
-        <style amp-custom>
+        <style
+            is:inline
+            amp-custom
+        >
             amp-story {
             font-family: "Oswald", sans-serif;
             color: #fff;
@@ -159,7 +168,7 @@ const canonicalUrl = '/stories/thor-anthology'
             publisher="MarvelOrder.com"
             publisher-logo-src="/mark.png"
             poster-portrait-src={ videoPosterUrl }
-            >
+        >
             <!-- These metadata attributes supplement and do not replace any Structured Data (e.g. JSON-LD) on the page. To ensure your Web Stories are discovered across all platforms, you should add Structured Data to all your AMP pages, including AMP stories. -->
             <!-- Each amp-story component must have at least one or more amp-story-page children, which serve as the individual screens. -->
             <!-- Cover page -->
