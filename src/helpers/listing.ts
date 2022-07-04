@@ -36,11 +36,15 @@ export const listingMergeConfig = {
     }
 }
 
-export function makeTmdbImageUrl ( tmdbImagePath , params = {} ) {
+export function makeTmdbImageUrl ( tmdbImagePath:string = '' , params = {} ) {
+
+    if ( !tmdbImagePath ) throw new Error( 'tmdbImagePath must be a string' )
 
     const id = tmdbImagePath
-        .split('/').pop()
-        .split('.').shift()
+        ?.split('/')
+        ?.pop()
+        ?.split('.')
+        ?.shift()
 
     const imageFunctionPath = `/.netlify/functions/tmdb-image/${ id }.webp?&transparent=0`
 
