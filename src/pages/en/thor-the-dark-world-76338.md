@@ -14,7 +14,7 @@ rentLinks:
   amazon: >-
     https://www.amazon.com/dp/B00IMYSVY8?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 mcuTimelineOrder: 48
-tags: 
+tags:
   - has-thor
 ---
 ## TMDB Data
