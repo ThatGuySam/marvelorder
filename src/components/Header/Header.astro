@@ -1,36 +1,148 @@
 ---
-import { getLanguageFromURL, KNOWN_LANGUAGE_CODES } from '../../languages.ts';
+// import { getLanguageFromURL, KNOWN_LANGUAGE_CODES } from '../../languages.ts';
 import * as CONFIG from '../../config.ts';
-import AstroLogo from './AstroLogo.astro';
+// import AstroLogo from './AstroLogo.astro';
 import SkipToContent from './SkipToContent.astro';
-import SidebarToggle from './SidebarToggle.tsx';
-import LanguageSelect from './LanguageSelect.tsx';
-import Search from './Search.tsx';
+// import SidebarToggle from './SidebarToggle.tsx';
+// import LanguageSelect from './LanguageSelect.tsx';
+// import Search from './Search.tsx';
 
-const { currentPage } = Astro.props;
-const lang = currentPage && getLanguageFromURL(currentPage);
+// const { currentPage } = Astro.props;
+// const lang = currentPage && getLanguageFromURL(currentPage)
+
+let expanded = false
+
+const menuId = 'main-menu'
+
+const navItems = [
+    {
+        name: 'Lists',
+        items: [
+            {
+                name: '📜 Marvel Phase 0',
+                description: 'Marvel films and shows before the start of the Marvel Cinematic Universe',
+                url: '/marvel-phase-0',
+            },
+            {
+                name: '⏳ Marvel Cinematic Universe In Universe Timeline',
+                description: 'The in-universe timeline of the Marvel Cinematic Universe films and shows, according to Disney+',
+                url: '/marvel-cinematic-universe-in-timeline-order',
+            },
+            {
+                name: '🔢 Marvel Viewing Order',
+                description: 'Reccomended viewing order for Marvel films and shows',
+                url: '/marvel-cinematic-universe-movies-in-order',
+            },
+        ]
+    },
+    {
+        name: 'Stories',
+        items: [
+            {
+                name: '🔨 Thor Anthology',
+                description: 'The complete Thor universe, in order',
+                url: '/stories/thor-anthology',
+            }
+        ]
+    }
+]
 ---
 
 <header class="fixed inset-x top-0 w-full">
 	<SkipToContent />
-	<nav class="nav-wrapper" title="Top Navigation">
-		<div class="menu-toggle">
-			<SidebarToggle client:idle />
-		</div>
-		<div class="logo flex">
-			<a href="/">
-				<!-- <AstroLogo size={40} /> -->
-				<h1>{ CONFIG.SITE.title }</h1>
-			</a>
-		</div>
-		<div style="flex-grow: 1;"></div>
-		{KNOWN_LANGUAGE_CODES.length > 1 && <LanguageSelect lang={lang} client:idle />}
-		{CONFIG.ALGOLIA && (
-			<div class="search-item">
-				<Search client:idle />
-			</div>
-		)}
-	</nav>
+
+	<div class="nav-wrapper">
+		<!-- This example requires Tailwind CSS v2.0+ -->
+        <div class="z-0 relative w-full">
+            <div class="fixed z-top-nav inset-x-0">
+                <div
+                    class="flex justify-start gap-6 px-4 py-6 sm:px-6 lg:px-8"
+                    title="Top Navigation"
+                >
+
+                    <div class="logo relative w-32 z-top-nav">
+                        <a href="/">
+                            <!-- <AstroLogo size={40} /> -->
+                            <h1>{ CONFIG.SITE.title }</h1>
+                        </a>
+                    </div>
+
+                    <!-- Item active: "", Item inactive: "text-gray-50/100" -->
+                    <div class="">
+
+                        <a
+                            type="button"
+                            href={ `#${ menuId }` }
+                            class="relative text-gray-50/100 group bg-black/10 rounded-md inline-flex items-center text-base font-medium hover: focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
+                            aria-expanded={ expanded }
+                        >
+                            <span>Lists</span>
+                            <!--
+                                Heroicon name: solid/chevron-down
+
+                                Item active: "text-gray-600", Item inactive: "text-gray-400"
+                                -->
+                            <svg class="text-gray-400 ml-2 h-5 w-5 group-hover:text-gray-50/100" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+                                <path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd" />
+                            </svg>
+                        </a>
+
+                        <nav
+                            id={ menuId }
+                            class="hidden absolute top-0 inset-0 h-screen target:flex bg-black/10 backdrop-blur-xl px-4 pt-6 pb-8 sm:gap-x-12 sm:pb-24 sm:px-6 lg:px-8 xl:pr-12"
+                            aria-labelledby="solutions-heading"
+                        >
+                            <h2 id="main-menu-heading" class="sr-only">Main menu</h2>
+
+                            <div class="spacer w-32 -ml-6" />
+
+                            { navItems.map( ( { name, items }, columnIndex ) => (
+                                <div class="">
+                                    <a
+                                        type="button"
+                                        href='#'
+                                        class="relative z-top-nav text-gray-50/100 group bg-black/10 rounded-md inline-flex items-center text-base font-medium hover: focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
+                                        aria-expanded={ expanded }
+                                    >
+                                        <h3>{ name }</h3>
+
+                                        { columnIndex === 0 && (
+                                            <svg
+                                                xmlns="http://www.w3.org/2000/svg"
+                                                class="text-gray-400 ml-2 h-5 w-5 group-hover:text-gray-50/100"
+                                                viewBox="0 0 20 20"
+                                                fill="currentColor"
+                                            >
+                                                <path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd" />
+                                            </svg>
+                                        )}
+                                    </a>
+
+                                    <ul role="list" class="flex flex-col items-start gap-6 mt-5">
+                                        { items.map( ( { name, description, url } ) => (
+                                            <li class="flow-root">
+                                                <a href={ url } class="p-3 flex flex-col items-start rounded-md hover:bg-gray-50/10 transition ease-in-out duration-150">
+                                                    <!-- Heroicon name: outline/information-circle -->
+                                                    <div class="text-2xl font-medium">{ name }</div>
+                                                    <div class="opacity-75">
+                                                        { description }
+                                                    </div>
+                                                </a>
+                                            </li>
+                                        ) ) }
+                                    </ul>
+                                </div>
+                            ) ) }
+
+                        </nav>
+
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+	</div>
 </header>
 
 <style>
@@ -42,50 +154,7 @@ const lang = currentPage && getLanguageFromURL(currentPage);
 		display: flex;
 		align-items: center;
 		justify-content: center;
-		overflow: hidden;
-		/* position: sticky;
-		top: 0; */
 	}
-
-	.logo {
-		flex: 1;
-		display: flex;
-		overflow: hidden;
-		width: 30px;
-		/* font-size: 2rem; */
-		flex-shrink: 0;
-		font-weight: 600;
-		line-height: 1;
-		color: hsla(var(--color-base-white), 100%, 1);
-		gap: 0.25em;
-		z-index: -1;
-	}
-
-	.logo a {
-		display: flex;
-		padding: 0.5em 0.25em;
-		margin: -0.5em -0.25em;
-		text-decoration: none;
-		font-weight: light;
-	}
-
-	.logo a {
-		transition: color 100ms ease-out;
-		color: var(--theme-text);
-	}
-
-	.logo a:hover,
-	.logo a:focus {
-		color: var(--theme-text-accent);
-	}
-
-	.logo h1 {
-		display: none;
-		font: inherit;
-		color: inherit;
-		margin: 0;
-	}
-
 	.nav-wrapper {
 		display: flex;
 		align-items: center;
@@ -94,24 +163,6 @@ const lang = currentPage && getLanguageFromURL(currentPage);
 		width: 100%;
 		/* max-width: 82em; */
 		padding: 0 1rem;
-	}
-
-	@media (min-width: 50em) {
-		header {
-			/* position: static; */
-			padding: 1rem 0rem;
-		}
-		.logo {
-			width: auto;
-			margin: 0;
-			z-index: 0;
-		}
-		.logo h1 {
-			display: initial;
-		}
-		.menu-toggle {
-			display: none;
-		}
 	}
 
 	/** Style Algolia */
