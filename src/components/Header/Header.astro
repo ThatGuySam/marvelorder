@@ -1,8 +1,9 @@
 ---
 // import { getLanguageFromURL, KNOWN_LANGUAGE_CODES } from '../../languages.ts';
-import * as CONFIG from '../../config.ts';
+import * as CONFIG from '../../config';
 // import AstroLogo from './AstroLogo.astro';
 import SkipToContent from './SkipToContent.astro';
+import CircleButton from '~/src/components/circle-button.vue'
 // import SidebarToggle from './SidebarToggle.tsx';
 // import LanguageSelect from './LanguageSelect.tsx';
 // import Search from './Search.tsx';
@@ -89,50 +90,62 @@ const navItems = [
 
                         <nav
                             id={ menuId }
-                            class="hidden absolute top-0 inset-0 h-screen target:flex flex-col md:flex-row bg-black/10 backdrop-blur-xl overflow-scroll px-4 pt-6 pb-48 gap-y-12 sm:gap-x-12 sm:px-6 lg:px-8 xl:pr-12"
-                            aria-labelledby="solutions-heading"
+                            class="hidden absolute top-0 inset-0 h-screen target:block bg-black/10 backdrop-blur-xl"
+                            aria-labelledby="main-menu-heading"
                         >
-                            <h2 id="main-menu-heading" class="sr-only">Main menu</h2>
+                            <div class="columns-wrapper flex flex-col md:flex-row items-start h-screen overflow-scroll gap-y-12 sm:gap-x-12 pb-72 px-4 pt-6 sm:px-6 lg:px-8 xl:pr-12">
+                                <h2 id="main-menu-heading" class="sr-only">Main menu</h2>
 
-                            <div class="spacer w-32 -ml-6" />
+                                <div class="spacer w-32 mr-12" />
 
-                            { navItems.map( ( { name, items }, columnIndex ) => (
-                                <div class="">
-                                    <a
-                                        type="button"
-                                        href='#'
-                                        class="relative z-top-nav text-gray-50/100 group bg-black/10 rounded-md inline-flex items-center text-base font-medium hover: focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
-                                        aria-expanded={ expanded }
-                                    >
-                                        <h3>{ name }</h3>
+                                { navItems.map( ( { name, items }, columnIndex ) => (
+                                    <div class="w-full">
+                                        <a
+                                            type="button"
+                                            href='#'
+                                            class="relative z-top-nav text-gray-50/100 group bg-black/10 rounded-md inline-flex items-center text-base font-medium hover: focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
+                                            aria-expanded={ expanded }
+                                        >
+                                            <h3>{ name }</h3>
 
-                                        { columnIndex === 0 && (
-                                            <svg
-                                                xmlns="http://www.w3.org/2000/svg"
-                                                class="text-gray-400 ml-2 h-5 w-5 group-hover:text-gray-50/100"
-                                                viewBox="0 0 20 20"
-                                                fill="currentColor"
-                                            >
-                                                <path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd" />
-                                            </svg>
-                                        )}
-                                    </a>
+                                            { columnIndex === 0 && (
+                                                <svg
+                                                    xmlns="http://www.w3.org/2000/svg"
+                                                    class="text-gray-400 ml-2 h-5 w-5 group-hover:text-gray-50/100"
+                                                    viewBox="0 0 20 20"
+                                                    fill="currentColor"
+                                                >
+                                                    <path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd" />
+                                                </svg>
+                                            )}
+                                        </a>
 
-                                    <ul role="list" class="flex flex-col items-start gap-6 mt-5">
-                                        { items.map( ( { name, description, url } ) => (
-                                            <li class="flow-root">
-                                                <a href={ url } class="p-3 flex flex-col items-start rounded-md hover:bg-gray-50/10 transition ease-in-out duration-150">
-                                                    <!-- Heroicon name: outline/information-circle -->
-                                                    <div class="text-2xl font-medium">{ name }</div>
-                                                    <div class="opacity-75">
-                                                        { description }
-                                                    </div>
-                                                </a>
-                                            </li>
-                                        ) ) }
-                                    </ul>
-                                </div>
-                            ) ) }
+                                        <ul role="list" class="flex flex-col items-start gap-6 mt-5">
+                                            { items.map( ( { name, description, url } ) => (
+                                                <li class="flow-root">
+                                                    <a href={ url } class="p-3 flex flex-col items-start rounded-md hover:bg-gray-50/10 transition ease-in-out duration-150">
+                                                        <!-- Heroicon name: outline/information-circle -->
+                                                        <div class="text-2xl font-medium">{ name }</div>
+                                                        <div class="opacity-75">
+                                                            { description }
+                                                        </div>
+                                                    </a>
+                                                </li>
+                                            ) ) }
+                                        </ul>
+                                    </div>
+                                ) ) }
+                            </div>
+
+                            <CircleButton
+                                tag-name="a"
+                                href="#"
+                                class="close-button absolute bottom-24 left-1/2 transform-gpu -translate-x-1/2 translate-y-1/2"
+                            >
+                                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
+                                </svg>
+                            </CircleButton>
 
                         </nav>
 
