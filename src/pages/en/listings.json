@@ -561,48 +561,6 @@
 	{
 		"adult": false,
 		"backdrop_path": null,
-		"genre_ids": [],
-		"id": 993837,
-		"original_language": "en",
-		"original_title": "Doctor Doom",
-		"overview": "",
-		"poster_path": null,
-		"release_date": "",
-		"title": "Doctor Doom",
-		"video": false,
-		"vote_average": 0,
-		"slug": "doctor-doom",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
-			28,
-			878,
-			12
-		],
-		"id": 994962,
-		"original_language": "pt",
-		"original_title": "Homem De Ferro",
-		"overview": "",
-		"poster_path": "/qXnQYaWjSMVYm6R25anqBwxjS82.jpg",
-		"release_date": "",
-		"title": "Homem De Ferro",
-		"video": false,
-		"vote_average": 0,
-		"slug": "homem-de-ferro",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": null,
 		"genre_ids": [
 			16,
 			28,
@@ -681,8 +639,8 @@
 		"original_language": "en",
 		"original_title": "Madame Web",
 		"overview": "An origin story of the clairvoyant known as Madame Web, whose psychic abilities allow her to see within the spider world.",
-		"poster_path": "/mUDhvNoxXBIyWLQauwW3nLvZC5L.jpg",
-		"release_date": "2023-07-07",
+		"poster_path": "/urh8yBp7ihPaBeLSmlYmJB3qgYy.jpg",
+		"release_date": "2023-07-05",
 		"title": "Madame Web",
 		"video": false,
 		"vote_average": 0,
@@ -879,11 +837,11 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/p1F51Lvj3sMopG948F5HsBbl43C.jpg",
+		"backdrop_path": "/6eFDnvpsgPMrxcVnLCM12rBv8Fk.jpg",
 		"genre_ids": [
 			28,
 			12,
-			14
+			35
 		],
 		"id": 616037,
 		"original_language": "en",
@@ -893,7 +851,7 @@
 		"release_date": "2022-07-06",
 		"title": "Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 7,
 		"slug": "thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -939,7 +897,7 @@
 		"release_date": "2022-05-25",
 		"title": "The Making of Moon Knight",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.1,
 		"slug": "the-making-of-moon-knight",
 		"tags": [
 			"movie",
@@ -958,7 +916,7 @@
 		"original_language": "en",
 		"original_title": "Doctor Strange in the Multiverse of Madness",
 		"overview": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
-		"poster_path": "/61PVJ06oecwvcBisoAQu6SDfdcS.jpg",
+		"poster_path": "/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
 		"release_date": "2022-05-04",
 		"title": "Doctor Strange in the Multiverse of Madness",
 		"video": false,
@@ -1008,7 +966,7 @@
 		"release_date": "2022-02-16",
 		"title": "ASSEMBLED: The Making of Eternals",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.7,
 		"slug": "assembled-the-making-of-eternals",
 		"tags": [
 			"movie",
@@ -1029,7 +987,7 @@
 		"release_date": "2022-02-09",
 		"title": "ASSEMBLED: The Making of Hawkeye",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.3,
 		"slug": "assembled-the-making-of-hawkeye",
 		"tags": [
 			"movie",
@@ -1121,7 +1079,7 @@
 		"release_date": "2021-11-12",
 		"title": "Marvel Studios' 2021 Disney+ Day Special",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.1,
 		"slug": "marvel-studios-2021-disney-day-special",
 		"tags": [
 			"movie",
@@ -1379,7 +1337,7 @@
 		"release_date": "2021-02-12",
 		"title": "Marvel's Behind the Mask",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.2,
 		"slug": "marvels-behind-the-mask",
 		"tags": [
 			"movie",
@@ -1547,7 +1505,7 @@
 		"release_date": "2019-11-12",
 		"title": "Marvel Studios: Expanding the Universe",
 		"video": false,
-		"vote_average": 6,
+		"vote_average": 5.9,
 		"slug": "marvel-studios-expanding-the-universe",
 		"tags": [
 			"movie",
@@ -1570,7 +1528,7 @@
 		"release_date": "2019-09-17",
 		"title": "Peter's To-Do List",
 		"video": false,
-		"vote_average": 7.4,
+		"vote_average": 7.2,
 		"slug": "peters-to-do-list",
 		"tags": [
 			"movie",
@@ -1710,7 +1668,7 @@
 		"release_date": "2019-01-16",
 		"title": "Marvel Rising: Chasing Ghosts",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.2,
 		"slug": "marvel-rising-chasing-ghosts",
 		"tags": [
 			"movie",
@@ -1966,7 +1924,7 @@
 		"release_date": "2017-12-09",
 		"title": "LEGO Marvel Super Heroes: Guardians of the Galaxy - The Thanos Threat",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7,
 		"slug": "lego-marvel-super-heroes-guardians-of-the-galaxy-the-thanos-threat",
 		"tags": [
 			"movie",
@@ -2702,7 +2660,7 @@
 		"original_language": "en",
 		"original_name": "Marvel's Agent Carter",
 		"overview": "It's 1946, and peace has dealt Peggy Carter a serious blow as she finds herself marginalized when the men return home from fighting abroad. Working for the covert SSR (Strategic Scientific Reserve), Peggy must balance doing administrative work and going on secret missions for Howard Stark all while trying to navigate life as a single woman in America, in the wake of losing the love of her life - Steve Rogers.",
-		"poster_path": "/7kqIsjjDMZA5GRMH5VCdQYZJqc6.jpg",
+		"poster_path": "/fe79VYyLp5ZBstpJ4oukpuUT3B.jpg",
 		"vote_average": 7.6,
 		"title": "Marvel's Agent Carter",
 		"slug": "marvels-agent-carter",
@@ -2930,7 +2888,7 @@
 		"release_date": "2014-03-18",
 		"title": "Marvel Studios: Assembling a Universe",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7,
 		"slug": "marvel-studios-assembling-a-universe",
 		"tags": [
 			"movie",
@@ -2971,7 +2929,7 @@
 		"id": 276148,
 		"original_language": "en",
 		"original_title": "Wolverine Versus Sabretooth",
-		"overview": "It's claw versus claw as Logan faces his age-old foe in the latest Marvel Knights Animation, Wolverine Vs. Sabretooth.",
+		"overview": "Get ready for the biggest, best and, quite possibly, the most brutal battle between Wolverine and Sabretooth! Think you've seen Marvel's fiercest go toe-to-toe before? Those were just warm-ups!",
 		"poster_path": "/xhhsWTu80RX05uDF3b3R22kyluc.jpg",
 		"release_date": "2014-01-14",
 		"title": "Wolverine Versus Sabretooth",
@@ -3705,7 +3663,7 @@
 		"id": 256361,
 		"original_language": "en",
 		"original_title": "Astonishing X-Men: Gifted",
-		"overview": "Cyclops and Emma Frost re-form the X-Men with the express purpose of \"astonishing\" the world. But when breaking news regarding a cure to the mutant gene unexpectedly hits the airwaves, will it derail their new plans before they even get started? Kitty Pride ( aka shadowcat ) returns to the mansion.",
+		"overview": "Cyclops and Emma Frost re-form the X-Men with the express purpose of \"astonishing\" the world. But when breaking news regarding a cure to the mutant gene unexpectedly hits the airwaves, will it derail their new plans before they even get started?",
 		"poster_path": "/48MJRUJY3Yf5jyMLbJFAFmQkAdz.jpg",
 		"release_date": "2010-09-28",
 		"title": "Astonishing X-Men: Gifted",
@@ -4555,7 +4513,7 @@
 		"original_name": "The Avengers: United They Stand",
 		"overview": "When the planet is threatened by Super Villains, time traveling conquerors, alien invaders, mythical monsters or mad robots bent on the total destruction of humanity, when the forces of evil are so overwhelming that no single hero has the power to save the world, when there is no hope left…the AVENGERS ASSEMBLE!",
 		"poster_path": "/p2SrnKTQjLRXBCcTZtYkTZCwLpp.jpg",
-		"vote_average": 6.7,
+		"vote_average": 6.5,
 		"title": "The Avengers: United They Stand",
 		"slug": "the-avengers-united-they-stand",
 		"tags": [
@@ -4992,7 +4950,7 @@
 		"release_date": "1981-06-25",
 		"title": "Spider-Man: The Dragon's Challenge",
 		"video": false,
-		"vote_average": 4.7,
+		"vote_average": 4.8,
 		"slug": "spider-man-the-dragons-challenge",
 		"tags": [
 			"list-8204862"
@@ -5235,7 +5193,7 @@
 		"release_date": "1977-11-27",
 		"title": "The Return of the Incredible Hulk",
 		"video": false,
-		"vote_average": 6,
+		"vote_average": 6.1,
 		"slug": "the-return-of-the-incredible-hulk",
 		"tags": [
 			"list-8204862"

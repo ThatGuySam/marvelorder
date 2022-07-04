@@ -27,7 +27,7 @@ type: movie
     "release_date": "2022-02-09",
     "title": "ASSEMBLED: The Making of Hawkeye",
     "video": false,
-    "vote_average": 6.5,
+    "vote_average": 6.3,
     "slug": "assembled-the-making-of-hawkeye",
     "tags": [
         "movie",

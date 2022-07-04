@@ -30,7 +30,7 @@ rentLinks:
     "release_date": "1981-06-25",
     "title": "Spider-Man: The Dragon's Challenge",
     "video": false,
-    "vote_average": 4.7,
+    "vote_average": 4.8,
     "slug": "spider-man-the-dragons-challenge",
     "tags": [
         "list-8204862"

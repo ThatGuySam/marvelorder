@@ -26,11 +26,11 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/p1F51Lvj3sMopG948F5HsBbl43C.jpg",
+    "backdrop_path": "/6eFDnvpsgPMrxcVnLCM12rBv8Fk.jpg",
     "genre_ids": [
         28,
         12,
-        14
+        35
     ],
     "id": 616037,
     "original_language": "en",
@@ -40,7 +40,7 @@ tags:
     "release_date": "2022-07-06",
     "title": "Thor: Love and Thunder",
     "video": false,
-    "vote_average": 7.2,
+    "vote_average": 7,
     "slug": "thor-love-and-thunder",
     "tags": [
         "movie",

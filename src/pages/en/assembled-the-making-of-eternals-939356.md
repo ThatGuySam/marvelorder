@@ -26,7 +26,7 @@ type: movie
     "release_date": "2022-02-16",
     "title": "ASSEMBLED: The Making of Eternals",
     "video": false,
-    "vote_average": 6.8,
+    "vote_average": 6.7,
     "slug": "assembled-the-making-of-eternals",
     "tags": [
         "movie",
