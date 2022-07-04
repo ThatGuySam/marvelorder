@@ -411,5 +411,5 @@ h2.heading {
 }
 
 .lower-mask {
-	mask-image: linear-gradient(to top, rgba(0, 0, 0, 0) 75%, rgba(0, 0, 0, 1));
+	mask-image: linear-gradient(to top, rgba(0, 0, 0, 0) 10%, rgba(0, 0, 0, 1) 35%);
 }
