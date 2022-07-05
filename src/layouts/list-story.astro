@@ -1,4 +1,6 @@
 ---
+import esbuild from 'esbuild'
+
 import tailwindStyles from '@astrojs/tailwind/base.css?inline'
 import indexStyles from '~/src/styles/index.css?inline'
 import { getTaggedListings } from '~/src/helpers/node/listing-files'
@@ -9,11 +11,17 @@ import StoryPage from '~/src/components/story/amp-story-page.astro'
 
 import * as CONFIG from '../config'
 
-const inlineStyles = [
+const rawInlineStyles = [
     tailwindStyles,
     indexStyles
 ].join('\n\n\n')
 
+const inlineStyles = esbuild.transformSync(rawInlineStyles, {
+  loader: 'css',
+  minify: true,
+}).code
+
+// console.log( 'inlineStyles', inlineStyles )
 
 const { content = {} } = Astro.props;
 const currentPage = new URL(Astro.request.url).pathname;
@@ -203,24 +211,9 @@ const thorListings = await getTaggedListings( [ 'has-thor' ] )
                             },
                             {
                                 "type": "small",
-                                "title": "Visit the charming Dutch village where cars aren't allowed",
-                                "url": "https://www.nationalgeographic.com/travel/destinations/europe/netherlands/visit-giethoorn-quaint-village-without-cars/?cmpid=int_org=ngp::int_mc=website::int_src=ngp::int_cmp=ampstories::int_add=ampstoriesclickthrough",
+                                "title": "",
+                                "url": "",
                                 "image": "assets/houses-giethoorn-holland.jpg",
-                                "category": "Travel"
-                            },
-                            {
-                                "type": "small",
-                                "title": "Why is this Bronze Age town so popular today?",
-                                "url": "https://www.nationalgeographic.com/travel/destinations/europe/austria/a-weekend-in-hallstatt-fairy-tale-town/?cmpid=int_org=ngp::int_mc=website::int_src=ngp::int_cmp=ampstories::int_add=ampstoriesclickthrough",
-                                "image": "assets/hallstatt-austria-2.jpg",
-                                "category": "Travel"
-                            },
-                            {
-                                "type": "small",
-                                "title": "High in the mountains, this European village stands frozen in time",
-                                "url": "https://www.nationalgeographic.com/travel/destinations/europe/bosnia-herzegovina/things-to-do-high-mountain-village-lukomir/?cmpid=int_org=ngp::int_mc=website::int_src=ngp::int_cmp=ampstories::int_add=ampstoriesclickthrough",
-                                "image": "assets/lukomir-village-bosnia01.jpg",
-                                "category": "Travel"
                             }
                         ]
                       }
