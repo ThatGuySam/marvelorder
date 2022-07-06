@@ -65,7 +65,6 @@ This is the *most* official list for the Marvel Chronologically, aka by the time
 ## Upcoming
 <!-- start-upcoming-list -->
 
-- July 6, 2022 - [Thor: Love and Thunder](https://marvelorder.com/en/thor-love-and-thunder-616037) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/thor-love-and-thunder-616037.md)
 - August 10, 2022 - [I Am Groot](https://marvelorder.com/en/i-am-groot-114469) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/i-am-groot-114469.md)
 - August 17, 2022 - [She-Hulk: Attorney at Law](https://marvelorder.com/en/she-hulk-attorney-at-law-92783) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/she-hulk-attorney-at-law-92783.md)
 - September 1, 2022 - [Secret Invasion](https://marvelorder.com/en/secret-invasion-114472) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/secret-invasion-114472.md)

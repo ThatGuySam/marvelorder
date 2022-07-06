@@ -840,6 +840,7 @@
 		"backdrop_path": "/p1F51Lvj3sMopG948F5HsBbl43C.jpg",
 		"genre_ids": [
 			28,
+			14,
 			12,
 			35
 		],
@@ -2405,7 +2406,7 @@
 		"original_language": "en",
 		"original_title": "X-Men: Apocalypse",
 		"overview": "After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.",
-		"poster_path": "/8ApCZX8zpaOixZddzQr0EvyPeuP.jpg",
+		"poster_path": "/qttNmCib9gHhR5q0QoZ3FgmGom9.jpg",
 		"release_date": "2016-05-18",
 		"title": "X-Men: Apocalypse",
 		"video": false,
@@ -3052,7 +3053,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/5SssJxnWxcd5bj1dPg7rKHn1VDm.jpg",
+		"backdrop_path": "/kv8KDbi2I4F4MNBbBMCR4LDqP6H.jpg",
 		"genre_ids": [
 			28,
 			12,
