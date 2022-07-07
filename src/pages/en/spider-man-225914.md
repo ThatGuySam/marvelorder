@@ -29,7 +29,7 @@ rentLinks:
     "release_date": "1977-09-14",
     "title": "Spider-Man",
     "video": false,
-    "vote_average": 5.8,
+    "vote_average": 5.7,
     "slug": "spider-man",
     "tags": [
         "list-8204862"
