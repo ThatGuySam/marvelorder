@@ -29,8 +29,8 @@ tags:
     "backdrop_path": "/p1F51Lvj3sMopG948F5HsBbl43C.jpg",
     "genre_ids": [
         28,
-        14,
-        12
+        12,
+        35
     ],
     "id": 616037,
     "original_language": "en",
