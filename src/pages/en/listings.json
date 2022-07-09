@@ -334,6 +334,7 @@
 		"original_title": "Blade",
 		"overview": "A reboot of Blade (1998) in the Marvel Cinematic Universe.",
 		"poster_path": "/AjY5EcW4ojQzoYrFOpzqmoP58Vj.jpg",
+		"release_date": "",
 		"title": "Blade",
 		"video": false,
 		"vote_average": 0,
@@ -816,7 +817,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
+		"backdrop_path": "/coxMHDtNRcyNmriZFCxpwqmlxjS.jpg",
 		"genre_ids": [
 			99
 		],
@@ -824,7 +825,7 @@
 		"original_language": "en",
 		"original_title": "The Making of Doctor Strange in the Multiverse of Madness",
 		"overview": "Join visionary director Sam Raimi and the cast of the film as they recount their experiences bringing Marvel’s darkest story to life.  From world-building to universe-building, hear first hand accounts from the cast and crew on what it took to design, create and make each universe unique and believable.",
-		"poster_path": null,
+		"poster_path": "/eIzPe62s12uHsIPhGWY1yp68DY9.jpg",
 		"release_date": "2022-07-08",
 		"title": "The Making of Doctor Strange in the Multiverse of Madness",
 		"video": false,
@@ -851,7 +852,7 @@
 		"release_date": "2022-07-06",
 		"title": "Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 6.9,
+		"vote_average": 7.2,
 		"slug": "thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -1201,7 +1202,7 @@
 		"slug": "marvels-spidey-and-his-amazing-friends",
 		"tags": [
 			"tv",
-			"company-7505"
+			"company-420"
 		]
 	},
 	{
@@ -1974,7 +1975,7 @@
 		"original_name": "Marvel's The Punisher",
 		"overview": "A former Marine out to punish the criminals responsible for his family's murder finds himself ensnared in a military conspiracy.",
 		"poster_path": "/tM6xqRKXoloH9UchaJEyyRE9O1w.jpg",
-		"vote_average": 8.2,
+		"vote_average": 8.1,
 		"title": "Marvel's The Punisher",
 		"slug": "marvels-the-punisher",
 		"tags": [
@@ -2160,7 +2161,10 @@
 		"first_air_date": "2017-03-14",
 		"genre_ids": [
 			10762,
-			16
+			16,
+			10759,
+			10765,
+			35
 		],
 		"id": 70784,
 		"name": "Marvel's Rocket & Groot",

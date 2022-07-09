@@ -17,7 +17,10 @@ rentLinks:
     "first_air_date": "2017-03-14",
     "genre_ids": [
         10762,
-        16
+        16,
+        10759,
+        10765,
+        35
     ],
     "id": 70784,
     "name": "Marvel's Rocket & Groot",

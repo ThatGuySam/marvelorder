@@ -19,8 +19,9 @@ overview: >-
   uncover the mystery of the God Butcher’s vengeance and stop him before it’s
   too late.
 vote_average: 1
-tags: 
+tags:
   - has-thor
+mcuTimelineOrder: 560
 ---
 ## TMDB Data
 ```json
@@ -40,7 +41,7 @@ tags:
     "release_date": "2022-07-06",
     "title": "Thor: Love and Thunder",
     "video": false,
-    "vote_average": 6.9,
+    "vote_average": 7.2,
     "slug": "thor-love-and-thunder",
     "tags": [
         "movie",

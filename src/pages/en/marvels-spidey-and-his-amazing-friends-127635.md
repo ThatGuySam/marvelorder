@@ -33,7 +33,7 @@ type: tv
     "slug": "marvels-spidey-and-his-amazing-friends",
     "tags": [
         "tv",
-        "company-7505"
+        "company-420"
     ]
 }
 

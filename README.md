@@ -149,6 +149,7 @@ This is the *most* official list for the Marvel Chronologically, aka by the time
 - <kbd>53</kbd> - [Moon Knight](https://marvelorder.com/en/moon-knight-92749) - 🏰 Disney+ - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/moon-knight-92749.md)
 - <kbd>54</kbd> - [Doctor Strange in the Multiverse of Madness](https://marvelorder.com/en/doctor-strange-in-the-multiverse-of-madness-453395) - 🎬 Marvel Studios - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/doctor-strange-in-the-multiverse-of-madness-453395.md)
 - <kbd>55</kbd> - [Ms. Marvel](https://marvelorder.com/en/ms-marvel-92782) - 🏰 Disney+ - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/ms-marvel-92782.md)
+- <kbd>56</kbd> - [Thor: Love and Thunder](https://marvelorder.com/en/thor-love-and-thunder-616037) - 🎬 Marvel Studios - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/thor-love-and-thunder-616037.md)
 
 <!-- end-viewing-order-list -->
 
