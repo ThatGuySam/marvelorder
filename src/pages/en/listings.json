@@ -829,7 +829,7 @@
 		"release_date": "2022-07-08",
 		"title": "The Making of Doctor Strange in the Multiverse of Madness",
 		"video": false,
-		"vote_average": 0,
+		"vote_average": 5.8,
 		"slug": "the-making-of-doctor-strange-in-the-multiverse-of-madness",
 		"tags": [
 			"movie",
@@ -842,7 +842,7 @@
 		"genre_ids": [
 			28,
 			12,
-			35
+			14
 		],
 		"id": 616037,
 		"original_language": "en",
@@ -852,7 +852,7 @@
 		"release_date": "2022-07-06",
 		"title": "Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 7.1,
 		"slug": "thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -876,7 +876,7 @@
 		"original_name": "Ms. Marvel",
 		"overview": "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school — that is, until she gets superpowers like the heroes she’s always looked up to. Life is easier with superpowers, right?",
 		"poster_path": "/cdkyMYdu8ao26XOBvilNzLneUg1.jpg",
-		"vote_average": 7.6,
+		"vote_average": 7.5,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
 		"tags": [
@@ -2349,7 +2349,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/gV2PVqsNBoklmg7h3ftLF1njoGg.jpg",
+		"backdrop_path": "/j7AHhA0bH5FlVPVMFcKNOLC4PMv.jpg",
 		"first_air_date": "2016-09-30",
 		"genre_ids": [
 			18,
@@ -2490,7 +2490,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/fjEOQhzZk2Or7VYUBeMx5ZIwU95.jpg",
+		"backdrop_path": "/g9ju2o4LioYYOyihBvf9lVX8XL.jpg",
 		"first_air_date": "2015-11-20",
 		"genre_ids": [
 			10765,
@@ -2583,7 +2583,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/gLACGQiS8kRP2hDnzdmIYo2uRRc.jpg",
+		"backdrop_path": "/6KclfESXQia4BbJNv4xUnBqaWfe.jpg",
 		"first_air_date": "2015-04-10",
 		"genre_ids": [
 			80,

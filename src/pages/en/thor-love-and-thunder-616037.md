@@ -31,7 +31,7 @@ mcuTimelineOrder: 560
     "genre_ids": [
         28,
         12,
-        35
+        14
     ],
     "id": 616037,
     "original_language": "en",
@@ -41,7 +41,7 @@ mcuTimelineOrder: 560
     "release_date": "2022-07-06",
     "title": "Thor: Love and Thunder",
     "video": false,
-    "vote_average": 7.2,
+    "vote_average": 7.1,
     "slug": "thor-love-and-thunder",
     "tags": [
         "movie",
