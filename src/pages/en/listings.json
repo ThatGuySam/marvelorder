@@ -653,7 +653,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/p4PbmHbGmCVuTSF6Q3auZheXcm9.jpg",
+		"backdrop_path": "/i3fnrJR5SOLqropUaByIv9fvlMK.jpg",
 		"genre_ids": [
 			16,
 			28,
@@ -664,7 +664,7 @@
 		"original_language": "en",
 		"original_title": "Spider-Man: Across the Spider-Verse",
 		"overview": "Miles Morales returns for the next chapter of the Spider-Verse saga, an epic adventure that will transport Brooklyn’s full-time, friendly neighborhood Spider-Man across the Multiverse to join forces with Gwen Stacy and a new team of Spider-People to face off with a villain more powerful than anything they have ever encountered.",
-		"poster_path": "/9clQewUJHnaIONZ84tdCyTg9RGf.jpg",
+		"poster_path": "/aeLYAvrnZ1auOdMiEqcTTo00Zzc.jpg",
 		"release_date": "2023-06-02",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
@@ -1022,8 +1022,9 @@
 		"backdrop_path": "/1R68vl3d5s86JsS2NPjl8UoMqIS.jpg",
 		"first_air_date": "2021-11-24",
 		"genre_ids": [
-			10759,
-			18
+			18,
+			35,
+			10759
 		],
 		"id": 88329,
 		"name": "Hawkeye",
@@ -1506,7 +1507,7 @@
 		"release_date": "2019-11-12",
 		"title": "Marvel Studios: Expanding the Universe",
 		"video": false,
-		"vote_average": 5.9,
+		"vote_average": 5.6,
 		"slug": "marvel-studios-expanding-the-universe",
 		"tags": [
 			"movie",

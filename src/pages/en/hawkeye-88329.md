@@ -20,8 +20,9 @@ mcuTimelineOrder: 540
     "backdrop_path": "/1R68vl3d5s86JsS2NPjl8UoMqIS.jpg",
     "first_air_date": "2021-11-24",
     "genre_ids": [
-        10759,
-        18
+        18,
+        35,
+        10759
     ],
     "id": 88329,
     "name": "Hawkeye",
