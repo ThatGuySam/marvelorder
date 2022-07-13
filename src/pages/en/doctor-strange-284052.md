@@ -21,8 +21,7 @@ mcuTimelineOrder: 361
     "genre_ids": [
         28,
         12,
-        14,
-        878
+        14
     ],
     "id": 284052,
     "original_language": "en",
