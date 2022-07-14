@@ -24,6 +24,7 @@ rentLinks:
         28
     ],
     "id": 340102,
+    "media_type": "movie",
     "original_language": "en",
     "original_title": "The New Mutants",
     "overview": "Five young mutants, just discovering their abilities while held in a secret facility against their will, fight to escape their past sins and save themselves.",
@@ -34,11 +35,8 @@ rentLinks:
     "vote_average": 6.2,
     "slug": "the-new-mutants",
     "tags": [
-        "movie",
-        "company-7505",
         "list-8204860"
-    ],
-    "media_type": "movie"
+    ]
 }
 
 ```

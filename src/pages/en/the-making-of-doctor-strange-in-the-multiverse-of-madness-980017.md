@@ -21,7 +21,7 @@ type: movie
     "release_date": "2022-07-08",
     "title": "The Making of Doctor Strange in the Multiverse of Madness",
     "video": false,
-    "vote_average": 6.2,
+    "vote_average": 5.6,
     "slug": "the-making-of-doctor-strange-in-the-multiverse-of-madness",
     "tags": [
         "movie",

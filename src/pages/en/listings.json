@@ -304,7 +304,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/66zclx15SRNqXMMQqz6RqLdIzgS.jpg",
+		"backdrop_path": "/qlwBv4v6EoeN2JxGWziT2kSyoVe.jpg",
 		"genre_ids": [
 			878
 		],
@@ -664,7 +664,7 @@
 		"original_language": "en",
 		"original_title": "Spider-Man: Across the Spider-Verse",
 		"overview": "Miles Morales returns for the next chapter of the Spider-Verse saga, an epic adventure that will transport Brooklyn’s full-time, friendly neighborhood Spider-Man across the Multiverse to join forces with Gwen Stacy and a new team of Spider-People to face off with a villain more powerful than anything they have ever encountered.",
-		"poster_path": "/aeLYAvrnZ1auOdMiEqcTTo00Zzc.jpg",
+		"poster_path": "/zfZuSNGKxIlWQKi4xlIhFoRrlnj.jpg",
 		"release_date": "2023-06-02",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
@@ -829,7 +829,7 @@
 		"release_date": "2022-07-08",
 		"title": "The Making of Doctor Strange in the Multiverse of Madness",
 		"video": false,
-		"vote_average": 6.2,
+		"vote_average": 5.6,
 		"slug": "the-making-of-doctor-strange-in-the-multiverse-of-madness",
 		"tags": [
 			"movie",
@@ -852,7 +852,7 @@
 		"release_date": "2022-07-06",
 		"title": "Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 6.9,
 		"slug": "thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -1431,6 +1431,7 @@
 			28
 		],
 		"id": 340102,
+		"media_type": "movie",
 		"original_language": "en",
 		"original_title": "The New Mutants",
 		"overview": "Five young mutants, just discovering their abilities while held in a secret facility against their will, fight to escape their past sins and save themselves.",
@@ -1441,11 +1442,8 @@
 		"vote_average": 6.2,
 		"slug": "the-new-mutants",
 		"tags": [
-			"movie",
-			"company-7505",
 			"list-8204860"
-		],
-		"media_type": "movie"
+		]
 	},
 	{
 		"backdrop_path": "/uQ74RD6wRLE3qOWU8Wie6ouzKaA.jpg",
@@ -2664,7 +2662,7 @@
 		"original_language": "en",
 		"original_name": "Marvel's Agent Carter",
 		"overview": "It's 1946, and peace has dealt Peggy Carter a serious blow as she finds herself marginalized when the men return home from fighting abroad. Working for the covert SSR (Strategic Scientific Reserve), Peggy must balance doing administrative work and going on secret missions for Howard Stark all while trying to navigate life as a single woman in America, in the wake of losing the love of her life - Steve Rogers.",
-		"poster_path": "/fe79VYyLp5ZBstpJ4oukpuUT3B.jpg",
+		"poster_path": "/8Y30TnBtGT4C7RI3nruPaIGGSkZ.jpg",
 		"vote_average": 7.6,
 		"title": "Marvel's Agent Carter",
 		"slug": "marvels-agent-carter",
@@ -4360,7 +4358,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/gUATaiYFjlIYWLmVsPcuThGTFnU.jpg",
+		"backdrop_path": "/sWvxBXNtCOaGdtpKNLiOqmwb10N.jpg",
 		"genre_ids": [
 			14,
 			28
