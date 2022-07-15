@@ -876,7 +876,7 @@
 		"original_name": "Ms. Marvel",
 		"overview": "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school — that is, until she gets superpowers like the heroes she’s always looked up to. Life is easier with superpowers, right?",
 		"poster_path": "/cdkyMYdu8ao26XOBvilNzLneUg1.jpg",
-		"vote_average": 7.4,
+		"vote_average": 7.3,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
 		"tags": [
@@ -898,7 +898,7 @@
 		"release_date": "2022-05-25",
 		"title": "The Making of Moon Knight",
 		"video": false,
-		"vote_average": 6.1,
+		"vote_average": 6.5,
 		"slug": "the-making-of-moon-knight",
 		"tags": [
 			"movie",
@@ -993,6 +993,30 @@
 		"tags": [
 			"movie",
 			"company-420"
+		]
+	},
+	{
+		"backdrop_path": "/oKgHHaG4udwowSGThmXHHnyEkca.jpg",
+		"first_air_date": "2021-12-31",
+		"genre_ids": [
+			16,
+			10759
+		],
+		"id": 206006,
+		"name": "Marvel's Avengers: Secret Wars (Short)",
+		"origin_country": [
+			"TR"
+		],
+		"original_language": "tr",
+		"original_name": "Marvel's Avengers: Secret Wars (Short)",
+		"overview": "",
+		"poster_path": "/wINd3dSyrMxf1meRdFayO6WEMwg.jpg",
+		"vote_average": 8,
+		"title": "Marvel's Avengers: Secret Wars (Short)",
+		"slug": "marvels-avengers-secret-wars-short",
+		"tags": [
+			"tv",
+			"company-7505"
 		]
 	},
 	{
@@ -2502,7 +2526,7 @@
 		"original_language": "en",
 		"original_name": "Marvel's Jessica Jones",
 		"overview": "After a tragic ending to her short-lived super hero stint, Jessica Jones is rebuilding her personal life and career as a detective who gets pulled into cases involving people with extraordinary abilities in New York City.",
-		"poster_path": "/1ghmaDw650NuUpGI7mYq6xE2QE2.jpg",
+		"poster_path": "/aSkB2d9B8vCKbjmg5Abn9uSFmio.jpg",
 		"vote_average": 7.6,
 		"title": "Marvel's Jessica Jones",
 		"slug": "marvels-jessica-jones",

@@ -4,7 +4,7 @@
       "TYPE": "MOVIE",
       "TITLE": "Captain America: The First Avenger",
       "RELEASE_DATE": "2011-07-22T04:00:00.000Z",
-      "NOTES": "Ms. Marvel Season 1 Episode 6:",
+      "NOTES": "She-Hulk: Attorney at Law Season 1 Episode 1:",
       "": ""
     },
     {
@@ -25,7 +25,7 @@
       "TYPE": "ABC",
       "TITLE": "Agent Carter Season 1 Episode 3: Time and Tide",
       "RELEASE_DATE": "2015-01-13T05:00:00.000Z",
-      "NOTES": "2022-07-13T04:00:00.000Z",
+      "NOTES": "2022-08-17T04:00:00.000Z",
       "": ""
     },
     {
@@ -46,7 +46,7 @@
       "TYPE": "ABC",
       "TITLE": "Agent Carter Season 1 Episode 6: A Sin to Err",
       "RELEASE_DATE": "2015-02-10T05:00:00.000Z",
-      "NOTES": "Days Until Next Release: 1",
+      "NOTES": "Days Until Next Release: 34",
       "": ""
     },
     {
@@ -102,7 +102,7 @@
       "TYPE": "ABC",
       "TITLE": "Agent Carter Season 2 Episode 6: Life of the Party",
       "RELEASE_DATE": "2016-02-16T05:00:00.000Z",
-      "NOTES": 18,
+      "NOTES": 19,
       "": "Hours"
     },
     {
@@ -116,7 +116,7 @@
       "TYPE": "ABC",
       "TITLE": "Agent Carter Season 2 Episode 8: The Edge Of Mystery",
       "RELEASE_DATE": "2016-02-23T05:00:00.000Z",
-      "NOTES": 10,
+      "NOTES": 0,
       "": "Minutes"
     },
     {
@@ -179,7 +179,7 @@
       "TYPE": "OTHER",
       "TITLE": "Burger King - Iron Man",
       "RELEASE_DATE": "2008-04-29T04:00:00.000Z",
-      "NOTES": "2022-07-12T04:00:00.000Z",
+      "NOTES": "2022-07-14T04:00:00.000Z",
       "": ""
     },
     {
@@ -3917,6 +3917,13 @@
       "TYPE": "DISNEY+",
       "TITLE": "Ms. Marvel Season 1 Episode 5: Time and Again",
       "RELEASE_DATE": "2022-07-06T04:00:00.000Z",
+      "NOTES": "",
+      "": ""
+    },
+    {
+      "TYPE": "DISNEY+",
+      "TITLE": "Ms. Marvel Season 1 Episode 6: No Normal",
+      "RELEASE_DATE": "2022-07-13T04:00:00.000Z",
       "NOTES": "",
       "": ""
     },
