@@ -892,14 +892,14 @@
 		],
 		"id": 964943,
 		"original_language": "en",
-		"original_title": "The Making of Moon Knight",
+		"original_title": "ASSEMBLED: The Making of Moon Knight",
 		"overview": "Join the likes of Oscar Isaac and Ethan Hawke as they reveal how Marvel Studios' Moon Knight was painstakingly brought to life. Through insightful interviews with cast and crew, along with immersive footage from the set, and a  candid \"roundtable discussion\" with the series' directors, this \"making-of\" pulls back the curtain on the groundbreaking series of Marvel Studios' newest hero.",
 		"poster_path": "/dM6Y4uLzeF4rqbmKBzR0wAsTxby.jpg",
 		"release_date": "2022-05-25",
-		"title": "The Making of Moon Knight",
+		"title": "ASSEMBLED: The Making of Moon Knight",
 		"video": false,
 		"vote_average": 6.5,
-		"slug": "the-making-of-moon-knight",
+		"slug": "assembled-the-making-of-moon-knight",
 		"tags": [
 			"movie",
 			"company-420"
@@ -967,7 +967,7 @@
 		"release_date": "2022-02-16",
 		"title": "ASSEMBLED: The Making of Eternals",
 		"video": false,
-		"vote_average": 6.7,
+		"vote_average": 6.9,
 		"slug": "assembled-the-making-of-eternals",
 		"tags": [
 			"movie",
@@ -1164,7 +1164,8 @@
 		"genre_ids": [
 			28,
 			12,
-			14
+			14,
+			878
 		],
 		"id": 566525,
 		"original_language": "en",
@@ -1508,7 +1509,7 @@
 		"release_date": "2019-12-20",
 		"title": "Celebrating Marvel's Stan Lee",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 7.4,
 		"slug": "celebrating-marvels-stan-lee",
 		"tags": [
 			"movie",
@@ -3950,7 +3951,7 @@
 		],
 		"original_language": "en",
 		"original_name": "The Spectacular Spider-Man",
-		"overview": "The 10th television series about Spider-Man picks up the original web-slinger's mythology at the beginning of his hero's journey, as a not so typical 16-year-old entering his junior year of high school. Having spent the summer engaging common criminals with his new-found powers, Peter Parker must conceal his secret identity and battle super-villains in the real world.",
+		"overview": "Having spent the summer engaging common criminals with his new-found powers, not so typical 16-year-old Peter Parker must conceal his secret identity and battle super-villains in the real world as he enters his junior year of high school.",
 		"poster_path": "/dCNxOhXT7c4lqYuRpdM3m8s9XDp.jpg",
 		"vote_average": 8.7,
 		"title": "The Spectacular Spider-Man",
@@ -4292,7 +4293,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/bqEmxL8e6jlH3ZNECuaEZHiOvsX.jpg",
+		"backdrop_path": "/4iypY05iUKFh3luIiVAGUofvsCb.jpg",
 		"genre_ids": [
 			28,
 			80,
