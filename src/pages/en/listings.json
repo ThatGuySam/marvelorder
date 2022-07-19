@@ -332,9 +332,8 @@
 		"id": 617127,
 		"original_language": "en",
 		"original_title": "Blade",
-		"overview": "A reboot of Blade (1998) in the Marvel Cinematic Universe.",
+		"overview": "A movie based on Blade from the Marvel Comics in the Marvel Cinematic Universe.",
 		"poster_path": "/AjY5EcW4ojQzoYrFOpzqmoP58Vj.jpg",
-		"release_date": "",
 		"title": "Blade",
 		"video": false,
 		"vote_average": 0,
@@ -554,6 +553,29 @@
 		"video": false,
 		"vote_average": 0,
 		"slug": "thunderbolts",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			18,
+			28,
+			35
+		],
+		"id": 1001607,
+		"original_language": "en",
+		"original_title": "Salo: 120 Days of Sodom",
+		"overview": "A remake of \"Salo and the 120 Days of Sodom\" to takes place within the Marvel Cinematic Universe",
+		"poster_path": "/yJck0kBqSBKeqEaCcqfOSzvUBw8.jpg",
+		"release_date": "",
+		"title": "Salo: 120 Days of Sodom",
+		"video": false,
+		"vote_average": 0,
+		"slug": "salo-120-days-of-sodom",
 		"tags": [
 			"movie",
 			"company-420"
