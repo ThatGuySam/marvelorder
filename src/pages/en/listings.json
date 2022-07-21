@@ -500,29 +500,6 @@
 	{
 		"adult": false,
 		"backdrop_path": null,
-		"genre_ids": [
-			878,
-			28,
-			12
-		],
-		"id": 912649,
-		"original_language": "en",
-		"original_title": "Venom 3",
-		"overview": "The third entry in the Venom trilogy confirmed to be in development by Amy Pascal.",
-		"poster_path": "/p2iubH4NpXpIDAWCuITTuJhmde5.jpg",
-		"release_date": "",
-		"title": "Venom 3",
-		"video": false,
-		"vote_average": 0,
-		"slug": "venom-3",
-		"tags": [
-			"movie",
-			"company-7505"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": null,
 		"genre_ids": [],
 		"id": 969681,
 		"original_language": "en",
@@ -556,6 +533,29 @@
 		"tags": [
 			"movie",
 			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			878,
+			28,
+			12
+		],
+		"id": 912649,
+		"original_language": "en",
+		"original_title": "Venom 3",
+		"overview": "The third entry in the Venom trilogy confirmed to be in development by Amy Pascal.",
+		"poster_path": "/p2iubH4NpXpIDAWCuITTuJhmde5.jpg",
+		"release_date": "2024-06-04",
+		"title": "Venom 3",
+		"video": false,
+		"vote_average": 0,
+		"slug": "venom-3",
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -937,7 +937,7 @@
 		"original_language": "en",
 		"original_title": "Doctor Strange in the Multiverse of Madness",
 		"overview": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
-		"poster_path": "/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+		"poster_path": "/61PVJ06oecwvcBisoAQu6SDfdcS.jpg",
 		"release_date": "2022-05-04",
 		"title": "Doctor Strange in the Multiverse of Madness",
 		"video": false,
@@ -1242,7 +1242,7 @@
 		"original_name": "Marvel's Spidey and His Amazing Friends",
 		"overview": "Follow Peter Parker, Gwen Stacy and Miles Morales and their adventures as the young heroes team up with Hulk, Ms. Marvel and Black Panther to defeat foes like Rhino, Doc Ock and Green Goblin and learn that teamwork is the best way to save the day.",
 		"poster_path": "/dA4S18rnLx4sWW8agmLLKUvRM7n.jpg",
-		"vote_average": 7.3,
+		"vote_average": 7.4,
 		"title": "Marvel's Spidey and His Amazing Friends",
 		"slug": "marvels-spidey-and-his-amazing-friends",
 		"tags": [
@@ -4435,7 +4435,7 @@
 		"original_language": "en",
 		"original_title": "Blade II",
 		"overview": "A rare mutation has occurred within the vampire community - The Reaper. A vampire so consumed with an insatiable bloodlust that they prey on vampires as well as humans, transforming victims who are unlucky enough to survive into Reapers themselves. Blade is asked by the Vampire Nation for his help in preventing a nightmare plague that would wipe out both humans and vampires.",
-		"poster_path": "/azzTa03g0Fb8HC7O3521qq0oc8Q.jpg",
+		"poster_path": "/yDHwo3eWcMiy5LnnEnlGV9iLu9k.jpg",
 		"release_date": "2002-03-22",
 		"title": "Blade II",
 		"video": false,
@@ -4465,7 +4465,7 @@
 		"original_name": "Mutant X",
 		"overview": "Mutant X is a science fiction television series that debuted on October 6, 2001. The show was created by Avi Arad, and it centers around Mutant X, a team of \"New Mutants\" who possess extraordinary powers as a result of genetic engineering. The members of Mutant X were used as test subjects in a series of covert government experiments. The mission of Mutant X is to seek out and protect their fellow New Mutants. The series was filmed in Toronto, Ontario, Canada.\n\nEven though the series had high ratings and was meant to be renewed for a fourth season, it was abruptly canceled in 2004 after the dismantling of Fireworks Entertainment, one of the show's production companies, ending the show on a cliffhanger.",
 		"poster_path": "/kYHYHpZV25CEM3OyMb3NT1tnNev.jpg",
-		"vote_average": 6.7,
+		"vote_average": 6.6,
 		"title": "Mutant X",
 		"slug": "mutant-x",
 		"tags": [
@@ -4870,7 +4870,7 @@
 		"original_language": "en",
 		"original_title": "The Punisher",
 		"overview": "The avenging angel of Marvel Comics fame comes brilliantly to life in this searing action-adventure thriller! Dolph Lundgren stars as Frank Castle, a veteran cop who loses his entire family to a mafia car bomb. His ex-partner believes Castle survived the blast and became the Punisher, living in the sewers and exacting vigilante violence against mob bosses throughout the city. When the populace is caught in the midst of a gang war that he caused, Castle must again emerge from the shadows and save the innocent.",
-		"poster_path": "/p7CNykYyLG1mA1OazOtUsLxeWxD.jpg",
+		"poster_path": "/94uI2GcM1Za0dJVUSSuyI8gvQgX.jpg",
 		"release_date": "1989-10-05",
 		"title": "The Punisher",
 		"video": false,

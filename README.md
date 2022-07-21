@@ -76,8 +76,8 @@ This is the *most* official list for the Marvel Chronologically, aka by the time
 - February 15, 2023 - [Ant-Man and the Wasp: Quantumania](https://marvelorder.com/en/ant-man-and-the-wasp-quantumania-640146) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/ant-man-and-the-wasp-quantumania-640146.md)
 - May 3, 2023 - [Guardians of the Galaxy Vol. 3](https://marvelorder.com/en/guardians-of-the-galaxy-vol-3-447365) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/guardians-of-the-galaxy-vol-3-447365.md)
 - June 2, 2023 - [Spider-Man: Across the Spider-Verse](https://marvelorder.com/en/spider-man-across-the-spider-verse-569094) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/spider-man-across-the-spider-verse-569094.md)
-- July 5, 2023 - [Madame Web](https://marvelorder.com/en/madame-web-634492) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/madame-web-634492.md)
 - July 26, 2023 - [The Marvels](https://marvelorder.com/en/the-marvels-609681) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/the-marvels-609681.md)
+- October 6, 2023 - [Madame Web](https://marvelorder.com/en/madame-web-634492) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/madame-web-634492.md)
 - January 11, 2024 - [El Muerto](https://marvelorder.com/en/el-muerto-967731) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/el-muerto-967731.md)
 - March 28, 2024 - [Spider-Man: Beyond the Spider-Verse](https://marvelorder.com/en/spider-man-beyond-the-spider-verse-911916) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/spider-man-beyond-the-spider-verse-911916.md)
 
