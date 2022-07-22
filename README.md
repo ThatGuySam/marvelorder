@@ -80,6 +80,7 @@ This is the *most* official list for the Marvel Chronologically, aka by the time
 - October 6, 2023 - [Madame Web](https://marvelorder.com/en/madame-web-634492) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/madame-web-634492.md)
 - January 11, 2024 - [El Muerto](https://marvelorder.com/en/el-muerto-967731) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/el-muerto-967731.md)
 - March 28, 2024 - [Spider-Man: Beyond the Spider-Verse](https://marvelorder.com/en/spider-man-beyond-the-spider-verse-911916) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/spider-man-beyond-the-spider-verse-911916.md)
+- June 4, 2024 - [Venom 3](https://marvelorder.com/en/venom-3-912649) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/venom-3-912649.md)
 
 <!-- end-upcoming-list -->
 
