@@ -172,17 +172,17 @@
 			10759
 		],
 		"id": 138503,
-		"name": "Spider-Man: Freshman Year",
+		"name": "Spider-Man",
 		"origin_country": [
 			"US"
 		],
 		"original_language": "en",
-		"original_name": "Spider-Man: Freshman Year",
-		"overview": "Follow Peter Parker on his way to becoming Spider-Man in the MCU, with a journey unlike we've ever seen.",
+		"original_name": "Spider-Man",
+		"overview": "Follow Peter Parker on his way to becoming Spider-Man, with a journey unlike we've ever seen.",
 		"poster_path": "/7ecqjxf49CaTsqQFIUd1iceoXZB.jpg",
 		"vote_average": 0,
-		"title": "Spider-Man: Freshman Year",
-		"slug": "spider-man-freshman-year",
+		"title": "Spider-Man",
+		"slug": "spider-man",
 		"tags": [
 			"tv",
 			"company-420"
@@ -616,7 +616,7 @@
 		"original_language": "en",
 		"original_title": "Madame Web",
 		"overview": "An origin story of the clairvoyant known as Madame Web, whose psychic abilities allow her to see within the spider world.",
-		"poster_path": "/mUDhvNoxXBIyWLQauwW3nLvZC5L.jpg",
+		"poster_path": "/urh8yBp7ihPaBeLSmlYmJB3qgYy.jpg",
 		"release_date": "2023-10-06",
 		"title": "Madame Web",
 		"video": false,
@@ -805,7 +805,7 @@
 		"original_language": "en",
 		"original_name": "I Am Groot",
 		"overview": "Follow Baby Groot’s glory days growing up, and getting into trouble among the stars.",
-		"poster_path": "/ucXBxp0NkDhvdat4rR4QFXVxjp9.jpg",
+		"poster_path": "/xco4lSVVyrFeg1ZZKHmETXk1P9y.jpg",
 		"vote_average": 0,
 		"title": "I Am Groot",
 		"slug": "i-am-groot",
@@ -851,7 +851,7 @@
 		"release_date": "2022-07-08",
 		"title": "Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.7,
 		"slug": "thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -1268,28 +1268,6 @@
 		"slug": "marvels-spidey-and-his-amazing-friends",
 		"tags": [
 			"tv",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/osigUjaMymLpb6a53jQJk31QI3l.jpg",
-		"genre_ids": [
-			35,
-			99
-		],
-		"id": 1002488,
-		"original_language": "en",
-		"original_title": "Deadpool's Maximum Reactions: Korg and Deadpool",
-		"overview": "",
-		"poster_path": "/5g1T37Hv1kE6P9pOMuVWMTh25fe.jpg",
-		"release_date": "2021-07-13",
-		"title": "Deadpool's Maximum Reactions: Korg and Deadpool",
-		"video": false,
-		"vote_average": 0,
-		"slug": "deadpools-maximum-reactions-korg-and-deadpool",
-		"tags": [
-			"movie",
 			"company-420"
 		]
 	},
@@ -2261,7 +2239,7 @@
 		"original_name": "Marvel's Rocket & Groot",
 		"overview": "Before becoming Guardians of the Galaxy, Rocket and Groot were bounty hunters trying to get a ship.",
 		"poster_path": "/7FHJr40MPFwtHrOyOD9buQDoVcs.jpg",
-		"vote_average": 7.9,
+		"vote_average": 8.1,
 		"title": "Marvel's Rocket & Groot",
 		"slug": "marvels-rocket-and-groot",
 		"tags": [
@@ -2589,7 +2567,7 @@
 		"original_language": "en",
 		"original_name": "Marvel's Jessica Jones",
 		"overview": "After a tragic ending to her short-lived super hero stint, Jessica Jones is rebuilding her personal life and career as a detective who gets pulled into cases involving people with extraordinary abilities in New York City.",
-		"poster_path": "/aSkB2d9B8vCKbjmg5Abn9uSFmio.jpg",
+		"poster_path": "/1ghmaDw650NuUpGI7mYq6xE2QE2.jpg",
 		"vote_average": 7.6,
 		"title": "Marvel's Jessica Jones",
 		"slug": "marvels-jessica-jones",
