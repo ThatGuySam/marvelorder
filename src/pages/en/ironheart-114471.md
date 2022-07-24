@@ -7,6 +7,8 @@ description: >-
 layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/tmdb-image/ha1kackPwP1BLtyibzuv5hABiDk.webp
+# Fall 2023 - https://www.marvel.com/articles/movies/sdcc-2022-all-of-the-marvel-studios-news-coming-out-of-hall-h-at-san-diego-comic-con
+release_date: "2023-10"
 ---
 ## TMDB Data
 ```json
