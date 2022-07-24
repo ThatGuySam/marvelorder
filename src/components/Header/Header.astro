@@ -11,6 +11,24 @@ import CircleButton from '~/src/components/circle-button.vue'
 // const { currentPage } = Astro.props;
 // const lang = currentPage && getLanguageFromURL(currentPage)
 
+const lists = await Astro.glob( '/src/pages/en/lists/*.md' )
+
+// console.log( 'lists', lists.map( l => l.url ) )
+
+const listsByUrl = Object.fromEntries( lists.map( l => [ l.url, l ] ) )
+
+function menuItemFromUrl( url, label = null ) {
+    const list = listsByUrl[ url ]
+
+    console.log( 'list', list )
+
+    return {
+        name: label ?? list.frontmatter.title,
+        description: list.frontmatter.description,
+        url
+    }
+}
+
 let expanded = false
 
 const menuId = 'main-menu'
@@ -40,6 +58,19 @@ const navItems = [
             //     description: 'The in-universe timeline of the Marvel Cinematic Universe films and shows, according to Disney+',
             //     url: '/marvel-cinematic-universe-in-timeline-order',
             // },
+
+            menuItemFromUrl( '/en/lists/infinity-saga', '💎 Infinity Saga' ),
+
+            menuItemFromUrl( '/en/lists/phase-one', '1️⃣ Marvel Phase 1' ),
+            menuItemFromUrl( '/en/lists/phase-two', '2️⃣ Marvel Phase 2' ),
+            menuItemFromUrl( '/en/lists/phase-three', '3️⃣ Marvel Phase 3' ),
+
+
+            menuItemFromUrl( '/en/lists/multiverse-saga', '🌌 Multiverse Saga' ),
+
+            menuItemFromUrl( '/en/lists/phase-four', '4️⃣ Marvel Phase 4' ),
+            menuItemFromUrl( '/en/lists/phase-five', '5️⃣ Marvel Phase 5' ),
+            menuItemFromUrl( '/en/lists/phase-six', '6️⃣ Marvel Phase 6' ),
         ]
     },
     {
