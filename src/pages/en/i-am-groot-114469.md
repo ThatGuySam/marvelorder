@@ -26,7 +26,7 @@ logo_on_black: /.netlify/functions/tmdb-image/lOqw1w20tjRbbjPImUjbFRfNffp.webp
     "original_language": "en",
     "original_name": "I Am Groot",
     "overview": "Follow Baby Groot’s glory days growing up, and getting into trouble among the stars.",
-    "poster_path": "/xco4lSVVyrFeg1ZZKHmETXk1P9y.jpg",
+    "poster_path": "/1vaBZjml2DaVRvlclwbZMdk5MFp.jpg",
     "vote_average": 0,
     "title": "I Am Groot",
     "slug": "i-am-groot",

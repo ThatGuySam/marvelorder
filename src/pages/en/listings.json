@@ -143,7 +143,7 @@
 		]
 	},
 	{
-		"backdrop_path": null,
+		"backdrop_path": "/kph3G35tXwwClkUlEKjvFskzqVD.jpg",
 		"genre_ids": [
 			16,
 			10759
@@ -326,27 +326,6 @@
 		"adult": false,
 		"backdrop_path": null,
 		"genre_ids": [
-			28,
-			14
-		],
-		"id": 617127,
-		"original_language": "en",
-		"original_title": "Blade",
-		"overview": "A movie based on Blade from the Marvel Comics in the Marvel Cinematic Universe.",
-		"poster_path": "/AjY5EcW4ojQzoYrFOpzqmoP58Vj.jpg",
-		"title": "Blade",
-		"video": false,
-		"vote_average": 0,
-		"slug": "blade",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
 			878
 		],
 		"id": 617129,
@@ -435,28 +414,6 @@
 		"backdrop_path": null,
 		"genre_ids": [
 			28,
-			12,
-			878
-		],
-		"id": 822119,
-		"original_language": "en",
-		"original_title": "Captain America 4",
-		"overview": "A sequel to Marvel Studios' The Falcon and the Winter Soldier and follows Sam Wilson as the new Captain America.",
-		"poster_path": "/fYyB5IApuVmZBwd84OPNev8mq4L.jpg",
-		"title": "Captain America 4",
-		"video": false,
-		"vote_average": 0,
-		"slug": "captain-america-4",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
-			28,
 			27,
 			10770
 		],
@@ -525,7 +482,7 @@
 		"original_title": "Thunderbolts",
 		"overview": "A group of supervillains and antiheroes go on missions for the government. Based on the comic book series of the same name.",
 		"poster_path": null,
-		"release_date": "",
+		"release_date": "2024-07-26",
 		"title": "Thunderbolts",
 		"video": false,
 		"vote_average": 0,
@@ -556,6 +513,29 @@
 		"tags": [
 			"movie",
 			"company-7505"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			28,
+			12,
+			878
+		],
+		"id": 822119,
+		"original_language": "en",
+		"original_title": "Captain America: New World Order",
+		"overview": "A sequel to Marvel Studios' The Falcon and the Winter Soldier and follows Sam Wilson as the new Captain America.",
+		"poster_path": "/fYyB5IApuVmZBwd84OPNev8mq4L.jpg",
+		"release_date": "2024-05-03",
+		"title": "Captain America: New World Order",
+		"video": false,
+		"vote_average": 0,
+		"slug": "captain-america-new-world-order",
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -603,6 +583,28 @@
 		"tags": [
 			"movie",
 			"company-7505"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			28,
+			14
+		],
+		"id": 617127,
+		"original_language": "en",
+		"original_title": "Blade",
+		"overview": "A movie based on Blade from the Marvel Comics in the Marvel Cinematic Universe.",
+		"poster_path": "/fKqA4rgVJwrM7Gb3tQ9TGHnu8Tr.jpg",
+		"release_date": "2023-11-03",
+		"title": "Blade",
+		"video": false,
+		"vote_average": 0,
+		"slug": "blade",
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -805,7 +807,7 @@
 		"original_language": "en",
 		"original_name": "I Am Groot",
 		"overview": "Follow Baby Groot’s glory days growing up, and getting into trouble among the stars.",
-		"poster_path": "/xco4lSVVyrFeg1ZZKHmETXk1P9y.jpg",
+		"poster_path": "/1vaBZjml2DaVRvlclwbZMdk5MFp.jpg",
 		"vote_average": 0,
 		"title": "I Am Groot",
 		"slug": "i-am-groot",
@@ -862,7 +864,8 @@
 		"adult": false,
 		"backdrop_path": "/coxMHDtNRcyNmriZFCxpwqmlxjS.jpg",
 		"genre_ids": [
-			99
+			99,
+			878
 		],
 		"id": 980017,
 		"original_language": "en",
@@ -958,7 +961,7 @@
 		"original_language": "en",
 		"original_title": "Doctor Strange in the Multiverse of Madness",
 		"overview": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
-		"poster_path": "/61PVJ06oecwvcBisoAQu6SDfdcS.jpg",
+		"poster_path": "/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
 		"release_date": "2022-05-04",
 		"title": "Doctor Strange in the Multiverse of Madness",
 		"video": false,
@@ -986,7 +989,7 @@
 		"original_name": "Moon Knight",
 		"overview": "When Steven Grant, a mild-mannered gift-shop employee, becomes plagued with blackouts and memories of another life, he discovers he has dissociative identity disorder and shares a body with mercenary Marc Spector. As Steven/Marc’s enemies converge upon them, they must navigate their complex identities while thrust into a deadly mystery among the powerful gods of Egypt.",
 		"poster_path": "/YksR65as1ppF2N48TJAh2PLamX.jpg",
-		"vote_average": 8.2,
+		"vote_average": 8.1,
 		"title": "Moon Knight",
 		"slug": "moon-knight",
 		"tags": [
@@ -2746,7 +2749,7 @@
 		"original_language": "en",
 		"original_title": "Marvel: 75 Years, From Pulp to Pop!",
 		"overview": "In celebration of the publisher's 75th anniversary, the hour-long special will take a detailed look at the company's journey from fledgling comics publisher to multi-media juggernaut. Hosted by Emily VanCamp (S.H.I.E.L.D. Agent Sharon Carter), the documentary-style feature will include interviews with comic book icons, pop culture authorities, and Hollywood stars.  The special also promises an \"extraordinary peek into Marvel's future!\" Might Marvel release the first official footage from next year's Avengers: Age of Ultron or Ant-Man? If they do, you'll know about it here.",
-		"poster_path": "/qNC8co8LuGBv22Fu9SC71ppAwoA.jpg",
+		"poster_path": "/biud0bsRfQryGBfcTXN2ep6ODwM.jpg",
 		"release_date": "2014-11-04",
 		"title": "Marvel: 75 Years, From Pulp to Pop!",
 		"video": false,

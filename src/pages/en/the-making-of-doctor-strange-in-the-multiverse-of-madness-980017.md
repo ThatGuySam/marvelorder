@@ -11,7 +11,8 @@ type: movie
     "adult": false,
     "backdrop_path": "/coxMHDtNRcyNmriZFCxpwqmlxjS.jpg",
     "genre_ids": [
-        99
+        99,
+        878
     ],
     "id": 980017,
     "original_language": "en",
