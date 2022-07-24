@@ -227,6 +227,26 @@ export function isPhaseFive ( listing ) {
     })
 }
 
+// https://marvelcinematicuniverse.fandom.com/wiki/Phase_Six
+export function isPhaseSix ( listing ) {
+    // If it's not MCU
+    // then it's not in a Phase
+    if ( !isMCU( listing ) ) return false
+
+    return betweenDates({
+        listing,
+
+        // Fantastic Four (2024)
+        // https://marvelcinematicuniverse.fandom.com/wiki/Fantastic_Four_(film)
+        start: new Date( 'November 8, 2024' ),
+
+        // Avengers: Secret Wars
+        // https://marvelcinematicuniverse.fandom.com/wiki/Avengers:_Secret_Wars
+        end: new Date( 'November 7, 2025' ),
+    })
+
+}
+
 export function isAnimatedGenre ( listing ) {
     if ( !hasAnyGenres( listing ) ) return false
 
