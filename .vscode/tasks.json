@@ -3,10 +3,10 @@
 	"tasks": [
 		{
 			"type": "npm",
-			"script": "dev",
+			"script": "dev-netlify",
 			"problemMatcher": [],
-			"label": "npm: dev",
-			"detail": "astro dev",
+			"label": "npm: dev-netlify",
+			"detail": "netlify dev",
 			"group": {
 				"kind": "build",
 				"isDefault": true
