@@ -47,7 +47,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/zG1afF2a1FV4L3YBtz69JHIhu3z.jpg",
+		"backdrop_path": "/gxD8XuzBzTef2A4yKQ3cRRDl3rr.jpg",
 		"genre_ids": [
 			10759,
 			18,
@@ -61,7 +61,7 @@
 		"original_language": "en",
 		"original_name": "Secret Invasion",
 		"overview": "Nick Fury and Talos discover a faction of shapeshifting Skrulls who have been infiltrating Earth for years.",
-		"poster_path": "/qRNTyyJ7jPo0UPbr3kcUVtfjmjE.jpg",
+		"poster_path": "/ySkya7tPCuT1a4gsewyNzRi9cli.jpg",
 		"vote_average": 0,
 		"title": "Secret Invasion",
 		"slug": "secret-invasion",
@@ -126,24 +126,24 @@
 			10765
 		],
 		"id": 138501,
-		"name": "Agatha: House of Harkness",
+		"name": "Agatha: Coven of Chaos",
 		"origin_country": [
 			"US"
 		],
 		"original_language": "en",
-		"original_name": "Agatha: House of Harkness",
+		"original_name": "Agatha: Coven of Chaos",
 		"overview": "Follows Agatha Harkness before and after her appearance in WandaVision.",
-		"poster_path": "/akjfAgmQ6KEP5exgJ2DLyyom9Eq.jpg",
+		"poster_path": "/A4JyrpPCsw57E0JHcZK7TDPVPqP.jpg",
 		"vote_average": 0,
-		"title": "Agatha: House of Harkness",
-		"slug": "agatha-house-of-harkness",
+		"title": "Agatha: Coven of Chaos",
+		"slug": "agatha-coven-of-chaos",
 		"tags": [
 			"tv",
 			"company-420"
 		]
 	},
 	{
-		"backdrop_path": "/kph3G35tXwwClkUlEKjvFskzqVD.jpg",
+		"backdrop_path": null,
 		"genre_ids": [
 			16,
 			10759
@@ -240,17 +240,17 @@
 		"first_air_date": "",
 		"genre_ids": [],
 		"id": 202555,
-		"name": "Untitled Daredevil Series",
+		"name": "Daredevil: Born Again",
 		"origin_country": [
 			"US"
 		],
 		"original_language": "en",
-		"original_name": "Untitled Daredevil Series",
+		"original_name": "Daredevil: Born Again",
 		"overview": "",
-		"poster_path": null,
+		"poster_path": "/t2MKhbLkSlMduIukClOXFMK9LhP.jpg",
 		"vote_average": 0,
-		"title": "Untitled Daredevil Series",
-		"slug": "untitled-daredevil-series",
+		"title": "Daredevil: Born Again",
+		"slug": "daredevil-born-again",
 		"tags": [
 			"tv",
 			"company-420"
@@ -300,47 +300,6 @@
 		"tags": [
 			"movie",
 			"company-7505"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/qlwBv4v6EoeN2JxGWziT2kSyoVe.jpg",
-		"genre_ids": [
-			878
-		],
-		"id": 617126,
-		"original_language": "en",
-		"original_title": "Fantastic Four",
-		"overview": "",
-		"poster_path": "/jatnqRPnxjg2Q6cFsAjmrBNhx9.jpg",
-		"title": "Fantastic Four",
-		"video": false,
-		"vote_average": 0,
-		"slug": "fantastic-four",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
-			878
-		],
-		"id": 617129,
-		"original_language": "en",
-		"original_title": "The Mutants",
-		"overview": "Upcoming Marvel Studios film announced as in development at SDCC 2019.",
-		"poster_path": null,
-		"release_date": "",
-		"title": "The Mutants",
-		"video": false,
-		"vote_average": 0,
-		"slug": "the-mutants",
-		"tags": [
-			"movie",
-			"company-420"
 		]
 	},
 	{
@@ -476,12 +435,81 @@
 	{
 		"adult": false,
 		"backdrop_path": null,
+		"genre_ids": [
+			28,
+			878
+		],
+		"id": 1003598,
+		"original_language": "en",
+		"original_title": "Avengers: Secret Wars",
+		"overview": "An upcoming Phase 6 MCU film that will be the end of The Multiverse Saga.",
+		"poster_path": "/8chwENebfUEJzZ7sMUA0nOgiCKk.jpg",
+		"release_date": "2025-11-07",
+		"title": "Avengers: Secret Wars",
+		"video": false,
+		"vote_average": 0,
+		"slug": "avengers-secret-wars",
+		"tags": [
+			"movie",
+			"company-420",
+			"list-8204859"
+		],
+		"media_type": "movie"
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			28,
+			878
+		],
+		"id": 1003596,
+		"original_language": "en",
+		"original_title": "Avengers: The Kang Dynasty",
+		"overview": "An upcoming Phase 6 MCU film announced at SDCC 2022.",
+		"poster_path": "/utZTb3VBrH0zR77BcISU67pHuAx.jpg",
+		"release_date": "2025-05-02",
+		"title": "Avengers: The Kang Dynasty",
+		"video": false,
+		"vote_average": 0,
+		"slug": "avengers-the-kang-dynasty",
+		"tags": [
+			"movie",
+			"company-420",
+			"list-8204859"
+		],
+		"media_type": "movie"
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/qlwBv4v6EoeN2JxGWziT2kSyoVe.jpg",
+		"genre_ids": [
+			878
+		],
+		"id": 617126,
+		"original_language": "en",
+		"original_title": "Fantastic Four",
+		"overview": "",
+		"poster_path": "/jatnqRPnxjg2Q6cFsAjmrBNhx9.jpg",
+		"release_date": "2024-11-08",
+		"title": "Fantastic Four",
+		"video": false,
+		"vote_average": 0,
+		"slug": "fantastic-four",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
 		"genre_ids": [],
 		"id": 986056,
 		"original_language": "en",
 		"original_title": "Thunderbolts",
 		"overview": "A group of supervillains and antiheroes go on missions for the government. Based on the comic book series of the same name.",
-		"poster_path": null,
+		"poster_path": "/dHhniU1vz1C0j27AFdcsPmq6xu.jpg",
 		"release_date": "2024-07-26",
 		"title": "Thunderbolts",
 		"video": false,
@@ -527,7 +555,7 @@
 		"original_language": "en",
 		"original_title": "Captain America: New World Order",
 		"overview": "A sequel to Marvel Studios' The Falcon and the Winter Soldier and follows Sam Wilson as the new Captain America.",
-		"poster_path": "/fYyB5IApuVmZBwd84OPNev8mq4L.jpg",
+		"poster_path": "/jNWaUMmnQ26fiz2B6tIn0aC9fO0.jpg",
 		"release_date": "2024-05-03",
 		"title": "Captain America: New World Order",
 		"video": false,
@@ -688,7 +716,7 @@
 		"original_language": "en",
 		"original_title": "Guardians of the Galaxy Vol. 3",
 		"overview": "The third and final film in the Guardians of the Galaxy trilogy.",
-		"poster_path": "/1neAtYqPFfuyzpOnj3ZVDXtGXLf.jpg",
+		"poster_path": "/cVrr7gSBD0w3ZuCnUrnShKB2OIC.jpg",
 		"release_date": "2023-05-03",
 		"title": "Guardians of the Galaxy Vol. 3",
 		"video": false,
@@ -710,8 +738,8 @@
 		"id": 640146,
 		"original_language": "en",
 		"original_title": "Ant-Man and the Wasp: Quantumania",
-		"overview": "The third film in the Marvel Studios' Ant-Man trilogy.",
-		"poster_path": "/mYCBuVGQGWPlUNZQusdHfbSzP1h.jpg",
+		"overview": "Super Hero partners Scott Lang and Hope Van Dyne, together with Hope’s parents Hank Pym and Janet Van Dyne, find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought was possible.",
+		"poster_path": "/4WD4HRsUyTEIn1WJ59aQ1ChM4cW.jpg",
 		"release_date": "2023-02-15",
 		"title": "Ant-Man and the Wasp: Quantumania",
 		"video": false,
@@ -755,8 +783,8 @@
 		"id": 505642,
 		"original_language": "en",
 		"original_title": "Black Panther: Wakanda Forever",
-		"overview": "The sequel to Black Panther (2018).",
-		"poster_path": "/6N6Rr1Y5wsi2KbTP4hFAP3hnWQE.jpg",
+		"overview": "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death. As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
+		"poster_path": "/4fkz8Gx3Laxufktpw20iOnnYTwv.jpg",
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
@@ -839,29 +867,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/p1F51Lvj3sMopG948F5HsBbl43C.jpg",
-		"genre_ids": [
-			28,
-			12,
-			14
-		],
-		"id": 616037,
-		"original_language": "en",
-		"original_title": "Thor: Love and Thunder",
-		"overview": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now inexplicably wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
-		"poster_path": "/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
-		"release_date": "2022-07-08",
-		"title": "Thor: Love and Thunder",
-		"video": false,
-		"vote_average": 6.7,
-		"slug": "thor-love-and-thunder",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": "/coxMHDtNRcyNmriZFCxpwqmlxjS.jpg",
 		"genre_ids": [
 			99,
@@ -877,6 +882,29 @@
 		"video": false,
 		"vote_average": 5.6,
 		"slug": "the-making-of-doctor-strange-in-the-multiverse-of-madness",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/p1F51Lvj3sMopG948F5HsBbl43C.jpg",
+		"genre_ids": [
+			28,
+			12,
+			14
+		],
+		"id": 616037,
+		"original_language": "en",
+		"original_title": "Thor: Love and Thunder",
+		"overview": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now inexplicably wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
+		"poster_path": "/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+		"release_date": "2022-07-06",
+		"title": "Thor: Love and Thunder",
+		"video": false,
+		"vote_average": 6.7,
+		"slug": "thor-love-and-thunder",
 		"tags": [
 			"movie",
 			"company-420"
@@ -942,7 +970,7 @@
 		"release_date": "2022-05-25",
 		"title": "ASSEMBLED: The Making of Moon Knight",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.8,
 		"slug": "assembled-the-making-of-moon-knight",
 		"tags": [
 			"movie",

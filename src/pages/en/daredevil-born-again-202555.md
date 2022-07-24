@@ -14,17 +14,17 @@ release_date: "2024-04"
     "first_air_date": "",
     "genre_ids": [],
     "id": 202555,
-    "name": "Untitled Daredevil Series",
+    "name": "Daredevil: Born Again",
     "origin_country": [
         "US"
     ],
     "original_language": "en",
-    "original_name": "Untitled Daredevil Series",
+    "original_name": "Daredevil: Born Again",
     "overview": "",
-    "poster_path": null,
+    "poster_path": "/t2MKhbLkSlMduIukClOXFMK9LhP.jpg",
     "vote_average": 0,
-    "title": "Untitled Daredevil Series",
-    "slug": "untitled-daredevil-series",
+    "title": "Daredevil: Born Again",
+    "slug": "daredevil-born-again",
     "tags": [
         "tv",
         "company-420"

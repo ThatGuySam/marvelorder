@@ -12,6 +12,7 @@ release_date: 2023-04
 ## TMDB Data
 ```json
 {
+    "backdrop_path": "/gxD8XuzBzTef2A4yKQ3cRRDl3rr.jpg",
     "genre_ids": [
         10759,
         18,
@@ -25,7 +26,7 @@ release_date: 2023-04
     "original_language": "en",
     "original_name": "Secret Invasion",
     "overview": "Nick Fury and Talos discover a faction of shapeshifting Skrulls who have been infiltrating Earth for years.",
-    "poster_path": "/qRNTyyJ7jPo0UPbr3kcUVtfjmjE.jpg",
+    "poster_path": "/ySkya7tPCuT1a4gsewyNzRi9cli.jpg",
     "vote_average": 0,
     "title": "Secret Invasion",
     "slug": "secret-invasion",

@@ -14,6 +14,7 @@ genre_ids:
 ```json
 {
     "adult": false,
+    "backdrop_path": "/jRSAkKG9QSu6Nc1zvI3ejmgLshe.jpg",
     "genre_ids": [
         28,
         12,
@@ -23,7 +24,7 @@ genre_ids:
     "original_language": "en",
     "original_title": "Guardians of the Galaxy Vol. 3",
     "overview": "The third and final film in the Guardians of the Galaxy trilogy.",
-    "poster_path": "/1neAtYqPFfuyzpOnj3ZVDXtGXLf.jpg",
+    "poster_path": "/cVrr7gSBD0w3ZuCnUrnShKB2OIC.jpg",
     "release_date": "2023-05-03",
     "title": "Guardians of the Galaxy Vol. 3",
     "video": false,

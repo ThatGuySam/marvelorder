@@ -19,6 +19,7 @@ logo_on_black: /.netlify/functions/tmdb-image/jatnqRPnxjg2Q6cFsAjmrBNhx9.webp
     "original_title": "Fantastic Four",
     "overview": "",
     "poster_path": "/jatnqRPnxjg2Q6cFsAjmrBNhx9.jpg",
+    "release_date": "2024-11-08",
     "title": "Fantastic Four",
     "video": false,
     "vote_average": 0,
