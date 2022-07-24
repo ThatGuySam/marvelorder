@@ -23,3 +23,8 @@
     from = "/en/untitled-marvel-halloween-special-894205"
     to = "/en/werewolf-by-night-894205"
     status = 301
+
+[[redirects]]
+    from = "/en/captain-america-4-894205"
+    to = "/en/captain-america-new-world-order-822119"
+    status = 301
