@@ -17,8 +17,12 @@ const slug = pageUrl.pathname.split('/').at( -2 )
 // Get listings from slug
 const listings = await getListingsFromSlug( slug )
 
+const { content } = Astro.props
+
 ---
-<Layout>
+<Layout
+    content={ content }
+>
 
 
 	<ListingRow
