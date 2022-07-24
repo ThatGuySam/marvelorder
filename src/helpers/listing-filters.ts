@@ -189,6 +189,26 @@ export function isPhaseThree ( listing ) {
     })
 }
 
+// https://marvelcinematicuniverse.fandom.com/wiki/Infinity_Saga
+export function isInfinitySaga ( listing ) {
+    // If it's not MCU
+    // then it's not in a Phase
+    if ( !isMCU( listing ) ) return false
+
+    const phases = [
+        isPhaseOne,
+        isPhaseTwo,
+        isPhaseThree,
+    ]
+
+    for ( const isInPhase of phases ) {
+        if ( isInPhase( listing ) ) return true
+    }
+
+    return false
+}
+
+
 // https://marvelcinematicuniverse.fandom.com/wiki/Phase_Four
 export function isPhaseFour ( listing ) {
     // If it's not MCU
@@ -247,7 +267,7 @@ export function isPhaseSix ( listing ) {
 
 }
 
-// https://marvelcinematicuniverse.fandom.com/wiki/Phase_Six
+// https://marvelcinematicuniverse.fandom.com/wiki/Multiverse_Saga
 export function isMultiverseSaga ( listing ) {
     // If it's not MCU
     // then it's not in a Phase
