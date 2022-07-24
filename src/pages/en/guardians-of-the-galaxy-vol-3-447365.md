@@ -4,7 +4,7 @@ slug: guardians-of-the-galaxy-vol-3
 description: The third and final film in the Guardians of the Galaxy trilogy.
 layout: ../../layouts/MainLayout.astro
 type: movie
-logo_on_black: /.netlify/functions/tmdb-image/1neAtYqPFfuyzpOnj3ZVDXtGXLf.webp
+logo_on_black: /.netlify/functions/tmdb-image/cVrr7gSBD0w3ZuCnUrnShKB2OIC.webp
 genre_ids:
   - 28
   - 12
@@ -14,7 +14,6 @@ genre_ids:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/jRSAkKG9QSu6Nc1zvI3ejmgLshe.jpg",
     "genre_ids": [
         28,
         12,
