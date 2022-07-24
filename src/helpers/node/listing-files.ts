@@ -47,7 +47,7 @@ export async function getListingsFromFilePaths ( filePaths: string[] ) {
     const listings = []
 
     for ( const filePath of filePaths ) {
-        const { listing } = await getListingFromFile( filePath )
+        const { listing, tmdb } = await getListingFromFile( filePath )
 
         // if the listing is disabled, skip it
         // Draft doubles as disable since it's used by Astro
@@ -56,7 +56,10 @@ export async function getListingsFromFilePaths ( filePaths: string[] ) {
             continue
         }
 
-        listings.push( listing )
+
+
+        // Merge listing data
+        listings.push( mergeListingData( tmdb, listing ) )
     }
 
     return listings
