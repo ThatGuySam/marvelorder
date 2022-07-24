@@ -1,0 +1,35 @@
+---
+// @ts-ignore
+import { getListingsFromSlug } from '~/src/helpers/node/listing-files.ts'
+// @ts-ignore
+import { convertNullValuesForAstro } from '~/src/helpers/listing.ts'
+
+import Layout from './HorizontalScroll.astro'
+import ListingRow from '~/src/components/listing-row.vue'
+
+
+
+const pageUrl = Astro.url || Astro.canonicalURL
+// Get last part of URL
+const slug = pageUrl.pathname.split('/').at( -2 )
+
+const listings = await getListingsFromSlug( slug )
+
+---
+<Layout>
+
+
+	<ListingRow
+		client:load
+		listings={ convertNullValuesForAstro( listings ) }
+		initial-sort="default"
+	/>
+
+
+	<script is:inline>
+		const initialListing = document.querySelector('.listing-card-initial')
+		// Trigger scroll to out upcoming listing here
+		// so that we don't have to wait for Vue to hydrate
+		document.querySelector('.listing-row').scrollLeft = initialListing.offsetLeft - window.innerWidth + initialListing.offsetWidth * 1.75
+	</script>
+</Layout>
