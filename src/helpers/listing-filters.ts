@@ -208,6 +208,25 @@ export function isPhaseFour ( listing ) {
     })
 }
 
+// https://marvelcinematicuniverse.fandom.com/wiki/Phase_Five
+export function isPhaseFive ( listing ) {
+    // If it's not MCU
+    // then it's not in a Phase
+    if ( !isMCU( listing ) ) return false
+
+    return betweenDates({
+        listing,
+
+        // Ant-Man and the Wasp: Quantumania
+        // https://marvelcinematicuniverse.fandom.com/wiki/Ant-Man_and_the_Wasp:_Quantumania
+        start: new Date( 'February 17, 2023' ),
+
+        // Thunderbolts
+        // https://marvelcinematicuniverse.fandom.com/wiki/Thunderbolts_(film)
+        end: new Date( 'July 26, 2024' ),
+    })
+}
+
 export function isAnimatedGenre ( listing ) {
     if ( !hasAnyGenres( listing ) ) return false
 
