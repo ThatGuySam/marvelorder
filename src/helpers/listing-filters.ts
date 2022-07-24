@@ -189,6 +189,25 @@ export function isPhaseThree ( listing ) {
     })
 }
 
+// https://marvelcinematicuniverse.fandom.com/wiki/Phase_Four
+export function isPhaseFour ( listing ) {
+    // If it's not MCU
+    // then it's not in a Phase
+    if ( !isMCU( listing ) ) return false
+
+    return betweenDates({
+        listing,
+
+        // WandaVision
+        // https://marvelcinematicuniverse.fandom.com/wiki/WandaVision
+        start: new Date( 'January 15, 2021' ),
+
+        // Black Panther: Wakanda Forever
+        // https://marvelcinematicuniverse.fandom.com/wiki/Black_Panther:_Wakanda_Forever
+        end: new Date( 'November 11, 2022' ),
+    })
+}
+
 export function isAnimatedGenre ( listing ) {
     if ( !hasAnyGenres( listing ) ) return false
 
