@@ -132,24 +132,38 @@ export function isPhaseOne ( listing ) {
     // then it's not Phase One
     if ( !isMCU( listing ) ) return false
 
-    const listingDate = listing.date?.valueOf() || theFuture
+    return betweenDates({
+        listing,
+        // First Iron Man
+        // May 2, 2008 - According to Google
+        // April 1, 2008 - According to TMDb
+        start: new Date( 2008, 2, 5 ),
 
-    // May 2, 2008 - According to Google
-    // April 1, 2008 - According to TMDb
-    const ironManRelease = new Date( 2008, 2, 5 )
-    const isBeforeIronMan = listingDate < ironManRelease
-
-    if ( isBeforeIronMan ) return false
-
-    // Is after the first Avengers movie
-    // May 4, 2012 - Google
-    const avengersRelease = new Date( 2012, 4, 5 )
-    const isAfterFirstAvengers = avengersRelease < listingDate
-
-    if ( isAfterFirstAvengers ) return false
+        // First Avengers movie
+        // May 4, 2012 - Google
+        end: new Date( 2012, 4, 5 )
+    })
+}
 
 
-    return true
+// https://marvelcinematicuniverse.fandom.com/wiki/Phase_Two
+export function isPhaseTwo ( listing ) {
+    // If it's not MCU
+    // then it's not in a Phase
+    if ( !isMCU( listing ) ) return false
+
+    return betweenDates({
+        listing,
+        // Third Iron Man
+        // https://marvelcinematicuniverse.fandom.com/wiki/Iron_Man_3
+        // May 3, 2013
+        start: new Date( 2013, 3, 5 ),
+
+        // First Ant-Man
+        // https://marvelcinematicuniverse.fandom.com/wiki/Ant-Man_(film)
+        // July 17, 2015
+        end: new Date( 2015, 14, 7 )
+    })
 }
 
 export function isAnimatedGenre ( listing ) {
