@@ -167,6 +167,28 @@ export function isPhaseTwo ( listing ) {
     })
 }
 
+
+// https://marvelcinematicuniverse.fandom.com/wiki/Phase_Three
+export function isPhaseThree ( listing ) {
+    // If it's not MCU
+    // then it's not in a Phase
+    if ( !isMCU( listing ) ) return false
+
+    return betweenDates({
+        listing,
+
+        // Captain America: Civil War
+        // https://marvelcinematicuniverse.fandom.com/wiki/Captain_America:_Civil_War
+        // May 6, 2016
+        start: new Date( 'May 6, 2016' ),
+
+        // Spider-Man: Far From Home
+        // https://marvelcinematicuniverse.fandom.com/wiki/Spider-Man:_Far_From_Home
+        // July 2, 2019
+        end: new Date( 'July 2, 2019' ),
+    })
+}
+
 export function isAnimatedGenre ( listing ) {
     if ( !hasAnyGenres( listing ) ) return false
 
