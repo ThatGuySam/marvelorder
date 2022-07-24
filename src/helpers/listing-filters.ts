@@ -78,6 +78,7 @@ export function isMarvelStudios ( listing ) {
 }
 
 const theFuture = new Date( 999999999999999 )
+const oneDay = 24 * 60 * 60 * 1000
 
 export function isMCU ( listing ) {
     if ( !hasAnyTags( listing ) ) return false
@@ -236,6 +237,9 @@ export function matchesFilters ( filters ) {
 
 function betweenDates ( {
     listing,
+    // Threshold to compensate for slightly off dates
+    threshold = oneDay * 10,
+
     start,
     end
 } ) {
@@ -243,11 +247,10 @@ function betweenDates ( {
 
     const listingDate = listing.date?.valueOf()
 
-    const isBefore = listingDate < start
+    const isBefore = listingDate < ( Number( start ) - threshold)
     if ( isBefore ) return false
 
-    const isAfter = end < listingDate
-
+    const isAfter = ( Number( end ) + threshold ) < listingDate
     if ( isAfter ) return false
 
 
