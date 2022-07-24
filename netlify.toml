@@ -10,6 +10,11 @@
 
 # https://docs.netlify.com/configure-builds/file-based-configuration/#redirects
 [[redirects]]
-  from = "/tmbd-image*"
-  to = "/.netlify/functions/tmdb-image/:splat"
-  status = 200
+    from = "/tmbd-image*"
+    to = "/.netlify/functions/tmdb-image/:splat"
+    status = 200
+
+[[redirects]]
+    from = "/en/untitled-destin-daniel-cretton-disney-series-198178/"
+    to = "/en/wonder-man-198178"
+    status = 301
