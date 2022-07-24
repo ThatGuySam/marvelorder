@@ -15,6 +15,11 @@
     status = 200
 
 [[redirects]]
-    from = "/en/untitled-destin-daniel-cretton-disney-series-198178/"
+    from = "/en/untitled-destin-daniel-cretton-disney-series-198178"
     to = "/en/wonder-man-198178"
+    status = 301
+
+[[redirects]]
+    from = "/en/untitled-marvel-halloween-special-894205"
+    to = "/en/werewolf-by-night-894205"
     status = 301

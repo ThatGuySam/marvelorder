@@ -6,6 +6,11 @@ description: >-
   Night.
 layout: ../../layouts/MainLayout.astro
 ---
+
+
+Previous titles: 
+- Untitled Marvel Halloween Special
+
 ## TMDB Data
 ```json
 {
