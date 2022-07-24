@@ -220,6 +220,26 @@ export function matchesFilters ( filters ) {
     return filtersFunction
 }
 
+function betweenDates ( {
+    listing,
+    start,
+    end
+} ) {
+    if ( !listing?.date?.valueOf() ) return false
+
+    const listingDate = listing.date?.valueOf()
+
+    const isBefore = listingDate < start
+    if ( isBefore ) return false
+
+    const isAfter = end < listingDate
+
+    if ( isAfter ) return false
+
+
+    return true
+}
+
 // We'll use a map
 // so that we're allowed to set the function as the key
 export const defaultFilters = new Map([
