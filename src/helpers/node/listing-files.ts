@@ -2,10 +2,16 @@
 import fs from 'fs-extra'
 import matter from 'gray-matter'
 import glob from 'fast-glob'
+import { capitalCase } from 'change-case'
 
 
 // @ts-ignore
 import { listingsGlobPattern } from '~/src/config.ts'
+import {
+    makeSlug,
+    mergeListingData
+// @ts-ignore
+} from '~/src/helpers/node/listing.ts'
 import {
     makeNewListingContents,
     getDataFromListingContents
@@ -15,15 +21,14 @@ import {
 // @ts-ignore
 import { Listing } from '~/src/helpers/types.ts'
 // @ts-ignore
-import {
-    mergeListingData
-// @ts-ignore
-} from '~/src/helpers/node/listing.ts'
+import * as filterExports from '~/src/helpers/listing-filters.ts'
+
 import {
     isUpcoming,
     FilteredListings
 // @ts-ignore
 } from '~/src/helpers/listing-filters.ts'
+
 
 
 
@@ -227,4 +232,47 @@ export async function writeMarkdownFileNode ({ path, markdownBody, pageMeta }) {
     // console.log('markdownContent', markdownContent)
 
     await fs.writeFile( path, markdownContent )
+}
+
+
+function findFilterFromSlug ( fromSlug:string = '' ) {
+    for ( const exportName of Object.keys( filterExports ) ) {
+        const name = capitalCase( exportName.replace( /^(is)/, '' ) )
+        const slug = makeSlug( name )
+
+        if ( fromSlug === slug ) {
+            // console.log( 'exportName', exportName )
+            // console.log( 'name', name )
+            // console.log( 'slug', slug )
+
+            return {
+                name,
+                slug,
+                exportName,
+                filter: filterExports[ exportName ]
+            }
+        }
+    }
+
+    throw new Error(`No filter found for slug ${ fromSlug }`)
+}
+
+export async function getListingsFromSlug ( slug:string = '' ) {
+    if ( !slug ) throw new Error( 'slug must be a string' )
+
+    const filter = findFilterFromSlug( slug )
+
+    const baseListings = await getAllListings()
+
+    // console.log( 'baseListings', baseListings )
+
+    const filteredListings = new FilteredListings({
+        listings: baseListings,
+        initialFilters: [
+            [ filter.filter, true ]
+        ],
+        listingsSort: 'default'
+    })
+
+    return filteredListings.list
 }
