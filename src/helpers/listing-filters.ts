@@ -48,7 +48,7 @@ export function isDoc ( listing ) {
         return true
     }
 
-    
+
 
 	return false
 }
@@ -89,15 +89,15 @@ export function isMCU ( listing ) {
     // console.log('listingDate', listing.title, listingDate)
 
     // May 5, 2008
-    // April 1, 2008 - According to TMDb 
+    // April 1, 2008 - According to TMDb
     const ironManRelease = new Date( 2008, 3, 29 )
     const isAfterIronMan = listingDate > ironManRelease
 
     // If it's before April 2008(Iron Man)
     // then it's not MCU
     if ( !isAfterIronMan ) return false
-    
-    // August 11, 2021 - According to TMDb 
+
+    // August 11, 2021 - According to TMDb
     const whatIfRelease = new Date( 2021, 7, 1 )
     const isBeforeWhatIf = listingDate < whatIfRelease
 
@@ -119,11 +119,37 @@ export function isPhaseZero ( listing ) {
     const listingDate = listing.date?.valueOf() || theFuture
 
     // May 2, 2008 - According to Google
-    // April 1, 2008 - According to TMDb 
+    // April 1, 2008 - According to TMDb
     const ironManRelease = new Date( 2008, 2, 5 )
     const isBeforeIronMan = listingDate < ironManRelease
 
     return isBeforeIronMan
+}
+
+// https://marvelcinematicuniverse.fandom.com/wiki/Phase_One
+export function isPhaseOne ( listing ) {
+    // If it's not MCU
+    // then it's not Phase One
+    if ( !isMCU( listing ) ) return false
+
+    const listingDate = listing.date?.valueOf() || theFuture
+
+    // May 2, 2008 - According to Google
+    // April 1, 2008 - According to TMDb
+    const ironManRelease = new Date( 2008, 2, 5 )
+    const isBeforeIronMan = listingDate < ironManRelease
+
+    if ( isBeforeIronMan ) return false
+
+    // Is after the first Avengers movie
+    // May 4, 2012 - Google
+    const avengersRelease = new Date( 2012, 4, 5 )
+    const isAfterFirstAvengers = avengersRelease < listingDate
+
+    if ( isAfterFirstAvengers ) return false
+
+
+    return true
 }
 
 export function isAnimatedGenre ( listing ) {
@@ -164,8 +190,8 @@ export function matchesFilters ( filters ) {
     }
 
     // console.log( 'filters', filters )
-    
-    // We create a function here 
+
+    // We create a function here
     // so that we can use it as a filter
     // ex array.filter( matchesFilters( filters ) )
 	const filtersFunction = listing => {
@@ -194,17 +220,17 @@ export function matchesFilters ( filters ) {
     return filtersFunction
 }
 
-// We'll use a map 
+// We'll use a map
 // so that we're allowed to set the function as the key
 export const defaultFilters = new Map([
     [
-        isDoc, 
-        { 
+        isDoc,
+        {
             targetValue: false
         }
     ],
     [
-        isMarvelKnightsAnimated, 
+        isMarvelKnightsAnimated,
         {
             targetValue: false
         }
@@ -254,7 +280,7 @@ export class FilteredListings {
             ...defaultFilters,
             ...initialFilters,
         ])
-        
+
     }
 
     listingsSort : Function
@@ -262,7 +288,7 @@ export class FilteredListings {
     initialListings : Listing[]
 
     activeFilters : Map<Function, { targetValue : Boolean }>
-    
+
 
     withFilters ( extraFilters ) {
         const filters = new Map([
