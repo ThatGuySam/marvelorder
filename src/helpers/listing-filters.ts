@@ -247,6 +247,27 @@ export function isPhaseSix ( listing ) {
 
 }
 
+// https://marvelcinematicuniverse.fandom.com/wiki/Phase_Six
+export function isMultiverseSaga ( listing ) {
+    // If it's not MCU
+    // then it's not in a Phase
+    if ( !isMCU( listing ) ) return false
+
+    const phases = [
+        isPhaseFour,
+        isPhaseFive,
+        isPhaseSix,
+    ]
+
+    for ( const isInPhase of phases ) {
+        if ( isInPhase( listing ) ) return true
+    }
+
+    return false
+}
+
+
+
 export function isAnimatedGenre ( listing ) {
     if ( !hasAnyGenres( listing ) ) return false
 
