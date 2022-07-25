@@ -12,7 +12,7 @@ logo_on_black: /.netlify/functions/fanart/marvels-the-inhumans-590cc04b00a44.web
 rentLinks:
   amazon: >-
     https://www.amazon.com/dp/B0756NHJD3?tag=marvelorder-20&linkCode=osi&th=1&psc=1
-mcuTimelineOrder: 220
+mcuTimelineOrder: 224
 ---
 ## TMDB Data
 ```json

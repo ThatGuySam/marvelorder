@@ -13,7 +13,7 @@ logo_on_black: /.netlify/functions/tmdb-image/uwQbAHY7cttDgcX2Av1mm51PsRx.webp
 rentLinks:
   amazon: >-
     https://www.amazon.com/dp/B00IMYSVY8?tag=marvelorder-20&linkCode=osi&th=1&psc=1
-mcuTimelineOrder: 48
+mcuTimelineOrder: 53
 tags:
   - has-thor
 ---

@@ -15,7 +15,7 @@ logo_on_black: /.netlify/functions/fanart/avengers-infinity-war---part-i-5a4eae6
 rentLinks:
   amazon: >-
     https://www.amazon.com/dp/B07CKNQGLN?tag=marvelorder-20&linkCode=osi&th=1&psc=1
-mcuTimelineOrder: 419
+mcuTimelineOrder: 424
 tags:
   - has-thor
 ---

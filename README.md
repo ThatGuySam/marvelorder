@@ -87,6 +87,9 @@ This is the *most* official list for the Marvel Chronologically, aka by the time
 - May 3, 2024 - [Captain America: New World Order](https://marvelorder.com/en/captain-america-new-world-order-822119) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/captain-america-new-world-order-822119.md)
 - June 4, 2024 - [Venom 3](https://marvelorder.com/en/venom-3-912649) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/venom-3-912649.md)
 - July 26, 2024 - [Thunderbolts](https://marvelorder.com/en/thunderbolts-986056) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/thunderbolts-986056.md)
+- November 8, 2024 - [Fantastic Four](https://marvelorder.com/en/fantastic-four-617126) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/fantastic-four-617126.md)
+- May 2, 2025 - [Avengers: The Kang Dynasty](https://marvelorder.com/en/avengers-the-kang-dynasty-1003596) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/avengers-the-kang-dynasty-1003596.md)
+- November 7, 2025 - [Avengers: Secret Wars](https://marvelorder.com/en/avengers-secret-wars-1003598) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/avengers-secret-wars-1003598.md)
 
 <!-- end-upcoming-list -->
 
@@ -110,9 +113,9 @@ This is the *most* official list for the Marvel Chronologically, aka by the time
 - <kbd>7</kbd> - [Thor](https://marvelorder.com/en/thor-10195) - 🎬 Marvel Studios - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/thor-10195.md)
 - <kbd>8</kbd> - [Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer](https://marvelorder.com/en/marvel-one-shot-a-funny-thing-happened-on-the-way-to-thors-hammer-76535) - 🎬 Marvel Studios - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/marvel-one-shot-a-funny-thing-happened-on-the-way-to-thors-hammer-76535.md)
 - <kbd>9</kbd> - [The Avengers](https://marvelorder.com/en/the-avengers-24428) - 🎬 Marvel Studios - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/the-avengers-24428.md)
-- <kbd>10</kbd> - [Marvel's Agents of S.H.I.E.L.D.](https://marvelorder.com/en/marvels-agents-of-shield-1403) - ⚫️ ABC - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/marvels-agents-of-shield-1403.md)
-- <kbd>11</kbd> - [Thor: The Dark World](https://marvelorder.com/en/thor-the-dark-world-76338) - 🎬 Marvel Studios - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/thor-the-dark-world-76338.md)
-- <kbd>12</kbd> - [Iron Man 3](https://marvelorder.com/en/iron-man-3-68721) - 🎬 Marvel Studios - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/iron-man-3-68721.md)
+- <kbd>10</kbd> - [Iron Man 3](https://marvelorder.com/en/iron-man-3-68721) - 🎬 Marvel Studios - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/iron-man-3-68721.md)
+- <kbd>11</kbd> - [Marvel's Agents of S.H.I.E.L.D.](https://marvelorder.com/en/marvels-agents-of-shield-1403) - ⚫️ ABC - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/marvels-agents-of-shield-1403.md)
+- <kbd>12</kbd> - [Thor: The Dark World](https://marvelorder.com/en/thor-the-dark-world-76338) - 🎬 Marvel Studios - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/thor-the-dark-world-76338.md)
 - <kbd>13</kbd> - [Captain America: The Winter Soldier](https://marvelorder.com/en/captain-america-the-winter-soldier-100402) - 🎬 Marvel Studios - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/captain-america-the-winter-soldier-100402.md)
 - <kbd>14</kbd> - [Guardians of the Galaxy](https://marvelorder.com/en/guardians-of-the-galaxy-118340) - 🎬 Marvel Studios - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/guardians-of-the-galaxy-118340.md)
 - <kbd>15</kbd> - [Guardians of the Galaxy Vol. 2](https://marvelorder.com/en/guardians-of-the-galaxy-vol-2-283995) - 🎬 Marvel Studios - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/guardians-of-the-galaxy-vol-2-283995.md)

@@ -12,7 +12,7 @@ logo_on_black: /.netlify/functions/fanart/marvels-the-avengers-53f39d73300c2.web
 rentLinks:
   amazon: >-
     https://www.amazon.com/dp/B009GEEMLY?tag=marvelorder-20&linkCode=osi&th=1&psc=1
-mcuTimelineOrder: 37
+mcuTimelineOrder: 38
 tags:
   - has-thor
 ---

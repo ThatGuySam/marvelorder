@@ -10,7 +10,7 @@ logo_on_black: /.netlify/functions/fanart/marvels-cloak--dagger-5b1cd013ba251.we
 rentLinks:
   amazon: >-
     https://www.amazon.com/dp/B07DHDV8YL?tag=marvelorder-20&linkCode=osi&th=1&psc=1
-mcuTimelineOrder: 151
+mcuTimelineOrder: 155
 ---
 ## TMDB Data
 ```json

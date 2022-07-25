@@ -46,7 +46,7 @@
       "TYPE": "ABC",
       "TITLE": "Agent Carter Season 1 Episode 6: A Sin to Err",
       "RELEASE_DATE": "2015-02-10T05:00:00.000Z",
-      "NOTES": "Days Until Next Release: 25",
+      "NOTES": "Days Until Next Release: 44790",
       "": ""
     },
     {
@@ -116,7 +116,7 @@
       "TYPE": "ABC",
       "TITLE": "Agent Carter Season 2 Episode 8: The Edge Of Mystery",
       "RELEASE_DATE": "2016-02-23T05:00:00.000Z",
-      "NOTES": 0,
+      "NOTES": 13,
       "": "Minutes"
     },
     {
@@ -156,9 +156,16 @@
     },
     {
       "TYPE": "OTHER",
+      "TITLE": "Howard Stark S.H.I.E.L.D. Classified Files",
+      "RELEASE_DATE": "2010-03-31T04:00:00.000Z",
+      "NOTES": "THIS COLOR = MULTIVERSE",
+      "": ""
+    },
+    {
+      "TYPE": "OTHER",
       "TITLE": "Come To Wakanda - Before",
       "RELEASE_DATE": "2018-06-16T04:00:00.000Z",
-      "NOTES": "THIS COLOR = MULTIVERSE",
+      "NOTES": "",
       "": ""
     },
     {
@@ -179,14 +186,14 @@
       "TYPE": "OTHER",
       "TITLE": "Burger King - Iron Man",
       "RELEASE_DATE": "2008-04-29T04:00:00.000Z",
-      "NOTES": "2022-07-23T04:00:00.000Z",
+      "NOTES": "",
       "": ""
     },
     {
       "TYPE": "OTHER",
       "TITLE": "AccuTech Introducing The HazTech Exoskeleton",
       "RELEASE_DATE": "2010-04-07T04:00:00.000Z",
-      "NOTES": "",
+      "NOTES": "2022-07-24T04:00:00.000Z",
       "": ""
     },
     {
@@ -281,6 +288,34 @@
       "": ""
     },
     {
+      "TYPE": "MOVIE",
+      "TITLE": "Iron Man 3",
+      "RELEASE_DATE": "2013-05-03T04:00:00.000Z",
+      "NOTES": "",
+      "": ""
+    },
+    {
+      "TYPE": "OTHER",
+      "TITLE": "Real Time With Bill Maher on Iron Patriot",
+      "RELEASE_DATE": "2013-09-24T04:00:00.000Z",
+      "NOTES": "",
+      "": ""
+    },
+    {
+      "TYPE": "OTHER",
+      "TITLE": "Fashion Police on Iron Patriot",
+      "RELEASE_DATE": "2013-09-24T04:00:00.000Z",
+      "NOTES": "",
+      "": ""
+    },
+    {
+      "TYPE": "ONE SHOT",
+      "TITLE": "All Hail The King",
+      "RELEASE_DATE": "2014-02-04T05:00:00.000Z",
+      "NOTES": "",
+      "": ""
+    },
+    {
       "TYPE": "OTHER",
       "TITLE": "Rising Tide Video Files",
       "RELEASE_DATE": "2013-05-13T04:00:00.000Z",
@@ -361,20 +396,6 @@
       "TYPE": "ABC",
       "TITLE": "Agents of S.H.I.E.L.D. Season 1 Episode 10: The Bridge",
       "RELEASE_DATE": "2013-12-10T05:00:00.000Z",
-      "NOTES": "",
-      "": ""
-    },
-    {
-      "TYPE": "MOVIE",
-      "TITLE": "Iron Man 3",
-      "RELEASE_DATE": "2013-05-03T04:00:00.000Z",
-      "NOTES": "",
-      "": ""
-    },
-    {
-      "TYPE": "ONE SHOT",
-      "TITLE": "All Hail The King",
-      "RELEASE_DATE": "2014-02-04T05:00:00.000Z",
       "NOTES": "",
       "": ""
     },
@@ -830,6 +851,13 @@
       "TYPE": "ABC",
       "TITLE": "Agents of S.H.I.E.L.D. Season 2 Episode 22: S.O.S. Part 2",
       "RELEASE_DATE": "2015-05-12T04:00:00.000Z",
+      "NOTES": "",
+      "": ""
+    },
+    {
+      "TYPE": "OTHER",
+      "TITLE": "Meet Darren Cross of Cross Technology",
+      "RELEASE_DATE": "2015-06-25T04:00:00.000Z",
       "NOTES": "",
       "": ""
     },
@@ -2605,6 +2633,13 @@
       "": ""
     },
     {
+      "TYPE": "OTHER",
+      "TITLE": "Online Close-Up Magic University",
+      "RELEASE_DATE": "2018-09-25T04:00:00.000Z",
+      "NOTES": "",
+      "": ""
+    },
+    {
       "TYPE": "MOVIE",
       "TITLE": "Ant-Man and the Wasp",
       "RELEASE_DATE": "2018-07-06T04:00:00.000Z",
@@ -3585,6 +3620,13 @@
       "": ""
     },
     {
+      "TYPE": "OTHER",
+      "TITLE": "Teachers' Travel Tips | Voyage",
+      "RELEASE_DATE": "2020-01-24T05:00:00.000Z",
+      "NOTES": "",
+      "": ""
+    },
+    {
       "TYPE": "DAILY BUGLE",
       "TITLE": "TheDailyBugle.net: EXCLUSIVE Spider-Man Unmasked Full Story Credit The Daily Bugle J. Jonah Jameson",
       "RELEASE_DATE": "2019-10-30T04:00:00.000Z",
@@ -3959,6 +4001,13 @@
       "TYPE": "MOVIE",
       "TITLE": "Thor: Love And Thunder",
       "RELEASE_DATE": "2022-07-08T04:00:00.000Z",
+      "NOTES": "",
+      "": ""
+    },
+    {
+      "TYPE": "OTHER",
+      "TITLE": "Jennifer Walters' Phone Recording",
+      "RELEASE_DATE": "2022-07-21T04:00:00.000Z",
       "NOTES": "",
       "": ""
     }

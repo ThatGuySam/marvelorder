@@ -21,7 +21,7 @@ tags:
     "id": 1003596,
     "original_language": "en",
     "original_title": "Avengers: The Kang Dynasty",
-    "overview": "An upcoming Phase 6 MCU film announced at SDCC 2022.",
+    "overview": "An upcoming Phase 6 Marvel Cinematic Universe film and part of The Multiverse Saga.",
     "poster_path": "/utZTb3VBrH0zR77BcISU67pHuAx.jpg",
     "release_date": "2025-05-02",
     "title": "Avengers: The Kang Dynasty",

@@ -10,7 +10,7 @@ logo_on_black: /.netlify/functions/tmdb-image/6N6Rr1Y5wsi2KbTP4hFAP3hnWQE.webp
 ```json
 {
     "adult": false,
-    "backdrop_path": "/jfD92h1JMirOJqgSfc1qnSbnEv2.jpg",
+    "backdrop_path": "/3S0cBoYoRg8QbxqVriyppchBUAm.jpg",
     "genre_ids": [
         28,
         12,
