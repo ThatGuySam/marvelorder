@@ -20,7 +20,7 @@ const listsByUrl = Object.fromEntries( lists.map( l => [ l.url, l ] ) )
 function menuItemFromUrl( url, label = null ) {
     const list = listsByUrl[ url ]
 
-    console.log( 'list', list )
+    // console.log( 'list', list )
 
     return {
         name: label ?? list.frontmatter.title,
