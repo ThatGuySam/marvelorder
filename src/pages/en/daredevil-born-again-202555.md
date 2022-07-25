@@ -6,7 +6,7 @@ layout: ../../layouts/MainLayout.astro
 logo_on_black: /.netlify/functions/tmdb-image/t2MKhbLkSlMduIukClOXFMK9LhP.webp
 type: tv
 # Spring 2024 - https://www.marvel.com/articles/movies/sdcc-2022-all-of-the-marvel-studios-news-coming-out-of-hall-h-at-san-diego-comic-con
-release_date: "2024-04"
+release_date: "Spring 2024"
 ---
 ## TMDB Data
 ```json

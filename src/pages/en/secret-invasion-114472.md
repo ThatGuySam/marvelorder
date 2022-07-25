@@ -7,7 +7,7 @@ description: >-
 layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/tmdb-image/ySkya7tPCuT1a4gsewyNzRi9cli.webp
-release_date: 2023-04
+release_date: 'Spring 2023'
 ---
 ## TMDB Data
 ```json
