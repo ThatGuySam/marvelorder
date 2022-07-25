@@ -9,7 +9,11 @@ import { Listing } from '~/src/helpers/types.ts'
 import {
     makeListingEndpoint,
     listingMergeConfig,
-    makeTmdbImageUrl
+    makeTmdbImageUrl,
+    getDateString,
+    hasDate,
+    getSeasonReleaseDate,
+    getIsoDate
 // @ts-ignore
 } from '~/src/helpers/listing.ts'
 
@@ -78,19 +82,40 @@ export class MappedListing {
     isMappedListing = true
 
     get dateString () {
-        return this.sourceListing.release_date || this.sourceListing.first_air_date
+        return getDateString( this.sourceListing )
+    }
+
+    get isoDate () {
+        return getIsoDate( this.sourceListing )
     }
 
     get date () {
-        return DateTime.fromISO( this.dateString )
+        return DateTime.fromISO( this.isoDate )
     }
 
     get hasDate () {
-        return !!this.dateString
+        return hasDate( this.sourceListing )
+    }
+
+    get hasSeasonReleaseDate () {
+        return !!this.season
+    }
+
+    get hasSpecificDate () {
+        if ( !this.hasDate ) {
+            return false
+        }
+
+        // Has at least 2 dashes
+        return this.dateString.split( '-' ).length > 2
     }
 
     get year () {
         return this.date.year
+    }
+
+    get season () {
+        return getSeasonReleaseDate( this.sourceListing )
     }
 
     get dateHumanReadable () {
@@ -101,6 +126,10 @@ export class MappedListing {
 
         if ( typeof this.dateString === 'string' && this.dateString.trim().length === 4 ) {
             return this.date.year
+        }
+
+        if ( this.hasSeasonReleaseDate ) {
+            return this.dateString
         }
 
         return `${ this.date.monthLong } ${ this.date.year }`
