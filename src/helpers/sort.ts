@@ -2,13 +2,19 @@
 // @ts-ignore
 import { Listing } from './types.ts'
 
+import {
+    hasLogo,
+    getDateString,
+    getIsoDate
+// @ts-ignore
+} from './listing.ts'
 
 export const byDefaultListingSort = byPremiereReversed
 
 const bigOleNumber = 9999999999999999
 
 export const sortTypes:any = {
-	'default': byDefaultListingSort, 
+	'default': byDefaultListingSort,
 	'none': noSort,
 	'timeline': byTimelineOrder,
 	'premiere': byPremiere,
@@ -19,20 +25,18 @@ export function getSortByName ( sortType:string ) {
     return sortTypes[ sortType ]
 }
 
-function hasLogo ( listing:Listing ) {
-    return listing?.logo_on_black
-}
-
 function getTitleDate ( listing:Listing ) {
 
     const isMappedListing = Object.keys( listing ).includes('isMappedListing')//typeof listing.isMappedListing !== 'undefined'
 
     const sourceListing = isMappedListing ? listing.sourceListing : listing
-    const dateString = sourceListing?.release_date || sourceListing?.first_air_date
+    // const dateString = sourceListing?.release_date || sourceListing?.first_air_date
+    const dateString = getDateString( listing )
 
 
     if ( !!dateString ) {
-        return new Date( dateString )
+        const isoDate = getIsoDate( sourceListing )
+        return new Date( isoDate )
     }
 
     if ( hasLogo( listing ) ) {
@@ -66,7 +70,7 @@ export function byTimelineOrder ( a:Listing, b:Listing ) {
     if ( aOrder > bOrder ) {
         return 1
     }
-    
+
     if ( aOrder < bOrder ) {
         return -1
     }
