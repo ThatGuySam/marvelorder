@@ -102,6 +102,7 @@ This is the *most* official list for the Marvel Chronologically, aka by the time
 
 
 ## Viewing Order List
+Viewing Order data provided thanks to [r/MarvelStudios MCU Viewing Order Sheet](https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_wKs/edit#gid=0)
 
 <!-- start-viewing-order-list -->
 
@@ -163,6 +164,3 @@ This is the *most* official list for the Marvel Chronologically, aka by the time
 - <kbd>56</kbd> - [Thor: Love and Thunder](https://marvelorder.com/en/thor-love-and-thunder-616037) - 🎬 Marvel Studios - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/thor-love-and-thunder-616037.md)
 
 <!-- end-viewing-order-list -->
-
-
-Viewing Order data provided thanks to [r/MarvelStudios MCU Viewing Order Sheet](https://docs.google.com/spreadsheets/d/1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_wKs/edit#gid=0)
