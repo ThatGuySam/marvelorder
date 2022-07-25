@@ -28,3 +28,11 @@
     from = "/en/captain-america-4-894205"
     to = "/en/captain-america-new-world-order-822119"
     status = 301
+
+[[redirects]]
+    from = "/en/agatha-house-of-harkness-138501"
+    to = "/en/agatha-coven-of-chaos-138501"
+    status = 301
+
+
+

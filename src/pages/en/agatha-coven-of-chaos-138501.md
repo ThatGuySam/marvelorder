@@ -1,26 +1,17 @@
 ---
 title: 'Agatha: Coven of Chaos'
-slug: agatha-coven-of-chaos
+slug: agatha-house-of-harkness
 description: Follows Agatha Harkness before and after her appearance in WandaVision.
 layout: ../../layouts/MainLayout.astro
-backdrop_path: null
-genre_ids:
-  - 35
-  - 10759
-  - 10765
-id: 138501
-name: 'Agatha: Coven of Chaos'
-origin_country:
-  - US
-original_language: en
-original_name: 'Agatha: Coven of Chaos'
+type: tv
+logo_on_black: /.netlify/functions/tmdb-image/A4JyrpPCsw57E0JHcZK7TDPVPqP.webp
 overview: Follows Agatha Harkness before and after her appearance in WandaVision.
-poster_path: /A4JyrpPCsw57E0JHcZK7TDPVPqP.jpg
-vote_average: 0
-tags:
-  - tv
-  - company-420
+# Winter 2023 - https://www.marvel.com/articles/movies/sdcc-2022-all-of-the-marvel-studios-news-coming-out-of-hall-h-at-san-diego-comic-con
+release_date: 'Winter 2023'
 ---
+
+Previous titles: 
+- Agatha: House of Harkness
 ## TMDB Data
 ```json
 {
@@ -31,17 +22,17 @@ tags:
         10765
     ],
     "id": 138501,
-    "name": "Agatha: Coven of Chaos",
+    "name": "Agatha: House of Harkness",
     "origin_country": [
         "US"
     ],
     "original_language": "en",
-    "original_name": "Agatha: Coven of Chaos",
+    "original_name": "Agatha: House of Harkness",
     "overview": "Follows Agatha Harkness before and after her appearance in WandaVision.",
-    "poster_path": "/A4JyrpPCsw57E0JHcZK7TDPVPqP.jpg",
+    "poster_path": "/akjfAgmQ6KEP5exgJ2DLyyom9Eq.jpg",
     "vote_average": 0,
-    "title": "Agatha: Coven of Chaos",
-    "slug": "agatha-coven-of-chaos",
+    "title": "Agatha: House of Harkness",
+    "slug": "agatha-house-of-harkness",
     "tags": [
         "tv",
         "company-420"
