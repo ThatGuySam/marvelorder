@@ -108,6 +108,20 @@ function buildReadmeList ( matchesMap:Map<number, any> ) {
 
                         return hasKey
                     } )
+                    .map( ( [ key, value ]:any ) => {
+                        const isNotes = key.toLowerCase() === 'notes'
+
+                        if ( !isNotes ) {
+                            return [ key, value ]
+                        }
+
+                        const isBelowDetailsRows = recordIndex > 30
+
+                        return [
+                            key,
+                            isBelowDetailsRows ? value : ''
+                        ]
+                    } )
 
                 // console.log( 'cleanedRecordEntries', cleanedRecordEntries )
 
