@@ -5,13 +5,13 @@ import axios from 'axios'
 // @ts-ignore
 import { storePath } from '~/src/config.ts'
 // @ts-ignore
-import { 
-    organizeOrderData, 
+import {
+    organizeOrderData,
     matchListingToOrdered,
 // @ts-ignore
 } from '~/src/helpers/node/mcu-timeline-sheet.ts'
-import { 
-    updateReadmeListContent, 
+import {
+    updateReadmeListContent,
     makeUpcomingListingsMarkdown,
     makeInUniverseMarkdown
 // @ts-ignore
@@ -27,8 +27,8 @@ import {
     getUpcomingListings
 // @ts-ignore
 } from '~/src/helpers/node/listing-files.ts'
-import { 
-	isUpcoming, 
+import {
+	isUpcoming,
 	FilteredListings
 } from '~/src/helpers/listing-filters'
 
@@ -58,13 +58,13 @@ function buildReadmeList ( matchesMap:Map<number, any> ) {
     const readmeListLines = matches.map( ( match:any, index ) => {
         const { listing, timelineType } = match
         const parts = [
-            '', 
+            '',
             `<kbd>${ index + 1 }</kbd>`,
             `[${ listing.title }](https://marvelorder.com${ listing.endpoint })`,
             typesReadmeMap[ timelineType ],
             `[Edit](${ listing.githubEditUrl })`
         ]
-        
+
         return parts.join( ' - ' ).trim()
     })
 
@@ -82,23 +82,39 @@ function buildReadmeList ( matchesMap:Map<number, any> ) {
     const allListings = listingsDetails.map( ( details:any ) => details.listing )
 
 
-    const orderableListings = new FilteredListings({ 
-        listings: allListings, 
+    const orderableListings = new FilteredListings({
+        listings: allListings,
         // initialFilters: new Map([
         //     [ isUpcoming, false ]
-        // ]) 
+        // ])
         listingsSort: 'default'
     })
 
 
     const sheet = await axios( macroUrl, {
         params: {
-            id: mcuTimelineSheetId, 
-            sheet: 'Chronological Order', 
+            id: mcuTimelineSheetId,
+            sheet: 'Chronological Order',
             header: 1,
             startRow: 4
         }
-    } ).then( res => res.data )
+    } ).then( res => {
+        return {
+            ...res.data,
+            records: res.data.records.map( ( record:any, recordIndex ) => {
+                const cleanedRecordEntries = Object.entries( record )
+                    .filter( ( [ key ] ) => {
+                        const hasKey = key.length > 0
+
+                        return hasKey
+                    } )
+
+                // console.log( 'cleanedRecordEntries', cleanedRecordEntries )
+
+                return Object.fromEntries( cleanedRecordEntries )
+            })
+        }
+    } )
 
     // Write data to JSON
     await fs.writeFile( storePath + '/mcu-timeline-sheet.json', JSON.stringify( sheet, null, 2 ) )
@@ -111,31 +127,31 @@ function buildReadmeList ( matchesMap:Map<number, any> ) {
     // console.log('orderedDetails', orderedDetails)
 
     const matchableOrderedTypes = new Set([
-        'movie', 
-        'disney-plus', 
+        'movie',
+        'disney-plus',
         'disney-plus-netflix',
         'abc',
         'freeform',
         'hulu',
-        'web-series', 
-        'sony', 
+        'web-series',
+        'sony',
 
-        // 'whih', 
+        // 'whih',
         // 'other'
     ])
 
     for ( const entry of Object.entries( orderedDetails ) ) {
-        const [ 
-            , 
+        const [
+            ,
             orderedDetails = null as any
         ] = entry
 
-        // console.log('orderedDetails.timelineType', orderedDetails.timelineType) 
+        // console.log('orderedDetails.timelineType', orderedDetails.timelineType)
 
         // Skip entries not from matchable types
         if ( !matchableOrderedTypes.has( orderedDetails.timelineType ) ) continue
 
-        
+
         // console.log('details', details )
 
         for ( const listing of orderableListings.list ) {
@@ -194,6 +210,6 @@ function buildReadmeList ( matchesMap:Map<number, any> ) {
 
     await updateReadmeListContent( newUpcomingMarkdown, 'upcoming-list' )
 
-    
+
     process.exit()
 })()
