@@ -15,13 +15,12 @@ export function hasDate ( listing:Listing ) {
     return !!getDateString( listing )
 }
 
-const seasonMonths = {
-    'winter': '11',
-    'spring': '04',
-    'summer': '08',
-    'fall': '09'
-}
-
+const seasonMonths:Array<Array<string>> = [
+    ['winter', '11'],
+    ['spring', '04'],
+    ['summer', '08'],
+    ['fall', '09']
+]
 export function getSeasonReleaseDate ( listing:Listing ) {
     if ( !hasDate( listing ) ) {
         return null
@@ -29,11 +28,13 @@ export function getSeasonReleaseDate ( listing:Listing ) {
 
     const dateString = getDateString( listing )
 
-    for ( const seasonName of Object.keys( seasonMonths ) ) {
-        if ( dateString.toLowerCase().includes( seasonName ) ) {
+    for ( const [ seasonName, month ] of seasonMonths ) {
+        if ( dateString?.toLowerCase().includes( seasonName ) ) {
+            // const month:string = seasonMonths[ seasonName ]
+
             return {
                 name: seasonName,
-                month: seasonMonths[ seasonName ]
+                month
             }
         }
     }
@@ -45,13 +46,13 @@ export function getIsoDate ( listing:Listing ) {
     const dateString = getDateString( listing )
     const season = getSeasonReleaseDate( listing )
 
-    if ( !!season ) {
+    if ( !!season && !!dateString ) {
 
         // return DateTime.fromISO( `2023-07-01` )
 
-        console.log( 'dateString', dateString )
+        // console.log( 'dateString', dateString )
 
-        const [ seasonName, year ] = dateString.split(' ')
+        const [ , year ] = dateString?.split(' ')
 
         const isoDate = `${ year }-${ season.month }-01`
 
