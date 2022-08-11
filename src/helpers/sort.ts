@@ -34,8 +34,14 @@ function getTitleDate ( listing:Listing ) {
     const dateString = getDateString( listing )
 
 
-    if ( !!dateString ) {
-        const isoDate = getIsoDate( sourceListing )
+    if ( !!dateString && !!sourceListing ) {
+        const isoDate:string = getIsoDate( sourceListing ) || ''
+
+        // Throw for invalid date
+        if ( isoDate.trim().length === 0 ) {
+            throw new Error( `Invalid date: ${ dateString }` )
+        }
+
         return new Date( isoDate )
     }
 

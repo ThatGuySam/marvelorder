@@ -56,7 +56,12 @@ export function getIsoDate ( listing:Listing ) {
 
         const isoDate = `${ year }-${ season.month }-01`
 
-        console.log( 'isoDate', isoDate )
+        // console.log( 'isoDate', isoDate )
+
+        // Throw error if date is invalid
+        if ( typeof isoDate !== 'string' ) {
+            throw new Error( 'Invalid date' )
+        }
 
         return isoDate
     }
