@@ -822,31 +822,6 @@
 		]
 	},
 	{
-		"backdrop_path": "/rfJhvHh9MAle5ZvQeSTGfDyHRJC.jpg",
-		"first_air_date": "2022-08-10",
-		"genre_ids": [
-			16,
-			10751,
-			10765
-		],
-		"id": 207867,
-		"name": "I Am Groot",
-		"origin_country": [
-			"US"
-		],
-		"original_language": "en",
-		"original_name": "I Am Groot",
-		"overview": "",
-		"poster_path": "/7GMXZEkN10XIlypk97RDVFUlMRH.jpg",
-		"vote_average": 0,
-		"title": "I Am Groot",
-		"slug": "i-am-groot",
-		"tags": [
-			"tv",
-			"company-420"
-		]
-	},
-	{
 		"adult": false,
 		"backdrop_path": "/9bColKVEAaWfmOLiLZoUhdYfevy.jpg",
 		"genre_ids": [
@@ -862,7 +837,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot's First Steps",
 		"video": false,
-		"vote_average": 0,
+		"vote_average": 8.5,
 		"slug": "groots-first-steps",
 		"tags": [
 			"movie",
@@ -884,7 +859,7 @@
 		"release_date": "2022-08-10",
 		"title": "The Little Guy",
 		"video": false,
-		"vote_average": 0,
+		"vote_average": 8.8,
 		"slug": "the-little-guy",
 		"tags": [
 			"movie",
@@ -896,40 +871,20 @@
 		"backdrop_path": "/jaEWCQ93FUGCp4p59cLktWUuYOS.jpg",
 		"genre_ids": [
 			16,
-			10751
+			10751,
+			35,
+			878
 		],
 		"id": 1010820,
 		"original_language": "en",
 		"original_title": "Groot's Pursuit",
-		"overview": "Groot investigates a spooky noise that’s been haunting the Quadrant, which leads to an intense dance off.",
+		"overview": "Waking up in the middle of his sleep in Eclector's Quadrant, Baby Groot finds a broken vial and traces the bubble-colored liquid from it around the ship. He later encounters Iwua, a shape-shifting alien who impersonates him. The pair dance, with the alien teaching him dance steps, until Groot ejects Iwua out of the ship via the airlock.",
 		"poster_path": "/z5AQHYTTx7DzG9CRd01ny9DtqNE.jpg",
 		"release_date": "2022-08-10",
 		"title": "Groot's Pursuit",
 		"video": false,
-		"vote_average": 0,
+		"vote_average": 8.8,
 		"slug": "groots-pursuit",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/4bsz75kSdeVQm9u5aD87ciRpYVW.jpg",
-		"genre_ids": [
-			16,
-			10751
-		],
-		"id": 1010821,
-		"original_language": "en",
-		"original_title": "Groot Takes a Bath",
-		"overview": "Everybody needs some alone time to relax and wash up, but things go quite differently when you’re a Flora Colossi toddler.",
-		"poster_path": "/sN7FJP06TsNNtK9Jr77dc25yI82.jpg",
-		"release_date": "2022-08-10",
-		"title": "Groot Takes a Bath",
-		"video": false,
-		"vote_average": 0,
-		"slug": "groot-takes-a-bath",
 		"tags": [
 			"movie",
 			"company-420"
@@ -958,6 +913,28 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": "/4bsz75kSdeVQm9u5aD87ciRpYVW.jpg",
+		"genre_ids": [
+			16,
+			10751
+		],
+		"id": 1010821,
+		"original_language": "en",
+		"original_title": "Groot Takes a Bath",
+		"overview": "Everybody needs some alone time to relax and wash up, but things go quite differently when you’re a Flora Colossi toddler.",
+		"poster_path": "/sN7FJP06TsNNtK9Jr77dc25yI82.jpg",
+		"release_date": "2022-07-22",
+		"title": "Groot Takes a Bath",
+		"video": false,
+		"vote_average": 8.7,
+		"slug": "groot-takes-a-bath",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/qtKlSjETlYzbq4URtxocQtKce8d.jpg",
 		"genre_ids": [
 			16,
@@ -971,7 +948,7 @@
 		"release_date": "2022-07-18",
 		"title": "Magnum Opus",
 		"video": false,
-		"vote_average": 0,
+		"vote_average": 8.9,
 		"slug": "magnum-opus",
 		"tags": [
 			"movie",
@@ -1219,7 +1196,7 @@
 		"release_date": "2021-12-15",
 		"title": "Spider-Man: No Way Home",
 		"video": false,
-		"vote_average": 8.1,
+		"vote_average": 8,
 		"slug": "spider-man-no-way-home",
 		"tags": [
 			"movie",
