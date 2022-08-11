@@ -47,7 +47,7 @@ tags:
     "release_date": "2022-05-25",
     "title": "ASSEMBLED: The Making of Moon Knight",
     "video": false,
-    "vote_average": 6.8,
+    "vote_average": 6.9,
     "slug": "assembled-the-making-of-moon-knight",
     "tags": [
         "movie",

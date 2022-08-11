@@ -31,7 +31,7 @@ rentLinks:
     "release_date": "1996-12-20",
     "title": "Generation X",
     "video": false,
-    "vote_average": 3.8,
+    "vote_average": 3.9,
     "slug": "generation-x",
     "tags": [
         "list-8204860",

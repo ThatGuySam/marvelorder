@@ -246,7 +246,7 @@
 		],
 		"original_language": "en",
 		"original_name": "Daredevil: Born Again",
-		"overview": "",
+		"overview": "An upcoming Disney+ series featuring Matt Murdock aka Daredevil in the Marvel Cinematic Universe.",
 		"poster_path": "/t2MKhbLkSlMduIukClOXFMK9LhP.jpg",
 		"vote_average": 0,
 		"title": "Daredevil: Born Again",
@@ -335,7 +335,7 @@
 		"id": 774752,
 		"original_language": "en",
 		"original_title": "The Guardians of the Galaxy Holiday Special",
-		"overview": "Before Star-Lord, Gamora, Drax, Rocket, Mantis and Groot hit the big screen with the next Guardians of the Galaxy film in 2023, watch the Guardians engage in some spirited shenanigans in an all-new original special, created for Disney+, during the 2022 holiday season.",
+		"overview": "Before Star-Lord, Gamora, Drax, Rocket, Mantis, and Groot hit the big screen with Guardians of the Galaxy Vol. 3 in 2023, watch the Guardians engage in some spirited shenanigans in an all-new original special, created for Disney+, during the 2022 holiday season.",
 		"poster_path": "/A7NLWwvgzlbg8RBJKPHlEszdD74.jpg",
 		"title": "The Guardians of the Galaxy Holiday Special",
 		"video": false,
@@ -355,14 +355,14 @@
 		],
 		"id": 777948,
 		"original_language": "en",
-		"original_title": "Untitled Female-Centered Marvel Film",
+		"original_title": "Spider-Woman",
 		"overview": "Described as a female-centric Marvel film rumored and teased by Wilde to follow Spider-Woman.",
 		"poster_path": null,
 		"release_date": "",
-		"title": "Untitled Female-Centered Marvel Film",
+		"title": "Spider-Woman",
 		"video": false,
 		"vote_average": 0,
-		"slug": "untitled-female-centered-marvel-film",
+		"slug": "spider-woman",
 		"tags": [
 			"movie",
 			"company-7505"
@@ -378,14 +378,13 @@
 		],
 		"id": 894205,
 		"original_language": "en",
-		"original_title": "Werewolf By Night",
+		"original_title": "Untitled Halloween Special",
 		"overview": "A Marvel Halloween special for Disney+ based around the character Werewolf by Night.",
 		"poster_path": null,
-		"release_date": "",
-		"title": "Werewolf By Night",
+		"title": "Untitled Halloween Special",
 		"video": false,
 		"vote_average": 0,
-		"slug": "werewolf-by-night",
+		"slug": "untitled-halloween-special",
 		"tags": [
 			"movie",
 			"company-420"
@@ -401,13 +400,13 @@
 		],
 		"id": 912502,
 		"original_language": "en",
-		"original_title": "Shang-Chi 2",
+		"original_title": "Untitled Shang-Chi Sequel",
 		"overview": "Sequel to the 2021 film “Shang-Chi and the Legend of the Ten Rings”.",
 		"poster_path": "/ruUz3vhYuq3011WzSNM0SlgaVzh.jpg",
-		"title": "Shang-Chi 2",
+		"title": "Untitled Shang-Chi Sequel",
 		"video": false,
 		"vote_average": 0,
-		"slug": "shang-chi-2",
+		"slug": "untitled-shang-chi-sequel",
 		"tags": [
 			"movie",
 			"company-420"
@@ -434,7 +433,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
+		"backdrop_path": "/33h5wLX1OaGcDLKEqgwxXpAnk8X.jpg",
 		"genre_ids": [
 			28,
 			878
@@ -468,7 +467,7 @@
 		"original_title": "Avengers: The Kang Dynasty",
 		"overview": "An upcoming Phase 6 Marvel Cinematic Universe film and part of The Multiverse Saga.",
 		"poster_path": "/utZTb3VBrH0zR77BcISU67pHuAx.jpg",
-		"release_date": "2025-05-02",
+		"release_date": "2025-05-01",
 		"title": "Avengers: The Kang Dynasty",
 		"video": false,
 		"vote_average": 0,
@@ -489,7 +488,7 @@
 		"id": 617126,
 		"original_language": "en",
 		"original_title": "Fantastic Four",
-		"overview": "",
+		"overview": "Set in the Marvel Cinematic Universe (MCU) and based on the Marvel Comics characters of the same name",
 		"poster_path": "/jatnqRPnxjg2Q6cFsAjmrBNhx9.jpg",
 		"release_date": "2024-11-08",
 		"title": "Fantastic Four",
@@ -504,13 +503,16 @@
 	{
 		"adult": false,
 		"backdrop_path": null,
-		"genre_ids": [],
+		"genre_ids": [
+			28,
+			12
+		],
 		"id": 986056,
 		"original_language": "en",
 		"original_title": "Thunderbolts",
 		"overview": "A group of supervillains and antiheroes go on missions for the government. Based on the comic book series of the same name.",
 		"poster_path": "/dHhniU1vz1C0j27AFdcsPmq6xu.jpg",
-		"release_date": "2024-07-26",
+		"release_date": "2024-07-24",
 		"title": "Thunderbolts",
 		"video": false,
 		"vote_average": 0,
@@ -532,7 +534,7 @@
 		"original_language": "en",
 		"original_title": "Venom 3",
 		"overview": "The third entry in the Venom trilogy confirmed to be in development by Amy Pascal.",
-		"poster_path": "/p2iubH4NpXpIDAWCuITTuJhmde5.jpg",
+		"poster_path": "/s5R8Ja1IjxF4a3IygLCW1Zib6GB.jpg",
 		"release_date": "2024-06-04",
 		"title": "Venom 3",
 		"video": false,
@@ -556,7 +558,7 @@
 		"original_title": "Captain America: New World Order",
 		"overview": "A sequel to Marvel Studios' The Falcon and the Winter Soldier and follows Sam Wilson as the new Captain America.",
 		"poster_path": "/jNWaUMmnQ26fiz2B6tIn0aC9fO0.jpg",
-		"release_date": "2024-05-03",
+		"release_date": "2024-05-01",
 		"title": "Captain America: New World Order",
 		"video": false,
 		"vote_average": 0,
@@ -623,9 +625,9 @@
 		"id": 617127,
 		"original_language": "en",
 		"original_title": "Blade",
-		"overview": "A film based on Blade from Marvel Comics in the Marvel Cinematic Universe.",
+		"overview": "Set in the Marvel Cinematic Universe (MCU) and based on the Marvel Comics character of the same name.",
 		"poster_path": "/fKqA4rgVJwrM7Gb3tQ9TGHnu8Tr.jpg",
-		"release_date": "2023-11-03",
+		"release_date": "2023-11-01",
 		"title": "Blade",
 		"video": false,
 		"vote_average": 0,
@@ -646,7 +648,7 @@
 		"original_language": "en",
 		"original_title": "Madame Web",
 		"overview": "An origin story of the clairvoyant known as Madame Web, whose psychic abilities allow her to see within the spider world.",
-		"poster_path": "/urh8yBp7ihPaBeLSmlYmJB3qgYy.jpg",
+		"poster_path": "/rIL6lkGrnDagHWpFOA83slnOSdl.jpg",
 		"release_date": "2023-10-06",
 		"title": "Madame Web",
 		"video": false,
@@ -738,7 +740,7 @@
 		"id": 640146,
 		"original_language": "en",
 		"original_title": "Ant-Man and the Wasp: Quantumania",
-		"overview": "Super Hero partners Scott Lang and Hope Van Dyne, together with Hope’s parents Hank Pym and Janet Van Dyne, find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought was possible.",
+		"overview": "Superhero duo Scott Lang and Hope Van Dyne, together with Hope’s parents Hank Pym and Janet Van Dyne, find themselves exploring the Quantum Realm, interacting with strange new creatures, and embarking on an adventure that will push them beyond the limits of what they thought was possible.",
 		"poster_path": "/glMINRVYBV0zirz9XUZOEcSFnDS.jpg",
 		"release_date": "2023-02-15",
 		"title": "Ant-Man and the Wasp: Quantumania",
@@ -774,7 +776,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/3S0cBoYoRg8QbxqVriyppchBUAm.jpg",
+		"backdrop_path": "/lPSbddV8OjBqO78qqamCSKj0fO6.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -784,7 +786,7 @@
 		"original_language": "en",
 		"original_title": "Black Panther: Wakanda Forever",
 		"overview": "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death. As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
-		"poster_path": "/4fkz8Gx3Laxufktpw20iOnnYTwv.jpg",
+		"poster_path": "/cpKwys2QB4TRLLbRTi9QLJBAfn.jpg",
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
@@ -796,8 +798,8 @@
 		]
 	},
 	{
-		"backdrop_path": "/9YJULFUvzaw6kuFbZWApsA6VZ1j.jpg",
-		"first_air_date": "2022-08-17",
+		"backdrop_path": "/xdcQMtVf0JXOhgXOOTAI6tNQXRP.jpg",
+		"first_air_date": "2022-08-18",
 		"genre_ids": [
 			35,
 			10759
@@ -810,7 +812,7 @@
 		"original_language": "en",
 		"original_name": "She-Hulk: Attorney at Law",
 		"overview": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered hulk.",
-		"poster_path": "/zNKVhijwhmkcMcgonCQ2yHLc7Ca.jpg",
+		"poster_path": "/qhRex189iu6Cs0dV7ahbuBaRgeK.jpg",
 		"vote_average": 0,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
@@ -820,22 +822,22 @@
 		]
 	},
 	{
-		"backdrop_path": "/rIOD8quR4YIgcjwJnTjp6zG6HGP.jpg",
+		"backdrop_path": "/rfJhvHh9MAle5ZvQeSTGfDyHRJC.jpg",
 		"first_air_date": "2022-08-10",
 		"genre_ids": [
 			16,
-			10759,
-			10751
+			10751,
+			10765
 		],
-		"id": 114469,
+		"id": 207867,
 		"name": "I Am Groot",
 		"origin_country": [
 			"US"
 		],
 		"original_language": "en",
 		"original_name": "I Am Groot",
-		"overview": "Follow Baby Groot’s glory days growing up, and getting into trouble among the stars.",
-		"poster_path": "/1vaBZjml2DaVRvlclwbZMdk5MFp.jpg",
+		"overview": "",
+		"poster_path": "/7GMXZEkN10XIlypk97RDVFUlMRH.jpg",
 		"vote_average": 0,
 		"title": "I Am Groot",
 		"slug": "i-am-groot",
@@ -846,7 +848,96 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
+		"backdrop_path": "/9bColKVEAaWfmOLiLZoUhdYfevy.jpg",
+		"genre_ids": [
+			16,
+			10751,
+			35
+		],
+		"id": 1010818,
+		"original_language": "en",
+		"original_title": "Groot's First Steps",
+		"overview": "Following the events of “Guardians of the Galaxy Vol. 1,” Baby Groot is finally ready to try taking his first steps out of his pot—only to learn you have to walk before you can run.",
+		"poster_path": "/1ifiV9ZJD4tC3tRYcnLIzH0meaB.jpg",
+		"release_date": "2022-08-10",
+		"title": "Groot's First Steps",
+		"video": false,
+		"vote_average": 0,
+		"slug": "groots-first-steps",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/tTrZap8lEJsdpnab5yIR3d9bedg.jpg",
+		"genre_ids": [
+			16,
+			10751
+		],
+		"id": 1010819,
+		"original_language": "en",
+		"original_title": "The Little Guy",
+		"overview": "Groot discovers a miniature civilization that believes the seemingly enormous tree toddler is the hero they’ve been waiting for.",
+		"poster_path": "/lPzcizL8PdS2U1q0rfhlVn00b9l.jpg",
+		"release_date": "2022-08-10",
+		"title": "The Little Guy",
+		"video": false,
+		"vote_average": 0,
+		"slug": "the-little-guy",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/jaEWCQ93FUGCp4p59cLktWUuYOS.jpg",
+		"genre_ids": [
+			16,
+			10751
+		],
+		"id": 1010820,
+		"original_language": "en",
+		"original_title": "Groot's Pursuit",
+		"overview": "Groot investigates a spooky noise that’s been haunting the Quadrant, which leads to an intense dance off.",
+		"poster_path": "/z5AQHYTTx7DzG9CRd01ny9DtqNE.jpg",
+		"release_date": "2022-08-10",
+		"title": "Groot's Pursuit",
+		"video": false,
+		"vote_average": 0,
+		"slug": "groots-pursuit",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/4bsz75kSdeVQm9u5aD87ciRpYVW.jpg",
+		"genre_ids": [
+			16,
+			10751
+		],
+		"id": 1010821,
+		"original_language": "en",
+		"original_title": "Groot Takes a Bath",
+		"overview": "Everybody needs some alone time to relax and wash up, but things go quite differently when you’re a Flora Colossi toddler.",
+		"poster_path": "/sN7FJP06TsNNtK9Jr77dc25yI82.jpg",
+		"release_date": "2022-08-10",
+		"title": "Groot Takes a Bath",
+		"video": false,
+		"vote_average": 0,
+		"slug": "groot-takes-a-bath",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/qXOYUTJ5p5aINFGmyIWTGeZCNTc.jpg",
 		"genre_ids": [
 			99
 		],
@@ -854,12 +945,34 @@
 		"original_language": "en",
 		"original_title": "The Making of Ms. Marvel",
 		"overview": "Go behind-the-scenes every step of the way with immersive footage from the making of the series, along with insightful interviews on set from the cast and crew of Ms. Marvel as we watch Iman Vellani and her character, Kamala Khan, become the fan-favorite superhero right before our eyes.",
-		"poster_path": null,
+		"poster_path": "/6m0rG2bS90FOlUaxEq8ZPCTQMei.jpg",
 		"release_date": "2022-08-03",
 		"title": "The Making of Ms. Marvel",
 		"video": false,
-		"vote_average": 0,
+		"vote_average": 4.4,
 		"slug": "the-making-of-ms-marvel",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/qtKlSjETlYzbq4URtxocQtKce8d.jpg",
+		"genre_ids": [
+			16,
+			10751
+		],
+		"id": 1010823,
+		"original_language": "en",
+		"original_title": "Magnum Opus",
+		"overview": "Groot sets out to paint a family portrait of himself and the Guardians, only to discover just how messy the artistic process can be.",
+		"poster_path": "/8p8JsKokKbuNCn9yBirAg1oEwGd.jpg",
+		"release_date": "2022-07-18",
+		"title": "Magnum Opus",
+		"video": false,
+		"vote_average": 0,
+		"slug": "magnum-opus",
 		"tags": [
 			"movie",
 			"company-420"
@@ -869,8 +982,7 @@
 		"adult": false,
 		"backdrop_path": "/coxMHDtNRcyNmriZFCxpwqmlxjS.jpg",
 		"genre_ids": [
-			99,
-			878
+			99
 		],
 		"id": 980017,
 		"original_language": "en",
@@ -880,7 +992,7 @@
 		"release_date": "2022-07-08",
 		"title": "The Making of Doctor Strange in the Multiverse of Madness",
 		"video": false,
-		"vote_average": 5.6,
+		"vote_average": 6.1,
 		"slug": "the-making-of-doctor-strange-in-the-multiverse-of-madness",
 		"tags": [
 			"movie",
@@ -903,7 +1015,7 @@
 		"release_date": "2022-07-06",
 		"title": "Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 6.7,
+		"vote_average": 6.8,
 		"slug": "thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -926,8 +1038,8 @@
 		"original_language": "en",
 		"original_name": "Ms. Marvel",
 		"overview": "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school — that is, until she gets superpowers like the heroes she’s always looked up to. Life is easier with superpowers, right?",
-		"poster_path": "/cdkyMYdu8ao26XOBvilNzLneUg1.jpg",
-		"vote_average": 7.2,
+		"poster_path": "/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
+		"vote_average": 7.1,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
 		"tags": [
@@ -937,7 +1049,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/dLaiXS1LSKEwV1gu7BUxQAa0j9n.jpg",
+		"backdrop_path": "/709oX5ro1SON6OkaVnA8MOx1WSK.jpg",
 		"genre_ids": [
 			99
 		],
@@ -970,7 +1082,7 @@
 		"release_date": "2022-05-25",
 		"title": "ASSEMBLED: The Making of Moon Knight",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.9,
 		"slug": "assembled-the-making-of-moon-knight",
 		"tags": [
 			"movie",
@@ -1075,17 +1187,17 @@
 			10759
 		],
 		"id": 206006,
-		"name": "Marvel's Avengers: Secret Wars (Short)",
+		"name": "Marvel's Avengers: Secret Wars",
 		"origin_country": [
-			"TR"
+			"US"
 		],
-		"original_language": "tr",
-		"original_name": "Marvel's Avengers: Secret Wars (Short)",
-		"overview": "",
+		"original_language": "en",
+		"original_name": "Marvel's Avengers: Secret Wars",
+		"overview": "With Tony Stark trapped in another dimension, the Avengers muster all of their powers to try and bring him back. But before they can, they are attacked by a new cabal of villains.",
 		"poster_path": "/wINd3dSyrMxf1meRdFayO6WEMwg.jpg",
 		"vote_average": 8,
-		"title": "Marvel's Avengers: Secret Wars (Short)",
-		"slug": "marvels-avengers-secret-wars-short",
+		"title": "Marvel's Avengers: Secret Wars",
+		"slug": "marvels-avengers-secret-wars",
 		"tags": [
 			"tv",
 			"company-7505"
@@ -1155,7 +1267,7 @@
 		"original_name": "Marvel's Hit-Monkey",
 		"overview": "A Japanese snow macaque's clan meets a stranded hitman, Bryce, and nurses him back to health. But when Bryce bites the dust, it's up to the titular simian (guided by Bryce's ghost) to follow in his assassin footsteps and seek vengeance.",
 		"poster_path": "/1aK7hApRSDUv8xxDQXyQil7qBjN.jpg",
-		"vote_average": 7.9,
+		"vote_average": 7.8,
 		"title": "Marvel's Hit-Monkey",
 		"slug": "marvels-hit-monkey",
 		"tags": [
@@ -1377,7 +1489,6 @@
 		"backdrop_path": "/eO8h4fwdjWodPr3awVr5wqMN3Ut.jpg",
 		"first_air_date": "2021-03-19",
 		"genre_ids": [
-			18,
 			10759,
 			10765
 		],
@@ -1509,7 +1620,7 @@
 		"original_name": "Helstrom",
 		"overview": "Daimon and Ana Helstrom are the son and daughter of a mysterious and powerful serial killer. The siblings have a complicated dynamic as they track down the terrorizing worst of humanity — each with their attitude and skills.",
 		"poster_path": "/8fPIcaRIZgsoBcgA5yAm3GNz61M.jpg",
-		"vote_average": 7,
+		"vote_average": 6.9,
 		"title": "Helstrom",
 		"slug": "helstrom",
 		"tags": [
@@ -1601,7 +1712,7 @@
 		"release_date": "2019-11-12",
 		"title": "Marvel Studios: Expanding the Universe",
 		"video": false,
-		"vote_average": 5.6,
+		"vote_average": 5.7,
 		"slug": "marvel-studios-expanding-the-universe",
 		"tags": [
 			"movie",
@@ -1610,7 +1721,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/p7S09fY0hGm1BVsQ48oRcuOqglg.jpg",
+		"backdrop_path": "/qG5A6fWoP5inQa16VadLDiB1mlb.jpg",
 		"genre_ids": [
 			878,
 			28,
@@ -1620,7 +1731,7 @@
 		"original_language": "en",
 		"original_title": "Peter's To-Do List",
 		"overview": "On the eve of his departure to Europe, Peter Parker tells Ned Leeds that he has several things to do before they leave.",
-		"poster_path": "/2LoW0WMYHwhxXQr1wz6xCVRiX9.jpg",
+		"poster_path": "/ohnN1gVREFJXJJv35BaBHladKoA.jpg",
 		"release_date": "2019-09-17",
 		"title": "Peter's To-Do List",
 		"video": false,
@@ -1641,11 +1752,11 @@
 		],
 		"id": 429617,
 		"original_language": "en",
-		"original_title": "Spider-Man: Far From Home",
+		"original_title": "Spider-Man: Far from Home",
 		"overview": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
 		"poster_path": "/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
 		"release_date": "2019-06-28",
-		"title": "Spider-Man: Far From Home",
+		"title": "Spider-Man: Far from Home",
 		"video": false,
 		"vote_average": 7.5,
 		"slug": "spider-man-far-from-home",
@@ -1707,7 +1818,8 @@
 			16,
 			28,
 			35,
-			10751
+			10751,
+			878
 		],
 		"id": 583055,
 		"original_language": "en",
@@ -1781,6 +1893,7 @@
 			12
 		],
 		"id": 567604,
+		"media_type": "movie",
 		"original_language": "en",
 		"original_title": "Once Upon a Deadpool",
 		"overview": "A kidnapped Fred Savage is forced to endure Deadpool's PG-13 rendition of Deadpool 2 as a Princess Bride-esque story that's full of magic, wonder & zero F's.",
@@ -1791,11 +1904,8 @@
 		"vote_average": 7.1,
 		"slug": "once-upon-a-deadpool",
 		"tags": [
-			"movie",
-			"company-7505",
 			"list-8204860"
-		],
-		"media_type": "movie"
+		]
 	},
 	{
 		"adult": false,
@@ -1907,7 +2017,7 @@
 		"release_date": "2018-06-04",
 		"title": "LEGO Marvel Super Heroes: Black Panther - Trouble in Wakanda",
 		"video": false,
-		"vote_average": 6.7,
+		"vote_average": 6.4,
 		"slug": "lego-marvel-super-heroes-black-panther-trouble-in-wakanda",
 		"tags": [
 			"movie",
@@ -1962,7 +2072,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/bZtu0UE0afN3jrkoUSJP8eO9yU.jpg",
+		"backdrop_path": "/6xpiFb1s8Zl8lMb1vkeBeZQkVU7.jpg",
 		"genre_ids": [
 			35
 		],
@@ -2045,7 +2155,7 @@
 		"original_name": "Marvel's Runaways",
 		"overview": "Every teenager thinks their parents are evil. What if you found out they actually were? Six diverse teenagers who can barely stand each other must unite against a common foe – their parents.",
 		"poster_path": "/zceMrfO17AQkeWJZNra4O90s1vE.jpg",
-		"vote_average": 7.6,
+		"vote_average": 7.5,
 		"title": "Marvel's Runaways",
 		"slug": "marvels-runaways",
 		"tags": [
@@ -2085,7 +2195,8 @@
 			28,
 			12,
 			14,
-			878
+			878,
+			35
 		],
 		"id": 284053,
 		"original_language": "en",
@@ -2205,7 +2316,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/xpFIaHL7Rm5kKLcEPDEMpjh4Xq6.jpg",
+		"backdrop_path": "/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
 		"genre_ids": [
 			12,
 			28,
@@ -2270,7 +2381,7 @@
 		"original_name": "Marvel's Rocket & Groot",
 		"overview": "Before becoming Guardians of the Galaxy, Rocket and Groot were bounty hunters trying to get a ship.",
 		"poster_path": "/7FHJr40MPFwtHrOyOD9buQDoVcs.jpg",
-		"vote_average": 8.1,
+		"vote_average": 8.2,
 		"title": "Marvel's Rocket & Groot",
 		"slug": "marvels-rocket-and-groot",
 		"tags": [
@@ -2292,9 +2403,9 @@
 		"original_title": "Deadpool: No Good Deed",
 		"overview": "Deadpool sees an opportunity to save the day, but it doesn't go entirely as planned.",
 		"poster_path": "/4ZROj6yVhHCsEhszTvGzal4woMs.jpg",
-		"release_date": "2017-03-02",
+		"release_date": "2017-03-03",
 		"title": "Deadpool: No Good Deed",
-		"video": true,
+		"video": false,
 		"vote_average": 7.2,
 		"slug": "deadpool-no-good-deed",
 		"tags": [
@@ -2303,7 +2414,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/4DZxWNSAyksN6N3JkvpJ53Yq6zU.jpg",
+		"backdrop_path": "/9X7YweCJw3q8Mcf6GadxReFEksM.jpg",
 		"genre_ids": [
 			28,
 			18,
@@ -2326,7 +2437,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/ce3ylVwMQuTW4PBCNuBGcfhlK4Q.jpg",
+		"backdrop_path": "/qXJXEWOHmKwBJMoKha9grGm8Nid.jpg",
 		"genre_ids": [
 			878,
 			35,
@@ -2421,7 +2532,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/eQN31P4IEhyp6NkdccvppJnyuJ4.jpg",
+		"backdrop_path": "/qUv51IFUvVRAP2379ThmA3eLJx6.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -2500,6 +2611,7 @@
 			14
 		],
 		"id": 246655,
+		"media_type": "movie",
 		"original_language": "en",
 		"original_title": "X-Men: Apocalypse",
 		"overview": "After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.",
@@ -2510,11 +2622,8 @@
 		"vote_average": 6.5,
 		"slug": "x-men-apocalypse",
 		"tags": [
-			"movie",
-			"company-7505",
 			"list-8204860"
-		],
-		"media_type": "movie"
+		]
 	},
 	{
 		"adult": false,
@@ -2859,10 +2968,10 @@
 		"genre_ids": [
 			28,
 			12,
-			14,
 			878
 		],
 		"id": 127585,
+		"media_type": "movie",
 		"original_language": "en",
 		"original_title": "X-Men: Days of Future Past",
 		"overview": "The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past – to save our future.",
@@ -2873,11 +2982,8 @@
 		"vote_average": 7.5,
 		"slug": "x-men-days-of-future-past",
 		"tags": [
-			"movie",
-			"company-7505",
 			"list-8204860"
-		],
-		"media_type": "movie"
+		]
 	},
 	{
 		"adult": false,
@@ -3150,7 +3256,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/kv8KDbi2I4F4MNBbBMCR4LDqP6H.jpg",
+		"backdrop_path": "/45Jpw4XHa95GoXKKUlQQSP1PgvK.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -3298,7 +3404,7 @@
 		"original_language": "en",
 		"original_title": "Marvel One-Shot: Item 47",
 		"overview": "Benny and Claire, a down on their luck couple find a discarded Chitauri gun, referred to as 'Item 47'...",
-		"poster_path": "/rfxvoRoZtBLUXJqLf8z9kgJWkKt.jpg",
+		"poster_path": "/hnSxG8clwLuAXEkp9emc8HCUcHD.jpg",
 		"release_date": "2012-09-13",
 		"title": "Marvel One-Shot: Item 47",
 		"video": false,
@@ -3670,7 +3776,7 @@
 		"original_name": "ウルヴァリン",
 		"overview": "Wolverine is a mutant, possessing animal-keen senses, enhanced physical capabilities, three retracting bone claws on each hand and a healing factor that allows him to recover from virtually any wound, disease or toxin at a accelerated rate.",
 		"poster_path": "/cXPQEgUEbDz5NERfBJxeKFqUGwa.jpg",
-		"vote_average": 6.5,
+		"vote_average": 6.4,
 		"title": "Wolverine",
 		"slug": "wolverine",
 		"tags": [
@@ -3702,7 +3808,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/objUOSDFuZa3PgTrS3OPi3JwYR6.jpg",
+		"backdrop_path": "/vgPDKfOerEyF260CvozVEWj9T8n.jpg",
 		"first_air_date": "2010-10-20",
 		"genre_ids": [
 			10759,
@@ -4009,7 +4115,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/2q8XkP4CSl2MTP7VfVeeHQHuUHD.jpg",
+		"backdrop_path": "/6PkWizPnX97Z6v9i1aBh1BMWOj8.jpg",
 		"first_air_date": "2008-03-08",
 		"genre_ids": [
 			10759,
@@ -4185,7 +4291,7 @@
 		"original_language": "en",
 		"original_title": "Ultimate Avengers 2: Rise of the Panther",
 		"overview": "Mysterious Wakanda lies in the darkest heart of Africa, unknown to most of the world. An isolated land hidden behind closed borders, fiercely protected by its young king: Black Panther. But when brutal alien invaders attack, the threat leaves Black Panther with no option but to go against the sacred decrees of his people and ask for help from outsiders.",
-		"poster_path": "/bsDLG069v8esZkI2owKvduQIrq.jpg",
+		"poster_path": "/h1PKqtjuTifmTU0EqM4W0Br2pHX.jpg",
 		"release_date": "2006-08-08",
 		"title": "Ultimate Avengers 2: Rise of the Panther",
 		"video": false,
@@ -4318,7 +4424,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/p1DFPUqL3TltgUNZvNU2fKg5ceS.jpg",
+		"backdrop_path": "/kYSbBz7khRScIdhlYzRHJrS0ZLt.jpg",
 		"genre_ids": [
 			28,
 			27,
@@ -4420,7 +4526,7 @@
 		"original_language": "en",
 		"original_title": "X2",
 		"overview": "Professor Charles Xavier and his team of genetically gifted superheroes face a rising tide of anti-mutant sentiment led by Col. William Stryker. Storm, Wolverine and Jean Grey must join their usual nemeses—Magneto and Mystique—to unhinge Stryker's scheme to exterminate all mutants.",
-		"poster_path": "/tRDvoi7z7B6YdzoRcRQ8LwLA47q.jpg",
+		"poster_path": "/mM5qSVdWlGkvALHhNIb6kW6D42Y.jpg",
 		"release_date": "2003-04-27",
 		"title": "X2",
 		"video": false,
@@ -4637,7 +4743,7 @@
 		"original_name": "Spider-Man Unlimited",
 		"overview": "Spider-Man travels to Counter-Earth to rescue a Terran shuttle crew trapped there and discovers a tyrannical & warped version of his world.",
 		"poster_path": "/fvmC5QzQwkI5ZNJauE4xpF24PTB.jpg",
-		"vote_average": 7.4,
+		"vote_average": 7.5,
 		"title": "Spider-Man Unlimited",
 		"slug": "spider-man-unlimited",
 		"tags": [
@@ -4656,7 +4762,7 @@
 		"original_language": "en",
 		"original_title": "Blade",
 		"overview": "The Daywalker known as \"Blade\" - a half-vampire, half-mortal man - becomes the protector of humanity against an underground army of vampires.",
-		"poster_path": "/e6ErRnIgKmoBtcKpht3amsMfo52.jpg",
+		"poster_path": "/PDuKQeQkRHkdx7rY147VBVN5Ef.jpg",
 		"release_date": "1998-08-21",
 		"title": "Blade",
 		"video": false,
@@ -4734,7 +4840,7 @@
 		"release_date": "1996-12-20",
 		"title": "Generation X",
 		"video": false,
-		"vote_average": 3.8,
+		"vote_average": 3.9,
 		"slug": "generation-x",
 		"tags": [
 			"list-8204860",
@@ -4782,7 +4888,7 @@
 		"original_name": "Fantastic Four",
 		"overview": "When Reed Richards, Sue and Johnny Storm and pilot Ben Grimm take a premature space flight on a new shuttle, they find themselves massively bombarded with cosmic radiation. Barely managing to re-enter and land safely, the quartet find themselves forever transformed with superpowers. Deciding to use these new powers to help people, they form the Fantastic Four, a superhero team dedicated to the protection of Earth from menaces like the Latverian King Dr. Doom and Galactus, the planet consumer.",
 		"poster_path": "/xqqZjLBUEOVAsXneUwITCuas9jL.jpg",
-		"vote_average": 6.6,
+		"vote_average": 6.5,
 		"title": "Fantastic Four",
 		"slug": "fantastic-four",
 		"tags": [
@@ -4904,7 +5010,7 @@
 		"release_date": "1990-12-14",
 		"title": "Captain America",
 		"video": false,
-		"vote_average": 4.7,
+		"vote_average": 4.6,
 		"slug": "captain-america",
 		"tags": [
 			"movie",
@@ -5232,8 +5338,8 @@
 		"id": 2640,
 		"name": "Spider-Man",
 		"origin_country": [
-			"JP",
-			"US"
+			"US",
+			"JP"
 		],
 		"original_language": "ja",
 		"original_name": "スパイダーマン",

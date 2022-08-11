@@ -32,7 +32,7 @@ rentLinks:
     "original_name": "ウルヴァリン",
     "overview": "Wolverine is a mutant, possessing animal-keen senses, enhanced physical capabilities, three retracting bone claws on each hand and a healing factor that allows him to recover from virtually any wound, disease or toxin at a accelerated rate.",
     "poster_path": "/cXPQEgUEbDz5NERfBJxeKFqUGwa.jpg",
-    "vote_average": 6.5,
+    "vote_average": 6.4,
     "title": "Wolverine",
     "slug": "wolverine",
     "tags": [

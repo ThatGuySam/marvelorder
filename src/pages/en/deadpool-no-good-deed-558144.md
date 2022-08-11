@@ -25,9 +25,9 @@ rentLinks:
     "original_title": "Deadpool: No Good Deed",
     "overview": "Deadpool sees an opportunity to save the day, but it doesn't go entirely as planned.",
     "poster_path": "/4ZROj6yVhHCsEhszTvGzal4woMs.jpg",
-    "release_date": "2017-03-02",
+    "release_date": "2017-03-03",
     "title": "Deadpool: No Good Deed",
-    "video": true,
+    "video": false,
     "vote_average": 7.2,
     "slug": "deadpool-no-good-deed",
     "tags": [

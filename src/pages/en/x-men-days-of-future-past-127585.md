@@ -20,10 +20,10 @@ rentLinks:
     "genre_ids": [
         28,
         12,
-        14,
         878
     ],
     "id": 127585,
+    "media_type": "movie",
     "original_language": "en",
     "original_title": "X-Men: Days of Future Past",
     "overview": "The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past – to save our future.",
@@ -34,11 +34,8 @@ rentLinks:
     "vote_average": 7.5,
     "slug": "x-men-days-of-future-past",
     "tags": [
-        "movie",
-        "company-7505",
         "list-8204860"
-    ],
-    "media_type": "movie"
+    ]
 }
 
 ```

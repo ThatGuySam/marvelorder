@@ -18,7 +18,7 @@ rentLinks:
 ## TMDB Data
 ```json
 {
-    "backdrop_path": "/2q8XkP4CSl2MTP7VfVeeHQHuUHD.jpg",
+    "backdrop_path": "/6PkWizPnX97Z6v9i1aBh1BMWOj8.jpg",
     "first_air_date": "2008-03-08",
     "genre_ids": [
         10759,

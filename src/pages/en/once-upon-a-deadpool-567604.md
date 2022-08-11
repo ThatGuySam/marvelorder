@@ -23,6 +23,7 @@ rentLinks:
         12
     ],
     "id": 567604,
+    "media_type": "movie",
     "original_language": "en",
     "original_title": "Once Upon a Deadpool",
     "overview": "A kidnapped Fred Savage is forced to endure Deadpool's PG-13 rendition of Deadpool 2 as a Princess Bride-esque story that's full of magic, wonder & zero F's.",
@@ -33,11 +34,8 @@ rentLinks:
     "vote_average": 7.1,
     "slug": "once-upon-a-deadpool",
     "tags": [
-        "movie",
-        "company-7505",
         "list-8204860"
-    ],
-    "media_type": "movie"
+    ]
 }
 
 ```

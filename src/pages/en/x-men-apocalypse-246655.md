@@ -23,6 +23,7 @@ rentLinks:
         14
     ],
     "id": 246655,
+    "media_type": "movie",
     "original_language": "en",
     "original_title": "X-Men: Apocalypse",
     "overview": "After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.",
@@ -33,11 +34,8 @@ rentLinks:
     "vote_average": 6.5,
     "slug": "x-men-apocalypse",
     "tags": [
-        "movie",
-        "company-7505",
         "list-8204860"
-    ],
-    "media_type": "movie"
+    ]
 }
 
 ```

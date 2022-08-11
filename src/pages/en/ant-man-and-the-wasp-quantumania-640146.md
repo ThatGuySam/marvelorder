@@ -19,7 +19,7 @@ logo_on_black: /.netlify/functions/tmdb-image/mYCBuVGQGWPlUNZQusdHfbSzP1h.webp
     "id": 640146,
     "original_language": "en",
     "original_title": "Ant-Man and the Wasp: Quantumania",
-    "overview": "Super Hero partners Scott Lang and Hope Van Dyne, together with Hope’s parents Hank Pym and Janet Van Dyne, find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought was possible.",
+    "overview": "Superhero duo Scott Lang and Hope Van Dyne, together with Hope’s parents Hank Pym and Janet Van Dyne, find themselves exploring the Quantum Realm, interacting with strange new creatures, and embarking on an adventure that will push them beyond the limits of what they thought was possible.",
     "poster_path": "/glMINRVYBV0zirz9XUZOEcSFnDS.jpg",
     "release_date": "2023-02-15",
     "title": "Ant-Man and the Wasp: Quantumania",

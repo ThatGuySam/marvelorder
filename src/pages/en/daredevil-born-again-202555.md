@@ -21,7 +21,7 @@ release_date: "Spring 2024"
     ],
     "original_language": "en",
     "original_name": "Daredevil: Born Again",
-    "overview": "",
+    "overview": "An upcoming Disney+ series featuring Matt Murdock aka Daredevil in the Marvel Cinematic Universe.",
     "poster_path": "/t2MKhbLkSlMduIukClOXFMK9LhP.jpg",
     "vote_average": 0,
     "title": "Daredevil: Born Again",

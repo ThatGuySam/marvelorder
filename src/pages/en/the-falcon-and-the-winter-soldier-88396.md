@@ -18,7 +18,6 @@ rentLinks:
     "backdrop_path": "/eO8h4fwdjWodPr3awVr5wqMN3Ut.jpg",
     "first_air_date": "2021-03-19",
     "genre_ids": [
-        18,
         10759,
         10765
     ],
