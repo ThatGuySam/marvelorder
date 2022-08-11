@@ -19,6 +19,7 @@ vote_average: 0
 tags:
   - movie
   - company-420
+logo_on_black: /.netlify/functions/tmdb-image/ruUz3vhYuq3011WzSNM0SlgaVzh.webp
 ---
 ## TMDB Data
 ```json
