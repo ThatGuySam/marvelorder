@@ -27,11 +27,11 @@ jobs:
           cat ./.env
       - name: NPM Install
         run: npm ci
-      - name: Pull MCU Timeline Sheet
-        run: npm run pull-mcu-timeline-sheet
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
           http_url: https://raw.githubusercontent.com/ThatGuySam/marvelorder/main/README.md
           downloaded_filename: flat.txt
           postprocess: ./scripts/pull.mjs
+      - name: Pull MCU Timeline Sheet
+        run: npm run pull-mcu-timeline-sheet
