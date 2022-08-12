@@ -827,7 +827,8 @@
 		"genre_ids": [
 			16,
 			10751,
-			35
+			35,
+			878
 		],
 		"id": 1010818,
 		"original_language": "en",
@@ -849,7 +850,9 @@
 		"backdrop_path": "/tTrZap8lEJsdpnab5yIR3d9bedg.jpg",
 		"genre_ids": [
 			16,
-			10751
+			10751,
+			35,
+			878
 		],
 		"id": 1010819,
 		"original_language": "en",
@@ -916,7 +919,9 @@
 		"backdrop_path": "/4bsz75kSdeVQm9u5aD87ciRpYVW.jpg",
 		"genre_ids": [
 			16,
-			10751
+			10751,
+			35,
+			878
 		],
 		"id": 1010821,
 		"original_language": "en",
@@ -938,7 +943,9 @@
 		"backdrop_path": "/qtKlSjETlYzbq4URtxocQtKce8d.jpg",
 		"genre_ids": [
 			16,
-			10751
+			10751,
+			878,
+			35
 		],
 		"id": 1010823,
 		"original_language": "en",
@@ -1564,16 +1571,16 @@
 			10765
 		],
 		"id": 114695,
-		"name": "Marvel Studios: Legends",
+		"name": "Marvel Studios Legends",
 		"origin_country": [
 			"US"
 		],
 		"original_language": "en",
-		"original_name": "Marvel Studios: Legends",
+		"original_name": "Marvel Studios Legends",
 		"overview": "Revisit the epic heroes, villains and moments from across the MCU in preparation for the stories still to come. Each dynamic segment feeds directly into the upcoming series — setting the stage for future events. This series weaves together the many threads that constitute the unparalleled Marvel Cinematic Universe.",
 		"poster_path": "/EpDuYIK81YtCUT3gH2JDpyj8Qk.jpg",
 		"vote_average": 7.5,
-		"title": "Marvel Studios: Legends",
+		"title": "Marvel Studios Legends",
 		"slug": "marvel-studios-legends",
 		"tags": [
 			"tv",
@@ -3989,7 +3996,7 @@
 		"original_name": "Iron Man: Armored Adventures",
 		"overview": "Iron Man: Armored Adventures is a 3D CGI cartoon series based on the Marvel Comics superhero Iron Man. It debuted in the USA on the Nicktoons on April 24, 2009, and has already begun airing on Canadian network Teletoon. Iron Man: Armored Adventures aired on Nickelodeon on July 4, 2009 until September 12, 2009. The series is story edited by showrunner Christopher Yost, who also worked on Wolverine and the X-Men, and numerous other Marvel Animation projects. The television show is not related to the 2007 animated film The Invincible Iron Man; It has a different voice cast, but some story elements are similar and the show uses the same musical score as the film in some instances. It is the first Iron Man television series since Iron Man from 1994–1996, and started airing after the success of the live action Iron Man film.\n\nThe series follows the adventures of teenage child prodigy Tony Stark and his alter ego of Iron Man. As Iron Man, he uses his technological inventions to fight various similarly technologically advanced threats. His friends, James \"Rhodey\" Rhodes and Pepper Potts help him on his courageous, and dangerous adventures.",
 		"poster_path": "/uwMIL8PR1jHpHQksIq7kzdeqg2A.jpg",
-		"vote_average": 7.6,
+		"vote_average": 7.5,
 		"title": "Iron Man: Armored Adventures",
 		"slug": "iron-man-armored-adventures",
 		"tags": [

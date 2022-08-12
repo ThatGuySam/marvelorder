@@ -31,7 +31,9 @@ tags:
     "backdrop_path": "/tTrZap8lEJsdpnab5yIR3d9bedg.jpg",
     "genre_ids": [
         16,
-        10751
+        10751,
+        35,
+        878
     ],
     "id": 1010819,
     "original_language": "en",
