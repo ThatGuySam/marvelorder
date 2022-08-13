@@ -35,9 +35,9 @@ const canonicalUrl = Astro.url.pathname
 const author = 'MarvelOrder.com'
 
 
-const thorListings = await getTaggedListings( [ 'has-thor' ] )
+const storyTaggedListings = await getTaggedListings( content.lists || [] )
 
-// console.log( 'thorListings', thorListings )
+// console.log( 'storyTaggedListings', storyTaggedListings )
 
 ---
 <!DOCTYPE html>
@@ -170,7 +170,7 @@ const thorListings = await getTaggedListings( [ 'has-thor' ] )
                 </amp-story-grid-layer>
             </StoryPage>
 
-            { thorListings.map( listing => [
+            { storyTaggedListings.map( listing => (
                 <StoryPage
                     id={ `page-${ listing.elementId }` }
                     backgroundSrc={ listing.backdrop() }
@@ -189,7 +189,7 @@ const thorListings = await getTaggedListings( [ 'has-thor' ] )
                         <p class="text-sm">{ listing.description }</p>
                     </amp-story-grid-layer>
                 </StoryPage>
-            ])}
+            ))}
 
             <!-- The bookend is the correct way to properly bring a clean, shareable end to the Web Story. -->
             <!-- Bookend -->
