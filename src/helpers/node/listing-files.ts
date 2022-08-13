@@ -139,6 +139,11 @@ export async function getUpcomingListings () {
 
 
 export async function getTaggedListings ( tags: string[] ) {
+    // Return empty array if no tags are provided
+    if ( !tags || tags.length === 0 ) {
+        return []
+    }
+
     const rawListings = await getAllListings()
 
     const hasAnyTag = ( listing: Listing ) => {
@@ -148,7 +153,7 @@ export async function getTaggedListings ( tags: string[] ) {
     }
 
     // Filter listings
-    const upcomingListings = new FilteredListings({
+    const taggedListings = new FilteredListings({
         listings: rawListings,
         initialFilters: [
             [ hasAnyTag, true ]
@@ -156,7 +161,7 @@ export async function getTaggedListings ( tags: string[] ) {
         listingsSort: 'default'
     })
 
-    return upcomingListings.list
+    return taggedListings.list
 }
 
 
