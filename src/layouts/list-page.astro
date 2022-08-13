@@ -12,7 +12,7 @@ import ListingRow from '../components/listing-row.vue'
 const pageUrl = Astro.url || Astro.canonicalURL
 
 // Get last part of URL
-const slug = pageUrl.pathname.split('/').at( -2 )
+const slug = pageUrl.pathname.replace(/\/$/, '').split('/').at( -1 )
 
 // Get listings from slug
 const listings = await getListingsFromSlug( slug )
