@@ -9,7 +9,8 @@ import { capitalCase } from 'change-case'
 import { listingsGlobPattern } from '~/src/config.ts'
 import {
     makeSlug,
-    mergeListingData
+    mergeListingData,
+    ensureMappedListing
 // @ts-ignore
 } from '~/src/helpers/node/listing.ts'
 import {
@@ -280,4 +281,68 @@ export async function getListingsFromSlug ( slug:string = '' ) {
     })
 
     return filteredListings.list
+}
+
+
+export async function mapStoryContentToListings ( storyMarkdown: string ) {
+
+    // If there's no h2 headings then return empty array
+    if ( !storyMarkdown.includes('##') ) {
+        return {
+            cover: null,
+            listings: []
+        }
+    }
+
+    const markdownSections = storyMarkdown.trim().split( '##' )
+
+    // Loop through each line to build the listings
+    const listingsFromContent = await Promise.all(
+        markdownSections
+        .filter( section => section.trim() !== '' )
+        .map( async ( lines ) => {
+            const sectionDetails = {
+                heading: '',
+                url: '',
+                description: ''
+            }
+
+            // Extract heading link and content
+            const [ headingLink, ...sectionContentParts ] = lines.trim().split( '\n' ).filter( line => line.trim() !== '' )
+
+            sectionDetails.description = sectionContentParts.join('\n')
+
+            // If it's the cover
+            // then return right now
+            if ( headingLink.toLowerCase().includes('cover') ) {
+                sectionDetails.heading = 'Cover'
+                return sectionDetails
+            }
+
+            // Extract text and url from markdown link
+            const [ sectionHeadingText, listingUrlString ] = headingLink.trim().slice(1, -1).split( '](' )
+
+            const url = new URL( listingUrlString )
+
+            sectionDetails.heading = sectionHeadingText
+            sectionDetails.url = url.pathname
+
+            const listing = ensureMappedListing( await getSingleListingFromUrl( listingUrlString ) )
+
+            // Transfer sectionDetails to listing
+            for ( const key of Object.keys( sectionDetails ) ) {
+                listing[ key ] = sectionDetails[ key ]
+            }
+
+            return listing
+        })
+    )
+
+    const [ cover, ...listings ] = listingsFromContent
+
+
+    return {
+        cover,
+        listings//: ensureMappedListings( listings )
+    }
 }
