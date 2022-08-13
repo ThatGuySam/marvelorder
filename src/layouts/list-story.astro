@@ -160,6 +160,7 @@ const storyTaggedListings = await getTaggedListings( content.lists || [] )
                 id="cover"
                 backgroundSrc={ videoUrl }
                 backgroundPoster={ videoPosterUrl }
+                mediaAriaLabel={ content.coverAriaLabel }
             >
                 <amp-story-grid-layer
                     template="vertical"

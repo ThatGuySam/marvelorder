@@ -45,7 +45,7 @@ const backgroundType = (() => {
                 height="1280"
                 poster={ backgroundPoster }
                 layout="responsive"
-                title="Thor arriving with Lightning"
+                title={ Astro.props.mediaAriaLabel }
             >
                 <source src={ backgroundSrc } type="video/mp4" />
             </amp-video>
