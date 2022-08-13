@@ -28,7 +28,7 @@ Previous titles:
     ],
     "original_language": "en",
     "original_name": "Agatha: Coven of Chaos",
-    "overview": "Follows Agatha Harkness before and after her appearance in WandaVision.",
+    "overview": "Follow Agatha Harkness before and after her appearance in WandaVision.",
     "poster_path": "/A4JyrpPCsw57E0JHcZK7TDPVPqP.jpg",
     "vote_average": 0,
     "title": "Agatha: Coven of Chaos",

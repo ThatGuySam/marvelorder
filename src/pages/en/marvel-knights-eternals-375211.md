@@ -30,7 +30,7 @@ type: movie
     "release_date": "2014-09-16",
     "title": "Marvel Knights: Eternals",
     "video": false,
-    "vote_average": 7.3,
+    "vote_average": 7.2,
     "slug": "marvel-knights-eternals",
     "tags": [
         "movie",

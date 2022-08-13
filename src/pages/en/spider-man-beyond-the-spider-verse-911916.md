@@ -23,7 +23,7 @@ logo_on_black: /.netlify/functions/tmdb-image/5cAuJOfd5tuuFBz2yQmBCtVBaj0.webp
     "original_language": "en",
     "original_title": "Spider-Man: Beyond the Spider-Verse",
     "overview": "The further continuing story of Miles Morales and the many other Spider-People from different realities.",
-    "poster_path": "/5cAuJOfd5tuuFBz2yQmBCtVBaj0.jpg",
+    "poster_path": "/4CKwqH2irlJk23koeYJknQMqWL6.jpg",
     "release_date": "2024-03-28",
     "title": "Spider-Man: Beyond the Spider-Verse",
     "video": false,

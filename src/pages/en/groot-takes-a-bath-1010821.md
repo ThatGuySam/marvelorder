@@ -40,10 +40,10 @@ tags:
     "original_title": "Groot Takes a Bath",
     "overview": "Everybody needs some alone time to relax and wash up, but things go quite differently when you’re a Flora Colossi toddler.",
     "poster_path": "/sN7FJP06TsNNtK9Jr77dc25yI82.jpg",
-    "release_date": "2022-07-22",
+    "release_date": "2022-08-10",
     "title": "Groot Takes a Bath",
     "video": false,
-    "vote_average": 8.7,
+    "vote_average": 8.1,
     "slug": "groot-takes-a-bath",
     "tags": [
         "movie",

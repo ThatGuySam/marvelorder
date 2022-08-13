@@ -96,10 +96,10 @@
 	},
 	{
 		"backdrop_path": "/z1ORktzKYzEUifGn9iIKeL4T1TG.jpg",
-		"first_air_date": "",
 		"genre_ids": [
 			10759,
-			18
+			18,
+			80
 		],
 		"id": 122226,
 		"name": "Echo",
@@ -132,7 +132,7 @@
 		],
 		"original_language": "en",
 		"original_name": "Agatha: Coven of Chaos",
-		"overview": "Follows Agatha Harkness before and after her appearance in WandaVision.",
+		"overview": "Follow Agatha Harkness before and after her appearance in WandaVision.",
 		"poster_path": "/A4JyrpPCsw57E0JHcZK7TDPVPqP.jpg",
 		"vote_average": 0,
 		"title": "Agatha: Coven of Chaos",
@@ -581,7 +581,7 @@
 		"original_language": "en",
 		"original_title": "Spider-Man: Beyond the Spider-Verse",
 		"overview": "The further continuing story of Miles Morales and the many other Spider-People from different realities.",
-		"poster_path": "/5cAuJOfd5tuuFBz2yQmBCtVBaj0.jpg",
+		"poster_path": "/4CKwqH2irlJk23koeYJknQMqWL6.jpg",
 		"release_date": "2024-03-28",
 		"title": "Spider-Man: Beyond the Spider-Verse",
 		"video": false,
@@ -648,7 +648,7 @@
 		"original_language": "en",
 		"original_title": "Madame Web",
 		"overview": "An origin story of the clairvoyant known as Madame Web, whose psychic abilities allow her to see within the spider world.",
-		"poster_path": "/rIL6lkGrnDagHWpFOA83slnOSdl.jpg",
+		"poster_path": null,
 		"release_date": "2023-10-06",
 		"title": "Madame Web",
 		"video": false,
@@ -695,7 +695,7 @@
 		"original_language": "en",
 		"original_title": "Spider-Man: Across the Spider-Verse",
 		"overview": "Miles Morales returns for the next chapter of the Spider-Verse saga, an epic adventure that will transport Brooklyn’s full-time, friendly neighborhood Spider-Man across the Multiverse to join forces with Gwen Stacy and a new team of Spider-People to face off with a villain more powerful than anything they have ever encountered.",
-		"poster_path": "/zfZuSNGKxIlWQKi4xlIhFoRrlnj.jpg",
+		"poster_path": "/aeLYAvrnZ1auOdMiEqcTTo00Zzc.jpg",
 		"release_date": "2023-06-02",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
@@ -776,7 +776,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/lPSbddV8OjBqO78qqamCSKj0fO6.jpg",
+		"backdrop_path": "/fSfWloWi5rmqbmC7GhO0HY2TMZW.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -813,7 +813,7 @@
 		"original_name": "She-Hulk: Attorney at Law",
 		"overview": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered hulk.",
 		"poster_path": "/qhRex189iu6Cs0dV7ahbuBaRgeK.jpg",
-		"vote_average": 0,
+		"vote_average": 10,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
 		"tags": [
@@ -838,7 +838,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot's First Steps",
 		"video": false,
-		"vote_average": 8.5,
+		"vote_average": 7.9,
 		"slug": "groots-first-steps",
 		"tags": [
 			"movie",
@@ -862,7 +862,7 @@
 		"release_date": "2022-08-10",
 		"title": "The Little Guy",
 		"video": false,
-		"vote_average": 8.8,
+		"vote_average": 8.1,
 		"slug": "the-little-guy",
 		"tags": [
 			"movie",
@@ -881,34 +881,13 @@
 		"id": 1010820,
 		"original_language": "en",
 		"original_title": "Groot's Pursuit",
-		"overview": "Waking up in the middle of his sleep in Eclector's Quadrant, Baby Groot finds a broken vial and traces the bubble-colored liquid from it around the ship. He later encounters Iwua, a shape-shifting alien who impersonates him. The pair dance, with the alien teaching him dance steps, until Groot ejects Iwua out of the ship via the airlock.",
+		"overview": "Groot investigates a spooky noise that’s been haunting the Quadrant, which leads to an intense dance off.",
 		"poster_path": "/z5AQHYTTx7DzG9CRd01ny9DtqNE.jpg",
 		"release_date": "2022-08-10",
 		"title": "Groot's Pursuit",
 		"video": false,
-		"vote_average": 8.8,
+		"vote_average": 8.2,
 		"slug": "groots-pursuit",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/qXOYUTJ5p5aINFGmyIWTGeZCNTc.jpg",
-		"genre_ids": [
-			99
-		],
-		"id": 1001912,
-		"original_language": "en",
-		"original_title": "The Making of Ms. Marvel",
-		"overview": "Go behind-the-scenes every step of the way with immersive footage from the making of the series, along with insightful interviews on set from the cast and crew of Ms. Marvel as we watch Iman Vellani and her character, Kamala Khan, become the fan-favorite superhero right before our eyes.",
-		"poster_path": "/6m0rG2bS90FOlUaxEq8ZPCTQMei.jpg",
-		"release_date": "2022-08-03",
-		"title": "The Making of Ms. Marvel",
-		"video": false,
-		"vote_average": 4.4,
-		"slug": "the-making-of-ms-marvel",
 		"tags": [
 			"movie",
 			"company-420"
@@ -928,11 +907,32 @@
 		"original_title": "Groot Takes a Bath",
 		"overview": "Everybody needs some alone time to relax and wash up, but things go quite differently when you’re a Flora Colossi toddler.",
 		"poster_path": "/sN7FJP06TsNNtK9Jr77dc25yI82.jpg",
-		"release_date": "2022-07-22",
+		"release_date": "2022-08-10",
 		"title": "Groot Takes a Bath",
 		"video": false,
-		"vote_average": 8.7,
+		"vote_average": 8.1,
 		"slug": "groot-takes-a-bath",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/qXOYUTJ5p5aINFGmyIWTGeZCNTc.jpg",
+		"genre_ids": [
+			99
+		],
+		"id": 1001912,
+		"original_language": "en",
+		"original_title": "The Making of Ms. Marvel",
+		"overview": "Go behind-the-scenes every step of the way with immersive footage from the making of the series, along with insightful interviews on set from the cast and crew of Ms. Marvel as we watch Iman Vellani and her character, Kamala Khan, become the fan-favorite superhero right before our eyes.",
+		"poster_path": "/6m0rG2bS90FOlUaxEq8ZPCTQMei.jpg",
+		"release_date": "2022-08-03",
+		"title": "The Making of Ms. Marvel",
+		"video": false,
+		"vote_average": 4.8,
+		"slug": "the-making-of-ms-marvel",
 		"tags": [
 			"movie",
 			"company-420"
@@ -955,7 +955,7 @@
 		"release_date": "2022-07-18",
 		"title": "Magnum Opus",
 		"video": false,
-		"vote_average": 8.9,
+		"vote_average": 8.3,
 		"slug": "magnum-opus",
 		"tags": [
 			"movie",
@@ -1961,7 +1961,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/zTWKM7lw5sXRUbsxv4HtBFhktuk.jpg",
+		"backdrop_path": "/4amkATUf2mh5QL9OQ3WmHQqx9wk.jpg",
 		"first_air_date": "2018-06-07",
 		"genre_ids": [
 			10759,
@@ -2895,7 +2895,7 @@
 		"release_date": "2014-09-16",
 		"title": "Marvel Knights: Eternals",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.2,
 		"slug": "marvel-knights-eternals",
 		"tags": [
 			"movie",
@@ -3572,7 +3572,7 @@
 		"release_date": "2011-10-25",
 		"title": "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 6.9,
 		"slug": "marvel-one-shot-a-funny-thing-happened-on-the-way-to-thors-hammer",
 		"tags": [
 			"movie",
@@ -4628,7 +4628,7 @@
 		"release_date": "2001-08-11",
 		"title": "X-Men: The Mutant Watch",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7.2,
 		"slug": "x-men-the-mutant-watch",
 		"tags": [
 			"movie",
