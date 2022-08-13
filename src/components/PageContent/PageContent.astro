@@ -12,11 +12,11 @@ import TmdbImage from '~/src/components/tmdb-image.vue'
 
 const { content, githubEditUrl } = Astro.props
 
-const rawListing = await getSingleListingFromUrl( Astro.canonicalURL.href )
+const rawListing = await getSingleListingFromUrl( Astro.url.href )
 ---
 
 { !!rawListing.backdrop_path && (
-	<div 
+	<div
 		class="backdrop absolute inset-0"
 	>
 		<TmdbImage
@@ -32,13 +32,13 @@ const rawListing = await getSingleListingFromUrl( Astro.canonicalURL.href )
 		<!-- <nav class="block sm:hidden">
 			<TableOfContents client:media="(max-width: 50em)" {headers} />
 		</nav> -->
-		
+
 		<ListingContent
 			listing={ rawListing }
 			context="listing-page"
 			class="relative h-full px-8"
 		/>
-			
+
 		<slot />
 	</section>
 	<nav class="block sm:hidden">
