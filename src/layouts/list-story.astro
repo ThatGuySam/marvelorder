@@ -5,7 +5,10 @@ import esbuild from 'esbuild'
 
 import tailwindStyles from '@astrojs/tailwind/base.css?inline'
 import indexStyles from '~/src/styles/index.css?inline'
-import { getTaggedListings } from '~/src/helpers/node/listing-files'
+import {
+    getTaggedListings,
+    mapStoryContentToListings
+} from '~/src/helpers/node/listing-files'
 
 import HeadCommon from '../components/HeadCommon.astro'
 import MainHeading from '~/src/components/story/main-heading.astro'
@@ -27,9 +30,9 @@ const inlineStyles = esbuild.transformSync(rawInlineStyles, {
 
 const { content = {} } = Astro.props;
 const currentPage = new URL(Astro.request.url).pathname;
-const currentFile = `src/pages${currentPage.replace(/\/$/, '')}.md`;
 
-console.log( 'content', content )
+// console.log( 'Astro', Astro )
+
 
 const videoPosterUrl = content.coverPosterUrl
 const videoUrl = content.coverVideoUrl
@@ -38,6 +41,15 @@ const author = 'MarvelOrder.com'
 
 
 const storyTaggedListings = await getTaggedListings( content.lists || [] )
+
+const fromContent = await mapStoryContentToListings( Astro.props.rawContent() )
+
+// console.log( 'fromContent', fromContent.listings[0].backdrop() )
+
+const storyListings = [
+    ...fromContent.listings,
+    ...storyTaggedListings,
+]
 
 // console.log( 'storyTaggedListings', storyTaggedListings )
 
@@ -173,7 +185,7 @@ const storyTaggedListings = await getTaggedListings( content.lists || [] )
                 </amp-story-grid-layer>
             </StoryPage>
 
-            { storyTaggedListings.map( listing => (
+            { storyListings.map( listing => (
                 <StoryPage
                     id={ `page-${ listing.elementId }` }
                     backgroundSrc={ listing.backdrop() }
