@@ -1,5 +1,4 @@
 ---
-draft: true
 title: The Little Guy
 slug: the-little-guy
 description: >-

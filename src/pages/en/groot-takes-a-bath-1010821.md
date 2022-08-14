@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Groot Takes a Bath
 slug: groot-takes-a-bath
 description: >-

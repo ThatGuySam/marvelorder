@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Magnum Opus
 slug: magnum-opus
 description: >-
