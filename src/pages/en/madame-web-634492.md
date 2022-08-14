@@ -20,7 +20,7 @@ logo_on_black: /.netlify/functions/tmdb-image/urh8yBp7ihPaBeLSmlYmJB3qgYy.webp
     "id": 634492,
     "original_language": "en",
     "original_title": "Madame Web",
-    "overview": "An origin story of the clairvoyant known as Madame Web, whose psychic abilities allow her to see within the spider world.",
+    "overview": "Four female web-warriors must protect an unborn Peter Parker from being killed to protect the web of life.",
     "poster_path": null,
     "release_date": "2023-10-06",
     "title": "Madame Web",
