@@ -298,6 +298,16 @@ export function isMarvelKnightsAnimated ( listing ) {
     return isMarvelKnights( listing ) && isAnimatedGenre( listing )
 }
 
+export function isGrootEpisode ( listing ) {
+    const iAmGrootRelease = '2022-08-10'
+
+    if ( !listing.release_date || listing.release_date !== iAmGrootRelease ) return false
+
+    // If it's title is not "I Am Groot"
+    // then it's not the Groot episode
+    return !listing.title.toLowerCase().includes( 'i am groot' )
+}
+
 export function hasLogo ( listing ) {
     if ( typeof listing?.logo_on_black !== 'string' ) return false
 
