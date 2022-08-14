@@ -1,14 +1,14 @@
 import 'dotenv/config'
 import axios from 'axios'
 
-import { 
-    getYearAndMonth, 
+import {
+    getYearAndMonth,
     makeSlug
 // @ts-ignore
 } from '~/src/helpers/node/listing.ts'
 
 // @ts-ignore
-import { getDefaultFilteredListings } from '~/src/helpers/node/listing-files.ts'
+import { getAllListingsMapped } from '~/src/helpers/node/listing-files.ts'
 
 
 
@@ -16,7 +16,7 @@ const inUniverseFirstPage = '/CuratedSet/version/5.1/region/US/audience/k-false,
 
 
 function mapCuratedSetItem ( item:any ) {
-    const isSeries = !!item?.seriesType 
+    const isSeries = !!item?.seriesType
     const programOrSeries = isSeries ? 'series' : 'program'
     const titleObject = item.text.title
 
@@ -90,7 +90,7 @@ export function matchTimelineEntryToSavedListing ( inUniverseEntry:any, savedLis
 
 export async function getInUniverseTimelineAndListings () {
     const universeTimeline = await getInUniverseTimeline()
-    const savedListings = await getDefaultFilteredListings()
+    const savedListings = await getAllListingsMapped()
 
     const matches = new Map()
 
