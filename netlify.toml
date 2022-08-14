@@ -44,6 +44,11 @@
     to = "/en/untitled-shang-chi-sequel-912502"
     status = 301
 
+[[redirects]]
+    from = "/en/i-am-groot-207867"
+    to = "/en/i-am-groot-114469"
+    status = 301
+
 
 # [[redirects]]
 #     from = "/en/"
