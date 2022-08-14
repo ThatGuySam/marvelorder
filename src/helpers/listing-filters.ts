@@ -402,6 +402,12 @@ export const defaultFilters = new Map([
         {
             targetValue: false
         }
+    ],
+    [
+        isGrootEpisode,
+        {
+            targetValue: false
+        }
     ]
 ])
 
