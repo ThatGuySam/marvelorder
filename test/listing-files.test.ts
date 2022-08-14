@@ -2,9 +2,9 @@
 import { assert, expect, test } from 'vitest'
 import { faker } from '@faker-js/faker'
 
-import { 
-    upsertListingFrontmatter, 
-    getListingFiles, 
+import {
+    upsertListingFrontmatter,
+    getListingFiles,
     getListingDetailsFromPaths,
     getDefaultFilteredListings
 // @ts-ignore
@@ -28,7 +28,7 @@ const fakeListing = {
     original_language: faker.address.countryCode(),
     popularity: faker.datatype.number(),
     poster_path: faker.image.imageUrl(),
-    slug: faker.lorem.slug(), 
+    slug: faker.lorem.slug(),
     tags: [ faker.lorem.word(), faker.lorem.word() ]
 }
 
@@ -36,7 +36,7 @@ const fakeListing = {
 test('Can insert listing Frontmatter Data', async () => {
     const sourceListing = {
         title: faker.lorem.sentence(),
-        slug: faker.lorem.slug(), 
+        slug: faker.lorem.slug(),
         overview: faker.lorem.paragraph(),
     }
 
@@ -50,7 +50,7 @@ test('Can insert listing Frontmatter Data', async () => {
 test('Can merge Frontmatter arrays', async () => {
     const sourceListing = {
         title: faker.lorem.sentence(),
-        slug: faker.lorem.slug(), 
+        slug: faker.lorem.slug(),
         overview: faker.lorem.paragraph(),
         tags: [ 'can-retain-tags' ]
     }
@@ -97,7 +97,7 @@ test('No listing frontmatter properties end with backward slash', async () => {
 
 
 test('Can get Disney+ In Universe Timeline', async () => {
-    
+
     const universeTimeline = await getInUniverseTimeline()
 
     expect( universeTimeline ).toBeDefined()
@@ -114,4 +114,12 @@ test('Can match Disney+ In Universe Timeline to save listings', async () => {
         // console.log( 'mappedListing', mappedListing )
         expect( mappedListing ).toHaveProperty( 'title' )
     }
+})
+
+test('Can see Thor 1 within Disney+ In Universe Timeline', async () => {
+    const universeTimelineAndListings = await getInUniverseTimelineAndListings()
+
+    const thor1 = universeTimelineAndListings.find( ({ mappedListing }) => mappedListing.title === 'Thor' )
+
+    expect( thor1 ).toBeDefined()
 })
