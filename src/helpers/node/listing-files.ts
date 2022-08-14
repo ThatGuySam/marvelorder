@@ -10,7 +10,8 @@ import { listingsGlobPattern } from '~/src/config.ts'
 import {
     makeSlug,
     mergeListingData,
-    ensureMappedListing
+    ensureMappedListing,
+    ensureMappedListings
 // @ts-ignore
 } from '~/src/helpers/node/listing.ts'
 import {
@@ -77,6 +78,13 @@ export async function getAllListings () {
     const listingDetails = await getListingsFromFilePaths( listingFilePaths )
 
     return listingDetails
+}
+
+export async function getAllListingsMapped () {
+    const allListings = await getAllListings()
+    const allListingsMapped = ensureMappedListings( allListings )
+
+    return allListingsMapped
 }
 
 export async function getSingleListingFromUrl ( rawUrl: string ) {
