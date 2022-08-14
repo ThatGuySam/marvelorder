@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Groot's First Steps
 slug: groots-first-steps
 description: >-
