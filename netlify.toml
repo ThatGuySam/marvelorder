@@ -49,6 +49,11 @@
     to = "/en/i-am-groot-114469"
     status = 301
 
+[[redirects]]
+    from = "/en/marvels-avengers-secret-wars-short-206006"
+    to = "/en/marvels-avengers-secret-wars-206006"
+    status = 301
+
 
 # [[redirects]]
 #     from = "/en/"
