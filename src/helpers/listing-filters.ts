@@ -299,9 +299,9 @@ export function isMarvelKnightsAnimated ( listing ) {
 }
 
 export function isGrootEpisode ( listing ) {
-    const iAmGrootRelease = '2022-08-10'
+    const iAmGrootReleaseDates = [ '2022-08-10', '2022-07-18' ]
 
-    if ( !listing.release_date || listing.release_date !== iAmGrootRelease ) return false
+    if ( !listing.release_date || !iAmGrootReleaseDates.includes( listing.release_date ) ) return false
 
     // If it's title is not "I Am Groot"
     // then it's not the Groot episode
