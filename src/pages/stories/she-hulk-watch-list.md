@@ -48,6 +48,9 @@ After devastating defeat at the hand of Thanos, Bruce Banner arrives on earth to
 ## [Avengers: Endgame](https://marvelorder.com/en/avengers-endgame-299534/)
 
 The Hulk and Bruce Banner are able to reconcile and merge into Proffessor Hulk and help the Avengers with a new shot at reveresing the damage Thanos caused.
+## [Shang-Chi](https://marvelorder.com/en/shang-chi-and-the-legend-of-the-ten-rings-566525/)
+
+After the events of Avengers: Endgame we get to briefly see non-Hulked Bruce Banner wearing an arm cast.
 
 ## [She-Hulk](https://marvelorder.com/en/she-hulk-attorney-at-law-92783/)
 
