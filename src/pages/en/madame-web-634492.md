@@ -15,13 +15,14 @@ logo_on_black: /.netlify/functions/tmdb-image/urh8yBp7ihPaBeLSmlYmJB3qgYy.webp
     "backdrop_path": null,
     "genre_ids": [
         28,
-        14
+        14,
+        878
     ],
     "id": 634492,
     "original_language": "en",
     "original_title": "Madame Web",
     "overview": "Four female web-warriors must protect an unborn Peter Parker from being killed to protect the web of life.",
-    "poster_path": null,
+    "poster_path": "/3SSRkZKizZdiqP3Hy6gu6XInDBx.jpg",
     "release_date": "2023-10-06",
     "title": "Madame Web",
     "video": false,
