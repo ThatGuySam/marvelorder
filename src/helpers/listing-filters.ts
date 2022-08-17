@@ -438,6 +438,7 @@ export class FilteredListings {
         listings = null,
         initialFilters = new Map(),
         listingsSort = '' as string,
+        useDefaultFilters = true as boolean,
     } = {} ) {
 
         // Throw for empty sort
@@ -450,8 +451,10 @@ export class FilteredListings {
 
         this.initialListings = ensureMappedListings( listings ).sort( this.listingsSort )
 
+        const baseFilters = useDefaultFilters ? defaultFilters : new Map()
+
         this.activeFilters = new Map([
-            ...defaultFilters,
+            ...baseFilters,
             ...initialFilters,
         ])
 
