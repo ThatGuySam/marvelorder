@@ -23,7 +23,7 @@ tags:
     "original_title": "Avengers: Secret Wars",
     "overview": "An upcoming Phase 6 Marvel Cinematic Universe film that will conclude the Multiverse Saga.",
     "poster_path": "/8chwENebfUEJzZ7sMUA0nOgiCKk.jpg",
-    "release_date": "2025-11-07",
+    "release_date": "2025-11-05",
     "title": "Avengers: Secret Wars",
     "video": false,
     "vote_average": 0,

@@ -373,6 +373,28 @@
 		"backdrop_path": null,
 		"genre_ids": [
 			28,
+			27,
+			10770
+		],
+		"id": 894205,
+		"original_language": "en",
+		"original_title": "Untitled Halloween Special",
+		"overview": "A Marvel Halloween special for Disney+ based around the character Werewolf by Night.",
+		"poster_path": null,
+		"title": "Untitled Halloween Special",
+		"video": false,
+		"vote_average": 0,
+		"slug": "untitled-halloween-special",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			28,
 			12,
 			14
 		],
@@ -443,7 +465,7 @@
 		"original_title": "Avengers: Secret Wars",
 		"overview": "An upcoming Phase 6 Marvel Cinematic Universe film that will conclude the Multiverse Saga.",
 		"poster_path": "/8chwENebfUEJzZ7sMUA0nOgiCKk.jpg",
-		"release_date": "2025-11-07",
+		"release_date": "2025-11-05",
 		"title": "Avengers: Secret Wars",
 		"video": false,
 		"vote_average": 0,
@@ -467,7 +489,7 @@
 		"original_title": "Avengers: The Kang Dynasty",
 		"overview": "An upcoming Phase 6 Marvel Cinematic Universe film and part of The Multiverse Saga.",
 		"poster_path": "/utZTb3VBrH0zR77BcISU67pHuAx.jpg",
-		"release_date": "2025-05-01",
+		"release_date": "2025-04-30",
 		"title": "Avengers: The Kang Dynasty",
 		"video": false,
 		"vote_average": 0,
@@ -492,7 +514,7 @@
 		"original_title": "Fantastic Four",
 		"overview": "Set in the Marvel Cinematic Universe (MCU) and based on the Marvel Comics characters of the same name",
 		"poster_path": "/jatnqRPnxjg2Q6cFsAjmrBNhx9.jpg",
-		"release_date": "2024-11-08",
+		"release_date": "2024-11-06",
 		"title": "Fantastic Four",
 		"video": false,
 		"vote_average": 0,
@@ -651,9 +673,9 @@
 		"id": 634492,
 		"original_language": "en",
 		"original_title": "Madame Web",
-		"overview": "Four female web-warriors must protect an unborn Peter Parker from being killed to protect the web of life.",
+		"overview": "An origin story of the clairvoyant known as Madame Web, whose psychic abilities allow her to see within the spider world.",
 		"poster_path": "/3SSRkZKizZdiqP3Hy6gu6XInDBx.jpg",
-		"release_date": "2023-10-06",
+		"release_date": "2023-10-04",
 		"title": "Madame Web",
 		"video": false,
 		"vote_average": 0,
@@ -700,7 +722,7 @@
 		"original_title": "Spider-Man: Across the Spider-Verse",
 		"overview": "Miles Morales returns for the next chapter of the Spider-Verse saga, an epic adventure that will transport Brooklyn’s full-time, friendly neighborhood Spider-Man across the Multiverse to join forces with Gwen Stacy and a new team of Spider-People to face off with a villain more powerful than anything they have ever encountered.",
 		"poster_path": "/aeLYAvrnZ1auOdMiEqcTTo00Zzc.jpg",
-		"release_date": "2023-06-02",
+		"release_date": "2023-05-31",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
 		"vote_average": 0,
@@ -802,29 +824,6 @@
 		]
 	},
 	{
-		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
-			28,
-			27,
-			10770
-		],
-		"id": 894205,
-		"original_language": "en",
-		"original_title": "Untitled Halloween Special",
-		"overview": "A Marvel Halloween special for Disney+ based around the character Werewolf by Night.",
-		"poster_path": "/aEc5I0wWqFLMbplh27qtq1GxliN.jpg",
-		"release_date": "2022-10-31",
-		"title": "Untitled Halloween Special",
-		"video": false,
-		"vote_average": 0,
-		"slug": "untitled-halloween-special",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
 		"backdrop_path": "/xdcQMtVf0JXOhgXOOTAI6tNQXRP.jpg",
 		"first_air_date": "2022-08-18",
 		"genre_ids": [
@@ -839,7 +838,7 @@
 		"original_language": "en",
 		"original_name": "She-Hulk: Attorney at Law",
 		"overview": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered hulk.",
-		"poster_path": "/qhRex189iu6Cs0dV7ahbuBaRgeK.jpg",
+		"poster_path": "/zNKVhijwhmkcMcgonCQ2yHLc7Ca.jpg",
 		"vote_average": 7.5,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
@@ -865,7 +864,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot's First Steps",
 		"video": false,
-		"vote_average": 7.7,
+		"vote_average": 7.6,
 		"slug": "groots-first-steps",
 		"tags": [
 			"movie",
@@ -889,7 +888,7 @@
 		"release_date": "2022-08-10",
 		"title": "The Little Guy",
 		"video": false,
-		"vote_average": 8,
+		"vote_average": 7.9,
 		"slug": "the-little-guy",
 		"tags": [
 			"movie",
@@ -913,7 +912,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot's Pursuit",
 		"video": false,
-		"vote_average": 7.8,
+		"vote_average": 7.7,
 		"slug": "groots-pursuit",
 		"tags": [
 			"movie",
@@ -937,7 +936,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot Takes a Bath",
 		"video": false,
-		"vote_average": 8.1,
+		"vote_average": 8,
 		"slug": "groot-takes-a-bath",
 		"tags": [
 			"movie",
