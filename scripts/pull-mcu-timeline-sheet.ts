@@ -202,13 +202,19 @@ function buildReadmeList ( matchesMap:Map<number, any> ) {
     }
 
 
+    console.log( 'Updating README viewing-order-list' )
+
     const updatedList = buildReadmeList( matches )
 
     // console.log( 'updatedList', updatedList )
 
     await updateReadmeListContent( updatedList, 'viewing-order-list' )
 
+    console.log( 'Done')
 
+
+
+    console.log( 'Updating README in-universe-list' )
 
     const inUniverseList = await makeInUniverseMarkdown()
 
@@ -216,6 +222,11 @@ function buildReadmeList ( matchesMap:Map<number, any> ) {
 
     await updateReadmeListContent( inUniverseList, 'in-universe-list' )
 
+    console.log( 'Done')
+
+
+
+    console.log( 'Updating README upcoming-list' )
 
     const upcomingListings = await getUpcomingListings()
 
@@ -224,6 +235,11 @@ function buildReadmeList ( matchesMap:Map<number, any> ) {
 
     await updateReadmeListContent( newUpcomingMarkdown, 'upcoming-list' )
 
+    console.log( 'Done')
+
+
+
+    console.log( 'Finished All README Updates' )
 
     process.exit()
 })()
