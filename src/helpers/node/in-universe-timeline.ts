@@ -7,8 +7,17 @@ import {
 // @ts-ignore
 } from '~/src/helpers/node/listing.ts'
 
+import {
+    getAllListings
 // @ts-ignore
-import { getAllListingsMapped } from '~/src/helpers/node/listing-files.ts'
+} from '~/src/helpers/node/listing-files.ts'
+
+import {
+    FilteredListings,
+    isDoc,
+    isMarvelKnightsAnimated
+// @ts-ignore
+} from '~/src/helpers/listing-filters.ts'
 
 
 
@@ -88,9 +97,38 @@ export function matchTimelineEntryToSavedListing ( inUniverseEntry:any, savedLis
     throw new Error( `Could not match timeline entry to saved listing: ${ inUniverseEntry.title }` )
 }
 
+
+const inUniverseFilters = new Map([
+    [
+        isDoc,
+        {
+            targetValue: false
+        }
+    ],
+    [
+        isMarvelKnightsAnimated,
+        {
+            targetValue: false
+        }
+    ]
+])
+
+async function getInUniverseListigns () {
+    const rawListings = await getAllListings()
+
+    const inUniverseListings = new FilteredListings({
+        listings: rawListings,
+        initialFilters: inUniverseFilters,
+        useDefaultFilters: false,
+        listingsSort: 'default'
+    })
+
+    return inUniverseListings.list
+}
+
 export async function getInUniverseTimelineAndListings () {
     const universeTimeline = await getInUniverseTimeline()
-    const savedListings = await getAllListingsMapped()
+    const savedListings = await getInUniverseListigns()
 
     const matches = new Map()
 
