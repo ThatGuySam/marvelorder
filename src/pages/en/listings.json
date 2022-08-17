@@ -373,28 +373,6 @@
 		"backdrop_path": null,
 		"genre_ids": [
 			28,
-			27,
-			10770
-		],
-		"id": 894205,
-		"original_language": "en",
-		"original_title": "Untitled Halloween Special",
-		"overview": "A Marvel Halloween special for Disney+ based around the character Werewolf by Night.",
-		"poster_path": null,
-		"title": "Untitled Halloween Special",
-		"video": false,
-		"vote_average": 0,
-		"slug": "untitled-halloween-special",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
-			28,
 			12,
 			14
 		],
@@ -455,7 +433,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/33h5wLX1OaGcDLKEqgwxXpAnk8X.jpg",
+		"backdrop_path": null,
 		"genre_ids": [
 			28,
 			878
@@ -824,6 +802,29 @@
 		]
 	},
 	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			28,
+			27,
+			10770
+		],
+		"id": 894205,
+		"original_language": "en",
+		"original_title": "Untitled Halloween Special",
+		"overview": "A Marvel Halloween special for Disney+ based around the character Werewolf by Night.",
+		"poster_path": "/aEc5I0wWqFLMbplh27qtq1GxliN.jpg",
+		"release_date": "2022-10-31",
+		"title": "Untitled Halloween Special",
+		"video": false,
+		"vote_average": 0,
+		"slug": "untitled-halloween-special",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
 		"backdrop_path": "/xdcQMtVf0JXOhgXOOTAI6tNQXRP.jpg",
 		"first_air_date": "2022-08-18",
 		"genre_ids": [
@@ -981,7 +982,7 @@
 		"release_date": "2022-07-18",
 		"title": "Magnum Opus",
 		"video": false,
-		"vote_average": 7.8,
+		"vote_average": 7.7,
 		"slug": "magnum-opus",
 		"tags": [
 			"movie",
@@ -2391,7 +2392,7 @@
 		"original_name": "Marvel's Rocket & Groot",
 		"overview": "Before becoming Guardians of the Galaxy, Rocket and Groot were bounty hunters trying to get a ship.",
 		"poster_path": "/7FHJr40MPFwtHrOyOD9buQDoVcs.jpg",
-		"vote_average": 8.2,
+		"vote_average": 7.7,
 		"title": "Marvel's Rocket & Groot",
 		"slug": "marvels-rocket-and-groot",
 		"tags": [
@@ -3507,7 +3508,7 @@
 		"original_name": "Fury Files",
 		"overview": "The mysterious Fury gives viewers top-secret access to S.H.I.E.L.D. intel on key Marvel heroes and villains by bringing together a mix of animation and motion comic art.",
 		"poster_path": "/fEpnfXuukOOkZTbJh6qylrdahbu.jpg",
-		"vote_average": 0,
+		"vote_average": 10,
 		"title": "Fury Files",
 		"slug": "fury-files",
 		"tags": [
