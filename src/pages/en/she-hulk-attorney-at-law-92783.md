@@ -26,7 +26,7 @@ logo_on_black: /.netlify/functions/tmdb-image/9DjjTb8SEquq25sScE0SXRZiKZ1.webp
     "original_name": "She-Hulk: Attorney at Law",
     "overview": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered hulk.",
     "poster_path": "/zNKVhijwhmkcMcgonCQ2yHLc7Ca.jpg",
-    "vote_average": 7.5,
+    "vote_average": 7.8,
     "title": "She-Hulk: Attorney at Law",
     "slug": "she-hulk-attorney-at-law",
     "tags": [

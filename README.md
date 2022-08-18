@@ -71,7 +71,6 @@ This is the *most* official list for the Marvel Chronologically, aka by the time
 ## Upcoming
 <!-- start-upcoming-list -->
 
-- August 18, 2022 - [She-Hulk: Attorney at Law](https://marvelorder.com/en/she-hulk-attorney-at-law-92783) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/she-hulk-attorney-at-law-92783.md)
 - September 2, 2022 - [Spider-Man No Way Home: The More Fun Stuff Version](https://marvelorder.com/en/spider-man-no-way-home-the-more-fun-stuff-version-991958) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/spider-man-no-way-home-the-more-fun-stuff-version-991958.md)
 - November 9, 2022 - [Black Panther: Wakanda Forever](https://marvelorder.com/en/black-panther-wakanda-forever-505642) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/black-panther-wakanda-forever-505642.md)
 - December 1, 2022 - [The Guardians of the Galaxy Holiday Special](https://marvelorder.com/en/the-guardians-of-the-galaxy-holiday-special-774752) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/the-guardians-of-the-galaxy-holiday-special-774752.md)
