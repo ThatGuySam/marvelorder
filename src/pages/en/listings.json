@@ -824,7 +824,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/xdcQMtVf0JXOhgXOOTAI6tNQXRP.jpg",
+		"backdrop_path": "/9GvhICFMiRQA82vS6ydkXxeEkrd.jpg",
 		"first_air_date": "2022-08-18",
 		"genre_ids": [
 			35,
@@ -838,7 +838,7 @@
 		"original_language": "en",
 		"original_name": "She-Hulk: Attorney at Law",
 		"overview": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered hulk.",
-		"poster_path": "/zNKVhijwhmkcMcgonCQ2yHLc7Ca.jpg",
+		"poster_path": "/qhRex189iu6Cs0dV7ahbuBaRgeK.jpg",
 		"vote_average": 7.8,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
@@ -1161,7 +1161,7 @@
 		"release_date": "2022-02-16",
 		"title": "ASSEMBLED: The Making of Eternals",
 		"video": false,
-		"vote_average": 6.9,
+		"vote_average": 6.8,
 		"slug": "assembled-the-making-of-eternals",
 		"tags": [
 			"movie",
@@ -1187,30 +1187,6 @@
 		"tags": [
 			"movie",
 			"company-420"
-		]
-	},
-	{
-		"backdrop_path": "/oKgHHaG4udwowSGThmXHHnyEkca.jpg",
-		"first_air_date": "2021-12-31",
-		"genre_ids": [
-			16,
-			10759
-		],
-		"id": 206006,
-		"name": "Marvel's Avengers: Secret Wars",
-		"origin_country": [
-			"US"
-		],
-		"original_language": "en",
-		"original_name": "Marvel's Avengers: Secret Wars",
-		"overview": "With Tony Stark trapped in another dimension, the Avengers muster all of their powers to try and bring him back. But before they can, they are attacked by a new cabal of villains.",
-		"poster_path": "/wINd3dSyrMxf1meRdFayO6WEMwg.jpg",
-		"vote_average": 8,
-		"title": "Marvel's Avengers: Secret Wars",
-		"slug": "marvels-avengers-secret-wars",
-		"tags": [
-			"tv",
-			"company-7505"
 		]
 	},
 	{
@@ -2921,7 +2897,7 @@
 		"release_date": "2014-09-16",
 		"title": "Marvel Knights: Eternals",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 7,
 		"slug": "marvel-knights-eternals",
 		"tags": [
 			"movie",
@@ -2985,7 +2961,7 @@
 		"original_language": "en",
 		"original_title": "X-Men: Days of Future Past",
 		"overview": "The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past – to save our future.",
-		"poster_path": "/bvN8iUpHyBIvniUk4e52SUZMA7Z.jpg",
+		"poster_path": "/9aq2sHfkkAFwH0wi4bZasXA8NbS.jpg",
 		"release_date": "2014-05-15",
 		"title": "X-Men: Days of Future Past",
 		"video": false,
@@ -3343,17 +3319,17 @@
 		],
 		"id": 59427,
 		"media_type": "tv",
-		"name": "Marvel's Avengers Assemble",
+		"name": "Marvel's Avengers",
 		"origin_country": [
 			"US"
 		],
 		"original_language": "en",
-		"original_name": "Marvel's Avengers Assemble",
+		"original_name": "Marvel's Avengers",
 		"overview": "The further adventures of the Marvel Universe's mightiest general membership superhero team. With an all-star roster consisting of Iron Man, Captain America, Thor, Hulk, Hawkeye, Falcon and, occasionally--when she feels like it and only when she feels like it--Black Widow, the Avengers are a team in the truest sense. The Avengers save the world from the biggest threats imaginable--threats no single super hero could withstand.",
 		"poster_path": "/aVYPq7FSvsdNQOXVIFnndXJPCXn.jpg",
 		"vote_average": 7.6,
-		"title": "Marvel's Avengers Assemble",
-		"slug": "marvels-avengers-assemble",
+		"title": "Marvel's Avengers",
+		"slug": "marvels-avengers",
 		"tags": [
 			"list-8204859"
 		]
@@ -4205,7 +4181,7 @@
 		"original_language": "en",
 		"original_title": "Spider-Man 3",
 		"overview": "The seemingly invincible Spider-Man goes up against an all-new crop of villains—including the shape-shifting Sandman. While Spider-Man’s superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle.",
-		"poster_path": "/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
+		"poster_path": "/fUZyFTovKMauA1zq9xDe6dmidRv.jpg",
 		"release_date": "2007-05-01",
 		"title": "Spider-Man 3",
 		"video": false,
@@ -4753,7 +4729,7 @@
 		"original_name": "Spider-Man Unlimited",
 		"overview": "Spider-Man travels to Counter-Earth to rescue a Terran shuttle crew trapped there and discovers a tyrannical & warped version of his world.",
 		"poster_path": "/fvmC5QzQwkI5ZNJauE4xpF24PTB.jpg",
-		"vote_average": 7.5,
+		"vote_average": 7.4,
 		"title": "Spider-Man Unlimited",
 		"slug": "spider-man-unlimited",
 		"tags": [
@@ -4898,7 +4874,7 @@
 		"original_name": "Fantastic Four",
 		"overview": "When Reed Richards, Sue and Johnny Storm and pilot Ben Grimm take a premature space flight on a new shuttle, they find themselves massively bombarded with cosmic radiation. Barely managing to re-enter and land safely, the quartet find themselves forever transformed with superpowers. Deciding to use these new powers to help people, they form the Fantastic Four, a superhero team dedicated to the protection of Earth from menaces like the Latverian King Dr. Doom and Galactus, the planet consumer.",
 		"poster_path": "/xqqZjLBUEOVAsXneUwITCuas9jL.jpg",
-		"vote_average": 6.5,
+		"vote_average": 6.6,
 		"title": "Fantastic Four",
 		"slug": "fantastic-four",
 		"tags": [
