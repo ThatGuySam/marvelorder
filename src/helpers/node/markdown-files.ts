@@ -1,3 +1,4 @@
+import fs from 'fs-extra'
 import glob from 'fast-glob'
 import matter from 'gray-matter'
 
@@ -7,6 +8,11 @@ import { storiesGlobPattern } from '~/src/config.ts'
 import { FilteredListings } from '~/src/helpers/listing-filters.ts'
 import {
     getAllListings
+// @ts-ignore
+} from '~/src/helpers/node/listing-files.ts'
+
+import {
+    getAllFilters
 // @ts-ignore
 } from '~/src/helpers/node/listing-files.ts'
 
@@ -78,11 +84,18 @@ export async function makeFilterMarkdownContent ( filter: Filter ) {
 
 export async function ensureFiltersHaveStories () {
     const storyFiles = await getStoryFiles()
+    const filters = getAllFilters()
 
-    console.log( 'storyFiles', storyFiles, storiesGlobPattern )
+    const missingFilters = getMissingFilterStories( storyFiles, filters )
 
-    // const markdownContent = matter.stringify( markdownBody, pageMeta )
+    // Write the missing filters to a file
+    for ( const missingFilter of missingFilters ) {
+        const { frontmatter } = await makeFilterMarkdownContent( missingFilter )
+        const markdownFilePath = `src/pages/stories/${ missingFilter.slug }.md`
 
-    // await fs.writeFile( path, markdownContent )
+        const markdownContent = matter.stringify( '', frontmatter )
+
+        await fs.writeFile( markdownFilePath, markdownContent )
+    }
 }
 
