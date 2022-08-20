@@ -248,23 +248,34 @@ export async function writeMarkdownFileNode ({ path, markdownBody, pageMeta }) {
     await fs.writeFile( path, markdownContent )
 }
 
-
-function findFilterFromSlug ( fromSlug:string = '' ) {
-    for ( const exportName of Object.keys( filterExports ) ) {
-        const name = capitalCase( exportName.replace( /^(is)/, '' ) )
-        const slug = makeSlug( name )
-
-        if ( fromSlug === slug ) {
-            // console.log( 'exportName', exportName )
-            // console.log( 'name', name )
-            // console.log( 'slug', slug )
+export function getAllFilters () {
+    return Object.entries( filterExports )
+        // Filter out any filters that doesn't start with 'is' or 'has'
+        .filter( ([ filterName ]) => filterName.startsWith('is') || filterName.startsWith('has') )
+        .map( ([ exportName, filter ]) => {
+            const name = capitalCase( exportName.replace( /^(is)/, '' ) )
+            const slug = makeSlug( name )
 
             return {
+                exportName,
                 name,
                 slug,
-                exportName,
-                filter: filterExports[ exportName ]
+                filter
             }
+        })
+}
+
+function findFilterFromSlug ( fromSlug:string = '' ) {
+    const allFilters = getAllFilters()
+
+    for ( const filter of allFilters ) {
+        const { slug } = filter
+        // const name = capitalCase( exportName.replace( /^(is)/, '' ) )
+        // const slug = makeSlug( name )
+
+        if ( fromSlug === slug ) {
+
+            return filter
         }
     }
 

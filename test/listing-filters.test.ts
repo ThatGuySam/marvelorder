@@ -9,8 +9,11 @@ import {
 // @ts-ignore
 } from '~/src/helpers/node/listing.ts'
 
+import {
+    getListingsFromSlug,
+    getAllFilters
 // @ts-ignore
-import { getListingsFromSlug } from '~/src/helpers/node/listing-files.ts'
+} from '~/src/helpers/node/listing-files.ts'
 
 
 const fakeListing = {
@@ -127,5 +130,59 @@ test('Can match listings from slugs', async () => {
             }),
         ])
     )
+
+})
+
+
+test('Can list all filters', () => {
+
+    const filters = getAllFilters()
+
+    // console.log( 'filters', filters )
+
+    // https://vitest.dev/api/#tocontain
+    expect( filters ).not.toHaveLength( 0 )
+
+    // Expected filters
+    expect( filters ).toEqual(
+        expect.arrayContaining([
+
+            // Expect a filter with the exportName isMultiverseSaga
+            expect.objectContaining({
+                exportName: 'isMultiverseSaga'
+            }),
+
+            // Expect a filter with the slug infinity-saga
+            expect.objectContaining({
+                slug: 'infinity-saga'
+            }),
+
+            // Expect a filter with the name 'Marvel Knights Animated'
+            expect.objectContaining({
+                name: 'Marvel Knights Animated'
+            }),
+        ])
+    )
+
+    const nonFilterExportNames = new Set([
+        'matchesFilters',
+        'defaultFilters',
+        'ListingFilters',
+        'FilteredListings',
+        // 'isMarvelKnightsAnimated',
+    ])
+
+    for ( const exportName of nonFilterExportNames ) {
+
+        // Exoected filters not to be found
+        expect( filters ).not.toEqual(
+            expect.arrayContaining([
+                expect.objectContaining({
+                    exportName
+                })
+            ])
+        )
+
+    }
 
 })
