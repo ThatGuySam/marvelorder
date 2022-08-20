@@ -15,6 +15,12 @@ import {
 // @ts-ignore
 } from '~/src/helpers/node/listing-files.ts'
 
+import {
+    makeFilterMarkdownContent,
+    getMissingFilterStories
+// @ts-ignore
+} from '~/src/helpers/node/markdown-files.ts'
+
 
 const fakeListing = {
     title: faker.lorem.sentence(),
@@ -184,5 +190,77 @@ test('Can list all filters', () => {
         )
 
     }
+
+})
+
+
+
+test('Can match missing story pages', () => {
+    const existingFiles = [
+        'src/pages/stories/she-hulk-watch-list.md',
+        'src/pages/stories/has-thor.md'
+    ]
+
+    const inputFilters = [
+        {
+            exportName: 'isMarvelKnightsAnimated',
+            name: 'Marvel Knights Animated',
+            slug: 'marvel-knights-animated'
+        },
+        {
+            exportName: 'hasThor',
+            name: 'Has Thor',
+            slug: 'has-thor'
+        }
+    ]
+
+    const missingFilters = getMissingFilterStories( existingFiles, inputFilters )
+
+    // https://vitest.dev/api/#tocontain
+    expect( missingFilters ).not.toHaveLength( 0 )
+
+    // Expected filters
+    expect( missingFilters ).toEqual(
+        expect.arrayContaining([
+            // Expect a filter with the exportName isMarvelKnightsAnimated
+            expect.objectContaining({
+                exportName: 'isMarvelKnightsAnimated'
+            })
+        ])
+    )
+
+    // Expect hasThor to not be in missing
+    expect( missingFilters ).not.toEqual(
+        expect.arrayContaining([
+            expect.objectContaining({
+                exportName: 'hasThor'
+            })
+        ])
+    )
+
+})
+
+
+test('Can make markdown file content from filter', async () => {
+    const filters = getAllFilters()
+
+    const markdownFilesContent = await Promise.all(filters.map( filter => {
+        return makeFilterMarkdownContent( filter )
+    } ))
+
+    // console.log( 'markdownFilesContent', markdownFilesContent )
+
+
+    expect( markdownFilesContent ).toEqual(
+        expect.arrayContaining([
+            expect.objectContaining({
+
+                frontmatter: expect.objectContaining({
+                    title: expect.stringContaining('Every Marvel Film or Series that is Marvel Knights Animated'),
+                })
+
+            }),
+        ])
+    )
 
 })
