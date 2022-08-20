@@ -48,15 +48,17 @@ export const storePath = './src/pages'
 
 export const listingsGlobPattern = 'src/pages/en/*.md'
 
+export const storiesGlobPattern = 'src/pages/stories/*.md'
+
 export const TMDB_COMPANIES = [
 	{
 		// https://www.themoviedb.org/company/420/movie
-		name: 'Marvel Studios', 
+		name: 'Marvel Studios',
 		id: '420',
 	},
 	{
 		// https://www.themoviedb.org/company/19551-marvel-enterprises/movie
-		name: 'Marvel Enterprises', 
+		name: 'Marvel Enterprises',
 		id: '19551'
 	},
 	{
@@ -80,7 +82,7 @@ export const TMDB_COMPANIES = [
 export const TMDB_LISTS = [
 	{
 		// https://www.themoviedb.org/list/8204859
-		name: 'Main', 
+		name: 'Main',
 		id: '8204859',
 		tags: []
 	},
@@ -99,12 +101,12 @@ export const TMDB_LISTS = [
 ]
 
 
-// Has to be different from lists 
+// Has to be different from lists
 // since it uses 'items' and this uses 'parts'
 export const TMDB_COLLECTTIONS = [
 	{
 		// https://www.themoviedb.org/movie/36657-x-men
-		name: 'X-Men', 
+		name: 'X-Men',
 		id: '36657',
 		tags: ['x-men']
 	}
