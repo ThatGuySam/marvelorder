@@ -144,6 +144,10 @@ export class MappedListing {
     }
 
     backdrop ( params = { transparent: 0 } ) {
+        if ( !this.sourceListing?.backdrop_path ) {
+            return null
+        }
+
         return makeTmdbImageUrl( this.sourceListing.backdrop_path, params )
     }
 
