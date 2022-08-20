@@ -1,5 +1,5 @@
 ---
-title: Marvel Series throuh the Years
+title: Marvel Series Throughout the Years
 description: 61 Marvel series throughout the years from 1967 to 2022
 layout: ../../layouts/list-story.astro
 coverAriaLabel: Fantastic Four
