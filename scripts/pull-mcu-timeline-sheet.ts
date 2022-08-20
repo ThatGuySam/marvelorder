@@ -32,6 +32,11 @@ import {
 	FilteredListings
 } from '~/src/helpers/listing-filters'
 
+import {
+    ensureFiltersHaveStories
+// @ts-ignore
+} from '~/src/helpers/node/markdown-files.ts'
+
 
 const macroUrl = 'https://script.google.com/macros/s/AKfycbzGvKKUIaqsMuCj7-A2YRhR-f7GZjl4kSxSN1YyLkS01_CfiyE/exec'
 const mcuTimelineSheetId = '1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_wKs'
@@ -210,7 +215,7 @@ function buildReadmeList ( matchesMap:Map<number, any> ) {
 
     await updateReadmeListContent( updatedList, 'viewing-order-list' )
 
-    console.log( 'Done')
+    console.log( 'Done' )
 
 
 
@@ -222,7 +227,7 @@ function buildReadmeList ( matchesMap:Map<number, any> ) {
 
     await updateReadmeListContent( inUniverseList, 'in-universe-list' )
 
-    console.log( 'Done')
+    console.log( 'Done' )
 
 
 
@@ -235,7 +240,15 @@ function buildReadmeList ( matchesMap:Map<number, any> ) {
 
     await updateReadmeListContent( newUpcomingMarkdown, 'upcoming-list' )
 
-    console.log( 'Done')
+    console.log( 'Done' )
+
+
+
+    console.log( 'Adding any new filters as stories' )
+
+    await ensureFiltersHaveStories()
+
+    console.log( 'Done' )
 
 
 
