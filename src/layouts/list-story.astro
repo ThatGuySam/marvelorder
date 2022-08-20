@@ -7,7 +7,8 @@ import tailwindStyles from '@astrojs/tailwind/base.css?inline'
 import indexStyles from '~/src/styles/index.css?inline'
 import {
     getTaggedListings,
-    mapStoryContentToListings
+    mapStoryContentToListings,
+    getListingsFromFilterSlug
 } from '~/src/helpers/node/listing-files'
 
 import HeadCommon from '../components/HeadCommon.astro'
@@ -29,18 +30,15 @@ const inlineStyles = esbuild.transformSync(rawInlineStyles, {
 // console.log( 'inlineStyles', inlineStyles )
 
 const { content = {} } = Astro.props;
-const currentPage = new URL(Astro.request.url).pathname;
-
-// console.log( 'Astro', Astro )
-
+const currentPage = new URL(Astro.request.url).pathname
+const storySlug = currentPage.replace( /^\/|\/$/g, '' ).split('/').pop()
 
 const videoPosterUrl = content.coverPosterUrl
-const videoUrl = content.coverVideoUrl
+const coverBackgroundSrc = content.coverVideoUrl ? content.coverVideoUrl : content.coverPosterUrl
 const canonicalUrl = Astro.url.pathname
 const author = 'MarvelOrder.com'
 
-
-const storyTaggedListings = await getTaggedListings( content.lists || [] )
+const storyTaggedListings = !!content?.lists ? await getTaggedListings( content.lists ) : []
 
 const fromContent = await mapStoryContentToListings( Astro.props.rawContent() )
 
@@ -48,8 +46,15 @@ const fromContent = await mapStoryContentToListings( Astro.props.rawContent() )
 
 const storyListings = [
     ...fromContent.listings,
-    ...storyTaggedListings,
+    ...storyTaggedListings
 ]
+
+// If there are no listings,
+// then push listings from filter slug
+if ( storyListings.length === 0 ) {
+    const listings = await getListingsFromFilterSlug( storySlug )
+    storyListings.push( ...listings )
+}
 
 // console.log( 'storyTaggedListings', storyTaggedListings )
 
@@ -172,7 +177,7 @@ const storyListings = [
             <!-- Cover page -->
             <StoryPage
                 id="cover"
-                backgroundSrc={ videoUrl }
+                backgroundSrc={ coverBackgroundSrc }
                 backgroundPoster={ videoPosterUrl }
                 mediaAriaLabel={ content.coverAriaLabel }
             >
