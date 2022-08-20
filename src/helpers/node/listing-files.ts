@@ -174,6 +174,24 @@ export async function getTaggedListings ( tags: string[] ) {
 }
 
 
+export async function getListingsFromFilterSlug ( fromSlug:string = '' ) {
+    try {
+        const filter = findFilterFromSlug( fromSlug )
+        const rawListings = await getAllListings()
+
+        const filteredListings = new FilteredListings({
+            listings: rawListings,
+            initialFilters: [
+                [ filter.filter, true ]
+            ],
+            listingsSort: 'default'
+        })
+
+        return filteredListings.list
+    } catch ( error ) {
+        return []
+    }
+}
 
 
 export function upsertListing ( listing: Listing , data: any ) {
