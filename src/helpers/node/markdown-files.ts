@@ -2,8 +2,12 @@ import fs from 'fs-extra'
 import glob from 'fast-glob'
 import matter from 'gray-matter'
 
+
+import {
+    storiesGlobPattern,
+    avengersBackdrop
 // @ts-ignore
-import { storiesGlobPattern } from '~/src/config.ts'
+} from '~/src/config.ts'
 // @ts-ignore
 import { FilteredListings } from '~/src/helpers/listing-filters.ts'
 import {
@@ -48,8 +52,6 @@ export function getMissingFilterStories ( storyFilesGlob: string[], inputFilters
 
     return missingFilters
 }
-
-const avengersBackdrop = '/.netlify/functions/tmdb-image/nNmJRkg8wWnRmzQDe2FwKbPIsJV.webp?transparent=0&width=2200'
 
 export async function makeFilterMarkdownContent ( filter: Filter ) {
     const { exportName, name, slug } = filter
