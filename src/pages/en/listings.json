@@ -551,29 +551,6 @@
 		"adult": false,
 		"backdrop_path": null,
 		"genre_ids": [
-			878,
-			28,
-			12
-		],
-		"id": 912649,
-		"original_language": "en",
-		"original_title": "Venom 3",
-		"overview": "The third entry in the Venom trilogy confirmed to be in development by Amy Pascal.",
-		"poster_path": "/s5R8Ja1IjxF4a3IygLCW1Zib6GB.jpg",
-		"release_date": "2024-06-04",
-		"title": "Venom 3",
-		"video": false,
-		"vote_average": 0,
-		"slug": "venom-3",
-		"tags": [
-			"movie",
-			"company-7505"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
 			28,
 			12,
 			80
@@ -635,6 +612,29 @@
 		"video": false,
 		"vote_average": 0,
 		"slug": "el-muerto",
+		"tags": [
+			"movie",
+			"company-7505"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/eP20Q9u30cbq98hBXfnvFFa89lg.jpg",
+		"genre_ids": [
+			878,
+			28,
+			12
+		],
+		"id": 912649,
+		"original_language": "en",
+		"original_title": "Venom 3",
+		"overview": "The third entry in the Venom trilogy confirmed to be in development by Amy Pascal.",
+		"poster_path": "/s5R8Ja1IjxF4a3IygLCW1Zib6GB.jpg",
+		"release_date": "2023-12-31",
+		"title": "Venom 3",
+		"video": false,
+		"vote_average": 0,
+		"slug": "venom-3",
 		"tags": [
 			"movie",
 			"company-7505"
@@ -767,7 +767,7 @@
 		"original_language": "en",
 		"original_title": "Ant-Man and the Wasp: Quantumania",
 		"overview": "Superhero duo Scott Lang and Hope Van Dyne, together with Hope’s parents Hank Pym and Janet Van Dyne, find themselves exploring the Quantum Realm, interacting with strange new creatures, and embarking on an adventure that will push them beyond the limits of what they thought was possible.",
-		"poster_path": "/glMINRVYBV0zirz9XUZOEcSFnDS.jpg",
+		"poster_path": "/4WD4HRsUyTEIn1WJ59aQ1ChM4cW.jpg",
 		"release_date": "2023-02-15",
 		"title": "Ant-Man and the Wasp: Quantumania",
 		"video": false,
@@ -828,7 +828,8 @@
 		"first_air_date": "2022-08-18",
 		"genre_ids": [
 			35,
-			10759
+			10759,
+			10765
 		],
 		"id": 92783,
 		"name": "She-Hulk: Attorney at Law",
@@ -839,7 +840,7 @@
 		"original_name": "She-Hulk: Attorney at Law",
 		"overview": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered hulk.",
 		"poster_path": "/qhRex189iu6Cs0dV7ahbuBaRgeK.jpg",
-		"vote_average": 7.8,
+		"vote_average": 7.7,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
 		"tags": [
@@ -1049,7 +1050,7 @@
 		"original_name": "Ms. Marvel",
 		"overview": "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school — that is, until she gets superpowers like the heroes she’s always looked up to. Life is easier with superpowers, right?",
 		"poster_path": "/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
-		"vote_average": 7.1,
+		"vote_average": 7,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
 		"tags": [

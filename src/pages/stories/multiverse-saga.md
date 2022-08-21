@@ -1,5 +1,5 @@
 ---
-title: Every Multiverse Saga Marvel Film or Series known so far
+title: Every Marvel Film or Series that is Multiverse Saga
 description: The 48 Marvel films or series that is Multiverse Saga
 layout: ../../layouts/list-story.astro
 coverAriaLabel: 'Marvel Studios: Legends'

@@ -1,6 +1,6 @@
 ---
-title: Every Marvel Film or Series that is a Doc
-description: The 24 Marvel films or series that are Docs
+title: Every Marvel Film or Series that is Doc
+description: The 24 Marvel films or series that is Doc
 layout: ../../layouts/list-story.astro
 coverAriaLabel: 'Jack Kirby: Story Teller'
 coverPosterUrl: >-
