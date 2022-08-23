@@ -758,6 +758,27 @@
 		]
 	},
 	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			99
+		],
+		"id": 1015595,
+		"original_language": "en",
+		"original_title": "The Making of Thor: Love and Thunder",
+		"overview": "Settle in with the likes of Taika Waititi, Chris Hemsworth, Natalie Portman, Christian Bale, and Tessa Thompson, and as they divulge the secrets behind the creation of Thor: Love and Thunder. Through in-depth interviews with cast and crew, along with raw, unseen footage from the set and beyond, ASSEMBLED pulls back the curtain on the God of Thunder’s fourth feature film.",
+		"poster_path": null,
+		"release_date": "2022-09-08",
+		"title": "The Making of Thor: Love and Thunder",
+		"video": false,
+		"vote_average": 0,
+		"slug": "the-making-of-thor-love-and-thunder",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
 		"backdrop_path": "/9GvhICFMiRQA82vS6ydkXxeEkrd.jpg",
 		"first_air_date": "2022-08-18",
 		"genre_ids": [
@@ -799,7 +820,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot's First Steps",
 		"video": false,
-		"vote_average": 7.6,
+		"vote_average": 7.7,
 		"slug": "groots-first-steps",
 		"tags": [
 			"movie",
@@ -823,7 +844,7 @@
 		"release_date": "2022-08-10",
 		"title": "The Little Guy",
 		"video": false,
-		"vote_average": 7.9,
+		"vote_average": 8,
 		"slug": "the-little-guy",
 		"tags": [
 			"movie",
@@ -847,7 +868,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot's Pursuit",
 		"video": false,
-		"vote_average": 7.7,
+		"vote_average": 7.8,
 		"slug": "groots-pursuit",
 		"tags": [
 			"movie",
@@ -871,7 +892,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot Takes a Bath",
 		"video": false,
-		"vote_average": 7.8,
+		"vote_average": 7.9,
 		"slug": "groot-takes-a-bath",
 		"tags": [
 			"movie",
@@ -916,7 +937,7 @@
 		"release_date": "2022-07-18",
 		"title": "Magnum Opus",
 		"video": false,
-		"vote_average": 7.6,
+		"vote_average": 7.7,
 		"slug": "magnum-opus",
 		"tags": [
 			"movie",
@@ -2904,6 +2925,30 @@
 		"slug": "x-men-days-of-future-past",
 		"tags": [
 			"list-8204860"
+		]
+	},
+	{
+		"backdrop_path": "/4aHe75itnz5pkwFuACmih0yelYK.jpg",
+		"first_air_date": "2014-05-13",
+		"genre_ids": [
+			10759,
+			16
+		],
+		"id": 130805,
+		"name": "Marvel Knights: Wolverine Weapon X: Tomorrow Dies Today",
+		"origin_country": [
+			"US"
+		],
+		"original_language": "en",
+		"original_name": "Marvel Knights: Wolverine Weapon X: Tomorrow Dies Today",
+		"overview": "It’s the debut of an all-new, all-different Deathlok. Killer cyborgs have come from the future to kill the heroes of today, while Wolverine embarks on an international pub crawl with a certain recently reborn Sentinel of Liberty. Beer and bullets galore!",
+		"poster_path": "/p8c8NjgScKlGqQOqgZhWCw0bpYR.jpg",
+		"vote_average": 6,
+		"title": "Marvel Knights: Wolverine Weapon X: Tomorrow Dies Today",
+		"slug": "marvel-knights-wolverine-weapon-x-tomorrow-dies-today",
+		"tags": [
+			"tv",
+			"company-11106"
 		]
 	},
 	{
@@ -5171,7 +5216,7 @@
 		"release_date": "1978-12-21",
 		"title": "Spider-Man Strikes Back",
 		"video": false,
-		"vote_average": 5.3,
+		"vote_average": 5.4,
 		"slug": "spider-man-strikes-back",
 		"tags": [
 			"list-8204862"
