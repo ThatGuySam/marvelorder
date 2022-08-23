@@ -32,25 +32,26 @@ interface Filter {
     filter: Function
 }
 
+
+export function getSlugFromStoryPath ( storyPath: string ) {
+    return storyPath.split('/').pop().replace('.md', '')
+}
+
 export function getMissingFilterStories ( storyFilesGlob: string[], inputFilters: Filter[] ) {
-    let missingFilters = [ ...inputFilters ]
+    const missingFilters = Object.fromEntries( inputFilters.map( filter => [ filter.slug, filter ] ) )
 
-    const fileSlugs = storyFilesGlob.map( filePath => {
-        // Get last part of file path
-        const fileSlug = filePath.split('/').pop()
+    const fileSlugs = storyFilesGlob.map( getSlugFromStoryPath )
 
-        // Remove the .md from the slug
-        return fileSlug.replace('.md', '')
-    } )
+    // console.log( 'fileSlugs', fileSlugs )
 
-    for ( const [ index, filter ] of missingFilters.entries() ) {
-        if ( fileSlugs.includes( filter.slug ) ) {
-            // Remove the filter from the list of missing filters
-            missingFilters.splice( index, 1 )
+    // Find and remove any filters that are in the fileSlugs
+    for ( const slug of fileSlugs ) {
+        if ( missingFilters[ slug ] ) {
+            delete missingFilters[ slug ]
         }
     }
 
-    return missingFilters
+    return Object.values( missingFilters )
 }
 
 export async function makeFilterMarkdownContent ( filter: Filter ) {
@@ -84,20 +85,28 @@ export async function makeFilterMarkdownContent ( filter: Filter ) {
     }
 }
 
+export function makeStoryPathFromFilter ( filter: Filter ) {
+    const { slug } = filter
+
+    return `src/stories/${ slug }.md`
+}
+
 export async function ensureFiltersHaveStories () {
     const storyFiles = await getStoryFiles()
     const filters = getAllFilters()
 
     const missingFilters = getMissingFilterStories( storyFiles, filters )
 
+    console.log( 'storyFiles', storyFiles )
+
     // Write the missing filters to a file
     for ( const missingFilter of missingFilters ) {
         const { frontmatter } = await makeFilterMarkdownContent( missingFilter )
-        const markdownFilePath = `src/pages/stories/${ missingFilter.slug }.md`
+        const markdownFilePath = makeStoryPathFromFilter( missingFilter )
 
         const markdownContent = matter.stringify( '', frontmatter )
 
-        await fs.writeFile( markdownFilePath, markdownContent )
+        // await fs.writeFile( markdownFilePath, markdownContent )
     }
 }
 

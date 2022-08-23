@@ -17,7 +17,8 @@ import {
 
 import {
     makeFilterMarkdownContent,
-    getMissingFilterStories
+    getMissingFilterStories,
+    makeStoryPathFromFilter
 // @ts-ignore
 } from '~/src/helpers/node/markdown-files.ts'
 
@@ -196,47 +197,75 @@ test('Can list all filters', () => {
 
 
 test('Can match missing story pages', () => {
-    const existingFiles = [
-        'src/pages/stories/she-hulk-watch-list.md',
-        'src/pages/stories/has-thor.md'
-    ]
 
-    const inputFilters = [
+    const expectedMissingFilters = [
         {
             exportName: 'isMarvelKnightsAnimated',
             name: 'Marvel Knights Animated',
             slug: 'marvel-knights-animated'
         },
         {
-            exportName: 'hasThor',
-            name: 'Has Thor',
-            slug: 'has-thor'
+            exportName: 'shouldBeMissing',
+            name: 'Should Be Missing',
+            slug: 'missing'
         }
     ]
 
+    const existingFiles = [
+        'src/pages/stories/she-hulk-watch-list.md',
+        'src/pages/stories/animated-genre.md',
+        'src/pages/stories/doc.md',
+        'src/pages/stories/groot-episode.md',
+        'src/pages/stories/has-any-genres.md',
+        'src/pages/stories/has-any-tags.md',
+        'src/pages/stories/has-fanart-logo.md',
+        'src/pages/stories/has-logo.md',
+        'src/pages/stories/infinity-saga.md',
+        'src/pages/stories/marvel-knights.md',
+        'src/pages/stories/marvel-studios.md',
+        'src/pages/stories/mcu-sheet-ordered.md',
+        'src/pages/stories/mcu.md',
+        'src/pages/stories/multiverse-saga.md',
+        'src/pages/stories/phase-five.md',
+        'src/pages/stories/phase-four.md',
+        'src/pages/stories/phase-one.md',
+        'src/pages/stories/phase-six.md',
+        'src/pages/stories/phase-three.md',
+        'src/pages/stories/phase-two.md',
+        'src/pages/stories/phase-zero.md',
+        'src/pages/stories/she-hulk-watch-list.md',
+        'src/pages/stories/thor-anthology.md',
+        'src/pages/stories/upcoming.md',
+
+        // 'src/pages/stories/marvel-knights-animated.md',
+        // 'src/pages/stories/missing.md',
+
+        'src/pages/stories/show.md',
+        'src/pages/stories/existing.md',
+    ]
+
+    const inputFilters = [
+        {
+            exportName: 'isShow',
+            name: 'Is Show',
+            slug: 'show'
+        },
+        {
+            exportName: 'shouldBeExisting',
+            name: 'Should Be Existing',
+            slug: 'existing'
+        },
+
+        ...expectedMissingFilters
+    ]
+
+
     const missingFilters = getMissingFilterStories( existingFiles, inputFilters )
 
-    // https://vitest.dev/api/#tocontain
-    expect( missingFilters ).not.toHaveLength( 0 )
+    // console.log( 'missingFilters', missingFilters )
 
     // Expected filters
-    expect( missingFilters ).toEqual(
-        expect.arrayContaining([
-            // Expect a filter with the exportName isMarvelKnightsAnimated
-            expect.objectContaining({
-                exportName: 'isMarvelKnightsAnimated'
-            })
-        ])
-    )
-
-    // Expect hasThor to not be in missing
-    expect( missingFilters ).not.toEqual(
-        expect.arrayContaining([
-            expect.objectContaining({
-                exportName: 'hasThor'
-            })
-        ])
-    )
+    expect( missingFilters ).toEqual( expectedMissingFilters )
 
 })
 
