@@ -97,7 +97,7 @@ export async function ensureFiltersHaveStories () {
 
     const missingFilters = getMissingFilterStories( storyFiles, filters )
 
-    console.log( 'storyFiles', storyFiles )
+    // console.log( 'storyFiles', storyFiles )
 
     // Write the missing filters to a file
     for ( const missingFilter of missingFilters ) {
