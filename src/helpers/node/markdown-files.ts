@@ -88,7 +88,7 @@ export async function makeFilterMarkdownContent ( filter: Filter ) {
 export function makeStoryPathFromFilter ( filter: Filter ) {
     const { slug } = filter
 
-    return `src/stories/${ slug }.md`
+    return `src/pages/stories/${ slug }.md`
 }
 
 export async function ensureFiltersHaveStories () {
