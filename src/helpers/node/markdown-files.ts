@@ -106,7 +106,7 @@ export async function ensureFiltersHaveStories () {
 
         const markdownContent = matter.stringify( '', frontmatter )
 
-        // await fs.writeFile( markdownFilePath, markdownContent )
+        await fs.writeFile( markdownFilePath, markdownContent )
     }
 }
 
