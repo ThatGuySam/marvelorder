@@ -119,7 +119,7 @@
 		]
 	},
 	{
-		"backdrop_path": null,
+		"backdrop_path": "/wPnapuJNdWe27IAE5z2Hieo4Yh.jpg",
 		"genre_ids": [
 			35,
 			10759,
@@ -236,8 +236,7 @@
 		]
 	},
 	{
-		"backdrop_path": null,
-		"first_air_date": "",
+		"backdrop_path": "/5NGuM3zv8KjFg7k0FBZ0UdeLFGv.jpg",
 		"genre_ids": [],
 		"id": 202555,
 		"name": "Daredevil: Born Again",
@@ -411,7 +410,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
+		"backdrop_path": "/jqFC2WjYF07hx2X7cs0XmY9jBX6.jpg",
 		"genre_ids": [
 			28,
 			878
@@ -435,7 +434,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
+		"backdrop_path": "/uR952NrgispGuyqIdUbkR24vE0u.jpg",
 		"genre_ids": [
 			28,
 			878
@@ -505,7 +504,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
+		"backdrop_path": "/qYvpc3qLb0LpGOBS7JOq5RxYt0x.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -793,7 +792,7 @@
 		"original_language": "en",
 		"original_name": "She-Hulk: Attorney at Law",
 		"overview": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered hulk.",
-		"poster_path": "/qhRex189iu6Cs0dV7ahbuBaRgeK.jpg",
+		"poster_path": "/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
 		"vote_average": 7.4,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
@@ -957,7 +956,7 @@
 		"release_date": "2022-07-08",
 		"title": "The Making of Doctor Strange in the Multiverse of Madness",
 		"video": false,
-		"vote_average": 6.1,
+		"vote_average": 6.2,
 		"slug": "the-making-of-doctor-strange-in-the-multiverse-of-madness",
 		"tags": [
 			"movie",
@@ -1078,7 +1077,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/vfWdZYGR5505zrCdgTHteFyARu3.jpg",
+		"backdrop_path": "/iux1vKPT7Vw1AzetZb4Jz6wfYsm.jpg",
 		"first_air_date": "2022-03-30",
 		"genre_ids": [
 			10759,
@@ -1146,7 +1145,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/68GfuBjPr1wLLctLIqxgXl2N0GJ.jpg",
+		"backdrop_path": "/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -1208,7 +1207,7 @@
 		"original_name": "Marvel's Hit-Monkey",
 		"overview": "A Japanese snow macaque's clan meets a stranded hitman, Bryce, and nurses him back to health. But when Bryce bites the dust, it's up to the titular simian (guided by Bryce's ghost) to follow in his assassin footsteps and seek vengeance.",
 		"poster_path": "/1aK7hApRSDUv8xxDQXyQil7qBjN.jpg",
-		"vote_average": 7.9,
+		"vote_average": 8,
 		"title": "Marvel's Hit-Monkey",
 		"slug": "marvels-hit-monkey",
 		"tags": [
@@ -1255,6 +1254,27 @@
 		"video": false,
 		"vote_average": 7.1,
 		"slug": "eternals",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			99
+		],
+		"id": 1016201,
+		"original_language": "en",
+		"original_title": "ASSEMBLED: The Making of What If...?",
+		"overview": "ASSEMBLED explores the creative process behind this inventive and mind-bending animated series.",
+		"poster_path": "/z3yWpmPXbU45YH84PwyhOyDdGo5.jpg",
+		"release_date": "2021-10-27",
+		"title": "ASSEMBLED: The Making of What If...?",
+		"video": false,
+		"vote_average": 0,
+		"slug": "assembled-the-making-of-what-if",
 		"tags": [
 			"movie",
 			"company-420"
@@ -1561,7 +1581,7 @@
 		"original_name": "Helstrom",
 		"overview": "Daimon and Ana Helstrom are the son and daughter of a mysterious and powerful serial killer. The siblings have a complicated dynamic as they track down the terrorizing worst of humanity — each with their attitude and skills.",
 		"poster_path": "/8fPIcaRIZgsoBcgA5yAm3GNz61M.jpg",
-		"vote_average": 6.9,
+		"vote_average": 7,
 		"title": "Helstrom",
 		"slug": "helstrom",
 		"tags": [
@@ -1609,7 +1629,7 @@
 		"original_name": "Marvel Battleworld: Mystery of the Thanostones",
 		"overview": "Can Iron Man and this rag-tag group - Captain Marvel, Spider-Ham, Groot, and Throg - figure out what the Mad Titan Thanos wants and why they've been brought to this strange, new world?",
 		"poster_path": "/wu7VuEO9eRCtul31pV8MvWwAxyI.jpg",
-		"vote_average": 5,
+		"vote_average": 5.7,
 		"title": "Marvel Battleworld: Mystery of the Thanostones",
 		"slug": "marvel-battleworld-mystery-of-the-thanostones",
 		"tags": [
@@ -1672,7 +1692,7 @@
 		"original_language": "en",
 		"original_title": "Peter's To-Do List",
 		"overview": "On the eve of his departure to Europe, Peter Parker tells Ned Leeds that he has several things to do before they leave.",
-		"poster_path": "/ohnN1gVREFJXJJv35BaBHladKoA.jpg",
+		"poster_path": "/2LoW0WMYHwhxXQr1wz6xCVRiX9.jpg",
 		"release_date": "2019-09-17",
 		"title": "Peter's To-Do List",
 		"video": false,
@@ -1685,7 +1705,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/vamhMTvh9m9zFHDoR0v1nRtf6T4.jpg",
+		"backdrop_path": "/ng6SSB3JhbcpKTwbPDsRwUYK8Cq.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -2096,7 +2116,7 @@
 		"original_name": "Marvel's Runaways",
 		"overview": "Every teenager thinks their parents are evil. What if you found out they actually were? Six diverse teenagers who can barely stand each other must unite against a common foe – their parents.",
 		"poster_path": "/zceMrfO17AQkeWJZNra4O90s1vE.jpg",
-		"vote_average": 7.5,
+		"vote_average": 7.6,
 		"title": "Marvel's Runaways",
 		"slug": "marvels-runaways",
 		"tags": [
@@ -2105,7 +2125,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/2yfmJudf695JBUJRW7QJjVN1rg5.jpg",
+		"backdrop_path": "/jair88gtlTT2LKBiIqBo0Qqtdd4.jpg",
 		"first_air_date": "2017-11-17",
 		"genre_ids": [
 			10759,
@@ -2322,7 +2342,7 @@
 		"original_name": "Marvel's Rocket & Groot",
 		"overview": "Before becoming Guardians of the Galaxy, Rocket and Groot were bounty hunters trying to get a ship.",
 		"poster_path": "/7FHJr40MPFwtHrOyOD9buQDoVcs.jpg",
-		"vote_average": 7.7,
+		"vote_average": 7.9,
 		"title": "Marvel's Rocket & Groot",
 		"slug": "marvels-rocket-and-groot",
 		"tags": [
@@ -5287,7 +5307,7 @@
 		"release_date": "1978-07-22",
 		"title": "Spider-Man",
 		"video": false,
-		"vote_average": 5.5,
+		"vote_average": 5.6,
 		"slug": "spider-man",
 		"tags": [
 			"list-8204862"
@@ -5372,9 +5392,9 @@
 		"backdrop_path": "/ldtJ6vUo8heez1HVD91Flpg7F5W.jpg",
 		"first_air_date": "1977-11-04",
 		"genre_ids": [
+			10765,
 			10759,
-			18,
-			10765
+			18
 		],
 		"id": 648,
 		"media_type": "tv",

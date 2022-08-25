@@ -31,7 +31,7 @@ rentLinks:
     "original_name": "Marvel's Rocket & Groot",
     "overview": "Before becoming Guardians of the Galaxy, Rocket and Groot were bounty hunters trying to get a ship.",
     "poster_path": "/7FHJr40MPFwtHrOyOD9buQDoVcs.jpg",
-    "vote_average": 7.7,
+    "vote_average": 7.9,
     "title": "Marvel's Rocket & Groot",
     "slug": "marvels-rocket-and-groot",
     "tags": [

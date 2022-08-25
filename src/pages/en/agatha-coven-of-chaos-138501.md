@@ -15,7 +15,7 @@ Previous titles:
 ## TMDB Data
 ```json
 {
-    "backdrop_path": null,
+    "backdrop_path": "/wPnapuJNdWe27IAE5z2Hieo4Yh.jpg",
     "genre_ids": [
         35,
         10759,

@@ -17,9 +17,9 @@ rentLinks:
     "backdrop_path": "/ldtJ6vUo8heez1HVD91Flpg7F5W.jpg",
     "first_air_date": "1977-11-04",
     "genre_ids": [
+        10765,
         10759,
-        18,
-        10765
+        18
     ],
     "id": 648,
     "media_type": "tv",

@@ -11,8 +11,7 @@ release_date: "Spring 2024"
 ## TMDB Data
 ```json
 {
-    "backdrop_path": null,
-    "first_air_date": "",
+    "backdrop_path": "/5NGuM3zv8KjFg7k0FBZ0UdeLFGv.jpg",
     "genre_ids": [],
     "id": 202555,
     "name": "Daredevil: Born Again",

@@ -13,7 +13,7 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": null,
+    "backdrop_path": "/uR952NrgispGuyqIdUbkR24vE0u.jpg",
     "genre_ids": [
         28,
         878
