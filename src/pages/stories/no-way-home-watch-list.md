@@ -2,7 +2,7 @@
 title: 'How to watch all Spider-Man Films leading up to No Way Home'
 description: "The best order for watching the Spider-Man Films leading up to No Way Home where Tom Holland (Peter 1), Tobey Maguire (Peter 2), and Andrew Garfield (Peter 3) joins forces after their various enemies from the past come back. "
 layout: ../../layouts/list-story.astro
-coverAriaLabel: "She-hulk being rudly awoken by Hulk with an air horn"
+coverAriaLabel: "The Spider-Men coming together"
 coverVideoUrl: https://vumbnail.com/hkMTKcksez0.mp4
 coverPosterUrl: https://vumbnail.com/XLECLu78Mtc.jpg
 ---
