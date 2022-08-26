@@ -26,7 +26,7 @@ rentLinks:
     "original_language": "en",
     "original_title": "Spider-Ham: Caught in a Ham",
     "overview": "Spider-Ham: Caught in a Ham follows Spider-Ham as he faces off against bad guys, chows down on hot dogs, and makes plenty of food-based puns.",
-    "poster_path": "/wuZ34Erl7kR5FmhAkimpfA5HF6m.jpg",
+    "poster_path": "/hCcuPPSGTohyg4YqPJornTwLL03.jpg",
     "release_date": "2019-03-19",
     "title": "Spider-Ham: Caught in a Ham",
     "video": false,
