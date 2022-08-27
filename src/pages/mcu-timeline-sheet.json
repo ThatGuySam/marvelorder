@@ -3367,6 +3367,18 @@
       "NOTES": ""
     },
     {
+      "TYPE": "DISNEY+",
+      "TITLE": "She-Hulk: Attorney at Law Season 1 Episode 2: Superhuman Law",
+      "RELEASE_DATE": "2022-08-25T04:00:00.000Z",
+      "NOTES": ""
+    },
+    {
+      "TYPE": "OTHER",
+      "TITLE": "Jennifer Walters' Phone Recording",
+      "RELEASE_DATE": "2022-07-21T04:00:00.000Z",
+      "NOTES": ""
+    },
+    {
       "TYPE": "OTHER",
       "TITLE": "The REAL Carol Danvers Story",
       "RELEASE_DATE": "2022-06-16T04:00:00.000Z",
@@ -3436,12 +3448,6 @@
       "TYPE": "MOVIE",
       "TITLE": "Thor: Love And Thunder",
       "RELEASE_DATE": "2022-07-08T04:00:00.000Z",
-      "NOTES": ""
-    },
-    {
-      "TYPE": "OTHER",
-      "TITLE": "Jennifer Walters' Phone Recording",
-      "RELEASE_DATE": "2022-07-21T04:00:00.000Z",
       "NOTES": ""
     }
   ]

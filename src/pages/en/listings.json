@@ -373,7 +373,8 @@
 		"genre_ids": [
 			878,
 			28,
-			12
+			12,
+			53
 		],
 		"id": 912649,
 		"original_language": "en",
@@ -642,7 +643,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/bpvjzk0QXbJPV4wVwrHuYiq1TbP.jpg",
+		"backdrop_path": "/i3fnrJR5SOLqropUaByIv9fvlMK.jpg",
 		"genre_ids": [
 			16,
 			28,
@@ -1870,7 +1871,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/x2IqsMlpbOhS8zIUJfyl1yO4gHF.jpg",
+		"backdrop_path": "/9LuL3pwJiwIWSckeCbOX8G12F4X.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -2116,7 +2117,7 @@
 		"original_name": "Marvel's Runaways",
 		"overview": "Every teenager thinks their parents are evil. What if you found out they actually were? Six diverse teenagers who can barely stand each other must unite against a common foe – their parents.",
 		"poster_path": "/zceMrfO17AQkeWJZNra4O90s1vE.jpg",
-		"vote_average": 7.6,
+		"vote_average": 7.5,
 		"title": "Marvel's Runaways",
 		"slug": "marvels-runaways",
 		"tags": [
