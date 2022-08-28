@@ -12,7 +12,7 @@ mcuTimelineOrder: 560
 ## TMDB Data
 ```json
 {
-    "backdrop_path": "/9GvhICFMiRQA82vS6ydkXxeEkrd.jpg",
+    "backdrop_path": "/eljErfkQUcFUgQkI4I1soZcH8MW.jpg",
     "first_air_date": "2022-08-18",
     "genre_ids": [
         35,
@@ -27,7 +27,7 @@ mcuTimelineOrder: 560
     "original_language": "en",
     "original_name": "She-Hulk: Attorney at Law",
     "overview": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered hulk.",
-    "poster_path": "/qhRex189iu6Cs0dV7ahbuBaRgeK.jpg",
+    "poster_path": "/oYcwRCDL4UeNiiUVqQAMFz8Htz1.jpg",
     "vote_average": 7.5,
     "title": "She-Hulk: Attorney at Law",
     "slug": "she-hulk-attorney-at-law",

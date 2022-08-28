@@ -13,7 +13,6 @@ logo_on_black: /.netlify/functions/tmdb-image/4gdqWCVvidYR0pOHuVOqFundbUG.webp
     "backdrop_path": null,
     "genre_ids": [
         28,
-        878,
         35
     ],
     "id": 533535,

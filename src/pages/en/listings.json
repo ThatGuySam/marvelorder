@@ -219,17 +219,17 @@
 			35
 		],
 		"id": 198178,
-		"name": "Wonder Man",
+		"name": "Marvel Studios Wonder Man",
 		"origin_country": [
 			"US"
 		],
 		"original_language": "en",
-		"original_name": "Wonder Man",
+		"original_name": "Marvel Studios Wonder Man",
 		"overview": "Follows Simon Williams, also known as Marvel’s Wonder Man. Described as a Hollywood satire.",
 		"poster_path": null,
 		"vote_average": 0,
-		"title": "Wonder Man",
-		"slug": "wonder-man",
+		"title": "Marvel Studios Wonder Man",
+		"slug": "marvel-studios-wonder-man",
 		"tags": [
 			"tv",
 			"company-420"
@@ -260,7 +260,6 @@
 		"backdrop_path": null,
 		"genre_ids": [
 			28,
-			878,
 			35
 		],
 		"id": 533535,
@@ -369,7 +368,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
+		"backdrop_path": "/cmtWQj3QuNM1bC1u3NZEztNYlIN.jpg",
 		"genre_ids": [
 			878,
 			28,
@@ -380,7 +379,7 @@
 		"original_language": "en",
 		"original_title": "Venom 3",
 		"overview": "The third entry in the Venom trilogy confirmed to be in development by Amy Pascal.",
-		"poster_path": "/s5R8Ja1IjxF4a3IygLCW1Zib6GB.jpg",
+		"poster_path": "/7rflLKJvRohboUzKLSq1rtkWG0C.jpg",
 		"title": "Venom 3",
 		"video": false,
 		"vote_average": 0,
@@ -778,7 +777,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/9GvhICFMiRQA82vS6ydkXxeEkrd.jpg",
+		"backdrop_path": "/eljErfkQUcFUgQkI4I1soZcH8MW.jpg",
 		"first_air_date": "2022-08-18",
 		"genre_ids": [
 			35,
@@ -793,7 +792,7 @@
 		"original_language": "en",
 		"original_name": "She-Hulk: Attorney at Law",
 		"overview": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered hulk.",
-		"poster_path": "/qhRex189iu6Cs0dV7ahbuBaRgeK.jpg",
+		"poster_path": "/oYcwRCDL4UeNiiUVqQAMFz8Htz1.jpg",
 		"vote_average": 7.5,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
@@ -966,7 +965,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/jsoz1HlxczSuTx0mDl2h0lxy36l.jpg",
+		"backdrop_path": "/vvObT0eIWGlArLQx3K5wZ0uT812.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -1630,7 +1629,7 @@
 		"original_name": "Marvel Battleworld: Mystery of the Thanostones",
 		"overview": "Can Iron Man and this rag-tag group - Captain Marvel, Spider-Ham, Groot, and Throg - figure out what the Mad Titan Thanos wants and why they've been brought to this strange, new world?",
 		"poster_path": "/wu7VuEO9eRCtul31pV8MvWwAxyI.jpg",
-		"vote_average": 5.7,
+		"vote_average": 5,
 		"title": "Marvel Battleworld: Mystery of the Thanostones",
 		"slug": "marvel-battleworld-mystery-of-the-thanostones",
 		"tags": [
