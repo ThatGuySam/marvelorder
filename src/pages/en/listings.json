@@ -781,7 +781,6 @@
 		"first_air_date": "2022-08-18",
 		"genre_ids": [
 			35,
-			10759,
 			10765
 		],
 		"id": 92783,
@@ -793,9 +792,34 @@
 		"original_name": "She-Hulk: Attorney at Law",
 		"overview": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered hulk.",
 		"poster_path": "/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
-		"vote_average": 7.5,
+		"vote_average": 7.4,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
+		"tags": [
+			"tv",
+			"company-420"
+		]
+	},
+	{
+		"backdrop_path": "/hkkOiyr8fEE5QDaVsDgrtTXBe3z.jpg",
+		"first_air_date": "2022-08-10",
+		"genre_ids": [
+			35,
+			10751,
+			10765
+		],
+		"id": 209135,
+		"name": "I Am Groot",
+		"origin_country": [
+			"US"
+		],
+		"original_language": "en",
+		"original_name": "I Am Groot",
+		"overview": "A series of shorts featuring the seedling Groot along with several new and unusual characters.",
+		"poster_path": "/bHSZgcLYXrr0qZKp6QLRTfgPGfV.jpg",
+		"vote_average": 5.5,
+		"title": "I Am Groot",
+		"slug": "i-am-groot",
 		"tags": [
 			"tv",
 			"company-420"
@@ -1430,7 +1454,7 @@
 		"first_air_date": "2021-03-19",
 		"genre_ids": [
 			10759,
-			10765
+			18
 		],
 		"id": 88396,
 		"name": "The Falcon and the Winter Soldier",

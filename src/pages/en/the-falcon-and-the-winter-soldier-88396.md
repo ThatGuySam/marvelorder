@@ -19,7 +19,7 @@ rentLinks:
     "first_air_date": "2021-03-19",
     "genre_ids": [
         10759,
-        10765
+        18
     ],
     "id": 88396,
     "name": "The Falcon and the Winter Soldier",
