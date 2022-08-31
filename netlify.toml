@@ -40,11 +40,6 @@
     status = 301
 
 [[redirects]]
-    from = "/en/untitled-female-centered-marvel-film-777948"
-    to = "/en/spider-woman-777948"
-    status = 301
-
-[[redirects]]
     from = "/en/shang-chi-2-912502"
     to = "/en/untitled-shang-chi-sequel-912502"
     status = 301
