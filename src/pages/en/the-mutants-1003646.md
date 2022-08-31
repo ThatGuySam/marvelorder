@@ -4,6 +4,7 @@ slug: the-mutants
 description: Upcoming Marvel Studios film announced as in development at SDCC 2019.
 layout: ../../layouts/MainLayout.astro
 type: movie
+logo_on_black: /.netlify/functions/tmdb-image/k2goqzfn4Iaku3xyQrLI8OvSGfF.webp
 ---
 ## TMDB Data
 ```json
@@ -13,7 +14,7 @@ type: movie
     "genre_ids": [
         878
     ],
-    "id": 617129,
+    "id": 1003646,
     "original_language": "en",
     "original_title": "The Mutants",
     "overview": "Upcoming Marvel Studios film announced as in development at SDCC 2019.",
