@@ -219,17 +219,17 @@
 			35
 		],
 		"id": 198178,
-		"name": "Marvel Studios Wonder Man",
+		"name": "Wonder Man",
 		"origin_country": [
 			"US"
 		],
 		"original_language": "en",
-		"original_name": "Marvel Studios Wonder Man",
+		"original_name": "Wonder Man",
 		"overview": "Follows Simon Williams, also known as Marvel’s Wonder Man. Described as a Hollywood satire.",
 		"poster_path": null,
 		"vote_average": 0,
-		"title": "Marvel Studios Wonder Man",
-		"slug": "marvel-studios-wonder-man",
+		"title": "Wonder Man",
+		"slug": "wonder-man",
 		"tags": [
 			"tv",
 			"company-420"
@@ -801,31 +801,6 @@
 		]
 	},
 	{
-		"backdrop_path": "/hkkOiyr8fEE5QDaVsDgrtTXBe3z.jpg",
-		"first_air_date": "2022-08-10",
-		"genre_ids": [
-			35,
-			10751,
-			10765
-		],
-		"id": 209135,
-		"name": "I Am Groot",
-		"origin_country": [
-			"US"
-		],
-		"original_language": "en",
-		"original_name": "I Am Groot",
-		"overview": "A series of shorts featuring the seedling Groot along with several new and unusual characters.",
-		"poster_path": "/bHSZgcLYXrr0qZKp6QLRTfgPGfV.jpg",
-		"vote_average": 5.5,
-		"title": "I Am Groot",
-		"slug": "i-am-groot",
-		"tags": [
-			"tv",
-			"company-420"
-		]
-	},
-	{
 		"adult": false,
 		"backdrop_path": "/9bColKVEAaWfmOLiLZoUhdYfevy.jpg",
 		"genre_ids": [
@@ -842,7 +817,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot's First Steps",
 		"video": false,
-		"vote_average": 7.7,
+		"vote_average": 7.6,
 		"slug": "groots-first-steps",
 		"tags": [
 			"movie",
@@ -914,7 +889,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot Takes a Bath",
 		"video": false,
-		"vote_average": 7.9,
+		"vote_average": 7.8,
 		"slug": "groot-takes-a-bath",
 		"tags": [
 			"movie",
@@ -1708,7 +1683,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/ng6SSB3JhbcpKTwbPDsRwUYK8Cq.jpg",
+		"backdrop_path": "/vamhMTvh9m9zFHDoR0v1nRtf6T4.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -2013,7 +1988,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/lmZFxXgJE3vgrciwuDib0N8CfQo.jpg",
+		"backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
 		"genre_ids": [
 			12,
 			28,
@@ -2728,7 +2703,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/xnqust9Li4oxfhXD5kcPi3UC8i4.jpg",
+		"backdrop_path": "/6YwkGolwdOMNpbTOmLjoehlVWs5.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -3495,7 +3470,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/nNmJRkg8wWnRmzQDe2FwKbPIsJV.jpg",
+		"backdrop_path": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
 		"genre_ids": [
 			878,
 			28,
