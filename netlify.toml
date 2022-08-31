@@ -16,7 +16,12 @@
 
 [[redirects]]
     from = "/en/untitled-destin-daniel-cretton-disney-series-198178"
-    to = "/en/wonder-man-198178"
+    to = "/en/marvel-studios-wonder-man-198178"
+    status = 301
+
+[[redirects]]
+    from = "/en/wonder-man-198178"
+    to = "/en/marvel-studios-wonder-man-198178"
     status = 301
 
 [[redirects]]
