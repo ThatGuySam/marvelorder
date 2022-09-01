@@ -283,6 +283,7 @@ class MarvelMoviesFandomTimeline {
     get entriesByReference () {
         const entriesByReference = {}
         let totalEntriesWithReference = 0
+        let totalEntriesWithoutReference = 0
 
         for ( const entry of this.entries ) {
             const { primeReferenceTitle } = entry
@@ -293,15 +294,14 @@ class MarvelMoviesFandomTimeline {
 
             entriesByReference[ primeReferenceTitle ].push( entry )
 
-            if ( primeReferenceTitle.length ) {
-                totalEntriesWithReference += 1
-            }
+            primeReferenceTitle.length ? totalEntriesWithReference += 1 : totalEntriesWithoutReference += 1
         }
 
         return {
             entries: entriesByReference,
             titles: Object.keys( entriesByReference ),
-            totalEntriesWithReference
+            totalEntriesWithReference,
+            totalEntriesWithoutReference
         }
     }
 }

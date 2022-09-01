@@ -63,7 +63,7 @@ test( `Can find Prime reference link in entries`, () => {
 test( 'Can see expected entry structure', () => {
     const { titles, totalEntriesWithReference } = timeline.entriesByReference
 
-    // console.log( { totalEntriesWithReference } )
+    // console.log( { totalEntriesWithoutReference } )
 
     // Expect at least 871 entries with references
     expect( totalEntriesWithReference ).toBeGreaterThan( 870 )
