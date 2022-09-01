@@ -227,7 +227,7 @@ class MarvelMoviesFandomTimeline {
             this.storeEntry({
                 timeDescription: this.runningTimeDescription,
                 timeDescriptionParts: { ...this.runningTimeParts },
-                rawHtml,
+                // rawHtml,
                 timeline: this.runningTimeline,
                 sourceUrl: timelineUrl,
                 referenceLinks,
