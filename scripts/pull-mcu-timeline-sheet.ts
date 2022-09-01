@@ -37,6 +37,9 @@ import {
 // @ts-ignore
 } from '~/src/helpers/node/markdown-files.ts'
 
+// @ts-ignore
+import { saveMoviesFandomTimeline } from '~/src/helpers/node/movies-fandom-timeline.ts'
+
 
 const macroUrl = 'https://script.google.com/macros/s/AKfycbzGvKKUIaqsMuCj7-A2YRhR-f7GZjl4kSxSN1YyLkS01_CfiyE/exec'
 const mcuTimelineSheetId = '1Xfe--9Wshbb3ru0JplA2PnEwN7mVawazKmhWJjr_wKs'
@@ -242,6 +245,16 @@ function buildReadmeList ( matchesMap:Map<number, any> ) {
 
     console.log( 'Done' )
 
+
+    console.log( 'Saving Marvel Movies Fandom Timeline' )
+
+    try {
+        await saveMoviesFandomTimeline()
+
+        console.log( 'Done' )
+    } catch ( error ) {
+        console.log( 'Error', error )
+    }
 
 
     console.log( 'Adding any new filters as stories' )
