@@ -101,6 +101,44 @@ class MarvelMoviesFandomTimeline {
         } )
     }
 
+    determineReferenceType ( anchorElement ) {
+        // If it's (video_game) then it's a video game reference
+        if ( anchorElement.href.includes( '(video_game)' ) ) {
+            return 'video_game'
+        }
+
+        // If it's (comic) then it's a comic reference
+        if ( anchorElement.href.includes( '(comic)' ) ) {
+            return 'comic'
+        }
+
+        // If it's (TV_series) then it's a tv reference
+        if ( anchorElement.href.includes( '(TV_series)' ) ) {
+            return 'tv'
+        }
+
+        // If it includes _Episode_ then it's a TV show reference
+        if ( anchorElement.href.includes( '_Episode_' ) ) {
+            return 'tv'
+        }
+
+        return 'generic'
+    }
+
+    extractReferenceLinks ( element ) {
+        return Array.from( element.querySelectorAll( 'a' ) ).map( ( anchorElement:JSDOMElement ) => {
+
+            const href = anchorElement.getAttribute( 'href' )
+            const text = anchorElement.textContent
+
+            return {
+                href,
+                text,
+                referenceType: this.determineReferenceType( anchorElement )
+            }
+        })
+    }
+
     parseListElement ( element ) {
 
         const listItems = element.querySelectorAll( 'li' )
@@ -119,7 +157,7 @@ class MarvelMoviesFandomTimeline {
             }
 
             const rawHtml = listItem.innerHTML
-            // const referenceLinks = this.extractReferenceLinks( listItem )
+            const referenceLinks = this.extractReferenceLinks( listItem )
 
             // if ( !textContent.replace(/(\r\n|\n|\r)/gm, '').endsWith(')') ) {
             //     console.log( 'textContent', textContent.length, { textContent } )
@@ -137,7 +175,7 @@ class MarvelMoviesFandomTimeline {
                 rawHtml,
                 timeline: this.runningTimeline,
                 sourceUrl: timelineUrl,
-                // referenceLinks
+                referenceLinks
             })
         }
     }

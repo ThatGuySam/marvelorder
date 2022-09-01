@@ -20,6 +20,12 @@ test( 'Can get timeline entries', async () => {
 
     // Has source url
     expect( firstEntry.sourceUrl ).toBeDefined()
+
+    // Has reference link
+    expect( firstEntry.referenceLinks ).toBeDefined()
+    expect( firstEntry.referenceLinks.length ).toBeGreaterThan( 0 )
+    expect( firstEntry.referenceLinks[ 0 ].href ).toBeDefined()
+    expect( firstEntry.referenceLinks[ 0 ].text ).toBeDefined()
 })
 
 test( 'Can get timeline entry from entries', () => {
