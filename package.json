@@ -14,6 +14,7 @@
     "add-amazon-links": "npx tsx scripts/add-amazon-links.ts",
     "pull-mcu-timeline-sheet": "tsx scripts/pull-mcu-timeline-sheet.ts",
     "write-filter-stories": "tsx scripts/write-filter-stories.ts",
+    "write-movies-fandom-timeline": "tsx scripts/write-movies-fandom-timeline.ts",
     "netlify-build": "npm run build-test && npm run build"
   },
   "dependencies": {
