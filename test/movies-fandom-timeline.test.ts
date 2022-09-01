@@ -15,6 +15,9 @@ test( 'Can get timeline entries', async () => {
 
     expect( timeline.entries ).toBeDefined()
     expect( timeline.entries.length ).toBeGreaterThan( 0 )
+
+    // Has source url
+    expect( timeline.entries[ 0 ].sourceUrl ).toBeDefined()
 })
 
 test( 'Can get timeline entry from entries', () => {

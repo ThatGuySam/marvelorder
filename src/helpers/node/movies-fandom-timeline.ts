@@ -22,6 +22,7 @@ export async function getTimeline () {
 interface MarvelMoviesFandomTimelineEntry {
     title:string
     timeline:string
+    sourceUrl:string
 }
 
 interface MarvelMoviesFandomTimeline {
@@ -74,6 +75,7 @@ class MarvelMoviesFandomTimeline {
                         title: 'test',
                         rawHtml,
                         timeline: currentTimeline,
+                        sourceUrl: timelineUrl
                     })
                 }
             }
@@ -85,6 +87,6 @@ class MarvelMoviesFandomTimeline {
     async setup () {
         this.entries = await this.parseTimelineHTML()
 
-        console.log( 'this.entries', this.entries )
+        // console.log( 'this.entries', this.entries )
     }
 }
