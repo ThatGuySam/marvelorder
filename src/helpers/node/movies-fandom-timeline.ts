@@ -289,11 +289,13 @@ class MarvelMoviesFandomTimeline {
 
             if ( !entriesByReference[ primeReferenceTitle ] ) {
                 entriesByReference[ primeReferenceTitle ] = []
-
-                totalEntriesWithReference += 1
             }
 
             entriesByReference[ primeReferenceTitle ].push( entry )
+
+            if ( primeReferenceTitle.length ) {
+                totalEntriesWithReference += 1
+            }
         }
 
         return {
