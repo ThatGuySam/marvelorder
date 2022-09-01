@@ -16,8 +16,10 @@ test( 'Can get timeline entries', async () => {
     expect( timeline.entries ).toBeDefined()
     expect( timeline.entries.length ).toBeGreaterThan( 0 )
 
+    const firstEntry = timeline.entries[ 0 ]
+
     // Has source url
-    expect( timeline.entries[ 0 ].sourceUrl ).toBeDefined()
+    expect( firstEntry.sourceUrl ).toBeDefined()
 })
 
 test( 'Can get timeline entry from entries', () => {
@@ -31,3 +33,9 @@ test( 'Can find Altered 2014 Timeline', () => {
 
     expect( altered2014Timeline ).toBeDefined()
 } )
+
+test( 'Can find March 12th, 2015', () => {
+    const march12th2015 = timeline.entries.find( entry => entry.timeDescription === '2015 March 12th' )
+
+    expect( march12th2015 ).toBeDefined()
+})
