@@ -1,13 +1,23 @@
+import fs from 'fs-extra'
 import { JSDOM } from 'jsdom'
 
+// @ts-ignore
+import { storePath } from '~/src/config.ts'
+
+export const moviesFandomTimelinePath = `${ storePath }/movies-fandom-timeline.json`
 
 export const timelineUrl = 'https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline'
-
 
 export const startContentMarker = '<div id="content"'
 
 export const endContentMarker = '<div class="page-footer"'
 
+
+export async function saveMoviesFandomTimeline () {
+    const timeline = await getTimeline()
+
+    await fs.writeFile( moviesFandomTimelinePath, JSON.stringify( timeline.entries, null, 2 ) )
+}
 
 // Fetch build out Timeline structure
 export async function getTimeline () {
