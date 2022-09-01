@@ -34,10 +34,12 @@ interface MarvelMoviesFandomTimelineEntry {
     timeline:string
     sourceUrl:string
     timeDescriptionParts: {
-        primary: string
-        secondary: string
-        tertiary: string
+        primary:string
+        secondary:string
+        tertiary:string
     }
+    primeReferenceIndex:number
+    primeReferenceTitle:string
 }
 
 interface MarvelMoviesFandomTimeline {
@@ -112,17 +114,24 @@ class MarvelMoviesFandomTimeline {
             return 'comic'
         }
 
+        const tvKeywords = [
+            '(Disney%2B_series)',
+            '(TV_series)'
+        ]
+
+        const isTvReference = tvKeywords.some( keyword => anchorElement.href.includes( keyword ) )
+
         // If it's (TV_series) then it's a tv reference
-        if ( anchorElement.href.includes( '(TV_series)' ) ) {
+        if ( isTvReference ) {
             return 'tv'
         }
 
         // If it includes _Episode_ then it's a TV show reference
         if ( anchorElement.href.includes( '_Episode_' ) ) {
-            return 'tv'
+            return 'episode'
         }
 
-        return 'generic'
+        return 'unknown'
     }
 
     extractReferenceLinks ( element ) {
@@ -137,6 +146,34 @@ class MarvelMoviesFandomTimeline {
                 referenceType: this.determineReferenceType( anchorElement )
             }
         })
+    }
+
+    determinePrimeReference ( element ) {
+        // If there's no paranthesis then it's not a reference
+        if ( !element.innerHTML.includes( '<small>(' ) ) {
+            return ''
+        }
+
+        let workingText = element.innerHTML
+
+        // Split at last index of (
+        workingText = workingText.split( '<small>(' ).reverse()[ 0 ]
+
+        // Split at first index of )
+        workingText = workingText.split( ')</small>' )[ 0 ]
+
+        const dom = new JSDOM( workingText )
+
+        const [ workingLink ] = dom.window.document.querySelectorAll( 'a' )
+
+        workingText = workingLink?.textContent ? workingLink.textContent : ''
+
+        // If there's paranthesis within the text then remove it
+        if ( workingText.includes( '(' ) ) {
+            workingText = workingText.split( '(' )[ 0 ]
+        }
+
+        return workingText.trim()
     }
 
     parseListElement ( element ) {
@@ -159,6 +196,13 @@ class MarvelMoviesFandomTimeline {
             const rawHtml = listItem.innerHTML
             const referenceLinks = this.extractReferenceLinks( listItem )
 
+            // Use prime referenceLink test as our Prime Reference Title
+            const primeReferenceTitle = this.determinePrimeReference( listItem )
+
+            // Use last referenceLink that is not an episode
+            const primeReferenceIndex = referenceLinks.findIndex( referenceLink => referenceLink.text === primeReferenceTitle )
+
+
             // if ( !textContent.replace(/(\r\n|\n|\r)/gm, '').endsWith(')') ) {
             //     console.log( 'textContent', textContent.length, { textContent } )
             //     // throw new Error( 'Raw HTML ends with )' )
@@ -175,7 +219,9 @@ class MarvelMoviesFandomTimeline {
                 rawHtml,
                 timeline: this.runningTimeline,
                 sourceUrl: timelineUrl,
-                referenceLinks
+                referenceLinks,
+                primeReferenceIndex,
+                primeReferenceTitle
             })
         }
     }
@@ -232,5 +278,28 @@ class MarvelMoviesFandomTimeline {
         // console.log( 'this.entries', this.entries.filter( entry => {
         //     return entry.timeDescriptionParts.tertiary.length
         // }) )
+    }
+
+    get entriesByReference () {
+        const entriesByReference = {}
+        let totalEntriesWithReference = 0
+
+        for ( const entry of this.entries ) {
+            const { primeReferenceTitle } = entry
+
+            if ( !entriesByReference[ primeReferenceTitle ] ) {
+                entriesByReference[ primeReferenceTitle ] = []
+
+                totalEntriesWithReference += 1
+            }
+
+            entriesByReference[ primeReferenceTitle ].push( entry )
+        }
+
+        return {
+            entries: entriesByReference,
+            titles: Object.keys( entriesByReference ),
+            totalEntriesWithReference
+        }
     }
 }

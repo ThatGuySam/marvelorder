@@ -45,3 +45,34 @@ test( 'Can find March 12th, 2015', () => {
 
     expect( march12th2015 ).toBeDefined()
 })
+
+test( `Can find Prime reference link in entries`, () => {
+    for ( const entry of timeline.entries ) {
+        expect( entry.primeReferenceIndex ).toBeDefined()
+
+        expect( entry.primeReferenceTitle ).toBeDefined()
+
+        // Expect that the prime reference title has no commas
+        expect( entry.primeReferenceTitle ).not.toContain( ',' )
+
+        // Expect that the prime reference title has no quotes
+        expect( entry.primeReferenceTitle ).not.toContain( '"' )
+    }
+})
+
+test( 'Can see expected entry structure', () => {
+    const { titles, totalEntriesWithReference } = timeline.entriesByReference
+
+    // console.log( 'titles', titles )
+
+    // Expect at least 75 entries with references
+    expect( totalEntriesWithReference ).toBeGreaterThan( 74 )
+
+    // Expect Agent Carter
+    expect( titles ).toContain( 'Agent Carter' )
+
+    // Expect to not see Agent Carter The Blitzkrieg Button
+    expect( titles ).not.toContain( 'Agent Carter The Blitzkrieg Button' )
+})
+
+
