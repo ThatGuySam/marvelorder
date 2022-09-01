@@ -36,7 +36,6 @@ rentLinks:
     "slug": "ghost-rider-spirit-of-vengeance",
     "tags": [
         "movie",
-        "company-11106",
         "company-7505"
     ]
 }

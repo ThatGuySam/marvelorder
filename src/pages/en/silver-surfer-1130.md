@@ -29,7 +29,7 @@ rentLinks:
     "original_name": "Silver Surfer",
     "overview": "The adventures of the cosmic wanderer as he seeks his lost home after rebelling from his master.",
     "poster_path": "/mBJTL4CRSoNkAQRmfwbiLTtviuW.jpg",
-    "vote_average": 7.6,
+    "vote_average": 7.7,
     "title": "Silver Surfer",
     "slug": "silver-surfer",
     "tags": [

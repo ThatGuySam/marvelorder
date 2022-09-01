@@ -410,6 +410,25 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [],
+		"id": 1003646,
+		"media_type": "movie",
+		"original_language": "en",
+		"original_title": "The Mutants",
+		"overview": "Marvel Studios' The Mutants Movie will Be the First X-Men Movie!",
+		"poster_path": "/k2goqzfn4Iaku3xyQrLI8OvSGfF.jpg",
+		"release_date": "",
+		"title": "The Mutants",
+		"video": false,
+		"vote_average": 0,
+		"slug": "the-mutants",
+		"tags": [
+			"list-8204859"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/jqFC2WjYF07hx2X7cs0XmY9jBX6.jpg",
 		"genre_ids": [
 			28,
@@ -841,7 +860,7 @@
 		"release_date": "2022-08-10",
 		"title": "The Little Guy",
 		"video": false,
-		"vote_average": 7.9,
+		"vote_average": 7.8,
 		"slug": "the-little-guy",
 		"tags": [
 			"movie",
@@ -1952,7 +1971,7 @@
 		"original_language": "en",
 		"original_title": "LEGO Marvel Super Heroes: Black Panther - Trouble in Wakanda",
 		"overview": "After speaking at the Wakanda Embassy, Black Panther fights Thanos and fends him off with the help of fellow Avengers Captain America, Thor, Iron Man, Hulk, and Black Widow. After regaining conscious, Thanos is approached by Erik Killmonger and Ulysses Klaue in a plot where they will obtain the Vibranium in Wakanda to empower Thanos. When Black Panther discovers this plot, he must work with Shuri, Okoye, and the Avengers to defeat them.",
-		"poster_path": "/7MqkF8uSnZOoEiSamSrufwrbmPM.jpg",
+		"poster_path": "/2t6V87sYjESrtBj9flbHWhZKtAp.jpg",
 		"release_date": "2018-06-04",
 		"title": "LEGO Marvel Super Heroes: Black Panther - Trouble in Wakanda",
 		"video": false,
@@ -3532,7 +3551,6 @@
 		"slug": "ghost-rider-spirit-of-vengeance",
 		"tags": [
 			"movie",
-			"company-11106",
 			"company-7505"
 		]
 	},
@@ -4233,7 +4251,7 @@
 		"original_name": "Fantastic Four: World's Greatest Heroes",
 		"overview": "Mister Fantastic, the Invisible Woman, the Human Torch, and Thing battle some of their greatest foes, including Doctor Doom, Ronan the Accuser, the Multiple Man, and Mole Man.",
 		"poster_path": "/zCtCW0JlbMpzfQDAX1bO1o1KLi.jpg",
-		"vote_average": 7.5,
+		"vote_average": 7.6,
 		"title": "Fantastic Four: World's Greatest Heroes",
 		"slug": "fantastic-four-worlds-greatest-heroes",
 		"tags": [
@@ -4776,7 +4794,7 @@
 		"original_name": "Silver Surfer",
 		"overview": "The adventures of the cosmic wanderer as he seeks his lost home after rebelling from his master.",
 		"poster_path": "/mBJTL4CRSoNkAQRmfwbiLTtviuW.jpg",
-		"vote_average": 7.6,
+		"vote_average": 7.7,
 		"title": "Silver Surfer",
 		"slug": "silver-surfer",
 		"tags": [
@@ -5117,7 +5135,7 @@
 		"release_date": "1981-06-25",
 		"title": "Spider-Man: The Dragon's Challenge",
 		"video": false,
-		"vote_average": 4.8,
+		"vote_average": 5,
 		"slug": "spider-man-the-dragons-challenge",
 		"tags": [
 			"list-8204862"
@@ -5236,7 +5254,7 @@
 		"release_date": "1978-12-21",
 		"title": "Spider-Man Strikes Back",
 		"video": false,
-		"vote_average": 5.4,
+		"vote_average": 5.5,
 		"slug": "spider-man-strikes-back",
 		"tags": [
 			"list-8204862"
@@ -5432,7 +5450,7 @@
 		"release_date": "1977-09-14",
 		"title": "Spider-Man",
 		"video": false,
-		"vote_average": 5.7,
+		"vote_average": 5.8,
 		"slug": "spider-man",
 		"tags": [
 			"list-8204862"
