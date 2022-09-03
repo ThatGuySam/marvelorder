@@ -46,7 +46,7 @@ tags:
     "release_date": "2022-08-10",
     "title": "Groot's First Steps",
     "video": false,
-    "vote_average": 7.7,
+    "vote_average": 7.6,
     "slug": "groots-first-steps",
     "tags": [
         "movie",
