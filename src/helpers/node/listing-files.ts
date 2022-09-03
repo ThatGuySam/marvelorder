@@ -428,3 +428,34 @@ export function matchListingTitle ( title:string, listing:Listing ) {
 
     return listingSlug === titleSlug
 }
+
+export function fuzzyMatchListingTitle ( title:string, listing:Listing ) {
+    // Catch empty titles
+    if ( !title.length ) {
+        throw new Error( 'title must not be empty' )
+    }
+
+    const listingSlug = makeSlugForMatchingTitle( listing.title )
+    const titleSlug = makeSlugForMatchingTitle( title )
+
+    // if ( listingSlug.startsWith('agents') ) {
+    //     console.log( { listingSlug, titleSlug } )
+    // }
+
+    // console.log( 'listingSlug', listingSlug )
+    // console.log( 'orderedSlug', inUniverseSlug )
+
+    // Check for exact match
+    if ( listingSlug === titleSlug ) {
+        return true
+    }
+
+    // Check that either starts with
+    if ( listingSlug.startsWith( titleSlug ) || titleSlug.startsWith( listingSlug ) ) {
+        return true
+    }
+
+    // We can be a bit more generous with the slug matching
+    // since the listing are all in the same month and year
+    return eitherIncludes( listingSlug, titleSlug )
+}
