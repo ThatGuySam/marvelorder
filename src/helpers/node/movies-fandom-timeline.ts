@@ -268,6 +268,11 @@ class MarvelMoviesFandomTimeline {
 
         if ( tagName === 'h2' ) {
             this.runningTimeline = element.textContent
+
+            // If it's just 'Timeline' then rename it to 'Marvel Cinematic Universe'
+            if ( this.runningTimeline === 'Timeline' ) {
+                this.runningTimeline = 'Marvel Cinematic Universe'
+            }
         }
 
         // For h3s start a new time description
