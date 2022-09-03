@@ -2,6 +2,11 @@ import fs from 'fs-extra'
 import fetch from 'node-fetch'
 import { JSDOM } from 'jsdom'
 
+import {
+    cleanListingTitle
+// @ts-ignore
+} from '~/src/helpers/node/listing-files.ts'
+
 // @ts-ignore
 import { storePath } from '~/src/config.ts'
 
@@ -184,7 +189,9 @@ class MarvelMoviesFandomTimeline {
             workingText = workingText.split( '(' )[ 0 ]
         }
 
-        return workingText.trim()
+
+
+        return cleanListingTitle( workingText )
     }
 
     parseListElement ( element ) {
