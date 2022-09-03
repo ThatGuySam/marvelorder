@@ -368,18 +368,17 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/cmtWQj3QuNM1bC1u3NZEztNYlIN.jpg",
+		"backdrop_path": null,
 		"genre_ids": [
 			878,
 			28,
-			12,
-			53
+			12
 		],
 		"id": 912649,
 		"original_language": "en",
 		"original_title": "Venom 3",
 		"overview": "The third entry in the Venom trilogy confirmed to be in development by Amy Pascal.",
-		"poster_path": "/7rflLKJvRohboUzKLSq1rtkWG0C.jpg",
+		"poster_path": "/s5R8Ja1IjxF4a3IygLCW1Zib6GB.jpg",
 		"title": "Venom 3",
 		"video": false,
 		"vote_average": 0,
@@ -811,7 +810,7 @@
 		"original_name": "She-Hulk: Attorney at Law",
 		"overview": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered hulk.",
 		"poster_path": "/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
-		"vote_average": 7.4,
+		"vote_average": 7.5,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
 		"tags": [
@@ -836,7 +835,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot's First Steps",
 		"video": false,
-		"vote_average": 7.6,
+		"vote_average": 7.7,
 		"slug": "groots-first-steps",
 		"tags": [
 			"movie",
@@ -908,7 +907,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot Takes a Bath",
 		"video": false,
-		"vote_average": 7.7,
+		"vote_average": 7.4,
 		"slug": "groot-takes-a-bath",
 		"tags": [
 			"movie",
