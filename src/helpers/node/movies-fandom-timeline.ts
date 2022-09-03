@@ -22,17 +22,25 @@ export const endContentMarker = '<div class="page-footer"'
 
 
 export async function saveMoviesFandomTimeline () {
-    const timeline = await getTimeline()
+    const timeline = await fetchTimeline()
 
     await fs.writeFile( moviesFandomTimelinePath, JSON.stringify( timeline.entries, null, 2 ) )
 }
 
 // Fetch build out Timeline structure
-export async function getTimeline () {
+export async function fetchTimeline () {
     const timeline = new MarvelMoviesFandomTimeline()
 
     // Setup
     await timeline.setup()
+
+    return timeline
+}
+
+export function getTimelineFromEntries ( entries ) {
+    const timeline = new MarvelMoviesFandomTimeline({
+        entries
+    })
 
     return timeline
 }
@@ -47,6 +55,7 @@ function* idMaker () {
 function cleanWhiteSpace ( string ) {
     return string.replace(/(\r\n|\n|\r)/gm, ' ').trim()
 }
+
 interface MarvelMoviesFandomTimelineEntry {
     timeDescription:string
     timeline:string
@@ -70,6 +79,10 @@ interface MarvelMoviesFandomTimeline {
     }
 }
 
+interface MarvelMoviesFandomOptions {
+    entries:MarvelMoviesFandomTimelineEntry[]
+}
+
 interface JSDOMElement {
     textContent:string
     href:string
@@ -77,8 +90,9 @@ interface JSDOMElement {
 }
 
 class MarvelMoviesFandomTimeline {
-    constructor () {
-        this.entries = []
+    constructor ( options = {} as MarvelMoviesFandomOptions ) {
+
+        this.entries = options?.entries || []
 
         this.runningTimeline = ''
         this.runningTimeParts = {

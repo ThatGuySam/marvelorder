@@ -6,14 +6,24 @@ import {
 // @ts-ignore
 } from '~/src/helpers/node/listing-files.ts'
 
+import {
+    fetchTimeline,
+    getTimelineFromEntries
 // @ts-ignore
-import { getTimeline } from '~/src/helpers/node/movies-fandom-timeline.ts'
+} from '~/src/helpers/node/movies-fandom-timeline.ts'
 
 
 let timeline
 
 beforeAll(async () => {
-    timeline = await getTimeline()
+    const timelineFromFetch = await fetchTimeline()
+
+    // Convert the fetched entries to JSON and then back again
+    const entriesFromJson = JSON.parse( JSON.stringify( timelineFromFetch.entries ) )
+
+    // Take the fetched entries and load them in via the constructor
+    // so that we know that it can be built from JSON
+    timeline = getTimelineFromEntries( entriesFromJson )
 })
 
 test( 'Can get timeline entries', async () => {
