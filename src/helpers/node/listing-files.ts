@@ -415,3 +415,16 @@ function makeSlugForMatchingTitle ( string:string ) {
 function eitherIncludes ( stringA:string, stringB:string ) {
     return stringA.includes( stringB ) || stringB.includes( stringA )
 }
+
+export function matchListingTitle ( title:string, listing:Listing ) {
+    // Catch empty titles
+    if ( !title.length ) {
+        throw new Error( 'title must not be empty' )
+    }
+
+    const listingSlug = makeSlugForMatchingTitle( listing.title )
+    const titleSlug = makeSlugForMatchingTitle( title )
+
+
+    return listingSlug === titleSlug
+}
