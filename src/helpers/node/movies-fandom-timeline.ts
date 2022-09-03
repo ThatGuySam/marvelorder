@@ -2,7 +2,9 @@ import fs from 'fs-extra'
 import fetch from 'node-fetch'
 import { JSDOM } from 'jsdom'
 
+
 import {
+    matchListingTitle,
     cleanListingTitle
 // @ts-ignore
 } from '~/src/helpers/node/listing-files.ts'
@@ -322,4 +324,32 @@ class MarvelMoviesFandomTimeline {
             totalEntriesWithoutReference
         }
     }
+
+    getEntriesForListing ( listing ) {
+
+        const { titles } = this.entriesByReference
+
+        // Sort titles by length
+        titles.sort( ( a, b ) => b.length - a.length )
+
+        for ( const title of titles ) {
+            // Remove the work 'Prelude' from the title
+            const titleWithoutPrelude = title.split( 'Prelude' )[ 0 ].trim()
+
+            if ( titleWithoutPrelude.length && matchListingTitle( titleWithoutPrelude, listing ) ) {
+                return {
+                    title: titleWithoutPrelude,
+                    listingTitle: listing.title,
+                    entries: this.entriesByReference.entries[ title ]
+                }
+            }
+        }
+
+        return {
+            title: '',
+            listingTitle: listing.title,
+            entries: []
+        }
+    }
 }
+

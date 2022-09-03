@@ -1,6 +1,11 @@
 // https://vitest.dev/api/
 import { assert, expect, test, beforeAll } from 'vitest'
 
+import {
+    getListingsByTitleLength
+// @ts-ignore
+} from '~/src/helpers/node/listing-files.ts'
+
 // @ts-ignore
 import { getTimeline } from '~/src/helpers/node/movies-fandom-timeline.ts'
 
@@ -78,5 +83,41 @@ test( 'Can see expected entry structure', () => {
 
     expect( titles ).not.toContain( 'Marvel\'s Agents of S.H.I.E.L.D.' )
 })
+
+test( 'Can match entry references to listings', async () => {
+    const listings = await getListingsByTitleLength()
+
+    const { titles, totalEntriesWithReference } = timeline.entriesByReference
+
+    // Setup a map of titles to listings using the title as the key
+    const listingsByTitle = titles.reduce( ( map, title ) => {
+        map[ title ] = null
+
+        return map
+    }, {} )
+
+    for ( const listing of listings ) {
+        const { title, entries } = timeline.getEntriesForListing( listing )
+
+        // console.log( 'entries', listing.title, entries.length )
+
+        if ( entries.length > 0 ) {
+            listingsByTitle[ title ] = timeline.getEntriesForListing( listing )
+        }
+    }
+
+    // console.log( { listingsByTitle } )
+
+    expect( listingsByTitle[ 'Marvel\'s Agents of S.H.I.E.L.D.' ] ).not.toBeDefined()
+
+    expect( listingsByTitle[ 'Agent Carter' ] ).toBeDefined()
+
+    const thorTwoEntries = listingsByTitle[ 'Thor: The Dark World' ].entries
+    // Thor: The Dark World includes Prelude comic references
+    const thorPreludeEntries = thorTwoEntries.filter( entry => entry.primeReferenceTitle.includes( 'Prelude' ) )
+
+    expect( thorPreludeEntries.length ).toBeGreaterThan( 0 )
+
+} )
 
 
