@@ -394,3 +394,20 @@ export async function mapStoryContentToListings ( storyMarkdown: string ) {
         listings//: ensureMappedListings( listings )
     }
 }
+
+function makeSlugForMatchingTitle ( string:string ) {
+    let workingString = makeSlug( string )
+
+    // Strip marvel-one-shot
+    workingString = workingString.replace( /marvel-one-shot-/, '' )
+
+    // Strip 'Marvel's ' from beginning
+    const PREFIX = 'marvels-'
+    if (workingString.startsWith(PREFIX)) {
+        // PREFIX is exactly at the beginning
+        workingString = workingString.slice(PREFIX.length);
+    }
+
+
+    return workingString
+}
