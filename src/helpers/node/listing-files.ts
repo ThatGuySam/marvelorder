@@ -459,3 +459,15 @@ export function fuzzyMatchListingTitle ( title:string, listing:Listing ) {
     // since the listing are all in the same month and year
     return eitherIncludes( listingSlug, titleSlug )
 }
+
+export function cleanListingTitle ( listingTitle:string ) {
+    let workingTitleString = listingTitle
+
+    // Remove Marvel One-Shot
+    workingTitleString = workingTitleString.replace( 'Marvel One-Shot', '' )
+
+    // Remove Marvel's
+    workingTitleString = workingTitleString.replace( "Marvel's", '' )
+
+    return workingTitleString.trim()
+}
