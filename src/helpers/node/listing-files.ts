@@ -131,6 +131,17 @@ export async function getDefaultFilteredListings () {
     return filteredListings.list
 }
 
+export async function getListingsByTitleLength () {
+    const rawListings = await getAllListings()
+
+    const listingsByTitleLength = new FilteredListings({
+        listings: rawListings,
+        listingsSort: 'title-length'
+    })
+
+    return listingsByTitleLength.list
+}
+
 export async function getUpcomingListings () {
     const rawListings = await getAllListings()
 
