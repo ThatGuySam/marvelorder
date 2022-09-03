@@ -63,7 +63,7 @@ test( `Can find Prime reference link in entries`, () => {
 test( 'Can see expected entry structure', () => {
     const { titles, totalEntriesWithReference } = timeline.entriesByReference
 
-    // console.log( { totalEntriesWithoutReference } )
+    // console.log( { titles } )
 
     // Expect at least 871 entries with references
     expect( totalEntriesWithReference ).toBeGreaterThan( 870 )
@@ -73,6 +73,10 @@ test( 'Can see expected entry structure', () => {
 
     // Expect to not see Agent Carter The Blitzkrieg Button
     expect( titles ).not.toContain( 'Agent Carter The Blitzkrieg Button' )
+
+    expect( titles ).toContain( 'Agents of S.H.I.E.L.D.' )
+
+    expect( titles ).not.toContain( 'Marvel\'s Agents of S.H.I.E.L.D.' )
 })
 
 
