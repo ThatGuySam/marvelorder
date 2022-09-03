@@ -228,6 +228,7 @@ class MarvelMoviesFandomTimeline {
             }
 
             const rawHtml = listItem.innerHTML
+            const textContent = listItem.textContent
             const referenceLinks = this.extractReferenceLinks( listItem )
 
             // Use prime referenceLink test as our Prime Reference Title
@@ -251,6 +252,7 @@ class MarvelMoviesFandomTimeline {
                 timeDescription: this.runningTimeDescription,
                 timeDescriptionParts: { ...this.runningTimeParts },
                 // rawHtml,
+                textContent,
                 timeline: this.runningTimeline,
                 sourceUrl: timelineUrl,
                 referenceLinks,
