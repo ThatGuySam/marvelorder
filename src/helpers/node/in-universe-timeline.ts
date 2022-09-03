@@ -113,7 +113,7 @@ const inUniverseFilters = new Map([
     ]
 ])
 
-async function getInUniverseListigns () {
+async function getInUniverseListings () {
     const rawListings = await getAllListings()
 
     const inUniverseListings = new FilteredListings({
@@ -128,7 +128,7 @@ async function getInUniverseListigns () {
 
 export async function getInUniverseTimelineAndListings () {
     const universeTimeline = await getInUniverseTimeline()
-    const savedListings = await getInUniverseListigns()
+    const savedListings = await getInUniverseListings()
 
     const matches = new Map()
 
