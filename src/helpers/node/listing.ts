@@ -18,7 +18,11 @@ import {
 } from '~/src/helpers/listing.ts'
 
 
-export function makeSlug ( name ) {
+export function makeSlug ( name:string ) {
+    if ( typeof name !== 'string' ) {
+        throw new Error( 'makeSlug() requires a string' )
+    }
+
     return slugify( name.replace( '+', ' plus' ) , {
         lower: true,
         remove: /[^a-zA-Z\d\s\-]/g,
