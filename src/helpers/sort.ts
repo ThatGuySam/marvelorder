@@ -18,7 +18,8 @@ export const sortTypes:any = {
 	'none': noSort,
 	'timeline': byTimelineOrder,
 	'premiere': byPremiere,
-    'premiere-reversed': byPremiereReversed
+    'premiere-reversed': byPremiereReversed,
+    'title-length': byTitleLength,
 }
 
 export function getSortByName ( sortType:string ) {
@@ -88,3 +89,16 @@ export function byPremiereReversed ( a:Listing, b:Listing ) {
     return Number( byPremiere( a, b ) ) * -1
 }
 
+// Sort by longest titles first
+export function byTitleLength ( a:Listing, b:Listing ) {
+    const aTitle = a.title || ''
+    const bTitle = b.title || ''
+
+    if ( aTitle.length > bTitle.length ) {
+        return -1
+    } else if ( aTitle.length < bTitle.length ) {
+        return 1
+    }
+
+    return 0
+}
