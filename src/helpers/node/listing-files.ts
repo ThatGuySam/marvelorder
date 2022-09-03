@@ -411,3 +411,7 @@ function makeSlugForMatchingTitle ( string:string ) {
 
     return workingString
 }
+
+function eitherIncludes ( stringA:string, stringB:string ) {
+    return stringA.includes( stringB ) || stringB.includes( stringA )
+}
