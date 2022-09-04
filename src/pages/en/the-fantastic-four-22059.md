@@ -32,7 +32,7 @@ rentLinks:
     "release_date": "1994-01-01",
     "title": "The Fantastic Four",
     "video": false,
-    "vote_average": 4.6,
+    "vote_average": 4.5,
     "slug": "the-fantastic-four",
     "tags": [
         "list-8204862"
