@@ -241,7 +241,13 @@ class MarvelMoviesFandomTimeline {
             }
 
             const rawHtml = listItem.innerHTML
-            const textContent = listItem.textContent
+            const textContent = (() => {
+                if ( !listItem.textContent.includes( '(' ) ) {
+                    return listItem.textContent
+                }
+
+                return listItem.textContent.substr(0, listItem.textContent.lastIndexOf('('))
+            })()
             const referenceLinks = this.extractReferenceLinks( listItem )
 
             // Use prime referenceLink test as our Prime Reference Title
