@@ -286,7 +286,17 @@ class MarvelMoviesFandomTimeline {
         const textContent = element.textContent.trim()
 
         if ( tagName === 'h2' ) {
+            // Reset the time parts
+            // so that our primaries don't
+            // bleed into the next timeline
+            this.resetTimeParts()
+
             this.runningTimeline = element.textContent
+
+            // Since some of the sections don't have h3s
+            // we'll set a default primary here
+            // so that we don't end up with a blank primary
+            this.runningTimeParts.primary = element.textContent
 
             // If it's just 'Timeline' then rename it to 'Marvel Cinematic Universe'
             if ( this.runningTimeline === 'Timeline' ) {

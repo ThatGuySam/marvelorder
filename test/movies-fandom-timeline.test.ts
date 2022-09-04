@@ -131,3 +131,30 @@ test( 'Can match entry references to listings', async () => {
 } )
 
 
+test( 'Can see Lamentis episodes in all 2077 Loki references', () => {
+    const { entries } = timeline.entriesByReference
+
+    // console.log( { entries } )
+
+    const lokiEntries = entries[ 'Loki' ]
+
+    const loki2077Entries = lokiEntries.filter( entry => entry.timeDescription.includes( '2077' ) )
+
+    for ( const entry of loki2077Entries ) {
+        // 'Lamentis', 'The Nexus Event'
+        // const isEitherLamentisEpisode = ([ 'Lamentis', 'The Nexus Event' ]).some( title => entry.textContent.includes( title ) )
+
+        expect( entry ).toEqual(
+            expect.objectContaining({
+                // Check in Reference links
+                referenceLinks: expect.arrayContaining([
+                    expect.objectContaining({
+                        text: expect.stringMatching( /Lamentis|The Nexus Event/ )
+                    })
+                ])
+            })
+        )
+    }
+} )
+
+
