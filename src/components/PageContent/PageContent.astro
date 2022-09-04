@@ -9,10 +9,13 @@ import MoreMenu from '../RightSidebar/MoreMenu.astro';
 import ListingLogo from '~/src/components/listing-logo.vue'
 import ListingContent from '~/src/components/listing-content.vue'
 import TmdbImage from '~/src/components/tmdb-image.vue'
+import ListingTimeline from '~/src/components/PageContent/listing-timeline.astro'
 
 const { content, githubEditUrl } = Astro.props
 
 const rawListing = await getSingleListingFromUrl( Astro.url.href )
+
+
 ---
 
 { !!rawListing.backdrop_path && (
@@ -38,6 +41,10 @@ const rawListing = await getSingleListingFromUrl( Astro.url.href )
 			context="listing-page"
 			class="relative h-full px-8"
 		/>
+
+        <div id="timeline">
+            <ListingTimeline listing={ rawListing } />
+        </div>
 
 		<slot />
 	</section>
