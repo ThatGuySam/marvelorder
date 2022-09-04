@@ -2,6 +2,8 @@
 // @ts-ignore
 import { getTimelineFromJson } from '~/src/helpers/node/movies-fandom-timeline.ts'
 
+import ListingLogo from '~/src/components/listing-logo.vue'
+
 // Listing prop
 const {
     listing
@@ -90,18 +92,12 @@ function breakEveryNthSentence ( paragraph, n = 2 ) {
                                 </div>
                             </div>
 
-                            <div class="overflow-hidden rounded-full bg-slate-50">
-                                <img
-                                    alt=""
-                                    srcset="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-1.c78616b7.png&amp;w=64&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-1.c78616b7.png&amp;w=128&amp;q=75 2x"
-                                    src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Favatar-1.c78616b7.png&amp;w=128&amp;q=75"
-                                    width="56"
-                                    height="56"
-                                    decoding="async"
-                                    data-nimg="future"
-                                    class="h-14 w-14 object-cover"
-                                    loading="lazy"
-                                >
+                            <div class="overflow-hidden rounded-full">
+                                <ListingLogo
+                                    src={ listing }
+                                    baseSize={ 150 }
+                                    class="h-auto w-full relative transition-all"
+                                />
                             </div>
                         </figcaption>
                     </figure>
