@@ -21,6 +21,13 @@ export const startContentMarker = '<div id="content"'
 export const endContentMarker = '<div class="page-footer"'
 
 
+export async function getEntriesFromJson () {
+    const entriesJson = await fs.readJSON( moviesFandomTimelinePath )
+
+    return entriesJson
+}
+
+
 export async function saveMoviesFandomTimeline () {
     const timeline = await fetchTimeline()
 
@@ -43,6 +50,12 @@ export function getTimelineFromEntries ( entries ) {
     })
 
     return timeline
+}
+
+export async function getTimelineFromJson () {
+    const entries = await getEntriesFromJson()
+
+    return getTimelineFromEntries( entries )
 }
 
 function* idMaker () {
