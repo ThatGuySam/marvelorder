@@ -233,7 +233,7 @@ class MarvelMoviesFandomTimeline {
             if ( childList ) {
                 const [ part ] = listItem.innerHTML.split( '<ul>' )
 
-                this.runningTimeParts.tertiary = cleanWhiteSpace( part )
+                this.runningTimeParts.tertiary = cleanWhiteSpace( part ).replace(/<[^>]*>?/gm, '')
 
                 this.parseListElement( childList )
 

@@ -75,6 +75,21 @@ test( `Can find Prime reference link in entries`, () => {
     }
 })
 
+test( 'Can see no html in timeDescriptionParts', () => {
+    for ( const entry of timeline.entries ) {
+        // console.log( { entry } )
+        for ( const partName in entry.timeDescriptionParts ) {
+            // Skip empty parts
+            if ( entry.timeDescriptionParts[ partName ].length === 0 ) {
+                continue
+            }
+
+            expect( entry.timeDescriptionParts[ partName ] ).not.toContain( '<' )
+            expect( entry.timeDescriptionParts[ partName ] ).not.toContain( '>' )
+        }
+    }
+})
+
 test( 'Can see expected entry structure', () => {
     const { titles, totalEntriesWithReference } = timeline.entriesByReference
 
