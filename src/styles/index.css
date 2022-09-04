@@ -207,6 +207,11 @@ pre.astro-code > code {
 	all: unset;
 }
 
+pre.astro-code {
+    width: 100%;
+    height: 100%;
+}
+
 pre > code {
 	font-size: 1em;
 }
