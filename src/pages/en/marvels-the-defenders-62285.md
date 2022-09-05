@@ -30,7 +30,7 @@ mcuTimelineOrder: 232
     "original_name": "Marvel's The Defenders",
     "overview": "Daredevil, Jessica Jones, Luke Cage and Iron Fist join forces to take on common enemies as a sinister conspiracy threatens New York City.",
     "poster_path": "/49XzINhH4LFsgz7cx6TOPcHUJUL.jpg",
-    "vote_average": 7.2,
+    "vote_average": 7.1,
     "title": "Marvel's The Defenders",
     "slug": "marvels-the-defenders",
     "tags": [

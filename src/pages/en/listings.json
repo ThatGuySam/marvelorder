@@ -795,7 +795,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/9GvhICFMiRQA82vS6ydkXxeEkrd.jpg",
+		"backdrop_path": "/eljErfkQUcFUgQkI4I1soZcH8MW.jpg",
 		"first_air_date": "2022-08-18",
 		"genre_ids": [
 			35,
@@ -810,7 +810,7 @@
 		"original_name": "She-Hulk: Attorney at Law",
 		"overview": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered hulk.",
 		"poster_path": "/oYcwRCDL4UeNiiUVqQAMFz8Htz1.jpg",
-		"vote_average": 7.5,
+		"vote_average": 7.4,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
 		"tags": [
@@ -1020,7 +1020,7 @@
 		"original_name": "Ms. Marvel",
 		"overview": "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school — that is, until she gets superpowers like the heroes she’s always looked up to. Life is easier with superpowers, right?",
 		"poster_path": "/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
-		"vote_average": 7,
+		"vote_average": 6.9,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
 		"tags": [
@@ -1224,7 +1224,7 @@
 		"original_name": "Marvel's Hit-Monkey",
 		"overview": "A Japanese snow macaque's clan meets a stranded hitman, Bryce, and nurses him back to health. But when Bryce bites the dust, it's up to the titular simian (guided by Bryce's ghost) to follow in his assassin footsteps and seek vengeance.",
 		"poster_path": "/1aK7hApRSDUv8xxDQXyQil7qBjN.jpg",
-		"vote_average": 8.1,
+		"vote_average": 8.2,
 		"title": "Marvel's Hit-Monkey",
 		"slug": "marvels-hit-monkey",
 		"tags": [
@@ -2239,7 +2239,7 @@
 		"original_name": "Marvel's The Defenders",
 		"overview": "Daredevil, Jessica Jones, Luke Cage and Iron Fist join forces to take on common enemies as a sinister conspiracy threatens New York City.",
 		"poster_path": "/49XzINhH4LFsgz7cx6TOPcHUJUL.jpg",
-		"vote_average": 7.2,
+		"vote_average": 7.1,
 		"title": "Marvel's The Defenders",
 		"slug": "marvels-the-defenders",
 		"tags": [
@@ -2338,7 +2338,7 @@
 		"original_name": "Marvel's Rocket & Groot",
 		"overview": "Before becoming Guardians of the Galaxy, Rocket and Groot were bounty hunters trying to get a ship.",
 		"poster_path": "/7FHJr40MPFwtHrOyOD9buQDoVcs.jpg",
-		"vote_average": 7.9,
+		"vote_average": 7.6,
 		"title": "Marvel's Rocket & Groot",
 		"slug": "marvels-rocket-and-groot",
 		"tags": [
@@ -3919,7 +3919,7 @@
 		"original_name": "Black Panther",
 		"overview": "Deep in the heart of Africa lies Wakanda, an advanced and unconquerable civilization. A family of warrior kings possessing superior speed, strength and agility has governed this mysterious nation as long as time itself. The latest in this famed line is young King T’Challa, the great hero known worldwide as the Black Panther. Now, outsiders once again threaten to invade and plunder Wakanda.",
 		"poster_path": "/3ceDcLkeK3egaqg3AVnqpn6L638.jpg",
-		"vote_average": 7.1,
+		"vote_average": 6.8,
 		"title": "Black Panther",
 		"slug": "black-panther",
 		"tags": [
