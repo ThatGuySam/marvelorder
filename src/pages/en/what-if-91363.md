@@ -33,7 +33,7 @@ tags:
     "original_name": "What If...?",
     "overview": "Taking inspiration from the comic books of the same name, each episode explores a pivotal moment from the Marvel Cinematic Universe and turns it on its head, leading the audience into uncharted territory.",
     "poster_path": "/lztz5XBMG1x6Y5ubz7CxfPFsAcW.jpg",
-    "vote_average": 8.4,
+    "vote_average": 8.3,
     "title": "What If...?",
     "slug": "what-if",
     "tags": [

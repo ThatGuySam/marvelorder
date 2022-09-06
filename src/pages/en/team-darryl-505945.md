@@ -30,7 +30,7 @@ rentLinks:
     "release_date": "2018-02-20",
     "title": "Team Darryl",
     "video": false,
-    "vote_average": 6.3,
+    "vote_average": 6.2,
     "slug": "team-darryl",
     "tags": [
         "movie",

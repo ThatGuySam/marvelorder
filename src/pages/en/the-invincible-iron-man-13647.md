@@ -32,7 +32,7 @@ rentLinks:
     "release_date": "2007-01-23",
     "title": "The Invincible Iron Man",
     "video": false,
-    "vote_average": 6.2,
+    "vote_average": 6.1,
     "slug": "the-invincible-iron-man",
     "tags": [
         "list-8204859"

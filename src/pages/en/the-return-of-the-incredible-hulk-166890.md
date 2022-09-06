@@ -31,7 +31,7 @@ rentLinks:
     "release_date": "1977-11-27",
     "title": "The Return of the Incredible Hulk",
     "video": false,
-    "vote_average": 6.1,
+    "vote_average": 5.9,
     "slug": "the-return-of-the-incredible-hulk",
     "tags": [
         "list-8204862"
