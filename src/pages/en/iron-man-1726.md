@@ -17,7 +17,7 @@ release_date: '2008-05-02'
 ```json
 {
     "adult": false,
-    "backdrop_path": "/s6cQgJSkviamXAXBggT2xmj7JiG.jpg",
+    "backdrop_path": "/cyecB7godJ6kNHGONFjUyVN9OX5.jpg",
     "genre_ids": [
         28,
         878,

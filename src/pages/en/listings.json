@@ -795,7 +795,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/9GvhICFMiRQA82vS6ydkXxeEkrd.jpg",
+		"backdrop_path": "/2OuXco9MlwAKhToQwzapmrlioRC.jpg",
 		"first_air_date": "2022-08-18",
 		"genre_ids": [
 			35,
@@ -810,7 +810,7 @@
 		"original_name": "She-Hulk: Attorney at Law",
 		"overview": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered hulk.",
 		"poster_path": "/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
-		"vote_average": 7.4,
+		"vote_average": 7.3,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
 		"tags": [
@@ -835,7 +835,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot's First Steps",
 		"video": false,
-		"vote_average": 7.6,
+		"vote_average": 7.5,
 		"slug": "groots-first-steps",
 		"tags": [
 			"movie",
@@ -907,7 +907,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot Takes a Bath",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 7.1,
 		"slug": "groot-takes-a-bath",
 		"tags": [
 			"movie",
@@ -2698,7 +2698,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/a7sAqMKv5tkAdMzFfIhPqIBmQ9g.jpg",
+		"backdrop_path": "/1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg",
 		"genre_ids": [
 			878,
 			28,
@@ -3756,7 +3756,7 @@
 		"original_name": "ウルヴァリン",
 		"overview": "Wolverine is a mutant, possessing animal-keen senses, enhanced physical capabilities, three retracting bone claws on each hand and a healing factor that allows him to recover from virtually any wound, disease or toxin at a accelerated rate.",
 		"poster_path": "/cXPQEgUEbDz5NERfBJxeKFqUGwa.jpg",
-		"vote_average": 6.4,
+		"vote_average": 6.5,
 		"title": "Wolverine",
 		"slug": "wolverine",
 		"tags": [
@@ -4073,7 +4073,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/s6cQgJSkviamXAXBggT2xmj7JiG.jpg",
+		"backdrop_path": "/cyecB7godJ6kNHGONFjUyVN9OX5.jpg",
 		"genre_ids": [
 			28,
 			878,
