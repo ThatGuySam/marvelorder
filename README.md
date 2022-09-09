@@ -65,6 +65,7 @@ This is the *most* official list for the Marvel Chronologically, aka by the time
 - <kbd>39</kbd> - [Moon Knight](https://marvelorder.com/en/moon-knight-92749) - 📺 Series - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/moon-knight-92749.md)
 - <kbd>40</kbd> - [She-Hulk: Attorney at Law](https://marvelorder.com/en/she-hulk-attorney-at-law-92783) - 📺 Series - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/she-hulk-attorney-at-law-92783.md)
 - <kbd>41</kbd> - [Ms. Marvel](https://marvelorder.com/en/ms-marvel-92782) - 📺 Series - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/ms-marvel-92782.md)
+- <kbd>42</kbd> - [Thor: Love and Thunder](https://marvelorder.com/en/thor-love-and-thunder-616037) - 🎬 Movie - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/thor-love-and-thunder-616037.md)
 
 <!-- end-in-universe-list -->
 

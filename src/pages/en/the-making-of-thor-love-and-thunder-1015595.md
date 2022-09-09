@@ -33,7 +33,7 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": null,
+    "backdrop_path": "/a7vpWZtI8pANqGo29xtZfxIRrlq.jpg",
     "genre_ids": [
         99
     ],
@@ -41,7 +41,7 @@ tags:
     "original_language": "en",
     "original_title": "The Making of Thor: Love and Thunder",
     "overview": "Settle in with the likes of Taika Waititi, Chris Hemsworth, Natalie Portman, Christian Bale, and Tessa Thompson, and as they divulge the secrets behind the creation of Thor: Love and Thunder. Through in-depth interviews with cast and crew, along with raw, unseen footage from the set and beyond, ASSEMBLED pulls back the curtain on the God of Thunder’s fourth feature film.",
-    "poster_path": null,
+    "poster_path": "/eb7GP3cttApzilOOM52L129Eaaj.jpg",
     "release_date": "2022-09-08",
     "title": "The Making of Thor: Love and Thunder",
     "video": false,

@@ -34,7 +34,7 @@ tags:
     "release_date": "1988-05-22",
     "title": "The Incredible Hulk Returns",
     "video": false,
-    "vote_average": 6.2,
+    "vote_average": 6.1,
     "slug": "the-incredible-hulk-returns",
     "tags": [
         "list-8204862"

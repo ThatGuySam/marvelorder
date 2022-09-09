@@ -37,7 +37,7 @@ rentLinks:
     "release_date": "1979-11-23",
     "title": "Captain America II: Death Too Soon",
     "video": false,
-    "vote_average": 3.8,
+    "vote_average": 3.7,
     "slug": "captain-america-ii-death-too-soon",
     "tags": [
         "list-8204862"

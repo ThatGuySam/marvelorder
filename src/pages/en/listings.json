@@ -688,6 +688,7 @@
 		"genre_ids": [
 			28,
 			12,
+			35,
 			878
 		],
 		"id": 447365,
@@ -775,7 +776,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
+		"backdrop_path": "/a7vpWZtI8pANqGo29xtZfxIRrlq.jpg",
 		"genre_ids": [
 			99
 		],
@@ -783,7 +784,7 @@
 		"original_language": "en",
 		"original_title": "The Making of Thor: Love and Thunder",
 		"overview": "Settle in with the likes of Taika Waititi, Chris Hemsworth, Natalie Portman, Christian Bale, and Tessa Thompson, and as they divulge the secrets behind the creation of Thor: Love and Thunder. Through in-depth interviews with cast and crew, along with raw, unseen footage from the set and beyond, ASSEMBLED pulls back the curtain on the God of Thunder’s fourth feature film.",
-		"poster_path": null,
+		"poster_path": "/eb7GP3cttApzilOOM52L129Eaaj.jpg",
 		"release_date": "2022-09-08",
 		"title": "The Making of Thor: Love and Thunder",
 		"video": false,
@@ -795,7 +796,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/2OuXco9MlwAKhToQwzapmrlioRC.jpg",
+		"backdrop_path": "/9GvhICFMiRQA82vS6ydkXxeEkrd.jpg",
 		"first_air_date": "2022-08-18",
 		"genre_ids": [
 			35,
@@ -996,7 +997,7 @@
 		"release_date": "2022-07-06",
 		"title": "Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 6.7,
+		"vote_average": 6.8,
 		"slug": "thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -1020,7 +1021,7 @@
 		"original_name": "Ms. Marvel",
 		"overview": "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school — that is, until she gets superpowers like the heroes she’s always looked up to. Life is easier with superpowers, right?",
 		"poster_path": "/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
-		"vote_average": 6.9,
+		"vote_average": 7,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
 		"tags": [
@@ -1511,7 +1512,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/1i1N0AVRb54H6ZFPDTwbo9MLxSF.jpg",
+		"backdrop_path": "/33j33midGw49BBxiqlNZeZ6PZ0O.jpg",
 		"first_air_date": "2021-01-15",
 		"genre_ids": [
 			10765,
@@ -5063,7 +5064,7 @@
 		"release_date": "1988-05-22",
 		"title": "The Incredible Hulk Returns",
 		"video": false,
-		"vote_average": 6.2,
+		"vote_average": 6.1,
 		"slug": "the-incredible-hulk-returns",
 		"tags": [
 			"list-8204862"
@@ -5158,7 +5159,7 @@
 		"release_date": "1979-11-23",
 		"title": "Captain America II: Death Too Soon",
 		"video": false,
-		"vote_average": 3.8,
+		"vote_average": 3.7,
 		"slug": "captain-america-ii-death-too-soon",
 		"tags": [
 			"list-8204862"
