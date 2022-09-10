@@ -20,3 +20,14 @@ Queen Ramonda addresses the UN about the danger of vibranium falling into the ha
 
 Ryan Coogler also revealed that Shuri will have the biggest role in the film, after showing an exclusive scene. 
 
+
+
+
+## [Ironheart](https://marvelorder.com/en/ironheart-114471/)
+
+
+Ryan Coogler will be exec producing ‘IRONHEART’ and showed a teaser for the series. 
+
+The #ronheart teaser shows Riri forging her armor. Later, the anti-hero The Hood appears
+
+Anthony Ramos appeared on-stage and is confirmed to be playing The Hood
