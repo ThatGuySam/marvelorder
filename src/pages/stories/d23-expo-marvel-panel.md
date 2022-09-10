@@ -115,5 +115,11 @@ The film is due in theaters on July 26, 2024.
 
 
 
+## [The Marvels](https://marvelorder.com/en/the-marvels-609681/)
 
+Brie Larson, Teyonah Parris, Iman Vellani, and director Nia DeCosta just showed us the first trailer for The Marvels. 
+
+Kamala, Carol, and Monica light powers entangled. Captain Rambeau as astronaut at SABER space station with Fury. 
+
+Monica touches a light field, Kamala is now in spacesuit, waves at Fury. Monica crashes on a moon with Kree warriors.
 
