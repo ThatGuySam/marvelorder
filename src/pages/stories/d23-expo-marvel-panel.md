@@ -105,3 +105,15 @@ Featuring Anthony Mackie and described as a paranoid thriller by director Julius
 
 The Incredible Hulk’s Tim Blake Nelson will return as Samuel Sterns aka Leader in Captain America: New World Order.
 
+
+
+## [Thunderbolts](https://marvelorder.com/en/thunderbolts-986056/)
+
+The Thunderbolts movie will include characters like Florence Pugh as Yelena, Sebastian Stan as Bucky, Olga Kurilenko as Taskmaster, David Harbour as Red Guardian, Wyatt Russell as US Agent, Julia Louis-Dreyfus as Valentina, and Hannah John-Kamen as Ghost. 
+
+The film is due in theaters on July 26, 2024.
+
+
+
+
+
