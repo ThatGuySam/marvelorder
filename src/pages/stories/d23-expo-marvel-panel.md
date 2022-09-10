@@ -89,3 +89,12 @@ The trailer was introduced by Marvel Studios president Kevin Feige.
 
 Also, we'll see Vincent D'Onofrio return as Kingpin. 
 
+
+
+## [Daredevil: Born Again](https://marvelorder.com/en/daredevil-born-again-202555/)
+
+Vincent D’Onofrio stays on stage after the Echo panel. Charlie Cox joins him on stage to talk about Daredevil Born Again. 
+
+Will have 18 episodes and begin production in 2023.
+
+
