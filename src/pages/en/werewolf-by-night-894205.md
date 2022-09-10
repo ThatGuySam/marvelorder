@@ -1,12 +1,12 @@
 ---
-title: Untitled Halloween Special
-slug: untitled-halloween-special
+title: Werewolf By Night
+slug: werewolf-by-night
 description: >-
   A Marvel Halloween special for Disney+ based around the character Werewolf by
   Night.
 layout: ../../layouts/MainLayout.astro
 adult: false
-backdrop_path: null
+backdrop_path: /.netlify/functions/tmdb-image/fjiIAohgctZdvwDnEcbKYaE5ftu.webp
 genre_ids:
   - 28
   - 27
