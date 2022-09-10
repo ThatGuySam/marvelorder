@@ -13,7 +13,7 @@ coverPosterUrl: https://vumbnail.com/oy0G2jT8Nqo.jpg
 Details for all the announcements from the Marvel Panel at D23 Expo
 
 
-## [Wakanda Forever](https://marvelorder.com/en/black-panther-wakanda-forever-505642//)
+## [Wakanda Forever](https://marvelorder.com/en/black-panther-wakanda-forever-505642/)
 The new trailer showed the flight of Riri, the Dora Milaje, the strength of Namor and Attuma! Also, a fantastic scene of the Dora Milaje wiping out some soldiers trying to steal the vibranium. 
 
 Queen Ramonda addresses the UN about the danger of vibranium falling into the hands of others as intercut footage shows mercs trying to steal vibranium and ending up in a battle with the Dora Milaje.
