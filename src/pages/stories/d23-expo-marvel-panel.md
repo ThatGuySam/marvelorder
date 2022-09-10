@@ -81,6 +81,11 @@ Matt Shakman officially confirmed to direct Marvel Studios’ Fantastic Four. In
 
 
 
+## [Echo](https://marvelorder.com/en/echo-122226/)
 
+The official trailer for Echo, the Disney+ series starring Alaqua Cox as the titular hero, has been unveiled. 
 
+The trailer was introduced by Marvel Studios president Kevin Feige. 
+
+Also, we'll see Vincent D'Onofrio return as Kingpin. 
 
