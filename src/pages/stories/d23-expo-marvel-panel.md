@@ -57,4 +57,11 @@ Secret Invasion also leads right into Armor Wars!
 
 
 
+## [Armor Wars](https://marvelorder.com/en/armor-wars-114470/)
+
+Don Cheadle will return in Marvel Studios’ Armor Wars, coming to Disney Plus.
+
+Armor Wars sees Stark tech fall into the wrong hands and will deal with the fallout of Secret Invasion. 
+
+
 
