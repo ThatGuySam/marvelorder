@@ -31,3 +31,14 @@ Ryan Coogler will be exec producing ‘IRONHEART’ and showed a teaser for the 
 The #ronheart teaser shows Riri forging her armor. Later, the anti-hero The Hood appears
 
 Anthony Ramos appeared on-stage and is confirmed to be playing The Hood
+
+
+
+
+## [Ant-Man and the Wasp: Quantumania](https://marvelorder.com/en/ant-man-and-the-wasp-quantumania-640146/)
+
+Ant-Man and the Wasp: Quantumania kicks off Phase 5 in a big way and begins the road to the Avengers: The Kang Dynasty!
+
+
+
+
