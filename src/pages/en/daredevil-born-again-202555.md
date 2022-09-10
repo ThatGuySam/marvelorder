@@ -4,6 +4,7 @@ slug: daredevil-born-again
 description: ''
 layout: ../../layouts/MainLayout.astro
 logo_on_black: /.netlify/functions/tmdb-image/t2MKhbLkSlMduIukClOXFMK9LhP.webp
+backdrop_path: /3HQctzbZdtv0bazlHiLdc1urK11.jpg
 type: tv
 # Spring 2024 - https://www.marvel.com/articles/movies/sdcc-2022-all-of-the-marvel-studios-news-coming-out-of-hall-h-at-san-diego-comic-con
 release_date: "Spring 2024"
