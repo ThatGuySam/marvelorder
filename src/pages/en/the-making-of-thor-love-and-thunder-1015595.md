@@ -45,7 +45,7 @@ tags:
     "release_date": "2022-09-08",
     "title": "The Making of Thor: Love and Thunder",
     "video": false,
-    "vote_average": 0,
+    "vote_average": 6,
     "slug": "the-making-of-thor-love-and-thunder",
     "tags": [
         "movie",
