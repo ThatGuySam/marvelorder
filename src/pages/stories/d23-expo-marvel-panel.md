@@ -28,7 +28,7 @@ Ryan Coogler also revealed that Shuri will have the biggest role in the film, af
 
 Ryan Coogler will be exec producing ‘IRONHEART’ and showed a teaser for the series. 
 
-The #ronheart teaser shows Riri forging her armor. Later, the anti-hero The Hood appears
+The Ironheart teaser shows Riri forging her armor. Later, the anti-hero The Hood appears
 
 Anthony Ramos appeared on-stage and is confirmed to be playing The Hood
 
@@ -97,4 +97,11 @@ Vincent D’Onofrio stays on stage after the Echo panel. Charlie Cox joins him o
 
 Will have 18 episodes and begin production in 2023.
 
+
+
+## [Captain America: New World Order](https://marvelorder.com/en/captain-america-new-world-order-822119/)
+
+Featuring Anthony Mackie and described as a paranoid thriller by director Julius Onah. 
+
+The Incredible Hulk’s Tim Blake Nelson will return as Samuel Sterns aka Leader in Captain America: New World Order.
 
