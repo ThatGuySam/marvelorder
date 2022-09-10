@@ -64,4 +64,15 @@ Don Cheadle will return in Marvel Studios’ Armor Wars, coming to Disney Plus.
 Armor Wars sees Stark tech fall into the wrong hands and will deal with the fallout of Secret Invasion. 
 
 
+## [Loki Season 2](https://marvelorder.com/en/loki-84958/)
+
+Loki Season 2 will once again explore the multiverse. 
+
+Season 2 capitalizes off of the ending of the first Season. This is the calm before the storm. Loki is trying to warn everyone about the coming war with Kang.
+
+Everything Everywhere All At Once's Ke Huy Quan will also be in Loki Season 2.
+
+
+
+
 
