@@ -45,3 +45,16 @@ Ant-Man and the Wasp: Quantumania kicks off Phase 5 in a big way and begins the 
 
 Marvel’s first Halloween special Werewolf By Night premieres this October. 
 
+
+
+
+## [Secret Invasion](https://marvelorder.com/en/secret-invasion-114472/)
+
+Marvel Studios' Secret Invasion, an Original series, streaming 2023 on Disney Plus.
+
+Secret Invasion also leads right into Armor Wars!
+
+
+
+
+
