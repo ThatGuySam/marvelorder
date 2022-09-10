@@ -6,7 +6,7 @@ description: >-
   coming true: what happens when his tech falls into the wrong hands?
 layout: ../../layouts/MainLayout.astro
 type: tv
-logo_on_black: /.netlify/functions/tmdb-image/vXkmdLWnXpBaaErF4faB2BKLStL.webp
+logo_on_black: /.netlify/functions/tmdb-image/yddelWuP5vibmBhjvCVQZjhra1q.webp
 ---
 ## TMDB Data
 ```json
