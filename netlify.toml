@@ -25,8 +25,8 @@
     status = 301
 
 [[redirects]]
-    from = "/en/werewolf-by-night-894205"
-    to = "/en/untitled-marvel-halloween-special-894205"
+    from = "/en/untitled-marvel-halloween-special-894205"
+    to = "/en/werewolf-by-night-894205"
     status = 301
 
 [[redirects]]
