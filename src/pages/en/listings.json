@@ -751,7 +751,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/3yuoJwC0GGYM7Cfok9IjtkjPWrK.jpg",
+		"backdrop_path": "/rhIMDeJcYIlC0vgWFceh2B4sYuy.jpg",
 		"genre_ids": [
 			27,
 			35,
@@ -815,6 +815,31 @@
 		"tags": [
 			"tv",
 			"company-420"
+		]
+	},
+	{
+		"backdrop_path": null,
+		"first_air_date": "2022-08-10",
+		"genre_ids": [
+			16,
+			10762,
+			10759
+		],
+		"id": 209930,
+		"media_type": "tv",
+		"name": "I Am Groot",
+		"origin_country": [
+			"US"
+		],
+		"original_language": "en",
+		"original_name": "I Am Groot",
+		"overview": "A series of shorts featuring the seedling Groot along with several new and unusual characters.",
+		"poster_path": "/cAIbqf1Y3Lb8s7D527MeWVMrX0S.jpg",
+		"vote_average": 6.5,
+		"title": "I Am Groot",
+		"slug": "i-am-groot",
+		"tags": [
+			"list-8204859"
 		]
 	},
 	{
@@ -2810,6 +2835,30 @@
 		]
 	},
 	{
+		"backdrop_path": "/wsviXEJ210JPoFQuHYGH9X4yt2B.jpg",
+		"first_air_date": "2015-03-10",
+		"genre_ids": [
+			18,
+			10765
+		],
+		"id": 42531,
+		"media_type": "tv",
+		"name": "Powers",
+		"origin_country": [
+			"US"
+		],
+		"original_language": "en",
+		"original_name": "Powers",
+		"overview": "Two homicide detectives, Christian Walker and Deena Pilgrim, are assigned to investigate cases involving people with superhuman abilities, referred to as “Powers.” Set amidst today’s paparazzi culture, Powers asks the questions, what if the world was full of superheroes who aren't actually heroic at all? What if all that power was just one more excuse for mischief, mayhem, murder, and endorsement deals?",
+		"poster_path": "/7imMR8ySLCPG3LsNlGej8GGtXBg.jpg",
+		"vote_average": 6.9,
+		"title": "Powers",
+		"slug": "powers",
+		"tags": [
+			"list-8204859"
+		]
+	},
+	{
 		"backdrop_path": "/MaQ7hbNsiJ30p14UgRdEnXDGMH.jpg",
 		"first_air_date": "2015-01-06",
 		"genre_ids": [
@@ -3228,7 +3277,7 @@
 		"release_date": "2013-09-09",
 		"title": "Ultimate Wolverine vs. Hulk",
 		"video": false,
-		"vote_average": 6.7,
+		"vote_average": 7,
 		"slug": "ultimate-wolverine-vs-hulk",
 		"tags": [
 			"movie",
@@ -4803,6 +4852,29 @@
 		]
 	},
 	{
+		"backdrop_path": null,
+		"first_air_date": "1997-09-20",
+		"genre_ids": [
+			10759
+		],
+		"id": 13084,
+		"media_type": "tv",
+		"name": "Night Man",
+		"origin_country": [
+			"US"
+		],
+		"original_language": "en",
+		"original_name": "Night Man",
+		"overview": "Night Man is an American action/adventure/sci-fi series that aired in syndication from September 15, 1997 to May 17, 1999. The series is loosely based on a comic book published by Malibu Comics and was created by Steve Englehart and developed for television by Glen A. Larson.\n\nIt stars Matt McColm as the title character, a superhero whose real name was Johnny Domino, a saxophonist. Englehart would write three episodes of the series. Night Man is also one of the few series to cross over with characters from Larson's previous series: in the episode \"Manimal\", Johnny allies with Professor Jonathan Chase, the star of the short-lived 1980s' series Manimal.",
+		"poster_path": "/esqusThZ8KbEOT6NqIieocBk8gQ.jpg",
+		"vote_average": 6.4,
+		"title": "Night Man",
+		"slug": "night-man",
+		"tags": [
+			"list-8204862"
+		]
+	},
+	{
 		"adult": false,
 		"backdrop_path": "/tbZO6k6JXMAhCv9NLXS1lGYxxiy.jpg",
 		"genre_ids": [
@@ -5451,6 +5523,25 @@
 		"video": false,
 		"vote_average": 5.8,
 		"slug": "spider-man",
+		"tags": [
+			"list-8204862"
+		]
+	},
+	{
+		"backdrop_path": null,
+		"first_air_date": "1974-10-21",
+		"genre_ids": [],
+		"id": 15178,
+		"media_type": "tv",
+		"name": "Spidey Super Stories",
+		"origin_country": [],
+		"original_language": "en",
+		"original_name": "Spidey Super Stories",
+		"overview": "A live-action, recurring skit on the PBS children's television series The Electric Company. Episodes featured the Marvel Comics character Spider-Man, provided to the Children's Television Workshop free of charge, and was played by puppeteer and dancer Danny Seagren.\n\nStories involved the masked superhero foiling mischievous characters who were involved in petty criminal activities. The cast of The Electric Company played the roles of the various characters in each story, with another serving as narrator. In many of these sketches, viewers were addressed as \"true believers.\"\n\nUnlike other live-action and cartoon productions of Spider-Man, this version of the web-slinging hero did not speak out loud, instead communicating only with word balloons, in order to encourage young viewers to practice their reading skills because he was drawn without a mouth. He also never appeared out of his costume as Peter Parker and, given the series' budget limitations, used his web-shooters sparingly.",
+		"poster_path": "/cSHETWKC1JPQ3cNmpMCx9vMPoBs.jpg",
+		"vote_average": 0,
+		"title": "Spidey Super Stories",
+		"slug": "spidey-super-stories",
 		"tags": [
 			"list-8204862"
 		]
