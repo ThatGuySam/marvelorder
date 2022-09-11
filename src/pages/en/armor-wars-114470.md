@@ -23,7 +23,7 @@ logo_on_black: /.netlify/functions/tmdb-image/yddelWuP5vibmBhjvCVQZjhra1q.webp
     "original_language": "en",
     "original_name": "Armor Wars",
     "overview": "James Rhodes aka War Machine faces the consequences of Tony Stark's worst fear coming true: what happens when his tech falls into the wrong hands?",
-    "poster_path": "/vXkmdLWnXpBaaErF4faB2BKLStL.jpg",
+    "poster_path": "/yddelWuP5vibmBhjvCVQZjhra1q.jpg",
     "vote_average": 0,
     "title": "Armor Wars",
     "slug": "armor-wars",

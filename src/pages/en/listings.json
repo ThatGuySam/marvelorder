@@ -12,7 +12,7 @@
 		"original_language": "en",
 		"original_name": "Armor Wars",
 		"overview": "James Rhodes aka War Machine faces the consequences of Tony Stark's worst fear coming true: what happens when his tech falls into the wrong hands?",
-		"poster_path": "/vXkmdLWnXpBaaErF4faB2BKLStL.jpg",
+		"poster_path": "/yddelWuP5vibmBhjvCVQZjhra1q.jpg",
 		"vote_average": 0,
 		"title": "Armor Wars",
 		"slug": "armor-wars",
@@ -794,7 +794,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/9GvhICFMiRQA82vS6ydkXxeEkrd.jpg",
+		"backdrop_path": "/eljErfkQUcFUgQkI4I1soZcH8MW.jpg",
 		"first_air_date": "2022-08-18",
 		"genre_ids": [
 			35,
@@ -815,31 +815,6 @@
 		"tags": [
 			"tv",
 			"company-420"
-		]
-	},
-	{
-		"backdrop_path": null,
-		"first_air_date": "2022-08-10",
-		"genre_ids": [
-			16,
-			10762,
-			10759
-		],
-		"id": 209930,
-		"media_type": "tv",
-		"name": "I Am Groot",
-		"origin_country": [
-			"US"
-		],
-		"original_language": "en",
-		"original_name": "I Am Groot",
-		"overview": "A series of shorts featuring the seedling Groot along with several new and unusual characters.",
-		"poster_path": "/cAIbqf1Y3Lb8s7D527MeWVMrX0S.jpg",
-		"vote_average": 6.5,
-		"title": "I Am Groot",
-		"slug": "i-am-groot",
-		"tags": [
-			"list-8204859"
 		]
 	},
 	{
@@ -4610,30 +4585,6 @@
 		]
 	},
 	{
-		"adult": false,
-		"backdrop_path": "/g8cjJHZFeZQ5GRbFiDp5jXgfOZW.jpg",
-		"genre_ids": [
-			14,
-			27,
-			28,
-			53
-		],
-		"id": 36586,
-		"original_language": "en",
-		"original_title": "Blade II",
-		"overview": "A rare mutation has occurred within the vampire community - The Reaper. A vampire so consumed with an insatiable bloodlust that they prey on vampires as well as humans, transforming victims who are unlucky enough to survive into Reapers themselves. Blade is asked by the Vampire Nation for his help in preventing a nightmare plague that would wipe out both humans and vampires.",
-		"poster_path": "/yDHwo3eWcMiy5LnnEnlGV9iLu9k.jpg",
-		"release_date": "2002-03-22",
-		"title": "Blade II",
-		"video": false,
-		"vote_average": 6.5,
-		"slug": "blade-ii",
-		"tags": [
-			"movie",
-			"company-19551"
-		]
-	},
-	{
 		"backdrop_path": "/A2BqbbSs9E4emekdxdvWzLK6lpx.jpg",
 		"first_air_date": "2001-10-06",
 		"genre_ids": [
@@ -4778,28 +4729,6 @@
 		"tags": [
 			"tv",
 			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/hZnnUq0mrUQ3e54SJVca4mf2oAQ.jpg",
-		"genre_ids": [
-			27,
-			28
-		],
-		"id": 36647,
-		"original_language": "en",
-		"original_title": "Blade",
-		"overview": "The Daywalker known as \"Blade\" - a half-vampire, half-mortal man - becomes the protector of humanity against an underground army of vampires.",
-		"poster_path": "/PDuKQeQkRHkdx7rY147VBVN5Ef.jpg",
-		"release_date": "1998-08-21",
-		"title": "Blade",
-		"video": false,
-		"vote_average": 6.7,
-		"slug": "blade",
-		"tags": [
-			"movie",
-			"company-7505"
 		]
 	},
 	{
