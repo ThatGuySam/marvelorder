@@ -5,8 +5,8 @@ description: >-
   A Marvel Halloween special for Disney+ based around the character Werewolf by
   Night.
 layout: ../../layouts/MainLayout.astro
-backdrop_path: /.netlify/functions/tmdb-image/fjiIAohgctZdvwDnEcbKYaE5ftu.webp
-logo_on_black: /.netlify/functions/tmdb-image/a4aEwCaxhWrhdlhAs4qt1aD6otH.webp?crop.top=0.755&crop.bottom=0.11
+backdrop_path: /.netlify/functions/tmdb-image/1lz4IxwC1BeO0KrjIBhXo16L8Lb.webp
+logo_on_black: /.netlify/functions/tmdb-image/8wrftmiAwG47cNAil9zxwwylDs1.webp
 overview: >-
   A Marvel Halloween special for Disney+ based around the character Werewolf by
   Night.
