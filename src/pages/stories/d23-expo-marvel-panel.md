@@ -41,7 +41,7 @@ Ant-Man and the Wasp: Quantumania kicks off Phase 5 in a big way and begins the 
 
 
 
-## [Werewold By Night](https://marvelorder.com/en/werewolf-by-night-894205/)
+## [Werewolf By Night](https://marvelorder.com/en/werewolf-by-night-894205/)
 
 Marvel’s first Halloween special Werewolf By Night premieres this October. 
 
