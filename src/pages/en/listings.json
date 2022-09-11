@@ -1,7 +1,6 @@
 [
 	{
 		"backdrop_path": "/cUJw7BRBU8lCDzMb29ivx604ft3.jpg",
-		"first_air_date": "",
 		"genre_ids": [
 			10765
 		],
@@ -327,28 +326,6 @@
 		"backdrop_path": null,
 		"genre_ids": [
 			28,
-			27,
-			10770
-		],
-		"id": 894205,
-		"original_language": "en",
-		"original_title": "Untitled Halloween Special",
-		"overview": "A Marvel Halloween special for Disney+ based around the character Werewolf by Night.",
-		"poster_path": null,
-		"title": "Untitled Halloween Special",
-		"video": false,
-		"vote_average": 0,
-		"slug": "untitled-halloween-special",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
-			28,
 			12,
 			14
 		],
@@ -508,7 +485,7 @@
 		"id": 986056,
 		"original_language": "en",
 		"original_title": "Thunderbolts",
-		"overview": "A group of supervillains and antiheroes go on missions for the government. Based on the comic book series of the same name.",
+		"overview": "A world without Avengers doesn't mean there's not a group of superheroes. There is a group and they're called the Thunderbolts.",
 		"poster_path": "/dHhniU1vz1C0j27AFdcsPmq6xu.jpg",
 		"release_date": "2024-07-24",
 		"title": "Thunderbolts",
@@ -594,11 +571,7 @@
 		"adult": false,
 		"backdrop_path": null,
 		"genre_ids": [
-			28,
-			14,
-			12,
-			27,
-			878
+			14
 		],
 		"id": 617127,
 		"original_language": "en",
@@ -649,7 +622,7 @@
 		"id": 609681,
 		"original_language": "en",
 		"original_title": "The Marvels",
-		"overview": "The sequel to Captain Marvel (2019).",
+		"overview": "Carol Danvers, Monica Rambeau, and Kamala Khan trade places with each other every time they use their powers and must team up to fix their problem.",
 		"poster_path": "/bnz17wOkp9O0c9JADOncEx0Q1sJ.jpg",
 		"release_date": "2023-07-26",
 		"title": "The Marvels",
@@ -691,7 +664,6 @@
 		"genre_ids": [
 			28,
 			12,
-			35,
 			878
 		],
 		"id": 447365,
@@ -772,6 +744,29 @@
 		"video": false,
 		"vote_average": 0,
 		"slug": "black-panther-wakanda-forever",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/3yuoJwC0GGYM7Cfok9IjtkjPWrK.jpg",
+		"genre_ids": [
+			27,
+			35,
+			10770
+		],
+		"id": 894205,
+		"original_language": "en",
+		"original_title": "Werewolf by Night",
+		"overview": "On a dark and somber night, a secret cabal of monster hunters emerge from the shadows and gather at the foreboding Bloodstone Temple following the death of their leader. In a strange and macabre memorial to the leader’s life, the attendees are thrust into a mysterious and deadly competition for a powerful relic—a hunt that will ultimately bring them face to face with a dangerous monster.",
+		"poster_path": "/fjiIAohgctZdvwDnEcbKYaE5ftu.jpg",
+		"release_date": "2022-10-07",
+		"title": "Werewolf by Night",
+		"video": false,
+		"vote_average": 0,
+		"slug": "werewolf-by-night",
 		"tags": [
 			"movie",
 			"company-420"
@@ -2589,7 +2584,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/7FWlcZq3r6525LWOcvO9kNWurN1.jpg",
+		"backdrop_path": "/wdwcOBMkt3zmPQuEMxB3FUtMio2.jpg",
 		"genre_ids": [
 			12,
 			28,

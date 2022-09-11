@@ -12,7 +12,6 @@ logo_on_black: /.netlify/functions/tmdb-image/yddelWuP5vibmBhjvCVQZjhra1q.webp
 ```json
 {
     "backdrop_path": "/cUJw7BRBU8lCDzMb29ivx604ft3.jpg",
-    "first_air_date": "",
     "genre_ids": [
         10765
     ],

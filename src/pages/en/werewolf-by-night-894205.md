@@ -18,21 +18,22 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": null,
+    "backdrop_path": "/3yuoJwC0GGYM7Cfok9IjtkjPWrK.jpg",
     "genre_ids": [
-        28,
         27,
+        35,
         10770
     ],
     "id": 894205,
     "original_language": "en",
-    "original_title": "Untitled Halloween Special",
-    "overview": "A Marvel Halloween special for Disney+ based around the character Werewolf by Night.",
-    "poster_path": null,
-    "title": "Untitled Halloween Special",
+    "original_title": "Werewolf by Night",
+    "overview": "On a dark and somber night, a secret cabal of monster hunters emerge from the shadows and gather at the foreboding Bloodstone Temple following the death of their leader. In a strange and macabre memorial to the leader’s life, the attendees are thrust into a mysterious and deadly competition for a powerful relic—a hunt that will ultimately bring them face to face with a dangerous monster.",
+    "poster_path": "/fjiIAohgctZdvwDnEcbKYaE5ftu.jpg",
+    "release_date": "2022-10-07",
+    "title": "Werewolf by Night",
     "video": false,
     "vote_average": 0,
-    "slug": "untitled-halloween-special",
+    "slug": "werewolf-by-night",
     "tags": [
         "movie",
         "company-420"
