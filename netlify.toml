@@ -46,12 +46,17 @@
 
 [[redirects]]
     from = "/en/i-am-groot-207867"
-    to = "/en/i-am-groot-209135"
+    to = "/en/i-am-groot-209930"
     status = 301
 
 [[redirects]]
     from = "/en/i-am-groot-114469"
-    to = "/en/i-am-groot-209135"
+    to = "/en/i-am-groot-209930"
+    status = 301
+
+[[redirects]]
+    from = "/en/i-am-groot-209135"
+    to = "/en/i-am-groot-209930"
     status = 301
 
 [[redirects]]
