@@ -324,6 +324,37 @@ export function isMcuSheetOrdered ( listing ) {
     return typeof listing?.mcuTimelineOrder === 'number'
 }
 
+const wongIds = new Set([
+    // Doctor Strange
+    284052,
+    // Infinity War
+    299536,
+    // Endgame
+    299534,
+    // Shang-Chi
+    566525,
+    // What If?
+    91363,
+    // No Way Home
+    634649,
+    // Multiverse of Madness
+    453395,
+    // She-Hulk
+    92783
+])
+
+export function isWongCinematicUniverse ( listing ) {
+
+    // Check Wong IDs
+    if ( wongIds.has( listing.id ) ) return true
+
+    // Description contains the word "Wong"
+    // Match whole words only
+    if ( listing.overview?.toLowerCase()?.match( /\bwong\b/ ) ) return true
+
+    return false
+}
+
 
 export function matchesFilters ( filters ) {
     const filterOut = false
