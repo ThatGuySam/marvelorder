@@ -1,6 +1,6 @@
 [
 	{
-		"backdrop_path": "/cUJw7BRBU8lCDzMb29ivx604ft3.jpg",
+		"backdrop_path": "/jL1xSU0aJ04XYuler87uhMterWe.jpg",
 		"genre_ids": [
 			10765
 		],
@@ -479,8 +479,7 @@
 		"backdrop_path": "/vzVojqW0zF9QrXVGuj8PwhxWACD.jpg",
 		"genre_ids": [
 			28,
-			12,
-			80
+			12
 		],
 		"id": 986056,
 		"original_language": "en",
@@ -502,8 +501,7 @@
 		"backdrop_path": "/qYvpc3qLb0LpGOBS7JOq5RxYt0x.jpg",
 		"genre_ids": [
 			28,
-			12,
-			80
+			12
 		],
 		"id": 822119,
 		"original_language": "en",
@@ -600,7 +598,7 @@
 		"original_language": "en",
 		"original_title": "Madame Web",
 		"overview": "An origin story of the clairvoyant known as Madame Web, whose psychic abilities allow her to see within the spider world.",
-		"poster_path": null,
+		"poster_path": "/rKCsiFPBwUjuWwQOGnXuc2icsrD.jpg",
 		"release_date": "2023-10-04",
 		"title": "Madame Web",
 		"video": false,
@@ -774,7 +772,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/a7vpWZtI8pANqGo29xtZfxIRrlq.jpg",
+		"backdrop_path": "/dXQ1DniisiNMTCNdJUcI4NA04PL.jpg",
 		"genre_ids": [
 			99
 		],

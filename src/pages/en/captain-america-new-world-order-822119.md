@@ -18,8 +18,7 @@ tags:
     "backdrop_path": "/qYvpc3qLb0LpGOBS7JOq5RxYt0x.jpg",
     "genre_ids": [
         28,
-        12,
-        80
+        12
     ],
     "id": 822119,
     "original_language": "en",

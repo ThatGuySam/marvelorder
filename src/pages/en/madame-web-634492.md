@@ -22,7 +22,7 @@ logo_on_black: /.netlify/functions/tmdb-image/urh8yBp7ihPaBeLSmlYmJB3qgYy.webp
     "original_language": "en",
     "original_title": "Madame Web",
     "overview": "An origin story of the clairvoyant known as Madame Web, whose psychic abilities allow her to see within the spider world.",
-    "poster_path": null,
+    "poster_path": "/rKCsiFPBwUjuWwQOGnXuc2icsrD.jpg",
     "release_date": "2023-10-04",
     "title": "Madame Web",
     "video": false,
