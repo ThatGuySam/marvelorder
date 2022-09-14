@@ -12,7 +12,6 @@ import {
 } from '~/src/helpers/node/listing-files'
 
 import HeadCommon from '../components/HeadCommon.astro'
-import GoogleAnalytics from '../components/meta/google-analytics.astro'
 import MainHeading from '~/src/components/story/main-heading.astro'
 import StoryPage from '~/src/components/story/amp-story-page.astro'
 
@@ -73,8 +72,6 @@ if ( storyListings.length === 0 ) {
         <link href="https://cdn.ampproject.org/v0/amp-video-0.1.js" rel="preload">
 
         <link rel="canonical" href={ canonicalUrl } />
-
-        <GoogleAnalytics />
 
         <!-- Take note of the unique scripts used here. Most, if not all Web Stories will require the first two scripts. -->
         <script async src="https://cdn.ampproject.org/v0.js"></script>
