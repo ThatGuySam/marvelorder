@@ -1,0 +1,24 @@
+---
+// import { gaMeasurementId } from '~/helpers/constants.js'
+const gaMeasurementId = 'G-D07GXH7YVR'
+---
+<!-- Set gaMeasurementId so it's available within the browser/window context -->
+<script
+    type="text/javascript"
+    set:html={ `window.gaMeasurementId = '${ gaMeasurementId }'` }
+></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script
+    type="text/javascript"
+    async
+    src={ `https://www.googletagmanager.com/gtag/js?id=${ gaMeasurementId }` }
+></script>
+<script type="text/javascript">
+    window.dataLayer = window.dataLayer || [];
+    function gtag () {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', gaMeasurementId);
+    // console.log('I wanna to shake your hand', gaMeasurementId )
+</script>
