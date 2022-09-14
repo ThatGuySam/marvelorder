@@ -1,5 +1,6 @@
 ---
 import HeadCommon from '../components/HeadCommon.astro';
+import GoogleAnalytics from '../components/meta/google-analytics.astro';
 import HeadScript from '~/src/components/head-script.astro'
 import HeadStyles from '~/src/components/head-styles.astro'
 import HeadSEO from '../components/HeadSEO.astro';
@@ -19,6 +20,7 @@ const githubEditUrl = CONFIG.GITHUB_EDIT_URL && CONFIG.GITHUB_EDIT_URL + current
 <html dir={content.dir ?? 'ltr'} lang={content.lang ?? 'en-us'} class="initial">
 	<head>
 		<HeadCommon />
+        <GoogleAnalytics />
         <HeadStyles />
         <HeadScript />
 		<HeadSEO {content} canonicalURL={Astro.url} />
