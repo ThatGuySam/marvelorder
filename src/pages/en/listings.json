@@ -567,7 +567,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
+		"backdrop_path": "/hFtJz4TvoiJJcw2ZOMdhK22aU9P.jpg",
 		"genre_ids": [
 			14
 		],
@@ -759,7 +759,7 @@
 		"original_language": "en",
 		"original_title": "Werewolf by Night",
 		"overview": "On a dark and somber night, a secret cabal of monster hunters emerge from the shadows and gather at the foreboding Bloodstone Temple following the death of their leader. In a strange and macabre memorial to the leader’s life, the attendees are thrust into a mysterious and deadly competition for a powerful relic—a hunt that will ultimately bring them face to face with a dangerous monster.",
-		"poster_path": "/mvIvNKRIJPPS7WSFarFhOAGIVnU.jpg",
+		"poster_path": "/pPiSqR7aQnBfKDwP1dpz440dLp6.jpg",
 		"release_date": "2022-10-07",
 		"title": "Werewolf by Night",
 		"video": false,
@@ -784,7 +784,7 @@
 		"release_date": "2022-09-08",
 		"title": "The Making of Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 6,
+		"vote_average": 6.2,
 		"slug": "the-making-of-thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -856,7 +856,7 @@
 		"release_date": "2022-08-10",
 		"title": "The Little Guy",
 		"video": false,
-		"vote_average": 7.8,
+		"vote_average": 7.7,
 		"slug": "the-little-guy",
 		"tags": [
 			"movie",
@@ -880,7 +880,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot's Pursuit",
 		"video": false,
-		"vote_average": 7.6,
+		"vote_average": 7.5,
 		"slug": "groots-pursuit",
 		"tags": [
 			"movie",
@@ -981,9 +981,9 @@
 		"adult": false,
 		"backdrop_path": "/jsoz1HlxczSuTx0mDl2h0lxy36l.jpg",
 		"genre_ids": [
+			14,
 			28,
-			12,
-			14
+			35
 		],
 		"id": 616037,
 		"original_language": "en",
@@ -1585,7 +1585,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/lrNbt21hRirjyTK0SeLA0L4RAVS.jpg",
+		"backdrop_path": "/eCIvqa3QVCx6H09bdeOS8Al2Sqy.jpg",
 		"genre_ids": [
 			27,
 			878,
@@ -2696,7 +2696,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg",
+		"backdrop_path": "/a7sAqMKv5tkAdMzFfIhPqIBmQ9g.jpg",
 		"genre_ids": [
 			878,
 			28,
