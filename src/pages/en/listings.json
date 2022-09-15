@@ -598,7 +598,7 @@
 		"original_language": "en",
 		"original_title": "Madame Web",
 		"overview": "An origin story of the clairvoyant known as Madame Web, whose psychic abilities allow her to see within the spider world.",
-		"poster_path": "/rKCsiFPBwUjuWwQOGnXuc2icsrD.jpg",
+		"poster_path": null,
 		"release_date": "2023-10-04",
 		"title": "Madame Web",
 		"video": false,
@@ -949,7 +949,7 @@
 		"release_date": "2022-07-18",
 		"title": "Magnum Opus",
 		"video": false,
-		"vote_average": 7.5,
+		"vote_average": 7.4,
 		"slug": "magnum-opus",
 		"tags": [
 			"movie",
