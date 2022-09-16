@@ -759,7 +759,7 @@
 		"original_language": "en",
 		"original_title": "Werewolf by Night",
 		"overview": "On a dark and somber night, a secret cabal of monster hunters emerge from the shadows and gather at the foreboding Bloodstone Temple following the death of their leader. In a strange and macabre memorial to the leader’s life, the attendees are thrust into a mysterious and deadly competition for a powerful relic—a hunt that will ultimately bring them face to face with a dangerous monster.",
-		"poster_path": "/pPiSqR7aQnBfKDwP1dpz440dLp6.jpg",
+		"poster_path": "/mvIvNKRIJPPS7WSFarFhOAGIVnU.jpg",
 		"release_date": "2022-10-07",
 		"title": "Werewolf by Night",
 		"video": false,
@@ -784,7 +784,7 @@
 		"release_date": "2022-09-08",
 		"title": "The Making of Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 6.2,
+		"vote_average": 6.4,
 		"slug": "the-making-of-thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -792,7 +792,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/eljErfkQUcFUgQkI4I1soZcH8MW.jpg",
+		"backdrop_path": "/9GvhICFMiRQA82vS6ydkXxeEkrd.jpg",
 		"first_air_date": "2022-08-18",
 		"genre_ids": [
 			35,
@@ -4040,7 +4040,7 @@
 		"original_name": "Wolverine and the X-Men",
 		"overview": "Wolverine and the X-Men must join together again to not only battle the increasingly powerful Mutant Response Division, but also to prevent a catastrophic future that Xavier has warned Wolverine must never come to pass.",
 		"poster_path": "/zTADaqgnIhE9QZAnX6M9YVn5wsv.jpg",
-		"vote_average": 7.7,
+		"vote_average": 7.6,
 		"title": "Wolverine and the X-Men",
 		"slug": "wolverine-and-the-x-men",
 		"tags": [
@@ -5484,8 +5484,8 @@
 		"id": 1482,
 		"name": "Spider-Man",
 		"origin_country": [
-			"US",
-			"CA"
+			"CA",
+			"US"
 		],
 		"original_language": "en",
 		"original_name": "Spider-Man",
