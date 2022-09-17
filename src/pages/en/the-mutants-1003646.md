@@ -11,12 +11,16 @@ logo_on_black: /.netlify/functions/tmdb-image/k2goqzfn4Iaku3xyQrLI8OvSGfF.webp
 {
     "adult": false,
     "backdrop_path": null,
-    "genre_ids": [],
+    "genre_ids": [
+        14,
+        28,
+        12
+    ],
     "id": 1003646,
     "media_type": "movie",
     "original_language": "en",
     "original_title": "The Mutants",
-    "overview": "Marvel Studios' The Mutants Movie will Be the First X-Men Movie!",
+    "overview": "The rumored title of Marvel Studios' first mutant-centric film.",
     "poster_path": "/k2goqzfn4Iaku3xyQrLI8OvSGfF.jpg",
     "release_date": "",
     "title": "The Mutants",
