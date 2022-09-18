@@ -15,7 +15,7 @@ rentLinks:
 ## TMDB Data
 ```json
 {
-    "backdrop_path": "/ypjekzMRMvdrx4PRA7v1DNyCmTR.jpg",
+    "backdrop_path": "/rC8p2xuywf4633s1gBinfENKbqF.jpg",
     "first_air_date": "2000-11-04",
     "genre_ids": [
         10762,
@@ -31,7 +31,7 @@ rentLinks:
     "original_language": "en",
     "original_name": "X-Men: Evolution",
     "overview": "Teenagers Cyclops, Jean Grey, Rogue, Nightcrawler, Shadowcat, and Spike fight for a world that fears and hates them.",
-    "poster_path": "/whZRsqrMYoigHoPRme1Pdsyf5UO.jpg",
+    "poster_path": "/At5aZIKkN8zHTAXOnQR9D3b7usW.jpg",
     "vote_average": 8,
     "title": "X-Men: Evolution",
     "slug": "x-men-evolution",
