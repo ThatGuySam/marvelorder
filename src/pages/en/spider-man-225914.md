@@ -26,7 +26,7 @@ rentLinks:
     "original_title": "Spider-Man",
     "overview": "When an extortionist threatens to force a multi-suicide unless a huge ransom is paid, only Peter Parker can stop him with his new powers as Spider-Man.",
     "poster_path": "/jNxRHZ2cxVkNRtxgHuCtv7GY4JP.jpg",
-    "release_date": "1977-09-14",
+    "release_date": "1978-03-15",
     "title": "Spider-Man",
     "video": false,
     "vote_average": 5.8,

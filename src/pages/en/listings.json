@@ -788,7 +788,7 @@
 		"original_name": "She-Hulk: Attorney at Law",
 		"overview": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered hulk.",
 		"poster_path": "/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
-		"vote_average": 7.2,
+		"vote_average": 7.3,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
 		"tags": [
@@ -813,7 +813,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot's First Steps",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.4,
 		"slug": "groots-first-steps",
 		"tags": [
 			"movie",
@@ -1178,7 +1178,7 @@
 		"original_name": "Hawkeye",
 		"overview": "Former Avenger Clint Barton has a seemingly simple mission: get back to his family for Christmas. Possible? Maybe with the help of Kate Bishop, a 22-year-old archer with dreams of becoming a superhero. The two are forced to work together when a presence from Barton’s past threatens to derail far more than the festive spirit.",
 		"poster_path": "/pqzjCxPVc9TkVgGRWeAoMmyqkZV.jpg",
-		"vote_average": 8.2,
+		"vote_average": 8.1,
 		"title": "Hawkeye",
 		"slug": "hawkeye",
 		"tags": [
@@ -5363,6 +5363,30 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": "/zlpZzccypkAYFZIyYLQcchl90ZC.jpg",
+		"genre_ids": [
+			878,
+			28,
+			80,
+			10770
+		],
+		"id": 225914,
+		"media_type": "movie",
+		"original_language": "en",
+		"original_title": "Spider-Man",
+		"overview": "When an extortionist threatens to force a multi-suicide unless a huge ransom is paid, only Peter Parker can stop him with his new powers as Spider-Man.",
+		"poster_path": "/jNxRHZ2cxVkNRtxgHuCtv7GY4JP.jpg",
+		"release_date": "1978-03-15",
+		"title": "Spider-Man",
+		"video": false,
+		"vote_average": 5.8,
+		"slug": "spider-man",
+		"tags": [
+			"list-8204862"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/s91xFnu3HU9WOdnVGxQmi6zPXtr.jpg",
 		"genre_ids": [
 			10770,
@@ -5406,30 +5430,6 @@
 		"vote_average": 7.3,
 		"title": "The Incredible Hulk",
 		"slug": "the-incredible-hulk",
-		"tags": [
-			"list-8204862"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/zlpZzccypkAYFZIyYLQcchl90ZC.jpg",
-		"genre_ids": [
-			878,
-			28,
-			80,
-			10770
-		],
-		"id": 225914,
-		"media_type": "movie",
-		"original_language": "en",
-		"original_title": "Spider-Man",
-		"overview": "When an extortionist threatens to force a multi-suicide unless a huge ransom is paid, only Peter Parker can stop him with his new powers as Spider-Man.",
-		"poster_path": "/jNxRHZ2cxVkNRtxgHuCtv7GY4JP.jpg",
-		"release_date": "1977-09-14",
-		"title": "Spider-Man",
-		"video": false,
-		"vote_average": 5.8,
-		"slug": "spider-man",
 		"tags": [
 			"list-8204862"
 		]
