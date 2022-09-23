@@ -73,6 +73,11 @@ interface MarvelMoviesFandomTimelineEntry {
     timeDescription:string
     timeline:string
     sourceUrl:string
+    referenceLinks: Array<{
+        href:string
+        text:string
+        referenceType:string
+    }>
     timeDescriptionParts: {
         primary:string
         secondary:string
