@@ -31,7 +31,7 @@ rentLinks:
     "release_date": "2009-04-28",
     "title": "X-Men Origins: Wolverine",
     "video": false,
-    "vote_average": 6.3,
+    "vote_average": 6.2,
     "slug": "x-men-origins-wolverine",
     "tags": [
         "list-8204860"

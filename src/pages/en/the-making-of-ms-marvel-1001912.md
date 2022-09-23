@@ -43,7 +43,7 @@ tags:
     "release_date": "2022-08-03",
     "title": "The Making of Ms. Marvel",
     "video": false,
-    "vote_average": 5.5,
+    "vote_average": 5.7,
     "slug": "the-making-of-ms-marvel",
     "tags": [
         "movie",
