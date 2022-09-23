@@ -179,7 +179,12 @@ test( 'Can get episode timeline entries from slug', () => {
     const slugs = [
         'show-loki-season-1-episode-1',
         'show-wandavision-season-1-episode-2',
+        'show-falcon-and-winter-soldier-season-1-episode-6',
         'show-what_if-season-1-episode-9',
+        'show-hawkeye-season-1-episode-5',
+        'show-moon-knight-season-1-episode-4',
+        'show-ms-marvel-season-1-episode-5',
+        'show-she-hulk-season-1-episode-5',
     ]
 
     for ( const slug of slugs ) {
@@ -189,7 +194,7 @@ test( 'Can get episode timeline entries from slug', () => {
 
         expect( entries.length ).toBeGreaterThan( 0 )
 
-        console.log({ entries })
+        // console.log({ entries })
 
         const firstEntry = entries[ 0 ]
 
