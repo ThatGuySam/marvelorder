@@ -69,6 +69,35 @@ function cleanWhiteSpace ( string ) {
     return string.replace(/(\r\n|\n|\r)/gm, ' ').trim()
 }
 
+function getDetailsFromEpisodeSlug ( slug:string ) {
+    // Throw if the word 'episode' is not in the slug
+    if ( !slug.includes( 'episode' ) ) {
+        throw new Error( `Slug ${ slug } does not contain the word 'episode'` )
+    }
+
+    const slugKeys = [
+        'show',
+        'season',
+        'episode',
+    ]
+
+    const slugParts = slug.split( '-' )
+
+    const slugObject = {
+        source: slug,
+    }
+
+    for ( const [ index, slugPart ] of slugParts.entries() ) {
+        // If this is one of our slug keys
+        // set it
+        if ( slugKeys.includes( slugPart ) ) {
+            slugObject[ slugPart ] = slugParts[ index + 1 ]
+        }
+    }
+
+    return slugObject
+}
+
 interface MarvelMoviesFandomTimelineEntry {
     timeDescription:string
     timeline:string
