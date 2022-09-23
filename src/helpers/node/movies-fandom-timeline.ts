@@ -506,7 +506,7 @@ class MarvelMoviesFandomTimeline {
             // Build the Fandom URL part to match against
             const matchingEpisode = `episode_${ season }.${ String(episode).padStart( 2, '0') }`
 
-            console.log({ matchingTitle, matchingEpisode })
+            // console.log({ matchingTitle, matchingEpisode })
 
             // Skip entries without expected href
             if ( !this.hasWordInReferenceLinks( matchingEpisode, entry ) ) {
