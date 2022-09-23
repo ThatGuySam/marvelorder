@@ -2,7 +2,12 @@ import fs from 'fs-extra'
 import fetch from 'node-fetch'
 import { JSDOM } from 'jsdom'
 import { v5 as uuidv5 } from 'uuid'
+import slugify from 'slugify'
 
+import {
+    makeSlug
+// @ts-ignore
+} from '~/src/helpers/node/listing.ts'
 
 import {
     matchListingTitle,
@@ -79,6 +84,15 @@ function hashString ( string ) {
     string = string.replace(/[^a-z0-9]/gi, '')
 
     return uuidv5( string, DEFAULT_HASH_NAMESPACE )
+}
+
+function makeMoviesFandomURLSlug ( string:string ) {
+    return slugify( string, {
+        lower: true,
+        remove: /[^a-zA-Z\d\s\-]/g,
+        replacement: '_',
+        strict: true
+    })
 }
 
 function getDetailsFromEpisodeSlug ( slug:string ) {
@@ -480,11 +494,22 @@ class MarvelMoviesFandomTimeline {
                 continue
             }
 
+            // Skip entries without show title
+
+            const matchingTitle = makeMoviesFandomURLSlug( show )
+
+            // Skip entries without expected show title
+            if ( !this.hasWordInReferenceLinks( matchingTitle, entry ) ) {
+                continue
+            }
+
             // Build the Fandom URL part to match against
-            const matchingHrefPart = `${ show.toLowerCase() }_episode_${ season }.${ String(episode).padStart( 2, '0') }`
+            const matchingEpisode = `episode_${ season }.${ String(episode).padStart( 2, '0') }`
+
+            console.log({ matchingTitle, matchingEpisode })
 
             // Skip entries without expected href
-            if ( !this.hasWordInReferenceLinks( matchingHrefPart, entry ) ) {
+            if ( !this.hasWordInReferenceLinks( matchingEpisode, entry ) ) {
                 continue
             }
 

@@ -174,19 +174,28 @@ test( 'Can see Lamentis episodes in all 2077 Loki references', () => {
 
 
 
+
 test( 'Can get episode timeline entries from slug', () => {
-    const slug = 'show-loki-season-1-episode-1'
+    const slugs = [
+        'show-loki-season-1-episode-1',
+        'show-wandavision-season-1-episode-2',
+        'show-what_if-season-1-episode-9',
+    ]
 
-    const entries = timeline.getEntriesForSlug( slug )
+    for ( const slug of slugs ) {
+        const entries = timeline.getEntriesForSlug( slug )
 
-    expect( entries ).toBeDefined()
+        expect( entries ).toBeDefined()
 
-    expect( entries.length ).toBeGreaterThan( 0 )
+        expect( entries.length ).toBeGreaterThan( 0 )
 
-    const firstEntry = entries[ 0 ]
+        console.log({ entries })
 
-    expect( firstEntry ).toBeDefined()
+        const firstEntry = entries[ 0 ]
 
-    expect( firstEntry.textContent ).toBeDefined()
+        expect( firstEntry ).toBeDefined()
+
+        expect( firstEntry.textContent ).toBeDefined()
+    }
 
 })
