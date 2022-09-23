@@ -75,23 +75,24 @@ function getDetailsFromEpisodeSlug ( slug:string ) {
         throw new Error( `Slug ${ slug } does not contain the word 'episode'` )
     }
 
-    const slugKeys = [
-        'show',
-        'season',
-        'episode',
-    ]
-
     const slugParts = slug.split( '-' )
 
     const slugObject = {
-        source: slug,
+        sourceSlug: slug,
+        show: '',
+        season: -1,
+        episode: -1
     }
+
+    const slugKeys = Object.keys( slugObject )
 
     for ( const [ index, slugPart ] of slugParts.entries() ) {
         // If this is one of our slug keys
         // set it
         if ( slugKeys.includes( slugPart ) ) {
-            slugObject[ slugPart ] = slugParts[ index + 1 ]
+            const slugValue = slugParts[ index + 1 ]
+            const value = Number( slugValue ) || slugValue
+            slugObject[ slugPart ] = value
         }
     }
 
@@ -147,6 +148,22 @@ class MarvelMoviesFandomTimeline {
             secondary: '',
             tertiary: ''
         }
+    }
+
+    hasWordInReferenceLinks ( word:string, entry:MarvelMoviesFandomTimelineEntry ) {
+        return entry.referenceLinks.some( referenceLink => {
+            // Check text
+            if ( referenceLink.text.toLowerCase().includes( word ) ) {
+                return true
+            }
+
+            // Check href
+            if ( referenceLink.href.toLowerCase().includes( word ) ) {
+                return true
+            }
+
+            return false
+        } )
     }
 
     get runningTimeDescription () {
@@ -434,6 +451,35 @@ class MarvelMoviesFandomTimeline {
             listingTitle: listing.title,
             entries: []
         }
+    }
+
+
+    getEntriesForSlug ( slug ) {
+
+        const { show, season, episode } = getDetailsFromEpisodeSlug( slug )
+
+        // console.log({ episodeDetails })
+
+        const matchingEntries = []
+
+        for ( const entry of this.entries ) {
+            // Skip entries without any links
+            if ( !entry.referenceLinks.length ) {
+                continue
+            }
+
+            // Build the Fandom URL part to match against
+            const matchingHrefPart = `${ show.toLowerCase() }_episode_${ season }.${ String(episode).padStart( 2, '0') }`
+
+            // Skip entries without expected href
+            if ( !this.hasWordInReferenceLinks( matchingHrefPart, entry ) ) {
+                continue
+            }
+
+            matchingEntries.push( entry )
+        }
+
+        return matchingEntries
     }
 }
 

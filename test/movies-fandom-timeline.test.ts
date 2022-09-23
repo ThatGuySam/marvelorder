@@ -8,7 +8,7 @@ import {
 
 import {
     fetchTimeline,
-    getTimelineFromEntries
+    getTimelineFromEntries,
 // @ts-ignore
 } from '~/src/helpers/node/movies-fandom-timeline.ts'
 
@@ -173,3 +173,20 @@ test( 'Can see Lamentis episodes in all 2077 Loki references', () => {
 } )
 
 
+
+test( 'Can get episode timeline entries from slug', () => {
+    const slug = 'show-loki-season-1-episode-1'
+
+    const entries = timeline.getEntriesForSlug( slug )
+
+    expect( entries ).toBeDefined()
+
+    expect( entries.length ).toBeGreaterThan( 0 )
+
+    const firstEntry = entries[ 0 ]
+
+    expect( firstEntry ).toBeDefined()
+
+    expect( firstEntry.textContent ).toBeDefined()
+
+})
