@@ -1,6 +1,7 @@
 import fs from 'fs-extra'
 import fetch from 'node-fetch'
 import { JSDOM } from 'jsdom'
+import { v5 as uuidv5 } from 'uuid'
 
 
 import {
@@ -67,6 +68,17 @@ function* idMaker () {
 
 function cleanWhiteSpace ( string ) {
     return string.replace(/(\r\n|\n|\r)/gm, ' ').trim()
+}
+
+const DEFAULT_HASH_NAMESPACE = '1b671a64-40d5-491e-99b0-da01ff1f3341'
+
+// https://stackoverflow.com/a/67203497/1397641
+function hashString ( string ) {
+
+    // Omit non-alphanumeric characters
+    string = string.replace(/[^a-z0-9]/gi, '')
+
+    return uuidv5( string, DEFAULT_HASH_NAMESPACE )
 }
 
 function getDetailsFromEpisodeSlug ( slug:string ) {
@@ -194,7 +206,7 @@ class MarvelMoviesFandomTimeline {
 
     storeEntry ( entry ) {
         this.entries.push( {
-            timelineOrder: this.entryCountGenerator.next().value,
+            hash: hashString( entry.textContent ),
             ...entry
         } )
     }
