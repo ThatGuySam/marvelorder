@@ -12,7 +12,8 @@ import {
 import {
     matchListingTitle,
     cleanListingTitle,
-    getListingsByTitleLength
+    getListingsByTitleLength,
+    cleanExtraWordsFromTitle
 // @ts-ignore
 } from '~/src/helpers/node/listing-files.ts'
 
@@ -551,7 +552,8 @@ class MarvelMoviesFandomTimeline {
 
             const { listing, entries } = listingsAndEntries.find( ({ listing }) => listing.id === showReference )
 
-            const matchingTitle = makeMoviesFandomURLSlug( listing.title ).replace( /_/g, '' )
+            const slugifiedTitle = makeMoviesFandomURLSlug( listing.title )
+            const matchingTitle = cleanExtraWordsFromTitle( slugifiedTitle, '_' ).replace( /_/g, '' )
             const matchingEpisode = `episode_${ season }.${ String(episode).padStart( 2, '0' ) }`
 
             // const words = [
@@ -569,6 +571,18 @@ class MarvelMoviesFandomTimeline {
                     // Use a more generous compare for the listing title
                     // so that we can match longer titles
                     const hasMatchingListingTitle = slugifiedLinkHref.includes( matchingTitle )
+
+                    // if ( linkHref.includes( 'agents' ) ) {
+                    //     console.log({
+                    //         matchingTitle,
+                    //         slugifiedLinkHref,
+                    //         hasMatchingListingTitle,
+
+                    //         matchingEpisode,
+                    //         linkHref,
+                    //         hasMatchingEpisode: linkHref.includes( matchingEpisode )
+                    //     })
+                    // }
 
                     if ( !hasMatchingListingTitle ) {
                         continue
