@@ -218,13 +218,16 @@ test( 'Can get episode timeline entries from slug', async () => {
 
         expect( entries.length ).toBeGreaterThan( 0 )
 
-        // console.log({ entries })
+        // console.log({
+        //     entries: entries.map( entry => entry.timeDescription ),
+        //     slug
+        // })
 
-        const firstEntry = entries[ 0 ]
+        // Check that there are no duplicate entries using hashes
+        const hashes = entries.map( entry => entry.hash )
 
-        expect( firstEntry ).toBeDefined()
+        expect( hashes.length ).toBe( new Set( hashes ).size )
 
-        expect( firstEntry.textContent ).toBeDefined()
     }
 
 })
