@@ -193,12 +193,6 @@ class MarvelMoviesFandomTimeline {
                 return linkHref.includes( lowerCaseWord )
             } )
 
-            // console.log({
-            //     hasAllWords,
-            //     words,
-            //     linkHref
-            // })
-
             if ( hasAllWords ) {
                 return true
             }
@@ -503,6 +497,12 @@ class MarvelMoviesFandomTimeline {
             // Remove the work 'Prelude' from the title
             const titleWithoutPrelude = title.split( 'Prelude' )[ 0 ].trim()
 
+            // console.log({
+            //     // listing,
+            //     title,
+            //     titleWithoutPrelude,
+            // })
+
             if ( titleWithoutPrelude.length && matchListingTitle( titleWithoutPrelude, listing ) ) {
                 return {
                     title: titleWithoutPrelude,
@@ -519,29 +519,77 @@ class MarvelMoviesFandomTimeline {
         }
     }
 
-    async getShowWithEntries ( showReference ) {
+    async getShowWithEntries ( slug ) {
+
+        const {
+            show: showReference,
+            season,
+            episode
+        } = getDetailsFromEpisodeSlug( slug )
 
         // When show reference is a string
         // then we'll use it as the title
         if ( typeof showReference === 'string' ) {
+
+            const matchingTitle = makeMoviesFandomURLSlug( showReference )
+
+            const matchingEpisode = `episode_${ season }.${ String(episode).padStart( 2, '0') }`
+
+            const matchesShowTitle = entry => this.hasWordsInReferenceLinks( [ matchingTitle, matchingEpisode ], entry )
+
             return {
-                showTitle: showReference,
-                entries: this.entries
+                entries: this.entries,
+                matchesShow: matchesShowTitle
             }
         }
 
         // When show reference is an number
         // We'll assume it's a listing ID
         if ( typeof showReference === 'number' ) {
+
             const listingsAndEntries = await this.getEntriesByListing()
 
             const { listing, entries } = listingsAndEntries.find( ({ listing }) => listing.id === showReference )
 
-            // const { entries } = this.getEntriesForListing( listing )
+            const matchingTitle = makeMoviesFandomURLSlug( listing.title ).replace( /_/g, '' )
+            const matchingEpisode = `episode_${ season }.${ String(episode).padStart( 2, '0' ) }`
+
+            // const words = [
+            //     matchingTitle,
+            //     matchingEpisode
+            // ]
+
+            const matchesListing = entry => {
+
+                for ( const referenceLink of entry.referenceLinks ) {
+                    // const linkText = referenceLink.text.toLowerCase()
+                    const linkHref = referenceLink.href.toLowerCase()
+                    const slugifiedLinkHref = makeMoviesFandomURLSlug( linkHref ).replace( /_/g, '' )
+
+                    // Use a more generous compare for the listing title
+                    // so that we can match longer titles
+                    const hasMatchingListingTitle = slugifiedLinkHref.includes( matchingTitle )
+
+                    if ( !hasMatchingListingTitle ) {
+                        continue
+                    }
+
+                    const hasMatchingEpisode = linkHref.includes( matchingEpisode )
+
+                    if ( !hasMatchingEpisode ) {
+                        continue
+                    }
+
+                    return true
+                }
+
+                return false
+            }
 
             return {
-                showTitle: listing.title,
-                entries
+                // entries,
+                entries: this.entries,
+                matchesShow: matchesListing
             }
         }
 
@@ -552,15 +600,17 @@ class MarvelMoviesFandomTimeline {
 
     async getEntriesForSlug ( slug ) {
 
-        const { show, season, episode } = getDetailsFromEpisodeSlug( slug )
+        const {
+            matchesShow,
+            entries
+        } = await this.getShowWithEntries( slug )
 
-        const { showTitle, entries } = await this.getShowWithEntries( show )
+        // console.log( 'Starting entry count',  entries.length )
 
-        // Skip entries without show title
-        const matchingTitle = makeMoviesFandomURLSlug( showTitle )
-
-        // Build the Fandom URL part to match against
-        const matchingEpisode = `episode_${ season }.${ String(episode).padStart( 2, '0') }`
+        // console.log({
+        //     matchingTitle,
+        //     matchingEpisode
+        // })
 
         const matchingEntries = new Map()
 
@@ -576,7 +626,7 @@ class MarvelMoviesFandomTimeline {
             }
 
             // Skip entries without expected show title
-            if ( !this.hasWordsInReferenceLinks( [ matchingTitle, matchingEpisode ], entry ) ) {
+            if ( !matchesShow( entry ) ) {
                 continue
             }
 
@@ -584,6 +634,8 @@ class MarvelMoviesFandomTimeline {
             // Store the entry
             matchingEntries.set( entry.hash, entry )
         }
+
+        // console.log( 'Ending entry count',  matchingEntries.size )
 
         return Array.from( matchingEntries.values() )
     }

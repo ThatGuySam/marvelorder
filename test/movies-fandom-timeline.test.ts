@@ -195,7 +195,7 @@ test( 'Can get entries by listing', async () => {
 } )
 
 
-test( 'Can get episode timeline entries from slug', async () => {
+test( 'Can get episode timeline entries from slug with show name', async () => {
     const slugs = [
         'show-loki-season-1-episode-1',
         'show-wandavision-season-1-episode-2',
@@ -205,11 +205,12 @@ test( 'Can get episode timeline entries from slug', async () => {
         'show-moon-knight-season-1-episode-4',
         'show-ms-marvel-season-1-episode-5',
         'show-she-hulk-season-1-episode-5',
-        // 'show-92783-season-1-episode-5',
     ]
 
     for ( const slug of slugs ) {
         const entries = await timeline.getEntriesForSlug( slug )
+
+        // console.log({ slug, entries: entries.length })
 
         expect( entries ).toBeDefined()
 
@@ -217,11 +218,6 @@ test( 'Can get episode timeline entries from slug', async () => {
         expect( Array.isArray( entries ) ).toBe( true )
 
         expect( entries.length ).toBeGreaterThan( 0 )
-
-        // console.log({
-        //     entries: entries.map( entry => entry.timeDescription ),
-        //     slug
-        // })
 
         // Check that there are no duplicate entries using hashes
         const hashes = entries.map( entry => entry.hash )
@@ -241,6 +237,39 @@ test( 'Can see no "Dawn of Time" for She-Hulk 1.05', async () => {
     const dawnOfTimeEntries = entries.filter( entry => entry.timeDescription.includes( 'Dawn of Time' ) )
 
     expect( dawnOfTimeEntries.length ).toBe( 0 )
+})
+
+
+
+test( 'Can get entries from slug with show if', async () => {
+    const slugs = [
+        // She-Hulk 92783
+        'show-92783-season-1-episode-5',
+    ]
+
+    for ( const slug of slugs ) {
+        const entries = await timeline.getEntriesForSlug( slug )
+
+        // console.log({ slug, entries: entries.length })
+
+        expect( entries ).toBeDefined()
+
+        // Expect entries to be an array
+        expect( Array.isArray( entries ) ).toBe( true )
+
+        expect( entries.length ).toBeGreaterThan( 0 )
+
+        // console.log({
+        //     entries: entries.map( entry => entry.timeDescription ),
+        //     slug
+        // })
+
+        // Check that there are no duplicate entries using hashes
+        const hashes = entries.map( entry => entry.hash )
+
+        expect( hashes.length ).toBe( new Set( hashes ).size )
+
+    }
 })
 
 
