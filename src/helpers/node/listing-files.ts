@@ -417,16 +417,21 @@ function eitherIncludes ( stringA:string, stringB:string ) {
 }
 
 export function matchListingTitle ( title:string, listing:Listing ) {
+export function matchTitles ( title:string, anotherTitle:Listing ) {
     // Catch empty titles
     if ( !title.length ) {
         throw new Error( 'title must not be empty' )
     }
 
-    const listingSlug = makeSlugForMatchingTitle( listing.title )
+    const anotherTitleSlug = makeSlugForMatchingTitle( anotherTitle )
     const titleSlug = makeSlugForMatchingTitle( title )
 
 
-    return listingSlug === titleSlug
+    return anotherTitleSlug === titleSlug
+}
+
+export function matchListingTitle ( title:string, listing:Listing ) {
+    return matchTitles( title, listing.title )
 }
 
 export function fuzzyMatchListingTitle ( title:string, listing:Listing ) {
