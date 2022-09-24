@@ -555,12 +555,14 @@ class MarvelMoviesFandomTimeline {
 
         const { showTitle, entries } = await this.getShowWithEntries( show )
 
-        const matchingEntries = []
         // Skip entries without show title
         const matchingTitle = makeMoviesFandomURLSlug( showTitle )
 
         // Build the Fandom URL part to match against
         const matchingEpisode = `episode_${ season }.${ String(episode).padStart( 2, '0') }`
+
+        const matchingEntries = new Map()
+
         for ( const entry of entries ) {
             // Skip entries without any links
             if ( !entry.referenceLinks.length ) {
@@ -577,10 +579,12 @@ class MarvelMoviesFandomTimeline {
                 continue
             }
 
-            matchingEntries.push( entry )
+
+            // Store the entry
+            matchingEntries.set( entry.hash, entry )
         }
 
-        return matchingEntries
+        return Array.from( matchingEntries.values() )
     }
 }
 
