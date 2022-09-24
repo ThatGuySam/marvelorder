@@ -587,8 +587,7 @@ class MarvelMoviesFandomTimeline {
             }
 
             return {
-                // entries,
-                entries: this.entries,
+                entries,
                 matchesShow: matchesListing
             }
         }
