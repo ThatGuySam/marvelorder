@@ -5,11 +5,6 @@ import { v5 as uuidv5 } from 'uuid'
 import slugify from 'slugify'
 
 import {
-    makeSlug
-// @ts-ignore
-} from '~/src/helpers/node/listing.ts'
-
-import {
     matchListingTitle,
     cleanListingTitle
 // @ts-ignore
