@@ -245,6 +245,8 @@ test( 'Can get entries from slug with show if', async () => {
     const slugs = [
         // She-Hulk 92783
         'show-92783-season-1-episode-5',
+        // Loki 84958
+        'show-84958-season-1-episode-1',
     ]
 
     for ( const slug of slugs ) {
