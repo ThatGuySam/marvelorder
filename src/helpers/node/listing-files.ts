@@ -395,6 +395,42 @@ export async function mapStoryContentToListings ( storyMarkdown: string ) {
     }
 }
 
+const extraWords = new Set([
+    'marvels',
+    'prelude',
+    'marvel one shot'
+])
+
+const trimCharacter = (str, chars) => str.split(chars).filter(Boolean).join(chars);
+
+export function cleanExtraWordsFromTitle ( title:string, separator:string = ' ' ) {
+    let workingString = title
+
+
+    for ( const word of extraWords ) {
+
+        // Trim from the start
+        if ( workingString.toLowerCase().startsWith( word ) ) {
+            // PREFIX is exactly at the beginning
+            workingString = workingString.slice( word.length )
+
+            // Trim any separator characters
+            workingString = trimCharacter( workingString, separator )
+        }
+
+        // Trim from end
+        if ( workingString.toLowerCase().endsWith( word ) ) {
+            // SUFFIX is exactly at the end
+            workingString = workingString.slice( 0, -word.length ).trim()
+
+            // Trim any separator characters
+            workingString = trimCharacter( workingString, separator )
+        }
+    }
+
+    return workingString
+}
+
 function makeSlugForMatchingTitle ( string:string ) {
     let workingString = makeSlug( string )
 
