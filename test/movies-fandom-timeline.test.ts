@@ -173,9 +173,29 @@ test( 'Can see Lamentis episodes in all 2077 Loki references', () => {
 } )
 
 
+test( 'Can get entries by listing', async () => {
+    const listingsAndEntries = await timeline.getEntriesByListing()
+
+    // console.log( { listingsAndEntries } )
+
+    expect( listingsAndEntries.length ).toBeGreaterThan( 0 )
+
+    const first = listingsAndEntries[ 0 ]
+
+    expect( first ).toBeDefined()
+
+    expect( first.listing ).toBeDefined()
+
+    expect( first.entries ).toBeDefined()
+
+    // console.log( 'first.entries', first.entries, first.listing.title )
+
+    expect( first.entries.length ).toBeGreaterThan( 0 )
+
+} )
 
 
-test( 'Can get episode timeline entries from slug', () => {
+test( 'Can get episode timeline entries from slug', async () => {
     const slugs = [
         'show-loki-season-1-episode-1',
         'show-wandavision-season-1-episode-2',
@@ -185,10 +205,11 @@ test( 'Can get episode timeline entries from slug', () => {
         'show-moon-knight-season-1-episode-4',
         'show-ms-marvel-season-1-episode-5',
         'show-she-hulk-season-1-episode-5',
+        // 'show-92783-season-1-episode-5',
     ]
 
     for ( const slug of slugs ) {
-        const entries = timeline.getEntriesForSlug( slug )
+        const entries = await timeline.getEntriesForSlug( slug )
 
         expect( entries ).toBeDefined()
 

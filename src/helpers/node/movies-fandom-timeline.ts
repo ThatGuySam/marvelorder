@@ -6,9 +6,11 @@ import slugify from 'slugify'
 
 import {
     matchListingTitle,
-    cleanListingTitle
+    cleanListingTitle,
+    getListingsByTitleLength
 // @ts-ignore
 } from '~/src/helpers/node/listing-files.ts'
+
 
 // @ts-ignore
 import { storePath } from '~/src/config.ts'
@@ -449,6 +451,20 @@ class MarvelMoviesFandomTimeline {
         }
     }
 
+    async getEntriesByListing () {
+        const listings = await getListingsByTitleLength()
+
+
+        return listings.map( listing => {
+            const { entries } = this.getEntriesForListing( listing )
+
+            return {
+                listing,
+                entries
+            }
+        })
+    }
+
     getEntriesForListing ( listing ) {
 
         const { titles } = this.entriesByReference
@@ -477,7 +493,7 @@ class MarvelMoviesFandomTimeline {
     }
 
 
-    getEntriesForSlug ( slug ) {
+    async getEntriesForSlug ( slug ) {
 
         const { show, season, episode } = getDetailsFromEpisodeSlug( slug )
 
