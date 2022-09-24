@@ -180,20 +180,31 @@ class MarvelMoviesFandomTimeline {
         }
     }
 
-    hasWordInReferenceLinks ( word:string, entry:MarvelMoviesFandomTimelineEntry ) {
-        return entry.referenceLinks.some( referenceLink => {
-            // Check text
-            if ( referenceLink.text.toLowerCase().includes( word ) ) {
+    hasWordsInReferenceLinks ( words:string[], entry:MarvelMoviesFandomTimelineEntry ) {
+
+        for ( const referenceLink of entry.referenceLinks ) {
+            // const linkText = referenceLink.text.toLowerCase()
+            const linkHref = referenceLink.href.toLowerCase()
+
+            const hasAllWords = words.every( word => {
+                const lowerCaseWord = word.toLowerCase()
+
+                return linkHref.includes( lowerCaseWord )
+            } )
+
+            // console.log({
+            //     hasAllWords,
+            //     words,
+            //     linkHref
+            // })
+
+            if ( hasAllWords ) {
                 return true
             }
 
-            // Check href
-            if ( referenceLink.href.toLowerCase().includes( word ) ) {
-                return true
-            }
+        }
 
-            return false
-        } )
+        return false
     }
 
     get runningTimeDescription () {
@@ -505,29 +516,25 @@ class MarvelMoviesFandomTimeline {
         // console.log({ episodeDetails })
 
         const matchingEntries = []
+        // Skip entries without show title
+        const matchingTitle = makeMoviesFandomURLSlug( showTitle )
 
         for ( const entry of this.entries ) {
+        // Build the Fandom URL part to match against
+        const matchingEpisode = `episode_${ season }.${ String(episode).padStart( 2, '0') }`
+        for ( const entry of entries ) {
             // Skip entries without any links
             if ( !entry.referenceLinks.length ) {
                 continue
             }
 
-            // Skip entries without show title
-
-            const matchingTitle = makeMoviesFandomURLSlug( show )
-
-            // Skip entries without expected show title
-            if ( !this.hasWordInReferenceLinks( matchingTitle, entry ) ) {
+            // Skip entries that we've already matched
+            if ( matchingEntries.has( entry.hash ) ) {
                 continue
             }
 
-            // Build the Fandom URL part to match against
-            const matchingEpisode = `episode_${ season }.${ String(episode).padStart( 2, '0') }`
-
-            // console.log({ matchingTitle, matchingEpisode })
-
-            // Skip entries without expected href
-            if ( !this.hasWordInReferenceLinks( matchingEpisode, entry ) ) {
+            // Skip entries without expected show title
+            if ( !this.hasWordsInReferenceLinks( [ matchingTitle, matchingEpisode ], entry ) ) {
                 continue
             }
 
