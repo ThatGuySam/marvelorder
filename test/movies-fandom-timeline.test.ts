@@ -213,6 +213,9 @@ test( 'Can get episode timeline entries from slug', async () => {
 
         expect( entries ).toBeDefined()
 
+        // Expect entries to be an array
+        expect( Array.isArray( entries ) ).toBe( true )
+
         expect( entries.length ).toBeGreaterThan( 0 )
 
         // console.log({ entries })
