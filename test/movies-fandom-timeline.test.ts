@@ -245,10 +245,15 @@ test( 'Can get entries from slug with show ID', async () => {
     const slugs = [
         // She-Hulk 92783
         'show-92783-season-1-episode-5',
+        'she-hulk-a-normal-amount-of-rage-recap-show-92783-season-1-episode-5',
+
         // Loki 84958
         'show-84958-season-1-episode-1',
+        'loki-glorious-purpose-recap-show-84958-season-1-episode-1',
+
         // Agents of S.H.I.E.L.D. 1403
         'show-1403-season-7-episode-1',
+        'agents-of-shield-the-new-deal-recap-show-1403-season-7-episode-1',
     ]
 
     for ( const slug of slugs ) {
