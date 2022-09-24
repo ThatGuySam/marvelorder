@@ -481,7 +481,7 @@ class MarvelMoviesFandomTimeline {
         })
     }
 
-    getEntriesForListing ( listing ) {
+    getEntriesForListing ( listing:Listing ) {
 
         const { titles } = this.entriesByReference
 
