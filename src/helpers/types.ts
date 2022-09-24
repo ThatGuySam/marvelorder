@@ -50,3 +50,60 @@ export interface Listing {
     //     }
     // ]
 }
+
+export interface WebStoryImage {
+    src: string
+    width: number
+    height: number
+    layout: string
+    className?: string
+}
+
+export interface WebStoryText {
+    text: string
+    tagName: string
+    className?: string
+}
+export interface WebStoryLayer {
+    template: string
+    className?: string
+
+    elements: Array<
+        WebStoryImage|
+        WebStoryText
+    >
+}
+
+export interface WebStoryPage {
+    id: string
+    backgroundSrc: string
+    backgroundPoster?: string
+    mediaAriaLabel?: string
+    layers: Array<WebStoryLayer>
+}
+
+export interface WebStoryJsonBookend {
+    bookendVersion: string
+    shareProviders: Array<string>
+    components: Array<{
+        type: string
+        text?: string
+        title?: string
+        url?: string
+        image?: string
+    }>
+}
+export interface WebStory {
+    standalone: string
+    title: string
+    publisher: string
+    publisherLogoSrc: string
+    posterPortraitSrc: string
+    className: string
+
+    cover: WebStoryPage
+
+    pages: Array<WebStoryPage>
+
+    bookendConfig: WebStoryJsonBookend
+}
