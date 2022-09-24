@@ -241,7 +241,7 @@ test( 'Can see no "Dawn of Time" for She-Hulk 1.05', async () => {
 
 
 
-test( 'Can get entries from slug with show if', async () => {
+test( 'Can get entries from slug with show ID', async () => {
     const slugs = [
         // She-Hulk 92783
         'show-92783-season-1-episode-5',
