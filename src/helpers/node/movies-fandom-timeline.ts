@@ -494,6 +494,11 @@ class MarvelMoviesFandomTimeline {
         titles.sort( ( a, b ) => b.length - a.length )
 
         for ( const title of titles ) {
+            // Skip empty titles
+            if ( !title.length ) {
+                continue
+            }
+
             // Remove the work 'Prelude' from the title
             const titleWithoutPrelude = title.split( 'Prelude' )[ 0 ].trim()
 
