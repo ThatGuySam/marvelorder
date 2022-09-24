@@ -553,7 +553,7 @@ class MarvelMoviesFandomTimeline {
 
         const { show, season, episode } = getDetailsFromEpisodeSlug( slug )
 
-        // console.log({ episodeDetails })
+        const { showTitle, entries } = await this.getShowWithEntries( show )
 
         const matchingEntries = []
         // Skip entries without show title
