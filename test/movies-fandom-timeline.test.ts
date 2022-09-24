@@ -225,3 +225,17 @@ test( 'Can get episode timeline entries from slug', async () => {
     }
 
 })
+
+
+test( 'Can see no "Dawn of Time" for She-Hulk 1.05', async () => {
+    const entries = await timeline.getEntriesForSlug( 'show-she-hulk-season-1-episode-5' )
+
+    // console.log({ entries })
+
+    const dawnOfTimeEntries = entries.filter( entry => entry.timeDescription.includes( 'Dawn of Time' ) )
+
+    expect( dawnOfTimeEntries.length ).toBe( 0 )
+})
+
+
+
