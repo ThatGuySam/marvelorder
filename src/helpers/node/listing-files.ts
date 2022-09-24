@@ -416,7 +416,13 @@ function eitherIncludes ( stringA:string, stringB:string ) {
     return stringA.includes( stringB ) || stringB.includes( stringA )
 }
 
-export function matchListingTitle ( title:string, listing:Listing ) {
+export function eitherFuzzyIncludes ( stringA:string, stringB:string ) {
+    return eitherIncludes(
+        makeSlugForMatchingTitle( stringA ),
+        makeSlugForMatchingTitle( stringB )
+    )
+}
+
 export function matchTitles ( title:string, anotherTitle:Listing ) {
     // Catch empty titles
     if ( !title.length ) {
