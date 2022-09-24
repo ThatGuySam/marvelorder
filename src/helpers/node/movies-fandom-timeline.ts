@@ -483,6 +483,11 @@ class MarvelMoviesFandomTimeline {
 
     getEntriesForListing ( listing:Listing ) {
 
+        // Throw for listings without a title
+        if ( !listing.title ) {
+            throw new Error( 'Listing has no title' )
+        }
+
         const { titles } = this.entriesByReference
 
         // Sort titles by length
