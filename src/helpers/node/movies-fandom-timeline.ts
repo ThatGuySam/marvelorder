@@ -130,6 +130,7 @@ function getDetailsFromEpisodeSlug ( slug:string ) {
 }
 
 interface MarvelMoviesFandomTimelineEntry {
+    hash: string
     timeDescription:string
     timeline:string
     sourceUrl:string
