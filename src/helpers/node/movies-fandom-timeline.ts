@@ -5,6 +5,11 @@ import { v5 as uuidv5 } from 'uuid'
 import slugify from 'slugify'
 
 import {
+    Listing
+// @ts-ignore
+} from '~/src/helpers/types.ts'
+
+import {
     matchListingTitle,
     cleanListingTitle,
     getListingsByTitleLength
