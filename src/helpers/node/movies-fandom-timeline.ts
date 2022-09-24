@@ -559,7 +559,6 @@ class MarvelMoviesFandomTimeline {
         // Skip entries without show title
         const matchingTitle = makeMoviesFandomURLSlug( showTitle )
 
-        for ( const entry of this.entries ) {
         // Build the Fandom URL part to match against
         const matchingEpisode = `episode_${ season }.${ String(episode).padStart( 2, '0') }`
         for ( const entry of entries ) {
