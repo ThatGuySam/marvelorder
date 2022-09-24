@@ -508,6 +508,36 @@ class MarvelMoviesFandomTimeline {
         }
     }
 
+    async getShowWithEntries ( showReference ) {
+
+        // When show reference is a string
+        // then we'll use it as the title
+        if ( typeof showReference === 'string' ) {
+            return {
+                showTitle: showReference,
+                entries: this.entries
+            }
+        }
+
+        // When show reference is an number
+        // We'll assume it's a listing ID
+        if ( typeof showReference === 'number' ) {
+            const listingsAndEntries = await this.getEntriesByListing()
+
+            const { listing, entries } = listingsAndEntries.find( ({ listing }) => listing.id === showReference )
+
+            // const { entries } = this.getEntriesForListing( listing )
+
+            return {
+                showTitle: listing.title,
+                entries
+            }
+        }
+
+
+        throw new Error( 'Invalid show reference' )
+    }
+
 
     async getEntriesForSlug ( slug ) {
 
