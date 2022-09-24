@@ -99,7 +99,6 @@ function getDetailsFromEpisodeSlug ( slug:string ) {
     const slugParts = slug.split( '-' )
 
     const slugObject = {
-        sourceSlug: slug,
         show: '',
         season: -1,
         episode: -1
@@ -117,7 +116,10 @@ function getDetailsFromEpisodeSlug ( slug:string ) {
         }
     }
 
-    return slugObject
+    return {
+        ...slugObject,
+        sourceSlug: slug,
+    }
 }
 
 interface MarvelMoviesFandomTimelineEntry {
