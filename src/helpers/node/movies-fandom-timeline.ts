@@ -73,12 +73,12 @@ function cleanWhiteSpace ( string ) {
 const DEFAULT_HASH_NAMESPACE = '1b671a64-40d5-491e-99b0-da01ff1f3341'
 
 // https://stackoverflow.com/a/67203497/1397641
-function hashString ( string ) {
+function hashString ( textContent:string ) {
 
     // Omit non-alphanumeric characters
-    string = string.replace(/[^a-z0-9]/gi, '')
+    textContent = textContent.replace(/[^a-z0-9]/gi, '')
 
-    return uuidv5( string, DEFAULT_HASH_NAMESPACE )
+    return uuidv5( textContent, DEFAULT_HASH_NAMESPACE )
 }
 
 function makeMoviesFandomURLSlug ( string:string ) {
