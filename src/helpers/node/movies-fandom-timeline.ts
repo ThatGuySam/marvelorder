@@ -130,7 +130,7 @@ function getDetailsFromEpisodeSlug ( slug:string ) {
     }
 }
 
-interface MarvelMoviesFandomTimelineEntry {
+export interface MarvelMoviesFandomTimelineEntry {
     hash: string
     timeDescription:string
     timeline:string
