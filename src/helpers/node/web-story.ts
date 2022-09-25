@@ -79,14 +79,19 @@ function buildWebStoryPagesFromTimelineEntry ( timelineEntry:MarvelMoviesFandomT
                         //     className: 'time-description'
                         // },
 
-                        // Text content
-                        {
-                            text: segment,
-                            tagName: 'p',
-                            props: {
-                                className: 'text-content font-bold bg-black/10 backdrop-blur-xl p-4 inline'
+                        ...segment.split('. ').map( ( sentence, index ) => {
+                            return {
+                                text: sentence + '. ',
+                                tagName: 'p',
+                                props: {
+                                    className: [
+                                        'text-content text-lg w-64 bg-black/10 backdrop-blur-xl backdrop-saturate-200 inline whitespace-pre-line p-4',
+                                        index % 2 === 0 ? '' : 'ml-auto'
+                                    ].join(' ')
+                                }
                             }
-                        },
+                        }),
+
                         // Source link
                         {
                             text: 'From Marvel Movies Fandom',
