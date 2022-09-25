@@ -31,7 +31,7 @@ rentLinks:
     "release_date": "2005-04-21",
     "title": "Man-Thing",
     "video": false,
-    "vote_average": 4.2,
+    "vote_average": 4.3,
     "slug": "man-thing",
     "tags": [
         "movie",

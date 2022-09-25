@@ -26,7 +26,7 @@ type: tv
     "original_name": "Fury Files",
     "overview": "The mysterious Fury gives viewers top-secret access to S.H.I.E.L.D. intel on key Marvel heroes and villains by bringing together a mix of animation and motion comic art.",
     "poster_path": "/fEpnfXuukOOkZTbJh6qylrdahbu.jpg",
-    "vote_average": 10,
+    "vote_average": 5.3,
     "title": "Fury Files",
     "slug": "fury-files",
     "tags": [
