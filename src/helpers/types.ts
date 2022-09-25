@@ -52,21 +52,27 @@ export interface Listing {
 }
 
 export interface WebStoryImage {
-    src: string
-    width: number
-    height: number
-    layout: string
-    className?: string
+    props: {
+        src: string
+        width: number
+        height: number
+        layout: string
+        className?: string
+    }
 }
 
 export interface WebStoryText {
     text: string
     tagName: string
-    className?: string
+    props: {
+        className?: string
+    }
 }
 export interface WebStoryLayer {
-    template: string
-    className?: string
+    props: {
+        template: string
+        className?: string
+    }
 
     elements: Array<
         WebStoryImage|
