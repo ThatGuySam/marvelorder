@@ -196,8 +196,13 @@ console.log( 'webStory.pages', storyEntries.length )
                     backgroundSrc={ storyPage.backgroundSrc }
                 >
                     { storyPage.layers.map( layer => (
-                        <amp-story-grid-layer template="vertical">
-                            <div>Page</div>
+                        <amp-story-grid-layer { ...layer.props }>
+                            { layer.elements.map( element => (
+                                // <element.type { ...element.props } />
+                                <element.tagName
+                                    { ...element.props }
+                                >{ element.text }</element.tagName>
+                            ) ) }
                         </amp-story-grid-layer>
                     )) }
                 </StoryPage>
