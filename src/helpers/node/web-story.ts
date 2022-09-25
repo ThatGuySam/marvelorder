@@ -85,6 +85,15 @@ function buildWebStoryPagesFromTimelineEntry ( timelineEntry:MarvelMoviesFandomT
                             props: {
                                 className: 'text-content'
                             }
+                        },
+                        // Source link
+                        {
+                            text: 'From Marvel Movies Fandom',
+                            tagName: 'a',
+                            props: {
+                                href: timelineEntry.sourceUrl,
+                                className: 'source-link opacity-50 underline text-xs'
+                            }
                         }
                     ]// End Elements
                 }

@@ -28,24 +28,35 @@ test( 'Can get web story pages from timeline entries', async () => {
 
     for ( const page of webStory.pages ) {
         for ( const [ pageIndex, layer ] of page.layers.entries() ) {
+
             for ( const element of layer.elements ) {
                 // Skip elements that don't have text
-                if ( !element.text ) continue
+                if ( element.tagName === 'p' ) {
+                    // Check that text is not too short
+                    expect( element.text.length ).toBeGreaterThan( 1 )
 
-                // console.log( 'element.text', element.text )
+                    // Expect text to contain 2 periods at different places
+                    expect( element.text.split('. ').length ).toBeGreaterThan( 0 )
 
-                // console.log({ pageIndex, pageCount })
-
-                // Check that text is not too short
-                expect( element.text.length ).toBeGreaterThan( 1 )
-
-                // Expect text to contain 2 periods at different places
-                expect( element.text.split('. ').length ).toBeGreaterThan( 0 )
-
-                if ( pageIndex === 1 ) {
-                    expect( element.text.split('. ').length ).toBe( 3 )
+                    // if ( pageIndex === 1 ) {
+                    //     expect( element.text.split('. ').length ).toBe( 2 )
+                    // }
                 }
             }
+
+            // Find the source-link element
+            // so that we know we're always creditting the source
+            const sourceLinkElement = layer.elements.find( element => element.props.className.includes('source-link') )
+
+            // Check that the source link element exists
+            expect( sourceLinkElement ).not.toBe( undefined )
+
+            // Check that the source link element has a valid url in href
+            expect( sourceLinkElement.props.href ).toBeDefined()
+
+            // Check that the source link element has a valid url in href that starts with https://
+            expect( sourceLinkElement.props.href.startsWith('https://') ).toBe( true )
+
         }
     }
 
