@@ -79,7 +79,9 @@ function buildWebStoryPagesFromTimelineEntry ( timelineEntry:MarvelMoviesFandomT
                         {
                             text: segment,
                             tagName: 'p',
-                            className: 'text-content'
+                            props: {
+                                className: 'text-content'
+                            }
                         }
                     ]// End Elements
                 }
