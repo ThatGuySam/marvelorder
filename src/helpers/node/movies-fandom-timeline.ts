@@ -3,6 +3,12 @@ import fetch from 'node-fetch'
 import { JSDOM } from 'jsdom'
 import { v5 as uuidv5 } from 'uuid'
 import slugify from 'slugify'
+// Load wink-nlp package  & helpers.
+import winkNLP from 'wink-nlp'
+// Load "its" helper to extract item properties.
+// import its from 'wink-nlp/src/its.js'
+// Load english language model — light version.
+import winkEngModel from 'wink-eng-lite-model'
 
 import {
     Listing
@@ -20,6 +26,10 @@ import {
 
 // @ts-ignore
 import { storePath } from '~/src/config.ts'
+
+// Instantiate winkNLP.
+const nlp = winkNLP( winkEngModel )
+
 
 export const moviesFandomTimelinePath = `${ storePath }/movies-fandom-timeline.json`
 
@@ -87,6 +97,15 @@ function hashString ( textContent:string ) {
     textContent = textContent.replace(/[^a-z0-9]/gi, '')
 
     return uuidv5( textContent, DEFAULT_HASH_NAMESPACE )
+}
+
+export function breakEntryTextIntoSentences ( paragraph:string ) {
+    // Read text
+    const doc = nlp.readDoc( paragraph )
+    // Extract sentences from the data
+    const sentences = doc.sentences().out()
+
+    return sentences
 }
 
 function makeMoviesFandomURLSlug ( string:string ) {

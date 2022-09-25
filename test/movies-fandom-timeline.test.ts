@@ -9,6 +9,7 @@ import {
 import {
     fetchTimeline,
     getTimelineFromEntries,
+    breakEntryTextIntoSentences,
 // @ts-ignore
 } from '~/src/helpers/node/movies-fandom-timeline.ts'
 
@@ -281,5 +282,57 @@ test( 'Can get entries from slug with show ID', async () => {
     }
 })
 
+
+
+const entryMocks = [
+    {
+        title: 'Eternals',
+        input: `The Celestials, titan-like beings ,who wield massive cosmic power, led by Arishem, who first created planets, suns and life-forms throughout the cosmos. In order to create more Celestials who continue to create life in the Universe, seeded planets with nascent Celestials. As the Emergence of a new Celestial required the presence of a large population of sentient beings on the world they were seeded into, the Celestials genetically engineered the Deviants to wipe out the planet's apex predators.`,
+        output: [
+            `The Celestials, titan-like beings ,who wield massive cosmic power, led by Arishem, who first created planets, suns and life-forms throughout the cosmos.`,
+            `In order to create more Celestials who continue to create life in the Universe, seeded planets with nascent Celestials.`,
+            `As the Emergence of a new Celestial required the presence of a large population of sentient beings on the world they were seeded into, the Celestials genetically engineered the Deviants to wipe out the planet's apex predators.`,
+        ]
+    },
+    {
+        title: 'SHIELD 1',
+        input: `The leaders of S.H.I.E.L.D. send an agent to Berlin and stop the radicals from reverse-engineering the HYDRA technology.`,
+        output: [
+            'The leaders of S.H.I.E.L.D. send an agent to Berlin and stop the radicals from reverse-engineering the HYDRA technology.'
+        ]
+    },
+    {
+        title: 'Mr. X',
+        input: `Fury orders Agent Coulson to recruit Mr. Hendricks to S.H.I.E.L.D. `,
+        output: [
+            'Fury orders Agent Coulson to recruit Mr. Hendricks to S.H.I.E.L.D.'
+        ]
+    }
+]
+
+
+
+
+test( 'Can break entry text content into sentences', () => {
+    for ( const entryMock of entryMocks ) {
+        const { input, output } = entryMock
+
+        const sentences = breakEntryTextIntoSentences( input )
+
+        // Sentence should be an array
+        expect( Array.isArray( sentences ) ).toBe( true )
+
+        for ( const [ index, sentence ] of sentences.entries() ) {
+            // Sentence should be a string
+            expect( typeof sentence ).toBe( 'string' )
+
+            expect( sentence ).toEqual( output[index] )
+        }
+
+        // console.log({ title, input, output, sentences })
+
+        // expect( sentences ).toEqual( output )
+    }
+})
 
 
