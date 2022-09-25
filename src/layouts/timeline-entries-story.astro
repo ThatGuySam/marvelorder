@@ -1,0 +1,236 @@
+---
+// Amp Validator - https://validator.ampproject.org/
+// Amp Test Tool - https://search.google.com/test/amp
+import esbuild from 'esbuild'
+
+import tailwindStyles from '@astrojs/tailwind/base.css?inline'
+import indexStyles from '~/src/styles/index.css?inline'
+// import {
+//     getTaggedListings,
+//     mapStoryContentToListings,
+//     getListingsFromFilterSlug
+// } from '~/src/helpers/node/listing-files'
+
+import {
+    buildWebStoryFromTimelineEntries
+// @ts-ignore
+} from '~/src/helpers/node/web-story.ts'
+
+import {
+    getTimelineFromJson
+// @ts-ignore
+} from '~/src/helpers/node/movies-fandom-timeline.ts'
+
+import HeadCommon from '../components/HeadCommon.astro'
+import MainHeading from '~/src/components/story/main-heading.astro'
+import StoryPage from '~/src/components/story/amp-story-page.astro'
+
+// import * as CONFIG from '../config'
+
+const rawInlineStyles = [
+    tailwindStyles,
+    indexStyles
+].join('\n\n\n')
+
+const inlineStyles = esbuild.transformSync(rawInlineStyles, {
+  loader: 'css',
+  minify: true,
+}).code
+
+// console.log( 'inlineStyles', inlineStyles )
+
+const { content = {} } = Astro.props;
+const currentPage = new URL(Astro.request.url).pathname
+const storySlug = currentPage.replace( /^\/|\/$/g, '' ).split('/').pop()
+
+const videoPosterUrl = content.coverPosterUrl
+const coverBackgroundSrc = content.coverVideoUrl ? content.coverVideoUrl : content.coverPosterUrl
+const canonicalUrl = Astro.url.pathname
+const author = 'MarvelOrder.com'
+
+const timeline = await getTimelineFromJson()
+
+const storyEntries = await timeline.getEntriesForSlug( storySlug )
+
+const webStory = buildWebStoryFromTimelineEntries( storyEntries )
+
+console.log( 'webStory.pages', storyEntries.length )
+
+// console.log( 'storyTaggedListings', storyTaggedListings )
+
+---
+<!DOCTYPE html>
+<html ⚡>
+    <head>
+        <HeadCommon />
+
+        <title>{ content.title } - { author }</title>
+
+        <!-- Preloads -->
+        <link href="https://cdn.ampproject.org/v0.js" rel="preload">
+        <link href="https://cdn.ampproject.org/v0/amp-story-1.0.js" rel="preload">
+        <link href="https://cdn.ampproject.org/v0/amp-video-0.1.js" rel="preload">
+
+        <link rel="canonical" href={ canonicalUrl } />
+
+        <!-- Take note of the unique scripts used here. Most, if not all Web Stories will require the first two scripts. -->
+        <script async src="https://cdn.ampproject.org/v0.js"></script>
+        <script
+            async
+            custom-element="amp-story"
+            src="https://cdn.ampproject.org/v0/amp-story-1.0.js"
+            ></script>
+        <!-- This script specifically enables any embedded video content to render correctly on a Web Story. -->
+        <script
+            async
+            custom-element="amp-video"
+            src="https://cdn.ampproject.org/v0/amp-video-0.1.js"
+        ></script>
+
+
+        <style
+            is:inline
+            amp-boilerplate
+        >
+            body {
+                -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+                -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+                -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+                animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            }
+            @-webkit-keyframes -amp-start {
+                from {
+                    visibility: hidden;
+                }
+                to {
+                    visibility: visible;
+                }
+            }
+            @-moz-keyframes -amp-start {
+                from {
+                    visibility: hidden;
+                }
+                to {
+                    visibility: visible;
+                }
+            }
+            @-ms-keyframes -amp-start {
+                from {
+                    visibility: hidden;
+                }
+                to {
+                    visibility: visible;
+                }
+            }
+            @-o-keyframes -amp-start {
+                from {
+                    visibility: hidden;
+                }
+                to {
+                    visibility: visible;
+                }
+            }
+            @keyframes -amp-start {
+                from {
+                    visibility: hidden;
+                }
+                to {
+                    visibility: visible;
+                }
+            }
+        </style>
+        <noscript>
+            <style
+                is:inline
+                amp-boilerplate
+            >
+                body {
+                    -webkit-animation: none;
+                    -moz-animation: none;
+                    -ms-animation: none;
+                    animation: none;
+                }
+            </style>
+        </noscript>
+
+
+        <!-- Inline Tailwind styles so we're complying with amp inline policy -->
+        <style
+            is:inline
+            amp-custom
+            set:html={ inlineStyles }
+        />
+    </head>
+    <body>
+        <!-- Everything else is included inside the single child of the body element -- amp-story. -->
+        <!-- Four attributes are required for stories to be discovered on the web. Title, publisher name, publisher logo, and poster image. -->
+        <amp-story
+            standalone=""
+            title={ content.title }
+            publisher={ author }
+            publisher-logo-src="/mark.png"
+            poster-portrait-src={ videoPosterUrl }
+            class="text-white"
+        >
+            <!-- These metadata attributes supplement and do not replace any Structured Data (e.g. JSON-LD) on the page. To ensure your Web Stories are discovered across all platforms, you should add Structured Data to all your AMP pages, including AMP stories. -->
+            <!-- Each amp-story component must have at least one or more amp-story-page children, which serve as the individual screens. -->
+            <!-- Cover page -->
+            <StoryPage
+                id="cover"
+                backgroundSrc={ coverBackgroundSrc }
+                backgroundPoster={ videoPosterUrl }
+                mediaAriaLabel={ content.coverAriaLabel }
+            >
+                <amp-story-grid-layer
+                    template="vertical"
+                    class="content-end"
+                >
+                    <MainHeading>{ content.title }</MainHeading>
+                    <p>{ author }</p>
+                </amp-story-grid-layer>
+            </StoryPage>
+
+            { webStory.pages.map( storyPage => (
+                <StoryPage
+                    id={ storyPage.id }
+                    backgroundSrc={ storyPage.backgroundSrc }
+                >
+                    { storyPage.layers.map( layer => (
+                        <amp-story-grid-layer template="vertical">
+                            <div>Page</div>
+                        </amp-story-grid-layer>
+                    )) }
+                </StoryPage>
+            )) }
+
+            <!-- The bookend is the correct way to properly bring a clean, shareable end to the Web Story. -->
+            <!-- Bookend -->
+            <amp-story-bookend layout="nodisplay">
+                <script
+                    type="application/json"
+                    is:inline
+                >
+                    {
+                        "bookendVersion": "v1.0",
+                        "shareProviders": [
+                            "twitter",
+                            "email"
+                        ],
+                        "components": [
+                            {
+                                "type": "heading",
+                                "text": "More to read"
+                            },
+                            {
+                                "type": "small",
+                                "title": "",
+                                "url": "",
+                                "image": "assets/houses-giethoorn-holland.jpg"
+                            }
+                        ]
+                      }
+                </script>
+            </amp-story-bookend>
+        </amp-story>
+    </body>
+</html>
