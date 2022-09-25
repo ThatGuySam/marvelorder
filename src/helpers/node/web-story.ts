@@ -61,7 +61,7 @@ function buildWebStoryPagesFromTimelineEntry ( timelineEntry:MarvelMoviesFandomT
                 {
                     template: 'vertical',
                     props: {
-                        className: 'page-layer-1 content-end'
+                        className: 'page-layer-1 content-end gap-6'
                     },
                     elements: [
                         // Logo
@@ -78,12 +78,13 @@ function buildWebStoryPagesFromTimelineEntry ( timelineEntry:MarvelMoviesFandomT
                         //     tagName: 'small',
                         //     className: 'time-description'
                         // },
+
                         // Text content
                         {
                             text: segment,
                             tagName: 'p',
                             props: {
-                                className: 'text-content'
+                                className: 'text-content font-bold bg-black/10 backdrop-blur-xl p-4 inline'
                             }
                         },
                         // Source link
