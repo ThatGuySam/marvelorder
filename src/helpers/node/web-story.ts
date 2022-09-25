@@ -11,9 +11,18 @@ import {
 
 
 // https://stackoverflow.com/a/55435856/1397641
-function* chunk ( arr:Array<any>, n:number ) {
-    for (let i = 0; i < arr.length; i += n) {
-      yield arr.slice(i, i + n);
+function* chunk ( arr:Array<any>, n:number, characterLimit:number = Infinity ) {
+    for (let i = 0; i < arr.length;) {
+        // If the the next chunk is too long
+        // then let it be by itself
+        if ( arr[ i ].length > characterLimit ) {
+            yield [ arr[ i ] ]
+            i += 1
+            continue
+        }
+
+        yield arr.slice(i, i + n)
+        i += n
     }
 }
 
@@ -24,7 +33,7 @@ function buildWebStoryPagesFromTimelineEntry ( timelineEntry:MarvelMoviesFandomT
 
     const sentences = breakEntryTextIntoSentences( timelineEntry.textContent, 2 )
 
-    const sentencesChunks = chunk( sentences, 2 )
+    const sentencesChunks = chunk( sentences, 2, 120 )
 
     // console.log( 'textContentSegments', textContentSegments )
 
