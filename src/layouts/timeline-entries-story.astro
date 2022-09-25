@@ -54,7 +54,32 @@ const storyEntries = await timeline.getEntriesForSlug( storySlug )
 
 const webStory = buildWebStoryFromTimelineEntries( storyEntries )
 
-console.log( 'webStory.pages', storyEntries.length )
+function* idMaker () {
+    let index = 0;
+    while (true) {
+        yield index++
+    }
+
+    return 0
+}
+
+const idGenerator = idMaker()
+
+function backgroundWithFallbacks ( storyPage ) {
+    const { backgroundSrc = '' } = storyPage
+
+    if ( backgroundSrc.trim().length === 0 ) {
+        // Get last character of hash
+        const lastChar = storyPage.id.slice(-1)
+        const lastCharAsNumber = parseInt( lastChar, 10 )
+        const seedNumber = lastCharAsNumber + idGenerator.next().value
+        const randomIndex = seedNumber % content.imageBackrounds.length
+
+        return content.imageBackrounds[ randomIndex ]
+    }
+
+    return backgroundSrc
+}
 
 // console.log( 'storyTaggedListings', storyTaggedListings )
 
@@ -193,7 +218,7 @@ console.log( 'webStory.pages', storyEntries.length )
             { webStory.pages.map( storyPage => (
                 <StoryPage
                     id={ storyPage.id }
-                    backgroundSrc={ storyPage.backgroundSrc }
+                    backgroundSrc={ backgroundWithFallbacks( storyPage ) }
                 >
                     { storyPage.layers.map( layer => (
                         <amp-story-grid-layer { ...layer.props }>
