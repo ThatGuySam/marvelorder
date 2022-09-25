@@ -29,6 +29,9 @@ test( 'Can get web story pages from timeline entries', async () => {
     for ( const page of webStory.pages ) {
         for ( const [ pageIndex, layer ] of page.layers.entries() ) {
 
+            // Ensure layer has a template attribute
+            expect( layer.props.template ).toBeDefined()
+
             for ( const element of layer.elements ) {
                 // Skip elements that don't have text
                 if ( element.tagName === 'p' ) {

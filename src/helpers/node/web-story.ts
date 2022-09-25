@@ -46,8 +46,8 @@ function buildWebStoryPagesFromTimelineEntry ( timelineEntry:MarvelMoviesFandomT
             mediaAriaLabel: '',
             layers: [
                 {
-                    template: 'vertical',
                     props: {
+                        template: 'vertical',
                         className: 'page-layer-1 content-end gap-6'
                     },
                     elements: [
