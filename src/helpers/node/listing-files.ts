@@ -7,6 +7,8 @@ import { capitalCase } from 'change-case'
 
 // @ts-ignore
 import { listingsGlobPattern } from '~/src/config.ts'
+// @ts-ignore
+import { trimCharacter } from '~/src/helpers/string.ts'
 import {
     makeSlug,
     mergeListingData,
@@ -401,7 +403,7 @@ const extraWords = new Set([
     'marvel one shot'
 ])
 
-const trimCharacter = (str, chars) => str.split(chars).filter(Boolean).join(chars);
+
 
 export function cleanExtraWordsFromTitle ( title:string, separator:string = ' ' ) {
     let workingString = title
