@@ -1,3 +1,15 @@
-export function trimCharacter ( str, chars ) {
-    return str.split(chars).filter(Boolean).join(chars)
+export function trimCharacter ( str, character ) {
+    let trimmed = str
+
+    while ( character === trimmed[ 0 ] ) {
+        trimmed = trimmed.slice( 1 )
+    }
+
+    while ( character === trimmed[ trimmed.length - 1 ] ) {
+        trimmed = trimmed.slice( 0, trimmed.length - 1 )
+    }
+
+    return trimmed
+}
+
 }
