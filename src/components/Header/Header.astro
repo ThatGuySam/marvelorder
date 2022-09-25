@@ -12,10 +12,16 @@ import CircleButton from '~/src/components/circle-button.vue'
 // const lang = currentPage && getLanguageFromURL(currentPage)
 
 const lists = await Astro.glob( '/src/pages/en/lists/*.md' )
+const stories = await Astro.glob( '/src/pages/stories/*.md' )
+
+const pages = [
+    ...lists,
+    ...stories
+]
 
 // console.log( 'lists', lists.map( l => l.url ) )
 
-const listsByUrl = Object.fromEntries( lists.map( l => [ l.url, l ] ) )
+const listsByUrl = Object.fromEntries( pages.map( l => [ l.url, l ] ) )
 
 function menuItemFromUrl( url, label = null ) {
     const list = listsByUrl[ url ]
