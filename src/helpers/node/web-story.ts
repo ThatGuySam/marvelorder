@@ -60,6 +60,9 @@ function buildWebStoryPagesFromTimelineEntry ( timelineEntry:MarvelMoviesFandomT
             layers: [
                 {
                     template: 'vertical',
+                    props: {
+                        className: 'page-layer-1 content-end'
+                    },
                     elements: [
                         // Logo
                         // {
