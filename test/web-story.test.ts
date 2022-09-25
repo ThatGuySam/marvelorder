@@ -33,7 +33,7 @@ test( 'Can get web story pages from timeline entries', async () => {
                 // Skip elements that don't have text
                 if ( element.tagName === 'p' ) {
                     // Check that text is not too short
-                    expect( element.text.length ).toBeGreaterThan( 1 )
+                    expect( element.text.trim().length ).toBeGreaterThan( 1 )
 
                     // Expect text to contain 2 periods at different places
                     expect( element.text.split('. ').length ).toBeGreaterThan( 0 )

@@ -1,44 +1,20 @@
 import {
-    WebStory,
     WebStoryPage,
 // @ts-ignore
 } from '~/src/helpers/types.ts'
 
-// @ts-ignore
-import { trimCharacter } from '~/src/helpers/string.ts'
-
 import {
-    MarvelMoviesFandomTimelineEntry
+    MarvelMoviesFandomTimelineEntry,
+    breakEntryTextIntoSentences
 // @ts-ignore
-} from '~/src/helpers/marvel-movies-timeline.ts'
+} from '~/src/helpers/node/movies-fandom-timeline.ts'
 
 
-function breakEveryNthSentence ( paragraph:string, n:number = 1 ) {
-    const separator = '. '
-
-    // If there are no periods, just return the paragraph
-    if ( !paragraph.includes( separator ) ) return [ paragraph ]
-
-    const sentences = paragraph.split( separator )
-
-    let runningSegment = ''
-
-    const segments = []
-
-    for ( let i = 0; i < sentences.length; i++ ) {
-        const sentence = sentences[ i ]
-
-        const cleanSentence = trimCharacter( sentence.trim() , '.' )
-
-        runningSegment += cleanSentence + separator
-
-        if ( i % n !== 0 ) {
-            segments.push( runningSegment )
-            runningSegment = ''
-        }
+// https://stackoverflow.com/a/55435856/1397641
+function* chunk ( arr:Array<any>, n:number ) {
+    for (let i = 0; i < arr.length; i += n) {
+      yield arr.slice(i, i + n);
     }
-
-    return segments
 }
 
 function buildWebStoryPagesFromTimelineEntry ( timelineEntry:MarvelMoviesFandomTimelineEntry ) {
@@ -46,11 +22,13 @@ function buildWebStoryPagesFromTimelineEntry ( timelineEntry:MarvelMoviesFandomT
 
     // console.log( 'timelineEntry.textContent', timelineEntry.textContent )
 
-    const textContentSegments = breakEveryNthSentence( timelineEntry.textContent, 2 )
+    const sentences = breakEntryTextIntoSentences( timelineEntry.textContent, 2 )
+
+    const sentencesChunks = chunk( sentences, 2 )
 
     // console.log( 'textContentSegments', textContentSegments )
 
-    for ( const segment of textContentSegments ) {
+    for ( const group of sentencesChunks ) {
 
         const page:WebStoryPage = {
             id: `page-${ timelineEntry.hash }`,
@@ -79,9 +57,9 @@ function buildWebStoryPagesFromTimelineEntry ( timelineEntry:MarvelMoviesFandomT
                         //     className: 'time-description'
                         // },
 
-                        ...segment.split('. ').map( ( sentence, index ) => {
+                        ...group.map( ( sentence, index ) => {
                             return {
-                                text: sentence + '. ',
+                                text: sentence,
                                 tagName: 'p',
                                 props: {
                                     className: [
