@@ -72,7 +72,7 @@ function buildWebStoryPagesFromTimelineEntry ( timelineEntry:MarvelMoviesFandomT
                                 tagName: 'p',
                                 props: {
                                     className: [
-                                        'text-content text-lg w-64 bg-black/10 backdrop-blur-xl backdrop-saturate-200 inline whitespace-pre-line p-4',
+                                        'text-content text-lg w-64 bg-black/25 backdrop-blur-xl backdrop-saturate-200 inline whitespace-pre-line p-4',
                                         index % 2 === 0 ? '' : 'ml-auto'
                                     ].join(' ')
                                 }
