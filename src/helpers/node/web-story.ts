@@ -54,9 +54,9 @@ function buildWebStoryPagesFromTimelineEntry ( timelineEntry:MarvelMoviesFandomT
 
         const page:WebStoryPage = {
             id: `page-${ timelineEntry.hash }`,
-            backgroundSrc: 'https://vumbnail.com/G3-UkHQLTtw.jpg',
-            backgroundPoster: 'https://vumbnail.com/G3-UkHQLTtw.jpg',
-            mediaAriaLabel: 'Test',
+            backgroundSrc: '',
+            backgroundPoster: '',
+            mediaAriaLabel: '',
             layers: [
                 {
                     template: 'vertical',
