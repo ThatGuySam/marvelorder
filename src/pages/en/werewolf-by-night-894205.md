@@ -20,8 +20,8 @@ tags:
     "adult": false,
     "backdrop_path": "/rhIMDeJcYIlC0vgWFceh2B4sYuy.jpg",
     "genre_ids": [
+        14,
         27,
-        35,
         10770
     ],
     "id": 894205,

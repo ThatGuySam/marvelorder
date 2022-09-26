@@ -670,7 +670,7 @@
 		"id": 447365,
 		"original_language": "en",
 		"original_title": "Guardians of the Galaxy Vol. 3",
-		"overview": "Star-Lord, still reeling from the loss of Gamora, must rally his team to defend the universe along with protecting one of their own. A mission that, if not completed, could lead to the end of the Guardians as we know them.",
+		"overview": "Our beloved band of misfits are looking a bit different these days. Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
 		"poster_path": "/cVrr7gSBD0w3ZuCnUrnShKB2OIC.jpg",
 		"release_date": "2023-05-03",
 		"title": "Guardians of the Galaxy Vol. 3",
@@ -732,8 +732,8 @@
 		"adult": false,
 		"backdrop_path": "/rhIMDeJcYIlC0vgWFceh2B4sYuy.jpg",
 		"genre_ids": [
+			14,
 			27,
-			35,
 			10770
 		],
 		"id": 894205,
@@ -3641,7 +3641,7 @@
 		"original_name": "ブレイド",
 		"overview": "Legendary half-vampire, half-human vampire hunter Blade is tracking Deacon Frost, a very powerful and influential vampire who killed his mother and who heads Existence, a secretive vampire organization that operates in Southeast Asia.",
 		"poster_path": "/xRowPbnDmzJnaqSolUpHUTlqhDx.jpg",
-		"vote_average": 7.1,
+		"vote_average": 7,
 		"title": "Blade",
 		"slug": "blade",
 		"tags": [
