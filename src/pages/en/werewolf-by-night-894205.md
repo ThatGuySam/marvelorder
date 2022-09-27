@@ -29,7 +29,7 @@ tags:
     "original_title": "Werewolf by Night",
     "overview": "On a dark and somber night, a secret cabal of monster hunters emerge from the shadows and gather at the foreboding Bloodstone Temple following the death of their leader. In a strange and macabre memorial to the leader’s life, the attendees are thrust into a mysterious and deadly competition for a powerful relic—a hunt that will ultimately bring them face to face with a dangerous monster.",
     "poster_path": "/mvIvNKRIJPPS7WSFarFhOAGIVnU.jpg",
-    "release_date": "2022-10-07",
+    "release_date": "2022-09-25",
     "title": "Werewolf by Night",
     "video": false,
     "vote_average": 0,

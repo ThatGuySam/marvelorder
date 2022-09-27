@@ -28,7 +28,7 @@ rentLinks:
     "original_name": "The Amazing Spider-Man",
     "overview": "The first live-action TV series based on the popular comic book.",
     "poster_path": "/kUTCJhSnH3Dt0KVzcQp8DnbmsjN.jpg",
-    "vote_average": 6.2,
+    "vote_average": 6,
     "title": "The Amazing Spider-Man",
     "slug": "the-amazing-spider-man",
     "tags": [

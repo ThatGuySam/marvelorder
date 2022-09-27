@@ -14,7 +14,7 @@ type: movie
     "id": 969681,
     "original_language": "en",
     "original_title": "Untitled Spider-Man 4 Movie",
-    "overview": "The first of the \"next three\" movies for Tom Holland's Peter Parker/Spider-Man. Amy Pascal has stated Sony and Marvel Studios are \"getting ready\" to make this film and continue their partnership. Plot unknown.",
+    "overview": "",
     "poster_path": null,
     "release_date": "",
     "title": "Untitled Spider-Man 4 Movie",
