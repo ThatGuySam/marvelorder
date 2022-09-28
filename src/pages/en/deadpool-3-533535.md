@@ -4,7 +4,7 @@ slug: deadpool-3
 description: ''
 layout: ../../layouts/MainLayout.astro
 type: movie
-logo_on_black: /.netlify/functions/tmdb-image/4gdqWCVvidYR0pOHuVOqFundbUG.webp
+logo_on_black: /.netlify/functions/tmdb-image/fa6aYdjF083UV2w6V7hOAjwaqi4.webp
 ---
 ## TMDB Data
 ```json
