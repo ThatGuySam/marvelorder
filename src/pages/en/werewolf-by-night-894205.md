@@ -32,7 +32,7 @@ tags:
     "release_date": "2022-09-25",
     "title": "Werewolf by Night",
     "video": false,
-    "vote_average": 0,
+    "vote_average": 2,
     "slug": "werewolf-by-night",
     "tags": [
         "movie",

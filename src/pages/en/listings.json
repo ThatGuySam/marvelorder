@@ -142,7 +142,7 @@
 		]
 	},
 	{
-		"backdrop_path": null,
+		"backdrop_path": "/nSJZ1fuINwSVAx3x9ZEk11SUoaW.jpg",
 		"genre_ids": [
 			16,
 			10759
@@ -253,29 +253,6 @@
 			"tv",
 			"company-420"
 		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
-			28,
-			35
-		],
-		"id": 533535,
-		"original_language": "en",
-		"original_title": "Deadpool 3",
-		"overview": "The third installment in the Deadpool franchise.",
-		"poster_path": "/4gdqWCVvidYR0pOHuVOqFundbUG.jpg",
-		"title": "Deadpool 3",
-		"video": false,
-		"vote_average": 0,
-		"slug": "deadpool-3",
-		"tags": [
-			"movie",
-			"company-420",
-			"list-8204860"
-		],
-		"media_type": "movie"
 	},
 	{
 		"adult": false,
@@ -457,6 +434,30 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			28,
+			35
+		],
+		"id": 533535,
+		"original_language": "en",
+		"original_title": "Deadpool 3",
+		"overview": "The third installment in the Deadpool franchise.",
+		"poster_path": "/fa6aYdjF083UV2w6V7hOAjwaqi4.jpg",
+		"release_date": "2024-09-06",
+		"title": "Deadpool 3",
+		"video": false,
+		"vote_average": 0,
+		"slug": "deadpool-3",
+		"tags": [
+			"movie",
+			"company-420",
+			"list-8204860"
+		],
+		"media_type": "movie"
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/vzVojqW0zF9QrXVGuj8PwhxWACD.jpg",
 		"genre_ids": [
 			28,
@@ -535,7 +536,7 @@
 		"original_language": "en",
 		"original_title": "Madame Web",
 		"overview": "An origin story of the clairvoyant known as Madame Web, whose psychic abilities allow her to see within the spider world.",
-		"poster_path": null,
+		"poster_path": "/vz3nV60ACksf78eygAuJzqxFlrs.jpg",
 		"release_date": "2024-02-16",
 		"title": "Madame Web",
 		"video": false,
@@ -624,7 +625,7 @@
 		"original_language": "en",
 		"original_title": "The Marvels",
 		"overview": "Carol Danvers, Monica Rambeau, and Kamala Khan trade places with each other every time they use their powers and must team up to fix their problem.",
-		"poster_path": "/fSF50m9IeLCFlObnC2qGTT44f9a.jpg",
+		"poster_path": "/bnz17wOkp9O0c9JADOncEx0Q1sJ.jpg",
 		"release_date": "2023-07-26",
 		"title": "The Marvels",
 		"video": false,
@@ -744,7 +745,7 @@
 		"release_date": "2022-09-25",
 		"title": "Werewolf by Night",
 		"video": false,
-		"vote_average": 0,
+		"vote_average": 2,
 		"slug": "werewolf-by-night",
 		"tags": [
 			"movie",
@@ -4020,7 +4021,7 @@
 		"original_name": "Wolverine and the X-Men",
 		"overview": "Wolverine and the X-Men must join together again to not only battle the increasingly powerful Mutant Response Division, but also to prevent a catastrophic future that Xavier has warned Wolverine must never come to pass.",
 		"poster_path": "/zTADaqgnIhE9QZAnX6M9YVn5wsv.jpg",
-		"vote_average": 7.6,
+		"vote_average": 7.7,
 		"title": "Wolverine and the X-Men",
 		"slug": "wolverine-and-the-x-men",
 		"tags": [
@@ -5113,7 +5114,7 @@
 		"release_date": "1981-06-25",
 		"title": "Spider-Man: The Dragon's Challenge",
 		"video": false,
-		"vote_average": 5,
+		"vote_average": 4.9,
 		"slug": "spider-man-the-dragons-challenge",
 		"tags": [
 			"list-8204862"
