@@ -15,7 +15,7 @@ rentLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/jSKFzC4c3kWjlKo9Ou7D7NMn58C.jpg",
+    "backdrop_path": "/nYJ9hQe6F82bem3ufHAWBRyYm9m.jpg",
     "genre_ids": [
         12,
         28,

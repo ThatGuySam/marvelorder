@@ -36,6 +36,7 @@ logo_on_black: /.netlify/functions/tmdb-image/ruUz3vhYuq3011WzSNM0SlgaVzh.webp
     "original_title": "Untitled Shang-Chi Sequel",
     "overview": "Sequel to the 2021 film “Shang-Chi and the Legend of the Ten Rings”.",
     "poster_path": "/ruUz3vhYuq3011WzSNM0SlgaVzh.jpg",
+    "release_date": "2025-02-14",
     "title": "Untitled Shang-Chi Sequel",
     "video": false,
     "vote_average": 0,
