@@ -1,27 +1,5 @@
 [
 	{
-		"backdrop_path": "/jL1xSU0aJ04XYuler87uhMterWe.jpg",
-		"genre_ids": [
-			10765
-		],
-		"id": 114470,
-		"name": "Armor Wars",
-		"origin_country": [
-			"US"
-		],
-		"original_language": "en",
-		"original_name": "Armor Wars",
-		"overview": "James Rhodes aka War Machine faces the consequences of Tony Stark's worst fear coming true: what happens when his tech falls into the wrong hands?",
-		"poster_path": "/yddelWuP5vibmBhjvCVQZjhra1q.jpg",
-		"vote_average": 0,
-		"title": "Armor Wars",
-		"slug": "armor-wars",
-		"tags": [
-			"tv",
-			"company-420"
-		]
-	},
-	{
 		"backdrop_path": "/3Wh6RYyoqBHkjugcfVrypjH8qQv.jpg",
 		"genre_ids": [
 			10759,
@@ -302,6 +280,28 @@
 		"adult": false,
 		"backdrop_path": null,
 		"genre_ids": [
+			28,
+			12,
+			14
+		],
+		"id": 912502,
+		"original_language": "en",
+		"original_title": "Untitled Shang-Chi Sequel",
+		"overview": "Sequel to the 2021 film “Shang-Chi and the Legend of the Ten Rings”.",
+		"poster_path": "/ruUz3vhYuq3011WzSNM0SlgaVzh.jpg",
+		"title": "Untitled Shang-Chi Sequel",
+		"video": false,
+		"vote_average": 0,
+		"slug": "untitled-shang-chi-sequel",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
 			878,
 			28,
 			12
@@ -334,6 +334,27 @@
 		"video": false,
 		"vote_average": 0,
 		"slug": "untitled-spider-man-4-movie",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/h7BU4fdLjF8ly8NF8mJ4hAQOLKU.jpg",
+		"genre_ids": [
+			878
+		],
+		"id": 1030022,
+		"original_language": "en",
+		"original_title": "Armor Wars",
+		"overview": "James Rhodes aka War Machine faces the consequences of Tony Stark's worst fear coming true: what happens when his tech falls into the wrong hands?",
+		"poster_path": "/vDbzi8eM710THVCwjfqVU8a5E3g.jpg",
+		"release_date": "",
+		"title": "Armor Wars",
+		"video": false,
+		"vote_average": 0,
+		"slug": "armor-wars",
 		"tags": [
 			"movie",
 			"company-420"
@@ -386,29 +407,6 @@
 			"list-8204859"
 		],
 		"media_type": "movie"
-	},
-	{
-		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
-			28,
-			12,
-			14
-		],
-		"id": 912502,
-		"original_language": "en",
-		"original_title": "Untitled Shang-Chi Sequel",
-		"overview": "Sequel to the 2021 film “Shang-Chi and the Legend of the Ten Rings”.",
-		"poster_path": "/ruUz3vhYuq3011WzSNM0SlgaVzh.jpg",
-		"release_date": "2025-02-14",
-		"title": "Untitled Shang-Chi Sequel",
-		"video": false,
-		"vote_average": 0,
-		"slug": "untitled-shang-chi-sequel",
-		"tags": [
-			"movie",
-			"company-420"
-		]
 	},
 	{
 		"adult": false,
@@ -575,6 +573,7 @@
 		"adult": false,
 		"backdrop_path": "/hFtJz4TvoiJJcw2ZOMdhK22aU9P.jpg",
 		"genre_ids": [
+			28,
 			14
 		],
 		"id": 617127,
@@ -767,7 +766,7 @@
 		"release_date": "2022-09-08",
 		"title": "The Making of Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 6.5,
 		"slug": "the-making-of-thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -2552,7 +2551,7 @@
 		"original_language": "en",
 		"original_title": "X-Men: Apocalypse",
 		"overview": "After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.",
-		"poster_path": "/fVmMiVyYlDo6Cp6Grc8STbLcADo.jpg",
+		"poster_path": "/qttNmCib9gHhR5q0QoZ3FgmGom9.jpg",
 		"release_date": "2016-05-18",
 		"title": "X-Men: Apocalypse",
 		"video": false,
@@ -4652,7 +4651,7 @@
 		"original_language": "en",
 		"original_title": "X-Men",
 		"overview": "Two mutants, Rogue and Wolverine, come to a private academy for their kind whose resident superhero team, the X-Men, must oppose a terrorist organization with similar powers.",
-		"poster_path": "/ypiv2HEiNftzrg9ovDCFv16Q6Ti.jpg",
+		"poster_path": "/oktysTdfaYt4uGxROVsUMT0KoOx.jpg",
 		"release_date": "2000-07-13",
 		"title": "X-Men",
 		"video": false,
