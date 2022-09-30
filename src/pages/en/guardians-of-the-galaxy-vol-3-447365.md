@@ -14,7 +14,7 @@ genre_ids:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/jRSAkKG9QSu6Nc1zvI3ejmgLshe.jpg",
+    "backdrop_path": "/7TUp4uKIaX9c2TAZLPwjty5A0EP.jpg",
     "genre_ids": [
         28,
         12,
