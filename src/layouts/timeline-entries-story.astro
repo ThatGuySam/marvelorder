@@ -71,8 +71,14 @@ function backgroundWithFallbacks ( storyPage ) {
     if ( backgroundSrc.trim().length === 0 ) {
         // Get last character of hash as number
         const lastCharAsNumber = storyPage.id.charCodeAt( storyPage.id.length - 1 )
+
+        // Genereate a random seed number different from previous numbers
         const seedNumber = lastCharAsNumber + idGenerator.next().value
+
+        // Generate a random index using the seed number
         const randomIndex = seedNumber % content.imageBackrounds.length
+
+        // Get the random image
         const imageUrl = content.imageBackrounds[ randomIndex ]
 
         return imageUrl
