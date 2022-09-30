@@ -69,19 +69,17 @@ function backgroundWithFallbacks ( storyPage ) {
     const { backgroundSrc = '' } = storyPage
 
     if ( backgroundSrc.trim().length === 0 ) {
-        // Get last character of hash
-        const lastChar = storyPage.id.slice(-1)
-        const lastCharAsNumber = parseInt( lastChar, 10 )
+        // Get last character of hash as number
+        const lastCharAsNumber = storyPage.id.charCodeAt( storyPage.id.length - 1 )
         const seedNumber = lastCharAsNumber + idGenerator.next().value
         const randomIndex = seedNumber % content.imageBackrounds.length
+        const imageUrl = content.imageBackrounds[ randomIndex ]
 
-        return content.imageBackrounds[ randomIndex ]
+        return imageUrl
     }
 
     return backgroundSrc
 }
-
-// console.log( 'storyTaggedListings', storyTaggedListings )
 
 ---
 <!DOCTYPE html>
