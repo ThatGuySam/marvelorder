@@ -814,7 +814,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot's First Steps",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.4,
 		"slug": "groots-first-steps",
 		"tags": [
 			"movie",
@@ -886,7 +886,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot Takes a Bath",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 7.1,
 		"slug": "groot-takes-a-bath",
 		"tags": [
 			"movie",
@@ -931,7 +931,7 @@
 		"release_date": "2022-07-18",
 		"title": "Magnum Opus",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.4,
 		"slug": "magnum-opus",
 		"tags": [
 			"movie",
@@ -1213,7 +1213,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/vn8G4EZjKnO5SuXHLYN3YWuDEyz.jpg",
+		"backdrop_path": "/rLnv5QXUE3ITZTfrobsfXuAUtG.jpg",
 		"genre_ids": [
 			99
 		],
@@ -1248,7 +1248,7 @@
 		"release_date": "2021-11-03",
 		"title": "Eternals",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7,
 		"slug": "eternals",
 		"tags": [
 			"movie",
@@ -4216,7 +4216,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/ohfWCHT65P7b3kQvZnoy2BL95MB.jpg",
+		"backdrop_path": "/1dlXEyAxdysMCRvq9lgIr6Jds9H.jpg",
 		"genre_ids": [
 			53,
 			28,
