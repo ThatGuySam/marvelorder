@@ -35,7 +35,7 @@ tags:
     "id": 1030022,
     "original_language": "en",
     "original_title": "Armor Wars",
-    "overview": "James Rhodes aka War Machine faces the consequences of Tony Stark's worst fear coming true: what happens when his tech falls into the wrong hands?",
+    "overview": "James Rhodes, a.k.a. War Machine, faces the consequences of Tony Stark's worst fear coming true: what happens when his tech falls into the wrong hands?",
     "poster_path": "/vDbzi8eM710THVCwjfqVU8a5E3g.jpg",
     "release_date": "",
     "title": "Armor Wars",
