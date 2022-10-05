@@ -10,7 +10,7 @@ logo_on_black: /.netlify/functions/tmdb-image/6N6Rr1Y5wsi2KbTP4hFAP3hnWQE.webp
 ```json
 {
     "adult": false,
-    "backdrop_path": "/fSfWloWi5rmqbmC7GhO0HY2TMZW.jpg",
+    "backdrop_path": "/o8YJed4tNHpUOSvZ1JtHHg2X0y0.jpg",
     "genre_ids": [
         28,
         12,
@@ -20,8 +20,8 @@ logo_on_black: /.netlify/functions/tmdb-image/6N6Rr1Y5wsi2KbTP4hFAP3hnWQE.webp
     "original_language": "en",
     "original_title": "Black Panther: Wakanda Forever",
     "overview": "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death. As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
-    "poster_path": "/bjI6UfpzqapDtu1Wyw7OxgUd7h4.jpg",
-    "release_date": "2022-11-09",
+    "poster_path": "/stY7huvJcJCKK7mbynr1PA5dvGX.jpg",
+    "release_date": "2022-11-03",
     "title": "Black Panther: Wakanda Forever",
     "video": false,
     "vote_average": 0,
