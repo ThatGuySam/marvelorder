@@ -8,9 +8,17 @@ const lists = await Astro.glob('../../pages/en/lists/*.md')
 
 const menus = [
     {
-        heading: 'Stories',
-        pages: stories
+        heading: 'She-Hulk',
+        pages: stories.filter( story => story.frontmatter.title.toLowerCase().includes('she-hulk') )
     },
+    {
+        heading: 'Marvel Phases',
+        pages: stories.filter( story => story.frontmatter.title.toLowerCase().includes('phase') )
+    },
+    // {
+    //     heading: 'stories',
+    //     pages: stories
+    // },
     {
         heading: 'Lists',
         pages: lists
