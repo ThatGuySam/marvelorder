@@ -24,7 +24,9 @@ type: movie
     "adult": false,
     "backdrop_path": null,
     "genre_ids": [
-        16
+        16,
+        28,
+        878
     ],
     "id": 219225,
     "original_language": "en",

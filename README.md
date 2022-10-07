@@ -66,6 +66,7 @@ This is the *most* official list for the Marvel Chronologically, aka by the time
 - <kbd>40</kbd> - [She-Hulk: Attorney at Law](https://marvelorder.com/en/she-hulk-attorney-at-law-92783) - 📺 Series - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/she-hulk-attorney-at-law-92783.md)
 - <kbd>41</kbd> - [Ms. Marvel](https://marvelorder.com/en/ms-marvel-92782) - 📺 Series - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/ms-marvel-92782.md)
 - <kbd>42</kbd> - [Thor: Love and Thunder](https://marvelorder.com/en/thor-love-and-thunder-616037) - 🎬 Movie - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/thor-love-and-thunder-616037.md)
+- <kbd>43</kbd> - [Werewolf By Night](https://marvelorder.com/en/werewolf-by-night-894205) - 🎬 Movie - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/werewolf-by-night-894205.md)
 
 <!-- end-in-universe-list -->
 
@@ -167,5 +168,6 @@ Viewing Order data provided thanks to [r/MarvelStudios MCU Viewing Order Sheet](
 - <kbd>55</kbd> - [She-Hulk: Attorney at Law](https://marvelorder.com/en/she-hulk-attorney-at-law-92783) - 🏰 Disney+ - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/she-hulk-attorney-at-law-92783.md)
 - <kbd>56</kbd> - [Ms. Marvel](https://marvelorder.com/en/ms-marvel-92782) - 🏰 Disney+ - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/ms-marvel-92782.md)
 - <kbd>57</kbd> - [Thor: Love and Thunder](https://marvelorder.com/en/thor-love-and-thunder-616037) - 🎬 Marvel Studios - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/thor-love-and-thunder-616037.md)
+- <kbd>58</kbd> - [Werewolf By Night](https://marvelorder.com/en/werewolf-by-night-894205) - 🏰 Disney+ - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/werewolf-by-night-894205.md)
 
 <!-- end-viewing-order-list -->

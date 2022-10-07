@@ -708,7 +708,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/eoPEI9hXWyS0myE22lxAeU6zeMs.jpg",
+		"backdrop_path": "/vZujZnmkYB5nGUC5d5llK9DbGLk.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -718,7 +718,7 @@
 		"original_language": "en",
 		"original_title": "Black Panther: Wakanda Forever",
 		"overview": "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death. As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
-		"poster_path": "/stY7huvJcJCKK7mbynr1PA5dvGX.jpg",
+		"poster_path": "/bxCTPBtVduUotUqKMBgz6lJQUJi.jpg",
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
@@ -731,8 +731,9 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/pfAZP7JvTTxqgq7n6A1OYgkAdEW.jpg",
+		"backdrop_path": "/rhIMDeJcYIlC0vgWFceh2B4sYuy.jpg",
 		"genre_ids": [
+			28,
 			14,
 			27,
 			10770
@@ -741,8 +742,8 @@
 		"original_language": "en",
 		"original_title": "Werewolf by Night",
 		"overview": "On a dark and somber night, a secret cabal of monster hunters emerge from the shadows and gather at the foreboding Bloodstone Temple following the death of their leader. In a strange and macabre memorial to the leader’s life, the attendees are thrust into a mysterious and deadly competition for a powerful relic—a hunt that will ultimately bring them face to face with a dangerous monster.",
-		"poster_path": "/udCVr1O19nLHQnEWbwOvgaJdAx9.jpg",
-		"release_date": "2022-09-25",
+		"poster_path": "/jSqMmUsPP2zXp445XHRcXhc1B8a.jpg",
+		"release_date": "2022-10-07",
 		"title": "Werewolf by Night",
 		"video": false,
 		"vote_average": 6,
@@ -788,7 +789,7 @@
 		"original_language": "en",
 		"original_name": "She-Hulk: Attorney at Law",
 		"overview": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered hulk.",
-		"poster_path": "/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
+		"poster_path": "/3qO7wycn6o0lUJf15dupMFbEBTY.jpg",
 		"vote_average": 7.1,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
@@ -2722,7 +2723,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/gLACGQiS8kRP2hDnzdmIYo2uRRc.jpg",
+		"backdrop_path": "/i3OXODij5u4jJHKLyIODzJRgmqE.jpg",
 		"first_air_date": "2015-04-10",
 		"genre_ids": [
 			80,
@@ -3290,7 +3291,9 @@
 		"adult": false,
 		"backdrop_path": null,
 		"genre_ids": [
-			16
+			16,
+			28,
+			878
 		],
 		"id": 219225,
 		"original_language": "en",
