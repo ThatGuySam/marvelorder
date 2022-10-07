@@ -73,9 +73,8 @@ This is the *most* official list for the Marvel Chronologically, aka by the time
 ## Upcoming
 <!-- start-upcoming-list -->
 
-- November 3, 2022 - [Black Panther: Wakanda Forever](https://marvelorder.com/en/black-panther-wakanda-forever-505642) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/black-panther-wakanda-forever-505642.md)
+- November 9, 2022 - [Black Panther: Wakanda Forever](https://marvelorder.com/en/black-panther-wakanda-forever-505642) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/black-panther-wakanda-forever-505642.md)
 - December 1, 2022 - [The Guardians of the Galaxy Holiday Special](https://marvelorder.com/en/the-guardians-of-the-galaxy-holiday-special-774752) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/the-guardians-of-the-galaxy-holiday-special-774752.md)
-- January 12, 2023 - [Kraven the Hunter](https://marvelorder.com/en/kraven-the-hunter-539972) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/kraven-the-hunter-539972.md)
 - February 15, 2023 - [Ant-Man and the Wasp: Quantumania](https://marvelorder.com/en/ant-man-and-the-wasp-quantumania-640146) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/ant-man-and-the-wasp-quantumania-640146.md)
 - April 1, 2023 - [Secret Invasion](https://marvelorder.com/en/secret-invasion-114472) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/secret-invasion-114472.md)
 - May 3, 2023 - [Guardians of the Galaxy Vol. 3](https://marvelorder.com/en/guardians-of-the-galaxy-vol-3-447365) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/guardians-of-the-galaxy-vol-3-447365.md)
@@ -83,6 +82,7 @@ This is the *most* official list for the Marvel Chronologically, aka by the time
 - July 26, 2023 - [The Marvels](https://marvelorder.com/en/the-marvels-609681) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/the-marvels-609681.md)
 - August 1, 2023 - [Echo](https://marvelorder.com/en/echo-122226) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/echo-122226.md)
 - September 1, 2023 - [Ironheart](https://marvelorder.com/en/ironheart-114471) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/ironheart-114471.md)
+- October 6, 2023 - [Kraven the Hunter](https://marvelorder.com/en/kraven-the-hunter-539972) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/kraven-the-hunter-539972.md)
 - November 1, 2023 - [Agatha: Coven of Chaos](https://marvelorder.com/en/agatha-house-of-harkness-138501) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/agatha-house-of-harkness-138501.md)
 - November 1, 2023 - [Blade](https://marvelorder.com/en/blade-617127) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/blade-617127.md)
 - January 11, 2024 - [El Muerto](https://marvelorder.com/en/el-muerto-967731) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/el-muerto-967731.md)

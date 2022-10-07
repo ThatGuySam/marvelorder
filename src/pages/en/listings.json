@@ -708,7 +708,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/o8YJed4tNHpUOSvZ1JtHHg2X0y0.jpg",
+		"backdrop_path": "/eoPEI9hXWyS0myE22lxAeU6zeMs.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -731,7 +731,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/rhIMDeJcYIlC0vgWFceh2B4sYuy.jpg",
+		"backdrop_path": "/pfAZP7JvTTxqgq7n6A1OYgkAdEW.jpg",
 		"genre_ids": [
 			14,
 			27,
@@ -3729,7 +3729,9 @@
 		],
 		"id": 61753,
 		"name": "Thor & Loki: Blood Brothers",
-		"origin_country": [],
+		"origin_country": [
+			"US"
+		],
 		"original_language": "en",
 		"original_name": "Thor & Loki: Blood Brothers",
 		"overview": "Inspired by the acclaimed graphic novel from Robert Rodi and Esad Ribic, Marvel Knights Animation's \"Thor & Loki: Blood Brothers\" takes a powerful look inside the minds of Thor & Loki, brothers in the mythical land of Asgard and seemingly forever enemies. But just why does Loki hate his brother Thor? And could it be that this master of mischief isn’t really the villain he’s been branded? Loki's insatiable lust for power and his feud with Thor take on new meaning in this resonant epic.",
@@ -4098,7 +4100,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/6PkWizPnX97Z6v9i1aBh1BMWOj8.jpg",
+		"backdrop_path": "/2q8XkP4CSl2MTP7VfVeeHQHuUHD.jpg",
 		"first_air_date": "2008-03-08",
 		"genre_ids": [
 			10759,
