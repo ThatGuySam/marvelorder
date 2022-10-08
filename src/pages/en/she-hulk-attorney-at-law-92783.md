@@ -27,7 +27,7 @@ mcuTimelineOrder: 561
     "original_name": "She-Hulk: Attorney at Law",
     "overview": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered hulk.",
     "poster_path": "/3qO7wycn6o0lUJf15dupMFbEBTY.jpg",
-    "vote_average": 7.1,
+    "vote_average": 7,
     "title": "She-Hulk: Attorney at Law",
     "slug": "she-hulk-attorney-at-law",
     "tags": [

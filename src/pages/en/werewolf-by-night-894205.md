@@ -19,7 +19,7 @@ mcuTimelineOrder: 582
 ```json
 {
     "adult": false,
-    "backdrop_path": "/rhIMDeJcYIlC0vgWFceh2B4sYuy.jpg",
+    "backdrop_path": "/l1ORpdYr8uFZ9MNYKoq1p6fIc4M.jpg",
     "genre_ids": [
         28,
         14,
@@ -30,7 +30,7 @@ mcuTimelineOrder: 582
     "original_language": "en",
     "original_title": "Werewolf by Night",
     "overview": "On a dark and somber night, a secret cabal of monster hunters emerge from the shadows and gather at the foreboding Bloodstone Temple following the death of their leader. In a strange and macabre memorial to the leader’s life, the attendees are thrust into a mysterious and deadly competition for a powerful relic—a hunt that will ultimately bring them face to face with a dangerous monster.",
-    "poster_path": "/jSqMmUsPP2zXp445XHRcXhc1B8a.jpg",
+    "poster_path": "/mvIvNKRIJPPS7WSFarFhOAGIVnU.jpg",
     "release_date": "2022-10-07",
     "title": "Werewolf by Night",
     "video": false,
