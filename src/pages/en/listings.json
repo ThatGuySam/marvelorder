@@ -732,7 +732,26 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/l1ORpdYr8uFZ9MNYKoq1p6fIc4M.jpg",
+		"backdrop_path": null,
+		"genre_ids": [],
+		"id": 1033444,
+		"original_language": "en",
+		"original_title": "Marvel: The Infinity Saga",
+		"overview": "Marvel: The Infinity War - The Chronological Supercut",
+		"poster_path": "/yXwJ7VAOzQkWnXg0ouGM6Xf2hbV.jpg",
+		"release_date": "2022-10-01",
+		"title": "Marvel: The Infinity Saga",
+		"video": false,
+		"vote_average": 0,
+		"slug": "marvel-the-infinity-saga",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/pfAZP7JvTTxqgq7n6A1OYgkAdEW.jpg",
 		"genre_ids": [
 			28,
 			14,
@@ -762,14 +781,14 @@
 		],
 		"id": 1015595,
 		"original_language": "en",
-		"original_title": "The Making of Thor: Love and Thunder",
+		"original_title": "ASSEMBLED: The Making of Thor: Love and Thunder",
 		"overview": "Settle in with the likes of Taika Waititi, Chris Hemsworth, Natalie Portman, Christian Bale, and Tessa Thompson, and as they divulge the secrets behind the creation of Thor: Love and Thunder. Through in-depth interviews with cast and crew, along with raw, unseen footage from the set and beyond, ASSEMBLED pulls back the curtain on the God of Thunder’s fourth feature film.",
 		"poster_path": "/eb7GP3cttApzilOOM52L129Eaaj.jpg",
 		"release_date": "2022-09-08",
-		"title": "The Making of Thor: Love and Thunder",
+		"title": "ASSEMBLED: The Making of Thor: Love and Thunder",
 		"video": false,
 		"vote_average": 6.5,
-		"slug": "the-making-of-thor-love-and-thunder",
+		"slug": "assembled-the-making-of-thor-love-and-thunder",
 		"tags": [
 			"movie",
 			"company-420"
@@ -816,7 +835,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot's First Steps",
 		"video": false,
-		"vote_average": 7.4,
+		"vote_average": 7.3,
 		"slug": "groots-first-steps",
 		"tags": [
 			"movie",
@@ -903,14 +922,14 @@
 		],
 		"id": 1001912,
 		"original_language": "en",
-		"original_title": "The Making of Ms. Marvel",
+		"original_title": "ASSEMBLED: The Making of Ms. Marvel",
 		"overview": "Go behind-the-scenes every step of the way with immersive footage from the making of the series, along with insightful interviews on set from the cast and crew of Ms. Marvel as we watch Iman Vellani and her character, Kamala Khan, become the fan-favorite superhero right before our eyes.",
 		"poster_path": "/6m0rG2bS90FOlUaxEq8ZPCTQMei.jpg",
 		"release_date": "2022-08-03",
-		"title": "The Making of Ms. Marvel",
+		"title": "ASSEMBLED: The Making of Ms. Marvel",
 		"video": false,
 		"vote_average": 5.7,
-		"slug": "the-making-of-ms-marvel",
+		"slug": "assembled-the-making-of-ms-marvel",
 		"tags": [
 			"movie",
 			"company-420"
@@ -948,14 +967,14 @@
 		],
 		"id": 980017,
 		"original_language": "en",
-		"original_title": "The Making of Doctor Strange in the Multiverse of Madness",
+		"original_title": "ASSEMBLED: The Making of Doctor Strange in the Multiverse of Madness",
 		"overview": "Join visionary director Sam Raimi and the cast of the film as they recount their experiences bringing Marvel’s darkest story to life.  From world-building to universe-building, hear first hand accounts from the cast and crew on what it took to design, create and make each universe unique and believable.",
 		"poster_path": "/eIzPe62s12uHsIPhGWY1yp68DY9.jpg",
 		"release_date": "2022-07-08",
-		"title": "The Making of Doctor Strange in the Multiverse of Madness",
+		"title": "ASSEMBLED: The Making of Doctor Strange in the Multiverse of Madness",
 		"video": false,
 		"vote_average": 6.4,
-		"slug": "the-making-of-doctor-strange-in-the-multiverse-of-madness",
+		"slug": "assembled-the-making-of-doctor-strange-in-the-multiverse-of-madness",
 		"tags": [
 			"movie",
 			"company-420"
@@ -5175,29 +5194,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/eTGbkHzD8VijGgmXDjQze9eceUO.jpg",
-		"genre_ids": [
-			28,
-			878,
-			10770
-		],
-		"id": 65294,
-		"media_type": "movie",
-		"original_language": "en",
-		"original_title": "The Incredible Hulk",
-		"overview": "An accidental overdose of gamma radiation causes a mutation in scientist David Banner's DNA: now whenever he becomes angry, he metamorphoses into a seven-foot-tall, 330-pound, mindless muscular green creature.",
-		"poster_path": "/eMdysVpG2i3PzydIqkY4jt2YUZ8.jpg",
-		"release_date": "1979-06-13",
-		"title": "The Incredible Hulk",
-		"video": false,
-		"vote_average": 6.4,
-		"slug": "the-incredible-hulk",
-		"tags": [
-			"list-8204862"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": "/l2vddRxLkQGLRXR8OLdC0M3oKQ6.jpg",
 		"genre_ids": [
 			28,
@@ -5436,6 +5432,29 @@
 		"poster_path": "/8q7uFuNuMWTWfcpnCpBuZa3KZXx.jpg",
 		"vote_average": 7.3,
 		"title": "The Incredible Hulk",
+		"slug": "the-incredible-hulk",
+		"tags": [
+			"list-8204862"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/eTGbkHzD8VijGgmXDjQze9eceUO.jpg",
+		"genre_ids": [
+			28,
+			878,
+			10770
+		],
+		"id": 65294,
+		"media_type": "movie",
+		"original_language": "en",
+		"original_title": "The Incredible Hulk",
+		"overview": "An accidental overdose of gamma radiation causes a mutation in scientist David Banner's DNA: now whenever he becomes angry, he metamorphoses into a seven-foot-tall, 330-pound, mindless muscular green creature.",
+		"poster_path": "/eMdysVpG2i3PzydIqkY4jt2YUZ8.jpg",
+		"release_date": "1977-11-04",
+		"title": "The Incredible Hulk",
+		"video": false,
+		"vote_average": 6.4,
 		"slug": "the-incredible-hulk",
 		"tags": [
 			"list-8204862"

@@ -9,19 +9,19 @@ layout: ../../layouts/MainLayout.astro
 ```json
 {
     "adult": false,
-    "backdrop_path": null,
+    "backdrop_path": "/coxMHDtNRcyNmriZFCxpwqmlxjS.jpg",
     "genre_ids": [
         99
     ],
     "id": 980017,
     "original_language": "en",
-    "original_title": "The Making of Doctor Strange in the Multiverse of Madness",
+    "original_title": "ASSEMBLED: The Making of Doctor Strange in the Multiverse of Madness",
     "overview": "Join visionary director Sam Raimi and the cast of the film as they recount their experiences bringing Marvel’s darkest story to life.  From world-building to universe-building, hear first hand accounts from the cast and crew on what it took to design, create and make each universe unique and believable.",
-    "poster_path": null,
+    "poster_path": "/eIzPe62s12uHsIPhGWY1yp68DY9.jpg",
     "release_date": "2022-07-08",
     "title": "ASSEMBLED: The Making of Doctor Strange in the Multiverse of Madness",
     "video": false,
-    "vote_average": 0,
+    "vote_average": 6.4,
     "slug": "assembled-the-making-of-doctor-strange-in-the-multiverse-of-madness",
     "tags": [
         "movie",
