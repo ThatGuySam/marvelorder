@@ -27,7 +27,7 @@ tags:
     "id": 1033444,
     "original_language": "en",
     "original_title": "Marvel: The Infinity Saga",
-    "overview": "Marvel: The Infinity War - The Chronological Supercut",
+    "overview": "Marvel: The Infinity Saga - The Chronological Supercut",
     "poster_path": "/yXwJ7VAOzQkWnXg0ouGM6Xf2hbV.jpg",
     "release_date": "2022-10-01",
     "title": "Marvel: The Infinity Saga",
