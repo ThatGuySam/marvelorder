@@ -21,7 +21,7 @@ logo_on_black: /.netlify/functions/tmdb-image/jatnqRPnxjg2Q6cFsAjmrBNhx9.webp
     "original_title": "Fantastic Four",
     "overview": "Set in the Marvel Cinematic Universe (MCU) and based on the Marvel Comics characters of the same name",
     "poster_path": "/jatnqRPnxjg2Q6cFsAjmrBNhx9.jpg",
-    "release_date": "2024-11-06",
+    "release_date": "2025-02-14",
     "title": "Fantastic Four",
     "video": false,
     "vote_average": 0,

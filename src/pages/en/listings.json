@@ -350,7 +350,7 @@
 		"original_title": "Avengers: Secret Wars",
 		"overview": "An upcoming Phase 6 Marvel Cinematic Universe film that will conclude the Multiverse Saga.",
 		"poster_path": "/8chwENebfUEJzZ7sMUA0nOgiCKk.jpg",
-		"release_date": "2025-11-05",
+		"release_date": "2026-05-01",
 		"title": "Avengers: Secret Wars",
 		"video": false,
 		"vote_average": 0,
@@ -399,7 +399,7 @@
 		"original_title": "Fantastic Four",
 		"overview": "Set in the Marvel Cinematic Universe (MCU) and based on the Marvel Comics characters of the same name",
 		"poster_path": "/jatnqRPnxjg2Q6cFsAjmrBNhx9.jpg",
-		"release_date": "2024-11-06",
+		"release_date": "2025-02-14",
 		"title": "Fantastic Four",
 		"video": false,
 		"vote_average": 0,
@@ -421,7 +421,7 @@
 		"original_title": "Deadpool 3",
 		"overview": "The third installment in the Deadpool franchise.",
 		"poster_path": "/4gdqWCVvidYR0pOHuVOqFundbUG.jpg",
-		"release_date": "2024-09-05",
+		"release_date": "2024-11-08",
 		"title": "Deadpool 3",
 		"video": false,
 		"vote_average": 0,
@@ -432,6 +432,28 @@
 			"list-8204860"
 		],
 		"media_type": "movie"
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/hFtJz4TvoiJJcw2ZOMdhK22aU9P.jpg",
+		"genre_ids": [
+			28,
+			14
+		],
+		"id": 617127,
+		"original_language": "en",
+		"original_title": "Blade",
+		"overview": "",
+		"poster_path": "/fKqA4rgVJwrM7Gb3tQ9TGHnu8Tr.jpg",
+		"release_date": "2024-09-06",
+		"title": "Blade",
+		"video": false,
+		"vote_average": 0,
+		"slug": "blade",
+		"tags": [
+			"movie",
+			"company-420"
+		]
 	},
 	{
 		"adult": false,
@@ -545,28 +567,6 @@
 		"tags": [
 			"movie",
 			"company-7505"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/hFtJz4TvoiJJcw2ZOMdhK22aU9P.jpg",
-		"genre_ids": [
-			28,
-			14
-		],
-		"id": 617127,
-		"original_language": "en",
-		"original_title": "Blade",
-		"overview": "Set in the Marvel Cinematic Universe (MCU) and based on the Marvel Comics character of the same name.",
-		"poster_path": "/fKqA4rgVJwrM7Gb3tQ9TGHnu8Tr.jpg",
-		"release_date": "2023-11-01",
-		"title": "Blade",
-		"video": false,
-		"vote_average": 0,
-		"slug": "blade",
-		"tags": [
-			"movie",
-			"company-420"
 		]
 	},
 	{
@@ -719,7 +719,7 @@
 		"original_language": "en",
 		"original_title": "Black Panther: Wakanda Forever",
 		"overview": "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death. As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
-		"poster_path": "/stY7huvJcJCKK7mbynr1PA5dvGX.jpg",
+		"poster_path": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
@@ -762,7 +762,7 @@
 		"original_language": "en",
 		"original_title": "Werewolf by Night",
 		"overview": "On a dark and somber night, a secret cabal of monster hunters emerge from the shadows and gather at the foreboding Bloodstone Temple following the death of their leader. In a strange and macabre memorial to the leader’s life, the attendees are thrust into a mysterious and deadly competition for a powerful relic—a hunt that will ultimately bring them face to face with a dangerous monster.",
-		"poster_path": "/mvIvNKRIJPPS7WSFarFhOAGIVnU.jpg",
+		"poster_path": "/1n2q0Y1pX8PkQh9imqGbNH7Bw4q.jpg",
 		"release_date": "2022-09-25",
 		"title": "Werewolf by Night",
 		"video": false,
@@ -795,7 +795,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/eljErfkQUcFUgQkI4I1soZcH8MW.jpg",
+		"backdrop_path": "/9GvhICFMiRQA82vS6ydkXxeEkrd.jpg",
 		"first_air_date": "2022-08-18",
 		"genre_ids": [
 			35,
@@ -809,7 +809,7 @@
 		"original_language": "en",
 		"original_name": "She-Hulk: Attorney at Law",
 		"overview": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered hulk.",
-		"poster_path": "/3qO7wycn6o0lUJf15dupMFbEBTY.jpg",
+		"poster_path": "/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
 		"vote_average": 7,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
@@ -2408,7 +2408,7 @@
 		"release_date": "2017-02-14",
 		"title": "Team Thor: Part 2",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7,
 		"slug": "team-thor-part-2",
 		"tags": [
 			"movie",
@@ -2698,7 +2698,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg",
+		"backdrop_path": "/a7sAqMKv5tkAdMzFfIhPqIBmQ9g.jpg",
 		"genre_ids": [
 			878,
 			28,
@@ -2743,7 +2743,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/gLACGQiS8kRP2hDnzdmIYo2uRRc.jpg",
+		"backdrop_path": "/7rRnZrZr1QPlJ6BcrrVMVGoy55X.jpg",
 		"first_air_date": "2015-04-10",
 		"genre_ids": [
 			80,
@@ -4581,7 +4581,7 @@
 		"release_date": "2002-05-01",
 		"title": "Spider-Man",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 7.3,
 		"slug": "spider-man",
 		"tags": [
 			"movie",
@@ -5497,7 +5497,7 @@
 		"original_name": "Spider-Man",
 		"overview": "Spider-Man is an animated television series that ran from September 9, 1967 to June 14, 1970. It was jointly produced in Canada and the United States and was the first animated adaptation of the Spider-Man comic book series, created by writer Stan Lee and artist Steve Ditko. It first aired on the ABC television network in the United States but went into syndication at the start of the third season. Grantray-Lawrence Animation produced the first season. Seasons 2 and 3 were crafted by producer Ralph Bakshi in New York City. In Canada, it is currently airing on Teletoon Retro. An internet meme, commonly known as 1960s Spiderman, regarding the series has received an overwhelming amount of popularity. The meme consists of a screenshot taken at a random part of the series and adding an inappropriate and/or witty text. Since the death of Max Ferguson on March 7 2013, there are only three surviving members from the cast. Those three being Paul Soles the voice of Spider-Man, Chris Wiggins the voice of Mysterio and Carl Banas the voice of the Scorpion.",
 		"poster_path": "/n6eMF2lPQxiGmh2D612R5Tuxbzm.jpg",
-		"vote_average": 7.8,
+		"vote_average": 7.7,
 		"title": "Spider-Man",
 		"slug": "spider-man",
 		"tags": [

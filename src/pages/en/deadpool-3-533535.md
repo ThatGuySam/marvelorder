@@ -20,7 +20,7 @@ logo_on_black: /.netlify/functions/tmdb-image/fa6aYdjF083UV2w6V7hOAjwaqi4.webp
     "original_title": "Deadpool 3",
     "overview": "The third installment in the Deadpool franchise.",
     "poster_path": "/4gdqWCVvidYR0pOHuVOqFundbUG.jpg",
-    "release_date": "2024-09-05",
+    "release_date": "2024-11-08",
     "title": "Deadpool 3",
     "video": false,
     "vote_average": 0,
