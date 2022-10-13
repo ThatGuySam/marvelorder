@@ -32,7 +32,7 @@ tags:
     "release_date": "2022-10-01",
     "title": "Marvel: The Infinity Saga",
     "video": false,
-    "vote_average": 0,
+    "vote_average": 5,
     "slug": "marvel-the-infinity-saga",
     "tags": [
         "movie",

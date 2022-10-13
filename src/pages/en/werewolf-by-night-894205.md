@@ -23,8 +23,7 @@ mcuTimelineOrder: 582
     "genre_ids": [
         28,
         14,
-        27,
-        9648
+        27
     ],
     "id": 894205,
     "original_language": "en",

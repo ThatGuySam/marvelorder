@@ -350,7 +350,7 @@
 		"original_title": "Avengers: Secret Wars",
 		"overview": "An upcoming Phase 6 Marvel Cinematic Universe film that will conclude the Multiverse Saga.",
 		"poster_path": "/8chwENebfUEJzZ7sMUA0nOgiCKk.jpg",
-		"release_date": "2026-05-01",
+		"release_date": "2026-04-29",
 		"title": "Avengers: Secret Wars",
 		"video": false,
 		"vote_average": 0,
@@ -399,7 +399,7 @@
 		"original_title": "Fantastic Four",
 		"overview": "Set in the Marvel Cinematic Universe (MCU) and based on the Marvel Comics characters of the same name",
 		"poster_path": "/jatnqRPnxjg2Q6cFsAjmrBNhx9.jpg",
-		"release_date": "2025-02-14",
+		"release_date": "2025-02-12",
 		"title": "Fantastic Four",
 		"video": false,
 		"vote_average": 0,
@@ -421,7 +421,7 @@
 		"original_title": "Deadpool 3",
 		"overview": "The third installment in the Deadpool franchise.",
 		"poster_path": "/4gdqWCVvidYR0pOHuVOqFundbUG.jpg",
-		"release_date": "2024-11-08",
+		"release_date": "2024-11-06",
 		"title": "Deadpool 3",
 		"video": false,
 		"vote_average": 0,
@@ -445,7 +445,7 @@
 		"original_title": "Blade",
 		"overview": "",
 		"poster_path": "/fKqA4rgVJwrM7Gb3tQ9TGHnu8Tr.jpg",
-		"release_date": "2024-09-06",
+		"release_date": "2024-09-04",
 		"title": "Blade",
 		"video": false,
 		"vote_average": 0,
@@ -709,7 +709,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/vZujZnmkYB5nGUC5d5llK9DbGLk.jpg",
+		"backdrop_path": "/AnrAdtctqQVksj5riXxzFGGcm8S.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -742,7 +742,7 @@
 		"release_date": "2022-10-01",
 		"title": "Marvel: The Infinity Saga",
 		"video": false,
-		"vote_average": 0,
+		"vote_average": 5,
 		"slug": "marvel-the-infinity-saga",
 		"tags": [
 			"movie",
@@ -755,8 +755,7 @@
 		"genre_ids": [
 			28,
 			14,
-			27,
-			9648
+			27
 		],
 		"id": 894205,
 		"original_language": "en",
@@ -996,7 +995,7 @@
 		"release_date": "2022-07-06",
 		"title": "Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.7,
 		"slug": "thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -4350,7 +4349,7 @@
 		"original_language": "en",
 		"original_title": "X-Men: The Last Stand",
 		"overview": "When a cure is found to treat mutations, lines are drawn amongst the X-Men—led by Professor Charles Xavier—and the Brotherhood, a band of powerful mutants organised under Xavier's former ally, Magneto.",
-		"poster_path": "/7RSSkRpwvkNN5iKO8zACtBA0KhQ.jpg",
+		"poster_path": "/sNSvwqiNXjEvDSeQFsJAGPEP7Gl.jpg",
 		"release_date": "2006-05-24",
 		"title": "X-Men: The Last Stand",
 		"video": false,
