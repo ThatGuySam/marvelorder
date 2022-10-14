@@ -759,7 +759,8 @@
 		"genre_ids": [
 			28,
 			14,
-			27
+			27,
+			10770
 		],
 		"id": 894205,
 		"original_language": "en",
@@ -838,7 +839,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot's First Steps",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.4,
 		"slug": "groots-first-steps",
 		"tags": [
 			"movie",
@@ -910,7 +911,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot Takes a Bath",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 7.1,
 		"slug": "groot-takes-a-bath",
 		"tags": [
 			"movie",
@@ -999,7 +1000,7 @@
 		"release_date": "2022-07-06",
 		"title": "Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.7,
 		"slug": "thor-love-and-thunder",
 		"tags": [
 			"movie",
