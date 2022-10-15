@@ -16,7 +16,7 @@ type: movie
     "original_title": "Untitled Spider-Man 4 Movie",
     "overview": "",
     "poster_path": null,
-    "release_date": "",
+    "release_date": "2024-07-12",
     "title": "Untitled Spider-Man 4 Movie",
     "video": false,
     "vote_average": 0,

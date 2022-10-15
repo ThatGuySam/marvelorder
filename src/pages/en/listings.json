@@ -300,25 +300,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [],
-		"id": 969681,
-		"original_language": "en",
-		"original_title": "Untitled Spider-Man 4 Movie",
-		"overview": "",
-		"poster_path": null,
-		"release_date": "",
-		"title": "Untitled Spider-Man 4 Movie",
-		"video": false,
-		"vote_average": 0,
-		"slug": "untitled-spider-man-4-movie",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": "/h7BU4fdLjF8ly8NF8mJ4hAQOLKU.jpg",
 		"genre_ids": [
 			878
@@ -443,7 +424,7 @@
 		"original_language": "en",
 		"original_title": "Deadpool 3",
 		"overview": "The third installment in the Deadpool franchise.",
-		"poster_path": "/4gdqWCVvidYR0pOHuVOqFundbUG.jpg",
+		"poster_path": "/wk0JEj291T0fjORpW69mTFhaVOv.jpg",
 		"release_date": "2024-11-06",
 		"title": "Deadpool 3",
 		"video": false,
@@ -495,6 +476,25 @@
 		"video": false,
 		"vote_average": 0,
 		"slug": "thunderbolts",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [],
+		"id": 969681,
+		"original_language": "en",
+		"original_title": "Untitled Spider-Man 4 Movie",
+		"overview": "",
+		"poster_path": null,
+		"release_date": "2024-07-12",
+		"title": "Untitled Spider-Man 4 Movie",
+		"video": false,
+		"vote_average": 0,
+		"slug": "untitled-spider-man-4-movie",
 		"tags": [
 			"movie",
 			"company-420"
@@ -2140,7 +2140,7 @@
 		"original_language": "en",
 		"original_name": "Marvel's The Punisher",
 		"overview": "A former Marine out to punish the criminals responsible for his family's murder finds himself ensnared in a military conspiracy.",
-		"poster_path": "/tM6xqRKXoloH9UchaJEyyRE9O1w.jpg",
+		"poster_path": "/9tepVli4YijTCHyiATRvoR4c64X.jpg",
 		"vote_average": 8.1,
 		"title": "Marvel's The Punisher",
 		"slug": "marvels-the-punisher",
