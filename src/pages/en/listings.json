@@ -602,7 +602,7 @@
 		"original_title": "Kraven the Hunter",
 		"overview": "Sergei Kravinoff is a big game hunter, who takes a magical serum giving him superhuman abilities and a longer life.",
 		"poster_path": "/sT4PjkY9KzqNGqrCqE0dH315JFv.jpg",
-		"release_date": "2023-10-06",
+		"release_date": "2023-10-04",
 		"title": "Kraven the Hunter",
 		"video": false,
 		"vote_average": 0,
@@ -745,7 +745,7 @@
 		"release_date": "2022-09-25",
 		"title": "Werewolf by Night",
 		"video": false,
-		"vote_average": 7.4,
+		"vote_average": 7.3,
 		"slug": "werewolf-by-night",
 		"tags": [
 			"movie",
@@ -789,7 +789,7 @@
 		"original_name": "She-Hulk: Attorney at Law",
 		"overview": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered hulk.",
 		"poster_path": "/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
-		"vote_average": 6.9,
+		"vote_average": 6.8,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
 		"tags": [
@@ -4479,6 +4479,32 @@
 		]
 	},
 	{
+		"backdrop_path": "/nVHovBi2yqZAYW17273ytA8SE7c.jpg",
+		"first_air_date": "2003-07-11",
+		"genre_ids": [
+			16,
+			10759,
+			10765
+		],
+		"id": 1664,
+		"name": "Spider-Man: The New Animated Series",
+		"origin_country": [
+			"US",
+			"CA"
+		],
+		"original_language": "en",
+		"original_name": "Spider-Man: The New Animated Series",
+		"overview": "Spider-Man: The New Animated Series is an American animated series based on the Marvel comic book superhero character Spider-Man, which ran for one season, 13 episodes, starting on July 11, 2003. It is a loose continuation of 2002's Spider-Man film directed by Sam Raimi. The show was made using computer generated imagery rendered in cel shading and was broadcast on MTV, and YTV. Eight months later after the series finale, episodes aired in reruns on ABC Family as part of the Jetix television programming block. The series featured a far more mature version of the character than typically seen on television for any animated comic book adaptation. Throughout the series, characters are clearly killed, rather than the usual ambiguous disappearance, and several characters are strongly implied to have had sex.",
+		"poster_path": "/z4CRC612QrGrC1kLtDm8ykLeIrs.jpg",
+		"vote_average": 7.2,
+		"title": "Spider-Man: The New Animated Series",
+		"slug": "spider-man-the-new-animated-series",
+		"tags": [
+			"tv",
+			"company-7505"
+		]
+	},
+	{
 		"adult": false,
 		"backdrop_path": "/kYd1ZMWvG9K2Jeop3XWXcTpJ2dB.jpg",
 		"genre_ids": [
@@ -4753,7 +4779,7 @@
 		"original_language": "en",
 		"original_name": "Silver Surfer",
 		"overview": "The adventures of the cosmic wanderer as he seeks his lost home after rebelling from his master.",
-		"poster_path": "/uO4uvQMH7yysdDXoJLj33KK0VFU.jpg",
+		"poster_path": "/mBJTL4CRSoNkAQRmfwbiLTtviuW.jpg",
 		"vote_average": 7.7,
 		"title": "Silver Surfer",
 		"slug": "silver-surfer",
