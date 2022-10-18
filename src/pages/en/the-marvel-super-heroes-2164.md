@@ -35,7 +35,7 @@ tags:
     "original_name": "The Marvel Super Heroes",
     "overview": "This cartoon series, characterized by extremely limited animation, features five of the most popular super-powered heroes from Marvel Comics: the Incredible Hulk, the Mighty Thor, Captain America, Iron Man, and the Sub-Mariner.",
     "poster_path": "/iqBeSf9akkdX7SQt10ryd3T29Mz.jpg",
-    "vote_average": 8.8,
+    "vote_average": 8.1,
     "title": "The Marvel Super Heroes",
     "slug": "the-marvel-super-heroes",
     "tags": [

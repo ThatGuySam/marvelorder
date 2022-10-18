@@ -83,7 +83,7 @@ This is the *most* official list for the Marvel Chronologically, aka by the time
 - July 26, 2023 - [The Marvels](https://marvelorder.com/en/the-marvels-609681) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/the-marvels-609681.md)
 - August 1, 2023 - [Echo](https://marvelorder.com/en/echo-122226) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/echo-122226.md)
 - September 1, 2023 - [Ironheart](https://marvelorder.com/en/ironheart-114471) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/ironheart-114471.md)
-- October 6, 2023 - [Kraven the Hunter](https://marvelorder.com/en/kraven-the-hunter-539972) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/kraven-the-hunter-539972.md)
+- October 4, 2023 - [Kraven the Hunter](https://marvelorder.com/en/kraven-the-hunter-539972) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/kraven-the-hunter-539972.md)
 - November 1, 2023 - [Agatha: Coven of Chaos](https://marvelorder.com/en/agatha-house-of-harkness-138501) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/agatha-house-of-harkness-138501.md)
 - January 11, 2024 - [El Muerto](https://marvelorder.com/en/el-muerto-967731) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/el-muerto-967731.md)
 - February 16, 2024 - [Madame Web](https://marvelorder.com/en/madame-web-634492) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/madame-web-634492.md)
