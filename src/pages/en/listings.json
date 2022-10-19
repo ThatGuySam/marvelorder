@@ -730,6 +730,48 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			99
+		],
+		"id": 1036996,
+		"original_language": "en",
+		"original_title": "Director by Night",
+		"overview": "Acclaimed composer Michael Giacchino made his directorial debut with Marvel Studios' Special Presentation \"Werewolf by Night.\" This behind-the-scenes special explores Giacchino's vision, style and approach to bringing the chilling story to life, as well as offering an insider's look at the between-the-scenes making of \"Werewolf by Night.\"",
+		"poster_path": null,
+		"release_date": "2022-11-04",
+		"title": "Director by Night",
+		"video": false,
+		"vote_average": 0,
+		"slug": "director-by-night",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			99
+		],
+		"id": 1026208,
+		"original_language": "en",
+		"original_title": "Marvel Studios Assembled: The Making of She-Hulk: Attorney at Law",
+		"overview": "Join the likes of Tatiana Maslany, Mark Ruffalo, Tim Roth, and Benedict Wong as they reveal how Marvel Studios’ She-Hulk: Attorney at Law was conceived and shaped. Discover what it took for She-Hulk’s creators to pull off the show’s tricky tone and deliver Marvel Studios’ first truly comedic series – one that boldly breaks the fourth wall to acknowledge its own audience, no less!",
+		"poster_path": null,
+		"release_date": "2022-11-03",
+		"title": "Marvel Studios Assembled: The Making of She-Hulk: Attorney at Law",
+		"video": false,
+		"vote_average": 0,
+		"slug": "marvel-studios-assembled-the-making-of-she-hulk-attorney-at-law",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/pfAZP7JvTTxqgq7n6A1OYgkAdEW.jpg",
 		"genre_ids": [
 			28,
@@ -741,7 +783,7 @@
 		"original_language": "en",
 		"original_title": "Werewolf by Night",
 		"overview": "On a dark and somber night, a secret cabal of monster hunters emerge from the shadows and gather at the foreboding Bloodstone Temple following the death of their leader. In a strange and macabre memorial to the leader’s life, the attendees are thrust into a mysterious and deadly competition for a powerful relic—a hunt that will ultimately bring them face to face with a dangerous monster.",
-		"poster_path": "/29wwzVi97Jg2hCDKnL52tAIWEPA.jpg",
+		"poster_path": "/jmv7EbqBuEk4V1U7OoSBaxkwawO.jpg",
 		"release_date": "2022-09-25",
 		"title": "Werewolf by Night",
 		"video": false,
@@ -760,14 +802,14 @@
 		],
 		"id": 1015595,
 		"original_language": "en",
-		"original_title": "ASSEMBLED: The Making of Thor: Love and Thunder",
+		"original_title": "Marvel Studios Assembled: The Making of Thor: Love and Thunder",
 		"overview": "Settle in with the likes of Taika Waititi, Chris Hemsworth, Natalie Portman, Christian Bale, and Tessa Thompson, and as they divulge the secrets behind the creation of Thor: Love and Thunder. Through in-depth interviews with cast and crew, along with raw, unseen footage from the set and beyond, ASSEMBLED pulls back the curtain on the God of Thunder’s fourth feature film.",
 		"poster_path": "/eb7GP3cttApzilOOM52L129Eaaj.jpg",
 		"release_date": "2022-09-08",
-		"title": "ASSEMBLED: The Making of Thor: Love and Thunder",
+		"title": "Marvel Studios Assembled: The Making of Thor: Love and Thunder",
 		"video": false,
 		"vote_average": 6.5,
-		"slug": "assembled-the-making-of-thor-love-and-thunder",
+		"slug": "marvel-studios-assembled-the-making-of-thor-love-and-thunder",
 		"tags": [
 			"movie",
 			"company-420"
@@ -901,14 +943,14 @@
 		],
 		"id": 1001912,
 		"original_language": "en",
-		"original_title": "ASSEMBLED: The Making of Ms. Marvel",
+		"original_title": "Marvel Studios Assembled: The Making of Ms. Marvel",
 		"overview": "Go behind-the-scenes every step of the way with immersive footage from the making of the series, along with insightful interviews on set from the cast and crew of Ms. Marvel as we watch Iman Vellani and her character, Kamala Khan, become the fan-favorite superhero right before our eyes.",
 		"poster_path": "/6m0rG2bS90FOlUaxEq8ZPCTQMei.jpg",
 		"release_date": "2022-08-03",
-		"title": "ASSEMBLED: The Making of Ms. Marvel",
+		"title": "Marvel Studios Assembled: The Making of Ms. Marvel",
 		"video": false,
 		"vote_average": 5.7,
-		"slug": "assembled-the-making-of-ms-marvel",
+		"slug": "marvel-studios-assembled-the-making-of-ms-marvel",
 		"tags": [
 			"movie",
 			"company-420"
@@ -946,14 +988,14 @@
 		],
 		"id": 980017,
 		"original_language": "en",
-		"original_title": "ASSEMBLED: The Making of Doctor Strange in the Multiverse of Madness",
+		"original_title": "Marvel Studios Assembled: The Making of Doctor Strange in the Multiverse of Madness",
 		"overview": "Join visionary director Sam Raimi and the cast of the film as they recount their experiences bringing Marvel’s darkest story to life.  From world-building to universe-building, hear first hand accounts from the cast and crew on what it took to design, create and make each universe unique and believable.",
 		"poster_path": "/eIzPe62s12uHsIPhGWY1yp68DY9.jpg",
 		"release_date": "2022-07-08",
-		"title": "ASSEMBLED: The Making of Doctor Strange in the Multiverse of Madness",
+		"title": "Marvel Studios Assembled: The Making of Doctor Strange in the Multiverse of Madness",
 		"video": false,
 		"vote_average": 6.4,
-		"slug": "assembled-the-making-of-doctor-strange-in-the-multiverse-of-madness",
+		"slug": "marvel-studios-assembled-the-making-of-doctor-strange-in-the-multiverse-of-madness",
 		"tags": [
 			"movie",
 			"company-420"
@@ -1036,14 +1078,14 @@
 		],
 		"id": 964943,
 		"original_language": "en",
-		"original_title": "ASSEMBLED: The Making of Moon Knight",
+		"original_title": "Marvel Studios Assembled: The Making of Moon Knight",
 		"overview": "Join the likes of Oscar Isaac and Ethan Hawke as they reveal how Marvel Studios' Moon Knight was painstakingly brought to life. Through insightful interviews with cast and crew, along with immersive footage from the set, and a  candid \"roundtable discussion\" with the series' directors, this \"making-of\" pulls back the curtain on the groundbreaking series of Marvel Studios' newest hero.",
 		"poster_path": "/dM6Y4uLzeF4rqbmKBzR0wAsTxby.jpg",
 		"release_date": "2022-05-25",
-		"title": "ASSEMBLED: The Making of Moon Knight",
+		"title": "Marvel Studios Assembled: The Making of Moon Knight",
 		"video": false,
 		"vote_average": 7.1,
-		"slug": "assembled-the-making-of-moon-knight",
+		"slug": "marvel-studios-assembled-the-making-of-moon-knight",
 		"tags": [
 			"movie",
 			"company-420"
@@ -1105,14 +1147,14 @@
 		],
 		"id": 939356,
 		"original_language": "en",
-		"original_title": "ASSEMBLED: The Making of Eternals",
+		"original_title": "Marvel Studios Assembled: The Making of Eternals",
 		"overview": "Join director Chloe Zhao and the Cast of Eternals as they recount their experiences during the making of Marvel Studios’ most ambitious film to date. Discover how the ensemble cast felt stepping into their roles, filming in remote locations, and creating bonds that would help to create the on-screen relationships that span over 7,000 years.",
 		"poster_path": "/fBJ5ZjFJ6IHQWz90SsW80PizVlF.jpg",
 		"release_date": "2022-02-16",
-		"title": "ASSEMBLED: The Making of Eternals",
+		"title": "Marvel Studios Assembled: The Making of Eternals",
 		"video": false,
 		"vote_average": 6.9,
-		"slug": "assembled-the-making-of-eternals",
+		"slug": "marvel-studios-assembled-the-making-of-eternals",
 		"tags": [
 			"movie",
 			"company-420"
@@ -1126,14 +1168,14 @@
 		],
 		"id": 936643,
 		"original_language": "en",
-		"original_title": "ASSEMBLED: The Making of Hawkeye",
+		"original_title": "Marvel Studios Assembled: The Making of Hawkeye",
 		"overview": "Join the likes of Jeremy Renner, Hailee Steinfeld, Florence Pugh, and Vincent D’Onofrio as they reveal how Marvel Studios’ “Hawkeye” was conceived and created. Witness firsthand what it took to pull off the show’s pulse-pounding action set pieces, and discover how iconic characters from the pages of Marvel Comics such as Kate Bishop were adapted and brought to life for the six-episode series.",
 		"poster_path": "/pQOLNPHe4rwXl3RpKNa0VWjYNLR.jpg",
 		"release_date": "2022-02-09",
-		"title": "ASSEMBLED: The Making of Hawkeye",
+		"title": "Marvel Studios Assembled: The Making of Hawkeye",
 		"video": false,
 		"vote_average": 6.5,
-		"slug": "assembled-the-making-of-hawkeye",
+		"slug": "marvel-studios-assembled-the-making-of-hawkeye",
 		"tags": [
 			"movie",
 			"company-420"
@@ -1413,7 +1455,7 @@
 		"original_name": "Marvel's M.O.D.O.K.",
 		"overview": "The megalomaniacal supervillain M.O.D.O.K. has long pursued his dream of one day conquering the world. But after years of setbacks and failures fighting the Earth’s mightiest heroes, M.O.D.O.K. has run his evil organization A.I.M. into the ground. Ousted as A.I.M.’s leader, while also dealing with his crumbling marriage and family life, the Mental Organism Designed Only for Killing is set to confront his greatest challenge yet: a midlife crisis!",
 		"poster_path": "/dOOFAtzsRQ641p2NL4s4nyThJSO.jpg",
-		"vote_average": 7,
+		"vote_average": 6.9,
 		"title": "Marvel's M.O.D.O.K.",
 		"slug": "marvels-modok",
 		"tags": [
@@ -1452,16 +1494,16 @@
 			99
 		],
 		"id": 118924,
-		"name": "Marvel Studios: Assembled",
+		"name": "Marvel Studios Assembled",
 		"origin_country": [
 			"US"
 		],
 		"original_language": "en",
-		"original_name": "Marvel Studios: Assembled",
+		"original_name": "Marvel Studios Assembled",
 		"overview": "Go behind the scenes of the shows and movies of the Marvel Cinematic Universe, following the filmmakers, cast and crew, and Marvel heroes every step of the way.",
 		"poster_path": "/v2BHRwtQVkt5fssLdo5MpFgHJPY.jpg",
 		"vote_average": 7.4,
-		"title": "Marvel Studios: Assembled",
+		"title": "Marvel Studios Assembled",
 		"slug": "marvel-studios-assembled",
 		"tags": [
 			"tv",
@@ -3837,7 +3879,7 @@
 		"original_name": "アイアンマン",
 		"overview": "When Tony Stark branches his company into Japan, he is opposed by the nefarious Zodiac organization. It's up to Stark's Iron Man to defeat the Zodiac, and defend Japan.",
 		"poster_path": "/zOTJT7JbzSrMBX2OCGPqUnkQA4y.jpg",
-		"vote_average": 7.2,
+		"vote_average": 7.3,
 		"title": "Iron Man",
 		"slug": "iron-man",
 		"tags": [
@@ -4904,7 +4946,7 @@
 		"original_name": "Iron Man",
 		"overview": "Industrialist Tony Stark leads a private team of superheroes as Iron Man against the forces of evil.",
 		"poster_path": "/nTQWWH6CFtl37x1nPx8HRwbwvGn.jpg",
-		"vote_average": 7,
+		"vote_average": 6.9,
 		"title": "Iron Man",
 		"slug": "iron-man",
 		"tags": [

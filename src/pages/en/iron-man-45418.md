@@ -31,7 +31,7 @@ rentLinks:
     "original_name": "アイアンマン",
     "overview": "When Tony Stark branches his company into Japan, he is opposed by the nefarious Zodiac organization. It's up to Stark's Iron Man to defeat the Zodiac, and defend Japan.",
     "poster_path": "/zOTJT7JbzSrMBX2OCGPqUnkQA4y.jpg",
-    "vote_average": 7.2,
+    "vote_average": 7.3,
     "title": "Iron Man",
     "slug": "iron-man",
     "tags": [
