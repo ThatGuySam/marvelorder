@@ -15,7 +15,7 @@ mcuTimelineOrder: 155
 ## TMDB Data
 ```json
 {
-    "backdrop_path": "/iEXdA9n9R7Cne2ZY8PQfAjiGyFP.jpg",
+    "backdrop_path": "/4amkATUf2mh5QL9OQ3WmHQqx9wk.jpg",
     "first_air_date": "2018-06-07",
     "genre_ids": [
         10759,
@@ -30,7 +30,7 @@ mcuTimelineOrder: 155
     "original_language": "en",
     "original_name": "Marvel's Cloak & Dagger",
     "overview": "Two teenagers from very different backgrounds awaken to newly acquired superpowers which mysteriously link them to one another.",
-    "poster_path": "/pYnRJuBPEqZO1o4fcxBTgmKNHfy.jpg",
+    "poster_path": "/gC20yybaer1cKA5HXSji4briMdu.jpg",
     "vote_average": 7.4,
     "title": "Marvel's Cloak & Dagger",
     "slug": "marvels-cloak-and-dagger",
