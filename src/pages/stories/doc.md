@@ -1,6 +1,6 @@
 ---
-title: Every Marvel Film or Series that is a Doc
-description: The 24 Marvel films or series that are Docs
+title: Every Marvel Documentary or Behind The Scenes Special
+description: The various Documentaries and special produced fot Marvel films or series
 layout: ../../layouts/list-story.astro
 coverAriaLabel: 'Jack Kirby: Story Teller'
 coverPosterUrl: >-
