@@ -30,6 +30,8 @@ export function isDoc ( listing ) {
 		'assembled',
 		'marvel studios:',
         'anniversary',
+        'behind-the-scenes',
+        'behind the scenes',
     ])
 
 	// Check if our listing title contains any of the terms
