@@ -245,14 +245,19 @@ const watchOrderPages = splitArray( watchOrder, 5 )
                                         <div class="flex items-center justify-between gap-4">
                                             <div class="flex-shrink-0 flex gap-4">
                                                 <div class="h-8 w-8 flex justify-center items-center font-black rounded-full backdrop-blur border border-solid border-white">{ order }</div>
-                                                <amp-img
-                                                    src={ listing.logo_on_black }
-                                                    width="1.5"
-                                                    height="1"
-                                                    layout="responsive"
-                                                    class="h-16 w-16 [&>*]:object-contain"
+                                                <a
+                                                    href={ listing.endpoint }
+                                                    title={ listing.title }
                                                 >
-                                                </amp-img>
+                                                    <amp-img
+                                                        src={ listing.logo_on_black }
+                                                        width="1.5"
+                                                        height="1"
+                                                        layout="responsive"
+                                                        class="h-16 w-16 [&>*]:object-contain"
+                                                    >
+                                                    </amp-img>
+                                                </a>
                                             </div>
                                             <div class="">
                                                 <!-- <div class="min-w-0 flex-1">
