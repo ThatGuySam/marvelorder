@@ -36,6 +36,7 @@
     "image-type": "^4.1.0",
     "is-svg": "^4.3.2",
     "jsdom": "^20.0.0",
+    "just-split": "^3.1.1",
     "lazysizes": "^5.3.2",
     "localforage": "^1.10.0",
     "luxon": "^2.4.0",
