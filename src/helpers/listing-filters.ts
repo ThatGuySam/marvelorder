@@ -19,20 +19,31 @@ export function isUpcoming ( listing ) {
 	return timeDifference < 0
 }
 
+
+const docMatchingTerms = new Set([
+    'making of',
+    'assembled',
+    'marvel studios:',
+    'anniversary',
+    'behind-the-scenes',
+    'behind the scenes',
+])
+
+const docMatchingDescriptionTerms = new Set([
+    // 'making of',
+    // 'assembled',
+    // 'marvel studios:',
+    // 'anniversary',
+    'documentary',
+    'behind-the-scenes',
+    'behind the scenes',
+])
+
 export function isDoc ( listing ) {
 	// Check if listing has a doc tag
 	if ( listing.hasTag( 'doc' ) ) {
 		return true
 	}
-
-	const docMatchingTerms = new Set([
-        'making of',
-		'assembled',
-		'marvel studios:',
-        'anniversary',
-        'behind-the-scenes',
-        'behind the scenes',
-    ])
 
 	// Check if our listing title contains any of the terms
 	for ( let term of docMatchingTerms ) {
@@ -45,9 +56,11 @@ export function isDoc ( listing ) {
     // so that we can override it in Markdown
     const description = listing?.description || listing.overview
 
-    // overview has word documentary
-    if ( description.toLowerCase().includes( 'documentary' ) ) {
-        return true
+    // Description has mathcing doc term
+    for ( let term of docMatchingDescriptionTerms ) {
+        if ( description?.toLowerCase().includes( term ) ) {
+            return true
+        }
     }
 
 
