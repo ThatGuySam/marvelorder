@@ -10,7 +10,7 @@ description: >-
 layout: ../../layouts/MainLayout.astro
 logo_on_black: /.netlify/functions/fanart/avengers-1999-5da2f2765bc19.webp
 type: tv
-rentLinks:
+watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B007OH9MYW?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---

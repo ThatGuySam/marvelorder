@@ -12,7 +12,7 @@ layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: >-
   /.netlify/functions/tmdb-image/6crVZ3TN2MUwtbx25pbBVBGn11d.webp?crop.bottom=0.78
-rentLinks:
+watchLinks:
   amazon: none
 ---
 ## TMDB Data

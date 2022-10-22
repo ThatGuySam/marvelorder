@@ -8,7 +8,7 @@ description: >-
 layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/fanart/wolverine-and-the-x-men-52375c6d29f1e.webp
-rentLinks:
+watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B00CMVT4CA?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---

@@ -10,7 +10,7 @@ layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: >-
   /.netlify/functions/fanart/fantastic-four-rise-of-the-silver-surfer-503e3270821a1.png
-rentLinks:
+watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B000VL6GRO?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---

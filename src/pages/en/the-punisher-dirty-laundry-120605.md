@@ -6,7 +6,7 @@ description: >-
   Castle witnesses a ruthless street gang harassing several people.
 layout: ../../layouts/MainLayout.astro
 logo_on_black: /.netlify/functions/fanart/the-punisher-dirty-laundry-55805756b7e12.webp
-rentLinks:
+watchLinks:
   amazon: none
 ---
 ## TMDB Data

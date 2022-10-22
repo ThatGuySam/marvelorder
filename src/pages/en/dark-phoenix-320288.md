@@ -10,7 +10,7 @@ description: >-
   battle aliens that want to use Grey's new abilities to rule the galaxy.
 layout: ../../layouts/MainLayout.astro
 logo_on_black: /.netlify/functions/tmdb-image/b3wR7lmidhv1xYz6i50XI6NcOV1.webp
-rentLinks:
+watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B07SJJ44HB?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---

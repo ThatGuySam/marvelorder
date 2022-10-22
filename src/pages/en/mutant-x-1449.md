@@ -17,7 +17,7 @@ description: >-
   show on a cliffhanger.
 layout: ../../layouts/MainLayout.astro
 logo_on_black: /.netlify/functions/fanart/mutant-x-512671c120573.webp
-rentLinks:
+watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B07BPPH1Q8?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---

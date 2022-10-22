@@ -8,7 +8,7 @@ description: >-
 layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/tmdb-image/wzFmZOBRSYbrPxJE2nkhq2tAKwI.webp
-rentLinks:
+watchLinks:
   amazon: none
 mcuTimelineOrder: 467
 tags:

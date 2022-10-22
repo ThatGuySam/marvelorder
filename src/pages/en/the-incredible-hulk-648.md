@@ -8,7 +8,7 @@ description: >-
   with a dogged tabloid reporter on his trail.
 layout: ../../layouts/MainLayout.astro
 logo_on_black: /.netlify/functions/fanart/the-incredible-hulk-5cdaa5b6b5d2d.webp
-rentLinks:
+watchLinks:
   amazon: 'https://amzn.to/39xpHpv'
 ---
 ## TMDB Data

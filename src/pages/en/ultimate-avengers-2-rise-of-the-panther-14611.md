@@ -10,7 +10,7 @@ description: >-
 layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/fanart/ultimate-avengers-2-5044de8d0d8f3.png
-rentLinks:
+watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B000FP2YYA?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---

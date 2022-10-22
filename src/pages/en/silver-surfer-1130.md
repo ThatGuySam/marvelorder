@@ -7,7 +7,7 @@ description: >-
 layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/fanart/the-silver-surfer-5e71870f1dc60.png
-rentLinks:
+watchLinks:
   amazon: none
 ---
 ## TMDB Data

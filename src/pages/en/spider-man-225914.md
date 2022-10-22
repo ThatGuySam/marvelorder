@@ -6,7 +6,7 @@ description: >-
   is paid, only Peter Parker can stop him with his new powers as Spider-Man.
 layout: ../../layouts/MainLayout.astro
 logo_on_black: /.netlify/functions/tmdb-image/jNxRHZ2cxVkNRtxgHuCtv7GY4JP.webp?crop.top=0.7
-rentLinks:
+watchLinks:
   amazon: none
 ---
 ## TMDB Data

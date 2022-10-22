@@ -6,7 +6,7 @@ description: >-
   against the forces of evil.
 layout: ../../layouts/MainLayout.astro
 logo_on_black: /.netlify/functions/fanart/iron-man-5e71877a7bf7c.webp
-rentLinks:
+watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B0036EH3XO?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---

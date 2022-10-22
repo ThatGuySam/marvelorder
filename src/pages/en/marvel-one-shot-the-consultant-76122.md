@@ -9,7 +9,7 @@ description: >-
 layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/fanart/marvel-one-shot-the-consultant-53a431ea100ed.webp
-rentLinks:
+watchLinks:
   amazon: none
 ---
 ## TMDB Data

@@ -11,7 +11,7 @@ description: >-
 layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/fanart/spider-man-1978-5cddabaeefc4e.webp
-rentLinks:
+watchLinks:
   amazon: none
 vote_average: 7.1
 ---

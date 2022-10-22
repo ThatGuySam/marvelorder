@@ -14,7 +14,7 @@ description: >-
 layout: ../../layouts/MainLayout.astro
 logo_on_black: >-
   /.netlify/functions/tmdb-image/pStE8fkPIKoQYcqESNWvY2s9nuo.webp?crop.bottom=0.35&crop.top=0.1
-rentLinks:
+watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B00715RHBC?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 backdrop_path: /vrb9b26WDZto8vmUnDMgZZ1T9hS.jpg

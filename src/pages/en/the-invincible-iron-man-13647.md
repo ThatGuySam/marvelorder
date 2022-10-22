@@ -7,7 +7,7 @@ description: >-
   ideas for a revolutionary power armor in order to fight back as a superhero.
 layout: ../../layouts/MainLayout.astro
 logo_on_black: /.netlify/functions/fanart/invincible-iron-man-5ccd4a2e2817a.webp
-rentLinks:
+watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B008Y5QKMU?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---

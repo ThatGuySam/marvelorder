@@ -9,7 +9,7 @@ description: >-
   star, newcomer Iman Vellani.
 layout: ../../layouts/MainLayout.astro
 tags: doc
-rentLinks:
+watchLinks:
   amazon: 'none'
 ---
 ## TMDB Data

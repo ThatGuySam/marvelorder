@@ -7,7 +7,7 @@ description: >-
 layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/fanart/marvel-one-shot-item-47-53a58d4a3a305.webp
-rentLinks:
+watchLinks:
   amazon: none
 ---
 ## TMDB Data

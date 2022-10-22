@@ -10,7 +10,7 @@ description: >-
 layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/fanart/blade-ii-514820db94dc2.webp
-rentLinks:
+watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B002WSAST6?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---

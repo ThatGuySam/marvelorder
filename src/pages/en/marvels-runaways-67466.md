@@ -8,7 +8,7 @@ description: >-
 layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/fanart/marvels-runaways-59f759d7c6d0a.webp
-rentLinks:
+watchLinks:
   amazon: none
 mcuTimelineOrder: 287
 ---

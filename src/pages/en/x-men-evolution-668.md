@@ -8,7 +8,7 @@ layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: >-
   /.netlify/functions/tmdb-image/atNjQM4pFFoXr8EWxpRj59NN3bF.webp?crop.bottom=0.1
-rentLinks:
+watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B006GQP5CU?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---

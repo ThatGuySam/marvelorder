@@ -7,7 +7,7 @@ description: >-
 layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/fanart/marvels-rocket--groot-59b6b3a83145f.webp
-rentLinks:
+watchLinks:
   amazon: none
 ---
 ## TMDB Data

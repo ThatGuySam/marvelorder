@@ -22,8 +22,8 @@
         </div>
 
         <ButtonLink
-            v-if="isValidHttpUrl( mappedListing?.rentLinks?.amazon ) && context !== 'listing-page'"
-            :href="mappedListing.rentLinks.amazon"
+            v-if="isValidHttpUrl( mappedListing?.watchLinks?.amazon ) && context !== 'listing-page'"
+            :href="mappedListing.watchLinks.amazon"
             target="_blank"
             class="amazon-link text-black text-sm font-bold bg-amber-400"
         >

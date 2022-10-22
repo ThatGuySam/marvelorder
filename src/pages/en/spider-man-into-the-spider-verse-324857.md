@@ -7,7 +7,7 @@ description: >-
   from across the Spider-Verse are transported to this dimension.
 layout: ../../layouts/MainLayout.astro
 logo_on_black: /.netlify/functions/fanart/spider-man-into-the-spider-verse-5a59e4c641c88.webp
-rentLinks:
+watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B07L8NHKP4?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 backdrop_path: /x2IqsMlpbOhS8zIUJfyl1yO4gHF.jpg

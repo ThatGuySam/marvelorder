@@ -6,7 +6,7 @@ layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: >-
   /.netlify/functions/tmdb-image/kUTCJhSnH3Dt0KVzcQp8DnbmsjN.webp?crop.bottom=0.75
-rentLinks:
+watchLinks:
   amazon: '''none'''
 ---
 ## TMDB Data

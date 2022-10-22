@@ -6,7 +6,7 @@ description: >-
   bad guys to save a boy's life.
 layout: ../../layouts/MainLayout.astro
 logo_on_black: /.netlify/functions/fanart/deadpool-2-5ace35fc5f5cd.webp
-rentLinks:
+watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B07D5KWFJ7?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---

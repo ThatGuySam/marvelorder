@@ -9,7 +9,7 @@ description: >-
   nearly destroyed his life.
 layout: ../../layouts/MainLayout.astro
 logo_on_black: /.netlify/functions/fanart/deadpool-567c7f079a308.webp
-rentLinks:
+watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B08GSMVJQZ?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---

@@ -9,7 +9,7 @@ layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: >-
   /.netlify/functions/fanart/fantastic-four-worlds-greatest-heroes-5cce5d9274152.png
-rentLinks:
+watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B007PAQ6KG?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---

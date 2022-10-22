@@ -9,7 +9,7 @@ description: >-
 layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/fanart/the-fantastic-four-55310eb4b815f.png
-rentLinks:
+watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B013JPCA1Y?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---

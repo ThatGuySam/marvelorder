@@ -8,7 +8,7 @@ description: >-
 layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/fanart/team-thor-part-2-59a31b9ebd1ec.webp
-rentLinks:
+watchLinks:
   amazon: none
 tags: 
   - has-thor

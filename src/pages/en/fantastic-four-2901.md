@@ -12,7 +12,7 @@ description: >-
 layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/fanart/the-fantastic-four-5ccdbd3222058.png
-rentLinks:
+watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B000KCJQ1C?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---

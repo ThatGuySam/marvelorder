@@ -7,7 +7,7 @@ description: >-
   his personal life.
 layout: ../../layouts/MainLayout.astro
 logo_on_black: /.netlify/functions/fanart/spider-man-1994-5066c5aaac154.webp
-rentLinks:
+watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B006GQL4G6?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---

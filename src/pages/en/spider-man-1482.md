@@ -19,7 +19,7 @@ description: >-
 layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/fanart/spider-man-1967-5ccdc639b8d4b.webp
-rentLinks:
+watchLinks:
   amazon: none
 ---
 ## TMDB Data

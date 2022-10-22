@@ -9,7 +9,7 @@ description: >-
 layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/fanart/wolverine-540569e035577.webp
-rentLinks:
+watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B00DIR8ATA?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---

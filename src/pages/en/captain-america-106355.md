@@ -8,7 +8,7 @@ description: >-
 layout: ../../layouts/MainLayout.astro
 logo_on_black: >-
   /.netlify/functions/tmdb-image/nBRcChS66NohR3x6KVYMp6Obutt.webp?crop.bottom=0.86
-rentLinks:
+watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B001RKTMN8?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---

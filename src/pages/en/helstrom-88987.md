@@ -8,7 +8,7 @@ description: >-
 layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/fanart/marvels-helstrom-5f7ec53e1c83f.webp
-rentLinks:
+watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B07TP6D1DP?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 mcuTimelineOrder: 496

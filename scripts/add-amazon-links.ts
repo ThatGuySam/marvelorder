@@ -56,9 +56,9 @@ async function readMarkdownFileNode ( filePath: string ) {
     for ( const listing of rentableListings.list ) {
         const details:any = listingDetailsMap.get( listing.id )
 
-        // console.log( 'rentLinks', details.listing?.rentLinks )
+        // console.log( 'watchLinks', details.listing?.watchLinks )
         // Skip listings that already have amazon links
-        if ( !!details.listing?.rentLinks?.amazon ) continue
+        if ( !!details.listing?.watchLinks?.amazon ) continue
 
         const searchKeywords = [
             details.listing.title,
@@ -90,7 +90,7 @@ async function readMarkdownFileNode ( filePath: string ) {
         console.log( 'results', response.SearchResult.Items )
         console.log( 'results', response.SearchResult.Items[0].ItemInfo.Title )
 
-        details.listing.rentLinks = {
+        details.listing.watchLinks = {
             amazon: response.SearchResult.Items[0].DetailPageURL,
         }
 

@@ -6,7 +6,7 @@ description: >-
   planned.
 layout: ../../layouts/MainLayout.astro
 logo_on_black: /.netlify/functions/tmdb-image/7p1v2CMnEd0Hb3eFi0iEA6kDAMU.webp
-rentLinks:
+watchLinks:
   amazon: none
 ---
 ## TMDB Data

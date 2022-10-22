@@ -7,7 +7,7 @@ description: >-
   organised under Xavier's former ally, Magneto.
 layout: ../../layouts/MainLayout.astro
 logo_on_black: /.netlify/functions/fanart/x-men-the-last-stand-5cd52c0045576.png
-rentLinks:
+watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B000JFDBXO?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---

@@ -10,7 +10,7 @@ description: >-
 layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/tmdb-image/7UGKZ5c0HSwro6n7GChl8uyaIfy.webp
-rentLinks:
+watchLinks:
   amazon: none
 vote_average: 8
 mcuTimelineOrder: 572

@@ -11,7 +11,7 @@ description: >-
 layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/fanart/team-darryl-5bf82bf981b31.webp
-rentLinks:
+watchLinks:
   amazon: none
 ---
 ## TMDB Data

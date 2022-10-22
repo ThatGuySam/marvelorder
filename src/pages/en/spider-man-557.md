@@ -9,7 +9,7 @@ layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: >-
   /.netlify/functions/tmdb-image/2oei26rOW8jYNcvQ17lAip78S6H.webp?crop.top=0.82&crop.bottom=0.12
-rentLinks:
+watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B000O19EWK?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 mcuTimelineOrder: 506

@@ -7,7 +7,7 @@ description: >-
 layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/tmdb-image/kcOwV5mpp8gxxgrZ4iGsxAcMt9F.webp
-rentLinks:
+watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B001GJ1BBQ?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---

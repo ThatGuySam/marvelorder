@@ -7,7 +7,7 @@ description: >-
 layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/fanart/marvels-the-defenders-594bfae9075c1.webp
-rentLinks:
+watchLinks:
   amazon: none
 mcuTimelineOrder: 232
 ---

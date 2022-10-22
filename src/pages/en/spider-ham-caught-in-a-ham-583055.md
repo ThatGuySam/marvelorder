@@ -7,7 +7,7 @@ description: >-
 layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/fanart/spider-ham-caught-in-a-ham-629a4827462ac.webp
-rentLinks:
+watchLinks:
   amazon: none
 ---
 ## TMDB Data

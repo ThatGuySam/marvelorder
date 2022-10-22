@@ -11,7 +11,7 @@ layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: >-
   /.netlify/functions/tmdb-image/lUsDBhzogxYOU5XshARgnnZY4Xd.webp?crop.bottom=0.81
-rentLinks:
+watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B00BCMT49I?tag=marvelorder-20&linkCode=osi&th=1&psc=1
 ---
