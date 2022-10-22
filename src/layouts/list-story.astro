@@ -2,6 +2,7 @@
 // Amp Validator - https://validator.ampproject.org/
 // Amp Test Tool - https://search.google.com/test/amp
 import esbuild from 'esbuild'
+import splitArray from 'just-split'
 
 import tailwindStyles from '@astrojs/tailwind/base.css?inline'
 import indexStyles from '~/src/styles/index.css?inline'
@@ -55,6 +56,16 @@ if ( storyListings.length === 0 ) {
     const listings = await getListingsFromFilterSlug( storySlug )
     storyListings.push( ...listings )
 }
+
+const watchOrder = storyListings.map( ( listing, index ) => {
+    return {
+        order: index + 1,
+        listing
+    }
+} )
+
+const watchOrderPages = splitArray( watchOrder, 5 )
+
 
 // console.log( 'storyTaggedListings', storyTaggedListings )
 
@@ -207,6 +218,69 @@ if ( storyListings.length === 0 ) {
                         <small>{ listing.year }</small>
                         <MainHeading>{ listing.title }</MainHeading>
                         <p class="text-sm">{ listing.description }</p>
+                    </amp-story-grid-layer>
+                </StoryPage>
+            ))}
+
+            { watchOrderPages.map( ( pageListings, index ) => (
+                <StoryPage
+                    id={ `story-watch-order-page-${ index }` }
+                    backgroundSrc={ videoPosterUrl }
+                    backgroundPoster={ videoPosterUrl }
+                    mediaAriaLabel={ content.coverAriaLabel }
+                    backgroundClass="opacity-5"
+                >
+                    <amp-story-grid-layer
+                        template="vertical"
+                        class="content-start"
+                    >
+                        <MainHeading>Watch Order</MainHeading>
+
+                        <div>
+
+                            <div class="mt-6 flow-root">
+                            <ul role="list" class="-my-5 divide-y divide-gray-200">
+                                { pageListings.map( ({ order, listing }) => (
+                                    <li class="py-2">
+                                        <div class="flex items-center justify-between gap-4">
+                                            <div class="flex-shrink-0 flex gap-4">
+                                                <div class="h-8 w-8 flex justify-center items-center font-black rounded-full backdrop-blur border border-solid border-white">{ order }</div>
+                                                <amp-img
+                                                    src={ listing.logo_on_black }
+                                                    width="1.5"
+                                                    height="1"
+                                                    layout="responsive"
+                                                    class="h-16 w-16 [&>*]:object-contain"
+                                                >
+                                                </amp-img>
+                                            </div>
+                                            <div class="">
+                                                <!-- <div class="min-w-0 flex-1">
+                                                    <p class="truncate text-xs font-medium">{ listing.title }</p>
+                                                    <p class="truncate text-xs ">{ listing.year }</p>
+                                                </div> -->
+                                                { listing.defaultWatchLink && (
+                                                    <a
+                                                        href={ listing.defaultWatchLink.href }
+                                                        class="inline-flex items-center rounded-full border border-gray-300 bg-amber-400 px-2.5 py-0.5 text-xs font-medium leading-5 text-gray-700 shadow-sm hover:bg-gray-50"
+                                                    >
+                                                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                                                            <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8v4a1 1 0 001.555.832l3-2a1 1 0 000-1.664l-3-2z" clip-rule="evenodd" />
+                                                        </svg>
+                                                        Watch on Prime
+                                                    </a>
+                                                ) }
+                                            </div>
+                                        </div>
+                                    </li>
+                                )) }
+
+
+
+                            </ul>
+                            </div>
+
+                        </div>
                     </amp-story-grid-layer>
                 </StoryPage>
             ))}
