@@ -207,14 +207,16 @@ const watchOrderPages = splitArray( watchOrder, 5 )
                     backgroundSrc={ listing.backdrop() }
                 >
                     <amp-story-grid-layer template="vertical">
-                        <amp-img
-                            src={ listing.logo_on_black }
-                            width="1.5"
-                            height="1"
-                            layout="responsive"
-                            class="[&>*]:object-contain"
-                        >
-                        </amp-img>
+                        { listing.hasLogo && (
+                            <amp-img
+                                src={ listing.logo_on_black }
+                                width="1.5"
+                                height="1"
+                                layout="responsive"
+                                class="[&>*]:object-contain"
+                            >
+                            </amp-img>
+                        )}
                         <small>{ listing.year }</small>
                         <MainHeading>{ listing.title }</MainHeading>
                         <p class="text-sm">{ listing.description }</p>
@@ -249,14 +251,16 @@ const watchOrderPages = splitArray( watchOrder, 5 )
                                                     href={ listing.endpoint }
                                                     title={ listing.title }
                                                 >
-                                                    <amp-img
-                                                        src={ listing.logo_on_black }
-                                                        width="1.5"
-                                                        height="1"
-                                                        layout="responsive"
-                                                        class="h-16 w-16 [&>*]:object-contain"
-                                                    >
-                                                    </amp-img>
+                                                    { listing.hasLogo ? (
+                                                        <amp-img
+                                                            src={ listing.logo_on_black }
+                                                            width="1.5"
+                                                            height="1"
+                                                            layout="responsive"
+                                                            class="h-16 w-16 [&>*]:object-contain"
+                                                        >
+                                                        </amp-img>
+                                                    ) : (<div>{ listing.title }</div>) }
                                                 </a>
                                             </div>
                                             <div class="">
