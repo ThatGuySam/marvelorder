@@ -14,6 +14,7 @@ import {
     makeTmdbImageUrl,
     getDateString,
     hasDate,
+    hasLogo,
     getSeasonReleaseDate,
     getIsoDate
 // @ts-ignore
@@ -140,6 +141,10 @@ export class MappedListing {
         }
 
         return `${ this.date.monthLong } ${ this.date.year }`
+    }
+
+    get hasLogo () {
+        return hasLogo( this.sourceListing )
     }
 
     get endpoint () {
