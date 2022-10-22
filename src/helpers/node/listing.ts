@@ -6,6 +6,8 @@ import slugify from 'slugify'
 import * as CONFIG from '~/src/config.ts'
 // @ts-ignore
 import { Listing } from '~/src/helpers/types.ts'
+// @ts-ignore
+import { isValidHttpUrl } from '~/src/helpers/check.ts'
 import {
     makeListingEndpoint,
     listingMergeConfig,
@@ -16,6 +18,7 @@ import {
     getIsoDate
 // @ts-ignore
 } from '~/src/helpers/listing.ts'
+
 
 
 export function makeSlug ( name:string ) {
@@ -170,5 +173,27 @@ export class MappedListing {
 
         return this.sourceListing.tags.includes( tagName )
     }
+
+    get defaultWatchLinkKey () {
+        if ( isValidHttpUrl( this.sourceListing?.watchLinks?.amazon ) ) {
+            return 'amazon'
+        }
+
+        return ''
+    }
+
+    get defaultWatchLink () {
+
+        if ( this.defaultWatchLinkKey.length === 0 ) {
+            return null
+        }
+
+        return {
+            key: this.defaultWatchLinkKey,
+            href: this.sourceListing.watchLinks[this.defaultWatchLinkKey]
+        }
+    }
+
+
 
 }
