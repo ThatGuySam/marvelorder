@@ -233,32 +233,6 @@
 		]
 	},
 	{
-		"backdrop_path": null,
-		"first_air_date": "",
-		"genre_ids": [
-			16,
-			10759,
-			10762,
-			10765
-		],
-		"id": 212804,
-		"name": "Guardiões das Galáxias Curtas",
-		"origin_country": [
-			"BR"
-		],
-		"original_language": "pt",
-		"original_name": "Guardiões das Galáxias Curtas",
-		"overview": "",
-		"poster_path": null,
-		"vote_average": 0,
-		"title": "Guardiões das Galáxias Curtas",
-		"slug": "guardioes-das-galaxias-curtas",
-		"tags": [
-			"tv",
-			"company-420"
-		]
-	},
-	{
 		"adult": false,
 		"backdrop_path": "/rpLOGbf71APcL6rJRaGpAOLUDfE.jpg",
 		"genre_ids": [
@@ -744,7 +718,7 @@
 		"original_language": "en",
 		"original_title": "Black Panther: Wakanda Forever",
 		"overview": "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death. As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
-		"poster_path": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
+		"poster_path": "/ps2oKfhY6DL3alynlSqY97gHSsg.jpg",
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
@@ -814,7 +788,7 @@
 		"release_date": "2022-09-25",
 		"title": "Werewolf by Night",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.2,
 		"slug": "werewolf-by-night",
 		"tags": [
 			"movie",
