@@ -322,6 +322,24 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [],
+		"id": 969681,
+		"original_language": "en",
+		"original_title": "Untitled Spider-Man 4 Movie",
+		"overview": "",
+		"poster_path": null,
+		"title": "Untitled Spider-Man 4 Movie",
+		"video": false,
+		"vote_average": 0,
+		"slug": "untitled-spider-man-4-movie",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/h7BU4fdLjF8ly8NF8mJ4hAQOLKU.jpg",
 		"genre_ids": [
 			878
@@ -336,6 +354,50 @@
 		"video": false,
 		"vote_average": 0,
 		"slug": "armor-wars",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			878,
+			10770
+		],
+		"id": 1038729,
+		"original_language": "en",
+		"original_title": "Untitled Silver Surfer Special",
+		"overview": "A Marvel Studios Special Presentation adapting Marvel Comics superhero the Silver Surfer.",
+		"poster_path": null,
+		"release_date": "",
+		"title": "Untitled Silver Surfer Special",
+		"video": false,
+		"vote_average": 0,
+		"slug": "untitled-silver-surfer-special",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			10770,
+			878
+		],
+		"id": 1038757,
+		"original_language": "en",
+		"original_title": "Untitled Nova Special",
+		"overview": "A Marvel Studios Special Presentation adapting the Marvel Comics superhero Nova.",
+		"poster_path": null,
+		"release_date": "",
+		"title": "Untitled Nova Special",
+		"video": false,
+		"vote_average": 0,
+		"slug": "untitled-nova-special",
 		"tags": [
 			"movie",
 			"company-420"
@@ -475,25 +537,6 @@
 		"video": false,
 		"vote_average": 0,
 		"slug": "thunderbolts",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [],
-		"id": 969681,
-		"original_language": "en",
-		"original_title": "Untitled Spider-Man 4 Movie",
-		"overview": "",
-		"poster_path": null,
-		"release_date": "2024-07-12",
-		"title": "Untitled Spider-Man 4 Movie",
-		"video": false,
-		"vote_average": 0,
-		"slug": "untitled-spider-man-4-movie",
 		"tags": [
 			"movie",
 			"company-420"
@@ -929,7 +972,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot Takes a Bath",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7,
 		"slug": "groot-takes-a-bath",
 		"tags": [
 			"movie",
