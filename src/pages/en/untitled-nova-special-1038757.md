@@ -30,8 +30,8 @@ tags:
     "adult": false,
     "backdrop_path": null,
     "genre_ids": [
-        10770,
-        878
+        878,
+        10770
     ],
     "id": 1038757,
     "original_language": "en",
