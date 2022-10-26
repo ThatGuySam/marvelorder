@@ -17,15 +17,16 @@ logo_on_black: /.netlify/functions/tmdb-image/A7NLWwvgzlbg8RBJKPHlEszdD74.webp
     "adult": false,
     "backdrop_path": "/rpLOGbf71APcL6rJRaGpAOLUDfE.jpg",
     "genre_ids": [
-        28,
-        12,
-        878
+        878,
+        35,
+        12
     ],
     "id": 774752,
     "original_language": "en",
     "original_title": "The Guardians of the Galaxy Holiday Special",
-    "overview": "Before Star-Lord, Gamora, Drax, Rocket, Mantis, and Groot hit the big screen with Guardians of the Galaxy Vol. 3 in 2023, watch the Guardians engage in some spirited shenanigans in an all-new original special, created for Disney+, during the 2022 holiday season.",
-    "poster_path": "/A7NLWwvgzlbg8RBJKPHlEszdD74.jpg",
+    "overview": "The Guardians, who are on a mission to make Christmas unforgettable for Quill, head to Earth in search of the perfect present.",
+    "poster_path": "/2WobezRXUdZbPwW36WLF1320BOn.jpg",
+    "release_date": "2022-11-25",
     "title": "The Guardians of the Galaxy Holiday Special",
     "video": false,
     "vote_average": 0,

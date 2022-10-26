@@ -234,28 +234,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/rpLOGbf71APcL6rJRaGpAOLUDfE.jpg",
-		"genre_ids": [
-			28,
-			12,
-			878
-		],
-		"id": 774752,
-		"original_language": "en",
-		"original_title": "The Guardians of the Galaxy Holiday Special",
-		"overview": "Before Star-Lord, Gamora, Drax, Rocket, Mantis, and Groot hit the big screen with Guardians of the Galaxy Vol. 3 in 2023, watch the Guardians engage in some spirited shenanigans in an all-new original special, created for Disney+, during the 2022 holiday season.",
-		"poster_path": "/A7NLWwvgzlbg8RBJKPHlEszdD74.jpg",
-		"title": "The Guardians of the Galaxy Holiday Special",
-		"video": false,
-		"vote_average": 0,
-		"slug": "the-guardians-of-the-galaxy-holiday-special",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": null,
 		"genre_ids": [
 			878,
@@ -728,7 +706,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/dbuR6XuVubN5ZmRUiOycZi2457l.jpg",
+		"backdrop_path": "/p9jmVtmm29dCHDHBFrOR6WNNaeO.jpg",
 		"genre_ids": [
 			12,
 			878,
@@ -738,12 +716,35 @@
 		"original_language": "en",
 		"original_title": "Ant-Man and the Wasp: Quantumania",
 		"overview": "Superhero duo Scott Lang and Hope Van Dyne, together with Hope’s parents Hank Pym and Janet Van Dyne, find themselves exploring the Quantum Realm, interacting with strange new creatures, and embarking on an adventure that will push them beyond the limits of what they thought was possible.",
-		"poster_path": "/2uxNnsL4tCK2c4d9FuiCoea4ku7.jpg",
+		"poster_path": "/fa9TNxYyDdRcFAPJ6rvKf3ZrVtB.jpg",
 		"release_date": "2023-02-15",
 		"title": "Ant-Man and the Wasp: Quantumania",
 		"video": false,
 		"vote_average": 0,
 		"slug": "ant-man-and-the-wasp-quantumania",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/rpLOGbf71APcL6rJRaGpAOLUDfE.jpg",
+		"genre_ids": [
+			878,
+			35,
+			12
+		],
+		"id": 774752,
+		"original_language": "en",
+		"original_title": "The Guardians of the Galaxy Holiday Special",
+		"overview": "The Guardians, who are on a mission to make Christmas unforgettable for Quill, head to Earth in search of the perfect present.",
+		"poster_path": "/2WobezRXUdZbPwW36WLF1320BOn.jpg",
+		"release_date": "2022-11-25",
+		"title": "The Guardians of the Galaxy Holiday Special",
+		"video": false,
+		"vote_average": 0,
+		"slug": "the-guardians-of-the-galaxy-holiday-special",
 		"tags": [
 			"movie",
 			"company-420"
@@ -2913,8 +2914,8 @@
 		"original_language": "en",
 		"original_name": "Marvel's Agent Carter",
 		"overview": "It's 1946, and peace has dealt Peggy Carter a serious blow as she finds herself marginalized when the men return home from fighting abroad. Working for the covert SSR (Strategic Scientific Reserve), Peggy must balance doing administrative work and going on secret missions for Howard Stark all while trying to navigate life as a single woman in America, in the wake of losing the love of her life - Steve Rogers.",
-		"poster_path": "/8Y30TnBtGT4C7RI3nruPaIGGSkZ.jpg",
-		"vote_average": 7.6,
+		"poster_path": "/7kqIsjjDMZA5GRMH5VCdQYZJqc6.jpg",
+		"vote_average": 7.5,
 		"title": "Marvel's Agent Carter",
 		"slug": "marvels-agent-carter",
 		"tags": [
