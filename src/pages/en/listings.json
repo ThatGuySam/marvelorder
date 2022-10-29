@@ -202,7 +202,7 @@
 		],
 		"original_language": "en",
 		"original_name": "Wonder Man",
-		"overview": "Follows Simon Williams, also known as Marvel’s Wonder Man. Described as a Hollywood satire.",
+		"overview": "Follows Simon Williams, also known in Marvel Comics as Wonder Man. Described as a Hollywood satire.",
 		"poster_path": null,
 		"vote_average": 0,
 		"title": "Wonder Man",
@@ -227,6 +227,27 @@
 		"vote_average": 0,
 		"title": "Daredevil: Born Again",
 		"slug": "daredevil-born-again",
+		"tags": [
+			"tv",
+			"company-420"
+		]
+	},
+	{
+		"backdrop_path": null,
+		"first_air_date": "",
+		"genre_ids": [],
+		"id": 213375,
+		"name": "Vision Quest",
+		"origin_country": [
+			"US"
+		],
+		"original_language": "en",
+		"original_name": "Vision Quest",
+		"overview": "After the events of \"WandaVision\", the Vision tries to regain his identity.",
+		"poster_path": null,
+		"vote_average": 0,
+		"title": "Vision Quest",
+		"slug": "vision-quest",
 		"tags": [
 			"tv",
 			"company-420"
@@ -762,7 +783,7 @@
 		"original_language": "en",
 		"original_title": "Black Panther: Wakanda Forever",
 		"overview": "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death. As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
-		"poster_path": "/ps2oKfhY6DL3alynlSqY97gHSsg.jpg",
+		"poster_path": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
@@ -901,7 +922,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot's First Steps",
 		"video": false,
-		"vote_average": 7.4,
+		"vote_average": 7.3,
 		"slug": "groots-first-steps",
 		"tags": [
 			"movie",
@@ -2809,7 +2830,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/7rRnZrZr1QPlJ6BcrrVMVGoy55X.jpg",
+		"backdrop_path": "/2PrYnQR8YPei5vCVRwJXnwMqMyR.jpg",
 		"first_air_date": "2015-04-10",
 		"genre_ids": [
 			80,

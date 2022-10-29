@@ -25,7 +25,7 @@ Other titles
     ],
     "original_language": "en",
     "original_name": "Wonder Man",
-    "overview": "Follows Simon Williams, also known as Marvel’s Wonder Man. Described as a Hollywood satire.",
+    "overview": "Follows Simon Williams, also known in Marvel Comics as Wonder Man. Described as a Hollywood satire.",
     "poster_path": null,
     "vote_average": 0,
     "title": "Wonder Man",
