@@ -15,7 +15,7 @@ logo_on_black: /.netlify/functions/tmdb-image/A7NLWwvgzlbg8RBJKPHlEszdD74.webp
 ```json
 {
     "adult": false,
-    "backdrop_path": "/rpLOGbf71APcL6rJRaGpAOLUDfE.jpg",
+    "backdrop_path": "/rGbRnRvkmrSub07ty89Vnlsh6UX.jpg",
     "genre_ids": [
         878,
         35,
@@ -25,7 +25,7 @@ logo_on_black: /.netlify/functions/tmdb-image/A7NLWwvgzlbg8RBJKPHlEszdD74.webp
     "original_language": "en",
     "original_title": "The Guardians of the Galaxy Holiday Special",
     "overview": "The Guardians, who are on a mission to make Christmas unforgettable for Quill, head to Earth in search of the perfect present.",
-    "poster_path": "/2WobezRXUdZbPwW36WLF1320BOn.jpg",
+    "poster_path": "/yHJn0101wUGTqAhjly0flBrDBrl.jpg",
     "release_date": "2022-11-25",
     "title": "The Guardians of the Galaxy Holiday Special",
     "video": false,
