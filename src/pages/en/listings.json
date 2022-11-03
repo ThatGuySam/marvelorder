@@ -98,9 +98,9 @@
 	{
 		"backdrop_path": "/wPnapuJNdWe27IAE5z2Hieo4Yh.jpg",
 		"genre_ids": [
-			35,
+			10765,
 			10759,
-			10765
+			35
 		],
 		"id": 138501,
 		"name": "Agatha: Coven of Chaos",
@@ -1173,7 +1173,7 @@
 		"release_date": "2022-05-04",
 		"title": "Doctor Strange in the Multiverse of Madness",
 		"video": false,
-		"vote_average": 7.5,
+		"vote_average": 7.4,
 		"slug": "doctor-strange-in-the-multiverse-of-madness",
 		"tags": [
 			"movie",
@@ -4188,7 +4188,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/cyecB7godJ6kNHGONFjUyVN9OX5.jpg",
+		"backdrop_path": "/s6cQgJSkviamXAXBggT2xmj7JiG.jpg",
 		"genre_ids": [
 			28,
 			878,
@@ -5036,7 +5036,7 @@
 		"release_date": "1994-01-01",
 		"title": "The Fantastic Four",
 		"video": false,
-		"vote_average": 4.5,
+		"vote_average": 4.6,
 		"slug": "the-fantastic-four",
 		"tags": [
 			"list-8204862"

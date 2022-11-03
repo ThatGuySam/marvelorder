@@ -17,9 +17,9 @@ Previous titles:
 {
     "backdrop_path": "/wPnapuJNdWe27IAE5z2Hieo4Yh.jpg",
     "genre_ids": [
-        35,
+        10765,
         10759,
-        10765
+        35
     ],
     "id": 138501,
     "name": "Agatha: Coven of Chaos",
