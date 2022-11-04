@@ -33,7 +33,7 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": null,
+    "backdrop_path": "/mnJtSmQ52TF3vvtCAKH8EtQTaxt.jpg",
     "genre_ids": [
         99
     ],
@@ -41,7 +41,7 @@ tags:
     "original_language": "en",
     "original_title": "Marvel Studios Assembled: The Making of She-Hulk: Attorney at Law",
     "overview": "Join the likes of Tatiana Maslany, Mark Ruffalo, Tim Roth, and Benedict Wong as they reveal how Marvel Studios’ She-Hulk: Attorney at Law was conceived and shaped. Discover what it took for She-Hulk’s creators to pull off the show’s tricky tone and deliver Marvel Studios’ first truly comedic series – one that boldly breaks the fourth wall to acknowledge its own audience, no less!",
-    "poster_path": null,
+    "poster_path": "/yhFN7yvskzm1Tsknkg46eQbQr9w.jpg",
     "release_date": "2022-11-03",
     "title": "Marvel Studios Assembled: The Making of She-Hulk: Attorney at Law",
     "video": false,

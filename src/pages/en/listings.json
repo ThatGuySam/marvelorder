@@ -787,7 +787,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 0,
+		"vote_average": 9.5,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -817,7 +817,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
+		"backdrop_path": "/mnJtSmQ52TF3vvtCAKH8EtQTaxt.jpg",
 		"genre_ids": [
 			99
 		],
@@ -825,7 +825,7 @@
 		"original_language": "en",
 		"original_title": "Marvel Studios Assembled: The Making of She-Hulk: Attorney at Law",
 		"overview": "Join the likes of Tatiana Maslany, Mark Ruffalo, Tim Roth, and Benedict Wong as they reveal how Marvel Studios’ She-Hulk: Attorney at Law was conceived and shaped. Discover what it took for She-Hulk’s creators to pull off the show’s tricky tone and deliver Marvel Studios’ first truly comedic series – one that boldly breaks the fourth wall to acknowledge its own audience, no less!",
-		"poster_path": null,
+		"poster_path": "/yhFN7yvskzm1Tsknkg46eQbQr9w.jpg",
 		"release_date": "2022-11-03",
 		"title": "Marvel Studios Assembled: The Making of She-Hulk: Attorney at Law",
 		"video": false,
@@ -946,7 +946,7 @@
 		"release_date": "2022-08-10",
 		"title": "The Little Guy",
 		"video": false,
-		"vote_average": 7.6,
+		"vote_average": 7.5,
 		"slug": "the-little-guy",
 		"tags": [
 			"movie",
@@ -970,7 +970,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot's Pursuit",
 		"video": false,
-		"vote_average": 7.4,
+		"vote_average": 7.3,
 		"slug": "groots-pursuit",
 		"tags": [
 			"movie",
@@ -3762,7 +3762,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/7kURId6slyHNujYpCFm0Z1M3kRt.jpg",
+		"backdrop_path": "/bMiOfPhplZu1Lql3hGTRV087QA.jpg",
 		"genre_ids": [
 			28,
 			878,
@@ -4437,7 +4437,7 @@
 		"original_language": "en",
 		"original_title": "X-Men: The Last Stand",
 		"overview": "When a cure is found to treat mutations, lines are drawn amongst the X-Men—led by Professor Charles Xavier—and the Brotherhood, a band of powerful mutants organised under Xavier's former ally, Magneto.",
-		"poster_path": "/sNSvwqiNXjEvDSeQFsJAGPEP7Gl.jpg",
+		"poster_path": "/7RSSkRpwvkNN5iKO8zACtBA0KhQ.jpg",
 		"release_date": "2006-05-24",
 		"title": "X-Men: The Last Stand",
 		"video": false,
