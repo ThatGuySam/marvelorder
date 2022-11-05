@@ -23,7 +23,7 @@ type: movie
     "release_date": "2014-01-14",
     "title": "Wolverine Versus Sabretooth",
     "video": false,
-    "vote_average": 7.7,
+    "vote_average": 7,
     "slug": "wolverine-versus-sabretooth",
     "tags": [
         "movie",

@@ -26,7 +26,7 @@ watchLinks:
     "original_language": "en",
     "original_title": "The Wolverine",
     "overview": "Wolverine faces his ultimate nemesis - and tests of his physical, emotional, and mortal limits - in a life-changing voyage to modern-day Japan.",
-    "poster_path": "/t2wVAcoRlKvEIVSbiYDb8d0QqqS.jpg",
+    "poster_path": "/9BRz8pI41iAVMRzeItvHnZNMlk2.jpg",
     "release_date": "2013-07-23",
     "title": "The Wolverine",
     "video": false,

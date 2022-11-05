@@ -787,7 +787,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 9.5,
+		"vote_average": 8.1,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -796,7 +796,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
+		"backdrop_path": "/h9c3x865rvfYHGAa5U6Sr5uyLZ6.jpg",
 		"genre_ids": [
 			99
 		],
@@ -804,7 +804,7 @@
 		"original_language": "en",
 		"original_title": "Director by Night",
 		"overview": "Acclaimed composer Michael Giacchino made his directorial debut with Marvel Studios' Special Presentation \"Werewolf by Night.\" This behind-the-scenes special explores Giacchino's vision, style and approach to bringing the chilling story to life, as well as offering an insider's look at the between-the-scenes making of \"Werewolf by Night.\"",
-		"poster_path": null,
+		"poster_path": "/3LbfLOMJ0MTXghP1JrUrZ1s7A0o.jpg",
 		"release_date": "2022-11-04",
 		"title": "Director by Night",
 		"video": false,
@@ -829,7 +829,7 @@
 		"release_date": "2022-11-03",
 		"title": "Marvel Studios Assembled: The Making of She-Hulk: Attorney at Law",
 		"video": false,
-		"vote_average": 0,
+		"vote_average": 4.8,
 		"slug": "marvel-studios-assembled-the-making-of-she-hulk-attorney-at-law",
 		"tags": [
 			"movie",
@@ -853,7 +853,7 @@
 		"release_date": "2022-09-25",
 		"title": "Werewolf by Night",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 7.1,
 		"slug": "werewolf-by-night",
 		"tags": [
 			"movie",
@@ -994,7 +994,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot Takes a Bath",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7,
 		"slug": "groot-takes-a-bath",
 		"tags": [
 			"movie",
@@ -1173,7 +1173,7 @@
 		"release_date": "2022-05-04",
 		"title": "Doctor Strange in the Multiverse of Madness",
 		"video": false,
-		"vote_average": 7.4,
+		"vote_average": 7.5,
 		"slug": "doctor-strange-in-the-multiverse-of-madness",
 		"tags": [
 			"movie",
@@ -3230,7 +3230,7 @@
 		"release_date": "2014-01-14",
 		"title": "Wolverine Versus Sabretooth",
 		"video": false,
-		"vote_average": 7.7,
+		"vote_average": 7,
 		"slug": "wolverine-versus-sabretooth",
 		"tags": [
 			"movie",
@@ -3339,7 +3339,7 @@
 		"release_date": "2013-09-09",
 		"title": "Ultimate Wolverine vs. Hulk",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 7.1,
 		"slug": "ultimate-wolverine-vs-hulk",
 		"tags": [
 			"movie",
@@ -3384,7 +3384,7 @@
 		"original_language": "en",
 		"original_title": "The Wolverine",
 		"overview": "Wolverine faces his ultimate nemesis - and tests of his physical, emotional, and mortal limits - in a life-changing voyage to modern-day Japan.",
-		"poster_path": "/t2wVAcoRlKvEIVSbiYDb8d0QqqS.jpg",
+		"poster_path": "/9BRz8pI41iAVMRzeItvHnZNMlk2.jpg",
 		"release_date": "2013-07-23",
 		"title": "The Wolverine",
 		"video": false,
