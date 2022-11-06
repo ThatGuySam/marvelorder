@@ -777,7 +777,9 @@
 		"genre_ids": [
 			28,
 			12,
-			878
+			878,
+			14,
+			53
 		],
 		"id": 505642,
 		"original_language": "en",
@@ -787,7 +789,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 8.1,
+		"vote_average": 8.5,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -829,7 +831,7 @@
 		"release_date": "2022-11-03",
 		"title": "Marvel Studios Assembled: The Making of She-Hulk: Attorney at Law",
 		"video": false,
-		"vote_average": 4.8,
+		"vote_average": 5.5,
 		"slug": "marvel-studios-assembled-the-making-of-she-hulk-attorney-at-law",
 		"tags": [
 			"movie",
@@ -1173,7 +1175,7 @@
 		"release_date": "2022-05-04",
 		"title": "Doctor Strange in the Multiverse of Madness",
 		"video": false,
-		"vote_average": 7.5,
+		"vote_average": 7.4,
 		"slug": "doctor-strange-in-the-multiverse-of-madness",
 		"tags": [
 			"movie",
