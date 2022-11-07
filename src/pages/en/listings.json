@@ -789,7 +789,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 8.5,
+		"vote_average": 8.8,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -810,7 +810,7 @@
 		"release_date": "2022-11-04",
 		"title": "Director by Night",
 		"video": false,
-		"vote_average": 0,
+		"vote_average": 5,
 		"slug": "director-by-night",
 		"tags": [
 			"movie",
@@ -831,7 +831,7 @@
 		"release_date": "2022-11-03",
 		"title": "Marvel Studios Assembled: The Making of She-Hulk: Attorney at Law",
 		"video": false,
-		"vote_average": 5.5,
+		"vote_average": 5.4,
 		"slug": "marvel-studios-assembled-the-making-of-she-hulk-attorney-at-law",
 		"tags": [
 			"movie",
@@ -5436,18 +5436,18 @@
 			10765
 		],
 		"id": 2640,
-		"name": "Spider-Man",
+		"name": "Spiderman",
 		"origin_country": [
-			"US",
-			"JP"
+			"JP",
+			"US"
 		],
 		"original_language": "ja",
 		"original_name": "スパイダーマン",
 		"overview": "Young motorcycle racer Takuya Yamashiro sees a UFO falling to earth, in fact a space warship named the Marveller. Takuya follows his scientist father to the Marveller and discovers Garia, the last surviving warrior of Planet Spider. Garia injects Takuya with some of his own blood, giving Takuya spider-like powers. Using his powers, Takuya fights Professor Monster's army and other threats to Earth under the name Spiderman.",
 		"poster_path": "/g4HNifqEWTbrnNdT83038jKh7BM.jpg",
 		"vote_average": 7.2,
-		"title": "Spider-Man",
-		"slug": "spider-man",
+		"title": "Spiderman",
+		"slug": "spiderman",
 		"tags": [
 			"tv",
 			"company-7505",

@@ -45,7 +45,7 @@ tags:
     "release_date": "2022-11-04",
     "title": "Director by Night",
     "video": false,
-    "vote_average": 0,
+    "vote_average": 5,
     "slug": "director-by-night",
     "tags": [
         "movie",
