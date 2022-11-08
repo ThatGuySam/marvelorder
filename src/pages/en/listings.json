@@ -773,13 +773,11 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/yYrvN5WFeGYjJnRzhY0QXuo4Isw.jpg",
+		"backdrop_path": "/vfTAHaOwyAX6jH4RdyDIaKhga8P.jpg",
 		"genre_ids": [
 			28,
 			12,
-			878,
-			14,
-			53
+			878
 		],
 		"id": 505642,
 		"original_language": "en",
@@ -789,7 +787,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 8.8,
+		"vote_average": 8.5,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -810,7 +808,7 @@
 		"release_date": "2022-11-04",
 		"title": "Director by Night",
 		"video": false,
-		"vote_average": 5,
+		"vote_average": 4,
 		"slug": "director-by-night",
 		"tags": [
 			"movie",
