@@ -74,7 +74,6 @@ This is the *most* official list for the Marvel Chronologically, aka by the time
 ## Upcoming
 <!-- start-upcoming-list -->
 
-- November 9, 2022 - [Black Panther: Wakanda Forever](https://marvelorder.com/en/black-panther-wakanda-forever-505642) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/black-panther-wakanda-forever-505642.md)
 - December 1, 2022 - [The Guardians of the Galaxy Holiday Special](https://marvelorder.com/en/the-guardians-of-the-galaxy-holiday-special-774752) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/the-guardians-of-the-galaxy-holiday-special-774752.md)
 - February 15, 2023 - [Ant-Man and the Wasp: Quantumania](https://marvelorder.com/en/ant-man-and-the-wasp-quantumania-640146) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/ant-man-and-the-wasp-quantumania-640146.md)
 - April 1, 2023 - [Secret Invasion](https://marvelorder.com/en/secret-invasion-114472) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/secret-invasion-114472.md)
