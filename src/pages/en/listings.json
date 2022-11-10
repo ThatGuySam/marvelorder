@@ -773,7 +773,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/uu4On1xXiiDGeYwHSbp7BSQBTGv.jpg",
+		"backdrop_path": "/yYrvN5WFeGYjJnRzhY0QXuo4Isw.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -787,7 +787,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 8.1,
+		"vote_average": 8.4,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -882,7 +882,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/9GvhICFMiRQA82vS6ydkXxeEkrd.jpg",
+		"backdrop_path": "/eljErfkQUcFUgQkI4I1soZcH8MW.jpg",
 		"first_air_date": "2022-08-18",
 		"genre_ids": [
 			35,
@@ -4864,7 +4864,7 @@
 		"release_date": "1998-05-26",
 		"title": "Nick Fury: Agent of S.H.I.E.L.D.",
 		"video": false,
-		"vote_average": 4.6,
+		"vote_average": 4.7,
 		"slug": "nick-fury-agent-of-shield",
 		"tags": [
 			"movie",
