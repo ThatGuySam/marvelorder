@@ -10,7 +10,7 @@ logo_on_black: /.netlify/functions/tmdb-image/6N6Rr1Y5wsi2KbTP4hFAP3hnWQE.webp
 ```json
 {
     "adult": false,
-    "backdrop_path": "/yYrvN5WFeGYjJnRzhY0QXuo4Isw.jpg",
+    "backdrop_path": "/8sMmAmN2x7mBiNKEX2o0aOTozEB.jpg",
     "genre_ids": [
         28,
         12,
@@ -24,7 +24,7 @@ logo_on_black: /.netlify/functions/tmdb-image/6N6Rr1Y5wsi2KbTP4hFAP3hnWQE.webp
     "release_date": "2022-11-09",
     "title": "Black Panther: Wakanda Forever",
     "video": false,
-    "vote_average": 8.4,
+    "vote_average": 8,
     "slug": "black-panther-wakanda-forever",
     "tags": [
         "movie",
