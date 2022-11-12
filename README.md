@@ -168,5 +168,6 @@ Viewing Order data provided thanks to [r/MarvelStudios MCU Viewing Order Sheet](
 - <kbd>56</kbd> - [Ms. Marvel](https://marvelorder.com/en/ms-marvel-92782) - 🏰 Disney+ - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/ms-marvel-92782.md)
 - <kbd>57</kbd> - [Thor: Love and Thunder](https://marvelorder.com/en/thor-love-and-thunder-616037) - 🎬 Marvel Studios - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/thor-love-and-thunder-616037.md)
 - <kbd>58</kbd> - [Werewolf By Night](https://marvelorder.com/en/werewolf-by-night-894205) - 🏰 Disney+ - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/werewolf-by-night-894205.md)
+- <kbd>59</kbd> - [Black Panther: Wakanda Forever](https://marvelorder.com/en/black-panther-wakanda-forever-505642) - 🎬 Marvel Studios - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/black-panther-wakanda-forever-505642.md)
 
 <!-- end-viewing-order-list -->

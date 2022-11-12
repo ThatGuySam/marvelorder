@@ -26,7 +26,7 @@ mcuTimelineOrder: 548
     "original_language": "en",
     "original_title": "Doctor Strange in the Multiverse of Madness",
     "overview": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
-    "poster_path": "/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+    "poster_path": "/fwBl3J2aEXru6mrr9Xg8O99Iz2K.jpg",
     "release_date": "2022-05-04",
     "title": "Doctor Strange in the Multiverse of Madness",
     "video": false,
