@@ -773,7 +773,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/8sMmAmN2x7mBiNKEX2o0aOTozEB.jpg",
+		"backdrop_path": "/yYrvN5WFeGYjJnRzhY0QXuo4Isw.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -970,7 +970,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot's Pursuit",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.4,
 		"slug": "groots-pursuit",
 		"tags": [
 			"movie",
@@ -1788,7 +1788,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/ng6SSB3JhbcpKTwbPDsRwUYK8Cq.jpg",
+		"backdrop_path": "/vamhMTvh9m9zFHDoR0v1nRtf6T4.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -2846,7 +2846,7 @@
 		"original_name": "Marvel's Daredevil",
 		"overview": "Lawyer-by-day Matt Murdock uses his heightened senses from being blinded as a young boy to fight crime at night on the streets of Hell’s Kitchen as Daredevil.",
 		"poster_path": "/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
-		"vote_average": 8.1,
+		"vote_average": 8.2,
 		"title": "Marvel's Daredevil",
 		"slug": "marvels-daredevil",
 		"tags": [
