@@ -33,7 +33,7 @@ watchLinks:
     "release_date": "1989-10-05",
     "title": "The Punisher",
     "video": false,
-    "vote_average": 5.7,
+    "vote_average": 5.8,
     "slug": "the-punisher",
     "tags": [
         "movie",
