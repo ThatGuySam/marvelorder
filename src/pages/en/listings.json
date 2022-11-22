@@ -714,7 +714,7 @@
 		"original_language": "en",
 		"original_title": "Guardians of the Galaxy Vol. 3",
 		"overview": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
-		"poster_path": "/7U0ad7DbwUs3rqkIYFsnTjiLZv0.jpg",
+		"poster_path": "/cVrr7gSBD0w3ZuCnUrnShKB2OIC.jpg",
 		"release_date": "2023-05-03",
 		"title": "Guardians of the Galaxy Vol. 3",
 		"video": false,
@@ -874,7 +874,7 @@
 		"release_date": "2022-09-08",
 		"title": "Marvel Studios Assembled: The Making of Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.9,
 		"slug": "marvel-studios-assembled-the-making-of-thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -970,7 +970,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot's Pursuit",
 		"video": false,
-		"vote_average": 7.4,
+		"vote_average": 7.3,
 		"slug": "groots-pursuit",
 		"tags": [
 			"movie",
@@ -3736,31 +3736,6 @@
 		]
 	},
 	{
-		"backdrop_path": "/z9MYECmdrP2OETkHvvq3MoQgYzi.jpg",
-		"first_air_date": "2011-07-01",
-		"genre_ids": [
-			16,
-			10759,
-			10765
-		],
-		"id": 62798,
-		"name": "Blade",
-		"origin_country": [
-			"JP"
-		],
-		"original_language": "ja",
-		"original_name": "ブレイド",
-		"overview": "Legendary half-vampire, half-human vampire hunter Blade is tracking Deacon Frost, a very powerful and influential vampire who killed his mother and who heads Existence, a secretive vampire organization that operates in Southeast Asia.",
-		"poster_path": "/xRowPbnDmzJnaqSolUpHUTlqhDx.jpg",
-		"vote_average": 7,
-		"title": "Blade",
-		"slug": "blade",
-		"tags": [
-			"tv",
-			"company-7505"
-		]
-	},
-	{
 		"adult": false,
 		"backdrop_path": "/bMiOfPhplZu1Lql3hGTRV087QA.jpg",
 		"genre_ids": [
@@ -3807,31 +3782,6 @@
 		]
 	},
 	{
-		"backdrop_path": "/q0jeVdA1KL4Lp6kalYNfObKfxGW.jpg",
-		"first_air_date": "2011-04-01",
-		"genre_ids": [
-			10759,
-			16,
-			10765
-		],
-		"id": 43146,
-		"name": "X-Men",
-		"origin_country": [
-			"JP"
-		],
-		"original_language": "ja",
-		"original_name": "エックスメン",
-		"overview": "X-Men, still grieving over the death of Phoenix (Jean Grey), are investigating a case of a missing mutant girl in Northern Japan. This leads them to a mysterious virus that turns mutants into monsters. U-Men and the Inner Circle want it.",
-		"poster_path": "/eMQcgexc7bbbXsL0tNsNtLNPo56.jpg",
-		"vote_average": 7.3,
-		"title": "X-Men",
-		"slug": "x-men",
-		"tags": [
-			"tv",
-			"company-7505"
-		]
-	},
-	{
 		"backdrop_path": "/t12TuJxUYOjUhYxujR3ZWe2vQ7p.jpg",
 		"first_air_date": "2011-03-28",
 		"genre_ids": [
@@ -3852,31 +3802,6 @@
 		"tags": [
 			"tv",
 			"company-11106"
-		]
-	},
-	{
-		"backdrop_path": "/t3H1tKS13b67WPGJeGYnDNfcLl9.jpg",
-		"first_air_date": "2011-01-07",
-		"genre_ids": [
-			10759,
-			16,
-			10765
-		],
-		"id": 38247,
-		"name": "Wolverine",
-		"origin_country": [
-			"JP"
-		],
-		"original_language": "ja",
-		"original_name": "ウルヴァリン",
-		"overview": "Wolverine is a mutant, possessing animal-keen senses, enhanced physical capabilities, three retracting bone claws on each hand and a healing factor that allows him to recover from virtually any wound, disease or toxin at a accelerated rate.",
-		"poster_path": "/cXPQEgUEbDz5NERfBJxeKFqUGwa.jpg",
-		"vote_average": 6.5,
-		"title": "Wolverine",
-		"slug": "wolverine",
-		"tags": [
-			"tv",
-			"company-7505"
 		]
 	},
 	{
@@ -3926,31 +3851,6 @@
 		"slug": "the-avengers-earths-mightiest-heroes",
 		"tags": [
 			"list-8204859"
-		]
-	},
-	{
-		"backdrop_path": "/9v7pbENY2tQ8uohTPBwI62tSsj9.jpg",
-		"first_air_date": "2010-10-01",
-		"genre_ids": [
-			16,
-			10759,
-			10765
-		],
-		"id": 45418,
-		"name": "Iron Man",
-		"origin_country": [
-			"JP"
-		],
-		"original_language": "ja",
-		"original_name": "アイアンマン",
-		"overview": "When Tony Stark branches his company into Japan, he is opposed by the nefarious Zodiac organization. It's up to Stark's Iron Man to defeat the Zodiac, and defend Japan.",
-		"poster_path": "/zOTJT7JbzSrMBX2OCGPqUnkQA4y.jpg",
-		"vote_average": 7.3,
-		"title": "Iron Man",
-		"slug": "iron-man",
-		"tags": [
-			"tv",
-			"company-7505"
 		]
 	},
 	{
@@ -4084,7 +3984,7 @@
 		"release_date": "2009-04-28",
 		"title": "X-Men Origins: Wolverine",
 		"video": false,
-		"vote_average": 6.2,
+		"vote_average": 6.3,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"list-8204860"
@@ -4132,7 +4032,7 @@
 		"original_language": "en",
 		"original_name": "Wolverine and the X-Men",
 		"overview": "Wolverine and the X-Men must join together again to not only battle the increasingly powerful Mutant Response Division, but also to prevent a catastrophic future that Xavier has warned Wolverine must never come to pass.",
-		"poster_path": "/zTADaqgnIhE9QZAnX6M9YVn5wsv.jpg",
+		"poster_path": "/ky3Z2lzRayWOR9N6f48e6eSw1Si.jpg",
 		"vote_average": 7.6,
 		"title": "Wolverine and the X-Men",
 		"slug": "wolverine-and-the-x-men",
@@ -4364,7 +4264,7 @@
 		"original_language": "en",
 		"original_name": "Fantastic Four: World's Greatest Heroes",
 		"overview": "Mister Fantastic, the Invisible Woman, the Human Torch, and Thing battle some of their greatest foes, including Doctor Doom, Ronan the Accuser, the Multiple Man, and Mole Man.",
-		"poster_path": "/zCtCW0JlbMpzfQDAX1bO1o1KLi.jpg",
+		"poster_path": "/vlf2OZXSSaTP5Dz5x3Q3nS6yjqp.jpg",
 		"vote_average": 7.6,
 		"title": "Fantastic Four: World's Greatest Heroes",
 		"slug": "fantastic-four-worlds-greatest-heroes",
