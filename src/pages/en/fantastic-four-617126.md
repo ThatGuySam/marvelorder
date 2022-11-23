@@ -19,7 +19,7 @@ logo_on_black: /.netlify/functions/tmdb-image/jatnqRPnxjg2Q6cFsAjmrBNhx9.webp
     "id": 617126,
     "original_language": "en",
     "original_title": "Fantastic Four",
-    "overview": "Set in the Marvel Cinematic Universe (MCU) and based on the Marvel Comics characters of the same name",
+    "overview": "Set in the Marvel Cinematic Universe (MCU) and based on the Marvel Comics characters of the same name.",
     "poster_path": "/jatnqRPnxjg2Q6cFsAjmrBNhx9.jpg",
     "release_date": "2025-02-12",
     "title": "Fantastic Four",

@@ -29,7 +29,7 @@ logo_on_black: /.netlify/functions/tmdb-image/A7NLWwvgzlbg8RBJKPHlEszdD74.webp
     "release_date": "2022-11-25",
     "title": "The Guardians of the Galaxy Holiday Special",
     "video": false,
-    "vote_average": 0,
+    "vote_average": 6,
     "slug": "the-guardians-of-the-galaxy-holiday-special",
     "tags": [
         "movie",
