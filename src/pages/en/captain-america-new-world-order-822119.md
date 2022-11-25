@@ -24,7 +24,7 @@ tags:
     "original_language": "en",
     "original_title": "Captain America: New World Order",
     "overview": "A sequel to Marvel Studios' The Falcon and the Winter Soldier and follows Sam Wilson as the new Captain America.",
-    "poster_path": "/cS0pZUhX8EE6ryICxT7kZewScfW.jpg",
+    "poster_path": "/jNWaUMmnQ26fiz2B6tIn0aC9fO0.jpg",
     "release_date": "2024-05-01",
     "title": "Captain America: New World Order",
     "video": false,
