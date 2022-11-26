@@ -484,7 +484,7 @@
 		"original_language": "en",
 		"original_title": "Deadpool 3",
 		"overview": "The third installment in the Deadpool franchise.",
-		"poster_path": "/4gdqWCVvidYR0pOHuVOqFundbUG.jpg",
+		"poster_path": "/38n2ZSgwzEj51zB02rNuurHZC7Z.jpg",
 		"release_date": "2024-11-06",
 		"title": "Deadpool 3",
 		"video": false,
@@ -754,13 +754,14 @@
 		"genre_ids": [
 			878,
 			35,
+			28,
 			12
 		],
 		"id": 774752,
 		"original_language": "en",
 		"original_title": "The Guardians of the Galaxy Holiday Special",
 		"overview": "The Guardians, who are on a mission to make Christmas unforgettable for Quill, head to Earth in search of the perfect present.",
-		"poster_path": "/wVrfgf4rHU0dHf5iWmtBH9MibB.jpg",
+		"poster_path": "/kd6LgL3w1BLz9ksbdN52fsBJmaP.jpg",
 		"release_date": "2022-11-25",
 		"title": "The Guardians of the Galaxy Holiday Special",
 		"video": false,
@@ -773,7 +774,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/yYrvN5WFeGYjJnRzhY0QXuo4Isw.jpg",
+		"backdrop_path": "/xDMIl84Qo5Tsu62c9DGWhmPI67A.jpg",
 		"genre_ids": [
 			28,
 			12,
