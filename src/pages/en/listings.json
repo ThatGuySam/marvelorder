@@ -327,7 +327,7 @@
 		"original_language": "en",
 		"original_title": "Untitled Spider-Man 4 Movie",
 		"overview": "",
-		"poster_path": "/xSHANvpQwCxIlr3PRvLPs1kuP1a.jpg",
+		"poster_path": null,
 		"title": "Untitled Spider-Man 4 Movie",
 		"video": false,
 		"vote_average": 0,
@@ -752,20 +752,19 @@
 		"adult": false,
 		"backdrop_path": "/rfnmMYuZ6EKOBvQLp2wqP21v7sI.jpg",
 		"genre_ids": [
-			878,
 			35,
-			28,
+			878,
 			12
 		],
 		"id": 774752,
 		"original_language": "en",
 		"original_title": "The Guardians of the Galaxy Holiday Special",
-		"overview": "The Guardians, who are on a mission to make Christmas unforgettable for Quill, head to Earth in search of the perfect present.",
-		"poster_path": "/kd6LgL3w1BLz9ksbdN52fsBJmaP.jpg",
+		"overview": "On a mission to make Christmas unforgettable for Quill, the Guardians head to Earth in search of the perfect present.",
+		"poster_path": "/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg",
 		"release_date": "2022-11-25",
 		"title": "The Guardians of the Galaxy Holiday Special",
 		"video": false,
-		"vote_average": 6,
+		"vote_average": 7.5,
 		"slug": "the-guardians-of-the-galaxy-holiday-special",
 		"tags": [
 			"movie",
@@ -901,6 +900,33 @@
 		"vote_average": 6.7,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
+		"tags": [
+			"tv",
+			"company-420"
+		]
+	},
+	{
+		"backdrop_path": null,
+		"first_air_date": "2022-08-10",
+		"genre_ids": [
+			16,
+			35,
+			10751,
+			10762,
+			10765
+		],
+		"id": 215148,
+		"name": "I am Groot",
+		"origin_country": [
+			"US"
+		],
+		"original_language": "en",
+		"original_name": "I am Groot",
+		"overview": "A series of shorts featuring the seedling Groot along with several new and unusual characters.",
+		"poster_path": "/pAaHYZKCTgmiz1CLoM2SSNq6jjw.jpg",
+		"vote_average": 0,
+		"title": "I am Groot",
+		"slug": "i-am-groot",
 		"tags": [
 			"tv",
 			"company-420"

@@ -15,7 +15,7 @@ type: movie
     "original_language": "en",
     "original_title": "Untitled Spider-Man 4 Movie",
     "overview": "",
-    "poster_path": "/xSHANvpQwCxIlr3PRvLPs1kuP1a.jpg",
+    "poster_path": null,
     "title": "Untitled Spider-Man 4 Movie",
     "video": false,
     "vote_average": 0,
