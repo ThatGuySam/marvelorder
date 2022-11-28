@@ -906,33 +906,6 @@
 		]
 	},
 	{
-		"backdrop_path": null,
-		"first_air_date": "2022-08-10",
-		"genre_ids": [
-			16,
-			35,
-			10751,
-			10762,
-			10765
-		],
-		"id": 215148,
-		"name": "I am Groot",
-		"origin_country": [
-			"US"
-		],
-		"original_language": "en",
-		"original_name": "I am Groot",
-		"overview": "A series of shorts featuring the seedling Groot along with several new and unusual characters.",
-		"poster_path": "/pAaHYZKCTgmiz1CLoM2SSNq6jjw.jpg",
-		"vote_average": 0,
-		"title": "I am Groot",
-		"slug": "i-am-groot",
-		"tags": [
-			"tv",
-			"company-420"
-		]
-	},
-	{
 		"adult": false,
 		"backdrop_path": "/9bColKVEAaWfmOLiLZoUhdYfevy.jpg",
 		"genre_ids": [
@@ -1429,7 +1402,7 @@
 		"release_date": "2021-09-01",
 		"title": "Shang-Chi and the Legend of the Ten Rings",
 		"video": false,
-		"vote_average": 7.7,
+		"vote_average": 7.6,
 		"slug": "shang-chi-and-the-legend-of-the-ten-rings",
 		"tags": [
 			"movie",
@@ -2164,7 +2137,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/6ELJEzQJ3Y45HczvreC3dg0GV5R.jpg",
+		"backdrop_path": "/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -4912,7 +4885,7 @@
 		"original_language": "en",
 		"original_name": "Fantastic Four",
 		"overview": "When Reed Richards, Sue and Johnny Storm and pilot Ben Grimm take a premature space flight on a new shuttle, they find themselves massively bombarded with cosmic radiation. Barely managing to re-enter and land safely, the quartet find themselves forever transformed with superpowers. Deciding to use these new powers to help people, they form the Fantastic Four, a superhero team dedicated to the protection of Earth from menaces like the Latverian King Dr. Doom and Galactus, the planet consumer.",
-		"poster_path": "/jy7fvS9ow4MadFZuhwadshj0yes.jpg",
+		"poster_path": "/faLwKXaDaVnE3E8EGAhzsmKfGeQ.jpg",
 		"vote_average": 6.7,
 		"title": "Fantastic Four",
 		"slug": "fantastic-four",
