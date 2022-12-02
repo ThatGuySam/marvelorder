@@ -572,6 +572,37 @@
     "primeReferenceTitle": "Agents of S.H.I.E.L.D."
   },
   {
+    "hash": "2f25a4ac-53d9-54b3-ad70-191201782e59",
+    "timeDescription": "1571-1700s",
+    "timeDescriptionParts": {
+      "primary": "1571-1700s",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "The Yucatan people fell ill to the plague. One man found a plant and along with other people, drank it. The substance turned the people blue and made them incapable of breathing in air. They quickly moved to the ocean and created a civilization in the deep water, Talokan. One of the women who ingested the plant had a baby named K'uk'ulkan. The baby grew up to become ruler of Talokan. When Fen died, she asked to be buried on the land. K'uk'ulkan led some guards up to the land where he saw a civilization. They attacked the civilization to make room for his mother's burial. During his attack, a Spanish priest called the child \"Un nino sin amor,\" meaning \"A boy without love\". The boy claimed Namor as his moniker, for he had no love for the surface world. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Talokan",
+        "text": "Talokan",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/K%27uk%27ulkan",
+        "text": "K'uk'ulkan",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Black_Panther:_Wakanda_Forever",
+        "text": "Black Panther: Wakanda Forever",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 2,
+    "primeReferenceTitle": "Black Panther: Wakanda Forever"
+  },
+  {
     "hash": "7cb69195-a239-5faa-9e32-ef54bb4e8085",
     "timeDescription": "1693",
     "timeDescriptionParts": {
@@ -24434,6 +24465,82 @@
     ],
     "primeReferenceIndex": 2,
     "primeReferenceTitle": "Black Widow"
+  },
+  {
+    "hash": "cf012d45-9b1c-526c-86d7-7ae6bf142f86",
+    "timeDescription": "2024",
+    "timeDescriptionParts": {
+      "primary": "2024",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Wakanda's King T'Challa suffered an incurable illness. He asked his sister for help. Shuri did everything she could to recreate the Heart-Shaped Herb and its healing properties after they were burned by Killmonger. Knowing he had little time left. T'Challa went to Haiti and informed Nakia so she and their son could be prepared for his death. He also told her to stay there and not attend his funeral. Sometime after, Shuri works in her lab, trying hard to create an artificial Heart-Shaped Herb to use for T'Challa, who is dying of an unidentified illness. Queen Ramonda slowly walks into the lab, announcing T'Challa's death. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Wakanda",
+        "text": "Wakanda",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/T%27Challa",
+        "text": "T'Challa",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Shuri",
+        "text": "Shuri",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Heart-Shaped_Herb",
+        "text": "Heart-Shaped Herb",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/N%27Jadaka",
+        "text": "Killmonger",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Nakia",
+        "text": "Nakia",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/T%27Challa_II",
+        "text": "son",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Ramonda",
+        "text": "Ramonda",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Black_Panther:_Wakanda_Forever",
+        "text": "Black Panther: Wakanda Forever",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 8,
+    "primeReferenceTitle": "Black Panther: Wakanda Forever"
+  },
+  {
+    "hash": "80284680-3304-5869-9788-7428e6c6ee86",
+    "timeDescription": "2024 April",
+    "timeDescriptionParts": {
+      "primary": "2024",
+      "secondary": "April",
+      "tertiary": ""
+    },
+    "textContent": "",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
   },
   {
     "hash": "861c7252-c434-5952-8515-4661825b66c3",
