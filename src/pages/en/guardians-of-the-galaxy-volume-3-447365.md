@@ -43,7 +43,7 @@ tags:
     "original_language": "en",
     "original_title": "Guardians of the Galaxy Volume 3",
     "overview": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
-    "poster_path": "/nhW1LYXG2lLlRC9ZlgC1xZ12rO3.jpg",
+    "poster_path": "/bCXgdvCobMHYIGblzbaNMF4SnCm.jpg",
     "release_date": "2023-05-03",
     "title": "Guardians of the Galaxy Volume 3",
     "video": false,
