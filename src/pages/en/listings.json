@@ -552,7 +552,7 @@
 		"original_language": "en",
 		"original_title": "Captain America: New World Order",
 		"overview": "A sequel to Marvel Studios' The Falcon and the Winter Soldier and follows Sam Wilson as the new Captain America.",
-		"poster_path": "/jNWaUMmnQ26fiz2B6tIn0aC9fO0.jpg",
+		"poster_path": "/3DgdfIoJsGnEvSSvUs5hOAYbZlL.jpg",
 		"release_date": "2024-05-01",
 		"title": "Captain America: New World Order",
 		"video": false,
@@ -713,7 +713,7 @@
 		"id": 447365,
 		"original_language": "en",
 		"original_title": "Guardians of the Galaxy Volume 3",
-		"overview": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+		"overview": "After acquiring Knowhere from the Collector, we find the Guardians working to repair the extreme damage done by Thanos-determined to make Knowhere a safe haven, not only for themselves, but for all refugees displaced by the harsh universe. It isn't long before their attempt to return to normal is upended by a brutal attack from a new unknown enemy, and Peter, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
 		"poster_path": "/bCXgdvCobMHYIGblzbaNMF4SnCm.jpg",
 		"release_date": "2023-05-03",
 		"title": "Guardians of the Galaxy Volume 3",
@@ -764,7 +764,7 @@
 		"release_date": "2022-11-25",
 		"title": "The Guardians of the Galaxy Holiday Special",
 		"video": false,
-		"vote_average": 7.5,
+		"vote_average": 7.4,
 		"slug": "the-guardians-of-the-galaxy-holiday-special",
 		"tags": [
 			"movie",
@@ -787,7 +787,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 7.5,
+		"vote_average": 7.6,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -3497,7 +3497,7 @@
 		"id": 119569,
 		"original_language": "en",
 		"original_title": "Marvel One-Shot: Item 47",
-		"overview": "Benny and Claire, a down on their luck couple find a discarded Chitauri gun, referred to as 'Item 47'...",
+		"overview": "Benny and Claire, a down-on-their-luck couple, find a discarded Chitauri weapon referred to as 'Item 47'.",
 		"poster_path": "/hnSxG8clwLuAXEkp9emc8HCUcHD.jpg",
 		"release_date": "2012-09-13",
 		"title": "Marvel One-Shot: Item 47",
@@ -4973,6 +4973,7 @@
 		"backdrop_path": "/fHx9e35Vn7mMH3O0Fmfds70ABo8.jpg",
 		"genre_ids": [
 			28,
+			12,
 			878,
 			10752
 		],

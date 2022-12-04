@@ -22,6 +22,7 @@ watchLinks:
     "backdrop_path": "/fHx9e35Vn7mMH3O0Fmfds70ABo8.jpg",
     "genre_ids": [
         28,
+        12,
         878,
         10752
     ],
