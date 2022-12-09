@@ -25,7 +25,7 @@ watchLinks:
     "media_type": "movie",
     "original_language": "en",
     "original_title": "Spider-Man: The Dragon's Challenge",
-    "overview": "Two episodes of the TV series \"Spider Man\" edited together and released as a feature.",
+    "overview": "Spider-Man goes to China to help an official accused of World War II treachery.  Two episodes of the TV series \"Spider Man\" edited together and released as a feature.",
     "poster_path": "/wBmtFmSikG5u08FdGLRsF0Py59V.jpg",
     "release_date": "1981-06-25",
     "title": "Spider-Man: The Dragon's Challenge",
