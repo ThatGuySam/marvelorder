@@ -21,7 +21,7 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/kaIfm5ryEOwYg8mLbq8HkPuM1Fo.jpg",
+    "backdrop_path": "/5wNUJs23rT5rTBacNyf5h83AynM.jpg",
     "genre_ids": [
         28,
         12,
