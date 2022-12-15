@@ -680,7 +680,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/i3jzXfc198W9bHgZbqY6IBaNS3l.jpg",
+		"backdrop_path": "/bpvjzk0QXbJPV4wVwrHuYiq1TbP.jpg",
 		"genre_ids": [
 			16,
 			28,
@@ -691,7 +691,7 @@
 		"original_language": "en",
 		"original_title": "Spider-Man: Across the Spider-Verse",
 		"overview": "After reuniting with Gwen Stacy, Miles Morales — Brooklyn's full-time, friendly neighborhood Spider-Man — is catapulted across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must redefine what it means to be a hero so he can save the people he loves most.",
-		"poster_path": "/7g4J08JRBGsYr7N7OYPMYYMKIbG.jpg",
+		"poster_path": "/3if5KqGat6tpKP0VzQVmpFGvq6J.jpg",
 		"release_date": "2023-05-31",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
@@ -787,7 +787,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 7.6,
+		"vote_average": 7.5,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -970,7 +970,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot's Pursuit",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.2,
 		"slug": "groots-pursuit",
 		"tags": [
 			"movie",
@@ -4750,6 +4750,28 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			16,
+			28
+		],
+		"id": 1016386,
+		"original_language": "en",
+		"original_title": "Spider-Man Unlimited",
+		"overview": "Spider-Man makes his way to Counter-Earth where he falls in with a band of freedom fighters opposed to the High Evolutionary whose Beastials, hybrids of animal and humanoid attributes, are the dominant species whilst humans are the second-class minority.",
+		"poster_path": "/im734TnBqQF3HqjBpXGbOmbeg3c.jpg",
+		"release_date": "1999-10-02",
+		"title": "Spider-Man Unlimited",
+		"video": false,
+		"vote_average": 0,
+		"slug": "spider-man-unlimited",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/m4QcUdzeCMEfs01FqLwrskoPXGL.jpg",
 		"genre_ids": [
 			878,
@@ -4794,28 +4816,6 @@
 		"tags": [
 			"tv",
 			"company-7505",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
-			878,
-			16
-		],
-		"id": 855675,
-		"original_language": "en",
-		"original_title": "Silver Surfer",
-		"overview": "The adventures of the cosmic wanderer as he seeks his lost home after rebelling from his master.",
-		"poster_path": "/35jlbsfcXq5hBfxkS1rJDKMcQJp.jpg",
-		"release_date": "1998-02-07",
-		"title": "Silver Surfer",
-		"video": false,
-		"vote_average": 0,
-		"slug": "silver-surfer",
-		"tags": [
-			"movie",
 			"company-420"
 		]
 	},
