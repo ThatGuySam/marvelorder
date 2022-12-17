@@ -484,7 +484,7 @@
 		"original_language": "en",
 		"original_title": "Deadpool 3",
 		"overview": "The third installment in the Deadpool franchise.",
-		"poster_path": "/38n2ZSgwzEj51zB02rNuurHZC7Z.jpg",
+		"poster_path": "/4gdqWCVvidYR0pOHuVOqFundbUG.jpg",
 		"release_date": "2024-11-06",
 		"title": "Deadpool 3",
 		"video": false,
@@ -1039,7 +1039,7 @@
 		"release_date": "2022-07-18",
 		"title": "Magnum Opus",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.2,
 		"slug": "magnum-opus",
 		"tags": [
 			"movie",
@@ -4745,28 +4745,6 @@
 		"slug": "spider-man-unlimited",
 		"tags": [
 			"tv",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
-			16,
-			28
-		],
-		"id": 1016386,
-		"original_language": "en",
-		"original_title": "Spider-Man Unlimited",
-		"overview": "Spider-Man makes his way to Counter-Earth where he falls in with a band of freedom fighters opposed to the High Evolutionary whose Beastials, hybrids of animal and humanoid attributes, are the dominant species whilst humans are the second-class minority.",
-		"poster_path": "/im734TnBqQF3HqjBpXGbOmbeg3c.jpg",
-		"release_date": "1999-10-02",
-		"title": "Spider-Man Unlimited",
-		"video": false,
-		"vote_average": 0,
-		"slug": "spider-man-unlimited",
-		"tags": [
-			"movie",
 			"company-420"
 		]
 	},
