@@ -783,7 +783,7 @@
 		"original_language": "en",
 		"original_title": "Black Panther: Wakanda Forever",
 		"overview": "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death. As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
-		"poster_path": "/ps2oKfhY6DL3alynlSqY97gHSsg.jpg",
+		"poster_path": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
@@ -2009,7 +2009,7 @@
 		"original_language": "en",
 		"original_title": "Ant-Man and the Wasp",
 		"overview": "Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.",
-		"poster_path": "/eivQmS3wqzqnQWILHLc4FsEfcXP.jpg",
+		"poster_path": "/cFQEO687n1K6umXbInzocxcnAQz.jpg",
 		"release_date": "2018-07-04",
 		"title": "Ant-Man and the Wasp",
 		"video": false,
@@ -2037,7 +2037,7 @@
 		"original_name": "Marvel's Cloak & Dagger",
 		"overview": "Two teenagers from very different backgrounds awaken to newly acquired superpowers which mysteriously link them to one another.",
 		"poster_path": "/gC20yybaer1cKA5HXSji4briMdu.jpg",
-		"vote_average": 7.4,
+		"vote_average": 7.3,
 		"title": "Marvel's Cloak & Dagger",
 		"slug": "marvels-cloak-and-dagger",
 		"tags": [
@@ -3991,6 +3991,29 @@
 		]
 	},
 	{
+		"backdrop_path": null,
+		"first_air_date": "2009-04-28",
+		"genre_ids": [
+			10765
+		],
+		"id": 216720,
+		"name": "Brazilian Wolverine",
+		"origin_country": [
+			"BR"
+		],
+		"original_language": "pt",
+		"original_name": "Brazilian Wolverine",
+		"overview": "",
+		"poster_path": "/siKP5HS8BZO41a6GXH9aki52DNn.jpg",
+		"vote_average": 0,
+		"title": "Brazilian Wolverine",
+		"slug": "brazilian-wolverine",
+		"tags": [
+			"tv",
+			"company-7505"
+		]
+	},
+	{
 		"backdrop_path": "/geoJ7FkV4NXAhZ7pYNCOWGYEBLV.jpg",
 		"first_air_date": "2009-04-24",
 		"genre_ids": [
@@ -4419,7 +4442,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/kYSbBz7khRScIdhlYzRHJrS0ZLt.jpg",
+		"backdrop_path": "/55885wQeb8XISRccwnfVJ7DDJFM.jpg",
 		"genre_ids": [
 			28,
 			27,
