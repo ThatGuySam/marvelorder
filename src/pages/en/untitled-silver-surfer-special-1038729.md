@@ -37,7 +37,7 @@ tags:
     "original_language": "en",
     "original_title": "Untitled Silver Surfer Special",
     "overview": "A Marvel Studios Special Presentation adapting Marvel Comics superhero the Silver Surfer.",
-    "poster_path": null,
+    "poster_path": "/blqJUrC02I56Q0KFWjxuo0jG3lG.jpg",
     "release_date": "",
     "title": "Untitled Silver Surfer Special",
     "video": false,
