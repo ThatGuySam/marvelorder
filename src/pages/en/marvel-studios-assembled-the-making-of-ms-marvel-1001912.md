@@ -43,7 +43,7 @@ tags:
     "release_date": "2022-08-03",
     "title": "Marvel Studios Assembled: The Making of Ms. Marvel",
     "video": false,
-    "vote_average": 6.1,
+    "vote_average": 6.6,
     "slug": "marvel-studios-assembled-the-making-of-ms-marvel",
     "tags": [
         "movie",
