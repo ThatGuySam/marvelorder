@@ -33,7 +33,7 @@ watchLinks:
     "original_name": "The Spectacular Spider-Man",
     "overview": "Having spent the summer engaging common criminals with his new-found powers, not so typical 16-year-old Peter Parker must conceal his secret identity and battle super-villains in the real world as he enters his junior year of high school.",
     "poster_path": "/dCNxOhXT7c4lqYuRpdM3m8s9XDp.jpg",
-    "vote_average": 8.7,
+    "vote_average": 8.6,
     "title": "The Spectacular Spider-Man",
     "slug": "the-spectacular-spider-man",
     "tags": [
