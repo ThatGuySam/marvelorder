@@ -48,8 +48,8 @@ media_type: tv
     "id": 2640,
     "name": "Spiderman",
     "origin_country": [
-        "JP",
-        "US"
+        "US",
+        "JP"
     ],
     "original_language": "ja",
     "original_name": "スパイダーマン",

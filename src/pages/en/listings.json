@@ -233,6 +233,29 @@
 		]
 	},
 	{
+		"backdrop_path": "/3WkusFyCQCa5aw6MbKm6nSzr7nF.jpg",
+		"genre_ids": [
+			18
+		],
+		"id": 212423,
+		"name": "Marvel Lucha Libre Edition: The Origin of the Mask",
+		"origin_country": [
+			"AR",
+			"MX"
+		],
+		"original_language": "es",
+		"original_name": "Marvel Lucha Libre Edition: El Origen de la Máscara",
+		"overview": "The new series was revealed during the pre-shot of AAA’s event, TripleMania XXX: CDMX, where the first trailer was shown. This new series features wrestling matches, but with wrestlers in outfits that are inspired by Marvel Super Heroes.",
+		"poster_path": "/lrSxTzfVZMig68bbX85za2gpxGb.jpg",
+		"vote_average": 2,
+		"title": "Marvel Lucha Libre Edition: The Origin of the Mask",
+		"slug": "marvel-lucha-libre-edition-the-origin-of-the-mask",
+		"tags": [
+			"tv",
+			"company-7505"
+		]
+	},
+	{
 		"backdrop_path": null,
 		"first_air_date": "",
 		"genre_ids": [],
@@ -691,7 +714,7 @@
 		"original_language": "en",
 		"original_title": "Spider-Man: Across the Spider-Verse",
 		"overview": "After reuniting with Gwen Stacy, Miles Morales — Brooklyn's full-time, friendly neighborhood Spider-Man — is catapulted across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must redefine what it means to be a hero so he can save the people he loves most.",
-		"poster_path": "/jN1tz3Z10gUOdb11iPwQd6JBlms.jpg",
+		"poster_path": "/zknrogDlwcmaz3yHkA3yEhy005t.jpg",
 		"release_date": "2023-05-31",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
@@ -1999,7 +2022,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/2tcTm5oRlRN5fKFvY4Gbrwp8h38.jpg",
+		"backdrop_path": "/iYdgEUE2W2aJkgqfSjf1x3gFfuV.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -5360,8 +5383,8 @@
 		"id": 2640,
 		"name": "Spiderman",
 		"origin_country": [
-			"JP",
-			"US"
+			"US",
+			"JP"
 		],
 		"original_language": "ja",
 		"original_name": "スパイダーマン",
@@ -5491,7 +5514,7 @@
 		"release_date": "1977-11-04",
 		"title": "The Incredible Hulk",
 		"video": false,
-		"vote_average": 6.3,
+		"vote_average": 6.4,
 		"slug": "the-incredible-hulk",
 		"tags": [
 			"list-8204862"
