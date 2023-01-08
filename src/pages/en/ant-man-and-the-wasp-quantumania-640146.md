@@ -5,6 +5,10 @@ description: The third film in the Marvel Studios' Ant-Man trilogy.
 layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/tmdb-image/mYCBuVGQGWPlUNZQusdHfbSzP1h.webp
+tags: 
+  - movie
+  - company-420 
+  - has-kang
 ---
 ## TMDB Data
 ```json
