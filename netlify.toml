@@ -64,6 +64,12 @@
     to = "/en/marvels-avengers-secret-wars-206006"
     status = 301
 
+[[redirects]]
+    from = "/en/guardians-of-the-galaxy-vol-3-447365"
+    to = "/en/guardians-of-the-galaxy-volume-3-447365"
+    status = 301
+
+
 
 # [[redirects]]
 #     from = "/en/"
