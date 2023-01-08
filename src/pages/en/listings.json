@@ -1294,6 +1294,29 @@
 		]
 	},
 	{
+		"adult": false,
+		"backdrop_path": "/6mJrgL7Mi13XjJeGYJFlD6UEVQw.jpg",
+		"genre_ids": [
+			16,
+			12,
+			35
+		],
+		"id": 438695,
+		"original_language": "en",
+		"original_title": "Sing 2",
+		"overview": "Buster and his new cast now have their sights set on debuting a new show at the Crystal Tower Theater in glamorous Redshore City. But with no connections, he and his singers must sneak into the Crystal Entertainment offices, run by the ruthless wolf mogul Jimmy Crystal, where the gang pitches the ridiculous idea of casting the lion rock legend Clay Calloway in their show. Buster must embark on a quest to find the now-isolated Clay and persuade him to return to the stage.",
+		"poster_path": "/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg",
+		"release_date": "2021-12-01",
+		"title": "Sing 2",
+		"video": false,
+		"vote_average": 8,
+		"slug": "sing-2",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
 		"backdrop_path": "/1R68vl3d5s86JsS2NPjl8UoMqIS.jpg",
 		"first_air_date": "2021-11-24",
 		"genre_ids": [
@@ -3407,7 +3430,7 @@
 		"original_language": "en",
 		"original_title": "The Wolverine",
 		"overview": "Wolverine faces his ultimate nemesis - and tests of his physical, emotional, and mortal limits - in a life-changing voyage to modern-day Japan.",
-		"poster_path": "/9BRz8pI41iAVMRzeItvHnZNMlk2.jpg",
+		"poster_path": "/xNi8daRmN4XY8rXHd4rwLbJf1cU.jpg",
 		"release_date": "2013-07-23",
 		"title": "The Wolverine",
 		"video": false,
@@ -3771,7 +3794,7 @@
 		"original_language": "en",
 		"original_title": "X-Men: First Class",
 		"overview": "Before Charles Xavier and Erik Lensherr took the names Professor X and Magneto, they were two young men discovering their powers for the first time. Before they were arch-enemies, they were closest of friends, working together with other mutants (some familiar, some new), to stop the greatest threat the world has ever known.",
-		"poster_path": "/vUvlOY575rztBuJV3a0dbHW5MQR.jpg",
+		"poster_path": "/yCWLsyMresPcfz32ELgrYUBeS09.jpg",
 		"release_date": "2011-06-01",
 		"title": "X-Men: First Class",
 		"video": false,
