@@ -335,6 +335,12 @@ class MarvelMoviesFandomTimeline {
         const listItems = element.querySelectorAll( 'li' )
 
         for ( const listItem of listItems ) {
+
+            // Skip if it's a list item with no text
+            if ( !listItem.textContent ) {
+                continue
+            }
+
             // If this list contains a list then it's a tertiary time part
             const childList = listItem.querySelector( 'ul' )
             if ( childList ) {
