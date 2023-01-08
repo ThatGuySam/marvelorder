@@ -34,7 +34,8 @@ test( 'Can get web story pages from timeline entries', async () => {
 
             for ( const element of layer.elements ) {
 
-                console.log({ element })
+                // console.log({ element })
+
                 // Skip elements that don't have text
                 if ( element.tagName === 'p' ) {
                     // Check that text is not too short
