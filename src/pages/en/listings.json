@@ -233,29 +233,6 @@
 		]
 	},
 	{
-		"backdrop_path": "/3WkusFyCQCa5aw6MbKm6nSzr7nF.jpg",
-		"genre_ids": [
-			18
-		],
-		"id": 212423,
-		"name": "Marvel Lucha Libre Edition: The Origin of the Mask",
-		"origin_country": [
-			"AR",
-			"MX"
-		],
-		"original_language": "es",
-		"original_name": "Marvel Lucha Libre Edition: El Origen de la Máscara",
-		"overview": "The new series was revealed during the pre-shot of AAA’s event, TripleMania XXX: CDMX, where the first trailer was shown. This new series features wrestling matches, but with wrestlers in outfits that are inspired by Marvel Super Heroes.",
-		"poster_path": "/lrSxTzfVZMig68bbX85za2gpxGb.jpg",
-		"vote_average": 0,
-		"title": "Marvel Lucha Libre Edition: The Origin of the Mask",
-		"slug": "marvel-lucha-libre-edition-the-origin-of-the-mask",
-		"tags": [
-			"tv",
-			"company-7505"
-		]
-	},
-	{
 		"backdrop_path": null,
 		"first_air_date": "",
 		"genre_ids": [],
@@ -759,8 +736,8 @@
 		"id": 640146,
 		"original_language": "en",
 		"original_title": "Ant-Man and the Wasp: Quantumania",
-		"overview": "Superhero duo Scott Lang and Hope Van Dyne, together with Hope's parents Hank Pym and Janet Van Dyne, find themselves exploring the Quantum Realm, interacting with strange new creatures, and embarking on an adventure that will push them beyond the limits of what they thought was possible.",
-		"poster_path": "/wTBJm1K8HeDl5iRYzFF2aFGihcQ.jpg",
+		"overview": "Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope's parents Janet van Dyne and Hank Pym, and Scott's daughter Cassie Lang, find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought possible.",
+		"poster_path": "/15HzavpJZaVP3nXNxrRBWINsM9u.jpg",
 		"release_date": "2023-02-15",
 		"title": "Ant-Man and the Wasp: Quantumania",
 		"video": false,
@@ -769,6 +746,30 @@
 		"tags": [
 			"movie",
 			"company-420"
+		]
+	},
+	{
+		"backdrop_path": "/3WkusFyCQCa5aw6MbKm6nSzr7nF.jpg",
+		"first_air_date": "2023-01-18",
+		"genre_ids": [
+			18
+		],
+		"id": 212423,
+		"name": "Marvel Lucha Libre Edition: The Origin of the Mask",
+		"origin_country": [
+			"AR",
+			"MX"
+		],
+		"original_language": "es",
+		"original_name": "Marvel Lucha Libre Edition: El Origen de la Máscara",
+		"overview": "The new series was revealed during the pre-shot of AAA’s event, TripleMania XXX: CDMX, where the first trailer was shown. This new series features wrestling matches, but with wrestlers in outfits that are inspired by Marvel Super Heroes.",
+		"poster_path": "/lrSxTzfVZMig68bbX85za2gpxGb.jpg",
+		"vote_average": 0,
+		"title": "Marvel Lucha Libre Edition: The Origin of the Mask",
+		"slug": "marvel-lucha-libre-edition-the-origin-of-the-mask",
+		"tags": [
+			"tv",
+			"company-7505"
 		]
 	},
 	{
@@ -905,7 +906,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/eljErfkQUcFUgQkI4I1soZcH8MW.jpg",
+		"backdrop_path": "/9GvhICFMiRQA82vS6ydkXxeEkrd.jpg",
 		"first_air_date": "2022-08-18",
 		"genre_ids": [
 			35,

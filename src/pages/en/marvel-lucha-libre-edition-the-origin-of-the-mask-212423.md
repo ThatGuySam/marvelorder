@@ -32,6 +32,7 @@ tags:
 ```json
 {
     "backdrop_path": "/3WkusFyCQCa5aw6MbKm6nSzr7nF.jpg",
+    "first_air_date": "2023-01-18",
     "genre_ids": [
         18
     ],
