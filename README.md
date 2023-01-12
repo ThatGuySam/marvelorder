@@ -75,6 +75,7 @@ This is the *most* official list for the Marvel Chronologically, aka by the time
 ## Upcoming
 <!-- start-upcoming-list -->
 
+- January 18, 2023 - [Marvel Lucha Libre Edition: The Origin of the Mask](https://marvelorder.com/en/marvel-lucha-libre-edition-the-origin-of-the-mask-212423) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/marvel-lucha-libre-edition-the-origin-of-the-mask-212423.md)
 - February 15, 2023 - [Ant-Man and the Wasp: Quantumania](https://marvelorder.com/en/ant-man-and-the-wasp-quantumania-640146) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/ant-man-and-the-wasp-quantumania-640146.md)
 - April 1, 2023 - [Secret Invasion](https://marvelorder.com/en/secret-invasion-114472) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/secret-invasion-114472.md)
 - May 3, 2023 - [Guardians of the Galaxy Vol. 3](https://marvelorder.com/en/guardians-of-the-galaxy-vol-3-447365) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/guardians-of-the-galaxy-vol-3-447365.md)

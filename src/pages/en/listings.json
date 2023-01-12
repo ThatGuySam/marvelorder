@@ -727,7 +727,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/3JSoB7eMbCd8sE8alxNiUtrNiTz.jpg",
+		"backdrop_path": "/zhSunwjOsNJ401vpPwBDHlhvLHj.jpg",
 		"genre_ids": [
 			12,
 			878,
@@ -737,8 +737,8 @@
 		"original_language": "en",
 		"original_title": "Ant-Man and the Wasp: Quantumania",
 		"overview": "Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope's parents Janet van Dyne and Hank Pym, and Scott's daughter Cassie Lang, find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought possible.",
-		"poster_path": "/15HzavpJZaVP3nXNxrRBWINsM9u.jpg",
-		"release_date": "2023-02-15",
+		"poster_path": "/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+		"release_date": "2023-02-17",
 		"title": "Ant-Man and the Wasp: Quantumania",
 		"video": false,
 		"vote_average": 0,
@@ -761,7 +761,7 @@
 			"MX"
 		],
 		"original_language": "es",
-		"original_name": "Marvel Lucha Libre Edition: El Origen de la Máscara",
+		"original_name": "Marvel Lucha Libre Edition: El origen de la máscara",
 		"overview": "The new series was revealed during the pre-shot of AAA’s event, TripleMania XXX: CDMX, where the first trailer was shown. This new series features wrestling matches, but with wrestlers in outfits that are inspired by Marvel Super Heroes.",
 		"poster_path": "/lrSxTzfVZMig68bbX85za2gpxGb.jpg",
 		"vote_average": 0,
@@ -808,7 +808,7 @@
 		"original_title": "Black Panther: Wakanda Forever",
 		"overview": "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death. As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
 		"poster_path": "/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",
-		"release_date": "2022-11-09",
+		"release_date": "2022-11-11",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
 		"vote_average": 7.5,
@@ -4453,7 +4453,7 @@
 		"original_language": "en",
 		"original_title": "Elektra",
 		"overview": "Elektra the warrior survives a near-death experience, becomes an assassin-for-hire, and tries to protect her two latest targets, a single father and his young daughter, from a group of supernatural assassins.",
-		"poster_path": "/gC6s6NKHneSrOKyQZnUMb443RKU.jpg",
+		"poster_path": "/9Azi1GBNj3gPPwmQWAMcATg7JOl.jpg",
 		"release_date": "2005-01-13",
 		"title": "Elektra",
 		"video": false,
@@ -4811,7 +4811,7 @@
 		"release_date": "1998-05-26",
 		"title": "Nick Fury: Agent of S.H.I.E.L.D.",
 		"video": false,
-		"vote_average": 4.6,
+		"vote_average": 4.7,
 		"slug": "nick-fury-agent-of-shield",
 		"tags": [
 			"movie",
@@ -4835,7 +4835,7 @@
 		"original_name": "Silver Surfer",
 		"overview": "The adventures of the cosmic wanderer as he seeks his lost home after rebelling from his master.",
 		"poster_path": "/mBJTL4CRSoNkAQRmfwbiLTtviuW.jpg",
-		"vote_average": 7.5,
+		"vote_average": 7.4,
 		"title": "Silver Surfer",
 		"slug": "silver-surfer",
 		"tags": [
@@ -5582,7 +5582,7 @@
 		"original_name": "Fantastic Four",
 		"overview": "The first animated series based on Marvel's comic book series Fantastic Four.",
 		"poster_path": "/o2jhtGqOR3UAWg4wIBu21Ub4ecP.jpg",
-		"vote_average": 7.4,
+		"vote_average": 7.3,
 		"title": "Fantastic Four",
 		"slug": "fantastic-four",
 		"tags": [
