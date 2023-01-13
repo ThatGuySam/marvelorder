@@ -361,6 +361,25 @@
 	{
 		"adult": false,
 		"backdrop_path": null,
+		"genre_ids": [],
+		"id": 1037199,
+		"original_language": "en",
+		"original_title": "Black Panther 3",
+		"overview": "The third installment in Marvel Studios’ Black Panther franchise.",
+		"poster_path": "/2lF3WbFA39z9KazQza9JJ0wtPAC.jpg",
+		"release_date": "",
+		"title": "Black Panther 3",
+		"video": false,
+		"vote_average": 0,
+		"slug": "black-panther-3",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
 		"genre_ids": [
 			878,
 			10770
@@ -397,6 +416,25 @@
 		"video": false,
 		"vote_average": 0,
 		"slug": "untitled-nova-special",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [],
+		"id": 1072946,
+		"original_language": "en",
+		"original_title": "Untitled Doctor Strange 3",
+		"overview": "Sequel to Doctor Strange in the Multiverse of Madness",
+		"poster_path": null,
+		"release_date": "",
+		"title": "Untitled Doctor Strange 3",
+		"video": false,
+		"vote_average": 0,
+		"slug": "untitled-doctor-strange-3",
 		"tags": [
 			"movie",
 			"company-420"
@@ -715,7 +753,7 @@
 		"original_title": "Guardians of the Galaxy Volume 3",
 		"overview": "After acquiring Knowhere from the Collector, we find the Guardians working to repair the extreme damage done by Thanos-determined to make Knowhere a safe haven, not only for themselves, but for all refugees displaced by the harsh universe. It isn't long before their attempt to return to normal is upended by a brutal attack from a new unknown enemy, and Peter, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
 		"poster_path": "/ok4JTPFXGvj81wXK4pHvifCgI9x.jpg",
-		"release_date": "2023-05-03",
+		"release_date": "2023-05-05",
 		"title": "Guardians of the Galaxy Volume 3",
 		"video": false,
 		"vote_average": 0,
@@ -727,7 +765,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/zhSunwjOsNJ401vpPwBDHlhvLHj.jpg",
+		"backdrop_path": "/bTqmsKOr9cSdYptFhbFEOmP3qCm.jpg",
 		"genre_ids": [
 			12,
 			878,
@@ -737,7 +775,7 @@
 		"original_language": "en",
 		"original_title": "Ant-Man and the Wasp: Quantumania",
 		"overview": "Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope's parents Janet van Dyne and Hank Pym, and Scott's daughter Cassie Lang, find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought possible.",
-		"poster_path": "/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg",
+		"poster_path": "/8BOXRN6GY32QJM6ggm8DcfG5Jeu.jpg",
 		"release_date": "2023-02-17",
 		"title": "Ant-Man and the Wasp: Quantumania",
 		"video": false,
@@ -797,7 +835,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/xDMIl84Qo5Tsu62c9DGWhmPI67A.jpg",
+		"backdrop_path": "/yYrvN5WFeGYjJnRzhY0QXuo4Isw.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -2258,7 +2296,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/5wNUJs23rT5rTBacNyf5h83AynM.jpg",
+		"backdrop_path": "/kaIfm5ryEOwYg8mLbq8HkPuM1Fo.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -3303,7 +3341,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/uhYoytlNaq46dG81wLmHqaSuzWu.jpg",
+		"backdrop_path": "/4zTsF0RtO0av3YX1NaKDqGKPxYF.jpg",
 		"genre_ids": [
 			28,
 			12,
