@@ -365,8 +365,8 @@
 		"id": 1037199,
 		"original_language": "en",
 		"original_title": "Black Panther 3",
-		"overview": "The third installment in Marvel Studios’ Black Panther franchise.",
-		"poster_path": "/2lF3WbFA39z9KazQza9JJ0wtPAC.jpg",
+		"overview": "Rumored third installment in Marvel Studios’ Black Panther franchise.",
+		"poster_path": null,
 		"release_date": "",
 		"title": "Black Panther 3",
 		"video": false,
@@ -428,7 +428,7 @@
 		"id": 1072946,
 		"original_language": "en",
 		"original_title": "Untitled Doctor Strange 3",
-		"overview": "Sequel to Doctor Strange in the Multiverse of Madness",
+		"overview": "Rumored sequel to Doctor Strange in the Multiverse of Madness.",
 		"poster_path": null,
 		"release_date": "",
 		"title": "Untitled Doctor Strange 3",
@@ -822,7 +822,7 @@
 		"original_language": "en",
 		"original_title": "The Guardians of the Galaxy Holiday Special",
 		"overview": "On a mission to make Christmas unforgettable for Quill, the Guardians head to Earth in search of the perfect present.",
-		"poster_path": "/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg",
+		"poster_path": "/dd5yGBLbqB507gHJSosNY0IYHRQ.jpg",
 		"release_date": "2022-11-25",
 		"title": "The Guardians of the Galaxy Holiday Special",
 		"video": false,
@@ -1118,7 +1118,7 @@
 		"original_language": "en",
 		"original_title": "Marvel Studios Assembled: The Making of Doctor Strange in the Multiverse of Madness",
 		"overview": "Join visionary director Sam Raimi and the cast of the film as they recount their experiences bringing Marvel’s darkest story to life.  From world-building to universe-building, hear first hand accounts from the cast and crew on what it took to design, create and make each universe unique and believable.",
-		"poster_path": "/eIzPe62s12uHsIPhGWY1yp68DY9.jpg",
+		"poster_path": "/9c89FC1gv0rwCqSP1LumIbrYA6a.jpg",
 		"release_date": "2022-07-08",
 		"title": "Marvel Studios Assembled: The Making of Doctor Strange in the Multiverse of Madness",
 		"video": false,
@@ -1568,7 +1568,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/zFOn9MgW1oSGyc8HKUAI3bV8NPc.jpg",
+		"backdrop_path": "/pRkltomS7oZdOttBcRqJRhTJu0J.jpg",
 		"first_air_date": "2021-05-21",
 		"genre_ids": [
 			35,
@@ -2007,7 +2007,7 @@
 		"release_date": "2018-12-11",
 		"title": "Once Upon a Deadpool",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7.2,
 		"slug": "once-upon-a-deadpool",
 		"tags": [
 			"list-8204860"
@@ -2814,7 +2814,7 @@
 		"original_name": "Marvel's Jessica Jones",
 		"overview": "After a tragic ending to her short-lived super hero stint, Jessica Jones is rebuilding her personal life and career as a detective who gets pulled into cases involving people with extraordinary abilities in New York City.",
 		"poster_path": "/1ghmaDw650NuUpGI7mYq6xE2QE2.jpg",
-		"vote_average": 7.5,
+		"vote_average": 7.6,
 		"title": "Marvel's Jessica Jones",
 		"slug": "marvels-jessica-jones",
 		"tags": [
@@ -3020,7 +3020,7 @@
 		"release_date": "2014-11-04",
 		"title": "Marvel: 75 Years, From Pulp to Pop!",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.9,
 		"slug": "marvel-75-years-from-pulp-to-pop",
 		"tags": [
 			"movie",
@@ -4763,7 +4763,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/u4gOTZLplCbP3IgcYcZ7e1zgOAo.jpg",
+		"backdrop_path": "/A9fpAjZLqsODM96aI6kx147LPM9.jpg",
 		"genre_ids": [
 			12,
 			28,

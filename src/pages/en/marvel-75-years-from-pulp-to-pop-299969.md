@@ -32,7 +32,7 @@ tags:
     "release_date": "2014-11-04",
     "title": "Marvel: 75 Years, From Pulp to Pop!",
     "video": false,
-    "vote_average": 6.8,
+    "vote_average": 6.9,
     "slug": "marvel-75-years-from-pulp-to-pop",
     "tags": [
         "movie",

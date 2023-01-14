@@ -18,7 +18,7 @@ watchLinks:
 ## TMDB Data
 ```json
 {
-    "backdrop_path": "/zFOn9MgW1oSGyc8HKUAI3bV8NPc.jpg",
+    "backdrop_path": "/pRkltomS7oZdOttBcRqJRhTJu0J.jpg",
     "first_air_date": "2021-05-21",
     "genre_ids": [
         35,

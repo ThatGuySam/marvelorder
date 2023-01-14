@@ -27,7 +27,7 @@ tags:
     "id": 1072946,
     "original_language": "en",
     "original_title": "Untitled Doctor Strange 3",
-    "overview": "Sequel to Doctor Strange in the Multiverse of Madness",
+    "overview": "Rumored sequel to Doctor Strange in the Multiverse of Madness.",
     "poster_path": null,
     "release_date": "",
     "title": "Untitled Doctor Strange 3",
