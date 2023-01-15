@@ -47,7 +47,7 @@ tags:
     "release_date": "2022-02-09",
     "title": "Marvel Studios Assembled: The Making of Hawkeye",
     "video": false,
-    "vote_average": 7,
+    "vote_average": 7.1,
     "slug": "marvel-studios-assembled-the-making-of-hawkeye",
     "tags": [
         "movie",

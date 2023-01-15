@@ -32,7 +32,7 @@ mcuTimelineOrder: 549
     "original_language": "en",
     "original_name": "Hawkeye",
     "overview": "Former Avenger Clint Barton has a seemingly simple mission: get back to his family for Christmas. Possible? Maybe with the help of Kate Bishop, a 22-year-old archer with dreams of becoming a superhero. The two are forced to work together when a presence from Barton’s past threatens to derail far more than the festive spirit.",
-    "poster_path": "/uQdAET8dl403BIVktl5gjtzXRDT.jpg",
+    "poster_path": "/ct5pNE5dDHryHLDnxyZPYcqO1sz.jpg",
     "vote_average": 8.1,
     "title": "Hawkeye",
     "slug": "hawkeye",
