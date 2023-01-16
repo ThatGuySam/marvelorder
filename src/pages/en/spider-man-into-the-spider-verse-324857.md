@@ -29,7 +29,7 @@ backdrop_path: /x2IqsMlpbOhS8zIUJfyl1yO4gHF.jpg
     "original_title": "Spider-Man: Into the Spider-Verse",
     "overview": "Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson \"Kingpin\" Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.",
     "poster_path": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
-    "release_date": "2018-12-06",
+    "release_date": "2018-12-14",
     "title": "Spider-Man: Into the Spider-Verse",
     "video": false,
     "vote_average": 8.4,
