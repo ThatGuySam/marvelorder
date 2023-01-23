@@ -34,7 +34,7 @@ watchLinks:
     "release_date": "1990-12-14",
     "title": "Captain America",
     "video": false,
-    "vote_average": 4.5,
+    "vote_average": 4.6,
     "slug": "captain-america",
     "tags": [
         "movie",

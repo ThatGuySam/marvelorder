@@ -29,7 +29,7 @@ watchLinks:
     "original_language": "en",
     "original_title": "Howard the Duck",
     "overview": "A scientific experiment unknowingly brings extraterrestrial life forms to the Earth through a laser beam. First is the cigar smoking drake Howard from the duck's planet. A few kids try to keep him from the greedy scientists and help him back to his planet. But then a much less friendly being arrives through the beam...",
-    "poster_path": "/30tnH0hy6S5FjGCfCdnkBd3wqS2.jpg",
+    "poster_path": "/bTzhbm2zERPZYvvSCe8kziWBBV4.jpg",
     "release_date": "1986-08-01",
     "title": "Howard the Duck",
     "video": false,
