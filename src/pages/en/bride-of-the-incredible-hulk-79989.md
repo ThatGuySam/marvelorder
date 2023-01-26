@@ -31,7 +31,7 @@ watchLinks:
     "release_date": "1978-09-22",
     "title": "Bride of the Incredible Hulk",
     "video": false,
-    "vote_average": 6.8,
+    "vote_average": 6.9,
     "slug": "bride-of-the-incredible-hulk",
     "tags": [
         "list-8204862"

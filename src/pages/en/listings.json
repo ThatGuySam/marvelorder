@@ -866,7 +866,7 @@
 		"original_name": "Marvel Lucha Libre Edition: El origen de la máscara",
 		"overview": "The new series was revealed during the pre-shot of AAA’s event, TripleMania XXX: CDMX, where the first trailer was shown. This new series features wrestling matches, but with wrestlers in outfits that are inspired by Marvel Super Heroes.",
 		"poster_path": "/lrSxTzfVZMig68bbX85za2gpxGb.jpg",
-		"vote_average": 0,
+		"vote_average": 8,
 		"title": "Marvel Lucha Libre Edition: The Origin of the Mask",
 		"slug": "marvel-lucha-libre-edition-the-origin-of-the-mask",
 		"tags": [
@@ -1048,7 +1048,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot's First Steps",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 7.1,
 		"slug": "groots-first-steps",
 		"tags": [
 			"movie",
@@ -1608,7 +1608,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/jOJP93WpQrmSXX16lQCNulwuUVO.jpg",
+		"backdrop_path": "/p7PLOCD4bqLV4sJmeLrwvkufHt3.jpg",
 		"first_air_date": "2021-06-09",
 		"genre_ids": [
 			18,
@@ -1656,7 +1656,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/aTjbqMONy77fHJrIYu14g1F0d5h.jpg",
+		"backdrop_path": "/eO8h4fwdjWodPr3awVr5wqMN3Ut.jpg",
 		"first_air_date": "2021-03-19",
 		"genre_ids": [
 			10759,
@@ -1694,7 +1694,7 @@
 		"original_name": "Marvel Studios Assembled",
 		"overview": "Go behind the scenes of the shows and movies of the Marvel Cinematic Universe, following the filmmakers, cast and crew, and Marvel heroes every step of the way.",
 		"poster_path": "/v2BHRwtQVkt5fssLdo5MpFgHJPY.jpg",
-		"vote_average": 7.3,
+		"vote_average": 7.4,
 		"title": "Marvel Studios Assembled",
 		"slug": "marvel-studios-assembled",
 		"tags": [
@@ -3039,7 +3039,7 @@
 		"original_name": "Powers",
 		"overview": "Two homicide detectives, Christian Walker and Deena Pilgrim, are assigned to investigate cases involving people with superhuman abilities, referred to as “Powers.” Set amidst today’s paparazzi culture, Powers asks the questions, what if the world was full of superheroes who aren't actually heroic at all? What if all that power was just one more excuse for mischief, mayhem, murder, and endorsement deals?",
 		"poster_path": "/7imMR8ySLCPG3LsNlGej8GGtXBg.jpg",
-		"vote_average": 6.9,
+		"vote_average": 6.8,
 		"title": "Powers",
 		"slug": "powers",
 		"tags": [
@@ -5119,7 +5119,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/fHx9e35Vn7mMH3O0Fmfds70ABo8.jpg",
+		"backdrop_path": "/GfYVmaRWrNzOfyuoCvtFquaPLW.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -5130,7 +5130,7 @@
 		"original_language": "en",
 		"original_title": "Captain America",
 		"overview": "During World War II, a brave, patriotic American Soldier undergoes experiments to become a new supersoldier, \"Captain America\". Racing to Germany to sabotage the rockets of Nazi baddie \"Red Skull\", Captain America winds up frozen until the 1990s. He reawakens to find that the Red Skull has changed identities and is now planning to kidnap the President of the United States.",
-		"poster_path": "/lUsDBhzogxYOU5XshARgnnZY4Xd.jpg",
+		"poster_path": "/lvHr3y3g63hrpXI3pSCLF62tRSZ.jpg",
 		"release_date": "1990-12-14",
 		"title": "Captain America",
 		"video": false,
@@ -5159,7 +5159,7 @@
 		"release_date": "1990-02-18",
 		"title": "The Death of the Incredible Hulk",
 		"video": false,
-		"vote_average": 5,
+		"vote_average": 5.1,
 		"slug": "the-death-of-the-incredible-hulk",
 		"tags": [
 			"list-8204862"
@@ -5422,7 +5422,7 @@
 		"release_date": "1978-09-22",
 		"title": "Bride of the Incredible Hulk",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.9,
 		"slug": "bride-of-the-incredible-hulk",
 		"tags": [
 			"list-8204862"

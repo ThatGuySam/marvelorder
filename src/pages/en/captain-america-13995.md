@@ -19,7 +19,7 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/fHx9e35Vn7mMH3O0Fmfds70ABo8.jpg",
+    "backdrop_path": "/GfYVmaRWrNzOfyuoCvtFquaPLW.jpg",
     "genre_ids": [
         28,
         12,
@@ -30,7 +30,7 @@ watchLinks:
     "original_language": "en",
     "original_title": "Captain America",
     "overview": "During World War II, a brave, patriotic American Soldier undergoes experiments to become a new supersoldier, \"Captain America\". Racing to Germany to sabotage the rockets of Nazi baddie \"Red Skull\", Captain America winds up frozen until the 1990s. He reawakens to find that the Red Skull has changed identities and is now planning to kidnap the President of the United States.",
-    "poster_path": "/lUsDBhzogxYOU5XshARgnnZY4Xd.jpg",
+    "poster_path": "/lvHr3y3g63hrpXI3pSCLF62tRSZ.jpg",
     "release_date": "1990-12-14",
     "title": "Captain America",
     "video": false,
