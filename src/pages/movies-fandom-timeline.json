@@ -20218,7 +20218,7 @@
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
       {
-        "href": "/wiki/Michelle_Jones",
+        "href": "/wiki/Michelle_Jones-Watson",
         "text": "Michelle Jones",
         "referenceType": "unknown"
       },
@@ -25033,7 +25033,7 @@
         "referenceType": "unknown"
       },
       {
-        "href": "/wiki/Michelle_Jones",
+        "href": "/wiki/Michelle_Jones-Watson",
         "text": "MJ",
         "referenceType": "unknown"
       },
@@ -25130,29 +25130,24 @@
     "primeReferenceTitle": "Spider-Man: Far From Home"
   },
   {
-    "hash": "f262303a-eae6-5a41-a5e7-989918ef500f",
+    "hash": "477393d3-ffa3-5d03-912c-812b9d2100de",
     "timeDescription": "2024 July",
     "timeDescriptionParts": {
       "primary": "2024",
       "secondary": "July",
       "tertiary": ""
     },
-    "textContent": "Peter skydives into London just as Beck launches his attack with the Elemental Fusion. Peter battles a swarm of Beck's drones and destroys the Elemental Fusion illusion. Peter confronts Beck in the Tower Bridge, where he reclaims the E.D.I.T.H. glasses and calls off the attack, saving his classmates in the process. Beck, who had accidentally been caught in the crossfire of one his attack drones in the battle, succumbs to his wounds and apparently dies. Peter and MJ embrace and kiss amid the ruins of the bridge. One of Beck's accomplices, William Ginter Riva, recovers all of Beck's drone files after the battle. Returning to New York, Leeds reveals that he and Brant have ended their short-lived relationship, whereas Hogan and May are just starting one. While taking MJ on a date as Spider-Man across the city, altered footage of Spider-Man battle with Mysterio in London is broadcast on several billboards in the city, incriminating Spider-Man for the attacks. Much to Peter's horror, J. Jonah Jameson broadcasts a confession tape from Beck, that reveals Spider-Man's identity as Peter Parker to the world. ",
+    "textContent": "Peter skydives into London just as Beck launches his attack with the Elemental Fusion. Peter battles a swarm of Beck's drones and destroys the Elemental Fusion illusion. Peter confronts Beck in the Tower Bridge, where he reclaims the E.D.I.T.H. glasses and calls off the attack, saving his classmates in the process. Beck, who had accidentally been caught in the crossfire of one his attack drones in the battle, succumbs to his wounds and apparently dies. Peter and MJ embrace and kiss amid the ruins of the bridge. One of Beck's accomplices, William Ginter Riva, recovers all of Beck's drone files after the battle. Returning to New York, Leeds reveals that he and Brant have ended their short-lived relationship, whereas Hogan and May are just starting one. While taking MJ on a date as Spider-Man across the city, altered footage of Spider-Man battle with Mysterio in London is broadcast on several billboards in the city, incriminating Spider-Man for the attacks. Much to Peter's horror, John Jonah JamesonJ. Jonah Jameson broadcasts a confession tape from Beck, that reveals Spider-Man's identity as Peter Parker to the world. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
-      {
-        "href": "/wiki/J._Jonah_Jameson",
-        "text": "J. Jonah Jameson",
-        "referenceType": "unknown"
-      },
       {
         "href": "/wiki/Spider-Man:_Far_From_Home",
         "text": "Spider-Man: Far From Home",
         "referenceType": "unknown"
       }
     ],
-    "primeReferenceIndex": 1,
+    "primeReferenceIndex": 0,
     "primeReferenceTitle": "Spider-Man: Far From Home"
   },
   {
