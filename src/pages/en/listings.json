@@ -341,24 +341,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [],
-		"id": 969681,
-		"original_language": "en",
-		"original_title": "Untitled Spider-Man 4 Movie",
-		"overview": "",
-		"poster_path": null,
-		"title": "Untitled Spider-Man 4 Movie",
-		"video": false,
-		"vote_average": 0,
-		"slug": "untitled-spider-man-4-movie",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": "/h7BU4fdLjF8ly8NF8mJ4hAQOLKU.jpg",
 		"genre_ids": [
 			878
@@ -670,6 +652,25 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [],
+		"id": 969681,
+		"original_language": "en",
+		"original_title": "Untitled Spider-Man 4 Movie",
+		"overview": "",
+		"poster_path": null,
+		"release_date": "2024-07-12",
+		"title": "Untitled Spider-Man 4 Movie",
+		"video": false,
+		"vote_average": 0,
+		"slug": "untitled-spider-man-4-movie",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/qYvpc3qLb0LpGOBS7JOq5RxYt0x.jpg",
 		"genre_ids": [
 			28,
@@ -726,7 +727,7 @@
 		"original_language": "en",
 		"original_title": "Madame Web",
 		"overview": "An origin story of the clairvoyant known as Madame Web, whose psychic abilities allow her to see within the spider world.",
-		"poster_path": null,
+		"poster_path": "/muIZhixxZuy6idrkuljOJQYCfAp.jpg",
 		"release_date": "2024-02-16",
 		"title": "Madame Web",
 		"video": false,
@@ -1117,7 +1118,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot's First Steps",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7.2,
 		"slug": "groots-first-steps",
 		"tags": [
 			"movie",
@@ -1444,7 +1445,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
+		"backdrop_path": "/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -2947,7 +2948,7 @@
 		"original_name": "Marvel's Jessica Jones",
 		"overview": "After a tragic ending to her short-lived super hero stint, Jessica Jones is rebuilding her personal life and career as a detective who gets pulled into cases involving people with extraordinary abilities in New York City.",
 		"poster_path": "/1ghmaDw650NuUpGI7mYq6xE2QE2.jpg",
-		"vote_average": 7.6,
+		"vote_average": 7.5,
 		"title": "Marvel's Jessica Jones",
 		"slug": "marvels-jessica-jones",
 		"tags": [
@@ -4082,7 +4083,7 @@
 		"original_title": "Iron Man 2",
 		"overview": "With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his side, must forge new alliances – and confront powerful enemies.",
 		"poster_path": "/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
-		"release_date": "2010-05-07",
+		"release_date": "2010-04-28",
 		"title": "Iron Man 2",
 		"video": false,
 		"vote_average": 6.8,
