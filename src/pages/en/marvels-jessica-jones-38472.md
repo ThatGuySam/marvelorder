@@ -30,7 +30,7 @@ mcuTimelineOrder: 85
     "original_name": "Marvel's Jessica Jones",
     "overview": "After a tragic ending to her short-lived super hero stint, Jessica Jones is rebuilding her personal life and career as a detective who gets pulled into cases involving people with extraordinary abilities in New York City.",
     "poster_path": "/1ghmaDw650NuUpGI7mYq6xE2QE2.jpg",
-    "vote_average": 7.5,
+    "vote_average": 7.6,
     "title": "Marvel's Jessica Jones",
     "slug": "marvels-jessica-jones",
     "tags": [

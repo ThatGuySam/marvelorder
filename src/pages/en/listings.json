@@ -341,6 +341,24 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [],
+		"id": 969681,
+		"original_language": "en",
+		"original_title": "Untitled Spider-Man 4 Movie",
+		"overview": "",
+		"poster_path": null,
+		"title": "Untitled Spider-Man 4 Movie",
+		"video": false,
+		"vote_average": 0,
+		"slug": "untitled-spider-man-4-movie",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/h7BU4fdLjF8ly8NF8mJ4hAQOLKU.jpg",
 		"genre_ids": [
 			878
@@ -652,25 +670,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [],
-		"id": 969681,
-		"original_language": "en",
-		"original_title": "Untitled Spider-Man 4 Movie",
-		"overview": "",
-		"poster_path": null,
-		"release_date": "2024-07-12",
-		"title": "Untitled Spider-Man 4 Movie",
-		"video": false,
-		"vote_average": 0,
-		"slug": "untitled-spider-man-4-movie",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": "/qYvpc3qLb0LpGOBS7JOq5RxYt0x.jpg",
 		"genre_ids": [
 			28,
@@ -727,7 +726,7 @@
 		"original_language": "en",
 		"original_title": "Madame Web",
 		"overview": "An origin story of the clairvoyant known as Madame Web, whose psychic abilities allow her to see within the spider world.",
-		"poster_path": "/muIZhixxZuy6idrkuljOJQYCfAp.jpg",
+		"poster_path": null,
 		"release_date": "2024-02-16",
 		"title": "Madame Web",
 		"video": false,
@@ -2855,7 +2854,7 @@
 		"original_language": "en",
 		"original_title": "X-Men: Apocalypse",
 		"overview": "After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.",
-		"poster_path": "/fVmMiVyYlDo6Cp6Grc8STbLcADo.jpg",
+		"poster_path": "/qttNmCib9gHhR5q0QoZ3FgmGom9.jpg",
 		"release_date": "2016-05-18",
 		"title": "X-Men: Apocalypse",
 		"video": false,
@@ -2948,7 +2947,7 @@
 		"original_name": "Marvel's Jessica Jones",
 		"overview": "After a tragic ending to her short-lived super hero stint, Jessica Jones is rebuilding her personal life and career as a detective who gets pulled into cases involving people with extraordinary abilities in New York City.",
 		"poster_path": "/1ghmaDw650NuUpGI7mYq6xE2QE2.jpg",
-		"vote_average": 7.5,
+		"vote_average": 7.6,
 		"title": "Marvel's Jessica Jones",
 		"slug": "marvels-jessica-jones",
 		"tags": [
