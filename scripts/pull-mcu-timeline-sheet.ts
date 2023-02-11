@@ -86,139 +86,141 @@ function buildReadmeList ( matchesMap:Map<number, any> ) {
     // console.log( 'listingFiles', listingFiles )
 
     const listingsDetails = await getListingDetailsFromPaths( listingFiles )
-    const listingDetailsMap = new Map( listingsDetails.map( ( details:any ) => [ details.listing.id, details ] ) )
+    // const listingDetailsMap = new Map( listingsDetails.map( ( details:any ) => [ details.listing.id, details ] ) )
     const allListings = listingsDetails.map( ( details:any ) => details.listing )
 
 
-    const orderableListings = new FilteredListings({
-        listings: allListings,
-        // initialFilters: new Map([
-        //     [ isUpcoming, false ]
-        // ])
-        listingsSort: 'default'
-    })
+    // const orderableListings = new FilteredListings({
+    //     listings: allListings,
+    //     // initialFilters: new Map([
+    //     //     [ isUpcoming, false ]
+    //     // ])
+    //     listingsSort: 'default'
+    // })
 
 
-    const sheet = await axios( macroUrl, {
-        params: {
-            id: mcuTimelineSheetId,
-            sheet: 'Chronological Order',
-            header: 1,
-            startRow: 4
-        }
-    } ).then( res => {
-        return {
-            ...res.data,
-            records: res.data.records.map( ( record:any, recordIndex ) => {
-                const cleanedRecordEntries = Object.entries( record )
-                    .filter( ( [ key ] ) => {
-                        const hasKey = key.length > 0
+    // const sheet = await axios( macroUrl, {
+    //     params: {
+    //         id: mcuTimelineSheetId,
+    //         sheet: 'Chronological Order',
+    //         header: 1,
+    //         startRow: 4
+    //     }
+    // } ).then( res => {
+    //     return {
+    //         ...res.data,
+    //         records: res.data.records.map( ( record:any, recordIndex ) => {
+    //             const cleanedRecordEntries = Object.entries( record )
+    //                 .filter( ( [ key ] ) => {
+    //                     const hasKey = key.length > 0
 
-                        return hasKey
-                    } )
-                    .map( ( [ key, value ]:any ) => {
-                        const isNotes = key.toLowerCase() === 'notes'
+    //                     return hasKey
+    //                 } )
+    //                 .map( ( [ key, value ]:any ) => {
+    //                     const isNotes = key.toLowerCase() === 'notes'
 
-                        if ( !isNotes ) {
-                            return [ key, value ]
-                        }
+    //                     if ( !isNotes ) {
+    //                         return [ key, value ]
+    //                     }
 
-                        const isBelowDetailsRows = recordIndex > 30
+    //                     const isBelowDetailsRows = recordIndex > 30
 
-                        return [
-                            key,
-                            isBelowDetailsRows ? value : ''
-                        ]
-                    } )
+    //                     return [
+    //                         key,
+    //                         isBelowDetailsRows ? value : ''
+    //                     ]
+    //                 } )
 
-                // console.log( 'cleanedRecordEntries', cleanedRecordEntries )
+    //             // console.log( 'cleanedRecordEntries', cleanedRecordEntries )
 
-                return Object.fromEntries( cleanedRecordEntries )
-            })
-        }
-    } )
+    //             return Object.fromEntries( cleanedRecordEntries )
+    //         })
+    //     }
+    // } )
 
-    // Write data to JSON
-    await fs.writeFile( storePath + '/mcu-timeline-sheet.json', JSON.stringify( sheet, null, 2 ) )
-
-
-    const orderedDetails = organizeOrderData( sheet.records )
-
-    const matches = new Map()
-
-    // console.log('orderedDetails', orderedDetails)
-
-    const matchableOrderedTypes = new Set([
-        'movie',
-        'disney-plus',
-        'disney-plus-netflix',
-        'abc',
-        'freeform',
-        'hulu',
-        'web-series',
-        'sony',
-
-        // 'whih',
-        // 'other'
-    ])
-
-    for ( const entry of Object.entries( orderedDetails ) ) {
-        const [
-            ,
-            orderedDetails = null as any
-        ] = entry
-
-        // console.log('orderedDetails.timelineType', orderedDetails.timelineType)
-
-        // Skip entries not from matchable types
-        if ( !matchableOrderedTypes.has( orderedDetails.timelineType ) ) continue
+    // // Write data to JSON
+    // await fs.writeFile( storePath + '/mcu-timeline-sheet.json', JSON.stringify( sheet, null, 2 ) )
 
 
-        // console.log('details', details )
+    // const orderedDetails = organizeOrderData( sheet.records )
 
-        for ( const listing of orderableListings.list ) {
-            const details:any = listingDetailsMap.get( listing.id )
+    // const matches = new Map()
 
-            const alreadyMatched = matches.has( listing.id )
+    // // console.log('orderedDetails', orderedDetails)
 
-            if ( !alreadyMatched && matchListingToOrdered( listing, orderedDetails )  ) {
+    // const matchableOrderedTypes = new Set([
+    //     'movie',
+    //     'disney-plus',
+    //     'disney-plus-netflix',
+    //     'abc',
+    //     'freeform',
+    //     'hulu',
+    //     'web-series',
+    //     'sony',
 
-                // console.log( 'Match!', 1, orderedDetails.title, 2, details.listing.title, getYearAndMonth( orderedDetails.premiereDate ) )
+    //     // 'whih',
+    //     // 'other'
+    // ])
 
-                matches.set( details.listing.id, {
-                    ...orderedDetails,
-                    listing
-                } )
+    // for ( const entry of Object.entries( orderedDetails ) ) {
+    //     const [
+    //         ,
+    //         orderedDetails = null as any
+    //     ] = entry
 
+    //     // console.log('orderedDetails.timelineType', orderedDetails.timelineType)
 
-                await upsertListingMarkdown( {
-                    listing: {
-                        id: details.listing.id,
-                        slug: listing.slug,
-                        overview: listing.sourceListing.description,
-                        title: listing.title,
-
-                        mcuTimelineOrder: orderedDetails.mcuTimelineOrder,
-                    },
-                    tmdb: {},
-                    readMarkdownFile: readMarkdownFileNode,
-                    writeMarkdownFile: writeMarkdownFileNode,
-                    exists: fs.exists,
-                })
-            }
-        }
-    }
+    //     // Skip entries not from matchable types
+    //     if ( !matchableOrderedTypes.has( orderedDetails.timelineType ) ) continue
 
 
-    console.log( 'Updating README viewing-order-list' )
+    //     // console.log('details', details )
 
-    const updatedList = buildReadmeList( matches )
+    //     for ( const listing of orderableListings.list ) {
+    //         const details:any = listingDetailsMap.get( listing.id )
 
-    // console.log( 'updatedList', updatedList )
+    //         const alreadyMatched = matches.has( listing.id )
 
-    await updateReadmeListContent( updatedList, 'viewing-order-list' )
+    //         if ( !alreadyMatched && matchListingToOrdered( listing, orderedDetails )  ) {
 
-    console.log( 'Done' )
+    //             // console.log( 'Match!', 1, orderedDetails.title, 2, details.listing.title, getYearAndMonth( orderedDetails.premiereDate ) )
+
+    //             matches.set( details.listing.id, {
+    //                 ...orderedDetails,
+    //                 listing
+    //             } )
+
+
+    //             await upsertListingMarkdown( {
+    //                 listing: {
+    //                     id: details.listing.id,
+    //                     slug: listing.slug,
+    //                     overview: listing.sourceListing.description,
+    //                     title: listing.title,
+
+    //                     mcuTimelineOrder: orderedDetails.mcuTimelineOrder,
+    //                 },
+    //                 tmdb: {},
+    //                 readMarkdownFile: readMarkdownFileNode,
+    //                 writeMarkdownFile: writeMarkdownFileNode,
+    //                 exists: fs.exists,
+    //             })
+    //         }
+    //     }
+    // }
+
+
+    console.log( '⚠️ MCU SHEET DISABLED' )
+
+    // console.log( 'Updating README viewing-order-list' )
+
+    // const updatedList = buildReadmeList( matches )
+
+    // // console.log( 'updatedList', updatedList )
+
+    // await updateReadmeListContent( updatedList, 'viewing-order-list' )
+
+    // console.log( 'Done' )
 
 
 
