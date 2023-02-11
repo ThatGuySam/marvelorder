@@ -13,7 +13,7 @@ type: tv
 ## TMDB Data
 ```json
 {
-    "backdrop_path": "/wAEWZm2pSopAbqE5dQWE0ET8aR5.jpg",
+    "backdrop_path": "/idxHH75gZ43xSEWi2OUPAEU1Qt8.jpg",
     "first_air_date": "2021-01-08",
     "genre_ids": [
         99,

@@ -20,7 +20,7 @@ logo_on_black: /.netlify/functions/tmdb-image/bnz17wOkp9O0c9JADOncEx0Q1sJ.webp
     "original_language": "en",
     "original_title": "The Marvels",
     "overview": "Carol Danvers, Monica Rambeau, and Kamala Khan trade places with each other every time they use their powers and must team up to fix their problem.",
-    "poster_path": "/iebgAsyL4PCA1kc5yb7Bv0rFp7b.jpg",
+    "poster_path": "/bnz17wOkp9O0c9JADOncEx0Q1sJ.jpg",
     "release_date": "2023-07-26",
     "title": "The Marvels",
     "video": false,

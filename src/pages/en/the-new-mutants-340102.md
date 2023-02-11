@@ -28,7 +28,7 @@ watchLinks:
     "original_language": "en",
     "original_title": "The New Mutants",
     "overview": "Five young mutants, just discovering their abilities while held in a secret facility against their will, fight to escape their past sins and save themselves.",
-    "poster_path": "/xZNw9xxtwbEf25NYoz52KdbXHPM.jpg",
+    "poster_path": "/wI95esQmT9F8eC1wchoRm2ua2HX.jpg",
     "release_date": "2020-08-26",
     "title": "The New Mutants",
     "video": false,

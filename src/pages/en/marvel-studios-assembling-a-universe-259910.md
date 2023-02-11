@@ -16,8 +16,8 @@ watchLinks:
     "adult": false,
     "backdrop_path": "/czHz1DWWE0bcffXybT7u1wNshSx.jpg",
     "genre_ids": [
-        10770,
-        99
+        99,
+        10770
     ],
     "id": 259910,
     "original_language": "en",

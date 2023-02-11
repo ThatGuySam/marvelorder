@@ -29,7 +29,7 @@ mcuTimelineOrder: 508
     "original_language": "en",
     "original_title": "Spider-Man 3",
     "overview": "The seemingly invincible Spider-Man goes up against an all-new crop of villains—including the shape-shifting Sandman. While Spider-Man’s superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle.",
-    "poster_path": "/rmGLCH63IBByBx5SCbsn0pNWHdg.jpg",
+    "poster_path": "/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
     "release_date": "2007-05-01",
     "title": "Spider-Man 3",
     "video": false,

@@ -30,7 +30,7 @@ tags:
     "original_language": "en",
     "original_title": "The Avengers",
     "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
-    "poster_path": "/tYqp6vEOo8YlVWrYQvt9nyOhsA2.jpg",
+    "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
     "release_date": "2012-04-25",
     "title": "The Avengers",
     "video": false,

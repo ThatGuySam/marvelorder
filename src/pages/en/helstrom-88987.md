@@ -32,7 +32,7 @@ mcuTimelineOrder: 496
     "original_name": "Helstrom",
     "overview": "Daimon and Ana Helstrom are the son and daughter of a mysterious and powerful serial killer. The siblings have a complicated dynamic as they track down the terrorizing worst of humanity — each with their attitude and skills.",
     "poster_path": "/8fPIcaRIZgsoBcgA5yAm3GNz61M.jpg",
-    "vote_average": 6.8,
+    "vote_average": 6.9,
     "title": "Helstrom",
     "slug": "helstrom",
     "tags": [

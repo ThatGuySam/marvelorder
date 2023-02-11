@@ -27,7 +27,6 @@ vote_average: 7.1
     "id": 2640,
     "name": "Spider-Man",
     "origin_country": [
-        "US",
         "JP"
     ],
     "original_language": "ja",

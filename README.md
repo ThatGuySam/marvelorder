@@ -63,11 +63,12 @@ This is the *most* official list for the Marvel Chronologically, aka by the time
 - <kbd>37</kbd> - [Doctor Strange in the Multiverse of Madness](https://marvelorder.com/en/doctor-strange-in-the-multiverse-of-madness-453395) - 🎬 Movie - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/doctor-strange-in-the-multiverse-of-madness-453395.md)
 - <kbd>38</kbd> - [Hawkeye](https://marvelorder.com/en/hawkeye-88329) - 📺 Series - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/hawkeye-88329.md)
 - <kbd>39</kbd> - [Moon Knight](https://marvelorder.com/en/moon-knight-92749) - 📺 Series - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/moon-knight-92749.md)
-- <kbd>40</kbd> - [She-Hulk: Attorney at Law](https://marvelorder.com/en/she-hulk-attorney-at-law-92783) - 📺 Series - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/she-hulk-attorney-at-law-92783.md)
-- <kbd>41</kbd> - [Ms. Marvel](https://marvelorder.com/en/ms-marvel-92782) - 📺 Series - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/ms-marvel-92782.md)
-- <kbd>42</kbd> - [Thor: Love and Thunder](https://marvelorder.com/en/thor-love-and-thunder-616037) - 🎬 Movie - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/thor-love-and-thunder-616037.md)
-- <kbd>43</kbd> - [Werewolf By Night](https://marvelorder.com/en/werewolf-by-night-894205) - 🎬 Movie - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/werewolf-by-night-894205.md)
-- <kbd>44</kbd> - [The Guardians of the Galaxy Holiday Special](https://marvelorder.com/en/the-guardians-of-the-galaxy-holiday-special-774752) - 🎬 Movie - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/the-guardians-of-the-galaxy-holiday-special-774752.md)
+- <kbd>40</kbd> - [Black Panther: Wakanda Forever](https://marvelorder.com/en/black-panther-wakanda-forever-505642) - 🎬 Movie - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/black-panther-wakanda-forever-505642.md)
+- <kbd>41</kbd> - [She-Hulk: Attorney at Law](https://marvelorder.com/en/she-hulk-attorney-at-law-92783) - 📺 Series - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/she-hulk-attorney-at-law-92783.md)
+- <kbd>42</kbd> - [Ms. Marvel](https://marvelorder.com/en/ms-marvel-92782) - 📺 Series - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/ms-marvel-92782.md)
+- <kbd>43</kbd> - [Thor: Love and Thunder](https://marvelorder.com/en/thor-love-and-thunder-616037) - 🎬 Movie - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/thor-love-and-thunder-616037.md)
+- <kbd>44</kbd> - [Werewolf By Night](https://marvelorder.com/en/werewolf-by-night-894205) - 🎬 Movie - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/werewolf-by-night-894205.md)
+- <kbd>45</kbd> - [The Guardians of the Galaxy Holiday Special](https://marvelorder.com/en/the-guardians-of-the-galaxy-holiday-special-774752) - 🎬 Movie - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/the-guardians-of-the-galaxy-holiday-special-774752.md)
 
 <!-- end-in-universe-list -->
 
