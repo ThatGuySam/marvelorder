@@ -19,16 +19,16 @@ genre_ids:
     "adult": false,
     "backdrop_path": "/teE8Tp2bsfgunVJZAw77kk8saHI.jpg",
     "genre_ids": [
+        878,
         28,
-        12,
-        878
+        12
     ],
     "id": 447365,
     "original_language": "en",
     "original_title": "Guardians of the Galaxy Volume 3",
     "overview": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
     "poster_path": "/ok4JTPFXGvj81wXK4pHvifCgI9x.jpg",
-    "release_date": "2023-05-05",
+    "release_date": "2023-05-03",
     "title": "Guardians of the Galaxy Volume 3",
     "video": false,
     "vote_average": 0,

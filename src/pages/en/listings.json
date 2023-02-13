@@ -28,8 +28,7 @@
 		"genre_ids": [
 			10759,
 			18,
-			10765,
-			10768
+			10765
 		],
 		"id": 114472,
 		"name": "Secret Invasion",
@@ -828,7 +827,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/bpvjzk0QXbJPV4wVwrHuYiq1TbP.jpg",
+		"backdrop_path": "/9xfDWXAUbFXQK585JvByT5pEAhe.jpg",
 		"genre_ids": [
 			16,
 			28,
@@ -854,16 +853,16 @@
 		"adult": false,
 		"backdrop_path": "/teE8Tp2bsfgunVJZAw77kk8saHI.jpg",
 		"genre_ids": [
+			878,
 			28,
-			12,
-			878
+			12
 		],
 		"id": 447365,
 		"original_language": "en",
 		"original_title": "Guardians of the Galaxy Volume 3",
 		"overview": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
 		"poster_path": "/ok4JTPFXGvj81wXK4pHvifCgI9x.jpg",
-		"release_date": "2023-05-05",
+		"release_date": "2023-05-03",
 		"title": "Guardians of the Galaxy Volume 3",
 		"video": false,
 		"vote_average": 0,
@@ -912,7 +911,7 @@
 		"release_date": "2023-02-10",
 		"title": "Ant-Man and the Wasp: Quantumania",
 		"video": false,
-		"vote_average": 8.3,
+		"vote_average": 7.5,
 		"slug": "ant-man-and-the-wasp-quantumania",
 		"tags": [
 			"movie",
@@ -933,7 +932,7 @@
 		"release_date": "2023-02-08",
 		"title": "Marvel Studios Assembled: The Making of Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 5.2,
+		"vote_average": 5.6,
 		"slug": "marvel-studios-assembled-the-making-of-black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -1502,7 +1501,7 @@
 		"original_language": "en",
 		"original_name": "Hawkeye",
 		"overview": "Former Avenger Clint Barton has a seemingly simple mission: get back to his family for Christmas. Possible? Maybe with the help of Kate Bishop, a 22-year-old archer with dreams of becoming a superhero. The two are forced to work together when a presence from Barton’s past threatens to derail far more than the festive spirit.",
-		"poster_path": "/ct5pNE5dDHryHLDnxyZPYcqO1sz.jpg",
+		"poster_path": "/uQdAET8dl403BIVktl5gjtzXRDT.jpg",
 		"vote_average": 8,
 		"title": "Hawkeye",
 		"slug": "hawkeye",
@@ -1671,27 +1670,6 @@
 		"slug": "marvels-spidey-and-his-amazing-friends",
 		"tags": [
 			"tv",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/4TpIQuD5ZmiPJgQQHQlTySlTSe1.jpg",
-		"genre_ids": [
-			99
-		],
-		"id": 1081297,
-		"original_language": "en",
-		"original_title": "The Making of Loki",
-		"overview": "",
-		"poster_path": "/igv2JtjH7KIiymEQIbDWdCtX4o0.jpg",
-		"release_date": "2021-07-21",
-		"title": "The Making of Loki",
-		"video": false,
-		"vote_average": 5,
-		"slug": "the-making-of-loki",
-		"tags": [
-			"movie",
 			"company-420"
 		]
 	},

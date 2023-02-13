@@ -17,8 +17,7 @@ release_date: 'Spring 2023'
     "genre_ids": [
         10759,
         18,
-        10765,
-        10768
+        10765
     ],
     "id": 114472,
     "name": "Secret Invasion",
