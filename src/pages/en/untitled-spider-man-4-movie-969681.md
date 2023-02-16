@@ -10,7 +10,9 @@ type: movie
 {
     "adult": false,
     "backdrop_path": null,
-    "genre_ids": [],
+    "genre_ids": [
+        28
+    ],
     "id": 969681,
     "original_language": "en",
     "original_title": "Untitled Spider-Man 4 Movie",
