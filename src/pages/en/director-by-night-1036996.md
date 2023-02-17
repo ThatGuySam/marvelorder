@@ -33,7 +33,7 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/MvtoMKzEovKhBltGIDjjEJyD4Q.jpg",
+    "backdrop_path": "/rhuqRlqEZhTqKdiRCFrJlncZ7vN.jpg",
     "genre_ids": [
         99
     ],
@@ -45,7 +45,7 @@ tags:
     "release_date": "2022-11-04",
     "title": "Director by Night",
     "video": false,
-    "vote_average": 5.5,
+    "vote_average": 5.7,
     "slug": "director-by-night",
     "tags": [
         "movie",

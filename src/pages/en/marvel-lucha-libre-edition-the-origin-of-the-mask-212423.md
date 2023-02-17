@@ -47,7 +47,7 @@ tags:
     "original_name": "Marvel Lucha Libre Edition: El origen de la máscara",
     "overview": "The new series was revealed during the pre-shot of AAA’s event, TripleMania XXX: CDMX, where the first trailer was shown. This new series features wrestling matches, but with wrestlers in outfits that are inspired by Marvel Super Heroes.",
     "poster_path": "/lrSxTzfVZMig68bbX85za2gpxGb.jpg",
-    "vote_average": 7,
+    "vote_average": 7.8,
     "title": "Marvel Lucha Libre Edition: The Origin of the Mask",
     "slug": "marvel-lucha-libre-edition-the-origin-of-the-mask",
     "tags": [
