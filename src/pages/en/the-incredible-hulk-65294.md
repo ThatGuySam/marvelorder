@@ -25,10 +25,10 @@ logo_on_black: /.netlify/functions/fanart/the-incredible-hulk-1982-5950c1b13ae4f
     "original_title": "The Incredible Hulk",
     "overview": "An accidental overdose of gamma radiation causes a mutation in scientist David Banner's DNA: now whenever he becomes angry, he metamorphoses into a seven-foot-tall, 330-pound, mindless muscular green creature.",
     "poster_path": "/eMdysVpG2i3PzydIqkY4jt2YUZ8.jpg",
-    "release_date": "2023-02-16",
+    "release_date": "1977-11-04",
     "title": "The Incredible Hulk",
     "video": false,
-    "vote_average": 6.4,
+    "vote_average": 0,
     "slug": "the-incredible-hulk",
     "tags": [
         "list-8204862"

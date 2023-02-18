@@ -806,6 +806,29 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": "/3AbHZcRdon7TmpqracuQqgJxOGE.jpg",
+		"genre_ids": [
+			28,
+			12,
+			878
+		],
+		"id": 609681,
+		"original_language": "en",
+		"original_title": "The Marvels",
+		"overview": "Carol Danvers, Monica Rambeau, and Kamala Khan trade places with each other every time they use their powers and must team up to fix their problem.",
+		"poster_path": "/rp3cjGabBAVpZtKyY4jiwikzj3H.jpg",
+		"release_date": "2023-11-08",
+		"title": "The Marvels",
+		"video": false,
+		"vote_average": 0,
+		"slug": "the-marvels",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": null,
 		"genre_ids": [
 			28,
@@ -824,29 +847,6 @@
 		"tags": [
 			"movie",
 			"company-7505"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/3AbHZcRdon7TmpqracuQqgJxOGE.jpg",
-		"genre_ids": [
-			28,
-			12,
-			878
-		],
-		"id": 609681,
-		"original_language": "en",
-		"original_title": "The Marvels",
-		"overview": "Carol Danvers, Monica Rambeau, and Kamala Khan trade places with each other every time they use their powers and must team up to fix their problem.",
-		"poster_path": "/bnz17wOkp9O0c9JADOncEx0Q1sJ.jpg",
-		"release_date": "2023-07-26",
-		"title": "The Marvels",
-		"video": false,
-		"vote_average": 0,
-		"slug": "the-marvels",
-		"tags": [
-			"movie",
-			"company-420"
 		]
 	},
 	{
@@ -921,33 +921,10 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/eTGbkHzD8VijGgmXDjQze9eceUO.jpg",
-		"genre_ids": [
-			28,
-			12,
-			18
-		],
-		"id": 65294,
-		"media_type": "movie",
-		"original_language": "en",
-		"original_title": "The Incredible Hulk",
-		"overview": "An accidental overdose of gamma radiation causes a mutation in scientist David Banner's DNA: now whenever he becomes angry, he metamorphoses into a seven-foot-tall, 330-pound, mindless muscular green creature.",
-		"poster_path": "/eMdysVpG2i3PzydIqkY4jt2YUZ8.jpg",
-		"release_date": "2023-02-16",
-		"title": "The Incredible Hulk",
-		"video": false,
-		"vote_average": 6.4,
-		"slug": "the-incredible-hulk",
-		"tags": [
-			"list-8204862"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": "/8YFL5QQVPy3AgrEQxNYVSgiPEbe.jpg",
 		"genre_ids": [
-			12,
 			878,
+			12,
 			35
 		],
 		"id": 640146,
@@ -958,7 +935,7 @@
 		"release_date": "2023-02-10",
 		"title": "Ant-Man and the Wasp: Quantumania",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 6.7,
 		"slug": "ant-man-and-the-wasp-quantumania",
 		"tags": [
 			"movie",
@@ -979,7 +956,7 @@
 		"release_date": "2023-02-08",
 		"title": "Marvel Studios Assembled: The Making of Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 6.1,
+		"vote_average": 6.5,
 		"slug": "marvel-studios-assembled-the-making-of-black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -1002,7 +979,7 @@
 		"original_name": "Marvel Lucha Libre Edition: El origen de la máscara",
 		"overview": "The new series was revealed during the pre-shot of AAA’s event, TripleMania XXX: CDMX, where the first trailer was shown. This new series features wrestling matches, but with wrestlers in outfits that are inspired by Marvel Super Heroes.",
 		"poster_path": "/lrSxTzfVZMig68bbX85za2gpxGb.jpg",
-		"vote_average": 7.8,
+		"vote_average": 7,
 		"title": "Marvel Lucha Libre Edition: The Origin of the Mask",
 		"slug": "marvel-lucha-libre-edition-the-origin-of-the-mask",
 		"tags": [
@@ -1070,7 +1047,7 @@
 		"release_date": "2022-11-04",
 		"title": "Director by Night",
 		"video": false,
-		"vote_average": 5.7,
+		"vote_average": 6.2,
 		"slug": "director-by-night",
 		"tags": [
 			"movie",
@@ -4291,7 +4268,7 @@
 		"original_language": "en",
 		"original_name": "Iron Man: Armored Adventures",
 		"overview": "Iron Man: Armored Adventures is a 3D CGI cartoon series based on the Marvel Comics superhero Iron Man. It debuted in the USA on the Nicktoons on April 24, 2009, and has already begun airing on Canadian network Teletoon. Iron Man: Armored Adventures aired on Nickelodeon on July 4, 2009 until September 12, 2009. The series is story edited by showrunner Christopher Yost, who also worked on Wolverine and the X-Men, and numerous other Marvel Animation projects. The television show is not related to the 2007 animated film The Invincible Iron Man; It has a different voice cast, but some story elements are similar and the show uses the same musical score as the film in some instances. It is the first Iron Man television series since Iron Man from 1994–1996, and started airing after the success of the live action Iron Man film.\n\nThe series follows the adventures of teenage child prodigy Tony Stark and his alter ego of Iron Man. As Iron Man, he uses his technological inventions to fight various similarly technologically advanced threats. His friends, James \"Rhodey\" Rhodes and Pepper Potts help him on his courageous, and dangerous adventures.",
-		"poster_path": "/uwMIL8PR1jHpHQksIq7kzdeqg2A.jpg",
+		"poster_path": "/kIJGgBwh37V2nfgnJFaN7zDIjdv.jpg",
 		"vote_average": 7.5,
 		"title": "Iron Man: Armored Adventures",
 		"slug": "iron-man-armored-adventures",
@@ -4415,6 +4392,27 @@
 		"slug": "the-spectacular-spider-man",
 		"tags": [
 			"tv",
+			"company-7505"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			99
+		],
+		"id": 1087976,
+		"original_language": "en",
+		"original_title": "Sentinel of the Spaceways: Comic Book Origins of the Silver Surfer",
+		"overview": "In this documentary, Fantastic Four creator Stan Lee, writer/artist Jim Starlin, and writers Ron Marz, Steve Englehart, and JM DeMatteis examine the beginnings of the Surfer in the comics and follow his development over the years.",
+		"poster_path": "/yqW0uU9ZgIDgsnbPfJQu8j6I32N.jpg",
+		"release_date": "2007-10-02",
+		"title": "Sentinel of the Spaceways: Comic Book Origins of the Silver Surfer",
+		"video": false,
+		"vote_average": 0,
+		"slug": "sentinel-of-the-spaceways-comic-book-origins-of-the-silver-surfer",
+		"tags": [
+			"movie",
 			"company-7505"
 		]
 	},
@@ -5730,6 +5728,29 @@
 		"poster_path": "/8q7uFuNuMWTWfcpnCpBuZa3KZXx.jpg",
 		"vote_average": 7.3,
 		"title": "The Incredible Hulk",
+		"slug": "the-incredible-hulk",
+		"tags": [
+			"list-8204862"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/eTGbkHzD8VijGgmXDjQze9eceUO.jpg",
+		"genre_ids": [
+			28,
+			12,
+			18
+		],
+		"id": 65294,
+		"media_type": "movie",
+		"original_language": "en",
+		"original_title": "The Incredible Hulk",
+		"overview": "An accidental overdose of gamma radiation causes a mutation in scientist David Banner's DNA: now whenever he becomes angry, he metamorphoses into a seven-foot-tall, 330-pound, mindless muscular green creature.",
+		"poster_path": "/eMdysVpG2i3PzydIqkY4jt2YUZ8.jpg",
+		"release_date": "1977-11-04",
+		"title": "The Incredible Hulk",
+		"video": false,
+		"vote_average": 0,
 		"slug": "the-incredible-hulk",
 		"tags": [
 			"list-8204862"

@@ -16,8 +16,8 @@ tags:
     "adult": false,
     "backdrop_path": "/8YFL5QQVPy3AgrEQxNYVSgiPEbe.jpg",
     "genre_ids": [
-        12,
         878,
+        12,
         35
     ],
     "id": 640146,
@@ -28,7 +28,7 @@ tags:
     "release_date": "2023-02-10",
     "title": "Ant-Man and the Wasp: Quantumania",
     "video": false,
-    "vote_average": 7.2,
+    "vote_average": 6.7,
     "slug": "ant-man-and-the-wasp-quantumania",
     "tags": [
         "movie",
