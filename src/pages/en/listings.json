@@ -655,7 +655,7 @@
 		"original_language": "en",
 		"original_title": "Deadpool 3",
 		"overview": "The third installment in the Deadpool franchise.",
-		"poster_path": "/38n2ZSgwzEj51zB02rNuurHZC7Z.jpg",
+		"poster_path": "/4gdqWCVvidYR0pOHuVOqFundbUG.jpg",
 		"release_date": "2024-11-06",
 		"title": "Deadpool 3",
 		"video": false,
@@ -921,7 +921,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/8YFL5QQVPy3AgrEQxNYVSgiPEbe.jpg",
+		"backdrop_path": "/HfjndPe768ZLyjMNySmeNyJdl4.jpg",
 		"genre_ids": [
 			878,
 			12,
@@ -935,7 +935,7 @@
 		"release_date": "2023-02-10",
 		"title": "Ant-Man and the Wasp: Quantumania",
 		"video": false,
-		"vote_average": 6.7,
+		"vote_average": 6.6,
 		"slug": "ant-man-and-the-wasp-quantumania",
 		"tags": [
 			"movie",
@@ -2248,7 +2248,7 @@
 		"original_language": "en",
 		"original_title": "Ant-Man and the Wasp",
 		"overview": "Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.",
-		"poster_path": "/cFQEO687n1K6umXbInzocxcnAQz.jpg",
+		"poster_path": "/4YDAODnSkxtPjvDDSJjm1JLIz0i.jpg",
 		"release_date": "2018-07-04",
 		"title": "Ant-Man and the Wasp",
 		"video": false,
@@ -5750,7 +5750,7 @@
 		"release_date": "1977-11-04",
 		"title": "The Incredible Hulk",
 		"video": false,
-		"vote_average": 0,
+		"vote_average": 6.4,
 		"slug": "the-incredible-hulk",
 		"tags": [
 			"list-8204862"
