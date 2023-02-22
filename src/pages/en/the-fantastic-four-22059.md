@@ -29,7 +29,7 @@ watchLinks:
     "original_title": "The Fantastic Four",
     "overview": "The Fantastic Four is an unreleased low-budget feature film completed in 1994. Created to secure copyright to the property, the producers never intended it for release although the director, actors, and other participants were not informed of this fact. It was produced by low-budget specialist Roger Corman and Bernd Eichinger (who also produced the 2005 Fantastic Four movie).",
     "poster_path": "/2jJoV3Lze514jOAPagF4Fkp5Cl8.jpg",
-    "release_date": "1994-01-01",
+    "release_date": "1994-05-31",
     "title": "The Fantastic Four",
     "video": false,
     "vote_average": 4.5,

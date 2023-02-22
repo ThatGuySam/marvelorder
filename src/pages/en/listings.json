@@ -898,7 +898,7 @@
 	},
 	{
 		"backdrop_path": null,
-		"first_air_date": "2023-02-22",
+		"first_air_date": "2023-02-28",
 		"genre_ids": [
 			99
 		],
@@ -921,7 +921,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/3JSoB7eMbCd8sE8alxNiUtrNiTz.jpg",
+		"backdrop_path": "/8YFL5QQVPy3AgrEQxNYVSgiPEbe.jpg",
 		"genre_ids": [
 			12,
 			878,
@@ -1026,7 +1026,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 7.5,
+		"vote_average": 7.4,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -5216,7 +5216,7 @@
 		"original_title": "The Fantastic Four",
 		"overview": "The Fantastic Four is an unreleased low-budget feature film completed in 1994. Created to secure copyright to the property, the producers never intended it for release although the director, actors, and other participants were not informed of this fact. It was produced by low-budget specialist Roger Corman and Bernd Eichinger (who also produced the 2005 Fantastic Four movie).",
 		"poster_path": "/2jJoV3Lze514jOAPagF4Fkp5Cl8.jpg",
-		"release_date": "1994-01-01",
+		"release_date": "1994-05-31",
 		"title": "The Fantastic Four",
 		"video": false,
 		"vote_average": 4.5,
