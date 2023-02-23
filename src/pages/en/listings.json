@@ -583,7 +583,7 @@
 		"id": 1003598,
 		"original_language": "en",
 		"original_title": "Avengers: Secret Wars",
-		"overview": "In \"Avengers: Secret Wars,\" the Avengers face their greatest challenge yet as they find themselves caught up in an epic battle in an alternate dimension. After a mysterious portal appears in Stark Tower, the Avengers are transported to a completely new world where they come face-to-face with their counterparts from alternate universes. They soon discover that a cosmic entity known as The Beyonder has brought them together to witness the final battle between two teams of heroes selected from different universes. With the fate of the multiverse at stake, the Avengers will have to fight alongside their counterparts from other universes to survive and find a way back home. But with new and powerful enemies emerging at every turn, the Avengers may be facing a battle they cannot win. Will they be able to overcome their differences and fight together for the survival of the multiverse?",
+		"overview": "An upcoming Phase 6 Marvel Cinematic Universe film and the finale of The Multiverse Saga.",
 		"poster_path": "/8chwENebfUEJzZ7sMUA0nOgiCKk.jpg",
 		"release_date": "2026-04-29",
 		"title": "Avengers: Secret Wars",
@@ -607,9 +607,9 @@
 		"id": 1003596,
 		"original_language": "en",
 		"original_title": "Avengers: The Kang Dynasty",
-		"overview": "In \"Avengers: The Dynasty of Kang,\" our heroes face a far more dangerous foe than any they have faced before. Kang the Conqueror, a powerful villain from the future, has traveled to the past to create a new timeline where he is the supreme ruler and the Avengers never existed. The heroes must unite with allies from the past and future to fight against this new enemy and restore order to the timeline. However, when they discover that Kang's true motivation is to protect the universe from an even greater threat, the heroes are forced to make difficult decisions and sacrifices to save humanity and protect the fabric of time and space. Will the Avengers prevail in this epic temporal battle? Only time will tell.",
+		"overview": "An upcoming Phase 6 Marvel Cinematic Universe film and part of The Multiverse Saga.",
 		"poster_path": "/utZTb3VBrH0zR77BcISU67pHuAx.jpg",
-		"release_date": "2025-04-30",
+		"release_date": "2025-05-02",
 		"title": "Avengers: The Kang Dynasty",
 		"video": false,
 		"vote_average": 0,
@@ -909,7 +909,7 @@
 		],
 		"original_language": "en",
 		"original_name": "Voices Rising: The Music of Wakanda Forever",
-		"overview": "A new documentary series focusing on the music from Marvel Studios’ Black Panther: Wakanda Forever. The show centers on the songs and score from the movie and features interview with director Ryan Coogler, composer Ludwig Göransson, among others.",
+		"overview": "A documentary series focusing on the music from Marvel Studios’ Black Panther: Wakanda Forever. The show centers on the songs and score from the movie and features interview with director Ryan Coogler, composer Ludwig Göransson, among others.",
 		"poster_path": null,
 		"vote_average": 0,
 		"title": "Voices Rising: The Music of Wakanda Forever",
@@ -935,7 +935,7 @@
 		"release_date": "2023-02-10",
 		"title": "Ant-Man and the Wasp: Quantumania",
 		"video": false,
-		"vote_average": 6.6,
+		"vote_average": 6.5,
 		"slug": "ant-man-and-the-wasp-quantumania",
 		"tags": [
 			"movie",
@@ -2837,7 +2837,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/j7AHhA0bH5FlVPVMFcKNOLC4PMv.jpg",
+		"backdrop_path": "/p4YxnvdMWsC5Kx8UIs5DwVy7u2F.jpg",
 		"first_air_date": "2016-09-30",
 		"genre_ids": [
 			18,

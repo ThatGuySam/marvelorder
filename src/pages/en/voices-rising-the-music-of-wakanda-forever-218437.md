@@ -43,7 +43,7 @@ tags:
     ],
     "original_language": "en",
     "original_name": "Voices Rising: The Music of Wakanda Forever",
-    "overview": "A new documentary series focusing on the music from Marvel Studios’ Black Panther: Wakanda Forever. The show centers on the songs and score from the movie and features interview with director Ryan Coogler, composer Ludwig Göransson, among others.",
+    "overview": "A documentary series focusing on the music from Marvel Studios’ Black Panther: Wakanda Forever. The show centers on the songs and score from the movie and features interview with director Ryan Coogler, composer Ludwig Göransson, among others.",
     "poster_path": null,
     "vote_average": 0,
     "title": "Voices Rising: The Music of Wakanda Forever",

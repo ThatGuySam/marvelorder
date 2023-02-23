@@ -22,7 +22,7 @@ tags:
     "id": 1003598,
     "original_language": "en",
     "original_title": "Avengers: Secret Wars",
-    "overview": "In \"Avengers: Secret Wars,\" the Avengers face their greatest challenge yet as they find themselves caught up in an epic battle in an alternate dimension. After a mysterious portal appears in Stark Tower, the Avengers are transported to a completely new world where they come face-to-face with their counterparts from alternate universes. They soon discover that a cosmic entity known as The Beyonder has brought them together to witness the final battle between two teams of heroes selected from different universes. With the fate of the multiverse at stake, the Avengers will have to fight alongside their counterparts from other universes to survive and find a way back home. But with new and powerful enemies emerging at every turn, the Avengers may be facing a battle they cannot win. Will they be able to overcome their differences and fight together for the survival of the multiverse?",
+    "overview": "An upcoming Phase 6 Marvel Cinematic Universe film and the finale of The Multiverse Saga.",
     "poster_path": "/8chwENebfUEJzZ7sMUA0nOgiCKk.jpg",
     "release_date": "2026-04-29",
     "title": "Avengers: Secret Wars",

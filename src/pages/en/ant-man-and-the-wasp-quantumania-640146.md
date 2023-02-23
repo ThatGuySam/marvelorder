@@ -28,7 +28,7 @@ tags:
     "release_date": "2023-02-10",
     "title": "Ant-Man and the Wasp: Quantumania",
     "video": false,
-    "vote_average": 6.6,
+    "vote_average": 6.5,
     "slug": "ant-man-and-the-wasp-quantumania",
     "tags": [
         "movie",
