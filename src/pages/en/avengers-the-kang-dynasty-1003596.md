@@ -22,7 +22,7 @@ tags:
     "id": 1003596,
     "original_language": "en",
     "original_title": "Avengers: The Kang Dynasty",
-    "overview": "An upcoming Phase 6 Marvel Cinematic Universe film and part of The Multiverse Saga.",
+    "overview": "An upcoming film in the Marvel Cinematic Universe's sixth Phase and part of The Multiverse Saga. Plot unknown.",
     "poster_path": "/utZTb3VBrH0zR77BcISU67pHuAx.jpg",
     "release_date": "2025-05-02",
     "title": "Avengers: The Kang Dynasty",

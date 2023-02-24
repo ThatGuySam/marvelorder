@@ -93,7 +93,7 @@ This is the *most* official list for the Marvel Chronologically, aka by the time
 - September 4, 2024 - [Blade](https://marvelorder.com/en/blade-617127) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/blade-617127.md)
 - November 6, 2024 - [Deadpool 3](https://marvelorder.com/en/deadpool-3-533535) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/deadpool-3-533535.md)
 - February 12, 2025 - [Fantastic Four](https://marvelorder.com/en/fantastic-four-617126) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/fantastic-four-617126.md)
-- April 30, 2025 - [Avengers: The Kang Dynasty](https://marvelorder.com/en/avengers-the-kang-dynasty-1003596) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/avengers-the-kang-dynasty-1003596.md)
+- May 2, 2025 - [Avengers: The Kang Dynasty](https://marvelorder.com/en/avengers-the-kang-dynasty-1003596) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/avengers-the-kang-dynasty-1003596.md)
 - April 29, 2026 - [Avengers: Secret Wars](https://marvelorder.com/en/avengers-secret-wars-1003598) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/avengers-secret-wars-1003598.md)
 
 <!-- end-upcoming-list -->
