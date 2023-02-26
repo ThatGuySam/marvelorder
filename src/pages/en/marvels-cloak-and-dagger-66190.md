@@ -30,8 +30,8 @@ mcuTimelineOrder: 155
     "original_language": "en",
     "original_name": "Marvel's Cloak & Dagger",
     "overview": "Two teenagers from very different backgrounds awaken to newly acquired superpowers which mysteriously link them to one another.",
-    "poster_path": "/gC20yybaer1cKA5HXSji4briMdu.jpg",
-    "vote_average": 7.3,
+    "poster_path": "/pYnRJuBPEqZO1o4fcxBTgmKNHfy.jpg",
+    "vote_average": 7.4,
     "title": "Marvel's Cloak & Dagger",
     "slug": "marvels-cloak-and-dagger",
     "tags": [

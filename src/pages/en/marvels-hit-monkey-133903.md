@@ -18,8 +18,8 @@ watchLinks:
     "backdrop_path": "/yT5ZZ3kOtCzJJVLKKp2YCNrOKrh.jpg",
     "first_air_date": "2021-11-17",
     "genre_ids": [
-        10759,
-        16
+        16,
+        10759
     ],
     "id": 133903,
     "name": "Marvel's Hit-Monkey",

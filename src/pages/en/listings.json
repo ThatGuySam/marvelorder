@@ -1560,8 +1560,8 @@
 		"backdrop_path": "/yT5ZZ3kOtCzJJVLKKp2YCNrOKrh.jpg",
 		"first_air_date": "2021-11-17",
 		"genre_ids": [
-			10759,
-			16
+			16,
+			10759
 		],
 		"id": 133903,
 		"name": "Marvel's Hit-Monkey",
@@ -1594,7 +1594,7 @@
 		"release_date": "2021-11-12",
 		"title": "Marvel Studios' 2021 Disney+ Day Special",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 7.1,
 		"slug": "marvel-studios-2021-disney-day-special",
 		"tags": [
 			"movie",
@@ -2297,8 +2297,8 @@
 		"original_language": "en",
 		"original_name": "Marvel's Cloak & Dagger",
 		"overview": "Two teenagers from very different backgrounds awaken to newly acquired superpowers which mysteriously link them to one another.",
-		"poster_path": "/gC20yybaer1cKA5HXSji4briMdu.jpg",
-		"vote_average": 7.3,
+		"poster_path": "/pYnRJuBPEqZO1o4fcxBTgmKNHfy.jpg",
+		"vote_average": 7.4,
 		"title": "Marvel's Cloak & Dagger",
 		"slug": "marvels-cloak-and-dagger",
 		"tags": [
@@ -5290,7 +5290,7 @@
 		"release_date": "1990-12-14",
 		"title": "Captain America",
 		"video": false,
-		"vote_average": 4.6,
+		"vote_average": 4.5,
 		"slug": "captain-america",
 		"tags": [
 			"movie",
