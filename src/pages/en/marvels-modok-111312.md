@@ -22,7 +22,9 @@ watchLinks:
     "first_air_date": "2021-05-21",
     "genre_ids": [
         35,
-        16
+        16,
+        10759,
+        10765
     ],
     "id": 111312,
     "name": "Marvel's M.O.D.O.K.",

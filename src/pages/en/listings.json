@@ -770,7 +770,7 @@
 		"original_language": "en",
 		"original_title": "Madame Web",
 		"overview": "An origin story of the clairvoyant known as Madame Web, whose psychic abilities allow her to see within the spider world.",
-		"poster_path": null,
+		"poster_path": "/wLYYdRh9i5ql8GLWhmQvqtPaUkq.jpg",
 		"release_date": "2024-02-16",
 		"title": "Madame Web",
 		"video": false,
@@ -1771,7 +1771,9 @@
 		"first_air_date": "2021-05-21",
 		"genre_ids": [
 			35,
-			16
+			16,
+			10759,
+			10765
 		],
 		"id": 111312,
 		"name": "Marvel's M.O.D.O.K.",
@@ -2389,7 +2391,7 @@
 		"release_date": "2018-02-20",
 		"title": "Team Darryl",
 		"video": false,
-		"vote_average": 6.2,
+		"vote_average": 6.3,
 		"slug": "team-darryl",
 		"tags": [
 			"movie",
