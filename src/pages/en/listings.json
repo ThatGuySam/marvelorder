@@ -921,7 +921,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/8YFL5QQVPy3AgrEQxNYVSgiPEbe.jpg",
+		"backdrop_path": "/3JSoB7eMbCd8sE8alxNiUtrNiTz.jpg",
 		"genre_ids": [
 			12,
 			878,
@@ -1185,7 +1185,7 @@
 		"release_date": "2022-08-10",
 		"title": "The Little Guy",
 		"video": false,
-		"vote_average": 7.4,
+		"vote_average": 7.5,
 		"slug": "the-little-guy",
 		"tags": [
 			"movie",
@@ -1454,7 +1454,7 @@
 		"original_language": "en",
 		"original_title": "Marvel Studios Assembled: The Making of Eternals",
 		"overview": "Join director Chloe Zhao and the Cast of Eternals as they recount their experiences during the making of Marvel Studios’ most ambitious film to date. Discover how the ensemble cast felt stepping into their roles, filming in remote locations, and creating bonds that would help to create the on-screen relationships that span over 7,000 years.",
-		"poster_path": "/fBJ5ZjFJ6IHQWz90SsW80PizVlF.jpg",
+		"poster_path": "/qtbHln5wDBHp8aoFNbU55ZBzgF4.jpg",
 		"release_date": "2022-02-16",
 		"title": "Marvel Studios Assembled: The Making of Eternals",
 		"video": false,
@@ -1619,6 +1619,27 @@
 		"video": false,
 		"vote_average": 7,
 		"slug": "eternals",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/suWd7bcLIPb4jeLKd4Pn945J0m0.jpg",
+		"genre_ids": [
+			99
+		],
+		"id": 1092614,
+		"original_language": "en",
+		"original_title": "Marvel Studios Assembled: The Making of What If...?",
+		"overview": "Join the creative team responsible for Marvel Studios’ “What If…?” on a journey behind-the-scenes of the inventive animated series. Discover how the show’s unusual storylines were crafted, along with how the series’ unique animation style was achieved, and visit renowned actor Jeffrey Wright in the studio as he voices The Watcher, breathing new life into the iconic character from the Marvel comics.",
+		"poster_path": "/AtM5rjIyKXR7HMymdhJPqoSfvWL.jpg",
+		"release_date": "2021-10-27",
+		"title": "Marvel Studios Assembled: The Making of What If...?",
+		"video": false,
+		"vote_average": 0,
+		"slug": "marvel-studios-assembled-the-making-of-what-if",
 		"tags": [
 			"movie",
 			"company-420"
@@ -2829,7 +2850,7 @@
 		"original_name": "Marvel's Ultimate Comics",
 		"overview": "After Spider-Man stops some crooks from robbing a Stark Enterprises facility, Iron Man decides to pay him back with some on the job training. His plan goes awry when D-List villain Batroc the Leaper returns with new powers. Black Panther gets a visit from Everett K. Ross to discuss security for a possible international summit in Wakanda. The visit is unexpectedly interrupted by super-villain, Ghost.",
 		"poster_path": "/6ObO02dL4QbzMuhnW3jU3XYkuAq.jpg",
-		"vote_average": 4.3,
+		"vote_average": 5.3,
 		"title": "Marvel's Ultimate Comics",
 		"slug": "marvels-ultimate-comics",
 		"tags": [
@@ -4416,27 +4437,6 @@
 		"slug": "the-spectacular-spider-man",
 		"tags": [
 			"tv",
-			"company-7505"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
-			99
-		],
-		"id": 1087976,
-		"original_language": "en",
-		"original_title": "Sentinel of the Spaceways: Comic Book Origins of the Silver Surfer",
-		"overview": "In this documentary, Fantastic Four creator Stan Lee, writer/artist Jim Starlin, and writers Ron Marz, Steve Englehart, and JM DeMatteis examine the beginnings of the Surfer in the comics and follow his development over the years.",
-		"poster_path": "/yqW0uU9ZgIDgsnbPfJQu8j6I32N.jpg",
-		"release_date": "2007-10-02",
-		"title": "Sentinel of the Spaceways: Comic Book Origins of the Silver Surfer",
-		"video": false,
-		"vote_average": 0,
-		"slug": "sentinel-of-the-spaceways-comic-book-origins-of-the-silver-surfer",
-		"tags": [
-			"movie",
 			"company-7505"
 		]
 	},
