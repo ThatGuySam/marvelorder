@@ -31,7 +31,7 @@ tags:
 ## TMDB Data
 ```json
 {
-    "backdrop_path": null,
+    "backdrop_path": "/tlgaJgn3VAeZ9lrYP4I7sGONvYD.jpg",
     "first_air_date": "2023-02-28",
     "genre_ids": [
         99
@@ -44,7 +44,7 @@ tags:
     "original_language": "en",
     "original_name": "Voices Rising: The Music of Wakanda Forever",
     "overview": "A documentary series focusing on the music from Marvel Studios’ Black Panther: Wakanda Forever. The show centers on the songs and score from the movie and features interview with director Ryan Coogler, composer Ludwig Göransson, among others.",
-    "poster_path": null,
+    "poster_path": "/tD0z0ONzplsO7JLkDk1cMTWR1Rd.jpg",
     "vote_average": 0,
     "title": "Voices Rising: The Music of Wakanda Forever",
     "slug": "voices-rising-the-music-of-wakanda-forever",
