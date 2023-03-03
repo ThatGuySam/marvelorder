@@ -29,7 +29,7 @@ type: tv
     "original_name": "Marvel Studios Legends",
     "overview": "Revisit the epic heroes, villains and moments from across the MCU in preparation for the stories still to come. Each dynamic segment feeds directly into the upcoming series — setting the stage for future events. This series weaves together the many threads that constitute the unparalleled Marvel Cinematic Universe.",
     "poster_path": "/EpDuYIK81YtCUT3gH2JDpyj8Qk.jpg",
-    "vote_average": 7.5,
+    "vote_average": 7.4,
     "title": "Marvel Studios Legends",
     "slug": "marvel-studios-legends",
     "tags": [

@@ -20,7 +20,7 @@ mcuTimelineOrder: 0
 ```json
 {
     "adult": false,
-    "backdrop_path": "/yFuKvT4Vm3sKHdFY4eG6I4ldAnn.jpg",
+    "backdrop_path": "/4NWWpT0jiMUak8r6jfpvG4eBgFU.jpg",
     "genre_ids": [
         28,
         12,
