@@ -770,7 +770,7 @@
 		"original_language": "en",
 		"original_title": "Madame Web",
 		"overview": "An origin story of the clairvoyant known as Madame Web, whose psychic abilities allow her to see within the spider world.",
-		"poster_path": "/wLYYdRh9i5ql8GLWhmQvqtPaUkq.jpg",
+		"poster_path": null,
 		"release_date": "2024-02-16",
 		"title": "Madame Web",
 		"video": false,
@@ -3293,7 +3293,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/i34ijHY5hr52uYcKZ48wq7K6yUs.jpg",
+		"backdrop_path": "/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg",
 		"genre_ids": [
 			28,
 			878,
@@ -3749,7 +3749,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/tKa1gmGKAUVYnflYcadipeL3d9h.jpg",
+		"backdrop_path": "/aFTYFqrWp4RS46Twm87l5e0ItYb.jpg",
 		"genre_ids": [
 			28,
 			12,
