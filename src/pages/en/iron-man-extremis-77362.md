@@ -25,7 +25,7 @@ logo_on_black: /.netlify/functions/fanart/iron-man-extremis-5cce83dd0cc4c.webp
     "original_name": "Iron Man: Extremis",
     "overview": "An experimental serum called Extremis gets stolen, and Iron Man rockets into action. The ensuing battles test Stark's spirit and Iron Man's power.",
     "poster_path": "/w10ClxT6uqnyxJZiMAx2ty9GkWu.jpg",
-    "vote_average": 6.8,
+    "vote_average": 6.5,
     "title": "Iron Man: Extremis",
     "slug": "iron-man-extremis",
     "tags": [

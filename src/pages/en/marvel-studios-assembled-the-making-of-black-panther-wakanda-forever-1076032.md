@@ -45,7 +45,7 @@ tags:
     "release_date": "2023-02-08",
     "title": "Marvel Studios Assembled: The Making of Black Panther: Wakanda Forever",
     "video": false,
-    "vote_average": 6.5,
+    "vote_average": 6.8,
     "slug": "marvel-studios-assembled-the-making-of-black-panther-wakanda-forever",
     "tags": [
         "movie",

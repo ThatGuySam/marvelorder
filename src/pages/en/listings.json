@@ -491,14 +491,14 @@
 		"genre_ids": [],
 		"id": 1072946,
 		"original_language": "en",
-		"original_title": "Untitled Doctor Strange 3",
+		"original_title": "Doctor Strange 3",
 		"overview": "Rumored sequel to Doctor Strange in the Multiverse of Madness.",
 		"poster_path": null,
 		"release_date": "",
-		"title": "Untitled Doctor Strange 3",
+		"title": "Doctor Strange 3",
 		"video": false,
 		"vote_average": 0,
-		"slug": "untitled-doctor-strange-3",
+		"slug": "doctor-strange-3",
 		"tags": [
 			"movie",
 			"company-420"
@@ -956,7 +956,7 @@
 		"release_date": "2023-02-08",
 		"title": "Marvel Studios Assembled: The Making of Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.8,
 		"slug": "marvel-studios-assembled-the-making-of-black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -1068,7 +1068,7 @@
 		"release_date": "2022-11-03",
 		"title": "Marvel Studios Assembled: The Making of She-Hulk: Attorney at Law",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 7.2,
 		"slug": "marvel-studios-assembled-the-making-of-she-hulk-attorney-at-law",
 		"tags": [
 			"movie",
@@ -1113,7 +1113,7 @@
 		"release_date": "2022-09-08",
 		"title": "Marvel Studios Assembled: The Making of Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 7.4,
+		"vote_average": 7.5,
 		"slug": "marvel-studios-assembled-the-making-of-thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -1278,7 +1278,7 @@
 		"release_date": "2022-07-18",
 		"title": "Magnum Opus",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.4,
 		"slug": "magnum-opus",
 		"tags": [
 			"movie",
@@ -1299,7 +1299,7 @@
 		"release_date": "2022-07-08",
 		"title": "Marvel Studios Assembled: The Making of Doctor Strange in the Multiverse of Madness",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.4,
 		"slug": "marvel-studios-assembled-the-making-of-doctor-strange-in-the-multiverse-of-madness",
 		"tags": [
 			"movie",
@@ -1458,7 +1458,7 @@
 		"release_date": "2022-02-16",
 		"title": "Marvel Studios Assembled: The Making of Eternals",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 7.3,
 		"slug": "marvel-studios-assembled-the-making-of-eternals",
 		"tags": [
 			"movie",
@@ -4080,7 +4080,7 @@
 		"original_name": "Thor & Loki: Blood Brothers",
 		"overview": "Inspired by the acclaimed graphic novel from Robert Rodi and Esad Ribic, Marvel Knights Animation's \"Thor & Loki: Blood Brothers\" takes a powerful look inside the minds of Thor & Loki, brothers in the mythical land of Asgard and seemingly forever enemies. But just why does Loki hate his brother Thor? And could it be that this master of mischief isn’t really the villain he’s been branded? Loki's insatiable lust for power and his feud with Thor take on new meaning in this resonant epic.",
 		"poster_path": "/tvd33sRfEEf4fBlyqxTI62wY9qF.jpg",
-		"vote_average": 7.3,
+		"vote_average": 7,
 		"title": "Thor & Loki: Blood Brothers",
 		"slug": "thor-and-loki-blood-brothers",
 		"tags": [
@@ -4103,7 +4103,7 @@
 		"original_name": "Iron Man: Extremis",
 		"overview": "An experimental serum called Extremis gets stolen, and Iron Man rockets into action. The ensuing battles test Stark's spirit and Iron Man's power.",
 		"poster_path": "/w10ClxT6uqnyxJZiMAx2ty9GkWu.jpg",
-		"vote_average": 6.8,
+		"vote_average": 6.5,
 		"title": "Iron Man: Extremis",
 		"slug": "iron-man-extremis",
 		"tags": [
@@ -5317,7 +5317,7 @@
 		"release_date": "1990-02-18",
 		"title": "The Death of the Incredible Hulk",
 		"video": false,
-		"vote_average": 5.1,
+		"vote_average": 5,
 		"slug": "the-death-of-the-incredible-hulk",
 		"tags": [
 			"list-8204862"
@@ -5365,7 +5365,7 @@
 		"release_date": "1989-05-07",
 		"title": "The Trial of the Incredible Hulk",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.4,
 		"slug": "the-trial-of-the-incredible-hulk",
 		"tags": [
 			"list-8204862"
@@ -5389,7 +5389,7 @@
 		"release_date": "1988-05-22",
 		"title": "The Incredible Hulk Returns",
 		"video": false,
-		"vote_average": 6.2,
+		"vote_average": 6.1,
 		"slug": "the-incredible-hulk-returns",
 		"tags": [
 			"list-8204862"
@@ -5506,7 +5506,7 @@
 		"release_date": "1979-07-21",
 		"title": "Battle Fever J: The Movie",
 		"video": false,
-		"vote_average": 7.7,
+		"vote_average": 6.9,
 		"slug": "battle-fever-j-the-movie",
 		"tags": [
 			"movie",
@@ -5774,7 +5774,7 @@
 		"release_date": "1977-11-04",
 		"title": "The Incredible Hulk",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.3,
 		"slug": "the-incredible-hulk",
 		"tags": [
 			"list-8204862"
