@@ -214,7 +214,11 @@
 	},
 	{
 		"backdrop_path": "/5NGuM3zv8KjFg7k0FBZ0UdeLFGv.jpg",
-		"genre_ids": [],
+		"genre_ids": [
+			80,
+			18,
+			10759
+		],
 		"id": 202555,
 		"name": "Daredevil: Born Again",
 		"origin_country": [
@@ -851,7 +855,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/9xfDWXAUbFXQK585JvByT5pEAhe.jpg",
+		"backdrop_path": "/bpvjzk0QXbJPV4wVwrHuYiq1TbP.jpg",
 		"genre_ids": [
 			16,
 			28,
@@ -897,7 +901,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/tlgaJgn3VAeZ9lrYP4I7sGONvYD.jpg",
+		"backdrop_path": "/o3E4ZJojx4J0VFCusH9UvnZjn3f.jpg",
 		"first_air_date": "2023-02-28",
 		"genre_ids": [
 			99
@@ -1026,7 +1030,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 7.4,
+		"vote_average": 7.3,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -1572,7 +1576,7 @@
 		"original_name": "Marvel's Hit-Monkey",
 		"overview": "A Japanese snow macaque's clan meets a stranded hitman, Bryce, and nurses him back to health. But when Bryce bites the dust, it's up to the titular simian (guided by Bryce's ghost) to follow in his assassin footsteps and seek vengeance.",
 		"poster_path": "/1aK7hApRSDUv8xxDQXyQil7qBjN.jpg",
-		"vote_average": 8,
+		"vote_average": 8.1,
 		"title": "Marvel's Hit-Monkey",
 		"slug": "marvels-hit-monkey",
 		"tags": [

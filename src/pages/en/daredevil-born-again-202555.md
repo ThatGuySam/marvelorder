@@ -13,7 +13,11 @@ release_date: "Spring 2024"
 ```json
 {
     "backdrop_path": "/5NGuM3zv8KjFg7k0FBZ0UdeLFGv.jpg",
-    "genre_ids": [],
+    "genre_ids": [
+        80,
+        18,
+        10759
+    ],
     "id": 202555,
     "name": "Daredevil: Born Again",
     "origin_country": [

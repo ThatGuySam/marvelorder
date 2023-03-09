@@ -31,7 +31,7 @@ tags:
 ## TMDB Data
 ```json
 {
-    "backdrop_path": "/tlgaJgn3VAeZ9lrYP4I7sGONvYD.jpg",
+    "backdrop_path": "/o3E4ZJojx4J0VFCusH9UvnZjn3f.jpg",
     "first_air_date": "2023-02-28",
     "genre_ids": [
         99
