@@ -55,17 +55,17 @@
 			10765
 		],
 		"id": 117985,
-		"name": "Untitled Wakanda Series",
+		"name": "Golden City",
 		"origin_country": [
 			"US"
 		],
 		"original_language": "en",
-		"original_name": "Untitled Wakanda Series",
+		"original_name": "Golden City",
 		"overview": "Upcoming Marvel Cinematic Universe series set in the Kingdom of Wakanda.",
 		"poster_path": null,
 		"vote_average": 0,
-		"title": "Untitled Wakanda Series",
-		"slug": "untitled-wakanda-series",
+		"title": "Golden City",
+		"slug": "golden-city",
 		"tags": [
 			"tv",
 			"company-420"
@@ -959,7 +959,7 @@
 		"release_date": "2023-02-08",
 		"title": "Marvel Studios Assembled: The Making of Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.6,
 		"slug": "marvel-studios-assembled-the-making-of-black-panther-wakanda-forever",
 		"tags": [
 			"movie",
