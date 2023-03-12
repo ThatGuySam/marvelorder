@@ -14,8 +14,8 @@ release_date: "Spring 2024"
 {
     "backdrop_path": "/5NGuM3zv8KjFg7k0FBZ0UdeLFGv.jpg",
     "genre_ids": [
-        80,
         18,
+        80,
         10759
     ],
     "id": 202555,
