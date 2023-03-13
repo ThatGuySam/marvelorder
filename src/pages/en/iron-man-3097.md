@@ -30,7 +30,7 @@ watchLinks:
     "original_name": "Iron Man",
     "overview": "Industrialist Tony Stark leads a private team of superheroes as Iron Man against the forces of evil.",
     "poster_path": "/nTQWWH6CFtl37x1nPx8HRwbwvGn.jpg",
-    "vote_average": 6.9,
+    "vote_average": 6.8,
     "title": "Iron Man",
     "slug": "iron-man",
     "tags": [
