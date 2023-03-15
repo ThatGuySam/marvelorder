@@ -15,7 +15,7 @@ mcuTimelineOrder: 477
 ## TMDB Data
 ```json
 {
-    "backdrop_path": "/1i1N0AVRb54H6ZFPDTwbo9MLxSF.jpg",
+    "backdrop_path": "/33j33midGw49BBxiqlNZeZ6PZ0O.jpg",
     "first_air_date": "2021-01-15",
     "genre_ids": [
         10765,

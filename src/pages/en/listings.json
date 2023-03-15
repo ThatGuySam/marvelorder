@@ -543,7 +543,7 @@
 		"original_title": "Avengers: The Kang Dynasty",
 		"overview": "An upcoming film in the Marvel Cinematic Universe's sixth Phase and part of The Multiverse Saga. Plot unknown.",
 		"poster_path": "/utZTb3VBrH0zR77BcISU67pHuAx.jpg",
-		"release_date": "2025-05-02",
+		"release_date": "2025-05-01",
 		"title": "Avengers: The Kang Dynasty",
 		"video": false,
 		"vote_average": 0,
@@ -831,7 +831,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/o3E4ZJojx4J0VFCusH9UvnZjn3f.jpg",
+		"backdrop_path": "/4iHo5ni5cFNfZS4RPrPQ9nbjdoJ.jpg",
 		"first_air_date": "2023-02-28",
 		"genre_ids": [
 			99
@@ -845,7 +845,7 @@
 		"original_name": "Voices Rising: The Music of Wakanda Forever",
 		"overview": "A documentary series focusing on the music from Marvel Studios’ Black Panther: Wakanda Forever. The show centers on the songs and score from the movie and features interview with director Ryan Coogler, composer Ludwig Göransson, among others.",
 		"poster_path": "/tD0z0ONzplsO7JLkDk1cMTWR1Rd.jpg",
-		"vote_average": 0,
+		"vote_average": 5,
 		"title": "Voices Rising: The Music of Wakanda Forever",
 		"slug": "voices-rising-the-music-of-wakanda-forever",
 		"tags": [
@@ -1727,7 +1727,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/eO8h4fwdjWodPr3awVr5wqMN3Ut.jpg",
+		"backdrop_path": "/aTjbqMONy77fHJrIYu14g1F0d5h.jpg",
 		"first_air_date": "2021-03-19",
 		"genre_ids": [
 			10759,
@@ -1795,7 +1795,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/1i1N0AVRb54H6ZFPDTwbo9MLxSF.jpg",
+		"backdrop_path": "/33j33midGw49BBxiqlNZeZ6PZ0O.jpg",
 		"first_air_date": "2021-01-15",
 		"genre_ids": [
 			10765,
@@ -2234,7 +2234,7 @@
 		"original_name": "Marvel's Cloak & Dagger",
 		"overview": "Two teenagers from very different backgrounds awaken to newly acquired superpowers which mysteriously link them to one another.",
 		"poster_path": "/pYnRJuBPEqZO1o4fcxBTgmKNHfy.jpg",
-		"vote_average": 7.4,
+		"vote_average": 7.3,
 		"title": "Marvel's Cloak & Dagger",
 		"slug": "marvels-cloak-and-dagger",
 		"tags": [
@@ -4181,7 +4181,7 @@
 		"release_date": "2009-04-28",
 		"title": "X-Men Origins: Wolverine",
 		"video": false,
-		"vote_average": 6.3,
+		"vote_average": 6.2,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"list-8204860"
@@ -5614,7 +5614,7 @@
 		"original_name": "The Amazing Spider-Man",
 		"overview": "The first live-action TV series based on the popular comic book.",
 		"poster_path": "/kUTCJhSnH3Dt0KVzcQp8DnbmsjN.jpg",
-		"vote_average": 6,
+		"vote_average": 6.1,
 		"title": "The Amazing Spider-Man",
 		"slug": "the-amazing-spider-man",
 		"tags": [
