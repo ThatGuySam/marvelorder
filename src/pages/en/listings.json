@@ -55,17 +55,17 @@
 			10765
 		],
 		"id": 117985,
-		"name": "Golden City",
+		"name": "Untitled Wakanda Series",
 		"origin_country": [
 			"US"
 		],
 		"original_language": "en",
-		"original_name": "Golden City",
+		"original_name": "Untitled Wakanda Series",
 		"overview": "Upcoming Marvel Cinematic Universe series set in the Kingdom of Wakanda.",
 		"poster_path": null,
 		"vote_average": 0,
-		"title": "Golden City",
-		"slug": "golden-city",
+		"title": "Untitled Wakanda Series",
+		"slug": "untitled-wakanda-series",
 		"tags": [
 			"tv",
 			"company-420"
@@ -1727,7 +1727,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/aTjbqMONy77fHJrIYu14g1F0d5h.jpg",
+		"backdrop_path": "/eO8h4fwdjWodPr3awVr5wqMN3Ut.jpg",
 		"first_air_date": "2021-03-19",
 		"genre_ids": [
 			10759,
@@ -3853,7 +3853,7 @@
 		"original_title": "Ghost Rider: Spirit of Vengeance",
 		"overview": "When the devil resurfaces with aims to take over the world in human form, Johnny Blaze reluctantly comes out of hiding to transform into the flame-spewing supernatural hero Ghost Rider -- and rescue a 10-year-old boy from an unsavory end.",
 		"poster_path": "/fDtIZXLNreDHk3mOskJYABrQNOQ.jpg",
-		"release_date": "2011-12-11",
+		"release_date": "2012-02-15",
 		"title": "Ghost Rider: Spirit of Vengeance",
 		"video": false,
 		"vote_average": 5,
@@ -5130,7 +5130,7 @@
 		"original_name": "Fantastic Four",
 		"overview": "When Reed Richards, Sue and Johnny Storm and pilot Ben Grimm take a premature space flight on a new shuttle, they find themselves massively bombarded with cosmic radiation. Barely managing to re-enter and land safely, the quartet find themselves forever transformed with superpowers. Deciding to use these new powers to help people, they form the Fantastic Four, a superhero team dedicated to the protection of Earth from menaces like the Latverian King Dr. Doom and Galactus, the planet consumer.",
 		"poster_path": "/faLwKXaDaVnE3E8EGAhzsmKfGeQ.jpg",
-		"vote_average": 6.7,
+		"vote_average": 6.6,
 		"title": "Fantastic Four",
 		"slug": "fantastic-four",
 		"tags": [
@@ -5830,7 +5830,7 @@
 		"release_date": "1944-02-05",
 		"title": "Captain America",
 		"video": false,
-		"vote_average": 6,
+		"vote_average": 5.8,
 		"slug": "captain-america",
 		"tags": [
 			"list-8204862"

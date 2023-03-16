@@ -35,7 +35,7 @@ watchLinks:
     "original_name": "Fantastic Four",
     "overview": "When Reed Richards, Sue and Johnny Storm and pilot Ben Grimm take a premature space flight on a new shuttle, they find themselves massively bombarded with cosmic radiation. Barely managing to re-enter and land safely, the quartet find themselves forever transformed with superpowers. Deciding to use these new powers to help people, they form the Fantastic Four, a superhero team dedicated to the protection of Earth from menaces like the Latverian King Dr. Doom and Galactus, the planet consumer.",
     "poster_path": "/faLwKXaDaVnE3E8EGAhzsmKfGeQ.jpg",
-    "vote_average": 6.7,
+    "vote_average": 6.6,
     "title": "Fantastic Four",
     "slug": "fantastic-four",
     "tags": [
