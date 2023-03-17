@@ -28,7 +28,7 @@ tags:
     "release_date": "2013-12-03",
     "title": "The Wolverine: Path of a Ronin",
     "video": false,
-    "vote_average": 6.4,
+    "vote_average": 6.6,
     "slug": "the-wolverine-path-of-a-ronin",
     "tags": [
         "movie",
