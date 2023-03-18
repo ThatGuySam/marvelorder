@@ -511,18 +511,18 @@
 		"adult": false,
 		"backdrop_path": null,
 		"genre_ids": [
-			99
+			10770
 		],
-		"id": 1100907,
+		"id": 1101411,
 		"original_language": "en",
-		"original_title": "Marvel Studios Assembled: The Making of Secret Invasion",
-		"overview": "A behind-the-scenes look of the production of the upcoming Marvel Cinematic Universe series \"Secret Invasion\".",
+		"original_title": "Untitled Sentry Special",
+		"overview": "A Marvel Studios Special Presentation adapting the Marvel Comics superhero Sentry.",
 		"poster_path": null,
 		"release_date": "",
-		"title": "Marvel Studios Assembled: The Making of Secret Invasion",
+		"title": "Untitled Sentry Special",
 		"video": false,
 		"vote_average": 0,
-		"slug": "marvel-studios-assembled-the-making-of-secret-invasion",
+		"slug": "untitled-sentry-special",
 		"tags": [
 			"movie",
 			"company-420"
@@ -4202,7 +4202,7 @@
 		"release_date": "2009-04-28",
 		"title": "X-Men Origins: Wolverine",
 		"video": false,
-		"vote_average": 6.3,
+		"vote_average": 6.2,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"list-8204860"
@@ -5418,7 +5418,7 @@
 		"release_date": "1981-06-25",
 		"title": "Spider-Man: The Dragon's Challenge",
 		"video": false,
-		"vote_average": 5.1,
+		"vote_average": 5.2,
 		"slug": "spider-man-the-dragons-challenge",
 		"tags": [
 			"list-8204862"
