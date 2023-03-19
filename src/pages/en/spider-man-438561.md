@@ -30,7 +30,7 @@ watchLinks:
     "release_date": "1978-07-22",
     "title": "Spider-Man",
     "video": false,
-    "vote_average": 6.2,
+    "vote_average": 5.9,
     "slug": "spider-man",
     "tags": [
         "list-8204862"
