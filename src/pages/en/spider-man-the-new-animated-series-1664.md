@@ -58,8 +58,8 @@ tags:
     "id": 1664,
     "name": "Spider-Man: The New Animated Series",
     "origin_country": [
-        "US",
-        "CA"
+        "CA",
+        "US"
     ],
     "original_language": "en",
     "original_name": "Spider-Man: The New Animated Series",
