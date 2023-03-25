@@ -21,7 +21,8 @@ genre_ids:
     "genre_ids": [
         878,
         28,
-        12
+        12,
+        35
     ],
     "id": 447365,
     "original_language": "en",

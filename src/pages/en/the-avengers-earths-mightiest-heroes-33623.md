@@ -26,7 +26,6 @@ tags:
         10751
     ],
     "id": 33623,
-    "media_type": "tv",
     "name": "The Avengers: Earth's Mightiest Heroes",
     "origin_country": [
         "US"
@@ -39,8 +38,11 @@ tags:
     "title": "The Avengers: Earth's Mightiest Heroes",
     "slug": "the-avengers-earths-mightiest-heroes",
     "tags": [
+        "tv",
+        "company-7505",
         "list-8204859"
-    ]
+    ],
+    "media_type": "tv"
 }
 
 ```

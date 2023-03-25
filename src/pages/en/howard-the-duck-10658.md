@@ -25,7 +25,6 @@ watchLinks:
         878
     ],
     "id": 10658,
-    "media_type": "movie",
     "original_language": "en",
     "original_title": "Howard the Duck",
     "overview": "A scientific experiment unknowingly brings extraterrestrial life forms to the Earth through a laser beam. First is the cigar smoking drake Howard from the duck's planet. A few kids try to keep him from the greedy scientists and help him back to his planet. But then a much less friendly being arrives through the beam...",
@@ -36,8 +35,11 @@ watchLinks:
     "vote_average": 5.4,
     "slug": "howard-the-duck",
     "tags": [
+        "movie",
+        "company-7505",
         "list-8204859"
-    ]
+    ],
+    "media_type": "movie"
 }
 
 ```

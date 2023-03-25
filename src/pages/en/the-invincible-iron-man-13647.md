@@ -24,7 +24,6 @@ watchLinks:
         878
     ],
     "id": 13647,
-    "media_type": "movie",
     "original_language": "en",
     "original_title": "The Invincible Iron Man",
     "overview": "When a cocky industrialist's efforts to raise an ancient Chinese temple leads him to be seriously wounded and captured by enemy forces, he must use his ideas for a revolutionary power armor in order to fight back as a superhero.",
@@ -35,8 +34,11 @@ watchLinks:
     "vote_average": 6.1,
     "slug": "the-invincible-iron-man",
     "tags": [
+        "movie",
+        "company-7505",
         "list-8204859"
-    ]
+    ],
+    "media_type": "movie"
 }
 
 ```
