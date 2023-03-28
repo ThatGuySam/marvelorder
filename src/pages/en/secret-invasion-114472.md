@@ -14,6 +14,7 @@ release_date: 'Spring 2023'
 ```json
 {
     "backdrop_path": "/gxD8XuzBzTef2A4yKQ3cRRDl3rr.jpg",
+    "first_air_date": "2023-06-21",
     "genre_ids": [
         10759,
         18,

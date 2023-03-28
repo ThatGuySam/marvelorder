@@ -24,30 +24,6 @@
 		]
 	},
 	{
-		"backdrop_path": "/gxD8XuzBzTef2A4yKQ3cRRDl3rr.jpg",
-		"genre_ids": [
-			10759,
-			18,
-			10765
-		],
-		"id": 114472,
-		"name": "Secret Invasion",
-		"origin_country": [
-			"US"
-		],
-		"original_language": "en",
-		"original_name": "Secret Invasion",
-		"overview": "Nick Fury and Talos discover a faction of shapeshifting Skrulls who have been infiltrating Earth for years.",
-		"poster_path": "/ySkya7tPCuT1a4gsewyNzRi9cli.jpg",
-		"vote_average": 0,
-		"title": "Secret Invasion",
-		"slug": "secret-invasion",
-		"tags": [
-			"tv",
-			"company-420"
-		]
-	},
-	{
 		"backdrop_path": null,
 		"genre_ids": [
 			10759,
@@ -805,6 +781,31 @@
 		]
 	},
 	{
+		"backdrop_path": "/gxD8XuzBzTef2A4yKQ3cRRDl3rr.jpg",
+		"first_air_date": "2023-06-21",
+		"genre_ids": [
+			10759,
+			18,
+			10765
+		],
+		"id": 114472,
+		"name": "Secret Invasion",
+		"origin_country": [
+			"US"
+		],
+		"original_language": "en",
+		"original_name": "Secret Invasion",
+		"overview": "Nick Fury and Talos discover a faction of shapeshifting Skrulls who have been infiltrating Earth for years.",
+		"poster_path": "/ySkya7tPCuT1a4gsewyNzRi9cli.jpg",
+		"vote_average": 0,
+		"title": "Secret Invasion",
+		"slug": "secret-invasion",
+		"tags": [
+			"tv",
+			"company-420"
+		]
+	},
+	{
 		"adult": false,
 		"backdrop_path": "/bpvjzk0QXbJPV4wVwrHuYiq1TbP.jpg",
 		"genre_ids": [
@@ -833,7 +834,6 @@
 		"backdrop_path": "/7TUp4uKIaX9c2TAZLPwjty5A0EP.jpg",
 		"genre_ids": [
 			878,
-			28,
 			12,
 			35
 		],
@@ -2970,7 +2970,7 @@
 		"original_language": "en",
 		"original_name": "Marvel's Jessica Jones",
 		"overview": "After a tragic ending to her short-lived super hero stint, Jessica Jones is rebuilding her personal life and career as a detective who gets pulled into cases involving people with extraordinary abilities in New York City.",
-		"poster_path": "/1ghmaDw650NuUpGI7mYq6xE2QE2.jpg",
+		"poster_path": "/paf9wL3mOW9LT3ZjRxXqJcjeMEv.jpg",
 		"vote_average": 7.5,
 		"title": "Marvel's Jessica Jones",
 		"slug": "marvels-jessica-jones",
@@ -3876,7 +3876,7 @@
 		"original_title": "Ghost Rider: Spirit of Vengeance",
 		"overview": "When the devil resurfaces with aims to take over the world in human form, Johnny Blaze reluctantly comes out of hiding to transform into the flame-spewing supernatural hero Ghost Rider -- and rescue a 10-year-old boy from an unsavory end.",
 		"poster_path": "/fDtIZXLNreDHk3mOskJYABrQNOQ.jpg",
-		"release_date": "2012-02-15",
+		"release_date": "2011-12-10",
 		"title": "Ghost Rider: Spirit of Vengeance",
 		"video": false,
 		"vote_average": 5,
@@ -4229,7 +4229,7 @@
 		"release_date": "2009-04-28",
 		"title": "X-Men Origins: Wolverine",
 		"video": false,
-		"vote_average": 6.2,
+		"vote_average": 6.3,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"list-8204860"

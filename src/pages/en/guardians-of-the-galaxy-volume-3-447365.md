@@ -20,7 +20,6 @@ genre_ids:
     "backdrop_path": "/7TUp4uKIaX9c2TAZLPwjty5A0EP.jpg",
     "genre_ids": [
         878,
-        28,
         12,
         35
     ],
