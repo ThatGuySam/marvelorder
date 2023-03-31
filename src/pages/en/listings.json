@@ -807,6 +807,25 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [],
+		"id": 1106299,
+		"original_language": "en",
+		"original_title": "The Spider Within",
+		"overview": "Miles Morales struggles to balance his responsibilities as a teenager, friend and student while acting as Brooklyn’s friendly neighborhood superhero. After a particularly challenging day living with these pressures, Miles experiences a panic attack that forces him to confront the manifestations of his anxiety and learn that reaching out for help can be just as brave an act as protecting his city from evil.",
+		"poster_path": null,
+		"release_date": "2023-06-11",
+		"title": "The Spider Within",
+		"video": false,
+		"vote_average": 0,
+		"slug": "the-spider-within",
+		"tags": [
+			"movie",
+			"company-7505"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/bpvjzk0QXbJPV4wVwrHuYiq1TbP.jpg",
 		"genre_ids": [
 			16,
@@ -1024,7 +1043,7 @@
 		"release_date": "2022-11-03",
 		"title": "Marvel Studios Assembled: The Making of She-Hulk: Attorney at Law",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 7.1,
 		"slug": "marvel-studios-assembled-the-making-of-she-hulk-attorney-at-law",
 		"tags": [
 			"movie",
