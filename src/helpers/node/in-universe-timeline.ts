@@ -75,9 +75,12 @@ export function matchListingToInUniverse ( listing, inUniverseEntry ) {
 
     if ( !dateMatches ) return false
 
+    const cleanInUniverseTitle = inUniverseEntry.title
+        // Replace Trademark Symbols
+        .replaceAll( '™', '' )
 
     const listingSlug = makeSlug( listing.title ).replace( 'marvel-one-shot', '' )
-    const inUniverseSlug = makeSlug( inUniverseEntry.title )
+    const inUniverseSlug = makeSlug( cleanInUniverseTitle )
 
     // console.log( 'listingSlug', listingSlug )
     // console.log( 'orderedSlug', inUniverseSlug )
