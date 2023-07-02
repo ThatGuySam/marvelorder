@@ -5,6 +5,8 @@ import etag from 'etag'
 import isSvg from 'is-svg'
 import sizeOf from 'image-size'
 
+import type { APIContext, APIRoute } from 'astro'
+
 // Sizes at https://api.themoviedb.org/3/configuration
 const base_url = 'https://image.tmdb.org/t/p/original'
 
@@ -35,6 +37,8 @@ function getImageType(buffer) {
 }
 
 function getOptions( eventUrlString ) {
+
+    console.log({ eventUrlString })
 
     const eventUrl = new URL( eventUrlString, process.env.URL )
 
@@ -91,7 +95,10 @@ export async function handler( event ) {
 
     // Parse and validate options
     try {
-        options = getOptions( event.rawUrl )
+
+        console.log( ' event.url',  event.url )
+
+        options = getOptions( event.url.href )
 
     } catch (error) {
         console.error( 'Invalid image options', error ) // eslint-disable-line no-console
@@ -245,7 +252,7 @@ export async function handler( event ) {
             'Cache-Control': 'public, max-age=365000000, immutable',
             etag: etag(outputBuffer),
         },
-        body: outputBuffer.toString('base64'),
+        body: outputBuffer,
         isBase64Encoded: true,
     }
 
@@ -253,3 +260,29 @@ export async function handler( event ) {
 
 
 export default handler
+
+export const get: APIRoute = async ( context ) => {
+    try {
+        // console.log( { context } )
+
+        const {
+            statusCode = 500,
+            // cacheControl = 'public, max-age=31536000, immutable',
+            headers = {},
+            body,
+        } = await handler( context )
+
+        return new Response( body, {
+            status: statusCode,
+            headers,
+            // encoding: 'binary',
+        } )
+    }
+    catch ( error ) {
+        console.warn( error )
+
+        return new Response( JSON.stringify( 'Error' ), {
+            status: 500,
+        } )
+    }
+}
