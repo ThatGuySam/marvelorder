@@ -5,8 +5,10 @@ import etag from 'etag'
 import isSvg from 'is-svg'
 import sizeOf from 'image-size'
 
+import type { APIRoute } from 'astro'
+
 // Sizes at https://images.fanart.tv/fanart/spider-man-the-dragons-challenge-5d3508360b27d.png
-const base_url = 'https://images.fanart.tv/fanart/'
+const base_url = 'https://images.fanart.tv/fanart'
 const splitPoint = '/fanart/'
 
 
@@ -85,13 +87,13 @@ function getOptions( eventUrlString ) {
 // https://marvelorder-full-static.netlify.app/.netlify/functions/wp-image/marvelorderstaging.wpengine.com/2021/11/Chamber-1-V2.jpg?w=800&q=80&format
 export async function handler( event ) {
 
-    // console.log('event', event)
+    console.log('event', event)
 
     let options = {}
 
     // Parse and validate options
     try {
-        options = getOptions( event.rawUrl )
+        options = getOptions( event.url.href )
 
     } catch (error) {
         console.error( 'Invalid image options', error ) // eslint-disable-line no-console
@@ -223,3 +225,29 @@ export async function handler( event ) {
 
 
 export default handler
+
+export const get: APIRoute = async ( context ) => {
+    try {
+        // console.log( { context } )
+
+        const {
+            statusCode = 500,
+            // cacheControl = 'public, max-age=31536000, immutable',
+            headers = {},
+            body,
+        } = await handler( context )
+
+        return new Response( body, {
+            status: statusCode,
+            headers,
+            // encoding: 'binary',
+        } )
+    }
+    catch ( error ) {
+        console.warn( error )
+
+        return new Response( JSON.stringify( 'Error' ), {
+            status: 500,
+        } )
+    }
+}
