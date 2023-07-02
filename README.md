@@ -76,9 +76,8 @@ This is the *most* official list for the Marvel Chronologically, aka by the time
 ## Upcoming
 <!-- start-upcoming-list -->
 
-- April 1, 2023 - [Secret Invasion](https://marvelorder.com/en/secret-invasion-114472) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/secret-invasion-114472.md)
-- May 3, 2023 - [Guardians of the Galaxy Vol. 3](https://marvelorder.com/en/guardians-of-the-galaxy-vol-3-447365) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/guardians-of-the-galaxy-vol-3-447365.md)
 - May 31, 2023 - [Spider-Man: Across the Spider-Verse](https://marvelorder.com/en/spider-man-across-the-spider-verse-569094) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/spider-man-across-the-spider-verse-569094.md)
+- June 11, 2023 - [The Spider Within](https://marvelorder.com/en/the-spider-within-1106299) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/the-spider-within-1106299.md)
 - August 1, 2023 - [Echo](https://marvelorder.com/en/echo-122226) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/echo-122226.md)
 - September 1, 2023 - [Ironheart](https://marvelorder.com/en/ironheart-114471) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/ironheart-114471.md)
 - October 4, 2023 - [Kraven the Hunter](https://marvelorder.com/en/kraven-the-hunter-539972) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/kraven-the-hunter-539972.md)

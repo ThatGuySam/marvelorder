@@ -632,7 +632,7 @@
 		"original_language": "en",
 		"original_title": "Thunderbolts",
 		"overview": "A world without Avengers doesn't mean there's not a group of superheroes. There is a group and they're called the Thunderbolts.",
-		"poster_path": "/dHhniU1vz1C0j27AFdcsPmq6xu.jpg",
+		"poster_path": "/9pKEuYSgEoQQwwngJXgeNOnJjr.jpg",
 		"release_date": "2024-07-24",
 		"title": "Thunderbolts",
 		"video": false,
@@ -807,6 +807,25 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [],
+		"id": 1106299,
+		"original_language": "en",
+		"original_title": "The Spider Within",
+		"overview": "Miles Morales struggles to balance his responsibilities as a teenager, friend and student while acting as Brooklyn’s friendly neighborhood superhero. After a particularly challenging day living with these pressures, Miles experiences a panic attack that forces him to confront the manifestations of his anxiety and learn that reaching out for help can be just as brave an act as protecting his city from evil.",
+		"poster_path": null,
+		"release_date": "2023-06-11",
+		"title": "The Spider Within",
+		"video": false,
+		"vote_average": 0,
+		"slug": "the-spider-within",
+		"tags": [
+			"movie",
+			"company-7505"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/bpvjzk0QXbJPV4wVwrHuYiq1TbP.jpg",
 		"genre_ids": [
 			16,
@@ -891,7 +910,7 @@
 		"release_date": "2023-02-15",
 		"title": "Ant-Man and the Wasp: Quantumania",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.3,
 		"slug": "ant-man-and-the-wasp-quantumania",
 		"tags": [
 			"movie",
@@ -1024,7 +1043,7 @@
 		"release_date": "2022-11-03",
 		"title": "Marvel Studios Assembled: The Making of She-Hulk: Attorney at Law",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 7.1,
 		"slug": "marvel-studios-assembled-the-making-of-she-hulk-attorney-at-law",
 		"tags": [
 			"movie",
@@ -1354,7 +1373,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/jhXwGdyj2f5ZxCYZBKfBNcGBbWx.jpg",
+		"backdrop_path": "/iKUwhA4DUxMcNKu5lLSbDFwwilk.jpg",
 		"genre_ids": [
 			14,
 			28,
@@ -4229,7 +4248,7 @@
 		"release_date": "2009-04-28",
 		"title": "X-Men Origins: Wolverine",
 		"video": false,
-		"vote_average": 6.3,
+		"vote_average": 6.2,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"list-8204860"
@@ -5230,7 +5249,7 @@
 		"release_date": "1994-05-31",
 		"title": "The Fantastic Four",
 		"video": false,
-		"vote_average": 4.5,
+		"vote_average": 4.4,
 		"slug": "the-fantastic-four",
 		"tags": [
 			"list-8204862"

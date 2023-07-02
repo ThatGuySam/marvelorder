@@ -14384,7 +14384,7 @@
         "referenceType": "unknown"
       },
       {
-        "href": "/wiki/89P13",
+        "href": "/wiki/Rocket",
         "text": "Rocket",
         "referenceType": "unknown"
       },
@@ -14967,7 +14967,7 @@
         "referenceType": "unknown"
       },
       {
-        "href": "/wiki/89P13",
+        "href": "/wiki/Rocket",
         "text": "Rocket Raccoon",
         "referenceType": "unknown"
       },
@@ -21948,7 +21948,7 @@
         "referenceType": "unknown"
       },
       {
-        "href": "/wiki/89P13",
+        "href": "/wiki/Rocket",
         "text": "Rocket Raccoon",
         "referenceType": "unknown"
       },
@@ -25016,14 +25016,14 @@
     "primeReferenceTitle": "Spider-Man: Far From Home"
   },
   {
-    "hash": "75b28d8f-b236-5018-a3c2-f0fe03b4b33e",
+    "hash": "ad0034a5-ebbb-561e-b383-fa7716529b87",
     "timeDescription": "2024 June",
     "timeDescriptionParts": {
       "primary": "2024",
       "secondary": "June",
       "tertiary": ""
     },
-    "textContent": "In New York, Peter Parker yearns to gain the admiration of MJ, who he has a crush on. He competes for her affections with Brad Davis. Peter takes the opportunity to win her over when Midtown Tech organizes a school trip to Europe for the students who were killed in the Snap or as they called it the Blip. All the while, Peter is met with an overabundance of stress after Tony Stark's death, juggling with the responsibilities of being Spider-Man. Fury attempts to contact Parker during a charity event as Spider-Man with his",
+    "textContent": "In New York, Peter Parker yearns to gain the admiration of MJ, who he has a crush on. He competes for her affections with Brad Davis. Peter takes the opportunity to win her over when Midtown Tech organizes a school trip to Europe for the students who were killed in the Snap or as they called it the Blip. All the while, Peter is met with an overabundance of stress after Tony Stark's death, juggling with the responsibilities of being Spider-Man. Fury attempts to contact Parker during a charity event as Spider-Man with his Aunt May, but he dismisses it and redirects it to Happy Hogan. Peter's attempts to bond with MJ on the airplane ride to Italy proved futile. Peter's wingman and best friend Ned Leeds becomes infatuated with Betty Brant, and the two announce they are dating when they arrive in Venice. While the class is sight-seeing, a water-based creature emerges out of the Grand Canal and runs rampant. Peter attempts to stop it to no avail, until the armored Beck arrives, and destroys it after luring it out of the canal. That night, Fury meets Parker in person and introduces him to Beck. Beck explains that the creatures are Elementals from an alternate dimension of Earth, which have emerged to their dimension in the Blip. Beck is determined to defeat them because they killed his family, and reveals that the final Elemental, Fire, is due to make an appearance in Prague. To accommodate Peter's request to keep his identity as Spider-Man a secret without arousing suspicion, Fury rearranges the school trip's location from Paris to Prague, through the trip's chaperones, Roger Harrington and Julius Dell. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -25046,10 +25046,40 @@
         "href": "/wiki/Anthony_Stark",
         "text": "Tony Stark",
         "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Maybelle_Reilly",
+        "text": "Aunt May",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Harold_Hogan",
+        "text": "Happy Hogan",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Edward_Leeds",
+        "text": "Ned Leeds",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Elizabeth_Brant",
+        "text": "Betty Brant",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Hydro-Man",
+        "text": "water-based creature",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Spider-Man:_Far_From_Home",
+        "text": "Spider-Man: Far From Home",
+        "referenceType": "unknown"
       }
     ],
-    "primeReferenceIndex": -1,
-    "primeReferenceTitle": ""
+    "primeReferenceIndex": 9,
+    "primeReferenceTitle": "Spider-Man: Far From Home"
   },
   {
     "hash": "b68159c7-5372-56bd-8b83-a294e80de030",
@@ -28367,7 +28397,7 @@
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
       {
-        "href": "/wiki/89P13",
+        "href": "/wiki/Rocket",
         "text": "Rocket",
         "referenceType": "unknown"
       },
@@ -28424,7 +28454,7 @@
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
       {
-        "href": "/wiki/89P13",
+        "href": "/wiki/Rocket",
         "text": "Rocket",
         "referenceType": "unknown"
       },
