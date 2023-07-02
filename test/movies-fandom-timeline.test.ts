@@ -50,7 +50,9 @@ test( 'Can get timeline entry from entries', () => {
     expect( firstEntry ).toBeDefined()
 })
 
-test.todo( 'Can find Altered 2014 Timeline', () => {
+test( 'Can find Altered 2014 Timeline', () => {
+    // console.log( 'timeline.entries', timeline.entries )
+    
     const altered2014Timeline = timeline.entries.find( entry => entry.timeline === 'Altered 2014 Timeline' )
 
     expect( altered2014Timeline ).toBeDefined()

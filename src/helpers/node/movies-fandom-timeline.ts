@@ -404,12 +404,16 @@ class MarvelMoviesFandomTimeline {
             // bleed into the next timeline
             this.resetTimeParts()
 
-            this.runningTimeline = element.textContent
+            // Get specific heading text
+            // so that we avoid capturing [] after the heading
+            const timelineHeading = element.querySelector( 'span.mw-headline' ).textContent
+
+            this.runningTimeline = timelineHeading
 
             // Since some of the sections don't have h3s
             // we'll set a default primary here
             // so that we don't end up with a blank primary
-            this.runningTimeParts.primary = element.textContent
+            this.runningTimeParts.primary = timelineHeading
 
             // If it's just 'Timeline' then rename it to 'Marvel Cinematic Universe'
             if ( this.runningTimeline === 'Timeline' ) {
