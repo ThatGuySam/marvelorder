@@ -90,8 +90,8 @@ dependencies:
     specifier: ^2.2.29
     version: 2.2.29
   sharp:
-    specifier: ^0.30.5
-    version: 0.30.5
+    specifier: ^0.32.1
+    version: 0.32.1
   slugify:
     specifier: ^1.6.5
     version: 1.6.5
@@ -132,7 +132,7 @@ devDependencies:
     version: 17.0.35
   astro:
     specifier: ^2.7.2
-    version: 2.7.2(@types/node@17.0.35)(sharp@0.30.5)
+    version: 2.7.2(@types/node@17.0.35)(sharp@0.32.1)
   deepmerge-ts:
     specifier: ^4.1.0
     version: 4.1.0
@@ -323,7 +323,7 @@ packages:
       astro: ^2.5.0
     dependencies:
       '@astrojs/prism': 2.1.2
-      astro: 2.7.2(@types/node@17.0.35)(sharp@0.30.5)
+      astro: 2.7.2(@types/node@17.0.35)(sharp@0.32.1)
       github-slugger: 1.5.0
       import-meta-resolve: 2.2.2
       rehype-raw: 6.1.1
@@ -347,7 +347,7 @@ packages:
       '@astrojs/underscore-redirects': 0.1.0
       '@astrojs/webapi': 2.2.0
       '@netlify/functions': 1.6.0
-      astro: 2.7.2(@types/node@17.0.35)(sharp@0.30.5)
+      astro: 2.7.2(@types/node@17.0.35)(sharp@0.32.1)
       esbuild: 0.15.18
     dev: false
 
@@ -406,7 +406,7 @@ packages:
       tailwindcss: ^3.0.24
     dependencies:
       '@proload/core': 0.3.3
-      astro: 2.7.2(@types/node@17.0.35)(sharp@0.30.5)
+      astro: 2.7.2(@types/node@17.0.35)(sharp@0.32.1)
       autoprefixer: 10.4.14(postcss@8.4.24)
       postcss: 8.4.24
       postcss-load-config: 4.0.1(postcss@8.4.24)
@@ -445,7 +445,7 @@ packages:
       '@vitejs/plugin-vue-jsx': 3.0.1(vite@4.3.9)(vue@3.2.36)
       '@vue/babel-plugin-jsx': 1.1.5(@babel/core@7.22.5)
       '@vue/compiler-sfc': 3.3.4
-      astro: 2.7.2(@types/node@17.0.35)(sharp@0.30.5)
+      astro: 2.7.2(@types/node@17.0.35)(sharp@0.32.1)
       vue: 3.2.36
     transitivePeerDependencies:
       - '@babel/core'
@@ -1518,7 +1518,7 @@ packages:
     resolution: {integrity: sha512-jgsaNduz+ndvGyFt3uSuWqvy4lCnIJiovtouQN5JZHOKCS2QuhEdbcQHFhVksz2N2U9hXJo8odG7ETyWlEeuDw==}
     dev: true
 
-  /astro@2.7.2(@types/node@17.0.35)(sharp@0.30.5):
+  /astro@2.7.2(@types/node@17.0.35)(sharp@0.32.1):
     resolution: {integrity: sha512-2+vjXeVGU04aecs0mm93Qx9KdeVDw4OTeBIijs2Z+QLoe4RUYZnkqx5gR70VNfnoMdXoPp7+wB+ARcb0+ee/yg==}
     engines: {node: '>=16.12.0', npm: '>=6.14.0'}
     hasBin: true
@@ -1572,7 +1572,7 @@ packages:
       rehype: 12.0.1
       semver: 7.5.3
       server-destroy: 1.0.1
-      sharp: 0.30.5
+      sharp: 0.32.1
       shiki: 0.14.3
       string-width: 5.1.2
       strip-ansi: 7.1.0
@@ -3922,8 +3922,8 @@ packages:
     dependencies:
       semver: 7.5.3
 
-  /node-addon-api@5.1.0:
-    resolution: {integrity: sha512-eh0GgfEkpnoWDq+VY8OyvYhFEzBk6jIYbRKdIlyTiAXIVJ8PyBaKb0rp7oDtoddbdoHWhq8wwr+XZ81F1rpNdA==}
+  /node-addon-api@6.1.0:
+    resolution: {integrity: sha512-+eawOlIgy680F0kBzPUNFhMZGtJ1YmqM6l4+Crf4IkImjYrO/mqPwRMh352g23uIaQKFItcQ64I7KMaJxHgAVA==}
 
   /node-domexception@1.0.0:
     resolution: {integrity: sha512-/jKZoMpw0F8GRwl4/eLROPA3cfcXtLApP0QzLmUT/HuPCZWyB7IY9ZrMeKw2O/nFIqPQB3PVM9aYm0F312AXDQ==}
@@ -4624,14 +4624,14 @@ packages:
   /server-destroy@1.0.1:
     resolution: {integrity: sha512-rb+9B5YBIEzYcD6x2VKidaa+cqYBJQKnU4oe4E3ANwRRN56yk/ua1YCJT1n21NTS8w6CcOclAKNP3PhdCXKYtQ==}
 
-  /sharp@0.30.5:
-    resolution: {integrity: sha512-0T28KxqY4DzUMLSAp1/IhGVeHpPIQyp1xt7esmuXCAfyi/+6tYMUeRhQok+E/+E52Yk5yFjacXp90cQOkmkl4w==}
-    engines: {node: '>=12.13.0'}
+  /sharp@0.32.1:
+    resolution: {integrity: sha512-kQTFtj7ldpUqSe8kDxoGLZc1rnMFU0AO2pqbX6pLy3b7Oj8ivJIdoKNwxHVQG2HN6XpHPJqCSM2nsma2gOXvOg==}
+    engines: {node: '>=14.15.0'}
     requiresBuild: true
     dependencies:
       color: 4.2.3
       detect-libc: 2.0.1
-      node-addon-api: 5.1.0
+      node-addon-api: 6.1.0
       prebuild-install: 7.1.1
       semver: 7.5.3
       simple-get: 4.0.1
