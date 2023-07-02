@@ -44,7 +44,7 @@ export const SIDEBAR = {
 }
 
 
-export const storePath = './src/pages'
+export const storePath = './src/json'
 
 export const listingsGlobPattern = 'src/pages/en/*.md'
 
