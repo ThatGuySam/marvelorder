@@ -99,6 +99,11 @@ function hashString ( textContent:string ) {
     return uuidv5( textContent, DEFAULT_HASH_NAMESPACE )
 }
 
+// Remove any link brackets from the headings
+function cleanBrackets ( heading:string ) {
+    return heading.replace( '[]', '' )
+}
+
 export function breakEntryTextIntoSentences ( paragraph:string ) {
     // Read text
     const doc = nlp.readDoc( paragraph )
@@ -406,7 +411,7 @@ class MarvelMoviesFandomTimeline {
 
             // Get specific heading text
             // so that we avoid capturing [] after the heading
-            const timelineHeading = element.querySelector( 'span.mw-headline' ).textContent
+            const timelineHeading = cleanBrackets( element.textContent )
 
             this.runningTimeline = timelineHeading
 
@@ -426,12 +431,12 @@ class MarvelMoviesFandomTimeline {
             // Reset the time parts
             this.resetTimeParts()
 
-            this.runningTimeParts.primary = element.textContent
+            this.runningTimeParts.primary = cleanBrackets( element.textContent )
         }
 
         // For h4s add to the time description
         if ( tagName === 'h4' ) {
-            this.runningTimeParts.secondary = element.textContent
+            this.runningTimeParts.secondary = cleanBrackets( element.textContent )
         }
 
         if ( tagName === 'ul' ) {
