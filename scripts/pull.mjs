@@ -16,7 +16,8 @@ import { deepmerge, deepmergeCustom } from 'https://deno.land/x/deepmergets@v4.0
 import { 
     TMDB_COMPANIES, 
     TMDB_LISTS, 
-    storePath 
+    storePath,
+    markdownStorePath
 } from '../src/config.ts'
 import { byPremiere } from '../src/helpers/sort.ts'
 import { 
@@ -42,7 +43,7 @@ function makeSlug ( name ) {
 }
 
 async function hasListingFile ( listing ) {
-    const listingFilePath = `${ storePath }/${ makeListingEndpoint( listing ) }.md`
+    const listingFilePath = `${ markdownStorePath }/${ makeListingEndpoint( listing ) }.md`
     return await exists( listingFilePath )
 }
 
@@ -236,7 +237,7 @@ async function readMarkdownFileDeno ( filePath ) {
 
 async function writeTmdbDataOnly ( listing ) {
 
-    const listingFilePath = `${ storePath }/${ makeListingEndpoint( listing ) }.md`
+    const listingFilePath = `${ markdownStorePath }/${ makeListingEndpoint( listing ) }.md`
 
     const decoder = new TextDecoder( 'utf-8' )
     const markdownContent = decoder.decode(await Deno.readFile( listingFilePath ))
@@ -263,7 +264,7 @@ async function saveListingsAsMarkdown ( listings ) {
 
     for ( const listing of listings ) {
 
-        const listingFilePath = `${ storePath }/${ makeListingEndpoint( listing ) }.md`
+        const listingFilePath = `${ markdownStorePath }/${ makeListingEndpoint( listing ) }.md`
 
         if ( await exists( listingFilePath ) ) {
 

@@ -1,6 +1,6 @@
 
 import { 
-    storePath 
+    markdownStorePath 
 // @ts-ignore
 } from '../config.ts'
 // @ts-ignore
@@ -152,7 +152,7 @@ export async function upsertListingMarkdown ( options:any ) {
         mergeArrays = false
     } = options
 
-    const filePath = `${ storePath }/${ makeListingEndpoint( listing ) }.md`
+    const filePath = `${ markdownStorePath }/${ makeListingEndpoint( listing ) }.md`
     const hasExistingFile = await exists( filePath )
 
     let markdownBody = ''
