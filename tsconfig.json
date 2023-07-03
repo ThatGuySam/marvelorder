@@ -16,6 +16,9 @@
         // https://www.typescriptlang.org/tsconfig#allowSyntheticDefaultImports
         "allowSyntheticDefaultImports": true,
 
+        // Enable extensions on imports for Deno support
+        "allowImportingTsExtensions": true,
+
         "types": ["vite/client", "node"],
 
         "baseUrl": ".",

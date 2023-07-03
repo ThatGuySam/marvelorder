@@ -64,6 +64,8 @@ module.exports = {
         // Disable semicolons
         'semi': 'off',
         '@typescript-eslint/semi': [ 'error', 'never' ],
+
+        'import/extensions': 'always',
     },
 
     overrides: [
