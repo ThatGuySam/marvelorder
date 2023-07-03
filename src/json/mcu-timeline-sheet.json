@@ -3367,6 +3367,12 @@
       "NOTES": ""
     },
     {
+      "TYPE": "MOVIE",
+      "TITLE": "Black Panther: Wakanda Forever",
+      "RELEASE_DATE": "2022-11-11T05:00:00.000Z",
+      "NOTES": ""
+    },
+    {
       "TYPE": "DISNEY+",
       "TITLE": "She-Hulk: Attorney at Law Season 1 Episode 1: A Normal Amount Of Rage",
       "RELEASE_DATE": "2022-08-18T04:00:00.000Z",
@@ -3505,15 +3511,45 @@
       "NOTES": ""
     },
     {
-      "TYPE": "MOVIE",
-      "TITLE": "Black Panther: Wakanda Forever",
-      "RELEASE_DATE": "2022-11-11T05:00:00.000Z",
-      "NOTES": ""
-    },
-    {
       "TYPE": "DISNEY+",
       "TITLE": "The Guardians of the Galaxy Holiday Special",
       "RELEASE_DATE": "2022-11-25T05:00:00.000Z",
+      "NOTES": ""
+    },
+    {
+      "TYPE": "OTHER",
+      "TITLE": "Shrinking and Drinking, Now You Can!",
+      "RELEASE_DATE": "2023-02-12T05:00:00.000Z",
+      "NOTES": ""
+    },
+    {
+      "TYPE": "OTHER",
+      "TITLE": "Now You Can, Before Saving the Day!",
+      "RELEASE_DATE": "2023-01-09T05:00:00.000Z",
+      "NOTES": ""
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Ant-Man and the Wasp: Quantumania",
+      "RELEASE_DATE": "2023-02-17T05:00:00.000Z",
+      "NOTES": ""
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Guardians of the Galaxy Vol. 3",
+      "RELEASE_DATE": "2023-05-05T04:00:00.000Z",
+      "NOTES": ""
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Secret Invasion Season 1 Episode 1: Resurrection",
+      "RELEASE_DATE": "2023-06-21T04:00:00.000Z",
+      "NOTES": ""
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Secret Invasion Season 1 Episode 2: Promises",
+      "RELEASE_DATE": "2023-06-28T04:00:00.000Z",
       "NOTES": ""
     }
   ]
