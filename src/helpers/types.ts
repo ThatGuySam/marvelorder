@@ -113,3 +113,15 @@ export interface WebStory {
 
     bookendConfig: WebStoryJsonBookend
 }
+
+export type MCUTimelineSheetRecord = {
+    TYPE: 'movie' | 'disney-plus' | 'disney-plus-netflix' | 'abc' | 'freeform' | 'hulu' | 'web-series' | 'sony' | 'whih' | 'other' | {},
+    TITLE: string,
+    RELEASE_DATE: string,
+    NOTES: string,
+}
+
+export type MCUTimelineSheet = {
+    records: Array<MCUTimelineSheetRecord>
+}
+
