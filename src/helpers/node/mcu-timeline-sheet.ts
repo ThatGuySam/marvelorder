@@ -1,5 +1,6 @@
 import { deepmerge } from 'deepmerge-ts'
 
+import type { MCUTimelineSheetRecord } from '~/src/helpers/types'
 import { 
     getYearAndMonth, 
     makeSlug,
@@ -45,7 +46,6 @@ export function matchListingToOrdered ( listing, orderedEntry ) {
 
     if ( !dateMatches ) return false
 
-
     const listingSlug = makeSlug( listing.title )
     const orderedSlug = makeSlug( orderedEntry.title )
 
@@ -56,7 +56,7 @@ export function matchListingToOrdered ( listing, orderedEntry ) {
 }
 
 
-export function organizeOrderData ( rawOrderData:Array<any> ) {
+export function organizeOrderData ( rawOrderData: MCUTimelineSheetRecord[] ) {
     const organizedOrder = {}
 
     for ( const [ mcuTimelineOrder, entry ] of rawOrderData.entries() ) {
@@ -85,7 +85,7 @@ export function organizeOrderData ( rawOrderData:Array<any> ) {
         if ( !existingData?.premiereDate ) {
             entryData.mcuTimelineOrder = mcuTimelineOrder
             entryData.premiereDate = RELEASE_DATE
-            entryData.timelineType = makeSlug( TYPE )
+            entryData.timelineType = typeof entry.TYPE === 'string' ? makeSlug( entry.TYPE ) : makeSlug( JSON.stringify( entry.TYPE ) )
         }
 
         if ( seasonNumber.length > 0 ) {
