@@ -11,7 +11,9 @@ export function getListingLogoUrl ( listing ) {
         logo_on_black = null,
     } = listing
 
-    if ( !logo_on_black ) { return null }
+    if ( !logo_on_black ) {
+        return null
+    }
 
     return logo_on_black
 }
