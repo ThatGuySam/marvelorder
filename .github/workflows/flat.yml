@@ -13,7 +13,7 @@ jobs:
       - name: Setup Deno
         uses: denoland/setup-deno@main
         with:
-          deno-version: v1.20.x
+          deno-version: v1.34.x
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
