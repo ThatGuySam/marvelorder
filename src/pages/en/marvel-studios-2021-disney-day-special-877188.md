@@ -23,7 +23,7 @@ tags:
     "release_date": "2021-11-12",
     "title": "Marvel Studios' 2021 Disney+ Day Special",
     "video": false,
-    "vote_average": 7.1,
+    "vote_average": 7,
     "slug": "marvel-studios-2021-disney-day-special",
     "tags": [
         "movie",

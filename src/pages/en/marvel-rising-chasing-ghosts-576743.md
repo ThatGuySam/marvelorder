@@ -29,7 +29,7 @@ watchLinks:
     "release_date": "2019-01-16",
     "title": "Marvel Rising: Chasing Ghosts",
     "video": false,
-    "vote_average": 7.1,
+    "vote_average": 7,
     "slug": "marvel-rising-chasing-ghosts",
     "tags": [
         "movie",

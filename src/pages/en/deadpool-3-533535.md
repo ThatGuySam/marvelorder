@@ -13,14 +13,15 @@ logo_on_black: /.netlify/functions/tmdb-image/fa6aYdjF083UV2w6V7hOAjwaqi4.webp
     "backdrop_path": "/AedbvbzVrdGMhi9oFPhorizbtTL.jpg",
     "genre_ids": [
         28,
-        35
+        35,
+        12
     ],
     "id": 533535,
     "original_language": "en",
     "original_title": "Deadpool 3",
     "overview": "The third installment in the Deadpool franchise.",
-    "poster_path": "/4gdqWCVvidYR0pOHuVOqFundbUG.jpg",
-    "release_date": "2024-11-06",
+    "poster_path": "/n4HOCzrdQ19hriCqBLMZ4bwdZ9X.jpg",
+    "release_date": "2024-05-01",
     "title": "Deadpool 3",
     "video": false,
     "vote_average": 0,

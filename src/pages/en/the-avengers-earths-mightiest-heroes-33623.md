@@ -33,7 +33,7 @@ tags:
     "original_language": "en",
     "original_name": "The Avengers: Earth's Mightiest Heroes",
     "overview": "When the powers of a single hero are not enough to save the world, the world’s greatest heroes—Iron Man, Thor, Captain America, The Hulk, Ant-Man/Giant Man and Wasp—assemble to form the Avengers.",
-    "poster_path": "/vhgNwUBjkT1I8cCreEwVyuYM5xO.jpg",
+    "poster_path": "/eyUeOUefufuBCeih3lOi2NkFD9r.jpg",
     "vote_average": 8.2,
     "title": "The Avengers: Earth's Mightiest Heroes",
     "slug": "the-avengers-earths-mightiest-heroes",

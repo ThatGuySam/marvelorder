@@ -18,7 +18,7 @@ mcuTimelineOrder: 244
 ```json
 {
     "adult": false,
-    "backdrop_path": "/tTlAA0REGPXSZPBfWyTW9ipIv1I.jpg",
+    "backdrop_path": "/fn4n6uOYcB6Uh89nbNPoU2w80RV.jpg",
     "genre_ids": [
         28,
         12,
@@ -33,7 +33,7 @@ mcuTimelineOrder: 244
     "release_date": "2017-07-05",
     "title": "Spider-Man: Homecoming",
     "video": false,
-    "vote_average": 7.4,
+    "vote_average": 7.3,
     "slug": "spider-man-homecoming",
     "tags": [
         "movie",

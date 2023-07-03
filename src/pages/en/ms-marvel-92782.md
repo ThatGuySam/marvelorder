@@ -18,7 +18,7 @@ mcuTimelineOrder: 573
 ## TMDB Data
 ```json
 {
-    "backdrop_path": "/rlCRM7U5g2hcU1O8ylGcqsMYHIP.jpg",
+    "backdrop_path": "/8JSZxdCjS1T4ua3nKCycxE7am4E.jpg",
     "first_air_date": "2022-06-08",
     "genre_ids": [
         10765,
@@ -34,7 +34,7 @@ mcuTimelineOrder: 573
     "original_name": "Ms. Marvel",
     "overview": "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school — that is, until she gets superpowers like the heroes she’s always looked up to. Life is easier with superpowers, right?",
     "poster_path": "/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
-    "vote_average": 6.7,
+    "vote_average": 6.6,
     "title": "Ms. Marvel",
     "slug": "ms-marvel",
     "tags": [

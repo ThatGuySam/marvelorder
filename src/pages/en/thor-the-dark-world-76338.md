@@ -21,7 +21,7 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/4zTsF0RtO0av3YX1NaKDqGKPxYF.jpg",
+    "backdrop_path": "/5o88bbqcV5STn56jqOeovaaWbAE.jpg",
     "genre_ids": [
         28,
         12,
@@ -35,7 +35,7 @@ tags:
     "release_date": "2013-10-30",
     "title": "Thor: The Dark World",
     "video": false,
-    "vote_average": 6.6,
+    "vote_average": 6.5,
     "slug": "thor-the-dark-world",
     "tags": [
         "movie",

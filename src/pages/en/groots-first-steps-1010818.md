@@ -31,7 +31,7 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/9bColKVEAaWfmOLiLZoUhdYfevy.jpg",
+    "backdrop_path": "/AugA6wCoS1yCMOwcd7HcOExjSkt.jpg",
     "genre_ids": [
         16,
         10751,
@@ -46,7 +46,7 @@ tags:
     "release_date": "2022-08-10",
     "title": "Groot's First Steps",
     "video": false,
-    "vote_average": 7.1,
+    "vote_average": 7,
     "slug": "groots-first-steps",
     "tags": [
         "movie",

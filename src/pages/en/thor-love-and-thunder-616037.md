@@ -27,7 +27,7 @@ mcuTimelineOrder: 583
 ```json
 {
     "adult": false,
-    "backdrop_path": "/jsoz1HlxczSuTx0mDl2h0lxy36l.jpg",
+    "backdrop_path": "/bcpATvKQmSgCbwxONs9PPQrer3A.jpg",
     "genre_ids": [
         14,
         28,
@@ -41,7 +41,7 @@ mcuTimelineOrder: 583
     "release_date": "2022-07-06",
     "title": "Thor: Love and Thunder",
     "video": false,
-    "vote_average": 6.6,
+    "vote_average": 6.5,
     "slug": "thor-love-and-thunder",
     "tags": [
         "movie",

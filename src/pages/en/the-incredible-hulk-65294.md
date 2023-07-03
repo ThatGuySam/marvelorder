@@ -17,7 +17,7 @@ logo_on_black: /.netlify/functions/fanart/the-incredible-hulk-1982-5950c1b13ae4f
     "genre_ids": [
         28,
         12,
-        18
+        878
     ],
     "id": 65294,
     "media_type": "movie",

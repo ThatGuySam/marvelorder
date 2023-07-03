@@ -29,7 +29,7 @@ backdrop_path: /3WRvDj6od3V6PB90LXFthFLBJmL.jpg
     "original_language": "en",
     "original_name": "Spider-Man Unlimited",
     "overview": "Spider-Man travels to Counter-Earth to rescue a Terran shuttle crew trapped there and discovers a tyrannical & warped version of his world.",
-    "poster_path": "/fvmC5QzQwkI5ZNJauE4xpF24PTB.jpg",
+    "poster_path": "/jjxLq8i6OAiyrdTWyPM7Oy7c2EM.jpg",
     "vote_average": 7.4,
     "title": "Spider-Man Unlimited",
     "slug": "spider-man-unlimited",

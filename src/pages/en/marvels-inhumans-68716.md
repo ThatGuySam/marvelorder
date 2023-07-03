@@ -33,7 +33,7 @@ mcuTimelineOrder: 224
     "original_name": "Marvel's Inhumans",
     "overview": "After the Royal Family of Inhumans is splintered by a military coup, they barely escape to Hawaii where their surprising interactions with the lush world and humanity around them may prove to not only save them, but Earth itself.",
     "poster_path": "/zKfGip55oJ9tdzhyd9ayGyFFhuo.jpg",
-    "vote_average": 6.1,
+    "vote_average": 6,
     "title": "Marvel's Inhumans",
     "slug": "marvels-inhumans",
     "tags": [

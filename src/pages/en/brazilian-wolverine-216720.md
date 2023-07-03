@@ -31,11 +31,15 @@ tags:
     "id": 216720,
     "name": "Brazilian Wolverine",
     "origin_country": [
-        "BR"
+        "BR",
+        "IN",
+        "PT",
+        "GB",
+        "US"
     ],
     "original_language": "pt",
-    "original_name": "Brazilian Wolverine",
-    "overview": "",
+    "original_name": "Wolverine Brasileiro",
+    "overview": "This television series about the brazilian performer Marcos Greick, who plays the Wolverine in CULTZONE Interview talk-show in the YTB.",
     "poster_path": "/siKP5HS8BZO41a6GXH9aki52DNn.jpg",
     "vote_average": 0,
     "title": "Brazilian Wolverine",

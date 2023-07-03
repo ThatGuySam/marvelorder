@@ -14,7 +14,7 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/7D2PgX369YYePs4m44IQvROWM42.jpg",
+    "backdrop_path": "/tqPRfJsrCtX5BvtAP4Bahwhq2dU.jpg",
     "genre_ids": [
         28,
         878,

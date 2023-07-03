@@ -17,14 +17,15 @@ tags:
     "backdrop_path": "/uR952NrgispGuyqIdUbkR24vE0u.jpg",
     "genre_ids": [
         28,
-        878
+        878,
+        12
     ],
     "id": 1003596,
     "original_language": "en",
     "original_title": "Avengers: The Kang Dynasty",
     "overview": "An upcoming film in the Marvel Cinematic Universe's sixth Phase and part of The Multiverse Saga. Plot unknown.",
     "poster_path": "/utZTb3VBrH0zR77BcISU67pHuAx.jpg",
-    "release_date": "2025-05-01",
+    "release_date": "2026-04-29",
     "title": "Avengers: The Kang Dynasty",
     "video": false,
     "vote_average": 0,

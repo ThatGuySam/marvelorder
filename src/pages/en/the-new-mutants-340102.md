@@ -18,10 +18,11 @@ watchLinks:
     "adult": false,
     "backdrop_path": "/eCIvqa3QVCx6H09bdeOS8Al2Sqy.jpg",
     "genre_ids": [
-        27,
         878,
+        27,
+        28,
         9648,
-        28
+        12
     ],
     "id": 340102,
     "media_type": "movie",

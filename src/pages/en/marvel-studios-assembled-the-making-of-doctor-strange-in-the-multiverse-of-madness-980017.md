@@ -46,11 +46,11 @@ tags:
     "original_language": "en",
     "original_title": "Marvel Studios Assembled: The Making of Doctor Strange in the Multiverse of Madness",
     "overview": "Join visionary director Sam Raimi and the cast of the film as they recount their experiences bringing Marvel’s darkest story to life.  From world-building to universe-building, hear first hand accounts from the cast and crew on what it took to design, create and make each universe unique and believable.",
-    "poster_path": "/9c89FC1gv0rwCqSP1LumIbrYA6a.jpg",
+    "poster_path": "/eIzPe62s12uHsIPhGWY1yp68DY9.jpg",
     "release_date": "2022-07-08",
     "title": "Marvel Studios Assembled: The Making of Doctor Strange in the Multiverse of Madness",
     "video": false,
-    "vote_average": 7.4,
+    "vote_average": 7.6,
     "slug": "marvel-studios-assembled-the-making-of-doctor-strange-in-the-multiverse-of-madness",
     "tags": [
         "movie",

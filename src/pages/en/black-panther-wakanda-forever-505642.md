@@ -12,7 +12,7 @@ mcuTimelineOrder: 561
 ```json
 {
     "adult": false,
-    "backdrop_path": "/xDMIl84Qo5Tsu62c9DGWhmPI67A.jpg",
+    "backdrop_path": "/yYrvN5WFeGYjJnRzhY0QXuo4Isw.jpg",
     "genre_ids": [
         28,
         12,
@@ -26,7 +26,7 @@ mcuTimelineOrder: 561
     "release_date": "2022-11-09",
     "title": "Black Panther: Wakanda Forever",
     "video": false,
-    "vote_average": 7.3,
+    "vote_average": 7.2,
     "slug": "black-panther-wakanda-forever",
     "tags": [
         "movie",

@@ -12,12 +12,12 @@ backdrop_path: /8CO2liwAiP31ZY5We2bildsjGh8.jpg
 ## TMDB Data
 ```json
 {
-    "backdrop_path": "/gxD8XuzBzTef2A4yKQ3cRRDl3rr.jpg",
+    "backdrop_path": "/pQHg2NZpS5kvoENFMSt0ynzCFqd.jpg",
     "first_air_date": "2023-06-21",
     "genre_ids": [
-        10759,
         18,
-        10765
+        10765,
+        10759
     ],
     "id": 114472,
     "name": "Secret Invasion",
@@ -27,8 +27,8 @@ backdrop_path: /8CO2liwAiP31ZY5We2bildsjGh8.jpg
     "original_language": "en",
     "original_name": "Secret Invasion",
     "overview": "Nick Fury and Talos discover a faction of shapeshifting Skrulls who have been infiltrating Earth for years.",
-    "poster_path": "/ySkya7tPCuT1a4gsewyNzRi9cli.jpg",
-    "vote_average": 0,
+    "poster_path": "/3rINdUPSy9AklJg74jWHOyUXuZd.jpg",
+    "vote_average": 7.8,
     "title": "Secret Invasion",
     "slug": "secret-invasion",
     "tags": [
