@@ -15,6 +15,7 @@
  * The best solution is not the most complicated, it's the one
  * that is the easiest to understand and change.
  */
+
 module.exports = {
     extends: [
         // TODO: Integrate Astro linting
@@ -28,6 +29,8 @@ module.exports = {
     ignorePatterns: [
         // Markdown files anywhere
         '**/*.md',
+        // JSON Store path
+        'src/json/*',
     ],
     rules: {
         // Indent with 4 spaces
