@@ -65,7 +65,7 @@ module.exports = {
         'semi': 'off',
         '@typescript-eslint/semi': [ 'error', 'never' ],
 
-        'import/extensions': 'always',
+        'import/extensions': 0,
     },
 
     overrides: [
