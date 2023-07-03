@@ -1,5 +1,5 @@
 // https://vitest.dev/api/
-import { assert, expect, test, beforeAll } from 'vitest'
+import { expect, test, beforeAll } from 'vitest'
 
 import {
     getTimelineFromJson
