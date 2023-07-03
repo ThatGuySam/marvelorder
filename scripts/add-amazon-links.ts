@@ -1,5 +1,6 @@
 import fs from 'fs-extra'
 import 'dotenv/config'
+import amazon from 'amazon-paapi'
 
 import { upsertListingMarkdown } from '~/src/helpers/markdown-page.ts'
 import {
@@ -13,7 +14,7 @@ import {
     isUpcoming,
 } from '~/src/helpers/listing-filters'
 
-const amazon = require( 'amazon-paapi' )
+// const amazon = require( 'amazon-paapi' )
 
 const commonParameters = {
     AccessKey: process.env.AWS_ACCESS,
@@ -52,7 +53,9 @@ async function readMarkdownFileNode ( filePath: string ) {
 
         // console.log( 'watchLinks', details.listing?.watchLinks )
         // Skip listings that already have amazon links
-        if ( details.listing?.watchLinks?.amazon ) { continue }
+        if ( details.listing?.watchLinks?.amazon ) {
+            continue
+        }
 
         const searchKeywords = [
             details.listing.title,
