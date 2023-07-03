@@ -26,6 +26,8 @@ const inUniverseFirstPage = '/CuratedSet/version/5.1/region/US/audience/k-false,
 type TitleEntry = {
     default: {
         content: string
+        language: 'en'
+        sourceEntity: 'program' | 'set' | 'series'
     }
 }
 
