@@ -171,6 +171,7 @@ export interface MarvelMoviesFandomTimelineEntry {
     }
     primeReferenceIndex:number
     primeReferenceTitle:string
+    textContent: string
 }
 
 interface MarvelMoviesFandomTimeline {
