@@ -104,7 +104,7 @@ export function organizeOrderData ( rawOrderData:Array<any> ) {
                 }
             }
 
-            // If this is epsiode 1, add it's date as the season's release date
+            // If this is episode 1, add it's date as the season's release date
             if ( episodeNumber === '1' ) {
                 entryData.seasons[seasonNumber].mcuTimelineOrder = mcuTimelineOrder
                 entryData.seasons[seasonNumber].premiereDate = RELEASE_DATE
