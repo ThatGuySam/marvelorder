@@ -36,8 +36,6 @@ function getImageType ( buffer ) {
 }
 
 function getOptions ( eventUrlString ) {
-    console.log( { eventUrlString } )
-
     const eventUrl = new URL( eventUrlString, process.env.URL )
 
     // console.log('searchParams', Object.fromEntries( eventUrl.searchParams ))
