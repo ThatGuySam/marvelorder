@@ -2,6 +2,7 @@
 import { expect, test } from 'vitest'
 import { faker } from '@faker-js/faker'
 
+import type { Listing } from '~/src/types/listing.ts'
 import {
     getListingDetailsFromPaths,
     getListingFiles,
@@ -13,22 +14,22 @@ import {
     getInUniverseTimelineAndListings,
 } from '~/src/helpers/node/in-universe-timeline.ts'
 
-const fakeListing = {
-    title: faker.lorem.sentence(),
-    overview: faker.lorem.paragraph(),
-    backdrop_path: faker.image.imageUrl(),
-    genre_ids: [ 1, 2, 3 ],
-    id: faker.datatype.number(),
-    origin_country: [ faker.address.countryCode() ],
-    original_language: faker.address.countryCode(),
-    popularity: faker.datatype.number(),
-    poster_path: faker.image.imageUrl(),
-    slug: faker.lorem.slug(),
-    tags: [ faker.lorem.word(), faker.lorem.word() ],
-}
+// const fakeListing = {
+//     title: faker.lorem.sentence(),
+//     overview: faker.lorem.paragraph(),
+//     backdrop_path: faker.image.imageUrl(),
+//     genre_ids: [ 1, 2, 3 ],
+//     id: faker.datatype.number(),
+//     origin_country: [ faker.address.countryCode() ],
+//     original_language: faker.address.countryCode(),
+//     popularity: faker.datatype.number(),
+//     poster_path: faker.image.imageUrl(),
+//     slug: faker.lorem.slug(),
+//     tags: [ faker.lorem.word(), faker.lorem.word() ],
+// }
 
 test( 'Can insert listing Frontmatter Data', async () => {
-    const sourceListing = {
+    const sourceListing: Listing = {
         title: faker.lorem.sentence(),
         slug: faker.lorem.slug(),
         overview: faker.lorem.paragraph(),
@@ -42,7 +43,7 @@ test( 'Can insert listing Frontmatter Data', async () => {
 } )
 
 test( 'Can merge Frontmatter arrays', async () => {
-    const sourceListing = {
+    const sourceListing: Listing = {
         title: faker.lorem.sentence(),
         slug: faker.lorem.slug(),
         overview: faker.lorem.paragraph(),
@@ -62,14 +63,16 @@ function noEndingBackSlashes ( arrayOrObject ) {
 
     for ( const value of array ) {
         if ( typeof value === 'string' && value.endsWith( '\\' ) ) {
-            console.log( 'value', value )
+            // console.log( 'value', value )
             return false
         }
 
         if ( Object( value ) === value || Array.isArray( value ) ) {
             const child = noEndingBackSlashes( value )
 
-            if ( !child ) { return false }
+            if ( !child ) {
+                return false
+            }
         }
     }
 

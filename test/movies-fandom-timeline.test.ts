@@ -111,7 +111,9 @@ test( 'Can see expected entry structure', () => {
 test( 'Can match entry references to listings', async () => {
     const listings = await getListingsByTitleLength()
 
-    const { titles, totalEntriesWithReference } = timeline.entriesByReference
+    const {
+        titles,
+    } = timeline.entriesByReference
 
     // Setup a map of titles to listings using the title as the key
     const listingsByTitle = titles.reduce( ( map, title ) => {

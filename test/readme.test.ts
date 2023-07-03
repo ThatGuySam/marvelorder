@@ -45,7 +45,7 @@ test( 'Can catch missing start marker', async () => {
     const emptyMarkdown = ''
 
     expect( () => {
-        const newReadmeListContent = updateMarkdownContent( {
+        updateMarkdownContent( {
             sourceMarkdown: emptyMarkdown,
             newMarkdown: 'Test',
             markerString: 'upcoming-list',
