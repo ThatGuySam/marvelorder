@@ -1,4 +1,4 @@
-lockfileVersion: '6.0'
+lockfileVersion: '6.1'
 
 settings:
   autoInstallPeers: true
@@ -108,8 +108,8 @@ dependencies:
     specifier: https://github.com/winkjs/wink-eng-lite-model/releases/download/1.3.1/wink-eng-lite-model-1.3.1.tgz
     version: '@github.com/winkjs/wink-eng-lite-model/releases/download/1.3.1/wink-eng-lite-model-1.3.1.tgz'
   wink-nlp:
-    specifier: ^1.12.0
-    version: 1.12.0
+    specifier: ^1.14.2
+    version: 1.14.2
 
 devDependencies:
   '@astrojs/preact':
@@ -5623,8 +5623,8 @@ packages:
     dependencies:
       string-width: 5.1.2
 
-  /wink-nlp@1.12.0:
-    resolution: {integrity: sha512-HwP1rVGJ+IfkC7naeKCRnhjXNO9vhHCuIYeunFIO8MutXUD4yLkkjwwGM8J+apfWdUogopbcHyPRIPvUQdRheQ==}
+  /wink-nlp@1.14.2:
+    resolution: {integrity: sha512-/7KYwZsB/dkLOsGfHH8flMMLpbMW7+8DvwiYWjjqQ2H7gHeM3FF/Aa7b9wox9nwnzmMqSsY+MFq6b/KiakzJQQ==}
     dev: false
 
   /wrap-ansi@8.1.0:
