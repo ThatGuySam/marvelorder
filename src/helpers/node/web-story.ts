@@ -26,7 +26,7 @@ function* chunk ( arr:Array<any>, n:number, characterLimit:number = Infinity ) {
     }
 }
 
-function buildWebStoryPagesFromTimelineEntry ( timelineEntry:MarvelMoviesFandomTimelineEntry ) {
+function buildWebStoryPagesFromTimelineEntry ( timelineEntry: MarvelMoviesFandomTimelineEntry ) {
     const pagesFromEntry = []
 
     // console.log( 'timelineEntry.textContent', timelineEntry.textContent )
