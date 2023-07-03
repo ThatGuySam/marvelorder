@@ -29,6 +29,8 @@ module.exports = {
     ignorePatterns: [
         // Markdown files anywhere
         '**/*.md',
+        // TSX files anywhere
+        '**/*.tsx',
         // JSON Store path
         'src/json/*',
     ],
