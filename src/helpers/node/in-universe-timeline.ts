@@ -23,8 +23,33 @@ import {
 
 const inUniverseFirstPage = '/CuratedSet/version/5.1/region/US/audience/k-false,l-true/maturity/1450/language/en/setId/9466a148-f6b4-4c1a-8028-b0129323f4a9/pageSize/15/page/1'
 
+type TitleEntry = {
+    default: {
+        content: string
+    }
+}
 
-function mapCuratedSetItem ( item:any ) {
+type TitleText = {
+    program?: TitleEntry
+    series?: TitleEntry
+}
+
+type DisneyPlusInUniverseItem = {
+    contentId: string
+    seriesType?: string
+    programType?: string
+    text: {
+        title: {
+            full: TitleText
+            slug: TitleText
+        }
+    }
+    releases: {
+        releaseDate: string
+    }[]
+}
+
+function mapCuratedSetItem ( item: DisneyPlusInUniverseItem ) {
     const isSeries = !!item?.seriesType
     const programOrSeries = isSeries ? 'series' : 'program'
     const titleObject = item.text.title
