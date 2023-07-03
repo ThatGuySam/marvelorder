@@ -304,7 +304,7 @@ async function saveListingsAsMarkdown ( listings ) {
         .sort( byPremiere )
 
 
-    await writeJSON( `${ storePath }/en/listings.json`, sortedListings, null, '\t' )
+    await writeJSON( `${ storePath }/listings.json`, sortedListings, null, '\t' )
 
     await saveListingsAsMarkdown( sortedListings )
 
