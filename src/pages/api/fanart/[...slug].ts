@@ -79,8 +79,6 @@ function getOptions ( eventUrlString ) {
 // Example URL
 // https://marvelorder-full-static.netlify.app/.netlify/functions/wp-image/marvelorderstaging.wpengine.com/2021/11/Chamber-1-V2.jpg?w=800&q=80&format
 export async function handler ( event ) {
-    console.log( 'event', event )
-
     let options = {}
 
     // Parse and validate options
@@ -110,13 +108,15 @@ export async function handler ( event ) {
     // Move Request Extension to the start of the list
     // so that it is the first to be tried
     const imageTypes = new Set( [
+        // Start with the most likely
+        'png',
         requestExtension,
         ...OUTPUT_FORMATS,
     ] )
 
     // Run through image types until we find one that works
     for ( const imageType of imageTypes ) {
-        const typeUrl = contentUrl.replace( `.${ requestExtension }`, '.png' )
+        const typeUrl = contentUrl.replace( `.${ requestExtension }`, `.${ imageType }` )
 
         // Fetch our WordPress image
         sourceImage = await fetch( typeUrl )
