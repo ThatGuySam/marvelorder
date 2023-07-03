@@ -36,5 +36,4 @@ tags:
     ],
     "media_type": "movie"
 }
-
 ```

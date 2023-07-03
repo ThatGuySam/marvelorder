@@ -1,18 +1,18 @@
 import fs from 'fs-extra'
 
-// @ts-ignore
-import { Listing } from '~/src/helpers/types.ts'
+// @ts-expect-error
+import type { Listing } from '~/src/helpers/types.ts'
 
 import {
-    getInUniverseTimelineAndListings
-// @ts-ignore
+    getInUniverseTimelineAndListings,
+// @ts-expect-error
 } from '~/src/helpers/node/in-universe-timeline.ts'
 
-export function updateMarkdownContent ( options:any = {} ) {
+export function updateMarkdownContent ( options: any = {} ) {
     const {
-        sourceMarkdown, 
+        sourceMarkdown,
         newMarkdown,
-        markerString
+        markerString,
     } = options
 
     const startMarker = `<!-- start-${ markerString } -->`
@@ -29,44 +29,41 @@ export function updateMarkdownContent ( options:any = {} ) {
     const newReadmeListContent = [
         sourceMarkdown.slice( 0, startIndex ),
         newMarkdown,
-        sourceMarkdown.slice( endIndex )
-    ].join('')
+        sourceMarkdown.slice( endIndex ),
+    ].join( '' )
 
     return newReadmeListContent
 }
 
 export function makeUpcomingListingsMarkdown ( upcomingListings: Listing[] ) {
-
     const markdownLines = upcomingListings.map( ( mappedListing: Listing ) => {
-
         // console.log( 'mappedListing.date', mappedListing.date )
 
         const lineParts = [
-            '', 
-            mappedListing.date.toLocaleString({ month: 'long', day: 'numeric', year: 'numeric' }),
+            '',
+            mappedListing.date.toLocaleString( { month: 'long', day: 'numeric', year: 'numeric' } ),
             `[${ mappedListing.title }](https://marvelorder.com${ mappedListing.endpoint })`,
             // typesReadmeMap[ timelineType ],
-            `[Edit](${ mappedListing.githubEditUrl })`
+            `[Edit](${ mappedListing.githubEditUrl })`,
         ]
-        
-        return lineParts.join( ' - ' ).trim()
-    })
 
-    return '\n\n' + markdownLines.join( '\n' ) + '\n\n'
+        return lineParts.join( ' - ' ).trim()
+    } )
+
+    return `\n\n${ markdownLines.join( '\n' ) }\n\n`
 }
 
 export async function updateReadmeListContent ( newListMarkdown: string, markerString: string ) {
-
     // Get README.md content
     const readmeContent = await fs.readFile( './README.md', 'utf8' )
 
     // console.log( 'readmeContent', readmeContent )
 
-    const newReadmeListContent = updateMarkdownContent({
+    const newReadmeListContent = updateMarkdownContent( {
         sourceMarkdown: readmeContent,
         newMarkdown: newListMarkdown,
-        markerString
-    })
+        markerString,
+    } )
 
     // console.log( 'newReadmeListContent', newReadmeListContent )
 
@@ -74,7 +71,6 @@ export async function updateReadmeListContent ( newListMarkdown: string, markerS
 
     return newReadmeListContent
 }
-
 
 const inUniverseTypeMap = {
     'series': '📺 Series',
@@ -87,26 +83,25 @@ export async function makeInUniverseMarkdown () {
 
     // console.log( 'timeline', timeline[0] )
 
-    const markdownLines = timeline.map( ( timelineEntry:any, index:number ) => {
-        
-        const { 
-            inUniverseEntry = null as any, 
-            mappedListing = null as Listing 
+    const markdownLines = timeline.map( ( timelineEntry: any, index: number ) => {
+        const {
+            inUniverseEntry = null as any,
+            mappedListing = null as Listing,
         } = timelineEntry
 
         // console.log( 'inUniverseEntry', inUniverseEntry )
 
         const lineParts = [
-            '', 
+            '',
             `<kbd>${ index + 1 }</kbd>`,
             // mappedListing.date.toLocaleString({ month: 'long', day: 'numeric', year: 'numeric' }),
             `[${ mappedListing.title }](https://marvelorder.com${ mappedListing.endpoint })`,
             inUniverseTypeMap[ inUniverseEntry.type ] || '⁇',
-            `[Edit](${ mappedListing.githubEditUrl })`
+            `[Edit](${ mappedListing.githubEditUrl })`,
         ]
-        
-        return lineParts.join( ' - ' ).trim()
-    })
 
-    return '\n\n' + markdownLines.join( '\n' ) + '\n\n'
+        return lineParts.join( ' - ' ).trim()
+    } )
+
+    return `\n\n${ markdownLines.join( '\n' ) }\n\n`
 }

@@ -27,5 +27,4 @@ type: movie
         "company-420"
     ]
 }
-
 ```

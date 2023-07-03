@@ -31,5 +31,4 @@ logo_on_black: /.netlify/functions/tmdb-image/k2goqzfn4Iaku3xyQrLI8OvSGfF.webp
         "list-8204859"
     ]
 }
-
 ```

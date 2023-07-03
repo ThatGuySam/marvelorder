@@ -34,5 +34,4 @@ type: tv
         "company-7505"
     ]
 }
-
 ```

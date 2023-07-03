@@ -37,5 +37,4 @@ logo_on_black: /.netlify/functions/fanart/powers-2014-5503f9406a26a.webp
         "list-8204859"
     ]
 }
-
 ```

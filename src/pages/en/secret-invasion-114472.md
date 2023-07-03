@@ -36,5 +36,4 @@ backdrop_path: /8CO2liwAiP31ZY5We2bildsjGh8.jpg
         "company-420"
     ]
 }
-
 ```

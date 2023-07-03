@@ -1,14 +1,12 @@
-import { assert, expect, test } from 'vitest'
+import { expect, test } from 'vitest'
 
-// @ts-ignore
+// @ts-expect-error
 import { getUpcomingListings } from '~/src/helpers/node/listing-files.ts'
-import { 
-    makeUpcomingListingsMarkdown, 
-    updateMarkdownContent
-// @ts-ignore
+import {
+    makeUpcomingListingsMarkdown,
+    updateMarkdownContent,
+// @ts-expect-error
 } from '~/src/helpers/node/readme.ts'
-
-
 
 const testMarkdown = `
 <!-- start-upcoming-list -->
@@ -19,8 +17,7 @@ const testMarkdown = `
 <!-- end-upcoming-list -->
 `
 
-test('Can generate upcoming Listing Markdown', async () => {
-
+test( 'Can generate upcoming Listing Markdown', async () => {
     const upcomingListings = await getUpcomingListings()
 
     const [ nextUpcomingListing ] = upcomingListings
@@ -31,11 +28,11 @@ test('Can generate upcoming Listing Markdown', async () => {
     // Generate markdown
     const newUpcomingMarkdown = makeUpcomingListingsMarkdown( upcomingListings )
 
-    const newReadmeListContent = updateMarkdownContent({
+    const newReadmeListContent = updateMarkdownContent( {
         sourceMarkdown: testMarkdown,
         newMarkdown: newUpcomingMarkdown,
-        markerString: 'upcoming-list'
-    })
+        markerString: 'upcoming-list',
+    } )
 
     // Expect markdown to have list markers
     expect( newReadmeListContent ).toContain( '<!-- start-upcoming-list -->' )
@@ -44,20 +41,16 @@ test('Can generate upcoming Listing Markdown', async () => {
 
     // Expect upcomingMarkdown to not contain 'Old Listing'
     expect( newReadmeListContent ).not.toContain( 'Old Listing' )
-})
+} )
 
-test('Can catch missing start marker', async () => {
+test( 'Can catch missing start marker', async () => {
+    const emptyMarkdown = ''
 
-    const emptyMarkdown = ``
-
-
-    expect(() => {
-
-        const newReadmeListContent = updateMarkdownContent({
+    expect( () => {
+        const newReadmeListContent = updateMarkdownContent( {
             sourceMarkdown: emptyMarkdown,
-            newMarkdown: `Test`,
-            markerString: 'upcoming-list'
-        })
-
-    }).toThrowError('upcoming-list')
-})
+            newMarkdown: 'Test',
+            markerString: 'upcoming-list',
+        } )
+    } ).toThrowError( 'upcoming-list' )
+} )

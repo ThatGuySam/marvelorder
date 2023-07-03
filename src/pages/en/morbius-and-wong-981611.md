@@ -36,5 +36,4 @@ layout: ../../layouts/MainLayout.astro
         }
     ]
 }
-
 ```

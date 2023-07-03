@@ -3,27 +3,25 @@ import axios from 'axios'
 
 import {
     getYearAndMonth,
-    makeSlug
-// @ts-ignore
+    makeSlug,
+// @ts-expect-error
 } from '~/src/helpers/node/listing.ts'
 
 import {
-    getAllListings
-// @ts-ignore
+    getAllListings,
+// @ts-expect-error
 } from '~/src/helpers/node/listing-files.ts'
 
 import {
     FilteredListings,
     isDoc,
-    isMarvelKnightsAnimated
-// @ts-ignore
+    isMarvelKnightsAnimated,
+// @ts-expect-error
 } from '~/src/helpers/listing-filters.ts'
-
-
 
 const inUniverseFirstPage = '/CuratedSet/version/5.1/region/US/audience/k-false,l-true/maturity/1450/language/en/setId/9466a148-f6b4-4c1a-8028-b0129323f4a9/pageSize/15/page/1'
 
-type TitleEntry = {
+interface TitleEntry {
     default: {
         content: string
         language: 'en'
@@ -31,12 +29,12 @@ type TitleEntry = {
     }
 }
 
-type TitleText = {
+interface TitleText {
     program?: TitleEntry
     series?: TitleEntry
 }
 
-type DisneyPlusRelease = {
+interface DisneyPlusRelease {
     releaseDate: `${ number }-${ number }-${ number }`
     releaseOrg: null
     releaseType: 'original'
@@ -47,7 +45,7 @@ type DisneyPlusRelease = {
 type SeriesType = 'standard' | null
 type ProgramType = 'movie' | 'short-form'
 
-type DisneyPlusInUniverseItem = {
+interface DisneyPlusInUniverseItem {
     contentId: string
     seriesType?: SeriesType
     programType?: ProgramType
@@ -60,7 +58,7 @@ type DisneyPlusInUniverseItem = {
     releases: DisneyPlusRelease[]
 }
 
-type DisneyPlusInUniverseEntry = {
+interface DisneyPlusInUniverseEntry {
     contentId: string
     title: string
     slug: string
@@ -84,12 +82,10 @@ function mapCuratedSetItem ( item: DisneyPlusInUniverseItem ): DisneyPlusInUnive
     }
 }
 
-
-
 export async function getInUniverseTimeline (): Promise<DisneyPlusInUniverseEntry[]> {
     // console.log( 'DISNEY_API_PREFIX', process.env.DISNEY_API_PREFIX )
 
-    let pageTotal = Infinity
+    let pageTotal = Number.POSITIVE_INFINITY
     let pageIndex = 1
 
     const allItems: DisneyPlusInUniverseEntry[] = []
@@ -110,7 +106,6 @@ export async function getInUniverseTimeline (): Promise<DisneyPlusInUniverseEntr
 }
 
 export function matchListingToInUniverse ( listing, inUniverseEntry ) {
-
     // Skip if listing has no release date
     if ( !listing.dateString ) {
         return false
@@ -118,9 +113,9 @@ export function matchListingToInUniverse ( listing, inUniverseEntry ) {
 
     // console.log( 'listing.dateString', listing.dateString )
     // console.log( 'inUniverseEntry.releases[0].releaseDate', inUniverseEntry.releases[0].releaseDate )
-    const dateMatches = getYearAndMonth( inUniverseEntry.releases[0].releaseDate ) === getYearAndMonth( listing.dateString )
+    const dateMatches = getYearAndMonth( inUniverseEntry.releases[ 0 ].releaseDate ) === getYearAndMonth( listing.dateString )
 
-    if ( !dateMatches ) return false
+    if ( !dateMatches ) { return false }
 
     const cleanInUniverseTitle = inUniverseEntry.title
         // Replace Trademark Symbols
@@ -137,7 +132,7 @@ export function matchListingToInUniverse ( listing, inUniverseEntry ) {
     return inUniverseSlug.includes( listingSlug ) || listingSlug.includes( inUniverseSlug )
 }
 
-export function matchTimelineEntryToSavedListing ( inUniverseEntry:any, savedListings:any[] ) {
+export function matchTimelineEntryToSavedListing ( inUniverseEntry: any, savedListings: any[] ) {
     for ( const savedListing of savedListings ) {
         if ( matchListingToInUniverse( savedListing, inUniverseEntry ) ) {
             return savedListing
@@ -147,31 +142,30 @@ export function matchTimelineEntryToSavedListing ( inUniverseEntry:any, savedLis
     throw new Error( `Could not match timeline entry to saved listing: ${ inUniverseEntry.title }` )
 }
 
-
-const inUniverseFilters = new Map([
+const inUniverseFilters = new Map( [
     [
         isDoc,
         {
-            targetValue: false
-        }
+            targetValue: false,
+        },
     ],
     [
         isMarvelKnightsAnimated,
         {
-            targetValue: false
-        }
-    ]
-])
+            targetValue: false,
+        },
+    ],
+] )
 
 async function getInUniverseListings () {
     const rawListings = await getAllListings()
 
-    const inUniverseListings = new FilteredListings({
+    const inUniverseListings = new FilteredListings( {
         listings: rawListings,
         initialFilters: inUniverseFilters,
         useDefaultFilters: false,
-        listingsSort: 'default'
-    })
+        listingsSort: 'default',
+    } )
 
     return inUniverseListings.list
 }
@@ -188,7 +182,7 @@ export async function getInUniverseTimelineAndListings () {
         matches.set( matchingListing.id, {
             inUniverseEntry,
             mappedListing: matchingListing,
-        })
+        } )
     }
 
     return Array.from( matches.values() )

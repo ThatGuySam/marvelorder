@@ -43,5 +43,4 @@ vote_average: 7.1
     ],
     "media_type": "tv"
 }
-
 ```

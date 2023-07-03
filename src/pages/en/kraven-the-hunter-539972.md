@@ -32,5 +32,4 @@ logo_on_black: /.netlify/functions/fanart/kraven-the-hunter-60c7dc51977a8.webp
         "company-7505"
     ]
 }
-
 ```

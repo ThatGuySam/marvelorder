@@ -1,40 +1,37 @@
 import { deepmerge } from 'deepmerge-ts'
 
 import type { MCUTimelineSheetRecord } from '~/src/helpers/types'
-import { 
-    getYearAndMonth, 
+import {
+    getYearAndMonth,
     makeSlug,
-// @ts-ignore
+// @ts-expect-error
 } from '~/src/helpers/node/listing.ts'
 
-function parseOrderedTitle ( rawTitle:string ) {
+function parseOrderedTitle ( rawTitle: string ) {
     const [
         listingTitle,
-        seasonParts = ''
+        seasonParts = '',
     ] = rawTitle.split( ' Season ' )
 
     const [
         seasonNumber = '',
-        episodeParts = ''
+        episodeParts = '',
     ] = seasonParts.split( ' Episode ' )
 
     const [
         episodeNumber = '',
-        episodeTitle = ''
+        episodeTitle = '',
     ] = episodeParts.split( ': ' )
 
     return {
         listingTitle,
         seasonNumber,
         episodeNumber,
-        episodeTitle
+        episodeTitle,
     }
 }
 
-
-
 export function matchListingToOrdered ( listing, orderedEntry ) {
-
     // Skip if listing has no release date
     if ( !listing.dateString ) {
         return false
@@ -44,7 +41,7 @@ export function matchListingToOrdered ( listing, orderedEntry ) {
     // console.log( 'orderedEntry.premiereDate', orderedEntry.premiereDate )
     const dateMatches = getYearAndMonth( orderedEntry.premiereDate ) === getYearAndMonth( listing.dateString )
 
-    if ( !dateMatches ) return false
+    if ( !dateMatches ) { return false }
 
     const listingSlug = makeSlug( listing.title )
     const orderedSlug = makeSlug( orderedEntry.title )
@@ -54,7 +51,6 @@ export function matchListingToOrdered ( listing, orderedEntry ) {
 
     return listingSlug.includes( orderedSlug )
 }
-
 
 export function organizeOrderData ( rawOrderData: MCUTimelineSheetRecord[] ) {
     const organizedOrder = {}
@@ -71,12 +67,12 @@ export function organizeOrderData ( rawOrderData: MCUTimelineSheetRecord[] ) {
             listingTitle,
             seasonNumber,
             episodeNumber,
-            episodeTitle
+            episodeTitle,
         } = parseOrderedTitle( TITLE )
-        
+
         const existingData = organizedOrder[ listingTitle ] || {}
 
-        const entryData:any = {
+        const entryData: any = {
             title: listingTitle,
         }
 
@@ -89,33 +85,31 @@ export function organizeOrderData ( rawOrderData: MCUTimelineSheetRecord[] ) {
         }
 
         if ( seasonNumber.length > 0 ) {
-            const existingEpisodeCount = existingData.seasons?.[seasonNumber]?.episodeCount || 0
+            const existingEpisodeCount = existingData.seasons?.[ seasonNumber ]?.episodeCount || 0
 
             entryData.seasons = {
-                [seasonNumber]: {
+                [ seasonNumber ]: {
                     episodeCount: existingEpisodeCount + 1,
                     episodes: {
-                        [episodeNumber]: {
+                        [ episodeNumber ]: {
                             title: episodeTitle,
                             premiereDate: RELEASE_DATE,
-                            mcuTimelineOrder
-                        }
-                    }
-                }
+                            mcuTimelineOrder,
+                        },
+                    },
+                },
             }
 
             // If this is episode 1, add it's date as the season's release date
             if ( episodeNumber === '1' ) {
-                entryData.seasons[seasonNumber].mcuTimelineOrder = mcuTimelineOrder
-                entryData.seasons[seasonNumber].premiereDate = RELEASE_DATE
+                entryData.seasons[ seasonNumber ].mcuTimelineOrder = mcuTimelineOrder
+                entryData.seasons[ seasonNumber ].premiereDate = RELEASE_DATE
             }
-
         }
 
         // Merge new data with existing data
         organizedOrder[ listingTitle ] = deepmerge( existingData, entryData )
     }
-
 
     return organizedOrder
 }

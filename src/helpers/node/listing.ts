@@ -2,36 +2,36 @@ import { DateTime } from 'luxon'
 import { deepmergeCustom } from 'deepmerge-ts'
 import slugify from 'slugify'
 
-// @ts-ignore
+// @ts-expect-error
 import * as CONFIG from '~/src/config.ts'
-// @ts-ignore
-import { Listing } from '~/src/helpers/types.ts'
-// @ts-ignore
+
+// @ts-expect-error
+import type { Listing } from '~/src/helpers/types.ts'
+
+// @ts-expect-error
 import { isValidHttpUrl } from '~/src/helpers/check.ts'
 import {
-    makeListingEndpoint,
-    listingMergeConfig,
-    makeTmdbImageUrl,
     getDateString,
+    getIsoDate,
+    getSeasonReleaseDate,
     hasDate,
     hasLogo,
-    getSeasonReleaseDate,
-    getIsoDate
-// @ts-ignore
+    listingMergeConfig,
+    makeListingEndpoint,
+    makeTmdbImageUrl,
+// @ts-expect-error
 } from '~/src/helpers/listing.ts'
 
-
-
-export function makeSlug ( name:string ) {
+export function makeSlug ( name: string ) {
     if ( typeof name !== 'string' ) {
-        throw new Error( 'makeSlug() requires a string' )
+        throw new TypeError( 'makeSlug() requires a string' )
     }
 
-    return slugify( name.replace( '+', ' plus' ) , {
+    return slugify( name.replace( '+', ' plus' ), {
         lower: true,
         remove: /[^a-zA-Z\d\s\-]/g,
-        strict: true
-    })
+        strict: true,
+    } )
 }
 
 export function makeMappedListings ( listings: Listing[] ) {
@@ -49,7 +49,7 @@ export function ensureMappedListing ( listing: Listing ) {
 }
 
 export function ensureMappedListings ( listings: Listing[] ) {
-    if ( listings[0] instanceof MappedListing ) {
+    if ( listings[ 0 ] instanceof MappedListing ) {
         return listings
     }
 
@@ -58,30 +58,29 @@ export function ensureMappedListings ( listings: Listing[] ) {
 
 export const listingMerger = deepmergeCustom( listingMergeConfig )
 
-export function mergeListingData ( listingA : Object, listingB : Object ) {
+export function mergeListingData ( listingA: Object, listingB: Object ) {
     return listingMerger( listingA, listingB )
 }
 
 export function getYearAndMonth ( date: string ) {
-
     if ( typeof date !== 'string' ) {
-        throw new Error( 'date must be a string' )
+        throw new TypeError( 'date must be a string' )
     }
 
     const dateTime = DateTime.fromISO( date )
     const year = dateTime.year
     const month = dateTime.month
 
-    return `${ year }`//-${ month }`
+    return `${ year }`// -${ month }`
 }
 
 export class MappedListing {
-    constructor ( listing : Listing ) {
+    constructor ( listing: Listing ) {
         this.sourceListing = listing
 
         // Map properties from the listing
         for ( const [ key, value ] of Object.entries( listing ) ) {
-            this[key] = value
+            this[ key ] = value
         }
     }
 
@@ -167,10 +166,10 @@ export class MappedListing {
         return [
             this.sourceListing.slug,
             this.sourceListing.id,
-        ].join('-')
+        ].join( '-' )
     }
 
-    hasTag ( tagName : string ) {
+    hasTag ( tagName: string ) {
         // If this listting has no tags, return false
         if ( !this.sourceListing?.tags ) {
             return false
@@ -188,17 +187,13 @@ export class MappedListing {
     }
 
     get defaultWatchLink () {
-
         if ( this.defaultWatchLinkKey.length === 0 ) {
             return null
         }
 
         return {
             key: this.defaultWatchLinkKey,
-            href: this.sourceListing.watchLinks[this.defaultWatchLinkKey]
+            href: this.sourceListing.watchLinks[ this.defaultWatchLinkKey ],
         }
     }
-
-
-
 }

@@ -32,5 +32,4 @@ logo_on_black: /.netlify/functions/tmdb-image/yddelWuP5vibmBhjvCVQZjhra1q.webp
         "company-420"
     ]
 }
-
 ```

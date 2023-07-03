@@ -65,5 +65,4 @@ media_type: tv
     ],
     "media_type": "tv"
 }
-
 ```

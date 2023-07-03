@@ -1,12 +1,12 @@
 import 'dotenv/config'
 
-// @ts-ignore
+// @ts-expect-error
 import { saveMoviesFandomTimeline } from '~/src/helpers/node/movies-fandom-timeline.ts'
 
+;
 
-;(async () => {
-
+( async () => {
     await saveMoviesFandomTimeline()
 
     process.exit()
-})()
+} )()

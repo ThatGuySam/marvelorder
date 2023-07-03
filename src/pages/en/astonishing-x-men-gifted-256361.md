@@ -33,5 +33,4 @@ logo_on_black: /.netlify/functions/fanart/astonishing-x-men-gifted-5e70532739927
         "company-11106"
     ]
 }
-
 ```

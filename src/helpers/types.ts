@@ -6,8 +6,8 @@ export interface Listing {
     name?: string
     sourceListing?: Listing
     overview: string
-    backdrop_path: string,
-    backdrop: Function,
+    backdrop_path: string
+    backdrop: Function
     genre_ids: Array<number>
     id: number
     origin_country: Array<string>
@@ -27,8 +27,6 @@ export interface Listing {
         name: string
     }>
     mcuTimelineOrder?: number
-
-
 
     // "origin_country": [
     //     "US"
@@ -75,8 +73,8 @@ export interface WebStoryLayer {
     }
 
     elements: Array<
-        WebStoryImage|
-        WebStoryText
+    WebStoryImage |
+    WebStoryText
     >
 }
 
@@ -114,14 +112,13 @@ export interface WebStory {
     bookendConfig: WebStoryJsonBookend
 }
 
-export type MCUTimelineSheetRecord = {
-    TYPE: 'movie' | 'disney-plus' | 'disney-plus-netflix' | 'abc' | 'freeform' | 'hulu' | 'web-series' | 'sony' | 'whih' | 'other' | {},
-    TITLE: string,
-    RELEASE_DATE: string,
-    NOTES: string,
+export interface MCUTimelineSheetRecord {
+    TYPE: 'movie' | 'disney-plus' | 'disney-plus-netflix' | 'abc' | 'freeform' | 'hulu' | 'web-series' | 'sony' | 'whih' | 'other' | {}
+    TITLE: string
+    RELEASE_DATE: string
+    NOTES: string
 }
 
-export type MCUTimelineSheet = {
+export interface MCUTimelineSheet {
     records: Array<MCUTimelineSheetRecord>
 }
-

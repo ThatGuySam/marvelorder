@@ -2,24 +2,20 @@ import fs from 'fs-extra'
 import glob from 'fast-glob'
 import matter from 'gray-matter'
 
-
 import {
+    avengersBackdrop,
     storiesGlobPattern,
-    avengersBackdrop
-// @ts-ignore
+// @ts-expect-error
 } from '~/src/config.ts'
-// @ts-ignore
+
+// @ts-expect-error
 import { FilteredListings } from '~/src/helpers/listing-filters.ts'
 import {
-    getAllListings
-// @ts-ignore
-} from '~/src/helpers/node/listing-files.ts'
+    getAllListings,
+    // @ts-expect-error
 
-import {
-    getAllFilters
-// @ts-ignore
+    getAllFilters,
 } from '~/src/helpers/node/listing-files.ts'
-
 
 export async function getStoryFiles () {
     return await glob( storiesGlobPattern )
@@ -32,9 +28,8 @@ interface Filter {
     filter: Function
 }
 
-
 export function getSlugFromStoryPath ( storyPath: string ) {
-    return storyPath.split('/').pop().replace('.md', '')
+    return storyPath.split( '/' ).pop().replace( '.md', '' )
 }
 
 export function getMissingFilterStories ( storyFilesGlob: string[], inputFilters: Filter[] ) {
@@ -57,17 +52,17 @@ export function getMissingFilterStories ( storyFilesGlob: string[], inputFilters
 export async function makeFilterMarkdownContent ( filter: Filter ) {
     const { exportName, name, slug } = filter
 
-    const isName = name.includes('Has') ? name : `is ${ name }`
+    const isName = name.includes( 'Has' ) ? name : `is ${ name }`
 
     // Make the filtered list of listings
-    const filteredListings = new FilteredListings({
-        listings: (await getAllListings()),
+    const filteredListings = new FilteredListings( {
+        listings: ( await getAllListings() ),
         initialFilters: [
-            [ filter.filter, true ]
+            [ filter.filter, true ],
         ],
         useDefaultFilters: false,
-        listingsSort: 'default'
-    })
+        listingsSort: 'default',
+    } )
 
     const listings = filteredListings.list
 
@@ -78,10 +73,10 @@ export async function makeFilterMarkdownContent ( filter: Filter ) {
             title: `Every Marvel Film or Series that ${ isName }`,
             description: `The ${ listings.length } Marvel films or series that ${ isName }`,
             layout: '../../layouts/list-story.astro',
-            coverAriaLabel: listings[0].title,
+            coverAriaLabel: listings[ 0 ].title,
             // coverVideoUrl: https://vumbnail.com/G3-UkHQLTtw.mp4
-            coverPosterUrl: listings[0].backdrop() ? listings[0].backdrop() : avengersBackdrop,
-        }
+            coverPosterUrl: listings[ 0 ].backdrop() ? listings[ 0 ].backdrop() : avengersBackdrop,
+        },
     }
 }
 
@@ -109,4 +104,3 @@ export async function ensureFiltersHaveStories () {
         await fs.writeFile( markdownFilePath, markdownContent )
     }
 }
-

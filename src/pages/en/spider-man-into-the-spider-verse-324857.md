@@ -38,5 +38,4 @@ backdrop_path: /x2IqsMlpbOhS8zIUJfyl1yO4gHF.jpg
         "list-8204859"
     ]
 }
-
 ```

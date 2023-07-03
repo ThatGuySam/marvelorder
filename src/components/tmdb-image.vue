@@ -3,16 +3,15 @@
         v-once
         :data-src="smallestImage"
         :data-srcset="srcSet"
-        :sizes="`(max-width: ${ maxWidth }px) 100vw, ${ maxWidth }px`"
+        :sizes="`(max-width: ${maxWidth}px) 100vw, ${maxWidth}px`"
         class="lazyload"
         :alt="alt"
-    />
+    >
 </template>
 
 <script>
-
 import {
-    makeTmdbImageUrl
+    makeTmdbImageUrl,
 } from '~/src/helpers/listing'
 
 import 'lazysizes/plugins/attrchange/ls.attrchange'
@@ -25,21 +24,20 @@ function makeSizedImageUrl ( imageUrl, size ) {
     return `${ sizeUrl.pathname }${ sizeUrl.search }`
 }
 
-
 export default {
     props: {
         src: {
             type: String,
-            required: true
+            required: true,
         },
         alt: {
             type: String,
-            required: true
+            required: true,
         },
         sizes: {
             type: Array,
-            default: [ 75, 100, 275, 550, 850, 1440 ]
-        }
+            default: [ 75, 100, 275, 550, 850, 1440 ],
+        },
     },
     computed: {
         maxWidth () {
@@ -48,19 +46,18 @@ export default {
         imageUrl () {
             return makeTmdbImageUrl( this.src )
         },
-		srcSet () {
-			const srcSet = []
+        srcSet () {
+            const srcSet = []
 
             for ( const size of this.sizes ) {
-
                 srcSet.push( `${ makeSizedImageUrl( this.imageUrl, size ) } ${ size }w` )
             }
 
             return srcSet.join( ', ' )
-		},
+        },
         smallestImage () {
             return makeSizedImageUrl( this.imageUrl, this.sizes[ 0 ] )
         },
-    }
+    },
 }
 </script>

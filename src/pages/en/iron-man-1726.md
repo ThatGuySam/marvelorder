@@ -38,5 +38,4 @@ release_date: '2008-05-02'
         "company-420"
     ]
 }
-
 ```

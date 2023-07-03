@@ -34,5 +34,4 @@ logo_on_black: /.netlify/functions/tmdb-image/5cAuJOfd5tuuFBz2yQmBCtVBaj0.webp
         "company-7505"
     ]
 }
-
 ```

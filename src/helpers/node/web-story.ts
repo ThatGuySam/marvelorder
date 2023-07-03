@@ -1,18 +1,17 @@
-import {
+import type {
     WebStoryPage,
-// @ts-ignore
+// @ts-expect-error
 } from '~/src/helpers/types.ts'
 
+import type { MarvelMoviesFandomTimelineEntry } from '~/src/helpers/node/movies-fandom-timeline.ts'
 import {
-    MarvelMoviesFandomTimelineEntry,
-    breakEntryTextIntoSentences
-// @ts-ignore
+    breakEntryTextIntoSentences,
+// @ts-expect-error
 } from '~/src/helpers/node/movies-fandom-timeline.ts'
 
-
 // https://stackoverflow.com/a/55435856/1397641
-function* chunk ( arr:Array<any>, n:number, characterLimit:number = Infinity ) {
-    for (let i = 0; i < arr.length;) {
+function* chunk ( arr: Array<any>, n: number, characterLimit = Number.POSITIVE_INFINITY ) {
+    for ( let i = 0; i < arr.length; ) {
         // If the the next chunk is too long
         // then let it be by itself
         if ( arr[ i ].length > characterLimit ) {
@@ -21,7 +20,7 @@ function* chunk ( arr:Array<any>, n:number, characterLimit:number = Infinity ) {
             continue
         }
 
-        yield arr.slice(i, i + n)
+        yield arr.slice( i, i + n )
         i += n
     }
 }
@@ -38,7 +37,6 @@ function buildWebStoryPagesFromTimelineEntry ( timelineEntry: MarvelMoviesFandom
     // console.log( 'textContentSegments', textContentSegments )
 
     for ( const group of sentencesChunks ) {
-
         const page: WebStoryPage = {
             id: `page-${ timelineEntry.hash }`,
             backgroundSrc: '',
@@ -48,7 +46,7 @@ function buildWebStoryPagesFromTimelineEntry ( timelineEntry: MarvelMoviesFandom
                 {
                     props: {
                         template: 'vertical',
-                        className: 'page-layer-1 content-end gap-6'
+                        className: 'page-layer-1 content-end gap-6',
                     },
                     elements: [
                         // Logo
@@ -73,11 +71,11 @@ function buildWebStoryPagesFromTimelineEntry ( timelineEntry: MarvelMoviesFandom
                                 props: {
                                     className: [
                                         'text-content text-lg w-64 bg-black/25 backdrop-blur-xl backdrop-saturate-200 inline whitespace-pre-line p-4',
-                                        index % 2 === 0 ? '' : 'ml-auto'
-                                    ].join(' ')
-                                }
+                                        index % 2 === 0 ? '' : 'ml-auto',
+                                    ].join( ' ' ),
+                                },
                             }
-                        }),
+                        } ),
 
                         // Source link
                         {
@@ -85,12 +83,12 @@ function buildWebStoryPagesFromTimelineEntry ( timelineEntry: MarvelMoviesFandom
                             tagName: 'a',
                             props: {
                                 href: timelineEntry.sourceUrl,
-                                className: 'source-link opacity-50 underline text-xs'
-                            }
-                        }
-                    ]// End Elements
-                }
-            ]// End Layers
+                                className: 'source-link opacity-50 underline text-xs',
+                            },
+                        },
+                    ], // End Elements
+                },
+            ], // End Layers
 
         }// End Page
 
@@ -100,8 +98,7 @@ function buildWebStoryPagesFromTimelineEntry ( timelineEntry: MarvelMoviesFandom
     return pagesFromEntry
 }
 
-
-export function buildWebStoryFromTimelineEntries ( timelineEntries:Array<MarvelMoviesFandomTimelineEntry> ) {
+export function buildWebStoryFromTimelineEntries ( timelineEntries: Array<MarvelMoviesFandomTimelineEntry> ) {
     const pages = []
 
     for ( const entry of timelineEntries ) {
@@ -110,9 +107,8 @@ export function buildWebStoryFromTimelineEntries ( timelineEntries:Array<MarvelM
     }
 
     return {
-        pages
+        pages,
     }
 }
-
 
 // export function buildWebStoryFromListings

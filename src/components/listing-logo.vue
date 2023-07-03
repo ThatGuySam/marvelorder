@@ -1,10 +1,10 @@
 <template>
-    <img 
+    <img
         :data-src="srcImage"
         :data-srcset="srcSet"
         class="lazyload"
         :alt="alt"
-    />
+    >
 </template>
 
 <script>
@@ -22,20 +22,20 @@ export default {
     props: {
         src: {
             type: [ String, Object ],
-            required: true
+            required: true,
         },
         alt: {
             type: String,
-            required: true
-        }, 
+            required: true,
+        },
         baseSize: {
             type: Number,
-            default: 275
+            default: 275,
         },
         sizes: {
             type: Array,
-            default: [ 1, 1.5, 2, 4, 5, 8 ]
-        }
+            default: [ 1, 1.5, 2, 4, 5, 8 ],
+        },
     },
     computed: {
         maxWidth () {
@@ -48,20 +48,20 @@ export default {
 
             return this.src
         },
-		srcSet () {
-			const srcSet = []
+        srcSet () {
+            const srcSet = []
 
             for ( const size of this.sizes ) {
                 const pixelWidth = Math.round( this.baseSize * size )
-                
+
                 srcSet.push( `${ makeSizedImageUrl( this.logoUrl, pixelWidth ) } ${ size }x` )
             }
 
             return srcSet.join( ', ' )
-		},
-        srcImage () {
-            return makeSizedImageUrl( this.logoUrl, this.sizes[ 1 ] ) 
         },
-    }
+        srcImage () {
+            return makeSizedImageUrl( this.logoUrl, this.sizes[ 1 ] )
+        },
+    },
 }
 </script>

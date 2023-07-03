@@ -39,5 +39,4 @@ logo_on_black: >-
         "company-7505"
     ]
 }
-
 ```

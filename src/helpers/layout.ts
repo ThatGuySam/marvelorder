@@ -1,4 +1,4 @@
-export function getLayoutModes ( itemIndex : number ) {
+export function getLayoutModes ( itemIndex: number ) {
     // Get the layout mode
     const modeNumber = itemIndex % 4
 
@@ -16,8 +16,8 @@ export function getLayoutModes ( itemIndex : number ) {
         0: 'start',
     }
 
-    return { 
-        outer: outerModes[modeNumber], 
-        inner: innerModes[modeNumber]
+    return {
+        outer: outerModes[ modeNumber ],
+        inner: innerModes[ modeNumber ],
     }
 }

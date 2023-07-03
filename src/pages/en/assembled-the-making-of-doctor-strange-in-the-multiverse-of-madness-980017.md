@@ -28,5 +28,4 @@ layout: ../../layouts/MainLayout.astro
         "company-420"
     ]
 }
-
 ```

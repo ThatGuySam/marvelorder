@@ -1,229 +1,211 @@
 <template>
+    <div class="listing-row-container relative fill-height w-screen">
+        <div
+            ref="row"
+            class="listing-row flex overflow-x-auto whitespace-no-wrap px-32"
+            style="scroll-snap-type: x mandatory;"
+        >
+            <div class="start-cap w-full flex-shrink-0 max-w-xs snap-start" />
 
-	<div class="listing-row-container relative fill-height w-screen">
+            <template
+                v-for="(listing, index) in sortedListings"
+                :key="index"
+            >
+                <ListingColumn
+                    :ref="listing.elementId"
+                    :listing="listing"
+                    :index="index"
+                    :visibility-class="visibilityClass(listing)"
+                    :class="[
+                        isFocusedListing(listing) ? 'listing-card-initial' : '',
+                    ]"
 
-		<div 
-			ref="row"
-			class="listing-row flex overflow-x-auto whitespace-no-wrap px-32" 
-			style="scroll-snap-type: x mandatory;"
-		>
+                    :expanded="expandedListingId === listing.elementId"
+                    @expand="expandedListingId = listing.elementId"
+                    @contract="expandedListingId = null"
+                />
+            </template>
 
-			<div class="start-cap w-full flex-shrink-0 max-w-xs snap-start" />
+            <div class="end-cap w-full flex-shrink-0 max-w-xs snap-end" />
+        </div>
 
-			<template
-				v-for="( listing, index ) in sortedListings"
-				:key="index"
-			>
-				<ListingColumn 
-					:ref="listing.elementId"
-					:listing="listing"
-					:index="index"
-					:visibility-class="visibilityClass( listing )"
-					:class="[
-						isFocusedListing( listing ) ? 'listing-card-initial' : '',
-					]"
+        <CircleButton
+            class="absolute left-12 transform -translate-y-1/2 -translate-x-1/2"
+            style="top:50%;"
+            aria-label="Scroll to previous listings"
 
-					:expanded="expandedListingId === listing.elementId"
-					@expand="expandedListingId = listing.elementId"
-					@contract="expandedListingId = null"
-				/>
-			</template>
+            @click="scroll(-0.8)"
+        >
+            <svg viewBox="0 0 20 20" fill="currentColor" class="h-5 w-5 text-gray-400" style="transform: scaleX(-1);">
+                <path
+                    fill-rule="evenodd"
+                    d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z"
+                    clip-rule="evenodd"
+                />
+            </svg>
+        </CircleButton>
+        <CircleButton
+            class="absolute right-12 transform -translate-y-1/2 translate-x-1/2"
+            style="top:50%;"
+            aria-label="Scroll to next listings"
 
-			<div class="end-cap w-full flex-shrink-0 max-w-xs snap-end" />
-
-		</div>
-
-		<CircleButton 
-			:class="[
-				'absolute left-12 transform -translate-y-1/2 -translate-x-1/2'
-			]" 
-			style="top:50%;" 
-			aria-label="Scroll to previous listings"
-
-			@click="scroll( -0.8 )"
-		>
-			<svg viewBox="0 0 20 20" fill="currentColor" class="h-5 w-5 text-gray-400" style="transform: scaleX(-1);">
-				<path 
-					fill-rule="evenodd" 
-					d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" 
-					clip-rule="evenodd"
-				></path>
-			</svg>
-		</CircleButton>
-		<CircleButton 
-			:class="[
-				'absolute right-12 transform -translate-y-1/2 translate-x-1/2', 
-			]" 
-			style="top:50%;" 
-			aria-label="Scroll to next listings"
-
-			@click="scroll( 0.8 )"
-		>
-			<svg viewBox="0 0 20 20" fill="currentColor" class="h-5 w-5 text-gray-400">
-				<path 
-					fill-rule="evenodd" 
-					d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" 
-					clip-rule="evenodd"
-				></path>
-			</svg>
-		</CircleButton>
-
-	</div>
-
+            @click="scroll(0.8)"
+        >
+            <svg viewBox="0 0 20 20" fill="currentColor" class="h-5 w-5 text-gray-400">
+                <path
+                    fill-rule="evenodd"
+                    d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z"
+                    clip-rule="evenodd"
+                />
+            </svg>
+        </CircleButton>
+    </div>
 </template>
 
 <script>
-
 import scrollIntoView from 'scroll-into-view-if-needed'
-
-import { 
-	FilteredListings, 
-	isUpcoming, 
-	hasLogo
-} from '~/src/helpers/listing-filters.ts'
-import { 
-	noSort
-} from '~/src/helpers/sort.ts'
 
 import ListingColumn from './listing-column.vue'
 import CircleButton from './circle-button.vue'
-
-
+import {
+    FilteredListings,
+    hasLogo,
+    isUpcoming,
+} from '~/src/helpers/listing-filters.ts'
 
 export default {
-	components: {
-		ListingColumn,
-		CircleButton
-	},
+    components: {
+        ListingColumn,
+        CircleButton,
+    },
     props: {
         listings: {
             type: Array,
-            required: true
+            required: true,
         },
-		initialSort: {
-			type: String,
-			default: 'default'
-		}
+        initialSort: {
+            type: String,
+            default: 'default',
+        },
     },
-	data: function () {
+    data () {
         return {
             activeListingFilters: [],
-			showAllListings: false,
-			expandedListingId: null,
+            showAllListings: false,
+            expandedListingId: null,
         }
     },
-	computed: {
-		filteredListings () {
-			// console.log( 'this.initialSort', this.initialSort )
-			return new FilteredListings({ 
-				listings: this.listings,  
-				initialFilters: this.activeListingFilters,
-				listingsSort: this.initialSort,
-			})
-		},
-		sortedListings () {
-			// Sort listings by date
-			return this.filteredListings.list
-		}, 
-		upcomingListings () {
-			return this.filteredListings.withFilters( [
-				[ isUpcoming, true ]
-			] )
-		},
-		nextUpcomingListing () {
-			return this.upcomingListings[0]
-		},
-		lastListing () {
-			return this.sortedListings[ this.sortedListings.length - 1 ]
-		},
-		focusedListing () {
-			if ( !this.nextUpcomingListing ) {
-				return this.lastListing
-			}
+    computed: {
+        filteredListings () {
+            // console.log( 'this.initialSort', this.initialSort )
+            return new FilteredListings( {
+                listings: this.listings,
+                initialFilters: this.activeListingFilters,
+                listingsSort: this.initialSort,
+            } )
+        },
+        sortedListings () {
+            // Sort listings by date
+            return this.filteredListings.list
+        },
+        upcomingListings () {
+            return this.filteredListings.withFilters( [
+                [ isUpcoming, true ],
+            ] )
+        },
+        nextUpcomingListing () {
+            return this.upcomingListings[ 0 ]
+        },
+        lastListing () {
+            return this.sortedListings[ this.sortedListings.length - 1 ]
+        },
+        focusedListing () {
+            if ( !this.nextUpcomingListing ) {
+                return this.lastListing
+            }
 
-			return this.nextUpcomingListing
-		}
-	}, 
-	methods: {
-		async scrollToUpcomingListing () {
-			// console.log('nextUpcomingListing', this.nextUpcomingListing)
+            return this.nextUpcomingListing
+        },
+    },
+    mounted () {
+        // Reveal all listings after a delay
+        setTimeout( () => {
+            this.showAllListings = true
+        }, 1000 )
 
-			const { elementId } = this.focusedListing
-			const [ elementRef ] = this.$refs[ elementId ]
-			const elementNode = elementRef.$el
+        this.scrollToUpcomingListing()
 
-			// Instant scroll to element before 
-			// so we can setup a small scroll animation
-			// this.$refs.row.scrollLeft = elementNode.previousElementSibling.offsetLeft - window.innerWidth + 275
+        // Count listings with logos
+        const hasLogoListings = this.sortedListings.filter( hasLogo )
+        const noLogoListings = this.sortedListings.filter( listing => !hasLogo( listing ) )
 
-			// Animate scroll to element before
-			//  so that our whole column is visible
-			await scrollIntoView( elementNode.previousElementSibling.previousElementSibling , {
-				scrollMode: 'always',
-				behavior: 'smooth', 
-				block: 'start',
-				inline: 'start',
-				duration: 1500
-			})
-		},
+        console.log( `Listings with Logos: ${ hasLogoListings.length } / ${ this.sortedListings.length }` )
 
-		isFocusedListing ( listing ) {
-			return listing.elementId === this.focusedListing.elementId
-		},
+        console.log( 'Listings without Logos:' )
+        for ( const listing of noLogoListings ) {
+            console.log( `${ listing.title } (${ listing.id })` )
+        }
 
-		visibilityClass ( listing ) {
-			// const { elementId } = listing
-			// const [ elementRef ] = this.$refs[ elementId ]
-			// const elementNode = elementRef.$el
+        // const marvelKnights = new FilteredListings({
+        // 	listings: this.listings,
+        // 	initialFilters: new Map([
+        // 		[ isMarvelKnightsAnimated, true ]
+        // 	 ]),
+        // })
 
-			// Show our upcoming listing first
-			if ( listing.elementId === this.focusedListing.elementId ) {
-				return ''
-			}
+        // console.log('marvelKnights', marvelKnights.list)
+    },
+    methods: {
+        async scrollToUpcomingListing () {
+            // console.log('nextUpcomingListing', this.nextUpcomingListing)
 
-			return this.showAllListings ? '' : 'opacity-0'
-		},
-		
-		// Scrolls by window width time ratio
-		scroll ( ratio ) {
-			const windowWidth = window.innerWidth
-			const scrollDistance = windowWidth * ratio
+            const { elementId } = this.focusedListing
+            const [ elementRef ] = this.$refs[ elementId ]
+            const elementNode = elementRef.$el
 
-			this.$refs.row.scrollBy({ 
-				// top: 100, // negative value acceptable
-				left: scrollDistance, 
-				behavior: 'smooth' 
-			})
-		}
-	}, 
-	mounted () {
-		// Reveal all listings after a delay
-		setTimeout( () => {
-			this.showAllListings = true
-		}, 1000 )
-		
-		this.scrollToUpcomingListing()
+            // Instant scroll to element before
+            // so we can setup a small scroll animation
+            // this.$refs.row.scrollLeft = elementNode.previousElementSibling.offsetLeft - window.innerWidth + 275
 
-		// Count listings with logos
-		const hasLogoListings = this.sortedListings.filter( hasLogo )
-		const noLogoListings = this.sortedListings.filter( listing => !hasLogo( listing ) )
+            // Animate scroll to element before
+            //  so that our whole column is visible
+            await scrollIntoView( elementNode.previousElementSibling.previousElementSibling, {
+                scrollMode: 'always',
+                behavior: 'smooth',
+                block: 'start',
+                inline: 'start',
+                duration: 1500,
+            } )
+        },
 
-		console.log( `Listings with Logos: ${ hasLogoListings.length } / ${ this.sortedListings.length }` )
+        isFocusedListing ( listing ) {
+            return listing.elementId === this.focusedListing.elementId
+        },
 
+        visibilityClass ( listing ) {
+            // const { elementId } = listing
+            // const [ elementRef ] = this.$refs[ elementId ]
+            // const elementNode = elementRef.$el
 
-		console.log( 'Listings without Logos:' )
-		for ( const listing of noLogoListings ) {
-			console.log( `${ listing.title } (${ listing.id })` )
-		}
+            // Show our upcoming listing first
+            if ( listing.elementId === this.focusedListing.elementId ) {
+                return ''
+            }
 
-		// const marvelKnights = new FilteredListings({ 
-		// 	listings: this.listings,  
-		// 	initialFilters: new Map([ 
-		// 		[ isMarvelKnightsAnimated, true ]
-		// 	 ]),
-		// })
+            return this.showAllListings ? '' : 'opacity-0'
+        },
 
-		// console.log('marvelKnights', marvelKnights.list)
-	}
+        // Scrolls by window width time ratio
+        scroll ( ratio ) {
+            const windowWidth = window.innerWidth
+            const scrollDistance = windowWidth * ratio
+
+            this.$refs.row.scrollBy( {
+                // top: 100, // negative value acceptable
+                left: scrollDistance,
+                behavior: 'smooth',
+            } )
+        },
+    },
 }
 </script>

@@ -40,5 +40,4 @@ watchLinks:
     ],
     "media_type": "movie"
 }
-
 ```

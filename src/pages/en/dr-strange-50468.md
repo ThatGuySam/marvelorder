@@ -39,5 +39,4 @@ poster_path: /5B4z5Ch5Dek8hQJ7UlIVZgWLntV.jpg
         "list-8204862"
     ]
 }
-
 ```

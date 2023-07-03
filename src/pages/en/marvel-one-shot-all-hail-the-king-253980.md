@@ -36,5 +36,4 @@ watchLinks:
         "company-420"
     ]
 }
-
 ```
