@@ -62,7 +62,10 @@ export function makeNewListingContents ( options:ListingContentsOptions ) {
 }
 
 export function getPartsFromMarkdown ( markdown: string ) {
-    const [ existingContent, tmdbContent ] = markdown.split( tmdbHeading )
+    const [ 
+        existingContent, 
+        tmdbContent = ''
+    ] = markdown.split( tmdbHeading )
 
     return {
         existingContent, 
