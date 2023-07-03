@@ -10,7 +10,7 @@ import {
 // @ts-ignore
 } from './listing.ts'
 
-export const tmdbHeading = `## TMDB Data`
+export const tmdbHeading = `## TMDB Data` as const
 
 export function makeTMDbMarkdownSection ( listing:Listing ) {
     const detailsJSON = JSON.stringify( listing, null, 4 )
