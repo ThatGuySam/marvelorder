@@ -65,7 +65,7 @@ export function getYearAndMonth ( date: string ) {
 
     const dateTime = DateTime.fromISO( date )
     const year = dateTime.year
-    const month = dateTime.month
+    // const month = dateTime.month
 
     return `${ year }`// -${ month }`
 }

@@ -48,24 +48,6 @@ export async function saveMoviesFandomTimeline () {
     await fs.writeFile( moviesFandomTimelinePath, JSON.stringify( timeline.entries, null, 2 ) )
 }
 
-// Fetch build out Timeline structure
-export async function fetchTimeline () {
-    const timeline = new MarvelMoviesFandomTimeline()
-
-    // Setup
-    await timeline.setup()
-
-    return timeline
-}
-
-export function getTimelineFromEntries ( entries ) {
-    const timeline = new MarvelMoviesFandomTimeline( {
-        entries,
-    } )
-
-    return timeline
-}
-
 export async function getTimelineFromJson () {
     const entries = await getEntriesFromJson()
 
@@ -367,7 +349,7 @@ class MarvelMoviesFandomTimeline {
                 continue
             }
 
-            const rawHtml = listItem.innerHTML
+            // const rawHtml = listItem.innerHTML
             const textContent = ( () => {
                 if ( !listItem.textContent.includes( '(' ) ) {
                     return listItem.textContent
@@ -419,7 +401,7 @@ class MarvelMoviesFandomTimeline {
 
             // Get specific heading text
             // so that we avoid capturing [] after the heading
-            const timelineHeading = cleanBrackets( element.textContent )
+            const timelineHeading = cleanBrackets( textContent )
 
             this.runningTimeline = timelineHeading
 
@@ -439,12 +421,12 @@ class MarvelMoviesFandomTimeline {
             // Reset the time parts
             this.resetTimeParts()
 
-            this.runningTimeParts.primary = cleanBrackets( element.textContent )
+            this.runningTimeParts.primary = cleanBrackets( textContent )
         }
 
         // For h4s add to the time description
         if ( tagName === 'h4' ) {
-            this.runningTimeParts.secondary = cleanBrackets( element.textContent )
+            this.runningTimeParts.secondary = cleanBrackets( textContent )
         }
 
         if ( tagName === 'ul' ) {
@@ -683,4 +665,22 @@ class MarvelMoviesFandomTimeline {
 
         return Array.from( matchingEntries.values() )
     }
+}
+
+// Fetch build out Timeline structure
+export async function fetchTimeline () {
+    const timeline = new MarvelMoviesFandomTimeline()
+
+    // Setup
+    await timeline.setup()
+
+    return timeline
+}
+
+export function getTimelineFromEntries ( entries ) {
+    const timeline = new MarvelMoviesFandomTimeline( {
+        entries,
+    } )
+
+    return timeline
 }

@@ -112,7 +112,9 @@ export function matchListingToInUniverse ( listing, inUniverseEntry ) {
     // console.log( 'inUniverseEntry.releases[0].releaseDate', inUniverseEntry.releases[0].releaseDate )
     const dateMatches = getYearAndMonth( inUniverseEntry.releases[ 0 ].releaseDate ) === getYearAndMonth( listing.dateString )
 
-    if ( !dateMatches ) { return false }
+    if ( !dateMatches ) {
+        return false
+    }
 
     const cleanInUniverseTitle = inUniverseEntry.title
         // Replace Trademark Symbols

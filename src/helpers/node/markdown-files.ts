@@ -9,10 +9,8 @@ import {
 
 import { FilteredListings } from '~/src/helpers/listing-filters.ts'
 import {
-    getAllListings,
-    // @ts-expect-error
-
     getAllFilters,
+    getAllListings,
 } from '~/src/helpers/node/listing-files.ts'
 
 export async function getStoryFiles () {
@@ -48,7 +46,7 @@ export function getMissingFilterStories ( storyFilesGlob: string[], inputFilters
 }
 
 export async function makeFilterMarkdownContent ( filter: Filter ) {
-    const { exportName, name, slug } = filter
+    const { name } = filter
 
     const isName = name.includes( 'Has' ) ? name : `is ${ name }`
 

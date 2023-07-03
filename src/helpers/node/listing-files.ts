@@ -229,7 +229,7 @@ export async function writeMarkdownFileNode ( { path, markdownBody, pageMeta } )
     // Ensure markdown body end with newline
     markdownBody = markdownBody.endsWith( '\n' ) ? markdownBody : `${ markdownBody }\n`
 
-    console.log( 'path', path )
+    // console.log( 'path', path )
     // console.log('markdownBody', markdownBody)
     // console.log('pageMeta', pageMeta)
 
@@ -291,7 +291,9 @@ function findFilterFromSlug ( fromSlug = '' ) {
 }
 
 export async function getListingsFromSlug ( slug = '' ) {
-    if ( !slug ) { throw new Error( 'slug must be a string' ) }
+    if ( !slug ) {
+        throw new Error( 'slug must be a string' )
+    }
 
     const filter = findFilterFromSlug( slug )
 

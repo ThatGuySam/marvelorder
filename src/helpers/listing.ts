@@ -97,7 +97,9 @@ export const listingMergeConfig = {
 }
 
 export function makeTmdbImageUrl ( tmdbImagePath = '', params = {} ) {
-    if ( !tmdbImagePath ) { throw new Error( 'tmdbImagePath must be a string' ) }
+    if ( !tmdbImagePath ) {
+        throw new Error( 'tmdbImagePath must be a string' )
+    }
 
     const id = tmdbImagePath
         ?.split( '/' )

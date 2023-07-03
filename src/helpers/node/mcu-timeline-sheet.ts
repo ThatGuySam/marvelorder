@@ -40,7 +40,9 @@ export function matchListingToOrdered ( listing, orderedEntry ) {
     // console.log( 'orderedEntry.premiereDate', orderedEntry.premiereDate )
     const dateMatches = getYearAndMonth( orderedEntry.premiereDate ) === getYearAndMonth( listing.dateString )
 
-    if ( !dateMatches ) { return false }
+    if ( !dateMatches ) {
+        return false
+    }
 
     const listingSlug = makeSlug( listing.title )
     const orderedSlug = makeSlug( orderedEntry.title )
@@ -56,7 +58,6 @@ export function organizeOrderData ( rawOrderData: MCUTimelineSheetRecord[] ) {
 
     for ( const [ mcuTimelineOrder, entry ] of rawOrderData.entries() ) {
         const {
-            TYPE,
             TITLE,
             RELEASE_DATE,
             // NOTES

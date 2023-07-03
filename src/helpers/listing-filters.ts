@@ -77,13 +77,17 @@ export function hasAnyGenres ( listing ) {
 }
 
 export function isMarvelKnights ( listing ) {
-    if ( !hasAnyTags( listing ) ) { return false }
+    if ( !hasAnyTags( listing ) ) {
+        return false
+    }
 
     return listing.tags.includes( 'company-11106' )
 }
 
 export function isMarvelStudios ( listing ) {
-    if ( !hasAnyTags( listing ) ) { return false }
+    if ( !hasAnyTags( listing ) ) {
+        return false
+    }
 
     return listing.tags.includes( 'company-420' )
 }
@@ -92,9 +96,13 @@ const theFuture = new Date( 999999999999999 )
 const oneDay = 24 * 60 * 60 * 1000
 
 export function isMCU ( listing ) {
-    if ( !hasAnyTags( listing ) ) { return false }
+    if ( !hasAnyTags( listing ) ) {
+        return false
+    }
 
-    if ( !isMarvelStudios( listing ) ) { return false }
+    if ( !isMarvelStudios( listing ) ) {
+        return false
+    }
 
     const listingDate = listing.date?.valueOf() || theFuture
 
@@ -107,7 +115,9 @@ export function isMCU ( listing ) {
 
     // If it's before April 2008(Iron Man)
     // then it's not MCU
-    if ( !isAfterIronMan ) { return false }
+    if ( !isAfterIronMan ) {
+        return false
+    }
 
     // August 11, 2021 - According to TMDb
     const whatIfRelease = new Date( 2021, 7, 1 )
@@ -140,7 +150,9 @@ export function isPhaseZero ( listing ) {
 export function isPhaseOne ( listing ) {
     // If it's not MCU
     // then it's not Phase One
-    if ( !isMCU( listing ) ) { return false }
+    if ( !isMCU( listing ) ) {
+        return false
+    }
 
     return betweenDates( {
         listing,
@@ -159,7 +171,9 @@ export function isPhaseOne ( listing ) {
 export function isPhaseTwo ( listing ) {
     // If it's not MCU
     // then it's not in a Phase
-    if ( !isMCU( listing ) ) { return false }
+    if ( !isMCU( listing ) ) {
+        return false
+    }
 
     return betweenDates( {
         listing,
@@ -179,7 +193,9 @@ export function isPhaseTwo ( listing ) {
 export function isPhaseThree ( listing ) {
     // If it's not MCU
     // then it's not in a Phase
-    if ( !isMCU( listing ) ) { return false }
+    if ( !isMCU( listing ) ) {
+        return false
+    }
 
     return betweenDates( {
         listing,
@@ -200,7 +216,9 @@ export function isPhaseThree ( listing ) {
 export function isInfinitySaga ( listing ) {
     // If it's not MCU
     // then it's not in a Phase
-    if ( !isMCU( listing ) ) { return false }
+    if ( !isMCU( listing ) ) {
+        return false
+    }
 
     const phases = [
         isPhaseOne,
@@ -209,7 +227,9 @@ export function isInfinitySaga ( listing ) {
     ]
 
     for ( const isInPhase of phases ) {
-        if ( isInPhase( listing ) ) { return true }
+        if ( isInPhase( listing ) ) {
+            return true
+        }
     }
 
     return false
@@ -219,7 +239,9 @@ export function isInfinitySaga ( listing ) {
 export function isPhaseFour ( listing ) {
     // If it's not MCU
     // then it's not in a Phase
-    if ( !isMCU( listing ) ) { return false }
+    if ( !isMCU( listing ) ) {
+        return false
+    }
 
     return betweenDates( {
         listing,
@@ -238,7 +260,9 @@ export function isPhaseFour ( listing ) {
 export function isPhaseFive ( listing ) {
     // If it's not MCU
     // then it's not in a Phase
-    if ( !isMCU( listing ) ) { return false }
+    if ( !isMCU( listing ) ) {
+        return false
+    }
 
     return betweenDates( {
         listing,
@@ -257,7 +281,9 @@ export function isPhaseFive ( listing ) {
 export function isPhaseSix ( listing ) {
     // If it's not MCU
     // then it's not in a Phase
-    if ( !isMCU( listing ) ) { return false }
+    if ( !isMCU( listing ) ) {
+        return false
+    }
 
     return betweenDates( {
         listing,
@@ -276,7 +302,9 @@ export function isPhaseSix ( listing ) {
 export function isMultiverseSaga ( listing ) {
     // If it's not MCU
     // then it's not in a Phase
-    if ( !isMCU( listing ) ) { return false }
+    if ( !isMCU( listing ) ) {
+        return false
+    }
 
     const phases = [
         isPhaseFour,
@@ -285,14 +313,18 @@ export function isMultiverseSaga ( listing ) {
     ]
 
     for ( const isInPhase of phases ) {
-        if ( isInPhase( listing ) ) { return true }
+        if ( isInPhase( listing ) ) {
+            return true
+        }
     }
 
     return false
 }
 
 export function isAnimatedGenre ( listing ) {
-    if ( !hasAnyGenres( listing ) ) { return false }
+    if ( !hasAnyGenres( listing ) ) {
+        return false
+    }
 
     return listing.genre_ids.includes( 16 )
 }
@@ -304,7 +336,9 @@ export function isMarvelKnightsAnimated ( listing ) {
 export function isGrootEpisode ( listing ) {
     const iAmGrootReleaseDates = [ '2022-08-10', '2022-07-18' ]
 
-    if ( !listing.release_date || !iAmGrootReleaseDates.includes( listing.release_date ) ) { return false }
+    if ( !listing.release_date || !iAmGrootReleaseDates.includes( listing.release_date ) ) {
+        return false
+    }
 
     // If it's title is not "I Am Groot"
     // then it's not the Groot episode
@@ -312,7 +346,9 @@ export function isGrootEpisode ( listing ) {
 }
 
 export function hasLogo ( listing ) {
-    if ( typeof listing?.logo_on_black !== 'string' ) { return false }
+    if ( typeof listing?.logo_on_black !== 'string' ) {
+        return false
+    }
 
     return listing.logo_on_black.length > 0
 }
@@ -347,11 +383,15 @@ const wongIds = new Set( [
 
 export function isWongCinematicUniverse ( listing ) {
     // Check Wong IDs
-    if ( wongIds.has( listing.id ) ) { return true }
+    if ( wongIds.has( listing.id ) ) {
+        return true
+    }
 
     // Description contains the word "Wong"
     // Match whole words only
-    if ( listing.overview?.toLowerCase()?.match( /\bwong\b/ ) ) { return true }
+    if ( listing.overview?.toLowerCase()?.match( /\bwong\b/ ) ) {
+        return true
+    }
 
     return false
 }
@@ -403,15 +443,21 @@ function betweenDates ( {
     start,
     end,
 } ) {
-    if ( !listing?.date?.valueOf() ) { return false }
+    if ( !listing?.date?.valueOf() ) {
+        return false
+    }
 
     const listingDate = listing.date?.valueOf()
 
     const isBefore = listingDate < ( Number( start ) - threshold )
-    if ( isBefore ) { return false }
+    if ( isBefore ) {
+        return false
+    }
 
     const isAfter = ( Number( end ) + threshold ) < listingDate
-    if ( isAfter ) { return false }
+    if ( isAfter ) {
+        return false
+    }
 
     return true
 }
@@ -468,10 +514,14 @@ export class FilteredListings {
         useDefaultFilters = true as boolean,
     } = {} ) {
         // Throw for empty sort
-        if ( listingsSort.length === 0 ) { throw new Error( 'Must specify a sort' ) }
+        if ( listingsSort.length === 0 ) {
+            throw new Error( 'Must specify a sort' )
+        }
 
         // Throw for invalid listings
-        if ( !Array.isArray( listings ) ) { throw new TypeError( 'Listings must be an array' ) }
+        if ( !Array.isArray( listings ) ) {
+            throw new TypeError( 'Listings must be an array' )
+        }
 
         this.listingsSort = getSortByName( listingsSort )
 
