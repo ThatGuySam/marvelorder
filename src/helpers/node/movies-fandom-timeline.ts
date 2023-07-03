@@ -14,7 +14,6 @@ import winkEngModel from 'wink-eng-lite-model'
 
 import type {
     Listing,
-// @ts-expect-error
 } from '~/src/helpers/types.ts'
 
 import {
@@ -22,10 +21,8 @@ import {
     cleanListingTitle,
     getListingsByTitleLength,
     matchListingTitle,
-// @ts-expect-error
 } from '~/src/helpers/node/listing-files.ts'
 
-// @ts-expect-error
 import { storePath } from '~/src/config.ts'
 
 // Instantiate winkNLP.

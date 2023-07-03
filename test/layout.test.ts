@@ -1,6 +1,5 @@
 import { expect, test } from 'vitest'
 
-// @ts-expect-error
 import { getLayoutModes } from '../src/helpers/layout.ts'
 
 test( 'Layout mode follow correct order', () => {

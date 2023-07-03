@@ -5,10 +5,8 @@ import matter from 'gray-matter'
 import {
     avengersBackdrop,
     storiesGlobPattern,
-// @ts-expect-error
 } from '~/src/config.ts'
 
-// @ts-expect-error
 import { FilteredListings } from '~/src/helpers/listing-filters.ts'
 import {
     getAllListings,

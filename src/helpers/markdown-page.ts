@@ -1,13 +1,10 @@
 import {
     markdownStorePath,
-// @ts-expect-error
 } from '../config.ts'
 
-// @ts-expect-error
 import type { Listing } from './types.ts'
 import {
     makeListingEndpoint,
-// @ts-expect-error
 } from './listing.ts'
 
 export const tmdbHeading = '## TMDB Data' as const

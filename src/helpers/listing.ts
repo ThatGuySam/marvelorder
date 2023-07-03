@@ -1,4 +1,3 @@
-// @ts-expect-error
 import type { Listing } from './types.ts'
 
 export function hasLogo ( listing: Listing ) {

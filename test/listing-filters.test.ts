@@ -2,23 +2,19 @@
 import { expect, test } from 'vitest'
 import { faker } from '@faker-js/faker'
 
-// @ts-expect-error
 import { FilteredListings, ListingFilters } from '~/src/helpers/listing-filters.ts'
 import {
     makeMappedListings,
-// @ts-expect-error
 } from '~/src/helpers/node/listing.ts'
 
 import {
     getAllFilters,
     getListingsFromSlug,
-// @ts-expect-error
 } from '~/src/helpers/node/listing-files.ts'
 
 import {
     getMissingFilterStories,
     makeFilterMarkdownContent,
-// @ts-expect-error
 } from '~/src/helpers/node/markdown-files.ts'
 
 const fakeListing = {

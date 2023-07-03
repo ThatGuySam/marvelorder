@@ -1,11 +1,9 @@
 import { expect, test } from 'vitest'
 
-// @ts-expect-error
 import { getUpcomingListings } from '~/src/helpers/node/listing-files.ts'
 import {
     makeUpcomingListingsMarkdown,
     updateMarkdownContent,
-// @ts-expect-error
 } from '~/src/helpers/node/readme.ts'
 
 const testMarkdown = `

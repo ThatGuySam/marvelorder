@@ -4,34 +4,27 @@ import matter from 'gray-matter'
 import glob from 'fast-glob'
 import { capitalCase } from 'change-case'
 
-// @ts-expect-error
 import { listingsGlobPattern } from '~/src/config.ts'
 
-// @ts-expect-error
 import { trimCharacter } from '~/src/helpers/string.ts'
 import {
     ensureMappedListing,
     ensureMappedListings,
     makeSlug,
     mergeListingData,
-// @ts-expect-error
 } from '~/src/helpers/node/listing.ts'
 import {
     getDataFromListingContents,
     makeNewListingContents,
-// @ts-expect-error
 } from '~/src/helpers/markdown-page.ts'
 
-// @ts-expect-error
 import type { Listing } from '~/src/helpers/types.ts'
 
-// @ts-expect-error
 import * as filterExports from '~/src/helpers/listing-filters.ts'
 
 import {
     FilteredListings,
     isUpcoming,
-// @ts-expect-error
 } from '~/src/helpers/listing-filters.ts'
 
 export async function getListingFiles () {

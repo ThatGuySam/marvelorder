@@ -4,7 +4,6 @@ import type { MCUTimelineSheetRecord } from '~/src/helpers/types'
 import {
     getYearAndMonth,
     makeSlug,
-// @ts-expect-error
 } from '~/src/helpers/node/listing.ts'
 
 function parseOrderedTitle ( rawTitle: string ) {

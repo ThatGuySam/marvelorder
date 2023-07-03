@@ -4,19 +4,16 @@ import axios from 'axios'
 import {
     getYearAndMonth,
     makeSlug,
-// @ts-expect-error
 } from '~/src/helpers/node/listing.ts'
 
 import {
     getAllListings,
-// @ts-expect-error
 } from '~/src/helpers/node/listing-files.ts'
 
 import {
     FilteredListings,
     isDoc,
     isMarvelKnightsAnimated,
-// @ts-expect-error
 } from '~/src/helpers/listing-filters.ts'
 
 const inUniverseFirstPage = '/CuratedSet/version/5.1/region/US/audience/k-false,l-true/maturity/1450/language/en/setId/9466a148-f6b4-4c1a-8028-b0129323f4a9/pageSize/15/page/1'

@@ -1,12 +1,10 @@
 import type {
     WebStoryPage,
-// @ts-expect-error
 } from '~/src/helpers/types.ts'
 
 import type { MarvelMoviesFandomTimelineEntry } from '~/src/helpers/node/movies-fandom-timeline.ts'
 import {
     breakEntryTextIntoSentences,
-// @ts-expect-error
 } from '~/src/helpers/node/movies-fandom-timeline.ts'
 
 // https://stackoverflow.com/a/55435856/1397641

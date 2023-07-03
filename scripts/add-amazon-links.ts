@@ -1,14 +1,12 @@
 import fs from 'fs-extra'
 import 'dotenv/config'
 
-// @ts-expect-error
 import { upsertListingMarkdown } from '~/src/helpers/markdown-page.ts'
 import {
     getListingDetailsFromPaths,
     getListingFiles,
     getListingFromFile,
     writeMarkdownFileNode,
-// @ts-expect-error
 } from '~/src/helpers/node/listing-files.ts'
 import {
     FilteredListings,

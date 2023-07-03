@@ -6,13 +6,11 @@ import {
     getListingDetailsFromPaths,
     getListingFiles,
     upsertListingFrontmatter,
-// @ts-expect-error
 } from '~/src/helpers/node/listing-files.ts'
 
 import {
     getInUniverseTimeline,
     getInUniverseTimelineAndListings,
-// @ts-expect-error
 } from '~/src/helpers/node/in-universe-timeline.ts'
 
 const fakeListing = {

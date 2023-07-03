@@ -1,10 +1,7 @@
-// @ts-expect-error
 import type { Listing } from './types.ts'
 
-// @ts-expect-error
 import { ensureMappedListings } from './node/listing.ts'
 
-// @ts-expect-error
 import { getSortByName } from '~/src/helpers/sort.ts'
 
 export function isUpcoming ( listing ) {

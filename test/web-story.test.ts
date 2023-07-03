@@ -3,12 +3,10 @@ import { beforeAll, expect, test } from 'vitest'
 
 import {
     getTimelineFromJson,
-// @ts-expect-error
 } from '~/src/helpers/node/movies-fandom-timeline.ts'
 
 import {
     buildWebStoryFromTimelineEntries,
-// @ts-expect-error
 } from '~/src/helpers/node/web-story.ts'
 
 let timeline

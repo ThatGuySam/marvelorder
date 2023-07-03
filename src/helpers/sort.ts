@@ -1,11 +1,9 @@
-// @ts-expect-error
 import type { Listing } from './types.ts'
 
 import {
     getDateString,
     getIsoDate,
     hasLogo,
-// @ts-expect-error
 } from './listing.ts'
 
 export const byDefaultListingSort = byPremiereReversed

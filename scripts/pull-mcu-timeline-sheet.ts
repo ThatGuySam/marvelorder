@@ -4,33 +4,26 @@ import axios from 'axios'
 
 import type { MCUTimelineSheetRecord } from '~/src/helpers/types'
 
-// @ts-expect-error
 import { storePath } from '~/src/config.ts'
 
-// @ts-expect-error
 import {
     matchListingToOrdered,
     organizeOrderData,
-// @ts-expect-error
 } from '~/src/helpers/node/mcu-timeline-sheet.ts'
 import {
     makeInUniverseMarkdown,
     makeUpcomingListingsMarkdown,
     updateReadmeListContent,
-// @ts-expect-error
 } from '~/src/helpers/node/readme.ts'
 
-// @ts-expect-error
 import { upsertListingMarkdown } from '~/src/helpers/markdown-page.ts'
 
-// @ts-expect-error
 import {
     getListingDetailsFromPaths,
     getListingFiles,
     getListingFromFile,
     getUpcomingListings,
     writeMarkdownFileNode,
-// @ts-expect-error
 } from '~/src/helpers/node/listing-files.ts'
 import {
     FilteredListings,
@@ -38,10 +31,8 @@ import {
 
 import {
     ensureFiltersHaveStories,
-// @ts-expect-error
 } from '~/src/helpers/node/markdown-files.ts'
 
-// @ts-expect-error
 import { saveMoviesFandomTimeline } from '~/src/helpers/node/movies-fandom-timeline.ts'
 
 const macroUrl = 'https://script.google.com/macros/s/AKfycbzGvKKUIaqsMuCj7-A2YRhR-f7GZjl4kSxSN1YyLkS01_CfiyE/exec'

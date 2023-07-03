@@ -1,11 +1,9 @@
 import fs from 'fs-extra'
 
-// @ts-expect-error
 import type { Listing } from '~/src/helpers/types.ts'
 
 import {
     getInUniverseTimelineAndListings,
-// @ts-expect-error
 } from '~/src/helpers/node/in-universe-timeline.ts'
 
 export function updateMarkdownContent ( options: any = {} ) {

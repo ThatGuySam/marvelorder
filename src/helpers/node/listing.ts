@@ -2,13 +2,10 @@ import { DateTime } from 'luxon'
 import { deepmergeCustom } from 'deepmerge-ts'
 import slugify from 'slugify'
 
-// @ts-expect-error
 import * as CONFIG from '~/src/config.ts'
 
-// @ts-expect-error
 import type { Listing } from '~/src/helpers/types.ts'
 
-// @ts-expect-error
 import { isValidHttpUrl } from '~/src/helpers/check.ts'
 import {
     getDateString,
@@ -19,7 +16,6 @@ import {
     listingMergeConfig,
     makeListingEndpoint,
     makeTmdbImageUrl,
-// @ts-expect-error
 } from '~/src/helpers/listing.ts'
 
 export function makeSlug ( name: string ) {

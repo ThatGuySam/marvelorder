@@ -3,14 +3,12 @@ import { beforeAll, expect, test } from 'vitest'
 
 import {
     getListingsByTitleLength,
-// @ts-expect-error
 } from '~/src/helpers/node/listing-files.ts'
 
 import {
     breakEntryTextIntoSentences,
     fetchTimeline,
     getTimelineFromEntries,
-// @ts-expect-error
 } from '~/src/helpers/node/movies-fandom-timeline.ts'
 
 let timeline
