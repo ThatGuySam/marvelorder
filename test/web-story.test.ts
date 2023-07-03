@@ -51,7 +51,7 @@ test( 'Can get web story pages from timeline entries', async () => {
             }
 
             // Find the source-link element
-            // so that we know we're always creditting the source
+            // so that we know we're always crediting the source
             const sourceLinkElement = layer.elements.find( element => element.props.className.includes('source-link') )
 
             // Check that the source link element exists
