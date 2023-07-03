@@ -46,6 +46,8 @@ export const SIDEBAR = {
 
 export const storePath = './src/json'
 
+export const markdownStorePath = './src/pages'
+
 export const listingsGlobPattern = 'src/pages/en/*.md'
 
 export const storiesGlobPattern = 'src/pages/stories/*.md'
