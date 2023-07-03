@@ -36,26 +36,40 @@ type TitleText = {
     series?: TitleEntry
 }
 
+type DisneyPlusRelease = {
+    releaseDate: `${ number }-${ number }-${ number }`
+    releaseOrg: null
+    releaseType: 'original'
+    releaseYear: number
+    territory: null
+}
+
+type SeriesType = 'standard' | null
+type ProgramType = 'movie' | 'short-form'
+
 type DisneyPlusInUniverseItem = {
     contentId: string
-    seriesType?: string
-    programType?: string
+    seriesType?: SeriesType
+    programType?: ProgramType
     text: {
         title: {
             full: TitleText
             slug: TitleText
         }
     }
-    releases: {
-        releaseDate: `${ number }-${ number }-${ number }`
-        releaseOrg: null
-        releaseType; 'original'
-        releaseYear: number
-        territory: null
-    }[]
+    releases: DisneyPlusRelease[]
 }
 
-function mapCuratedSetItem ( item: DisneyPlusInUniverseItem ) {
+type DisneyPlusInUniverseEntry = {
+    contentId: string
+    title: string
+    slug: string
+    releases: DisneyPlusRelease[]
+    seriesType?: SeriesType
+    type: 'series' | ProgramType
+}
+
+function mapCuratedSetItem ( item: DisneyPlusInUniverseItem ): DisneyPlusInUniverseEntry {
     const isSeries = !!item?.seriesType
     const programOrSeries = isSeries ? 'series' : 'program'
     const titleObject = item.text.title
@@ -70,13 +84,15 @@ function mapCuratedSetItem ( item: DisneyPlusInUniverseItem ) {
     }
 }
 
-export async function getInUniverseTimeline () {
+
+
+export async function getInUniverseTimeline (): Promise<DisneyPlusInUniverseEntry[]> {
     // console.log( 'DISNEY_API_PREFIX', process.env.DISNEY_API_PREFIX )
 
     let pageTotal = Infinity
     let pageIndex = 1
 
-    const allItems = []
+    const allItems: DisneyPlusInUniverseEntry[] = []
 
     while ( pageTotal > 0 ) {
         const pageUrl = `${ process.env.DISNEY_API_PREFIX }${ inUniverseFirstPage.replace( '/page/1', `/page/${ pageIndex }` ) }`
