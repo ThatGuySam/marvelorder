@@ -47,7 +47,11 @@ type DisneyPlusInUniverseItem = {
         }
     }
     releases: {
-        releaseDate: string
+        releaseDate: `${ number }-${ number }-${ number }`
+        releaseOrg: null
+        releaseType; 'original'
+        releaseYear: number
+        territory: null
     }[]
 }
 
