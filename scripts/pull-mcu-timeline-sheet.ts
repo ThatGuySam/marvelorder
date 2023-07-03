@@ -190,7 +190,9 @@ function buildReadmeList ( matchesMap: Map<number, any> ) {
         // console.log('orderedDetails.timelineType', orderedDetails.timelineType)
 
         // Skip entries not from matchable types
-        if ( !matchableOrderedTypes.has( orderedDetails.timelineType ) ) { continue }
+        if ( !matchableOrderedTypes.has( orderedDetails.timelineType ) ) {
+            continue
+        }
 
         // console.log('details', details )
 
@@ -225,15 +227,15 @@ function buildReadmeList ( matchesMap: Map<number, any> ) {
         }
     }
 
-    // console.log( 'Updating README viewing-order-list' )
+    console.log( 'Updating README viewing-order-list' )
 
-    // const updatedList = buildReadmeList( matches )
+    const updatedList = buildReadmeList( matches )
 
     // // console.log( 'updatedList', updatedList )
 
-    // await updateReadmeListContent( updatedList, 'viewing-order-list' )
+    await updateReadmeListContent( updatedList, 'viewing-order-list' )
 
-    // console.log( 'Done' )
+    console.log( 'Done' )
 
     console.log( 'Updating README in-universe-list' )
 
