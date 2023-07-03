@@ -18,8 +18,8 @@ const IGNORED_FORMATS = new Set( [
     'gif',
 ] )
 const OUTPUT_FORMATS = new Set( [
-    'png',
     'jpg',
+    'png',
     'webp',
     'avif',
 ] )
@@ -85,8 +85,6 @@ export async function handler ( event ) {
 
     // Parse and validate options
     try {
-        console.log( ' event.url', event.url )
-
         options = getOptions( event.url.href )
     }
     catch ( error ) {
@@ -112,15 +110,18 @@ export async function handler ( event ) {
     // Move Request Extension to the start of the list
     // so that it is the first to be tried
     const imageTypes = new Set( [
+        // We want to try the most common format first
+        // so that we avoid extra requests
+        'jpg',
         requestExtension,
         ...OUTPUT_FORMATS,
     ] )
 
     // Run through image types until we find one that works
     for ( const imageType of imageTypes ) {
-        const typeUrl = contentUrl.replace( `.${ requestExtension }`, '.jpg' )
+        const typeUrl = contentUrl.replace( `.${ requestExtension }`, `.${ imageType }` )
 
-        // Fetch our WordPress image
+        // Fetch our image
         sourceImage = await fetch( typeUrl )
 
         // If we got a 200, we're good
