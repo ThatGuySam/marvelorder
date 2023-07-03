@@ -31,7 +31,7 @@ function buildWebStoryPagesFromTimelineEntry ( timelineEntry: MarvelMoviesFandom
 
     // console.log( 'timelineEntry.textContent', timelineEntry.textContent )
 
-    const sentences = breakEntryTextIntoSentences( timelineEntry.textContent, 2 )
+    const sentences = breakEntryTextIntoSentences( timelineEntry.textContent )
 
     const sentencesChunks = chunk( sentences, 2, 120 )
 
@@ -39,7 +39,7 @@ function buildWebStoryPagesFromTimelineEntry ( timelineEntry: MarvelMoviesFandom
 
     for ( const group of sentencesChunks ) {
 
-        const page:WebStoryPage = {
+        const page: WebStoryPage = {
             id: `page-${ timelineEntry.hash }`,
             backgroundSrc: '',
             backgroundPoster: '',

@@ -105,10 +105,32 @@ function cleanBrackets ( heading:string ) {
 }
 
 export function breakEntryTextIntoSentences ( paragraph:string ) {
+    // Check if incoming string contains 'vol.'
+    // so that know to join the sentences
+    const hasJoinKeywords = paragraph.toLowerCase().includes( 'vol.' )
+
     // Read text
     const doc = nlp.readDoc( paragraph )
     // Extract sentences from the data
     const sentences = doc.sentences().out()
+
+    if ( hasJoinKeywords ) {
+        // Find the index of the sentence that contains 'vol.'
+        const volSentenceIndex = sentences.findIndex( sentence => sentence.toLowerCase().includes( 'vol.' ) )
+
+        // Throw if we can't find the sentence
+        if ( volSentenceIndex === -1 ) {
+            throw new Error( `Found keyword but now it's missing` )
+        }
+
+        // Join to the sentence after it
+        const volSentence = sentences[ volSentenceIndex ]
+        const nextSentence = sentences[ volSentenceIndex + 1 ]
+        sentences[ volSentenceIndex ] = `${ volSentence } ${ nextSentence }`
+
+        // Remove the sentence after
+        sentences.splice( volSentenceIndex + 1, 1 )
+    }
 
     return sentences
 }
