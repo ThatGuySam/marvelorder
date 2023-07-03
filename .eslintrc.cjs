@@ -25,6 +25,10 @@ module.exports = {
         sourceType: 'module',
         ecmaVersion: 13,
     },
+    ignorePatterns: [
+        // Markdown files anywhere
+        '**/*.md',
+    ],
     rules: {
         // Indent with 4 spaces
         'indent': [ 'error', 4, {

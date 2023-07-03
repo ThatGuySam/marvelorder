@@ -23,7 +23,7 @@ test( 'Can get web story pages from timeline entries', async () => {
     expect( webStory.pages.length ).not.toBe( 0 )
 
     for ( const page of webStory.pages ) {
-        for ( const [ pageIndex, layer ] of page.layers.entries() ) {
+        for ( const layer of page.layers ) {
             // Ensure layer has a template attribute
             expect( layer.props.template ).toBeDefined()
 
