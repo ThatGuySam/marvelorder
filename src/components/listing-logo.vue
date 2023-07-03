@@ -34,7 +34,7 @@ export default {
         },
         sizes: {
             type: Array,
-            default: [ 1, 1.5, 2, 4, 5, 8 ],
+            default: () => [ 1, 1.5, 2, 4, 5, 8 ],
         },
     },
     computed: {

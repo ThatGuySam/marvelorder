@@ -174,6 +174,10 @@ export default {
             default: false,
         },
     },
+    emits: [
+        'expand',
+        'contract',
+    ],
     computed: {
         title () {
             return this.listing.title
@@ -184,9 +188,6 @@ export default {
         outerDirection () {
             return this.modes.outer === 'start' ? 'flex-col' : 'flex-col-reverse'
         },
-        // innerDirection () {
-        // 	return this.modes.inner === 'start' ? 'flex-col' : 'flex-col-reverse'
-        // },
         innerHeight () {
             return this.modes.inner === 'start' ? 'h-1/2' : 'h-1/5'
         },

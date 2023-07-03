@@ -130,9 +130,9 @@ export default {
             return ensureMappedListing( this.listing )
         },
         daysUntilRelease () {
-            if ( !isUpcoming( this.mappedListing ) ) { return null }
-
-            this.mappedListing.date
+            if ( !isUpcoming( this.mappedListing ) ) {
+                return null
+            }
 
             const untilRelease = Interval.fromDateTimes( now, this.mappedListing.date )
 

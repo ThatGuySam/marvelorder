@@ -1,5 +1,5 @@
 <template>
-    <Button
+    <SimpleButton
         class="group" :class="[
             seenListing ? 'group-hover:bg-white group-hover:text-black border-opacity-0' : 'opacity-0 group-hover:opacity-100',
         ]"
@@ -33,17 +33,17 @@
                 <path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
             </svg>
         </div>
-    </Button>
+    </SimpleButton>
 </template>
 
 <script>
 import localforage from 'localforage'
 
-import Button from './button.vue'
+import SimpleButton from './button.vue'
 
 export default {
     components: {
-        Button,
+        SimpleButton,
     },
     props: {
         listing: {
@@ -51,6 +51,9 @@ export default {
             required: true,
         },
     },
+    emits: [
+        'toggleSeen',
+    ],
     data () {
         return {
             localforageReady: false,

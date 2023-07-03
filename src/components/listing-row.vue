@@ -69,7 +69,6 @@ import ListingColumn from './listing-column.vue'
 import CircleButton from './circle-button.vue'
 import {
     FilteredListings,
-    hasLogo,
     isUpcoming,
 } from '~/src/helpers/listing-filters.ts'
 
@@ -139,19 +138,22 @@ export default {
         const hasLogoListings = this.sortedListings.filter( hasLogo )
         const noLogoListings = this.sortedListings.filter( listing => !hasLogo( listing ) )
 
+        // eslint-disable-next-line no-console
         console.log( `Listings with Logos: ${ hasLogoListings.length } / ${ this.sortedListings.length }` )
 
+        // eslint-disable-next-line no-console
         console.log( 'Listings without Logos:' )
         for ( const listing of noLogoListings ) {
+            // eslint-disable-next-line no-console
             console.log( `${ listing.title } (${ listing.id })` )
         }
 
-        // const marvelKnights = new FilteredListings({
-        // 	listings: this.listings,
-        // 	initialFilters: new Map([
-        // 		[ isMarvelKnightsAnimated, true ]
-        // 	 ]),
-        // })
+        // const marvelKnights = new FilteredListings( {
+        //     listings: this.listings,
+        //     initialFilters: new Map( [
+        //         [ isMarvelKnightsAnimated, true ],
+        //     ] ),
+        // } )
 
         // console.log('marvelKnights', marvelKnights.list)
     },
