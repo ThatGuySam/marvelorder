@@ -8,7 +8,7 @@ import {
 
 export const byDefaultListingSort = byPremiereReversed
 
-const bigOleNumber = 9999999999999999
+const bigOleNumber = Number.MAX_SAFE_INTEGER
 
 export const sortTypes: any = {
     'default': byDefaultListingSort,
