@@ -6,7 +6,7 @@ description: >-
   Wilson as the new Captain America.
 layout: ../../layouts/MainLayout.astro
 backdrop_path: /qYvpc3qLb0LpGOBS7JOq5RxYt0x.jpg
-logo_on_black: /.netlify/functions/tmdb-image/jNWaUMmnQ26fiz2B6tIn0aC9fO0.webp
+logo_on_black: /.netlify/functions/tmdb-image/ghkjPyaPGMfDufOa4D2A51DFGWr.webp
 video: false
 tags:
   - movie
