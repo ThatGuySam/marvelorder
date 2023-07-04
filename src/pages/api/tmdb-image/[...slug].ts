@@ -7,6 +7,8 @@ import sizeOf from 'image-size'
 
 import type { APIRoute } from 'astro'
 
+export const prerender = false
+
 // Sizes at https://api.themoviedb.org/3/configuration
 const base_url = 'https://image.tmdb.org/t/p/original'
 

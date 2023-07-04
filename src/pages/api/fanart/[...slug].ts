@@ -7,6 +7,8 @@ import sizeOf from 'image-size'
 
 import type { APIRoute } from 'astro'
 
+export const prerender = false
+
 // Sizes at https://assets.fanart.tv/fanart/movies/0/hdmovielogo/marvels-helstrom-5f7ec53e1c83f.png
 const base_url = 'https://assets.fanart.tv/fanart/movies/0/hdmovielogo'
 const splitPoint = '/fanart/'
