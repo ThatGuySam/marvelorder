@@ -146,7 +146,7 @@ export async function handler ( event ) {
         }
     }
 
-    let workingBuffer = await sourceImage.buffer()
+    let workingBuffer = await sourceImage.arrayBuffer()
 
     const sourceType = getImageType( workingBuffer )
 
