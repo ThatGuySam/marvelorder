@@ -4,7 +4,7 @@ import slugify from 'slugify'
 
 import * as CONFIG from '~/src/config.ts'
 
-import type { Listing } from '~/src/helpers/types.ts'
+import type { Listing, ListingFrontMatter } from '~/src/helpers/types.ts'
 
 import { isValidHttpUrl } from '~/src/helpers/check.ts'
 import {
@@ -54,8 +54,10 @@ export function ensureMappedListings ( listings: Listing[] ) {
 
 export const listingMerger = deepmergeCustom( listingMergeConfig )
 
-export function mergeListingData ( listingA: Object, listingB: Object ) {
-    return listingMerger( listingA, listingB )
+export function mergeListingData ( listingA: ListingFrontMatter, listingB: ListingFrontMatter ): ListingFrontMatter {
+    // TODO: Figure out how to make this play nice with deepmerge-ts
+    // so that we don't have to use 'as ListingFrontMatter'
+    return listingMerger( listingA, listingB ) as ListingFrontMatter
 }
 
 export function getYearAndMonth ( date: string ) {
