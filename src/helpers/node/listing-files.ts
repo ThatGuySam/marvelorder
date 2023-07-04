@@ -18,7 +18,7 @@ import {
     makeNewListingContents,
 } from '~/src/helpers/markdown-page.ts'
 
-import type { Listing } from '~/src/helpers/types.ts'
+import type { Listing, ListingFrontMatter } from '~/src/helpers/types.ts'
 
 import * as filterExports from '~/src/helpers/listing-filters.ts'
 
@@ -34,7 +34,7 @@ export async function getListingFiles () {
 }
 
 export async function getListingFromFile ( filePath: string ) {
-    const markdown = await fs.readFile( filePath, 'utf8' )
+    const markdown: string = await fs.readFile( filePath, 'utf8' )
 
     return getDataFromListingContents( {
         markdown,
@@ -43,7 +43,7 @@ export async function getListingFromFile ( filePath: string ) {
 }
 
 export async function getListingsFromFilePaths ( filePaths: string[] ) {
-    const listings = []
+    const listings: ListingFrontMatter[] = []
 
     for ( const filePath of filePaths ) {
         const { listing, tmdb } = await getListingFromFile( filePath )
