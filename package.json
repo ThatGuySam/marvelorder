@@ -30,6 +30,7 @@
     "dependencies": {
         "@algolia/client-search": "^4.13.1",
         "@astrojs/netlify": "^2.3.0",
+        "@astrojs/node": "^5.3.0",
         "@docsearch/css": "^3.1.0",
         "@docsearch/react": "^3.1.0",
         "@types/react": "^17.0.45",
