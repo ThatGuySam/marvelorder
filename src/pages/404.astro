@@ -1,33 +1,52 @@
 ---
-import { getListingsFromFilePaths } from '~/src/helpers/node/listing-files.ts'
-
 import Layout from '../layouts/HorizontalScroll.astro'
+
+import { fetchSitemapUrls } from '~/src/helpers/sitemap.ts'
 
 export const prerender = false
 
-const pages = await Astro.glob( '/src/pages/en/*.md' )
-
 const url = Astro.url
 
-const isListingPage = url.pathname.includes('/en/')
+// Get the listing id from the url pathname
+const listingId: string = url.pathname
+    .split('-')
+    .at(-1)
+    // Replace any trailing slashes
+    .replace('/', '')
 
+const hasListingId = listingId.length > 2
 
-if ( isListingPage ) {
-    // Get the listing id from the url pathname
-    const listingId = Number(
-        url.pathname.split('-').at(-1)
-            // Replace any trailing slashes
-            .replace('/', '')
-    )
+async function tryFindingNewListingUrl (): Promise<string | undefined> {
+    if ( !hasListingId ) {
+        return undefined
+    }
 
-    const allListings = await getListingsFromFilePaths( pages.map( page => page.file ) )
+    try {
+        const site = Astro.site.href
 
-    // Find a listing with the same id
-    const listing = allListings.find( listing => listing.id === listingId )
+        const sitemapUrl = new URL( site )
+        sitemapUrl.pathname = '/sitemap-0.xml'
 
-    console.log({ listingId, listing })
+        // console.log({ sitemapUrl })
 
-    // return Astro.redirect('/login')
+        // Fetch sitemap urls
+        const sitemapUrls = await fetchSitemapUrls( sitemapUrl.href )
+
+        // Find the listing url with the listing id
+        const listingUrl = sitemapUrls.find( url => url.includes( listingId ) )
+
+        return listingUrl
+
+    } catch ( error ) {
+        return undefined
+    }
+}
+
+const newListingUrl = await tryFindingNewListingUrl()
+
+if ( !!newListingUrl ) {
+    // Redirect to the listing url
+    return Astro.redirect( newListingUrl )
 }
 
 
