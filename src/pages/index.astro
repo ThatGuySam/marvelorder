@@ -7,10 +7,14 @@ import { convertNullValuesForAstro } from '~/src/helpers/listing.ts'
 import Layout from '../layouts/HorizontalScroll.astro'
 import ListingRow from '../components/listing-row.vue'
 
+export const prerender = true
+
 const pages = await Astro.glob( '/src/pages/en/*.md' )
 
 
 const listings = await getListingsFromFilePaths( pages.map( page => page.file ) )
+
+
 
 ---
 <Layout>
