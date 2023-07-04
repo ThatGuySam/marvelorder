@@ -9,7 +9,7 @@ import sitemap from '@astrojs/sitemap'
 
 // https://astro.build/config
 export default defineConfig( {
-    output: 'server',
+    output: 'hybrid',
     // Netlify Adapter - https://docs.astro.build/en/guides/integrations-guide/netlify/
     // Netlify Deploy Guide - https://docs.astro.build/en/guides/deploy/netlify/#adapter-for-ssredge
     adapter: netlifyFunctions( {
