@@ -11,6 +11,8 @@
   included_files = [
     # Include wink model
     "node_modules/wink-eng-lite-model/**",
+    # Markdown files 
+    "src/pages/en/**",
   ]
 
 # https://docs.netlify.com/configure-builds/file-based-configuration/#redirects
