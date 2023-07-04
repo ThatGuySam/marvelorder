@@ -8,6 +8,10 @@
   # Sets a custom directory for Netlify Functions
   directory = "dist/functions"
 
+  included_files = [
+    # Include wink model
+    "node_modules/wink-eng-lite-model/**",
+  ]
 
 # https://docs.netlify.com/configure-builds/file-based-configuration/#redirects
 [[redirects]]
