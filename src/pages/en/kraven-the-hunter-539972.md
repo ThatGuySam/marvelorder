@@ -6,7 +6,7 @@ description: >-
   superhuman abilities and a longer life.
 layout: ../../layouts/MainLayout.astro
 type: movie
-logo_on_black: /.netlify/functions/fanart/kraven-the-hunter-60c7dc51977a8.webp
+logo_on_black: /.netlify/functions/tmdb-image/8yksTv7C5I4gVbfD0uPweyFGZep.webp
 ---
 ## TMDB Data
 ```json
