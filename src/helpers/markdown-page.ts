@@ -2,7 +2,7 @@ import {
     markdownStorePath,
 } from '../config.ts'
 
-import type { Listing } from './types.ts'
+import type { Listing, ListingFrontMatter, TMDBData } from './types.ts'
 import {
     makeListingEndpoint,
 } from './listing.ts'
@@ -68,7 +68,7 @@ export function getPartsFromMarkdown ( markdown: string ) {
     }
 }
 
-export function parseTMDbMarkdown ( tmdbContent: string ) {
+export function parseTMDbMarkdown ( tmdbContent: string ): TMDBData {
     const lines = tmdbContent.split( '\n' )
 
     // Get index of the opening JSON ticks
@@ -120,7 +120,7 @@ export function getDataFromListingContents ( options: any ) {
 
     const { tmdbContent } = getPartsFromMarkdown( markdown )
 
-    const frontmatter = matter( markdown ).data
+    const frontmatter: ListingFrontMatter = matter( markdown ).data
     const tmdb = parseTMDbMarkdown( tmdbContent )
 
     return {
