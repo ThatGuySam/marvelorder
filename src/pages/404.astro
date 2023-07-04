@@ -1,0 +1,37 @@
+---
+// import { byListingDate } from '~/src/helpers/sort.ts'
+// import { getListingsFromFilePaths } from '~/src/helpers/node/listing-files.ts'
+// import { 
+// 	isPhaseZero, 
+// 	FilteredListings
+// } from '~/src/helpers/listing-filters'
+
+import Layout from '../layouts/HorizontalScroll.astro'
+
+export const prerender = false
+
+// const pages = await Astro.glob( '/src/pages/en/*.md' )
+
+// const allListings = await getListingsFromFilePaths( pages.map( page => page.file ) )
+
+// const mcuFilteredListings = new FilteredListings({ 
+// 	listings: allListings, 
+// 	initialFilters: new Map([
+// 		[ isPhaseZero, true ]
+// 	]),
+// 	listingsSort: 'default'
+// })
+
+---
+<Layout
+	content={{
+		title: 'Page not found - 404',
+		description: 'From Howard the Duck to Nick Fury, the extensive list of Marvel films and series before May 2, 2008, the day we were first grace with Robert Downey Jr as Iron-Man. Browse the list, watch, and track what you\'ve seen.',
+	}}
+>
+	
+	<div class="w-screen h-screen flex flex-col justify-center items-center gap-4">
+        <div class="text-4xl font-bold">🔎 Page not Found</div>
+        <div class="opacity-75">Who is Peter Parker and what is this page you're looking for? </div>
+    </div>
+</Layout>
