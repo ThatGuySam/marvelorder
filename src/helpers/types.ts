@@ -28,6 +28,7 @@ export interface TMDBData {
 export interface ListingFrontMatter extends Partial<TMDBData> {
     title: string
     logo_on_black?: ImageFunctionUrl
+    draft?: boolean
 }
 
 export interface Listing {
