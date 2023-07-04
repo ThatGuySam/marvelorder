@@ -16,7 +16,7 @@
     # Include wink model
     "node_modules/wink-eng-lite-model/**",
     # Markdown files 
-    "src/pages/en/**",
+    "src/pages/en/**.md",
   ]
 
 # https://docs.netlify.com/configure-builds/file-based-configuration/#redirects
