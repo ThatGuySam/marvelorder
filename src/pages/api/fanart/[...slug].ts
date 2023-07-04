@@ -127,7 +127,7 @@ export async function handler ( event ) {
     for ( const imageType of imageTypes ) {
         const typeUrl = contentUrl.replace( `.${ requestExtension }`, `.${ imageType }` )
 
-        // Fetch our WordPress image
+        // Fetch our image
         sourceImage = await fetch( typeUrl )
 
         // If we got a 200, we're good
