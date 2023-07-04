@@ -12,7 +12,8 @@ import winkNLP from 'wink-nlp'
 // Load "its" helper to extract item properties.
 // import its from 'wink-nlp/src/its.js'
 // Load english language model — light version.
-import winkEngModel from 'wink-eng-lite-model'
+// import winkEngModel from 'wink-eng-lite-model'
+import winkEngModel from 'wink-eng-lite-web-model'
 
 import type {
     Listing,
