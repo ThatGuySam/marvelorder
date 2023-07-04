@@ -1,14 +1,20 @@
 ---
 title: 'Ant-Man and the Wasp: Quantumania'
 slug: ant-man-and-the-wasp-quantumania
-description: The third film in the Marvel Studios' Ant-Man trilogy.
+description: >-
+  Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope's
+  parents Janet van Dyne and Hank Pym, and Scott's daughter Cassie Lang, find
+  themselves exploring the Quantum Realm, interacting with strange new creatures
+  and embarking on an adventure that will push them beyond the limits of what
+  they thought possible.
 layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/tmdb-image/mYCBuVGQGWPlUNZQusdHfbSzP1h.webp
-tags: 
+tags:
   - movie
-  - company-420 
+  - company-420
   - has-kang
+mcuTimelineOrder: 588
 ---
 ## TMDB Data
 ```json
@@ -35,4 +41,5 @@ tags:
         "company-420"
     ]
 }
+
 ```
