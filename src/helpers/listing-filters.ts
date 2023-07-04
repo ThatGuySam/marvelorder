@@ -35,6 +35,8 @@ const docMatchingDescriptionTerms = new Set( [
     'documentary',
     'behind-the-scenes',
     'behind the scenes',
+    // Example: Celebration, Celebrating, Celebrate
+    'celeb',
 ] )
 
 export function isDoc ( listing ) {
