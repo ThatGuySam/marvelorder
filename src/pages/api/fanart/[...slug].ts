@@ -58,7 +58,7 @@ function getOptions ( eventUrlString ): RequestOptions {
         // format = null,
     } = Object.fromEntries( eventUrl.searchParams )
 
-    const width = Number.parseInt( widthParam )
+    const width = Number( widthParam )
 
     if ( !width ) {
         throw new Error( 'Width is not a number' )
