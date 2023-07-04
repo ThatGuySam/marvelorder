@@ -98,7 +98,7 @@ test( 'Can get Disney+ In Universe Timeline', async () => {
     expect( universeTimeline[ 0 ].title ).toContain( 'First Avenger' )
 } )
 
-test.todo( 'Can match Disney+ In Universe Timeline to save listings', async () => {
+test( 'Can match Disney+ In Universe Timeline to save listings', async () => {
     const universeTimelineAndListings = await getInUniverseTimelineAndListings()
 
     for ( const { mappedListing } of universeTimelineAndListings ) {
@@ -107,7 +107,7 @@ test.todo( 'Can match Disney+ In Universe Timeline to save listings', async () =
     }
 } )
 
-test.todo( 'Can see Thor 1 within Disney+ In Universe Timeline', async () => {
+test( 'Can see Thor 1 within Disney+ In Universe Timeline', async () => {
     const universeTimelineAndListings = await getInUniverseTimelineAndListings()
 
     const thor1 = universeTimelineAndListings.find( ( { mappedListing } ) => mappedListing.title === 'Thor' )
