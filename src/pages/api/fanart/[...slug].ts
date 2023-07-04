@@ -66,7 +66,6 @@ function getOptions ( eventUrlString ): RequestOptions {
 
     const quality = 95// parseInt(q) || 60
 
-    // marvelorderstaging.wpengine.com/2021/11/Chamber-1-V2.jpg
     const imagePath = eventUrl.pathname.split( splitPoint )[ 1 ]
 
     const contentUrl = `${ base_url }/${ imagePath }`
