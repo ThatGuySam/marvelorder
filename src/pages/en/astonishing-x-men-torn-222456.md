@@ -37,4 +37,5 @@ logo_on_black: /.netlify/functions/fanart/astonishing-x-men-torn-5e704b9bbe565.p
         "company-11106"
     ]
 }
+
 ```

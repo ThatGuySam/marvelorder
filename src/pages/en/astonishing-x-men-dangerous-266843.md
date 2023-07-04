@@ -35,4 +35,5 @@ logo_on_black: /.netlify/functions/fanart/astonishing-x-men-dangerous-5e7124ec3c
         "company-11106"
     ]
 }
+
 ```

@@ -33,4 +33,5 @@ logo_on_black: /.netlify/functions/tmdb-image/fa6aYdjF083UV2w6V7hOAjwaqi4.webp
     ],
     "media_type": "movie"
 }
+
 ```
