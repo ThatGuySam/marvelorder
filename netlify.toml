@@ -8,6 +8,8 @@
   # Sets a custom directory for Netlify Functions
   directory = "dist/functions"
 
+  external_node_modules = ["astro"]
+
   included_files = [
     # Include wink model
     "node_modules/wink-eng-lite-model/**",
