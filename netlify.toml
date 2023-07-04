@@ -3,10 +3,10 @@
   command = "npm run netlify-build"
   functions = "netlify/functions"
 
-# https://docs.netlify.com/configure-builds/file-based-configuration/#functions
-[functions]
-  # Sets a custom directory for Netlify Functions
-  directory = "netlify/functions"
+# # https://docs.netlify.com/configure-builds/file-based-configuration/#functions
+# [functions]
+#   # Sets a custom directory for Netlify Functions
+#   directory = "netlify/functions"
 
 # https://docs.netlify.com/configure-builds/file-based-configuration/#redirects
 [[redirects]]
