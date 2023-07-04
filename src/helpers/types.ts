@@ -29,6 +29,7 @@ export interface ListingFrontMatter extends Partial<TMDBData> {
     title: string
     logo_on_black?: ImageFunctionUrl
     draft?: boolean
+    mcuTimelineOrder?: number
 }
 
 export interface Listing {
