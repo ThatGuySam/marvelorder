@@ -8,7 +8,9 @@
   # Sets a custom directory for Netlify Functions
   directory = "dist/functions"
 
-  external_node_modules = ["astro"]
+  # Causes expection
+  # https://github.com/withastro/astro/issues/3984#issue-1310531206
+  # external_node_modules = ["astro"]
 
   included_files = [
     # Include wink model
