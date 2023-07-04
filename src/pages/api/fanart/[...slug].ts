@@ -36,7 +36,16 @@ function getImageType ( buffer ) {
     return null
 }
 
-function getOptions ( eventUrlString ) {
+interface RequestOptions {
+    width: number
+    quality: number
+    cropTop: number
+    cropBottom: number
+    contentUrl: string
+    requestExtension: string
+}
+
+function getOptions ( eventUrlString ): RequestOptions {
     const eventUrl = new URL( eventUrlString, process.env.URL )
 
     // console.log('searchParams', Object.fromEntries( eventUrl.searchParams ))
@@ -68,8 +77,8 @@ function getOptions ( eventUrlString ) {
     return {
         width,
         quality,
-        cropTop,
-        cropBottom,
+        cropTop: Number( cropTop ),
+        cropBottom: Number( cropBottom ),
         contentUrl,
         requestExtension,
         // format,
@@ -79,7 +88,7 @@ function getOptions ( eventUrlString ) {
 // Example URL
 // https://marvelorder-full-static.netlify.app/.netlify/functions/wp-image/marvelorderstaging.wpengine.com/2021/11/Chamber-1-V2.jpg?w=800&q=80&format
 export async function handler ( event ) {
-    let options = {}
+    let options: RequestOptions
 
     // Parse and validate options
     try {
