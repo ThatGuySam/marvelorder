@@ -1,8 +1,10 @@
 import fs from 'fs-extra'
 import fetch from 'node-fetch'
-import { JSDOM } from 'jsdom'
+
+// import { JSDOM } from 'jsdom'
 import { v5 as uuidv5 } from 'uuid'
 import slugify from 'slugify'
+import { parseHTML } from 'linkedom'
 
 // Load wink-nlp package  & helpers.
 import winkNLP from 'wink-nlp'
@@ -24,6 +26,10 @@ import {
 } from '~/src/helpers/node/listing-files.ts'
 
 import { storePath } from '~/src/config.ts'
+
+function JSDOM ( html ) {
+    return parseHTML( html )
+}
 
 // Instantiate winkNLP.
 const nlp = winkNLP( winkEngModel )
