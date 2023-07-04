@@ -34,6 +34,11 @@ export async function getListingFiles () {
 }
 
 export async function getListingFromFile ( filePath: string ) {
+    // Throw on non-string filePath
+    if ( typeof filePath !== 'string' ) {
+        throw new TypeError( 'getListingFromFile() requires a string' )
+    }
+
     const markdown: string = await fs.readFile( filePath, 'utf8' )
 
     return getDataFromListingContents( {
