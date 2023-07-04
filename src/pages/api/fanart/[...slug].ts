@@ -7,8 +7,8 @@ import sizeOf from 'image-size'
 
 import type { APIRoute } from 'astro'
 
-// Sizes at https://images.fanart.tv/fanart/spider-man-the-dragons-challenge-5d3508360b27d.png
-const base_url = 'https://images.fanart.tv/fanart'
+// Sizes at https://assets.fanart.tv/fanart/movies/0/hdmovielogo/marvels-helstrom-5f7ec53e1c83f.png
+const base_url = 'https://assets.fanart.tv/fanart/movies/0/hdmovielogo'
 const splitPoint = '/fanart/'
 
 // 6MB is hard max Lambda response size
@@ -212,7 +212,7 @@ export async function handler ( event ) {
             'Cache-Control': 'public, max-age=365000000, immutable',
             'etag': etag( outputBuffer ),
         },
-        body: outputBuffer.toString( 'base64' ),
+        body: outputBuffer,
         isBase64Encoded: true,
     }
 }
@@ -233,7 +233,6 @@ export const get: APIRoute = async ( context ) => {
         return new Response( body, {
             status: statusCode,
             headers,
-            // encoding: 'binary',
         } )
     }
     catch ( error ) {
