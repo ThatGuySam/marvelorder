@@ -1,27 +1,34 @@
 ---
-// import { byListingDate } from '~/src/helpers/sort.ts'
-// import { getListingsFromFilePaths } from '~/src/helpers/node/listing-files.ts'
-// import { 
-// 	isPhaseZero, 
-// 	FilteredListings
-// } from '~/src/helpers/listing-filters'
+import { getListingsFromFilePaths } from '~/src/helpers/node/listing-files.ts'
 
 import Layout from '../layouts/HorizontalScroll.astro'
 
 export const prerender = false
 
-// const pages = await Astro.glob( '/src/pages/en/*.md' )
+const pages = await Astro.glob( '/src/pages/en/*.md' )
 
-// const allListings = await getListingsFromFilePaths( pages.map( page => page.file ) )
+const url = Astro.url
 
-// const mcuFilteredListings = new FilteredListings({ 
-// 	listings: allListings, 
-// 	initialFilters: new Map([
-// 		[ isPhaseZero, true ]
-// 	]),
-// 	listingsSort: 'default'
-// })
+const isListingPage = url.pathname.includes('/en/')
 
+
+if ( isListingPage ) {
+    // Get the listing id from the url pathname
+    const listingId = Number(
+        url.pathname.split('-').at(-1)
+            // Replace any trailing slashes
+            .replace('/', '')
+    )
+
+    const allListings = await getListingsFromFilePaths( pages.map( page => page.file ) )
+
+    // Find a listing with the same id
+    const listing = allListings.find( listing => listing.id === listingId )
+
+    console.log({ listingId, listing })
+
+    // return Astro.redirect('/login')
+}
 
 
 ---
