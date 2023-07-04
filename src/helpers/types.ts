@@ -1,3 +1,35 @@
+// Example - /.netlify/functions/tmdb-image/kbYbZR4FgcLTfI6HT2hiEqoPvr9.webp
+type TMDBImageFunctionUrl = `/.netlify/functions/tmdb-image/${ string }.webp`
+
+// Example - /.netlify/functions/fanart/astonishing-x-men-dangerous-5e7124ec3c5d1.png
+type FanartImageFunctionUrl = `/.netlify/functions/fanart/${ string }.png`
+
+type ImageFunctionUrl = TMDBImageFunctionUrl | FanartImageFunctionUrl
+
+type TMDBImagePath = `/${ string }.jpg`
+
+export interface TMDBData {
+    adult: boolean
+    backdrop_path: TMDBImagePath
+    genre_ids: number[]
+    id: number
+    original_language: string
+    original_title: string
+    overview: string
+    poster_path: TMDBImagePath
+    release_date: `${ number }-${ number }-${ number }`
+    title: string
+    video: boolean
+    vote_average: number
+    slug: string
+    tags: string[]
+}
+
+export interface ListingFrontMatter extends Partial<TMDBData> {
+    title: string
+    logo_on_black?: ImageFunctionUrl
+}
+
 export interface Listing {
     // Doubles as disable since it's used by Astro
     // https://docs.astro.build/en/guides/markdown-content/#markdown-drafts
@@ -6,8 +38,8 @@ export interface Listing {
     name?: string
     sourceListing?: Listing
     overview: string
-    backdrop_path: string
-    backdrop: Function
+    backdrop_path: TMDBImagePath
+    backdrop: TMDBImagePath
     genre_ids: Array<number>
     id: number
     origin_country: Array<string>
