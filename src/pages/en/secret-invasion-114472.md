@@ -13,7 +13,7 @@ mcuTimelineOrder: 590
 ## TMDB Data
 ```json
 {
-    "backdrop_path": "/pQHg2NZpS5kvoENFMSt0ynzCFqd.jpg",
+    "backdrop_path": "/xtfWbTlLS7gPwuB8nHOex8KoxK6.jpg",
     "first_air_date": "2023-06-21",
     "genre_ids": [
         18,
@@ -29,7 +29,7 @@ mcuTimelineOrder: 590
     "original_name": "Secret Invasion",
     "overview": "Nick Fury and Talos discover a faction of shapeshifting Skrulls who have been infiltrating Earth for years.",
     "poster_path": "/3rINdUPSy9AklJg74jWHOyUXuZd.jpg",
-    "vote_average": 7.8,
+    "vote_average": 7.9,
     "title": "Secret Invasion",
     "slug": "secret-invasion",
     "tags": [

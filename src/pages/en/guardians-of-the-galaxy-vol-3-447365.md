@@ -1,7 +1,8 @@
 ---
 title: Guardians of the Galaxy Vol. 3
 slug: guardians-of-the-galaxy-vol-3
-description: Peter Quill, still reeling from the loss of Gamora, must rally his team around
+description: >-
+  Peter Quill, still reeling from the loss of Gamora, must rally his team around
   him to defend the universe along with protecting one of their own. A mission
   that, if not completed successfully, could quite possibly lead to the end of
   the Guardians as we know them.

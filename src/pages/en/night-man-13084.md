@@ -61,7 +61,7 @@ tags:
     "original_name": "Night Man",
     "overview": "Night Man is an American action/adventure/sci-fi series that aired in syndication from September 15, 1997 to May 17, 1999. The series is loosely based on a comic book published by Malibu Comics and was created by Steve Englehart and developed for television by Glen A. Larson.\n\nIt stars Matt McColm as the title character, a superhero whose real name was Johnny Domino, a saxophonist. Englehart would write three episodes of the series. Night Man is also one of the few series to cross over with characters from Larson's previous series: in the episode \"Manimal\", Johnny allies with Professor Jonathan Chase, the star of the short-lived 1980s' series Manimal.",
     "poster_path": "/d5rE9WSSsRTuvfjRb9dOpnIMAOJ.jpg",
-    "vote_average": 6.6,
+    "vote_average": 6.4,
     "title": "Night Man",
     "slug": "night-man",
     "tags": [

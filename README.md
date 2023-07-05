@@ -80,11 +80,11 @@ This is the *most* official list for the Marvel Chronologically, aka by the time
 ## Upcoming
 <!-- start-upcoming-list -->
 
-- August 1, 2023 - [Echo](https://marvelorder.com/en/echo-122226) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/echo-122226.md)
 - September 1, 2023 - [Ironheart](https://marvelorder.com/en/ironheart-114471) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/ironheart-114471.md)
 - October 4, 2023 - [Kraven the Hunter](https://marvelorder.com/en/kraven-the-hunter-539972) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/kraven-the-hunter-539972.md)
 - November 1, 2023 - [Agatha: Coven of Chaos](https://marvelorder.com/en/agatha-house-of-harkness-138501) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/agatha-house-of-harkness-138501.md)
 - November 8, 2023 - [The Marvels](https://marvelorder.com/en/the-marvels-609681) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/the-marvels-609681.md)
+- November 29, 2023 - [Echo](https://marvelorder.com/en/echo-122226) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/echo-122226.md)
 - February 14, 2024 - [Madame Web](https://marvelorder.com/en/madame-web-634492) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/madame-web-634492.md)
 - March 27, 2024 - [Spider-Man: Beyond the Spider-Verse](https://marvelorder.com/en/spider-man-beyond-the-spider-verse-911916) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/spider-man-beyond-the-spider-verse-911916.md)
 - April 1, 2024 - [Daredevil: Born Again](https://marvelorder.com/en/daredevil-born-again-202555) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/daredevil-born-again-202555.md)
