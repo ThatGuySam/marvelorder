@@ -19,7 +19,7 @@ mcuTimelineOrder: 508
 ```json
 {
     "adult": false,
-    "backdrop_path": "/gLZMjwGDEg8Snm7iZTJmJH0QakD.jpg",
+    "backdrop_path": "/w1oD1MzHjnBJc5snKupIQaSBLIh.jpg",
     "genre_ids": [
         14,
         28,

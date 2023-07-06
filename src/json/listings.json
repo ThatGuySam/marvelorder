@@ -281,7 +281,8 @@
 		"genre_ids": [
 			878,
 			28,
-			12
+			12,
+			53
 		],
 		"id": 912649,
 		"original_language": "en",
@@ -597,7 +598,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/AedbvbzVrdGMhi9oFPhorizbtTL.jpg",
+		"backdrop_path": "/c8vGaFuWkYetS1GY02CfSg88oaI.jpg",
 		"genre_ids": [
 			28,
 			35,
@@ -607,7 +608,7 @@
 		"original_language": "en",
 		"original_title": "Deadpool 3",
 		"overview": "The third installment in the Deadpool franchise.",
-		"poster_path": "/n4HOCzrdQ19hriCqBLMZ4bwdZ9X.jpg",
+		"poster_path": "/n7irNMnCUzZhgF5gQJ80x2oURBE.jpg",
 		"release_date": "2024-04-30",
 		"title": "Deadpool 3",
 		"video": false,
@@ -670,7 +671,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/3AbHZcRdon7TmpqracuQqgJxOGE.jpg",
+		"backdrop_path": "/u2C8hDXDc6wmgSKIT5sxarNKulY.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -713,7 +714,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/xtfWbTlLS7gPwuB8nHOex8KoxK6.jpg",
+		"backdrop_path": "/57clBMPX25NNO6nmDw3TV3zQaQE.jpg",
 		"first_air_date": "2023-06-21",
 		"genre_ids": [
 			18,
@@ -806,7 +807,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/gMJngTNfaqCSCqGD4y8lVMZXKDn.jpg",
+		"backdrop_path": "/m8JTwHFwX7I7JY5fPe4SjqejWag.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -897,7 +898,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/yYrvN5WFeGYjJnRzhY0QXuo4Isw.jpg",
+		"backdrop_path": "/xDMIl84Qo5Tsu62c9DGWhmPI67A.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -1019,7 +1020,7 @@
 		"original_language": "en",
 		"original_name": "She-Hulk: Attorney at Law",
 		"overview": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered hulk.",
-		"poster_path": "/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
+		"poster_path": "/3qO7wycn6o0lUJf15dupMFbEBTY.jpg",
 		"vote_average": 6.4,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
@@ -1192,7 +1193,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/bcpATvKQmSgCbwxONs9PPQrer3A.jpg",
+		"backdrop_path": "/jsoz1HlxczSuTx0mDl2h0lxy36l.jpg",
 		"genre_ids": [
 			14,
 			28,
@@ -1382,7 +1383,7 @@
 		"original_language": "en",
 		"original_title": "Spider-Man: No Way Home",
 		"overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
-		"poster_path": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+		"poster_path": "/uJYYizSuA9Y3DCs0qS4qWvHfZg4.jpg",
 		"release_date": "2021-12-15",
 		"title": "Spider-Man: No Way Home",
 		"video": false,
@@ -2101,7 +2102,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/1ntePsIqeklfmrQJqZPncCydsqY.jpg",
+		"backdrop_path": "/qGQf2OHIkoh89K8XeKQzhxczf96.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -2382,7 +2383,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/6G2fLCVm9fiLyHvBrccq6GSe2ih.jpg",
+		"backdrop_path": "/kaIfm5ryEOwYg8mLbq8HkPuM1Fo.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -2508,7 +2509,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/n3gb8oqP9BeRCUsCmZVaT5eltPH.jpg",
+		"backdrop_path": "/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
 		"genre_ids": [
 			878,
 			12,
@@ -2795,7 +2796,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/pCssRYbILVduCYDgrcRG0T8W4FN.jpg",
+		"backdrop_path": "/2ex2beZ4ssMeOduLD0ILzXKCiep.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -2978,7 +2979,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/r40ke0kVPhL5b1oHgQaB5BatoSk.jpg",
+		"backdrop_path": "/2PrYnQR8YPei5vCVRwJXnwMqMyR.jpg",
 		"first_air_date": "2015-04-10",
 		"genre_ids": [
 			80,
@@ -3428,7 +3429,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/5o88bbqcV5STn56jqOeovaaWbAE.jpg",
+		"backdrop_path": "/4zTsF0RtO0av3YX1NaKDqGKPxYF.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -4382,7 +4383,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/gLZMjwGDEg8Snm7iZTJmJH0QakD.jpg",
+		"backdrop_path": "/w1oD1MzHjnBJc5snKupIQaSBLIh.jpg",
 		"genre_ids": [
 			14,
 			28,
@@ -4591,7 +4592,7 @@
 		"release_date": "2005-04-21",
 		"title": "Man-Thing",
 		"video": false,
-		"vote_average": 4.3,
+		"vote_average": 4.2,
 		"slug": "man-thing",
 		"tags": [
 			"movie",
@@ -4660,7 +4661,7 @@
 		"release_date": "2004-06-25",
 		"title": "Spider-Man 2",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.2,
 		"slug": "spider-man-2",
 		"tags": [
 			"movie",
@@ -4786,7 +4787,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/jHxCeXnSchAuwHnmVatTgqMYdX8.jpg",
+		"backdrop_path": "/no2cllXSRA56LPipQnuPlg3RuTL.jpg",
 		"genre_ids": [
 			14,
 			28

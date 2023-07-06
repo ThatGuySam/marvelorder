@@ -16,7 +16,7 @@ backdrop_path: /x2IqsMlpbOhS8zIUJfyl1yO4gHF.jpg
 ```json
 {
     "adult": false,
-    "backdrop_path": "/1ntePsIqeklfmrQJqZPncCydsqY.jpg",
+    "backdrop_path": "/qGQf2OHIkoh89K8XeKQzhxczf96.jpg",
     "genre_ids": [
         28,
         12,
