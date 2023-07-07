@@ -5241,6 +5241,32 @@
     "primeReferenceTitle": "Secret Invasion"
   },
   {
+    "hash": "0309254f-38be-5615-b7f8-353a8e4faa4e",
+    "timeDescription": "1998",
+    "timeDescriptionParts": {
+      "primary": "1998",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Nick Fury meet with Varra at a cafe and exchange information regarding General Dreykov. The two have feelings for each other and became a couple. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Secret_Invasion",
+        "text": "Secret Invasion",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Secret_Invasion_Episode_1.03:_Betrayed",
+        "text": "Betrayed",
+        "referenceType": "episode"
+      }
+    ],
+    "primeReferenceIndex": 0,
+    "primeReferenceTitle": "Secret Invasion"
+  },
+  {
     "hash": "0f775e28-ab54-5196-9a44-cc5c1036d5be",
     "timeDescription": "1998",
     "timeDescriptionParts": {
@@ -5269,7 +5295,7 @@
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "Since she didn't like her legal name, Mary Sue Poots gives herself the name Skye. When she grew up and became a computer expert, she deleted all official records on her \"Mary Sue Poots\" identity.",
+    "textContent": "Since she didn't like her legal name, Mary Sue Poots gives herself the name Skye. When she grew up and became a computer expert, she deleted all official records on her \"Mary Sue Poots\" identity. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -28689,6 +28715,32 @@
       {
         "href": "/wiki/Secret_Invasion_Episode_1.02:_Promises",
         "text": "Promises",
+        "referenceType": "episode"
+      }
+    ],
+    "primeReferenceIndex": 0,
+    "primeReferenceTitle": "Secret Invasion"
+  },
+  {
+    "hash": "0d98d917-a24e-5699-801e-f875a0230fcf",
+    "timeDescription": "2026",
+    "timeDescriptionParts": {
+      "primary": "2026",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Gravik reveals to the Skrull Council that he intends to create Super Skrulls using the collected foreign DNA, and that he has sent rebels to infiltrate the Royal Navy in order to launch missiles at a United Nations aircraft. Gravik later meets with Talos to negotiate a parlay, but discussion breaks down when the former threatens to kill G'iah. After Talos stabs Gravik in the hand and leaves, Gravik heals his hand with the Extremis soldier's abilities. G'iah secretly sends Talos information about the attack while Fury meets with him and pleads to work together again. Fury contacts Falsworth and learns the name of the Naval Command Headquarters' officer in charge, Commodore Robert Fairbanks. Fury and Talos arrive at the HQ and interrogate Fairbanks, but the latter provokes Talos to kill him as he regresses back to a Skrull. Talos contacts G'iah, who acquires Fairbanks' authorization code, allowing them to abort the launch in time. G'iah attempts to ride off on her motorcycle, but is spotted by Gravik who suspected her of betrayal. When Gravik orders her to return to the compound, G'iah turns him down and is shot by him. Meanwhile, Priscilla secretly contacts an unknown person with Rhodes' voice wishing to speak to Gravik. She is denied. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Secret_Invasion",
+        "text": "Secret Invasion",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Secret_Invasion_Episode_1.03:_Betrayed",
+        "text": "Betrayed",
         "referenceType": "episode"
       }
     ],

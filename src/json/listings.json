@@ -730,7 +730,7 @@
 		"original_name": "Secret Invasion",
 		"overview": "Nick Fury and Talos discover a faction of shapeshifting Skrulls who have been infiltrating Earth for years.",
 		"poster_path": "/3rINdUPSy9AklJg74jWHOyUXuZd.jpg",
-		"vote_average": 7.9,
+		"vote_average": 8,
 		"title": "Secret Invasion",
 		"slug": "secret-invasion",
 		"tags": [
@@ -977,7 +977,7 @@
 		"release_date": "2022-09-25",
 		"title": "Werewolf by Night",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7,
 		"slug": "werewolf-by-night",
 		"tags": [
 			"movie",
@@ -2652,7 +2652,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/r1e0lDIsezrklektX82AetUHr5m.jpg",
+		"backdrop_path": "/uAE8hCBui1INPWMwkrJcTJGxbD0.jpg",
 		"first_air_date": "2017-02-08",
 		"genre_ids": [
 			10759,
@@ -4134,7 +4134,7 @@
 		"original_name": "Marvel Knights: Spider-Woman, Agent of S.W.O.R.D.",
 		"overview": "Feeling like the most hated person on Earth after the events of Secret Invasion, Jessica Drew aka Spider-Woman is approached by a mysterious stranger to join S.W.O.R.D. (Sentient World Observation and Response Department), a counter-terrorism and intelligence agency for extraterrestrial threats.",
 		"poster_path": "/93pxdXPT8RC2pArLU3iQPGyQkAX.jpg",
-		"vote_average": 6,
+		"vote_average": 5.8,
 		"title": "Marvel Knights: Spider-Woman, Agent of S.W.O.R.D.",
 		"slug": "marvel-knights-spider-woman-agent-of-sword",
 		"tags": [
@@ -4520,7 +4520,7 @@
 		"original_name": "Blade: The Series",
 		"overview": "Blade is a half-man, half-vampire who employs his extraordinary powers in a crusade to save mankind from the demonic creatures who walk the night. Set in Detroit, Blade investigates the vampire house of Chthon. Along the way he forms an uneasy alliance with Krista Starr, a former military veteran who becomes entrenched in the world of vampires while investigating the murder of her twin brother.",
 		"poster_path": "/xthJ8MoYaJROntPHaI5mUrXd4Qs.jpg",
-		"vote_average": 6.8,
+		"vote_average": 6.7,
 		"title": "Blade: The Series",
 		"slug": "blade-the-series",
 		"tags": [
@@ -4661,7 +4661,7 @@
 		"release_date": "2004-06-25",
 		"title": "Spider-Man 2",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 7.3,
 		"slug": "spider-man-2",
 		"tags": [
 			"movie",
