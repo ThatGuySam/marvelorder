@@ -329,7 +329,7 @@
 		"id": 969681,
 		"original_language": "en",
 		"original_title": "Spider-Man 4",
-		"overview": "The next installment of the MCU Spider-Man franchise: a sequel to \"Spider-Man: No Way Home\" and the first in a possible new trilogy. Plot unknown.",
+		"overview": "The next installment of the MCU Spider-Man franchise: a sequel to \"Spider-Man: No Way Home\". Plot unknown.",
 		"poster_path": null,
 		"title": "Spider-Man 4",
 		"video": false,
@@ -763,9 +763,9 @@
 		"adult": false,
 		"backdrop_path": "/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
 		"genre_ids": [
-			28,
 			878,
-			12
+			12,
+			28
 		],
 		"id": 447365,
 		"original_language": "en",
@@ -1383,7 +1383,7 @@
 		"original_language": "en",
 		"original_title": "Spider-Man: No Way Home",
 		"overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
-		"poster_path": "/uJYYizSuA9Y3DCs0qS4qWvHfZg4.jpg",
+		"poster_path": "/5weKu49pzJCt06OPpjvT80efnQj.jpg",
 		"release_date": "2021-12-15",
 		"title": "Spider-Man: No Way Home",
 		"video": false,
@@ -4601,7 +4601,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/A8I20DNPLcusT0YFBAe1WumXiyU.jpg",
+		"backdrop_path": "/qnVL4BNPlREYq4HKl6L62hiicYE.jpg",
 		"genre_ids": [
 			28,
 			14,

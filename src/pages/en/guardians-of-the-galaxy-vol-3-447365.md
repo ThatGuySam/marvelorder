@@ -21,9 +21,9 @@ mcuTimelineOrder: 589
     "adult": false,
     "backdrop_path": "/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
     "genre_ids": [
-        28,
         878,
-        12
+        12,
+        28
     ],
     "id": 447365,
     "original_language": "en",
