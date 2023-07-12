@@ -29,7 +29,7 @@ mcuTimelineOrder: 590
     "original_name": "Secret Invasion",
     "overview": "Nick Fury and Talos discover a faction of shapeshifting Skrulls who have been infiltrating Earth for years.",
     "poster_path": "/3rINdUPSy9AklJg74jWHOyUXuZd.jpg",
-    "vote_average": 8,
+    "vote_average": 7.9,
     "title": "Secret Invasion",
     "slug": "secret-invasion",
     "tags": [
