@@ -24,7 +24,7 @@ type: movie
     "release_date": "2001-08-11",
     "title": "X-Men: The Mutant Watch",
     "video": false,
-    "vote_average": 7.1,
+    "vote_average": 7,
     "slug": "x-men-the-mutant-watch",
     "tags": [
         "movie",
