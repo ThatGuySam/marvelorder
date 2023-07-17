@@ -482,6 +482,25 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": "/1jcWTAfkstbsUJbbhVF3dQBycX7.jpg",
+		"genre_ids": [],
+		"id": 1152853,
+		"original_language": "en",
+		"original_title": "MCU Collection",
+		"overview": "The Marvel Cinematic Universe is an American media franchise and shared universe centered on a series of superhero films produced by Marvel Studios.",
+		"poster_path": "/bykTaCACD94sD8Lpf66QIbAXlFl.jpg",
+		"release_date": "",
+		"title": "MCU Collection",
+		"video": false,
+		"vote_average": 0,
+		"slug": "mcu-collection",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/jqFC2WjYF07hx2X7cs0XmY9jBX6.jpg",
 		"genre_ids": [
 			28,
@@ -623,8 +642,8 @@
 		"backdrop_path": "/mbY234XwMwEofAdX8yddNcK82wi.jpg",
 		"genre_ids": [
 			28,
-			35,
-			12
+			12,
+			35
 		],
 		"id": 533535,
 		"original_language": "en",
@@ -774,7 +793,7 @@
 		"release_date": "2023-06-16",
 		"title": "Stan Lee",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7,
 		"slug": "stan-lee",
 		"tags": [
 			"movie",
@@ -2436,7 +2455,7 @@
 		"genre_ids": [
 			28,
 			12,
-			14
+			878
 		],
 		"id": 284053,
 		"original_language": "en",
@@ -2551,7 +2570,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/xHCfWGlxwbtMeeOnTvxUCZRGnkk.jpg",
+		"backdrop_path": "/60TVyGnT1niDkwvKkPHuMGsJ2U5.jpg",
 		"first_air_date": "2017-03-17",
 		"genre_ids": [
 			10759,
@@ -2604,7 +2623,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/aLGAH12ubqzXmGcjansziJTeIZ9.jpg",
+		"backdrop_path": null,
 		"genre_ids": [
 			28,
 			35,
@@ -3307,7 +3326,7 @@
 		"original_name": "ディスク・ウォーズ:アベンジャーズ",
 		"overview": "A group of teenagers join forces with the Avengers, Earth's mightiest heroes, to fight against the tyrannical Loki and his mighty empire.",
 		"poster_path": "/6wQAZaWSvBJOIIt68cqmC0KJjeE.jpg",
-		"vote_average": 6.3,
+		"vote_average": 5.8,
 		"title": "Marvel Disk Wars: The Avengers",
 		"slug": "marvel-disk-wars-the-avengers",
 		"tags": [
@@ -3353,7 +3372,7 @@
 		"release_date": "2014-03-18",
 		"title": "Marvel Studios: Assembling a Universe",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 6.9,
 		"slug": "marvel-studios-assembling-a-universe",
 		"tags": [
 			"movie",
@@ -4230,7 +4249,7 @@
 		"original_name": "Iron Man: Armored Adventures",
 		"overview": "Iron Man: Armored Adventures is a 3D CGI cartoon series based on the Marvel Comics superhero Iron Man. It debuted in the USA on the Nicktoons on April 24, 2009, and has already begun airing on Canadian network Teletoon. Iron Man: Armored Adventures aired on Nickelodeon on July 4, 2009 until September 12, 2009. The series is story edited by showrunner Christopher Yost, who also worked on Wolverine and the X-Men, and numerous other Marvel Animation projects. The television show is not related to the 2007 animated film The Invincible Iron Man; It has a different voice cast, but some story elements are similar and the show uses the same musical score as the film in some instances. It is the first Iron Man television series since Iron Man from 1994–1996, and started airing after the success of the live action Iron Man film.\n\nThe series follows the adventures of teenage child prodigy Tony Stark and his alter ego of Iron Man. As Iron Man, he uses his technological inventions to fight various similarly technologically advanced threats. His friends, James \"Rhodey\" Rhodes and Pepper Potts help him on his courageous, and dangerous adventures.",
 		"poster_path": "/uwMIL8PR1jHpHQksIq7kzdeqg2A.jpg",
-		"vote_average": 7.5,
+		"vote_average": 7.4,
 		"title": "Iron Man: Armored Adventures",
 		"slug": "iron-man-armored-adventures",
 		"tags": [
@@ -4490,7 +4509,7 @@
 		"original_name": "Fantastic Four: World's Greatest Heroes",
 		"overview": "Mister Fantastic, the Invisible Woman, the Human Torch, and Thing battle some of their greatest foes, including Doctor Doom, Ronan the Accuser, the Multiple Man, and Mole Man.",
 		"poster_path": "/zCtCW0JlbMpzfQDAX1bO1o1KLi.jpg",
-		"vote_average": 7.5,
+		"vote_average": 7.6,
 		"title": "Fantastic Four: World's Greatest Heroes",
 		"slug": "fantastic-four-worlds-greatest-heroes",
 		"tags": [

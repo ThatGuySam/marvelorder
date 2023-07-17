@@ -13,8 +13,8 @@ logo_on_black: /.netlify/functions/tmdb-image/fa6aYdjF083UV2w6V7hOAjwaqi4.webp
     "backdrop_path": "/mbY234XwMwEofAdX8yddNcK82wi.jpg",
     "genre_ids": [
         28,
-        35,
-        12
+        12,
+        35
     ],
     "id": 533535,
     "original_language": "en",

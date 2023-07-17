@@ -13,7 +13,7 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/aLGAH12ubqzXmGcjansziJTeIZ9.jpg",
+    "backdrop_path": null,
     "genre_ids": [
         28,
         35,
