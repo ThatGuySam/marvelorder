@@ -735,7 +735,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
+		"backdrop_path": "/7unMknm8DM2BXQsKL0jhbgfs43h.jpg",
 		"genre_ids": [
 			99
 		],
@@ -743,7 +743,7 @@
 		"original_language": "en",
 		"original_title": "Marvel Studios Assembled: The Making of Ant-Man and the Wasp: Quantumania",
 		"overview": "Join cast and crew as they delve deep into the creation of \"Ant-Man and The Wasp: Quantumania.\" Combining immersive behind-the-scenes footage with candid interviews, Assembled reveals how an incredible new world was brought to the screen.",
-		"poster_path": null,
+		"poster_path": "/xgfnWe9NFXT5o3QndRnU5ylkxyp.jpg",
 		"release_date": "2023-07-19",
 		"title": "Marvel Studios Assembled: The Making of Ant-Man and the Wasp: Quantumania",
 		"video": false,
@@ -793,7 +793,7 @@
 		"release_date": "2023-06-16",
 		"title": "Stan Lee",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 7.1,
 		"slug": "stan-lee",
 		"tags": [
 			"movie",
@@ -1014,7 +1014,7 @@
 		"original_language": "en",
 		"original_title": "Werewolf by Night",
 		"overview": "On a dark and somber night, a secret cabal of monster hunters emerge from the shadows and gather at the foreboding Bloodstone Temple following the death of their leader. In a strange and macabre memorial to the leader’s life, the attendees are thrust into a mysterious and deadly competition for a powerful relic—a hunt that will ultimately bring them face to face with a dangerous monster.",
-		"poster_path": "/1n2q0Y1pX8PkQh9imqGbNH7Bw4q.jpg",
+		"poster_path": "/jmv7EbqBuEk4V1U7OoSBaxkwawO.jpg",
 		"release_date": "2022-09-25",
 		"title": "Werewolf by Night",
 		"video": false,
@@ -4817,7 +4817,7 @@
 		"release_date": "2003-02-14",
 		"title": "Daredevil",
 		"video": false,
-		"vote_average": 5.2,
+		"vote_average": 5.3,
 		"slug": "daredevil",
 		"tags": [
 			"movie",
@@ -5303,7 +5303,7 @@
 		"release_date": "1989-05-07",
 		"title": "The Trial of the Incredible Hulk",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.3,
 		"slug": "the-trial-of-the-incredible-hulk",
 		"tags": [
 			"list-8204862"
@@ -5714,7 +5714,7 @@
 		"release_date": "1977-11-04",
 		"title": "The Incredible Hulk",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.3,
 		"slug": "the-incredible-hulk",
 		"tags": [
 			"list-8204862"

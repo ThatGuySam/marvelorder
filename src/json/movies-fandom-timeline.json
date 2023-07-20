@@ -24600,6 +24600,21 @@
     "primeReferenceTitle": "Black Panther: Wakanda Forever"
   },
   {
+    "hash": "80284680-3304-5869-9788-7428e6c6ee86",
+    "timeDescription": "2024 April",
+    "timeDescriptionParts": {
+      "primary": "2024",
+      "secondary": "April",
+      "tertiary": ""
+    },
+    "textContent": "\n",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
+  },
+  {
     "hash": "861c7252-c434-5952-8515-4661825b66c3",
     "timeDescription": "2024 April",
     "timeDescriptionParts": {
@@ -28767,6 +28782,32 @@
       {
         "href": "/wiki/Secret_Invasion_Episode_1.04:_Beloved",
         "text": "Beloved",
+        "referenceType": "episode"
+      }
+    ],
+    "primeReferenceIndex": 0,
+    "primeReferenceTitle": "Secret Invasion"
+  },
+  {
+    "hash": "2577f7e0-fe04-5866-b01f-7fc770ac181c",
+    "timeDescription": "2026",
+    "timeDescriptionParts": {
+      "primary": "2026",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "After the failed attack on President Ritson, Pagon criticises Gravik for not killing Fury and accuses him of deceiving the other Skrulls. Gravik kills him in retaliation. Fury confronts Rhodes at the hospital, but the latter reveals that he has released the footage of Gravik killing Maria Hill as him to the public, placing Fury on a global watchlist. A group of Skrulls stage a mutiny against Gravik and attempt to kill him, but it fails and Gravik kills them all, including Beto. Fury meets up with G'iah, who reveals that Gravik is looking for something he called \"The Harvest\". Falsworth tracks down Dr. Rosa Dalton, a Skrull in disguise, and questions her about the DNA machine in New Skrullos. Rhodes shows Ritson pictures of New Skrullos, implicating Russia as supportive of the Skrull invasion, and advises a strike on the compound. Gravik calls Fury and offers to call off the strike if he brings him the Harvest in person. G'iah and Priscilla hold a funeral for Talos and are later ambushed by a group of Skrulls sent by Gravik. The pair successfully take down the group. In Finland, Fury leads Falsworth to a grave marked with his name, which contains the Harvest, and prepares to confront Gravik. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Secret_Invasion",
+        "text": "Secret Invasion",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Secret_Invasion_Episode_1.05:_Harvest",
+        "text": "Harvest",
         "referenceType": "episode"
       }
     ],
