@@ -33,7 +33,7 @@ poster_path: /5B4z5Ch5Dek8hQJ7UlIVZgWLntV.jpg
     "release_date": "1978-09-06",
     "title": "Dr. Strange",
     "video": false,
-    "vote_average": 6.1,
+    "vote_average": 6,
     "slug": "dr-strange",
     "tags": [
         "list-8204862"

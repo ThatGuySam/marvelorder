@@ -482,25 +482,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [],
-		"id": 1153408,
-		"original_language": "en",
-		"original_title": "X-Men Collection",
-		"overview": "X-Men is an American superhero film series based on the Marvel Comics superhero team of the same name. This 20th Century Fox universe started with X-Men (2000) and is set to end with Deadpool 3 (2024), where it will transition to the MCU.",
-		"poster_path": "/hPAX0pvqzX9pYrnKLRofCtGl9A4.jpg",
-		"release_date": "",
-		"title": "X-Men Collection",
-		"video": false,
-		"vote_average": 0,
-		"slug": "x-men-collection",
-		"tags": [
-			"movie",
-			"company-7505"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": "/jqFC2WjYF07hx2X7cs0XmY9jBX6.jpg",
 		"genre_ids": [
 			28,
@@ -747,7 +728,7 @@
 		"release_date": "2023-07-19",
 		"title": "Marvel Studios Assembled: The Making of Ant-Man and the Wasp: Quantumania",
 		"video": false,
-		"vote_average": 0,
+		"vote_average": 5,
 		"slug": "marvel-studios-assembled-the-making-of-ant-man-and-the-wasp-quantumania",
 		"tags": [
 			"movie",
@@ -770,7 +751,7 @@
 		"original_language": "en",
 		"original_name": "Secret Invasion",
 		"overview": "Nick Fury and Talos discover a faction of shapeshifting Skrulls who have been infiltrating Earth for years.",
-		"poster_path": "/3rINdUPSy9AklJg74jWHOyUXuZd.jpg",
+		"poster_path": "/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg",
 		"vote_average": 7.9,
 		"title": "Secret Invasion",
 		"slug": "secret-invasion",
@@ -1947,7 +1928,7 @@
 		"release_date": "2019-09-17",
 		"title": "Peter's To-Do List",
 		"video": false,
-		"vote_average": 6.9,
+		"vote_average": 6.8,
 		"slug": "peters-to-do-list",
 		"tags": [
 			"movie",
@@ -5345,7 +5326,7 @@
 		"original_language": "en",
 		"original_title": "Howard the Duck",
 		"overview": "A scientific experiment unknowingly brings extraterrestrial life forms to the Earth through a laser beam. First is the cigar smoking drake Howard from the duck's planet. A few kids try to keep him from the greedy scientists and help him back to his planet. But then a much less friendly being arrives through the beam...",
-		"poster_path": "/30tnH0hy6S5FjGCfCdnkBd3wqS2.jpg",
+		"poster_path": "/eU0dWo8PJgsSAZFbcyHiUpuLSyW.jpg",
 		"release_date": "1986-08-01",
 		"title": "Howard the Duck",
 		"video": false,
@@ -5545,7 +5526,7 @@
 		"release_date": "1978-09-06",
 		"title": "Dr. Strange",
 		"video": false,
-		"vote_average": 6.1,
+		"vote_average": 6,
 		"slug": "dr-strange",
 		"tags": [
 			"list-8204862"
