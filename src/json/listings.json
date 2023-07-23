@@ -728,7 +728,7 @@
 		"release_date": "2023-07-19",
 		"title": "Marvel Studios Assembled: The Making of Ant-Man and the Wasp: Quantumania",
 		"video": false,
-		"vote_average": 5,
+		"vote_average": 5.3,
 		"slug": "marvel-studios-assembled-the-making-of-ant-man-and-the-wasp-quantumania",
 		"tags": [
 			"movie",
@@ -1628,6 +1628,28 @@
 		]
 	},
 	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			28,
+			18
+		],
+		"id": 1155057,
+		"original_language": "en",
+		"original_title": "The Falcon and the Winter Soldier",
+		"overview": "Following the events of 'Avengers: Endgame,' Sam Wilson/Falcon and Bucky Barnes/Winter Soldier team up in a global adventure that tests their abilities -- and their patience. This is a fan edit turning the series into a feature length film.",
+		"poster_path": "/9h12TRUonRl1SHO3kQZoYVvuCFp.jpg",
+		"release_date": "2021-06-16",
+		"title": "The Falcon and the Winter Soldier",
+		"video": false,
+		"vote_average": 0,
+		"slug": "the-falcon-and-the-winter-soldier",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
 		"backdrop_path": "/p7PLOCD4bqLV4sJmeLrwvkufHt3.jpg",
 		"first_air_date": "2021-06-09",
 		"genre_ids": [
@@ -2180,7 +2202,7 @@
 		"original_language": "en",
 		"original_title": "Ant-Man and the Wasp",
 		"overview": "Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.",
-		"poster_path": "/6KFB9nRiC8gSrV5J5Wjf7zRIJYm.jpg",
+		"poster_path": "/2mnK5VtjzYRWvQB1zLhZWtAJwzk.jpg",
 		"release_date": "2018-07-04",
 		"title": "Ant-Man and the Wasp",
 		"video": false,
@@ -3127,7 +3149,7 @@
 		"release_date": "2014-11-04",
 		"title": "Marvel: 75 Years, From Pulp to Pop!",
 		"video": false,
-		"vote_average": 6.9,
+		"vote_average": 6.8,
 		"slug": "marvel-75-years-from-pulp-to-pop",
 		"tags": [
 			"movie",
@@ -5064,7 +5086,7 @@
 		"release_date": "1996-12-20",
 		"title": "Generation X",
 		"video": false,
-		"vote_average": 4,
+		"vote_average": 3.9,
 		"slug": "generation-x",
 		"tags": [
 			"list-8204860",
