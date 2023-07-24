@@ -774,7 +774,7 @@
 		"release_date": "2023-06-16",
 		"title": "Stan Lee",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7.2,
 		"slug": "stan-lee",
 		"tags": [
 			"movie",
@@ -1161,7 +1161,7 @@
 		"release_date": "2022-08-03",
 		"title": "Marvel Studios Assembled: The Making of Ms. Marvel",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 7.1,
 		"slug": "marvel-studios-assembled-the-making-of-ms-marvel",
 		"tags": [
 			"movie",
@@ -1185,7 +1185,7 @@
 		"release_date": "2022-07-18",
 		"title": "Magnum Opus",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 7.3,
 		"slug": "magnum-opus",
 		"tags": [
 			"movie",
@@ -1622,28 +1622,6 @@
 		"video": false,
 		"vote_average": 7.3,
 		"slug": "black-widow",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
-			28,
-			18
-		],
-		"id": 1155057,
-		"original_language": "en",
-		"original_title": "The Falcon and the Winter Soldier",
-		"overview": "Following the events of 'Avengers: Endgame,' Sam Wilson/Falcon and Bucky Barnes/Winter Soldier team up in a global adventure that tests their abilities -- and their patience. This is a fan edit turning the series into a feature length film.",
-		"poster_path": "/9h12TRUonRl1SHO3kQZoYVvuCFp.jpg",
-		"release_date": "2021-06-16",
-		"title": "The Falcon and the Winter Soldier",
-		"video": false,
-		"vote_average": 0,
-		"slug": "the-falcon-and-the-winter-soldier",
 		"tags": [
 			"movie",
 			"company-420"
@@ -5094,7 +5072,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/4QNBIgt5fwgNCN3OSU6BTFv0NGR.jpg",
+		"backdrop_path": "/yVS0mwGHf1NxiP3thnYNG0QK3sz.jpg",
 		"first_air_date": "1994-11-19",
 		"genre_ids": [
 			16,
@@ -5109,7 +5087,7 @@
 		"original_language": "en",
 		"original_name": "Spider-Man",
 		"overview": "Bitten by a radioactive spider, Peter Parker develops spider-like superpowers. He uses these to fight crime while trying to balance it with the struggles of his personal life.",
-		"poster_path": "/1BX1HZZqDoLDx9Ry4oET6dA9293.jpg",
+		"poster_path": "/AsDMNZ2LtBQlN6WeS2YsWXL7dEX.jpg",
 		"vote_average": 8.3,
 		"title": "Spider-Man",
 		"slug": "spider-man",
