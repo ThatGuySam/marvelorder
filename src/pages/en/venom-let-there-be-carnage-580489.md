@@ -32,7 +32,7 @@ mcuTimelineOrder: 512
     "release_date": "2021-09-30",
     "title": "Venom: Let There Be Carnage",
     "video": false,
-    "vote_average": 6.9,
+    "vote_average": 6.8,
     "slug": "venom-let-there-be-carnage",
     "tags": [
         "movie",
