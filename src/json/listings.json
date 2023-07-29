@@ -279,29 +279,6 @@
 		"adult": false,
 		"backdrop_path": null,
 		"genre_ids": [
-			878,
-			28,
-			12,
-			53
-		],
-		"id": 912649,
-		"original_language": "en",
-		"original_title": "Venom 3",
-		"overview": "The third entry in the Venom trilogy confirmed to be in development by Amy Pascal.",
-		"poster_path": null,
-		"title": "Venom 3",
-		"video": false,
-		"vote_average": 0,
-		"slug": "venom-3",
-		"tags": [
-			"movie",
-			"company-7505"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
 			28,
 			14,
 			12
@@ -386,11 +363,11 @@
 		"genre_ids": [],
 		"id": 1062465,
 		"original_language": "en",
-		"original_title": "Hypno-Hustler ",
+		"original_title": "Hypno-Hustler",
 		"overview": "Comic book movie centered on the villainous Spider-Man character, Hypno-Hustler.",
 		"poster_path": null,
 		"release_date": "",
-		"title": "Hypno-Hustler ",
+		"title": "Hypno-Hustler",
 		"video": false,
 		"vote_average": 0,
 		"slug": "hypno-hustler",
@@ -616,6 +593,30 @@
 		"tags": [
 			"movie",
 			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			878,
+			28,
+			12,
+			53
+		],
+		"id": 912649,
+		"original_language": "en",
+		"original_title": "Venom 3",
+		"overview": "The third entry in the Venom trilogy confirmed to be in development by Amy Pascal.",
+		"poster_path": null,
+		"release_date": "2024-07-12",
+		"title": "Venom 3",
+		"video": false,
+		"vote_average": 0,
+		"slug": "venom-3",
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -1628,7 +1629,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/p7PLOCD4bqLV4sJmeLrwvkufHt3.jpg",
+		"backdrop_path": "/bZGAX8oMDm3Mo5i0ZPKh9G2OcaO.jpg",
 		"first_air_date": "2021-06-09",
 		"genre_ids": [
 			18,
@@ -2067,7 +2068,7 @@
 		"release_date": "2019-03-06",
 		"title": "Captain Marvel",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.9,
 		"slug": "captain-marvel",
 		"tags": [
 			"movie",
@@ -4129,7 +4130,7 @@
 		"original_language": "en",
 		"original_name": "Black Panther",
 		"overview": "Deep in the heart of Africa lies Wakanda, an advanced and unconquerable civilization. A family of warrior kings possessing superior speed, strength and agility has governed this mysterious nation as long as time itself. The latest in this famed line is young King T’Challa, the great hero known worldwide as the Black Panther. Now, outsiders once again threaten to invade and plunder Wakanda.",
-		"poster_path": "/3ceDcLkeK3egaqg3AVnqpn6L638.jpg",
+		"poster_path": "/op1gn2mK4ohZfhpKj92KEbwvc9C.jpg",
 		"vote_average": 6.8,
 		"title": "Black Panther",
 		"slug": "black-panther",
