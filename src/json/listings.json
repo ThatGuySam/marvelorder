@@ -31,17 +31,17 @@
 			10765
 		],
 		"id": 117985,
-		"name": "Wakanda",
+		"name": "Untitled Wakanda Series",
 		"origin_country": [
 			"US"
 		],
 		"original_language": "en",
-		"original_name": "Wakanda",
+		"original_name": "Untitled Wakanda Series",
 		"overview": "Upcoming Marvel Cinematic Universe series set in the Kingdom of Wakanda.",
-		"poster_path": "/11TUhoCtaNuyPM8s31bODODs44f.jpg",
+		"poster_path": null,
 		"vote_average": 0,
-		"title": "Wakanda",
-		"slug": "wakanda",
+		"title": "Untitled Wakanda Series",
+		"slug": "untitled-wakanda-series",
 		"tags": [
 			"tv",
 			"company-420"
@@ -437,28 +437,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/pCSRKGtM6uqZWvRm59SyEo088sz.jpg",
-		"genre_ids": [
-			18,
-			99
-		],
-		"id": 1151654,
-		"original_language": "en",
-		"original_title": "Big Hats",
-		"overview": "A posh British man is looking for a new hat. He comes across a shop named 'Big Hats' and buys a hat, but seems to get angry with the person behind the counter.",
-		"poster_path": "/an10vEGoa9QVE1ya0iqdHhnkwLU.jpg",
-		"release_date": "",
-		"title": "Big Hats",
-		"video": false,
-		"vote_average": 10,
-		"slug": "big-hats",
-		"tags": [
-			"movie",
-			"company-7505"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": "/jqFC2WjYF07hx2X7cs0XmY9jBX6.jpg",
 		"genre_ids": [
 			28,
@@ -631,7 +609,7 @@
 		"original_language": "en",
 		"original_title": "Deadpool 3",
 		"overview": "The third installment in the Deadpool franchise.",
-		"poster_path": "/n7irNMnCUzZhgF5gQJ80x2oURBE.jpg",
+		"poster_path": "/4gdqWCVvidYR0pOHuVOqFundbUG.jpg",
 		"release_date": "2024-04-30",
 		"title": "Deadpool 3",
 		"video": false,
@@ -729,7 +707,7 @@
 		"release_date": "2023-07-19",
 		"title": "Marvel Studios Assembled: The Making of Ant-Man and the Wasp: Quantumania",
 		"video": false,
-		"vote_average": 5.5,
+		"vote_average": 5.8,
 		"slug": "marvel-studios-assembled-the-making-of-ant-man-and-the-wasp-quantumania",
 		"tags": [
 			"movie",
@@ -4799,7 +4777,7 @@
 		"release_date": "2003-02-14",
 		"title": "Daredevil",
 		"video": false,
-		"vote_average": 5.2,
+		"vote_average": 5.3,
 		"slug": "daredevil",
 		"tags": [
 			"movie",
@@ -5550,7 +5528,7 @@
 		"release_date": "1978-07-22",
 		"title": "Spider-Man",
 		"video": false,
-		"vote_average": 5.7,
+		"vote_average": 5.9,
 		"slug": "spider-man",
 		"tags": [
 			"list-8204862"
