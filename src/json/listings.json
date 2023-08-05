@@ -682,7 +682,7 @@
 		"original_language": "en",
 		"original_title": "The Marvels",
 		"overview": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
-		"poster_path": "/yMZVEIsdrCg6Uo2soejiIdgPeLk.jpg",
+		"poster_path": "/3Wt72AVKhWBwVgurzdKvDmyKQGj.jpg",
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
@@ -1604,6 +1604,29 @@
 		"tags": [
 			"movie",
 			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/708m7sERbCF4S4yclm1nK6tHtve.jpg",
+		"genre_ids": [
+			16,
+			35,
+			10751
+		],
+		"id": 846214,
+		"original_language": "en",
+		"original_title": "The Simpsons: The Good, the Bart, and the Loki",
+		"overview": "Loki is banished from Asgard once again and must face his toughest opponents yet: the Simpsons and Springfield’s mightiest heroes. The God of Mischief teams up with Bart Simpson in the ultimate crossover event paying tribute to the Marvel Cinematic Universe of superheroes and villains.",
+		"poster_path": "/rtMdtzywcAGOrF6t8fbxJBqpdcq.jpg",
+		"release_date": "2021-07-07",
+		"title": "The Simpsons: The Good, the Bart, and the Loki",
+		"video": false,
+		"vote_average": 7.3,
+		"slug": "the-simpsons-the-good-the-bart-and-the-loki",
+		"tags": [
+			"movie",
+			"company-38679"
 		]
 	},
 	{
@@ -2573,7 +2596,7 @@
 		"original_name": "Marvel's Rocket & Groot",
 		"overview": "Before becoming Guardians of the Galaxy, Rocket and Groot were bounty hunters trying to get a ship.",
 		"poster_path": "/7FHJr40MPFwtHrOyOD9buQDoVcs.jpg",
-		"vote_average": 7.1,
+		"vote_average": 7,
 		"title": "Marvel's Rocket & Groot",
 		"slug": "marvels-rocket-and-groot",
 		"tags": [
@@ -3741,7 +3764,7 @@
 		"original_name": "Fury Files",
 		"overview": "The mysterious Fury gives viewers top-secret access to S.H.I.E.L.D. intel on key Marvel heroes and villains by bringing together a mix of animation and motion comic art.",
 		"poster_path": "/fEpnfXuukOOkZTbJh6qylrdahbu.jpg",
-		"vote_average": 5.3,
+		"vote_average": 5.5,
 		"title": "Fury Files",
 		"slug": "fury-files",
 		"tags": [
@@ -4646,7 +4669,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/8HMHE8VpkWOTmkm3c9QyEL6h1cP.jpg",
+		"backdrop_path": "/6al048Lat3eLVQOuKtc9h6Tu94d.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -4786,7 +4809,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/no2cllXSRA56LPipQnuPlg3RuTL.jpg",
+		"backdrop_path": "/jHxCeXnSchAuwHnmVatTgqMYdX8.jpg",
 		"genre_ids": [
 			14,
 			28
