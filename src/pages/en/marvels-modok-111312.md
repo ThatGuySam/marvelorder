@@ -35,7 +35,7 @@ watchLinks:
     "original_name": "Marvel's M.O.D.O.K.",
     "overview": "The megalomaniacal supervillain M.O.D.O.K. has long pursued his dream of one day conquering the world. But after years of setbacks and failures fighting the Earth’s mightiest heroes, M.O.D.O.K. has run his evil organization A.I.M. into the ground. Ousted as A.I.M.’s leader, while also dealing with his crumbling marriage and family life, the Mental Organism Designed Only for Killing is set to confront his greatest challenge yet: a midlife crisis!",
     "poster_path": "/dOOFAtzsRQ641p2NL4s4nyThJSO.jpg",
-    "vote_average": 6.8,
+    "vote_average": 6.9,
     "title": "Marvel's M.O.D.O.K.",
     "slug": "marvels-modok",
     "tags": [
