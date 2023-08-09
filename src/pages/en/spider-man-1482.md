@@ -25,7 +25,7 @@ watchLinks:
 ## TMDB Data
 ```json
 {
-    "backdrop_path": "/nVKaObLEsiPyqfmrPXW4BW1MT3n.jpg",
+    "backdrop_path": "/1bgzyCmDxChY74CeQD9SydZ6Vzl.jpg",
     "first_air_date": "1967-09-09",
     "genre_ids": [
         10762,
