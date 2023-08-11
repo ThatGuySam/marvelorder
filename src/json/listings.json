@@ -319,6 +319,29 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": "/jqFC2WjYF07hx2X7cs0XmY9jBX6.jpg",
+		"genre_ids": [
+			28,
+			878
+		],
+		"id": 1003598,
+		"original_language": "en",
+		"original_title": "Avengers: Secret Wars",
+		"overview": "An upcoming film in the Marvel Cinematic Universe's sixth Phase and the finale of The Multiverse Saga. Plot unknown.",
+		"poster_path": "/8chwENebfUEJzZ7sMUA0nOgiCKk.jpg",
+		"title": "Avengers: Secret Wars",
+		"video": false,
+		"vote_average": 0,
+		"slug": "avengers-secret-wars",
+		"tags": [
+			"movie",
+			"company-420",
+			"list-8204859"
+		],
+		"media_type": "movie"
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/h7BU4fdLjF8ly8NF8mJ4hAQOLKU.jpg",
 		"genre_ids": [
 			878,
@@ -418,49 +441,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [],
-		"id": 1126652,
-		"original_language": "en",
-		"original_title": "Mephisto",
-		"overview": "A Disney+ Halloween special centered around Mephisto from Marvel Comics.",
-		"poster_path": null,
-		"release_date": "",
-		"title": "Mephisto",
-		"video": false,
-		"vote_average": 0,
-		"slug": "mephisto",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/jqFC2WjYF07hx2X7cs0XmY9jBX6.jpg",
-		"genre_ids": [
-			28,
-			878
-		],
-		"id": 1003598,
-		"original_language": "en",
-		"original_title": "Avengers: Secret Wars",
-		"overview": "An upcoming film in the Marvel Cinematic Universe's sixth Phase and the finale of The Multiverse Saga. Plot unknown.",
-		"poster_path": "/8chwENebfUEJzZ7sMUA0nOgiCKk.jpg",
-		"release_date": "2027-05-05",
-		"title": "Avengers: Secret Wars",
-		"video": false,
-		"vote_average": 0,
-		"slug": "avengers-secret-wars",
-		"tags": [
-			"movie",
-			"company-420",
-			"list-8204859"
-		],
-		"media_type": "movie"
-	},
-	{
-		"adult": false,
 		"backdrop_path": "/uR952NrgispGuyqIdUbkR24vE0u.jpg",
 		"genre_ids": [
 			28,
@@ -539,7 +519,7 @@
 		"original_language": "en",
 		"original_title": "Thunderbolts",
 		"overview": "A world without Avengers doesn't mean there's not a group of superheroes. There is a group and they're called the Thunderbolts.",
-		"poster_path": "/9pKEuYSgEoQQwwngJXgeNOnJjr.jpg",
+		"poster_path": "/81yNacACk75yFfX1foZSILakeT1.jpg",
 		"release_date": "2024-12-18",
 		"title": "Thunderbolts",
 		"video": false,
@@ -710,7 +690,7 @@
 		"original_language": "en",
 		"original_name": "I Am Groot",
 		"overview": "There’s no guarding the galaxy from this mischievous toddler! Get ready as Baby Groot takes center stage in his very own collection of shorts, exploring his glory days growing up and getting into trouble among the stars.",
-		"poster_path": "/lNKkHTsjeVddRIq1XZ7kmtwtaZG.jpg",
+		"poster_path": "/3QfQYECgu6DX5UUWCBvv1Fl0BAJ.jpg",
 		"vote_average": 0,
 		"title": "I Am Groot",
 		"slug": "i-am-groot",
@@ -960,7 +940,7 @@
 		"release_date": "2022-11-04",
 		"title": "Director by Night",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.3,
 		"slug": "director-by-night",
 		"tags": [
 			"movie",
@@ -1766,7 +1746,7 @@
 		"release_date": "2021-02-12",
 		"title": "Marvel's Behind the Mask",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 7.1,
 		"slug": "marvels-behind-the-mask",
 		"tags": [
 			"movie",
@@ -4466,7 +4446,7 @@
 		"original_language": "en",
 		"original_title": "The Invincible Iron Man",
 		"overview": "When a cocky industrialist's efforts to raise an ancient Chinese temple leads him to be seriously wounded and captured by enemy forces, he must use his ideas for a revolutionary power armor in order to fight back as a superhero.",
-		"poster_path": "/zXqIpOmSUqoeq9GLX5j6gtqlMgf.jpg",
+		"poster_path": "/eebNTSRa5Hh5skPKGdGJIJpo9Ls.jpg",
 		"release_date": "2007-01-23",
 		"title": "The Invincible Iron Man",
 		"video": false,
@@ -4757,7 +4737,7 @@
 		"original_name": "Spider-Man: The New Animated Series",
 		"overview": "Spider-Man: The New Animated Series is an American animated series based on the Marvel comic book superhero character Spider-Man, which ran for one season, 13 episodes, starting on July 11, 2003. It is a loose continuation of 2002's Spider-Man film directed by Sam Raimi. The show was made using computer generated imagery rendered in cel shading and was broadcast on MTV, and YTV. Eight months later after the series finale, episodes aired in reruns on ABC Family as part of the Jetix television programming block. The series featured a far more mature version of the character than typically seen on television for any animated comic book adaptation. Throughout the series, characters are clearly killed, rather than the usual ambiguous disappearance, and several characters are strongly implied to have had sex.",
 		"poster_path": "/z4CRC612QrGrC1kLtDm8ykLeIrs.jpg",
-		"vote_average": 7.2,
+		"vote_average": 7.1,
 		"title": "Spider-Man: The New Animated Series",
 		"slug": "spider-man-the-new-animated-series",
 		"tags": [

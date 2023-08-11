@@ -20,7 +20,7 @@ logo_on_black: /.netlify/functions/tmdb-image/dHhniU1vz1C0j27AFdcsPmq6xu.webp
     "original_language": "en",
     "original_title": "Thunderbolts",
     "overview": "A world without Avengers doesn't mean there's not a group of superheroes. There is a group and they're called the Thunderbolts.",
-    "poster_path": "/9pKEuYSgEoQQwwngJXgeNOnJjr.jpg",
+    "poster_path": "/81yNacACk75yFfX1foZSILakeT1.jpg",
     "release_date": "2024-12-18",
     "title": "Thunderbolts",
     "video": false,
