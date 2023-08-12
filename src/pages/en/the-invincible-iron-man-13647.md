@@ -27,7 +27,7 @@ watchLinks:
     "original_language": "en",
     "original_title": "The Invincible Iron Man",
     "overview": "When a cocky industrialist's efforts to raise an ancient Chinese temple leads him to be seriously wounded and captured by enemy forces, he must use his ideas for a revolutionary power armor in order to fight back as a superhero.",
-    "poster_path": "/zXqIpOmSUqoeq9GLX5j6gtqlMgf.jpg",
+    "poster_path": "/eebNTSRa5Hh5skPKGdGJIJpo9Ls.jpg",
     "release_date": "2007-01-23",
     "title": "The Invincible Iron Man",
     "video": false,

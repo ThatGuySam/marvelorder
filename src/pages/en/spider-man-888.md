@@ -29,7 +29,7 @@ watchLinks:
     "original_language": "en",
     "original_name": "Spider-Man",
     "overview": "Bitten by a radioactive spider, Peter Parker develops spider-like superpowers. He uses these to fight crime while trying to balance it with the struggles of his personal life.",
-    "poster_path": "/1BX1HZZqDoLDx9Ry4oET6dA9293.jpg",
+    "poster_path": "/peN9aqevr0edVoctVKGZDWFdTRl.jpg",
     "vote_average": 8.3,
     "title": "Spider-Man",
     "slug": "spider-man",

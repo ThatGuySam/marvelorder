@@ -23,7 +23,7 @@ logo_on_black: /.netlify/functions/tmdb-image/7x61rNltpwfCRHuE5iqL6PIy4oR.webp
     ],
     "original_language": "en",
     "original_name": "Spider-Man: Freshman Year",
-    "overview": "Follow Peter Parker on his way to becoming Spider-Man in the MCU, with a journey unlike we've ever seen.",
+    "overview": "Follow Peter Parker on his way to becoming Spider-Man, with a journey unlike any we've ever seen.",
     "poster_path": "/7ecqjxf49CaTsqQFIUd1iceoXZB.jpg",
     "vote_average": 0,
     "title": "Spider-Man: Freshman Year",
@@ -33,4 +33,5 @@ logo_on_black: /.netlify/functions/tmdb-image/7x61rNltpwfCRHuE5iqL6PIy4oR.webp
         "company-420"
     ]
 }
+
 ```

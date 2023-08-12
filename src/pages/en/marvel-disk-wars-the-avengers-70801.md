@@ -29,7 +29,7 @@ watchLinks:
     "original_name": "ディスク・ウォーズ:アベンジャーズ",
     "overview": "A group of teenagers join forces with the Avengers, Earth's mightiest heroes, to fight against the tyrannical Loki and his mighty empire.",
     "poster_path": "/6wQAZaWSvBJOIIt68cqmC0KJjeE.jpg",
-    "vote_average": 6.3,
+    "vote_average": 6.5,
     "title": "Marvel Disk Wars: The Avengers",
     "slug": "marvel-disk-wars-the-avengers",
     "tags": [

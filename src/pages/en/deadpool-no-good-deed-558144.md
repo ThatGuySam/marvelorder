@@ -13,7 +13,7 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/aLGAH12ubqzXmGcjansziJTeIZ9.jpg",
+    "backdrop_path": null,
     "genre_ids": [
         28,
         35,
@@ -28,7 +28,7 @@ watchLinks:
     "release_date": "2017-03-03",
     "title": "Deadpool: No Good Deed",
     "video": false,
-    "vote_average": 7.2,
+    "vote_average": 7.1,
     "slug": "deadpool-no-good-deed",
     "tags": [
         "list-8204860"

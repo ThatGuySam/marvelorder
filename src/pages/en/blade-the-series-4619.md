@@ -35,7 +35,7 @@ watchLinks:
     "original_name": "Blade: The Series",
     "overview": "Blade is a half-man, half-vampire who employs his extraordinary powers in a crusade to save mankind from the demonic creatures who walk the night. Set in Detroit, Blade investigates the vampire house of Chthon. Along the way he forms an uneasy alliance with Krista Starr, a former military veteran who becomes entrenched in the world of vampires while investigating the murder of her twin brother.",
     "poster_path": "/xthJ8MoYaJROntPHaI5mUrXd4Qs.jpg",
-    "vote_average": 6.8,
+    "vote_average": 6.7,
     "title": "Blade: The Series",
     "slug": "blade-the-series",
     "tags": [

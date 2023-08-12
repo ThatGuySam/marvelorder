@@ -16,7 +16,7 @@ watchLinks:
 ## TMDB Data
 ```json
 {
-    "backdrop_path": "/r1e0lDIsezrklektX82AetUHr5m.jpg",
+    "backdrop_path": "/uAE8hCBui1INPWMwkrJcTJGxbD0.jpg",
     "first_air_date": "2017-02-08",
     "genre_ids": [
         10759,

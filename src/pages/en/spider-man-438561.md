@@ -26,11 +26,11 @@ watchLinks:
     "original_language": "ja",
     "original_title": "スパイダーマン",
     "overview": "The Iron Cross Army are sabotaging oil-tankers with the help of their monster, the Sea-Devil, a semi-mechanical anthropomorphic swordfish with an ability to shoot torpedoes from its mouth. Spiderman employs the help of the interpol agent Juzo Mamiya to help him stop the Iron Cross Army.",
-    "poster_path": "/2g4ewSIYFSdkIWAxbXm1YW0FfEM.jpg",
+    "poster_path": "/hi98SQoZgxBMHmWsbhxyh5tNQcB.jpg",
     "release_date": "1978-07-22",
     "title": "Spider-Man",
     "video": false,
-    "vote_average": 5.7,
+    "vote_average": 5.9,
     "slug": "spider-man",
     "tags": [
         "list-8204862"

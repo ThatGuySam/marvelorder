@@ -21,7 +21,7 @@ type: movie
     "id": 634492,
     "original_language": "en",
     "original_title": "Madame Web",
-    "overview": "An origin story of the clairvoyant known as Madame Web, whose psychic abilities allow her to see within the spider world.",
+    "overview": "Madame Web is a clairvoyant whose psychic abilities allow her to see within the spider world itself. This is the story of how she came to be.",
     "poster_path": null,
     "release_date": "2024-02-14",
     "title": "Madame Web",
