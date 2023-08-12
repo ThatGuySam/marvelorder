@@ -83,6 +83,7 @@ export interface Listing {
     // ]
 }
 
+// https://amp.dev/documentation/components/websites/amp-img
 export interface WebStoryImage {
     props: {
         src: string
