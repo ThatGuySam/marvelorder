@@ -1,7 +1,6 @@
 import fs from 'fs-extra'
 import fetch from 'node-fetch'
 
-// import { JSDOM } from 'jsdom'
 import { v5 as uuidV5 } from 'uuid'
 import slugify from 'slugify'
 import { parseHTML } from 'linkedom'
@@ -27,10 +26,6 @@ import {
 } from '~/src/helpers/node/listing-files.ts'
 
 import { storePath } from '~/src/config.ts'
-
-function JSDOM ( html ) {
-    return parseHTML( html )
-}
 
 // Instantiate winkNLP.
 const nlp = winkNLP( winkEngModel )
@@ -321,7 +316,7 @@ class MarvelMoviesFandomTimeline {
         // Split at first index of )
         workingText = workingText.split( ')</small>' )[ 0 ]
 
-        const dom = new JSDOM( workingText )
+        const dom = parseHTML( workingText )
 
         const [ workingLink ] = dom.window.document.querySelectorAll( 'a' )
 
@@ -446,7 +441,7 @@ class MarvelMoviesFandomTimeline {
 
         const html = await this.getTimelineHTML()
 
-        const dom = new JSDOM( html )
+        const dom = parseHTML( html )
 
         const elements = dom.window.document.querySelectorAll( elementSelector )
 
