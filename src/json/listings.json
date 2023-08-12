@@ -319,29 +319,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/jqFC2WjYF07hx2X7cs0XmY9jBX6.jpg",
-		"genre_ids": [
-			28,
-			878
-		],
-		"id": 1003598,
-		"original_language": "en",
-		"original_title": "Avengers: Secret Wars",
-		"overview": "An upcoming film in the Marvel Cinematic Universe's sixth Phase and the finale of The Multiverse Saga. Plot unknown.",
-		"poster_path": "/8chwENebfUEJzZ7sMUA0nOgiCKk.jpg",
-		"title": "Avengers: Secret Wars",
-		"video": false,
-		"vote_average": 0,
-		"slug": "avengers-secret-wars",
-		"tags": [
-			"movie",
-			"company-420",
-			"list-8204859"
-		],
-		"media_type": "movie"
-	},
-	{
-		"adult": false,
 		"backdrop_path": "/h7BU4fdLjF8ly8NF8mJ4hAQOLKU.jpg",
 		"genre_ids": [
 			878,
@@ -406,7 +383,7 @@
 		"id": 1072946,
 		"original_language": "en",
 		"original_title": "Doctor Strange 3",
-		"overview": "Rumored sequel to Doctor Strange in the Multiverse of Madness.",
+		"overview": "Sequel to Doctor Strange in the Multiverse of Madness.",
 		"poster_path": null,
 		"release_date": "",
 		"title": "Doctor Strange 3",
@@ -438,6 +415,30 @@
 			"movie",
 			"company-420"
 		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/jqFC2WjYF07hx2X7cs0XmY9jBX6.jpg",
+		"genre_ids": [
+			28,
+			878
+		],
+		"id": 1003598,
+		"original_language": "en",
+		"original_title": "Avengers: Secret Wars",
+		"overview": "An upcoming film in the Marvel Cinematic Universe's sixth Phase and the finale of The Multiverse Saga. Plot unknown.",
+		"poster_path": "/8chwENebfUEJzZ7sMUA0nOgiCKk.jpg",
+		"release_date": "2027-05-07",
+		"title": "Avengers: Secret Wars",
+		"video": false,
+		"vote_average": 0,
+		"slug": "avengers-secret-wars",
+		"tags": [
+			"movie",
+			"company-420",
+			"list-8204859"
+		],
+		"media_type": "movie"
 	},
 	{
 		"adult": false,
@@ -519,7 +520,7 @@
 		"original_language": "en",
 		"original_title": "Thunderbolts",
 		"overview": "A world without Avengers doesn't mean there's not a group of superheroes. There is a group and they're called the Thunderbolts.",
-		"poster_path": "/81yNacACk75yFfX1foZSILakeT1.jpg",
+		"poster_path": "/dHhniU1vz1C0j27AFdcsPmq6xu.jpg",
 		"release_date": "2024-12-18",
 		"title": "Thunderbolts",
 		"video": false,
@@ -1464,7 +1465,7 @@
 		"release_date": "2021-11-12",
 		"title": "Marvel Studios' 2021 Disney+ Day Special",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 6.8,
 		"slug": "marvel-studios-2021-disney-day-special",
 		"tags": [
 			"movie",
@@ -2052,7 +2053,7 @@
 		"release_date": "2019-03-19",
 		"title": "Spider-Ham: Caught in a Ham",
 		"video": false,
-		"vote_average": 6.9,
+		"vote_average": 7,
 		"slug": "spider-ham-caught-in-a-ham",
 		"tags": [
 			"movie",
@@ -2240,7 +2241,7 @@
 		"release_date": "2018-06-04",
 		"title": "LEGO Marvel Super Heroes: Black Panther - Trouble in Wakanda",
 		"video": false,
-		"vote_average": 6.1,
+		"vote_average": 6,
 		"slug": "lego-marvel-super-heroes-black-panther-trouble-in-wakanda",
 		"tags": [
 			"movie",
@@ -2627,7 +2628,7 @@
 		"release_date": "2017-03-03",
 		"title": "Deadpool: No Good Deed",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 7.1,
 		"slug": "deadpool-no-good-deed",
 		"tags": [
 			"list-8204860"

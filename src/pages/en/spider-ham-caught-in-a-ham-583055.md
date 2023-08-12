@@ -30,7 +30,7 @@ watchLinks:
     "release_date": "2019-03-19",
     "title": "Spider-Ham: Caught in a Ham",
     "video": false,
-    "vote_average": 6.9,
+    "vote_average": 7,
     "slug": "spider-ham-caught-in-a-ham",
     "tags": [
         "movie",
