@@ -308,7 +308,7 @@ class MarvelMoviesFandomTimeline {
     }
 
     determinePrimeReference ( element ) {
-        // If there's no paranthesis then it's not a reference
+        // If there's no parenthesis then it's not a reference
         if ( !element.innerHTML.includes( '<small>(' ) ) {
             return ''
         }
@@ -327,7 +327,7 @@ class MarvelMoviesFandomTimeline {
 
         workingText = workingLink?.textContent ? workingLink.textContent : ''
 
-        // If there's paranthesis within the text then remove it
+        // If there's parenthesis within the text then remove it
         if ( workingText.includes( '(' ) ) {
             workingText = workingText.split( '(' )[ 0 ]
         }
