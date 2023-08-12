@@ -100,6 +100,15 @@ export interface WebStoryText {
         className?: string
     }
 }
+
+export interface WebStoryLink {
+    text: string
+    tagName: 'a'
+    props: {
+        href: `https://${ string }`
+        className?: string
+    }
+}
 export interface WebStoryLayer {
     props: {
         template: string
@@ -107,8 +116,9 @@ export interface WebStoryLayer {
     }
 
     elements: Array<
-    WebStoryImage |
-    WebStoryText
+    WebStoryImage
+    | WebStoryText
+    | WebStoryLink
     >
 }
 
