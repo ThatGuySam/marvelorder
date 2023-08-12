@@ -340,7 +340,7 @@ class MarvelMoviesFandomTimeline {
 
         for ( const listItem of listItems ) {
             // Skip if it's a list item with no text
-            if ( !listItem.textContent ) {
+            if ( !listItem.textContent || listItem.textContent.trim() === '' ) {
                 continue
             }
 
