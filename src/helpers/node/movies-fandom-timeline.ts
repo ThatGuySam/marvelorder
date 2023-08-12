@@ -163,7 +163,7 @@ export interface MarvelMoviesFandomTimelineEntry {
     hash: string
     timeDescription: string
     timeline: string
-    sourceUrl: string
+    sourceUrl: `https://${ string }`
     referenceLinks: Array<{
         href: string
         text: string
