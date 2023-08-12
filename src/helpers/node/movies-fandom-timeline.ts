@@ -2,7 +2,7 @@ import fs from 'fs-extra'
 import fetch from 'node-fetch'
 
 // import { JSDOM } from 'jsdom'
-import { v5 as uuidv5 } from 'uuid'
+import { v5 as uuidV5 } from 'uuid'
 import slugify from 'slugify'
 import { parseHTML } from 'linkedom'
 
@@ -79,7 +79,7 @@ function hashString ( textContent: string ) {
     // Omit non-alphanumeric characters
     textContent = textContent.replace( /[^a-z0-9]/gi, '' )
 
-    return uuidv5( textContent, DEFAULT_HASH_NAMESPACE )
+    return uuidV5( textContent, DEFAULT_HASH_NAMESPACE )
 }
 
 // Remove any link brackets from the headings
