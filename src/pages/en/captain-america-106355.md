@@ -27,7 +27,7 @@ watchLinks:
     "original_language": "en",
     "original_title": "Captain America",
     "overview": "Superhero Captain America battles the evil forces of the archvillain called The Scarab, who poisons his enemies and steals a secret device capable of destroying buildings by sound vibrations.",
-    "poster_path": "/nBRcChS66NohR3x6KVYMp6Obutt.jpg",
+    "poster_path": "/b15xz96lSiH1JC7uYKofXJz0HTD.jpg",
     "release_date": "1944-02-05",
     "title": "Captain America",
     "video": false,
