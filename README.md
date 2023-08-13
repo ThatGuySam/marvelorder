@@ -77,7 +77,6 @@ This is the *most* official list for the Marvel Chronologically, aka by the time
 ## Upcoming
 <!-- start-upcoming-list -->
 
-- September 1, 2023 - [Ironheart](https://marvelorder.com/en/ironheart-114471) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/ironheart-114471.md)
 - September 6, 2023 - [I Am Groot](https://marvelorder.com/en/i-am-groot-232125) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/i-am-groot-232125.md)
 - October 4, 2023 - [Kraven the Hunter](https://marvelorder.com/en/kraven-the-hunter-539972) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/kraven-the-hunter-539972.md)
 - November 1, 2023 - [Agatha: Coven of Chaos](https://marvelorder.com/en/agatha-house-of-harkness-138501) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/agatha-house-of-harkness-138501.md)
