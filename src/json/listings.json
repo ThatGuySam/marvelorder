@@ -360,11 +360,13 @@
 	{
 		"adult": false,
 		"backdrop_path": null,
-		"genre_ids": [],
+		"genre_ids": [
+			28
+		],
 		"id": 1062465,
 		"original_language": "en",
 		"original_title": "Hypno-Hustler",
-		"overview": "Comic book movie centered on the villainous Spider-Man character, Hypno-Hustler.",
+		"overview": "Hypno-Hustler is an upcoming superhero film based on the Marvel Comics character of the same name.",
 		"poster_path": null,
 		"release_date": "",
 		"title": "Hypno-Hustler",
@@ -3727,7 +3729,7 @@
 		"release_date": "2012-07-16",
 		"title": "The Punisher: Dirty Laundry",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 7.1,
 		"slug": "the-punisher-dirty-laundry",
 		"tags": [
 			"list-8204859"
@@ -5607,7 +5609,7 @@
 		"original_name": "The Amazing Spider-Man",
 		"overview": "The first live-action TV series based on the popular comic book.",
 		"poster_path": "/kUTCJhSnH3Dt0KVzcQp8DnbmsjN.jpg",
-		"vote_average": 6,
+		"vote_average": 5.8,
 		"title": "The Amazing Spider-Man",
 		"slug": "the-amazing-spider-man",
 		"tags": [
