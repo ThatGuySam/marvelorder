@@ -443,6 +443,29 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			28,
+			12,
+			14
+		],
+		"id": 1168436,
+		"original_language": "en",
+		"original_title": "Eternals 2",
+		"overview": "",
+		"poster_path": null,
+		"release_date": "",
+		"title": "Eternals 2",
+		"video": false,
+		"vote_average": 0,
+		"slug": "eternals-2",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/jqFC2WjYF07hx2X7cs0XmY9jBX6.jpg",
 		"genre_ids": [
 			28,
@@ -592,7 +615,7 @@
 		"original_title": "Venom 3",
 		"overview": "The third entry in the Venom trilogy confirmed to be in development by Amy Pascal.",
 		"poster_path": null,
-		"release_date": "2024-07-12",
+		"release_date": "2024-07-11",
 		"title": "Venom 3",
 		"video": false,
 		"vote_average": 0,
@@ -2047,7 +2070,7 @@
 		"release_date": "2019-06-28",
 		"title": "Spider-Man: Far From Home",
 		"video": false,
-		"vote_average": 7.5,
+		"vote_average": 7.4,
 		"slug": "spider-man-far-from-home",
 		"tags": [
 			"movie",
@@ -4873,7 +4896,7 @@
 		"release_date": "2003-02-14",
 		"title": "Daredevil",
 		"video": false,
-		"vote_average": 5.2,
+		"vote_average": 5.3,
 		"slug": "daredevil",
 		"tags": [
 			"movie",
