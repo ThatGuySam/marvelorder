@@ -19,7 +19,8 @@ backdrop_path: /3WRvDj6od3V6PB90LXFthFLBJmL.jpg
     "first_air_date": "1999-10-02",
     "genre_ids": [
         16,
-        10759
+        10759,
+        10765
     ],
     "id": 10079,
     "name": "Spider-Man Unlimited",
