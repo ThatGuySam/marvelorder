@@ -346,7 +346,7 @@
 		"original_language": "en",
 		"original_title": "Black Panther 3",
 		"overview": "Rumored third installment in Marvel Studios’ Black Panther franchise.",
-		"poster_path": null,
+		"poster_path": "/9LZlsJ7ld7NKrtVHMA2aR5ygx1g.jpg",
 		"release_date": "",
 		"title": "Black Panther 3",
 		"video": false,
@@ -386,7 +386,7 @@
 		"original_language": "en",
 		"original_title": "Doctor Strange 3",
 		"overview": "Rumored sequel to Doctor Strange in the Multiverse of Madness.",
-		"poster_path": null,
+		"poster_path": "/6HOn7D1teSCPEtYoM08AQypWycu.jpg",
 		"release_date": "",
 		"title": "Doctor Strange 3",
 		"video": false,
@@ -413,6 +413,63 @@
 		"video": false,
 		"vote_average": 0,
 		"slug": "untitled-sentry-special",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [],
+		"id": 1171891,
+		"original_language": "en",
+		"original_title": "Spider-Man 5",
+		"overview": "",
+		"poster_path": null,
+		"release_date": "",
+		"title": "Spider-Man 5",
+		"video": false,
+		"vote_average": 0,
+		"slug": "spider-man-5",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [],
+		"id": 1171894,
+		"original_language": "en",
+		"original_title": "Spider-Man 6",
+		"overview": "",
+		"poster_path": null,
+		"release_date": "",
+		"title": "Spider-Man 6",
+		"video": false,
+		"vote_average": 0,
+		"slug": "spider-man-6",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [],
+		"id": 1171899,
+		"original_language": "en",
+		"original_title": "The Legendary Star-Lord",
+		"overview": "",
+		"poster_path": "/dF6tvUJafkyXS4EjHuk4QZh4gh1.jpg",
+		"release_date": "",
+		"title": "The Legendary Star-Lord",
+		"video": false,
+		"vote_average": 0,
+		"slug": "the-legendary-star-lord",
 		"tags": [
 			"movie",
 			"company-420"
@@ -454,7 +511,7 @@
 		"original_language": "en",
 		"original_title": "Avengers: The Kang Dynasty",
 		"overview": "An upcoming film in the Marvel Cinematic Universe's sixth Phase and part of The Multiverse Saga. Plot unknown.",
-		"poster_path": "/utZTb3VBrH0zR77BcISU67pHuAx.jpg",
+		"poster_path": "/lfE1GkxqoNaGqajRDCTYw5erBSo.jpg",
 		"release_date": "2026-04-29",
 		"title": "Avengers: The Kang Dynasty",
 		"video": false,
@@ -803,7 +860,7 @@
 		"release_date": "2023-06-16",
 		"title": "Stan Lee",
 		"video": false,
-		"vote_average": 7.4,
+		"vote_average": 7.3,
 		"slug": "stan-lee",
 		"tags": [
 			"movie",
@@ -872,7 +929,7 @@
 		"release_date": "2023-02-15",
 		"title": "Ant-Man and the Wasp: Quantumania",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.4,
 		"slug": "ant-man-and-the-wasp-quantumania",
 		"tags": [
 			"movie",
@@ -2168,7 +2225,7 @@
 		"release_date": "2018-12-11",
 		"title": "Once Upon a Deadpool",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7.2,
 		"slug": "once-upon-a-deadpool",
 		"tags": [
 			"list-8204860"
@@ -5530,7 +5587,7 @@
 		"release_date": "1978-12-21",
 		"title": "Spider-Man Strikes Back",
 		"video": false,
-		"vote_average": 5.5,
+		"vote_average": 5.6,
 		"slug": "spider-man-strikes-back",
 		"tags": [
 			"list-8204862"
@@ -5748,7 +5805,7 @@
 		"release_date": "1977-09-14",
 		"title": "Spider-Man",
 		"video": false,
-		"vote_average": 5.8,
+		"vote_average": 5.9,
 		"slug": "spider-man",
 		"tags": [
 			"list-8204862"

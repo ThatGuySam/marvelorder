@@ -28,7 +28,7 @@ tags:
     "original_language": "en",
     "original_title": "Doctor Strange 3",
     "overview": "Rumored sequel to Doctor Strange in the Multiverse of Madness.",
-    "poster_path": null,
+    "poster_path": "/6HOn7D1teSCPEtYoM08AQypWycu.jpg",
     "release_date": "",
     "title": "Doctor Strange 3",
     "video": false,
