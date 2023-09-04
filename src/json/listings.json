@@ -444,6 +444,27 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			99
+		],
+		"id": 1173452,
+		"original_language": "en",
+		"original_title": "Marvel Studios Assembled: The Marvels",
+		"overview": "The making of The Marvels (2023)",
+		"poster_path": null,
+		"release_date": "",
+		"title": "Marvel Studios Assembled: The Marvels",
+		"video": false,
+		"vote_average": 0,
+		"slug": "marvel-studios-assembled-the-marvels",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/jqFC2WjYF07hx2X7cs0XmY9jBX6.jpg",
 		"genre_ids": [
 			28,
@@ -780,7 +801,7 @@
 		"original_name": "Secret Invasion",
 		"overview": "Nick Fury and Talos discover a faction of shapeshifting Skrulls who have been infiltrating Earth for years.",
 		"poster_path": "/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg",
-		"vote_average": 7.2,
+		"vote_average": 7.1,
 		"title": "Secret Invasion",
 		"slug": "secret-invasion",
 		"tags": [
@@ -2231,7 +2252,7 @@
 		"original_language": "en",
 		"original_title": "Ant-Man and the Wasp",
 		"overview": "Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.",
-		"poster_path": "/2mnK5VtjzYRWvQB1zLhZWtAJwzk.jpg",
+		"poster_path": "/vzqq2KOoyI30zH7eaDU4rrCbSVP.jpg",
 		"release_date": "2018-07-04",
 		"title": "Ant-Man and the Wasp",
 		"video": false,
@@ -3769,7 +3790,7 @@
 		"release_date": "2012-07-16",
 		"title": "The Punisher: Dirty Laundry",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7,
 		"slug": "the-punisher-dirty-laundry",
 		"tags": [
 			"list-8204859"
