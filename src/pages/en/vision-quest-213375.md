@@ -24,7 +24,9 @@ tags:
 {
     "backdrop_path": null,
     "first_air_date": "",
-    "genre_ids": [],
+    "genre_ids": [
+        18
+    ],
     "id": 213375,
     "name": "Vision Quest",
     "origin_country": [

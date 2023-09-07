@@ -26,9 +26,8 @@ tags:
 {
     "backdrop_path": "/wPnapuJNdWe27IAE5z2Hieo4Yh.jpg",
     "genre_ids": [
-        10765,
-        10759,
-        35
+        35,
+        10765
     ],
     "id": 138501,
     "name": "Agatha: Darkhold Diaries",

@@ -32,7 +32,7 @@ tags:
 ## TMDB Data
 ```json
 {
-    "backdrop_path": "/226ESFYVfIKKRbgAeb7u6BlA6gt.jpg",
+    "backdrop_path": "/6bfV0WSL4Iw7ARQqc7DLVlmENeg.jpg",
     "first_air_date": "2023-09-05",
     "genre_ids": [
         16,
@@ -49,7 +49,7 @@ tags:
     "original_name": "I Am Groot",
     "overview": "There’s no guarding the galaxy from this mischievous toddler! Get ready as Baby Groot takes center stage in his very own collection of shorts, exploring his glory days growing up and getting into trouble among the stars.",
     "poster_path": "/3QfQYECgu6DX5UUWCBvv1Fl0BAJ.jpg",
-    "vote_average": 7,
+    "vote_average": 7.7,
     "title": "I Am Groot",
     "slug": "i-am-groot",
     "tags": [
