@@ -479,7 +479,7 @@
 		"original_language": "en",
 		"original_title": "Avengers: The Kang Dynasty",
 		"overview": "An upcoming film in the Marvel Cinematic Universe's sixth Phase and part of The Multiverse Saga. Plot unknown.",
-		"poster_path": "/lfE1GkxqoNaGqajRDCTYw5erBSo.jpg",
+		"poster_path": "/utZTb3VBrH0zR77BcISU67pHuAx.jpg",
 		"release_date": "2026-04-29",
 		"title": "Avengers: The Kang Dynasty",
 		"video": false,
@@ -718,54 +718,6 @@
 		]
 	},
 	{
-		"adult": false,
-		"backdrop_path": "/8N3lHJTAb3R0LhcaU7LXecY1abS.jpg",
-		"genre_ids": [
-			16,
-			10751,
-			35,
-			878
-		],
-		"id": 1174709,
-		"original_language": "en",
-		"original_title": "Are You My Groot?",
-		"overview": "Groot stumbles across a strange egg in a nest while exploring the alien planet of Terma. He instantly falls for the little creature that emerges when the egg cracks, adopting it as his own.",
-		"poster_path": "/sPuFvh0xw9yjnb3ehQ6OlgXIOM1.jpg",
-		"release_date": "2023-09-06",
-		"title": "Are You My Groot?",
-		"video": false,
-		"vote_average": 0,
-		"slug": "are-you-my-groot",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
-			16,
-			10751,
-			35,
-			878
-		],
-		"id": 1174796,
-		"original_language": "en",
-		"original_title": "Groot Noses Around",
-		"overview": "When Groot gets the sense of smell, he quickly learns not to stick his new nose where it doesn't belong.",
-		"poster_path": "/2OnwFNu6fNcAVW5Ud2fzSrDzmMp.jpg",
-		"release_date": "2023-09-06",
-		"title": "Groot Noses Around",
-		"video": false,
-		"vote_average": 0,
-		"slug": "groot-noses-around",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
 		"backdrop_path": "/6bfV0WSL4Iw7ARQqc7DLVlmENeg.jpg",
 		"first_air_date": "2023-09-05",
 		"genre_ids": [
@@ -783,7 +735,7 @@
 		"original_name": "I Am Groot",
 		"overview": "There’s no guarding the galaxy from this mischievous toddler! Get ready as Baby Groot takes center stage in his very own collection of shorts, exploring his glory days growing up and getting into trouble among the stars.",
 		"poster_path": "/3QfQYECgu6DX5UUWCBvv1Fl0BAJ.jpg",
-		"vote_average": 7.7,
+		"vote_average": 7.9,
 		"title": "I Am Groot",
 		"slug": "i-am-groot",
 		"tags": [
@@ -1382,7 +1334,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/iKUwhA4DUxMcNKu5lLSbDFwwilk.jpg",
+		"backdrop_path": "/jhXwGdyj2f5ZxCYZBKfBNcGBbWx.jpg",
 		"genre_ids": [
 			14,
 			28,
@@ -1742,7 +1694,7 @@
 		"original_language": "en",
 		"original_name": "Loki",
 		"overview": "After stealing the Tesseract during the events of “Avengers: Endgame,” an alternate version of Loki is brought to the mysterious Time Variance Authority, a bureaucratic organization that exists outside of time and space and monitors the timeline. They give Loki a choice: face being erased from existence due to being a “time variant” or help fix the timeline and stop a greater threat.",
-		"poster_path": "/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg",
+		"poster_path": "/w3cF2E269oUQIFq4IhRQ5MfkwMY.jpg",
 		"vote_average": 8.2,
 		"title": "Loki",
 		"slug": "loki",
@@ -3818,7 +3770,7 @@
 		"release_date": "2012-07-16",
 		"title": "The Punisher: Dirty Laundry",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7,
 		"slug": "the-punisher-dirty-laundry",
 		"tags": [
 			"list-8204859"
@@ -5409,7 +5361,7 @@
 		"release_date": "1988-05-22",
 		"title": "The Incredible Hulk Returns",
 		"video": false,
-		"vote_average": 6.1,
+		"vote_average": 6,
 		"slug": "the-incredible-hulk-returns",
 		"tags": [
 			"list-8204862"
