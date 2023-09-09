@@ -33,7 +33,7 @@ tags:
 ```json
 {
     "backdrop_path": "/6bfV0WSL4Iw7ARQqc7DLVlmENeg.jpg",
-    "first_air_date": "2023-09-05",
+    "first_air_date": "2022-08-10",
     "genre_ids": [
         16,
         35,
@@ -49,7 +49,7 @@ tags:
     "original_name": "I Am Groot",
     "overview": "There’s no guarding the galaxy from this mischievous toddler! Get ready as Baby Groot takes center stage in his very own collection of shorts, exploring his glory days growing up and getting into trouble among the stars.",
     "poster_path": "/3QfQYECgu6DX5UUWCBvv1Fl0BAJ.jpg",
-    "vote_average": 7.9,
+    "vote_average": 7.8,
     "title": "I Am Groot",
     "slug": "i-am-groot",
     "tags": [

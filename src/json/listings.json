@@ -498,7 +498,7 @@
 		"genre_ids": [
 			878,
 			28,
-			14
+			12
 		],
 		"id": 617126,
 		"original_language": "en",
@@ -714,32 +714,6 @@
 		"slug": "marvel-studios-assembled-the-making-of-the-guardians-of-the-galaxy-vol-3",
 		"tags": [
 			"movie",
-			"company-420"
-		]
-	},
-	{
-		"backdrop_path": "/6bfV0WSL4Iw7ARQqc7DLVlmENeg.jpg",
-		"first_air_date": "2023-09-05",
-		"genre_ids": [
-			16,
-			35,
-			10751,
-			10765
-		],
-		"id": 232125,
-		"name": "I Am Groot",
-		"origin_country": [
-			"US"
-		],
-		"original_language": "en",
-		"original_name": "I Am Groot",
-		"overview": "There’s no guarding the galaxy from this mischievous toddler! Get ready as Baby Groot takes center stage in his very own collection of shorts, exploring his glory days growing up and getting into trouble among the stars.",
-		"poster_path": "/3QfQYECgu6DX5UUWCBvv1Fl0BAJ.jpg",
-		"vote_average": 7.9,
-		"title": "I Am Groot",
-		"slug": "i-am-groot",
-		"tags": [
-			"tv",
 			"company-420"
 		]
 	},
@@ -1075,6 +1049,32 @@
 		"vote_average": 6.4,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
+		"tags": [
+			"tv",
+			"company-420"
+		]
+	},
+	{
+		"backdrop_path": "/6bfV0WSL4Iw7ARQqc7DLVlmENeg.jpg",
+		"first_air_date": "2022-08-10",
+		"genre_ids": [
+			16,
+			35,
+			10751,
+			10765
+		],
+		"id": 232125,
+		"name": "I Am Groot",
+		"origin_country": [
+			"US"
+		],
+		"original_language": "en",
+		"original_name": "I Am Groot",
+		"overview": "There’s no guarding the galaxy from this mischievous toddler! Get ready as Baby Groot takes center stage in his very own collection of shorts, exploring his glory days growing up and getting into trouble among the stars.",
+		"poster_path": "/3QfQYECgu6DX5UUWCBvv1Fl0BAJ.jpg",
+		"vote_average": 7.8,
+		"title": "I Am Groot",
+		"slug": "i-am-groot",
 		"tags": [
 			"tv",
 			"company-420"
@@ -1563,7 +1563,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/zxWAv1A34kdYslBi4ekMDtgIGUt.jpg",
+		"backdrop_path": "/rAksPS6LjBONzY84szQBz5gGej6.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -1573,7 +1573,7 @@
 		"original_language": "en",
 		"original_title": "Shang-Chi and the Legend of the Ten Rings",
 		"overview": "Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.",
-		"poster_path": "/d08HqqeBQSwN8i8MEvpsZ8Cb438.jpg",
+		"poster_path": "/9f2Q0U3IOsLgrI2HkvldwSABZy5.jpg",
 		"release_date": "2021-09-01",
 		"title": "Shang-Chi and the Legend of the Ten Rings",
 		"video": false,
@@ -4090,7 +4090,7 @@
 		"original_language": "en",
 		"original_name": "The Avengers: Earth's Mightiest Heroes",
 		"overview": "When the powers of a single hero are not enough to save the world, the world’s greatest heroes—Iron Man, Thor, Captain America, The Hulk, Ant-Man/Giant Man and Wasp—assemble to form the Avengers.",
-		"poster_path": "/eyUeOUefufuBCeih3lOi2NkFD9r.jpg",
+		"poster_path": "/8MwwAuDy6dc1GbiBUZdvWtQczqR.jpg",
 		"vote_average": 8.2,
 		"title": "The Avengers: Earth's Mightiest Heroes",
 		"slug": "the-avengers-earths-mightiest-heroes",
@@ -4764,7 +4764,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/mAxvl6V3st40soXyF4VADSFQUWE.jpg",
+		"backdrop_path": "/pDjUH96HaxLgjfHVxxtnnPpomzL.jpg",
 		"first_air_date": "2003-07-11",
 		"genre_ids": [
 			16,
@@ -4780,7 +4780,7 @@
 		"original_language": "en",
 		"original_name": "Spider-Man: The New Animated Series",
 		"overview": "Spider-Man: The New Animated Series is an American animated series based on the Marvel comic book superhero character Spider-Man, which ran for one season, 13 episodes, starting on July 11, 2003. It is a loose continuation of 2002's Spider-Man film directed by Sam Raimi. The show was made using computer generated imagery rendered in cel shading and was broadcast on MTV, and YTV. Eight months later after the series finale, episodes aired in reruns on ABC Family as part of the Jetix television programming block. The series featured a far more mature version of the character than typically seen on television for any animated comic book adaptation. Throughout the series, characters are clearly killed, rather than the usual ambiguous disappearance, and several characters are strongly implied to have had sex.",
-		"poster_path": "/z4CRC612QrGrC1kLtDm8ykLeIrs.jpg",
+		"poster_path": "/oAMMVcyCxRiTaz35sYeCPyyjco9.jpg",
 		"vote_average": 7.1,
 		"title": "Spider-Man: The New Animated Series",
 		"slug": "spider-man-the-new-animated-series",
@@ -5140,7 +5140,7 @@
 		"original_language": "en",
 		"original_name": "Spider-Man",
 		"overview": "Bitten by a radioactive spider, Peter Parker develops spider-like superpowers. He uses these to fight crime while trying to balance it with the struggles of his personal life.",
-		"poster_path": "/peN9aqevr0edVoctVKGZDWFdTRl.jpg",
+		"poster_path": "/AsDMNZ2LtBQlN6WeS2YsWXL7dEX.jpg",
 		"vote_average": 8.3,
 		"title": "Spider-Man",
 		"slug": "spider-man",
