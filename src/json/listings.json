@@ -496,9 +496,7 @@
 		"adult": false,
 		"backdrop_path": "/qlwBv4v6EoeN2JxGWziT2kSyoVe.jpg",
 		"genre_ids": [
-			878,
-			28,
-			12
+			878
 		],
 		"id": 617126,
 		"original_language": "en",
@@ -1072,7 +1070,7 @@
 		"original_name": "I Am Groot",
 		"overview": "There’s no guarding the galaxy from this mischievous toddler! Get ready as Baby Groot takes center stage in his very own collection of shorts, exploring his glory days growing up and getting into trouble among the stars.",
 		"poster_path": "/3QfQYECgu6DX5UUWCBvv1Fl0BAJ.jpg",
-		"vote_average": 7.9,
+		"vote_average": 7.7,
 		"title": "I Am Groot",
 		"slug": "i-am-groot",
 		"tags": [
@@ -2153,7 +2151,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/5ZSwZPKgcTJJwhxjbOHeoBTVaKh.jpg",
+		"backdrop_path": "/3M9ZKIx4khmyll2DGB5zil626UA.jpg",
 		"genre_ids": [
 			35,
 			28,
@@ -2926,7 +2924,7 @@
 		"original_language": "en",
 		"original_title": "Deadpool",
 		"overview": "The origin story of former Special Forces operative turned mercenary Wade Wilson, who, after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
-		"poster_path": "/fSRb7vyIP8rQpL0I47P3qUsEKX3.jpg",
+		"poster_path": "/zq8Cl3PNIDGU3iWNRoc5nEZ6pCe.jpg",
 		"release_date": "2016-02-09",
 		"title": "Deadpool",
 		"video": false,
@@ -4780,7 +4778,7 @@
 		"original_language": "en",
 		"original_name": "Spider-Man: The New Animated Series",
 		"overview": "Spider-Man: The New Animated Series is an American animated series based on the Marvel comic book superhero character Spider-Man, which ran for one season, 13 episodes, starting on July 11, 2003. It is a loose continuation of 2002's Spider-Man film directed by Sam Raimi. The show was made using computer generated imagery rendered in cel shading and was broadcast on MTV, and YTV. Eight months later after the series finale, episodes aired in reruns on ABC Family as part of the Jetix television programming block. The series featured a far more mature version of the character than typically seen on television for any animated comic book adaptation. Throughout the series, characters are clearly killed, rather than the usual ambiguous disappearance, and several characters are strongly implied to have had sex.",
-		"poster_path": "/oAMMVcyCxRiTaz35sYeCPyyjco9.jpg",
+		"poster_path": "/v3UfqXCAxAcI7oUO4zwtk1T9G3n.jpg",
 		"vote_average": 7.1,
 		"title": "Spider-Man: The New Animated Series",
 		"slug": "spider-man-the-new-animated-series",
@@ -5458,7 +5456,7 @@
 		"release_date": "1979-11-23",
 		"title": "Captain America II: Death Too Soon",
 		"video": false,
-		"vote_average": 3.7,
+		"vote_average": 3.6,
 		"slug": "captain-america-ii-death-too-soon",
 		"tags": [
 			"list-8204862"
