@@ -35,7 +35,7 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": null,
+    "backdrop_path": "/10s2Czm8wQlY8a8h4XJoBFw7T1f.jpg",
     "genre_ids": [
         99
     ],
@@ -43,7 +43,7 @@ tags:
     "original_language": "en",
     "original_title": "Marvel Studios Assembled: The Making of the Guardians of the Galaxy Vol. 3",
     "overview": "Join visionary director James Gunn and superstars such as Chris Pratt and Zoe Saldaña as they recount how “Guardians of the Galaxy Vol. 3” was conceived, shaped, and delivered to the world. And stand alongside the cast and crew in the emotional final moments of the shoot as they bid farewell to each other, and close this chapter in the saga of Peter Quill and his loveable band of misfit-warriors.",
-    "poster_path": null,
+    "poster_path": "/w9rY9CT7pI3pl6ATcAS7bXrIDc5.jpg",
     "release_date": "2023-09-13",
     "title": "Marvel Studios Assembled: The Making of the Guardians of the Galaxy Vol. 3",
     "video": false,
