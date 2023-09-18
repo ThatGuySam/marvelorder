@@ -50,7 +50,7 @@ tags:
     "release_date": "2022-07-08",
     "title": "Marvel Studios Assembled: The Making of Doctor Strange in the Multiverse of Madness",
     "video": false,
-    "vote_average": 7.5,
+    "vote_average": 7.4,
     "slug": "marvel-studios-assembled-the-making-of-doctor-strange-in-the-multiverse-of-madness",
     "tags": [
         "movie",

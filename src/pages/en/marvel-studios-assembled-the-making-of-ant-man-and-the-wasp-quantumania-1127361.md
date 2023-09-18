@@ -43,7 +43,7 @@ tags:
     "release_date": "2023-07-19",
     "title": "Marvel Studios Assembled: The Making of Ant-Man and the Wasp: Quantumania",
     "video": false,
-    "vote_average": 6.2,
+    "vote_average": 6,
     "slug": "marvel-studios-assembled-the-making-of-ant-man-and-the-wasp-quantumania",
     "tags": [
         "movie",
