@@ -675,7 +675,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
+		"backdrop_path": "/phHZMvFlj5A03gzp7bhmQl8BInz.jpg",
 		"genre_ids": [
 			99
 		],
@@ -683,7 +683,7 @@
 		"original_language": "en",
 		"original_title": "Marvel Studios Assembled: The Making of Secret Invasion",
 		"overview": "Through in-depth interviews with cast and crew, and exclusive behind-the-scenes footage, Assembled uncovers how Marvel Studios’ “Secret Invasion” was born. Witness what it took to conjure the world of the show, and spend time with Samuel L. Jackson as he dons the patch once again to engage in the most baffling battle of Nick Fury’s career.",
-		"poster_path": null,
+		"poster_path": "/8YDNwj9gsAQlcHQALPtjJipoGx8.jpg",
 		"release_date": "2023-09-20",
 		"title": "Marvel Studios Assembled: The Making of Secret Invasion",
 		"video": false,
@@ -1909,7 +1909,7 @@
 		"original_language": "en",
 		"original_title": "The New Mutants",
 		"overview": "Five young mutants, just discovering their abilities while held in a secret facility against their will, fight to escape their past sins and save themselves.",
-		"poster_path": "/wI95esQmT9F8eC1wchoRm2ua2HX.jpg",
+		"poster_path": "/xZNw9xxtwbEf25NYoz52KdbXHPM.jpg",
 		"release_date": "2020-04-02",
 		"title": "The New Mutants",
 		"video": false,
@@ -4540,7 +4540,7 @@
 		"original_name": "Fantastic Four: World's Greatest Heroes",
 		"overview": "Mister Fantastic, the Invisible Woman, the Human Torch, and Thing battle some of their greatest foes, including Doctor Doom, Ronan the Accuser, the Multiple Man, and Mole Man.",
 		"poster_path": "/zCtCW0JlbMpzfQDAX1bO1o1KLi.jpg",
-		"vote_average": 7.6,
+		"vote_average": 7.5,
 		"title": "Fantastic Four: World's Greatest Heroes",
 		"slug": "fantastic-four-worlds-greatest-heroes",
 		"tags": [
