@@ -24,30 +24,6 @@
 		]
 	},
 	{
-		"backdrop_path": "/z1ORktzKYzEUifGn9iIKeL4T1TG.jpg",
-		"genre_ids": [
-			10759,
-			18,
-			80
-		],
-		"id": 122226,
-		"name": "Echo",
-		"origin_country": [
-			"US"
-		],
-		"original_language": "en",
-		"original_name": "Echo",
-		"overview": "After her ruthless behavior in New York City catches up with her in her hometown, Maya Lopez must face her past, reconnect with her Native American roots and embrace the meaning of family and community if she ever hopes to move forward.",
-		"poster_path": "/3bv5Dv3YmQfzg5ckQMwzCUQ89hU.jpg",
-		"vote_average": 0,
-		"title": "Echo",
-		"slug": "echo",
-		"tags": [
-			"tv",
-			"company-420"
-		]
-	},
-	{
 		"backdrop_path": "/wPnapuJNdWe27IAE5z2Hieo4Yh.jpg",
 		"genre_ids": [
 			35,
@@ -421,6 +397,29 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			28,
+			12,
+			878
+		],
+		"id": 1185550,
+		"original_language": "en",
+		"original_title": "Untitled X-Men movie",
+		"overview": "Marvel Studios has officially begun development on an 'X-MEN' movie, with writers beginning to meet this fall.",
+		"poster_path": null,
+		"release_date": "",
+		"title": "Untitled X-Men movie",
+		"video": false,
+		"vote_average": 0,
+		"slug": "untitled-x-men-movie",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/jqFC2WjYF07hx2X7cs0XmY9jBX6.jpg",
 		"genre_ids": [
 			28,
@@ -627,6 +626,31 @@
 		]
 	},
 	{
+		"backdrop_path": "/z1ORktzKYzEUifGn9iIKeL4T1TG.jpg",
+		"first_air_date": "2024-01-10",
+		"genre_ids": [
+			10759,
+			18,
+			80
+		],
+		"id": 122226,
+		"name": "Echo",
+		"origin_country": [
+			"US"
+		],
+		"original_language": "en",
+		"original_name": "Echo",
+		"overview": "After her ruthless behavior in New York City catches up with her in her hometown, Maya Lopez must face her past, reconnect with her Native American roots and embrace the meaning of family and community if she ever hopes to move forward.",
+		"poster_path": "/3bv5Dv3YmQfzg5ckQMwzCUQ89hU.jpg",
+		"vote_average": 0,
+		"title": "Echo",
+		"slug": "echo",
+		"tags": [
+			"tv",
+			"company-420"
+		]
+	},
+	{
 		"adult": false,
 		"backdrop_path": "/jB48R2vubdLDXmDAbxM1yD9hNCk.jpg",
 		"genre_ids": [
@@ -638,7 +662,7 @@
 		"original_language": "en",
 		"original_title": "The Marvels",
 		"overview": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
-		"poster_path": "/Ag3D9qXjhJ2FUkrlJ0Cv1pgxqYQ.jpg",
+		"poster_path": "/8j7Qnegy40bscZUx2zJohkonaty.jpg",
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
@@ -1046,7 +1070,7 @@
 		"original_name": "I Am Groot",
 		"overview": "There’s no guarding the galaxy from this mischievous toddler! Get ready as Baby Groot takes center stage in his very own collection of shorts, exploring his glory days growing up and getting into trouble among the stars.",
 		"poster_path": "/3QfQYECgu6DX5UUWCBvv1Fl0BAJ.jpg",
-		"vote_average": 7.5,
+		"vote_average": 7.4,
 		"title": "I Am Groot",
 		"slug": "i-am-groot",
 		"tags": [
