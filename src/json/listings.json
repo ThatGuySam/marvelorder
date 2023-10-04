@@ -397,29 +397,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
-			28,
-			12,
-			878
-		],
-		"id": 1185550,
-		"original_language": "en",
-		"original_title": "Untitled X-Men movie",
-		"overview": "Marvel Studios has officially begun development on an 'X-MEN' movie, with writers beginning to meet this fall.",
-		"poster_path": null,
-		"release_date": "",
-		"title": "Untitled X-Men movie",
-		"video": false,
-		"vote_average": 0,
-		"slug": "untitled-x-men-movie",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": "/jqFC2WjYF07hx2X7cs0XmY9jBX6.jpg",
 		"genre_ids": [
 			28,
@@ -2230,7 +2207,7 @@
 		"original_language": "en",
 		"original_title": "Ant-Man and the Wasp",
 		"overview": "Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.",
-		"poster_path": "/vzqq2KOoyI30zH7eaDU4rrCbSVP.jpg",
+		"poster_path": "/zqXZ8jpg92txpFH0bB3Vic37TTW.jpg",
 		"release_date": "2018-07-04",
 		"title": "Ant-Man and the Wasp",
 		"video": false,
