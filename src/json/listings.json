@@ -308,7 +308,7 @@
 		"original_language": "en",
 		"original_title": "Spider-Man 4",
 		"overview": "The next installment of the MCU Spider-Man franchise: a sequel to \"Spider-Man: No Way Home\". Plot unknown.",
-		"poster_path": null,
+		"poster_path": "/bU7zOgQFmeJq5AqhtxeKmNUn749.jpg",
 		"title": "Spider-Man 4",
 		"video": false,
 		"vote_average": 0,
@@ -638,12 +638,33 @@
 		"original_language": "en",
 		"original_title": "The Marvels",
 		"overview": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
-		"poster_path": "/8j7Qnegy40bscZUx2zJohkonaty.jpg",
+		"poster_path": "/Ag3D9qXjhJ2FUkrlJ0Cv1pgxqYQ.jpg",
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
 		"vote_average": 0,
 		"slug": "the-marvels",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			99
+		],
+		"id": 1187843,
+		"original_language": "en",
+		"original_title": "Marvel Studios Assembled: The Making of Loki Season 2",
+		"overview": "The behind-the-scenes documentary special for the second season of Marvel Studios' Loki on Disney+.",
+		"poster_path": "/t1FRojAWVxXaZGo1eo767kpmgtd.jpg",
+		"release_date": "2023-10-05",
+		"title": "Marvel Studios Assembled: The Making of Loki Season 2",
+		"video": false,
+		"vote_average": 0,
+		"slug": "marvel-studios-assembled-the-making-of-loki-season-2",
 		"tags": [
 			"movie",
 			"company-420"
@@ -1654,7 +1675,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/y1aDp0dPdbJNYYVpePuj67mobkx.jpg",
+		"backdrop_path": "/q3jHCb4dMfYF6ojikKuHd6LscxC.jpg",
 		"first_air_date": "2021-06-09",
 		"genre_ids": [
 			18,
@@ -2698,7 +2719,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/uAE8hCBui1INPWMwkrJcTJGxbD0.jpg",
+		"backdrop_path": "/ejMim7XfNOviARyhEOzUd6ALGWs.jpg",
 		"first_air_date": "2017-02-08",
 		"genre_ids": [
 			10759,
@@ -2900,7 +2921,7 @@
 		"original_language": "en",
 		"original_title": "Deadpool",
 		"overview": "The origin story of former Special Forces operative turned mercenary Wade Wilson, who, after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
-		"poster_path": "/zq8Cl3PNIDGU3iWNRoc5nEZ6pCe.jpg",
+		"poster_path": "/fSRb7vyIP8rQpL0I47P3qUsEKX3.jpg",
 		"release_date": "2016-02-09",
 		"title": "Deadpool",
 		"video": false,
@@ -5479,7 +5500,7 @@
 		"release_date": "1979-01-19",
 		"title": "Captain America",
 		"video": false,
-		"vote_average": 3.9,
+		"vote_average": 3.8,
 		"slug": "captain-america",
 		"tags": [
 			"list-8204862"
