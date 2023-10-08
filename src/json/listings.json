@@ -308,7 +308,7 @@
 		"original_language": "en",
 		"original_title": "Spider-Man 4",
 		"overview": "The next installment of the MCU Spider-Man franchise: a sequel to \"Spider-Man: No Way Home\". Plot unknown.",
-		"poster_path": "/bU7zOgQFmeJq5AqhtxeKmNUn749.jpg",
+		"poster_path": null,
 		"title": "Spider-Man 4",
 		"video": false,
 		"vote_average": 0,
@@ -638,33 +638,12 @@
 		"original_language": "en",
 		"original_title": "The Marvels",
 		"overview": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
-		"poster_path": "/Ag3D9qXjhJ2FUkrlJ0Cv1pgxqYQ.jpg",
+		"poster_path": "/8j7Qnegy40bscZUx2zJohkonaty.jpg",
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
 		"vote_average": 0,
 		"slug": "the-marvels",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
-			99
-		],
-		"id": 1187843,
-		"original_language": "en",
-		"original_title": "Marvel Studios Assembled: The Making of Loki Season 2",
-		"overview": "The behind-the-scenes documentary special for the second season of Marvel Studios' Loki on Disney+.",
-		"poster_path": "/t1FRojAWVxXaZGo1eo767kpmgtd.jpg",
-		"release_date": "2023-10-05",
-		"title": "Marvel Studios Assembled: The Making of Loki Season 2",
-		"video": false,
-		"vote_average": 0,
-		"slug": "marvel-studios-assembled-the-making-of-loki-season-2",
 		"tags": [
 			"movie",
 			"company-420"
@@ -705,7 +684,7 @@
 		"release_date": "2023-09-13",
 		"title": "Marvel Studios Assembled: The Making of the Guardians of the Galaxy Vol. 3",
 		"video": false,
-		"vote_average": 6,
+		"vote_average": 6.5,
 		"slug": "marvel-studios-assembled-the-making-of-the-guardians-of-the-galaxy-vol-3",
 		"tags": [
 			"movie",
@@ -1793,7 +1772,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/lOr9NKxh4vMweufMOUDJjJhCRHW.jpg",
+		"backdrop_path": "/1i1N0AVRb54H6ZFPDTwbo9MLxSF.jpg",
 		"first_air_date": "2021-01-15",
 		"genre_ids": [
 			10765,
@@ -3539,8 +3518,7 @@
 		"slug": "marvels-agents-of-shield",
 		"tags": [
 			"tv",
-			"company-38679",
-			"company-7505"
+			"company-38679"
 		]
 	},
 	{
@@ -4714,7 +4692,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/8HMHE8VpkWOTmkm3c9QyEL6h1cP.jpg",
+		"backdrop_path": "/pXzAbaFV8iNtflap5MqSyXcV8Qx.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -4786,7 +4764,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/A8RxakHSw2Ca5kCaSPUw5VQxzVy.jpg",
+		"backdrop_path": "/kYd1ZMWvG9K2Jeop3XWXcTpJ2dB.jpg",
 		"genre_ids": [
 			878,
 			12,
@@ -5280,7 +5258,7 @@
 		"original_language": "en",
 		"original_title": "The Death of the Incredible Hulk",
 		"overview": "During the critical experiment that would rid David Banner of the Hulk,a spy sabotages the laboratory. Banner falls in love with the spy, Jasmin, who performs missions only because her sister is being held hostage by Jasmin's superiors. Banner and Jasmin try to escape from the enemy agents to rebuild their lives together, but the Hulk is never far from them.",
-		"poster_path": "/6q6CviMLR97ssODmKhxgyxQuoYp.jpg",
+		"poster_path": "/mvKi4iBTzc32whrwvXXO2fEiRZL.jpg",
 		"release_date": "1990-02-18",
 		"title": "The Death of the Incredible Hulk",
 		"video": false,
