@@ -20,7 +20,9 @@ watchLinks:
     "backdrop_path": "/44TJgVKPto88kOF2R036dgkjJms.jpg",
     "first_air_date": "1999-10-30",
     "genre_ids": [
-        16
+        16,
+        10759,
+        10765
     ],
     "id": 1300,
     "name": "The Avengers: United They Stand",

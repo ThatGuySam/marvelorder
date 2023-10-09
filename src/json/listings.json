@@ -638,7 +638,7 @@
 		"original_language": "en",
 		"original_title": "The Marvels",
 		"overview": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
-		"poster_path": "/8j7Qnegy40bscZUx2zJohkonaty.jpg",
+		"poster_path": "/Ag3D9qXjhJ2FUkrlJ0Cv1pgxqYQ.jpg",
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
@@ -1029,7 +1029,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/6bfV0WSL4Iw7ARQqc7DLVlmENeg.jpg",
+		"backdrop_path": "/bAnHzJ6AMhOhnV3C0kTxkpCqpgM.jpg",
 		"first_air_date": "2022-08-10",
 		"genre_ids": [
 			16,
@@ -1045,7 +1045,7 @@
 		"original_language": "en",
 		"original_name": "I Am Groot",
 		"overview": "There’s no guarding the galaxy from this mischievous toddler! Get ready as Baby Groot takes center stage in his very own collection of shorts, exploring his glory days growing up and getting into trouble among the stars.",
-		"poster_path": "/3QfQYECgu6DX5UUWCBvv1Fl0BAJ.jpg",
+		"poster_path": "/lYwFSsP4KsoRhOLhJvBFp3GEGEm.jpg",
 		"vote_average": 7.4,
 		"title": "I Am Groot",
 		"slug": "i-am-groot",
@@ -4954,7 +4954,9 @@
 		"backdrop_path": "/44TJgVKPto88kOF2R036dgkjJms.jpg",
 		"first_air_date": "1999-10-30",
 		"genre_ids": [
-			16
+			16,
+			10759,
+			10765
 		],
 		"id": 1300,
 		"name": "The Avengers: United They Stand",
