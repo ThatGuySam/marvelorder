@@ -29125,6 +29125,73 @@
     "primeReferenceTitle": "Loki"
   },
   {
+    "hash": "35c11ce0-0599-51af-bae3-a8ffc1c9df5a",
+    "timeDescription": "The Time Variance Authority Time Zone/Timeline",
+    "timeDescriptionParts": {
+      "primary": "The Time Variance Authority Time Zone/Timeline",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Loki Laufeyson discovers that he is uncontrollably warping across time in the TVA headquarters. In the past, the TVA attempts to apprehend Loki. In the present, Loki reunites with Mobius and warns him of the threat of the many variants of He Who Remains, the TVA's creator. Loki and Mobius M. Mobius go to meet TVA technician Ouroboros \"OB\", who deduces that Loki is \"time slipping\", a phenomenon possibly caused by branching timelines dangerously overloading the Temporal Loom after the death of He Who Remains. To stop Loki's time slipping, OB instructs Mobius to approach the Temporal Loom with the Temporal Aura Extractor device to extract Loki from the time stream as Loki prunes himself. Loki time slips to the future, where the TVA is being evacuated. Loki briefly encounters Sylvie Laufeydottir before he is pruned by someone at the last possible second. Mobius successfully pulls Loki from the time stream, and the two of them set out to find Sylvie, just as many TVA hunters are ordered by General Dox to search for her. ",
+    "timeline": "The Time Variance Authority Time Zone/Timeline",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Loki_Laufeyson_(Time_Heist_2012)",
+        "text": "Loki Laufeyson",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Mobius_M._Mobius",
+        "text": "Mobius M. Mobius",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Sylvie_Laufeydottir",
+        "text": "Sylvie Laufeydottir",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Loki_(Disney%2B_series)",
+        "text": "Loki",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Loki_Episode_2.01:_Ouroboros",
+        "text": "Ouroboros",
+        "referenceType": "episode"
+      }
+    ],
+    "primeReferenceIndex": 3,
+    "primeReferenceTitle": "Loki"
+  },
+  {
+    "hash": "0a8bf24e-2c27-5eac-8ffc-28e09c2b065c",
+    "timeDescription": "1982",
+    "timeDescriptionParts": {
+      "primary": "1982",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Sylvie Laufeydottir enters a branched in Broxton, Oklahoma and visits a McDonald's restaurant and asked the cashier for everything. ",
+    "timeline": "The Time Variance Authority Time Zone/Timeline",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Loki_(Disney%2B_series)",
+        "text": "Loki",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Loki_Episode_2.01:_Ouroboros",
+        "text": "Ouroboros",
+        "referenceType": "episode"
+      }
+    ],
+    "primeReferenceIndex": 0,
+    "primeReferenceTitle": "Loki"
+  },
+  {
     "hash": "a54b5e8a-c724-53ff-a1b2-5ce654ad1df3",
     "timeDescription": "1985",
     "timeDescriptionParts": {
