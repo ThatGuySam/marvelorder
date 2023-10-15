@@ -22,7 +22,7 @@ type: movie
     "original_language": "en",
     "original_title": "Madame Web",
     "overview": "Madame Web is a clairvoyant whose psychic abilities allow her to see within the Spider-Verse itself.",
-    "poster_path": "/1neLUANXMEdtMhSeXWhCsX7lrwx.jpg",
+    "poster_path": null,
     "release_date": "2024-02-14",
     "title": "Madame Web",
     "video": false,
