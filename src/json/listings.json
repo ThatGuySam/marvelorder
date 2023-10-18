@@ -38,7 +38,7 @@
 		"original_language": "en",
 		"original_name": "Echo",
 		"overview": "After her ruthless behavior in New York City catches up with her in her hometown, Maya Lopez must face her past, reconnect with her Native American roots and embrace the meaning of family and community if she ever hopes to move forward.",
-		"poster_path": "/3bv5Dv3YmQfzg5ckQMwzCUQ89hU.jpg",
+		"poster_path": "/5kw5lOek4VTdhBe0HRSK6BiR6ki.jpg",
 		"vote_average": 0,
 		"title": "Echo",
 		"slug": "echo",
@@ -227,27 +227,6 @@
 		"vote_average": 0,
 		"title": "Nova",
 		"slug": "nova",
-		"tags": [
-			"tv",
-			"company-420"
-		]
-	},
-	{
-		"backdrop_path": null,
-		"first_air_date": "",
-		"genre_ids": [],
-		"id": 237228,
-		"name": "LOKI SEASON 2",
-		"origin_country": [
-			"US"
-		],
-		"original_language": "en",
-		"original_name": "LOKI SEASON 2",
-		"overview": "",
-		"poster_path": "/gUtEEtKOljBJ0iHcedLXyAEBHow.jpg",
-		"vote_average": 0,
-		"title": "LOKI SEASON 2",
-		"slug": "loki-season-2",
 		"tags": [
 			"tv",
 			"company-420"
@@ -3674,7 +3653,7 @@
 		"release_date": "2013-04-23",
 		"title": "Inhumans",
 		"video": false,
-		"vote_average": 6.7,
+		"vote_average": 6.6,
 		"slug": "inhumans",
 		"tags": [
 			"movie",
