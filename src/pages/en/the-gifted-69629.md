@@ -32,7 +32,7 @@ watchLinks:
     "original_name": "The Gifted",
     "overview": "A suburban couple's ordinary lives are rocked by the sudden discovery that their children possess mutant powers. Forced to go on the run from a hostile government, the family joins up with an underground network of mutants and must fight to survive.",
     "poster_path": "/nshCqszjTNuqhrB53vrSqWO18sE.jpg",
-    "vote_average": 7.7,
+    "vote_average": 7.684,
     "title": "The Gifted",
     "slug": "the-gifted",
     "tags": [
@@ -40,6 +40,7 @@ watchLinks:
         "company-38679",
         "list-8204860"
     ],
+    "adult": false,
     "media_type": "tv"
 }
 

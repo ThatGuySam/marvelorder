@@ -18,7 +18,7 @@ vote_average: 7.1
 ## TMDB Data
 ```json
 {
-    "backdrop_path": "/6DcEZ5j99JlKr4NlQQto9z6Dyl9.jpg",
+    "backdrop_path": "/9SE5E2g5DVBN9T3EIEYPhwdsZPr.jpg",
     "first_air_date": "1978-05-17",
     "genre_ids": [
         10759,
@@ -41,6 +41,7 @@ vote_average: 7.1
         "company-7505",
         "list-8204862"
     ],
+    "adult": false,
     "media_type": "tv"
 }
 

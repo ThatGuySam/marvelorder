@@ -22,22 +22,22 @@ watchLinks:
 {
     "adult": false,
     "backdrop_path": "/l2vddRxLkQGLRXR8OLdC0M3oKQ6.jpg",
+    "id": 197467,
+    "title": "Captain America",
+    "original_language": "en",
+    "original_title": "Captain America",
+    "overview": "An artist, Steve Rogers, is nearly murdered by spies, looking for his late father's national secrets. He is saved during surgery when a secret formula is injected into him; this serum not only heals him but also gives him fantastic strength and lightning reflexes.  To help him solve the mystery behind his father’s murder and bring those guilty to justice, a government agency equips him with a special motorcycle loaded with gadgets and an indestructible shield. Now armed, he battles against the nation's enemies as the Sentinel of Liberty, Captain America.",
+    "poster_path": "/gNGq4u0cymxZqGADZrx7AWrSB5m.jpg",
+    "media_type": "movie",
     "genre_ids": [
         28,
         12,
         878,
         10770
     ],
-    "id": 197467,
-    "media_type": "movie",
-    "original_language": "en",
-    "original_title": "Captain America",
-    "overview": "An artist, Steve Rogers, is nearly murdered by spies, looking for his late father's national secrets. He is saved during surgery when a secret formula is injected into him; this serum not only heals him but also gives him fantastic strength and lightning reflexes.  To help him solve the mystery behind his father’s murder and bring those guilty to justice, a government agency equips him with a special motorcycle loaded with gadgets and an indestructible shield. Now armed, he battles against the nation's enemies as the Sentinel of Liberty, Captain America.",
-    "poster_path": "/gNGq4u0cymxZqGADZrx7AWrSB5m.jpg",
     "release_date": "1979-01-19",
-    "title": "Captain America",
     "video": false,
-    "vote_average": 3.8,
+    "vote_average": 3.807,
     "slug": "captain-america",
     "tags": [
         "list-8204862"

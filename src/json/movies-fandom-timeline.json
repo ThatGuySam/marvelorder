@@ -29202,6 +29202,94 @@
     "primeReferenceTitle": "Loki"
   },
   {
+    "hash": "5f8d9328-ff6a-566f-afd8-e9a8ba8dbc6f",
+    "timeDescription": "Unknown Time",
+    "timeDescriptionParts": {
+      "primary": "Unknown Time",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Brad under interrogation, he admits to abandoning General Dox's mission and reveals Sylvie's location. Meanwhile, O.B. attempts to repair the Loom to safely accommodate the branching timelines, but discovers he cannot access it without help from the missing Miss Minutes or He Who Remains's aura. ",
+    "timeline": "The Time Variance Authority Time Zone/Timeline",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Dox",
+        "text": "General Dox",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Loki_(Disney%2B_series)",
+        "text": "Loki",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Loki_Episode_2.02:_Breaking_Brad",
+        "text": "Breaking Brad",
+        "referenceType": "episode"
+      }
+    ],
+    "primeReferenceIndex": 1,
+    "primeReferenceTitle": "Loki"
+  },
+  {
+    "hash": "50886fcb-9faf-56e5-b405-b5dafa679a63",
+    "timeDescription": "Unknown Time",
+    "timeDescriptionParts": {
+      "primary": "Unknown Time",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Casey tracks the rogue Ravonna Renslayer's TemPad on one of the remaining branching timelines, Sylvie, refusing to be involved any further, returns to back to 1982. ",
+    "timeline": "The Time Variance Authority Time Zone/Timeline",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Loki_(Disney%2B_series)",
+        "text": "Loki",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Loki_Episode_2.02:_Breaking_Brad",
+        "text": "Breaking Brad",
+        "referenceType": "episode"
+      }
+    ],
+    "primeReferenceIndex": 0,
+    "primeReferenceTitle": "Loki"
+  },
+  {
+    "hash": "df07bda3-400c-5976-8993-7bee5109a768",
+    "timeDescription": "1977",
+    "timeDescriptionParts": {
+      "primary": "1977",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Loki, Mobius, and Hunter B-15 find and capture Hunter X-05 in London, 1977 on the Sacred Timeline, where he lives as film actor \"Brad Wolfe\". ",
+    "timeline": "The Time Variance Authority Time Zone/Timeline",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Hunter_X-05",
+        "text": "Hunter X-05",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Loki_(Disney%2B_series)",
+        "text": "Loki",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Loki_Episode_2.02:_Breaking_Brad",
+        "text": "Breaking Brad",
+        "referenceType": "episode"
+      }
+    ],
+    "primeReferenceIndex": 1,
+    "primeReferenceTitle": "Loki"
+  },
+  {
     "hash": "0a8bf24e-2c27-5eac-8ffc-28e09c2b065c",
     "timeDescription": "1982",
     "timeDescriptionParts": {
@@ -29221,6 +29309,58 @@
       {
         "href": "/wiki/Loki_Episode_2.01:_Ouroboros",
         "text": "Ouroboros",
+        "referenceType": "episode"
+      }
+    ],
+    "primeReferenceIndex": 0,
+    "primeReferenceTitle": "Loki"
+  },
+  {
+    "hash": "b7f31a05-6bf4-5578-a0d4-e4d7403dfd82",
+    "timeDescription": "1982",
+    "timeDescriptionParts": {
+      "primary": "1982",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Loki, Mobius and Brad travel to Oklahoma and find Sylvie working in a McDonald's. Loki tells her of their encounter in the TVA's future and asks for her assistance to figure out what would happen, but Sylvie refuses to involve herself with the organization. After Brad proclaims the group is in mortal danger, Sylvie enchants him, forcing him to reveal Dox's plan to simultaneously destroy the branching timelines with reset charges. Loki, Mobius, and Sylvie capture Dox, but her plan has largely succeeded and some of her allies have escaped. ",
+    "timeline": "The Time Variance Authority Time Zone/Timeline",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Loki_(Disney%2B_series)",
+        "text": "Loki",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Loki_Episode_2.02:_Breaking_Brad",
+        "text": "Breaking Brad",
+        "referenceType": "episode"
+      }
+    ],
+    "primeReferenceIndex": 0,
+    "primeReferenceTitle": "Loki"
+  },
+  {
+    "hash": "1d592176-26a2-5969-9ee9-82ab29c0f694",
+    "timeDescription": "1982",
+    "timeDescriptionParts": {
+      "primary": "1982",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Sylvie returns to McDonald and wish a Jack good night. Afterwards, she look over He Who Remains's TemPad in her possession. ",
+    "timeline": "The Time Variance Authority Time Zone/Timeline",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Loki_(Disney%2B_series)",
+        "text": "Loki",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Loki_Episode_2.02:_Breaking_Brad",
+        "text": "Breaking Brad",
         "referenceType": "episode"
       }
     ],

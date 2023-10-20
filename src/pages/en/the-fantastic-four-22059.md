@@ -18,21 +18,21 @@ watchLinks:
 {
     "adult": false,
     "backdrop_path": "/wQNYzjQKSZZ1eDJ0w1O62HPFDfN.jpg",
+    "id": 22059,
+    "title": "The Fantastic Four",
+    "original_language": "en",
+    "original_title": "The Fantastic Four",
+    "overview": "When dosed with cosmic rays, four intrepid astronauts are given incredible powers. They decide to form a superhero group called the Fantastic Four to fight their arch-enemy, Dr. Doom.",
+    "poster_path": "/2jJoV3Lze514jOAPagF4Fkp5Cl8.jpg",
+    "media_type": "movie",
     "genre_ids": [
         28,
         878,
         12
     ],
-    "id": 22059,
-    "media_type": "movie",
-    "original_language": "en",
-    "original_title": "The Fantastic Four",
-    "overview": "When dosed with cosmic rays, four intrepid astronauts are given incredible powers. They decide to form a superhero group called the Fantastic Four to fight their arch-enemy, Dr. Doom.",
-    "poster_path": "/2jJoV3Lze514jOAPagF4Fkp5Cl8.jpg",
     "release_date": "1994-05-31",
-    "title": "The Fantastic Four",
     "video": false,
-    "vote_average": 4.4,
+    "vote_average": 4.401,
     "slug": "the-fantastic-four",
     "tags": [
         "list-8204862"

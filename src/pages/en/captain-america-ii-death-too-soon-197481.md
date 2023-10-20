@@ -22,22 +22,22 @@ watchLinks:
 {
     "adult": false,
     "backdrop_path": "/911CxMNSN8EycQSnTcaIXC7DBx0.jpg",
+    "id": 197481,
+    "title": "Captain America II: Death Too Soon",
+    "original_language": "en",
+    "original_title": "Captain America II: Death Too Soon",
+    "overview": "Crimefighting Captain America rights more wrongs by doing battle with a fanatical terrorist who uses his deadly drug that causes accelerated aging to finance his world revolution.",
+    "poster_path": "/pocmh0P8Ddf5w33pP3Vuqm0JRP9.jpg",
+    "media_type": "movie",
     "genre_ids": [
         28,
         18,
         878,
         10770
     ],
-    "id": 197481,
-    "media_type": "movie",
-    "original_language": "en",
-    "original_title": "Captain America II: Death Too Soon",
-    "overview": "Crimefighting Captain America rights more wrongs by doing battle with a fanatical terrorist who uses his deadly drug that causes accelerated aging to finance his world revolution.",
-    "poster_path": "/pocmh0P8Ddf5w33pP3Vuqm0JRP9.jpg",
     "release_date": "1979-11-23",
-    "title": "Captain America II: Death Too Soon",
     "video": false,
-    "vote_average": 3.6,
+    "vote_average": 3.625,
     "slug": "captain-america-ii-death-too-soon",
     "tags": [
         "list-8204862"

@@ -42,6 +42,7 @@ tags:
         "company-7505",
         "list-8204859"
     ],
+    "adult": false,
     "media_type": "tv"
 }
 

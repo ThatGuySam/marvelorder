@@ -41,6 +41,7 @@ watchLinks:
         "company-19551",
         "list-8204859"
     ],
+    "adult": false,
     "media_type": "tv"
 }
 

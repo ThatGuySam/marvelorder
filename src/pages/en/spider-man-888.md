@@ -14,23 +14,24 @@ watchLinks:
 ## TMDB Data
 ```json
 {
-    "backdrop_path": "/4QNBIgt5fwgNCN3OSU6BTFv0NGR.jpg",
-    "first_air_date": "1994-11-19",
-    "genre_ids": [
-        16,
-        10759
-    ],
+    "adult": false,
+    "backdrop_path": "/qswUZOrDmdgphL6ZuyD3qXnyqLD.jpg",
     "id": 888,
-    "media_type": "tv",
     "name": "Spider-Man",
-    "origin_country": [
-        "US"
-    ],
     "original_language": "en",
     "original_name": "Spider-Man",
     "overview": "Bitten by a radioactive spider, Peter Parker develops spider-like superpowers. He uses these to fight crime while trying to balance it with the struggles of his personal life.",
     "poster_path": "/AsDMNZ2LtBQlN6WeS2YsWXL7dEX.jpg",
-    "vote_average": 8.3,
+    "media_type": "tv",
+    "genre_ids": [
+        16,
+        10759
+    ],
+    "first_air_date": "1994-11-19",
+    "vote_average": 8.284,
+    "origin_country": [
+        "US"
+    ],
     "title": "Spider-Man",
     "slug": "spider-man",
     "tags": [

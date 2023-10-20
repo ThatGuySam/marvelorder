@@ -12,23 +12,24 @@ watchLinks:
 ## TMDB Data
 ```json
 {
+    "adult": false,
     "backdrop_path": "/49VI6PxMo3swVqq0VLELEQ2fpks.jpg",
-    "first_air_date": "1978-04-05",
-    "genre_ids": [
-        10765,
-        10759
-    ],
     "id": 4552,
-    "media_type": "tv",
     "name": "The Amazing Spider-Man",
-    "origin_country": [
-        "US"
-    ],
     "original_language": "en",
     "original_name": "The Amazing Spider-Man",
     "overview": "The first live-action TV series based on the popular comic book.",
     "poster_path": "/kUTCJhSnH3Dt0KVzcQp8DnbmsjN.jpg",
+    "media_type": "tv",
+    "genre_ids": [
+        10765,
+        10759
+    ],
+    "first_air_date": "1978-04-05",
     "vote_average": 6,
+    "origin_country": [
+        "US"
+    ],
     "title": "The Amazing Spider-Man",
     "slug": "the-amazing-spider-man",
     "tags": [
