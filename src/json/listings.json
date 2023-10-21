@@ -773,7 +773,7 @@
 		"release_date": "2023-06-16",
 		"title": "Stan Lee",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.2,
 		"slug": "stan-lee",
 		"tags": [
 			"movie",
@@ -1911,7 +1911,7 @@
 		],
 		"release_date": "2020-04-02",
 		"video": false,
-		"vote_average": 6.142,
+		"vote_average": 6.1,
 		"slug": "the-new-mutants",
 		"tags": [
 			"list-8204860"
@@ -2045,7 +2045,7 @@
 		],
 		"release_date": "2019-06-05",
 		"video": false,
-		"vote_average": 5.992,
+		"vote_average": 5.993,
 		"slug": "dark-phoenix",
 		"tags": [
 			"list-8204860"
@@ -2232,7 +2232,7 @@
 		"release_date": "2018-07-04",
 		"title": "Ant-Man and the Wasp",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 6.9,
 		"slug": "ant-man-and-the-wasp",
 		"tags": [
 			"movie",
@@ -2304,7 +2304,7 @@
 		],
 		"release_date": "2018-05-10",
 		"video": false,
-		"vote_average": 7.492,
+		"vote_average": 7.5,
 		"slug": "deadpool-2",
 		"tags": [
 			"list-8204860"
@@ -3266,7 +3266,7 @@
 		],
 		"release_date": "2014-05-15",
 		"video": false,
-		"vote_average": 7.524,
+		"vote_average": 7.525,
 		"slug": "x-men-days-of-future-past",
 		"tags": [
 			"list-8204860"
@@ -4231,7 +4231,7 @@
 		],
 		"release_date": "2009-04-28",
 		"video": false,
-		"vote_average": 6.253,
+		"vote_average": 6.254,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"list-8204860"
@@ -5364,7 +5364,7 @@
 		"release_date": "1986-08-01",
 		"title": "Howard the Duck",
 		"video": false,
-		"vote_average": 5.397,
+		"vote_average": 5.4,
 		"slug": "howard-the-duck",
 		"tags": [
 			"movie",
@@ -5439,7 +5439,7 @@
 		],
 		"release_date": "1979-11-23",
 		"video": false,
-		"vote_average": 3.625,
+		"vote_average": 3.659,
 		"slug": "captain-america-ii-death-too-soon",
 		"tags": [
 			"list-8204862"
@@ -5486,7 +5486,7 @@
 		],
 		"release_date": "1979-01-19",
 		"video": false,
-		"vote_average": 3.807,
+		"vote_average": 3.862,
 		"slug": "captain-america",
 		"tags": [
 			"list-8204862"
@@ -5708,7 +5708,7 @@
 		],
 		"release_date": "1977-11-04",
 		"video": false,
-		"vote_average": 6.343,
+		"vote_average": 6.341,
 		"slug": "the-incredible-hulk",
 		"tags": [
 			"list-8204862"

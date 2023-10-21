@@ -26,7 +26,7 @@ tags:
     "release_date": "2023-06-16",
     "title": "Stan Lee",
     "video": false,
-    "vote_average": 7.3,
+    "vote_average": 7.2,
     "slug": "stan-lee",
     "tags": [
         "movie",
