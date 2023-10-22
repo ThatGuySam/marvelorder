@@ -28,7 +28,7 @@ logo_on_black: /.netlify/functions/fanart/the-incredible-hulk-1982-5950c1b13ae4f
     ],
     "release_date": "1977-11-04",
     "video": false,
-    "vote_average": 6.341,
+    "vote_average": 6.3,
     "slug": "the-incredible-hulk",
     "tags": [
         "list-8204862"
