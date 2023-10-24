@@ -234,6 +234,31 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": "/mbY234XwMwEofAdX8yddNcK82wi.jpg",
+		"genre_ids": [
+			28,
+			12,
+			35
+		],
+		"id": 533535,
+		"original_language": "en",
+		"original_title": "Deadpool 3",
+		"overview": "",
+		"poster_path": "/4gdqWCVvidYR0pOHuVOqFundbUG.jpg",
+		"title": "Deadpool 3",
+		"video": false,
+		"vote_average": 0,
+		"slug": "deadpool-3",
+		"tags": [
+			"movie",
+			"company-420",
+			"list-8204860"
+		],
+		"media_type": "movie",
+		"release_date": ""
+	},
+	{
+		"adult": false,
 		"backdrop_path": null,
 		"genre_ids": [
 			878,
@@ -581,31 +606,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/mbY234XwMwEofAdX8yddNcK82wi.jpg",
-		"genre_ids": [
-			28,
-			12,
-			35
-		],
-		"id": 533535,
-		"original_language": "en",
-		"original_title": "Deadpool 3",
-		"overview": "The third installment in the Deadpool franchise.",
-		"poster_path": "/4gdqWCVvidYR0pOHuVOqFundbUG.jpg",
-		"release_date": "2024-04-30",
-		"title": "Deadpool 3",
-		"video": false,
-		"vote_average": 0,
-		"slug": "deadpool-3",
-		"tags": [
-			"movie",
-			"company-420",
-			"list-8204860"
-		],
-		"media_type": "movie"
-	},
-	{
-		"adult": false,
 		"backdrop_path": null,
 		"genre_ids": [
 			28,
@@ -650,7 +650,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/w4pRLYYbhHn3sh9kqRgPZM6GjyS.jpg",
+		"backdrop_path": "/feSiISwgEpVzR1v3zv2n2AU4ANJ.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -1911,7 +1911,7 @@
 		],
 		"release_date": "2020-04-02",
 		"video": false,
-		"vote_average": 6.1,
+		"vote_average": 6.141,
 		"slug": "the-new-mutants",
 		"tags": [
 			"list-8204860"
@@ -2468,7 +2468,7 @@
 		"original_name": "The Gifted",
 		"overview": "A suburban couple's ordinary lives are rocked by the sudden discovery that their children possess mutant powers. Forced to go on the run from a hostile government, the family joins up with an underground network of mutants and must fight to survive.",
 		"poster_path": "/nshCqszjTNuqhrB53vrSqWO18sE.jpg",
-		"vote_average": 7.684,
+		"vote_average": 7.683,
 		"title": "The Gifted",
 		"slug": "the-gifted",
 		"tags": [
@@ -3608,7 +3608,7 @@
 		],
 		"release_date": "2013-07-23",
 		"video": false,
-		"vote_average": 6.397,
+		"vote_average": 6.398,
 		"slug": "the-wolverine",
 		"tags": [
 			"list-8204860"
@@ -4089,7 +4089,7 @@
 		"original_name": "The Avengers: Earth's Mightiest Heroes",
 		"overview": "When the powers of a single hero are not enough to save the world, the world’s greatest heroes—Iron Man, Thor, Captain America, The Hulk, Ant-Man/Giant Man and Wasp—assemble to form the Avengers.",
 		"poster_path": "/8MwwAuDy6dc1GbiBUZdvWtQczqR.jpg",
-		"vote_average": 8.2,
+		"vote_average": 8.211,
 		"title": "The Avengers: Earth's Mightiest Heroes",
 		"slug": "the-avengers-earths-mightiest-heroes",
 		"tags": [
