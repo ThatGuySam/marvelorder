@@ -15,7 +15,7 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/qswUZOrDmdgphL6ZuyD3qXnyqLD.jpg",
+    "backdrop_path": "/ci5s4uTOHAs1wluovw5ukftbNrN.jpg",
     "id": 888,
     "name": "Spider-Man",
     "original_language": "en",
@@ -28,7 +28,7 @@ watchLinks:
         10759
     ],
     "first_air_date": "1994-11-19",
-    "vote_average": 8.284,
+    "vote_average": 8.3,
     "origin_country": [
         "US"
     ],

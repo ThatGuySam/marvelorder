@@ -234,31 +234,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/mbY234XwMwEofAdX8yddNcK82wi.jpg",
-		"genre_ids": [
-			28,
-			12,
-			35
-		],
-		"id": 533535,
-		"original_language": "en",
-		"original_title": "Deadpool 3",
-		"overview": "",
-		"poster_path": "/4gdqWCVvidYR0pOHuVOqFundbUG.jpg",
-		"title": "Deadpool 3",
-		"video": false,
-		"vote_average": 0,
-		"slug": "deadpool-3",
-		"tags": [
-			"movie",
-			"company-420",
-			"list-8204860"
-		],
-		"media_type": "movie",
-		"release_date": ""
-	},
-	{
-		"adult": false,
 		"backdrop_path": null,
 		"genre_ids": [
 			878,
@@ -606,6 +581,31 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": "/mbY234XwMwEofAdX8yddNcK82wi.jpg",
+		"genre_ids": [
+			28,
+			12,
+			35
+		],
+		"id": 533535,
+		"original_language": "en",
+		"original_title": "Deadpool 3",
+		"overview": "",
+		"poster_path": "/4gdqWCVvidYR0pOHuVOqFundbUG.jpg",
+		"release_date": "2024-05-03",
+		"title": "Deadpool 3",
+		"video": false,
+		"vote_average": 0,
+		"slug": "deadpool-3",
+		"tags": [
+			"movie",
+			"company-420",
+			"list-8204860"
+		],
+		"media_type": "movie"
+	},
+	{
+		"adult": false,
 		"backdrop_path": null,
 		"genre_ids": [
 			28,
@@ -685,7 +685,7 @@
 		"release_date": "2023-09-20",
 		"title": "Marvel Studios Assembled: The Making of Secret Invasion",
 		"video": false,
-		"vote_average": 4.3,
+		"vote_average": 4.5,
 		"slug": "marvel-studios-assembled-the-making-of-secret-invasion",
 		"tags": [
 			"movie",
@@ -1794,7 +1794,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/8k5z4799HG2C5VxbBnU07SPMB8y.jpg",
+		"backdrop_path": "/1i1N0AVRb54H6ZFPDTwbo9MLxSF.jpg",
 		"first_air_date": "2021-01-15",
 		"genre_ids": [
 			10765,
@@ -2045,7 +2045,7 @@
 		],
 		"release_date": "2019-06-05",
 		"video": false,
-		"vote_average": 5.993,
+		"vote_average": 5.992,
 		"slug": "dark-phoenix",
 		"tags": [
 			"list-8204860"
@@ -3608,7 +3608,7 @@
 		],
 		"release_date": "2013-07-23",
 		"video": false,
-		"vote_average": 6.398,
+		"vote_average": 6.397,
 		"slug": "the-wolverine",
 		"tags": [
 			"list-8204860"
@@ -4880,6 +4880,33 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": "/A2BqbbSs9E4emekdxdvWzLK6lpx.jpg",
+		"id": 1449,
+		"name": "Mutant X",
+		"original_language": "en",
+		"original_name": "Mutant X",
+		"overview": "Mutant X is a science fiction television series that debuted on October 6, 2001. The show was created by Avi Arad, and it centers around Mutant X, a team of \"New Mutants\" who possess extraordinary powers as a result of genetic engineering. The members of Mutant X were used as test subjects in a series of covert government experiments. The mission of Mutant X is to seek out and protect their fellow New Mutants. The series was filmed in Toronto, Ontario, Canada.\n\nEven though the series had high ratings and was meant to be renewed for a fourth season, it was abruptly canceled in 2004 after the dismantling of Fireworks Entertainment, one of the show's production companies, ending the show on a cliffhanger.",
+		"poster_path": "/yiKg027jdpkSsguVBI9WqliNWez.jpg",
+		"media_type": "tv",
+		"genre_ids": [
+			10765,
+			10759,
+			9648
+		],
+		"first_air_date": "2001-10-06",
+		"vote_average": 6.571,
+		"origin_country": [
+			"CA",
+			"US"
+		],
+		"title": "Mutant X",
+		"slug": "mutant-x",
+		"tags": [
+			"list-8204860"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/chn9jBtOC65JlOd4IObtNjwX3UK.jpg",
 		"genre_ids": [
 			99
@@ -5104,7 +5131,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/qswUZOrDmdgphL6ZuyD3qXnyqLD.jpg",
+		"backdrop_path": "/ci5s4uTOHAs1wluovw5ukftbNrN.jpg",
 		"id": 888,
 		"name": "Spider-Man",
 		"original_language": "en",
@@ -5117,7 +5144,7 @@
 			10759
 		],
 		"first_air_date": "1994-11-19",
-		"vote_average": 8.284,
+		"vote_average": 8.3,
 		"origin_country": [
 			"US"
 		],
@@ -5759,7 +5786,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/1u1u49P0yhDV1a10a44imHoJlA1.jpg",
+		"backdrop_path": "/fVL0nCyOhdBaeX4KdfNaeqM9hlm.jpg",
 		"first_air_date": "1967-09-09",
 		"genre_ids": [
 			10762,
