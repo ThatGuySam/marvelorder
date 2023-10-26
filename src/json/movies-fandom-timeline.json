@@ -1,5 +1,31 @@
 [
   {
+    "hash": "b4e6d0a5-3c8b-58b5-9b94-5d1bcb8fa434",
+    "timeDescription": "Dawn of Time",
+    "timeDescriptionParts": {
+      "primary": "Dawn of Time",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Ego spontaneously manifests. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Ego",
+        "text": "Ego",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Guardians_of_the_Galaxy_Vol._2",
+        "text": "Guardians of the Galaxy Vol. 2",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 1,
+    "primeReferenceTitle": "Guardians of the Galaxy Vol. 2"
+  },
+  {
     "hash": "d57f9c7c-466f-51f8-8ba7-fcb5e9b2dff3",
     "timeDescription": "Dawn of Time",
     "timeDescriptionParts": {

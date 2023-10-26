@@ -82,6 +82,7 @@ This is the *most* official list for the Marvel Chronologically, aka by the time
 - February 14, 2024 - [Madame Web](https://marvelorder.com/en/madame-web-634492) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/madame-web-634492.md)
 - March 27, 2024 - [Spider-Man: Beyond the Spider-Verse](https://marvelorder.com/en/spider-man-beyond-the-spider-verse-911916) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/spider-man-beyond-the-spider-verse-911916.md)
 - April 1, 2024 - [Daredevil: Born Again](https://marvelorder.com/en/daredevil-born-again-202555) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/daredevil-born-again-202555.md)
+- May 3, 2024 - [Deadpool 3](https://marvelorder.com/en/deadpool-3-533535) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/deadpool-3-533535.md)
 - July 11, 2024 - [Venom 3](https://marvelorder.com/en/venom-3-912649) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/venom-3-912649.md)
 - July 24, 2024 - [Captain America: Brave New World](https://marvelorder.com/en/captain-america-brave-new-world-822119) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/captain-america-brave-new-world-822119.md)
 - December 18, 2024 - [Thunderbolts](https://marvelorder.com/en/thunderbolts-986056) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/thunderbolts-986056.md)
