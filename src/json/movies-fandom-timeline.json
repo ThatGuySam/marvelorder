@@ -1,13 +1,44 @@
 [
   {
-    "hash": "b4e6d0a5-3c8b-58b5-9b94-5d1bcb8fa434",
+    "hash": "0cf800b2-820f-5e38-9df9-5e13a4924e1c",
     "timeDescription": "Dawn of Time",
     "timeDescriptionParts": {
       "primary": "Dawn of Time",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "Ego spontaneously manifests. ",
+    "textContent": "The Celestials, led by Arishem, oversee the creation of the universe. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Celestials",
+        "text": "Celestials",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Arishem",
+        "text": "Arishem",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Eternals_(film)",
+        "text": "Eternals",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 2,
+    "primeReferenceTitle": "Eternals"
+  },
+  {
+    "hash": "43017e81-fc73-5c68-bb68-c6b0a3dc99c0",
+    "timeDescription": "Dawn of Time",
+    "timeDescriptionParts": {
+      "primary": "Dawn of Time",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Ego's consciousness spontaneously manifests. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -26,27 +57,38 @@
     "primeReferenceTitle": "Guardians of the Galaxy Vol. 2"
   },
   {
-    "hash": "d57f9c7c-466f-51f8-8ba7-fcb5e9b2dff3",
+    "hash": "a49f45d7-ba75-5cdb-93b2-e4e950f9114c",
     "timeDescription": "Dawn of Time",
     "timeDescriptionParts": {
       "primary": "Dawn of Time",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "The Celestials, titan-like beings ,who wield massive cosmic power, led by Arishem, who first created planets, suns and life-forms throughout the cosmos. In order to create more Celestials who continue to create life in the Universe, seeded planets with nascent Celestials. As the Emergence of a new Celestial required the presence of a large population of sentient beings on the world they were seeded into, the Celestials genetically engineered the Deviants to wipe out the planet's apex predators.",
+    "textContent": "The Big Bang occurs and the universe and Infinity Stones are born.",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
       {
-        "href": "/wiki/Celestials",
-        "text": "Celestials",
+        "href": "/wiki/Infinity_Stones",
+        "text": "Infinity Stones",
         "referenceType": "unknown"
-      },
-      {
-        "href": "/wiki/Arishem",
-        "text": "Arishem",
-        "referenceType": "unknown"
-      },
+      }
+    ],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
+  },
+  {
+    "hash": "26df5010-1873-54d8-8e74-376843423945",
+    "timeDescription": "Unknown Date",
+    "timeDescriptionParts": {
+      "primary": "Unknown Date",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "In order to create more Celestials who continue to create life in the Universe, seeded planets with nascent Celestials. As the Emergence of a new Celestial required the presence of a large population of sentient beings on the world they were seeded into, the Celestials genetically engineered the Deviants to wipe out the planet's apex predators. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
       {
         "href": "/wiki/Deviants",
         "text": "Deviants",
@@ -58,14 +100,14 @@
         "referenceType": "unknown"
       }
     ],
-    "primeReferenceIndex": 3,
+    "primeReferenceIndex": 1,
     "primeReferenceTitle": "Eternals"
   },
   {
     "hash": "18c7aac8-85ce-5cbb-a733-8f2a44bae34e",
-    "timeDescription": "Dawn of Time",
+    "timeDescription": "Unknown Date",
     "timeDescriptionParts": {
-      "primary": "Dawn of Time",
+      "primary": "Unknown Date",
       "secondary": "",
       "tertiary": ""
     },
@@ -88,40 +130,25 @@
     "primeReferenceTitle": "Eternals"
   },
   {
-    "hash": "50942184-04ed-5fae-b40f-1541dd6d4b50",
+    "hash": "18a7cbac-44b7-5ac3-ad11-4d19f8057906",
     "timeDescription": "Unknown Date",
     "timeDescriptionParts": {
       "primary": "Unknown Date",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "The Cosmic Entities create the Infinity Stones and the Celestials use the Power Stone to impose judgement upon enemy civilizations. Over time, the Beings are overwhelmed by the stone's power.",
+    "textContent": "The Celestials use the Power Stone to impose judgement upon enemy civilizations. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
-      {
-        "href": "/wiki/Cosmic_Entities",
-        "text": "Cosmic Entities",
-        "referenceType": "unknown"
-      },
-      {
-        "href": "/wiki/Infinity_Stones",
-        "text": "Infinity Stones",
-        "referenceType": "unknown"
-      },
       {
         "href": "/wiki/Celestials",
         "text": "Celestials",
         "referenceType": "unknown"
       },
       {
-        "href": "/wiki/The_Orb",
+        "href": "/wiki/Power_Stone",
         "text": "Power Stone",
-        "referenceType": "unknown"
-      },
-      {
-        "href": "/wiki/Cosmic_Beings",
-        "text": "Beings",
         "referenceType": "unknown"
       },
       {
@@ -130,7 +157,7 @@
         "referenceType": "unknown"
       }
     ],
-    "primeReferenceIndex": 5,
+    "primeReferenceIndex": 2,
     "primeReferenceTitle": "Guardians of the Galaxy"
   },
   {
@@ -22139,6 +22166,68 @@
     "primeReferenceTitle": "Loki"
   },
   {
+    "hash": "7c5190cf-4d59-5bca-b2bc-00a5e38f161a",
+    "timeDescription": "1868",
+    "timeDescriptionParts": {
+      "primary": "1868",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Ravonna Renslayer and Miss Minutes travel to Chicago, 1868 to secretly drop the TVA Guidebook to a young Victor Timely, a variant of He Who Remains, who informed Miss Minutes about this plan before his death. They then travel to 1893 at the Chicago World's Fair. ",
+    "timeline": "The Time Variance Authority Time Zone/Timeline",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Rebecca_Tourminet_(Ravonna_Renslayer)",
+        "text": "Ravonna Renslayer",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Miss_Minutes",
+        "text": "Miss Minutes",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Loki_(Disney%2B_series)",
+        "text": "Loki",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Loki_Episode_2.03:_1893",
+        "text": "1893",
+        "referenceType": "episode"
+      }
+    ],
+    "primeReferenceIndex": 2,
+    "primeReferenceTitle": "Loki"
+  },
+  {
+    "hash": "d042d011-f525-53e2-94f3-40c386236b69",
+    "timeDescription": "1893",
+    "timeDescriptionParts": {
+      "primary": "1893",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Loki and Mobius arrive tracking Renslayer's TemPad. There, they see Timely presenting his Temporal Loom prototype. Timely then has four groups chasing him. Loki and Mobius, who want to use his aura to fix the Loom; Renslayer and Miss Minutes, who want him to take his variant's place with them at his side Sylvie, who wants to kill him to prevent his rise to power and a robber baron and his allies wanting revenge against Timely's fake invention scam. At Timely's Wisconsin laboratory, he turns Miss Minutes off after she professes romantic love for him. Renslayer, Loki, Mobius, and Sylvie arrive, with Sylvie gaining control. Sylvie allows Loki to take Timely back to the TVA. She then sends Renslayer to the Citadel at the End of Time. ",
+    "timeline": "The Time Variance Authority Time Zone/Timeline",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Loki_(Disney%2B_series)",
+        "text": "Loki",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Loki_Episode_2.03:_1893",
+        "text": "1893",
+        "referenceType": "episode"
+      }
+    ],
+    "primeReferenceIndex": 0,
+    "primeReferenceTitle": "Loki"
+  },
+  {
     "hash": "df07bda3-400c-5976-8993-7bee5109a768",
     "timeDescription": "1977",
     "timeDescriptionParts": {
@@ -22903,6 +22992,32 @@
       }
     ],
     "primeReferenceIndex": 1,
+    "primeReferenceTitle": "Loki"
+  },
+  {
+    "hash": "551d4b7b-5923-5d53-8b42-870c4508e5e7",
+    "timeDescription": "End of Time Realm",
+    "timeDescriptionParts": {
+      "primary": "End of Time Realm",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Renslayer at the Citadel brought out Miss Minutes. They both see He Who Remains' corpse as Miss Minutes reveals that she knows a secret about Renslayer. ",
+    "timeline": "End of Time Realm",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Loki_(Disney%2B_series)",
+        "text": "Loki",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Loki_Episode_2.03:_1893",
+        "text": "1893",
+        "referenceType": "episode"
+      }
+    ],
+    "primeReferenceIndex": 0,
     "primeReferenceTitle": "Loki"
   },
   {

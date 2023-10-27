@@ -36,7 +36,7 @@ watchLinks:
     ],
     "release_date": "1978-12-21",
     "video": false,
-    "vote_average": 5.54,
+    "vote_average": 5.5,
     "slug": "spider-man-strikes-back",
     "tags": [
         "list-8204862"

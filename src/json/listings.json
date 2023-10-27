@@ -422,6 +422,28 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			878,
+			14
+		],
+		"id": 1196551,
+		"original_language": "en",
+		"original_title": "Thor 5",
+		"overview": "Rumored fifth installment in Marvel Studios’ Thor franchise.",
+		"poster_path": null,
+		"release_date": "",
+		"title": "Thor 5",
+		"video": false,
+		"vote_average": 0,
+		"slug": "thor-5",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/jqFC2WjYF07hx2X7cs0XmY9jBX6.jpg",
 		"genre_ids": [
 			28,
@@ -1321,7 +1343,7 @@
 		"release_date": "2022-05-25",
 		"title": "Marvel Studios Assembled: The Making of Moon Knight",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.2,
 		"slug": "marvel-studios-assembled-the-making-of-moon-knight",
 		"tags": [
 			"movie",
@@ -1911,7 +1933,7 @@
 		],
 		"release_date": "2020-04-02",
 		"video": false,
-		"vote_average": 6.1,
+		"vote_average": 6.14,
 		"slug": "the-new-mutants",
 		"tags": [
 			"list-8204860"
@@ -2228,7 +2250,7 @@
 		"original_language": "en",
 		"original_title": "Ant-Man and the Wasp",
 		"overview": "Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.",
-		"poster_path": "/zqXZ8jpg92txpFH0bB3Vic37TTW.jpg",
+		"poster_path": "/cFQEO687n1K6umXbInzocxcnAQz.jpg",
 		"release_date": "2018-07-04",
 		"title": "Ant-Man and the Wasp",
 		"video": false,
@@ -5123,7 +5145,7 @@
 			10759
 		],
 		"first_air_date": "1994-11-19",
-		"vote_average": 8.3,
+		"vote_average": 8.288,
 		"origin_country": [
 			"US"
 		],
@@ -5421,7 +5443,7 @@
 		],
 		"release_date": "1981-06-25",
 		"video": false,
-		"vote_average": 4.971,
+		"vote_average": 4.931,
 		"slug": "spider-man-the-dragons-challenge",
 		"tags": [
 			"list-8204862"
@@ -5517,7 +5539,7 @@
 		],
 		"release_date": "1978-12-21",
 		"video": false,
-		"vote_average": 5.54,
+		"vote_average": 5.5,
 		"slug": "spider-man-strikes-back",
 		"tags": [
 			"list-8204862"
@@ -5738,7 +5760,7 @@
 		],
 		"release_date": "1977-09-14",
 		"video": false,
-		"vote_average": 5.971,
+		"vote_average": 5.953,
 		"slug": "spider-man",
 		"tags": [
 			"list-8204862"
