@@ -15,20 +15,20 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/ci5s4uTOHAs1wluovw5ukftbNrN.jpg",
+    "backdrop_path": "/fFWdqlnBVNMLDneYUeQLFuPBq4Z.jpg",
     "id": 888,
     "name": "Spider-Man",
     "original_language": "en",
     "original_name": "Spider-Man",
     "overview": "Bitten by a radioactive spider, Peter Parker develops spider-like superpowers. He uses these to fight crime while trying to balance it with the struggles of his personal life.",
-    "poster_path": "/AsDMNZ2LtBQlN6WeS2YsWXL7dEX.jpg",
+    "poster_path": "/m78QRL6puLJ9pXSQ8XMd3dVKOOW.jpg",
     "media_type": "tv",
     "genre_ids": [
         16,
         10759
     ],
     "first_air_date": "1994-11-19",
-    "vote_average": 8.288,
+    "vote_average": 8.3,
     "origin_country": [
         "US"
     ],

@@ -39,7 +39,7 @@ watchLinks:
         9648
     ],
     "first_air_date": "2001-10-06",
-    "vote_average": 6.571,
+    "vote_average": 6.511,
     "origin_country": [
         "CA",
         "US"
