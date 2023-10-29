@@ -17,7 +17,7 @@ tags:
 ## TMDB Data
 ```json
 {
-    "backdrop_path": "/4N6zEMfZ57zNEQcM8gWeERFupMv.jpg",
+    "backdrop_path": "/us4lwjVLR2MF2c0vcOS8A4tC9h4.jpg",
     "first_air_date": "2021-08-11",
     "genre_ids": [
         16,

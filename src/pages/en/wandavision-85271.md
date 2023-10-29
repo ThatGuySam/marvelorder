@@ -30,7 +30,7 @@ mcuTimelineOrder: 481
     "original_language": "en",
     "original_name": "WandaVision",
     "overview": "Wanda Maximoff and Vision—two super-powered beings living idealized suburban lives—begin to suspect that everything is not as it seems.",
-    "poster_path": "/frobUz2X5Pc8OiVZU8Oo5K3NKMM.jpg",
+    "poster_path": "/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
     "vote_average": 8.3,
     "title": "WandaVision",
     "slug": "wandavision",
