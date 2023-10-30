@@ -557,31 +557,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
-			35,
-			16,
-			10751,
-			12,
-			28
-		],
-		"id": 1197028,
-		"original_language": "en",
-		"original_title": "The Lego Movie 3: A Powerpuff Adventure",
-		"overview": "Is a A Two Hours Later... Think Happen Did You Know When Emmet",
-		"poster_path": null,
-		"release_date": "2024-10-27",
-		"title": "The Lego Movie 3: A Powerpuff Adventure",
-		"video": false,
-		"vote_average": 0,
-		"slug": "the-lego-movie-3-a-powerpuff-adventure",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": "/qYvpc3qLb0LpGOBS7JOq5RxYt0x.jpg",
 		"genre_ids": [
 			28,
@@ -713,6 +688,29 @@
 		"video": false,
 		"vote_average": 0,
 		"slug": "the-marvels",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/zsOuIQUpuEJqpGoHfoyMr2O3yOW.jpg",
+		"genre_ids": [
+			14,
+			12,
+			28
+		],
+		"id": 1197625,
+		"original_language": "en",
+		"original_title": "Spider-Man Lotus",
+		"overview": "",
+		"poster_path": "/hBYEaAbzRLDkTXutzyjCqL2Ej0e.jpg",
+		"release_date": "2023-10-24",
+		"title": "Spider-Man Lotus",
+		"video": false,
+		"vote_average": 0,
+		"slug": "spider-man-lotus",
 		"tags": [
 			"movie",
 			"company-420"
@@ -1958,7 +1956,7 @@
 		],
 		"release_date": "2020-04-02",
 		"video": false,
-		"vote_average": 6.1,
+		"vote_average": 6.14,
 		"slug": "the-new-mutants",
 		"tags": [
 			"list-8204860"
@@ -2390,7 +2388,7 @@
 		"original_language": "en",
 		"original_title": "Team Darryl",
 		"overview": "Fresh off being unseated as the ruler of Sakaar, the Grandmaster makes his way to Earth to start a new life. It's been over a year since Thor left Australia and Darryl has been struggling to pay his rent. Now Darryl needs a new roommate to help make the monthly payments. Unfortunately for Darryl, the Grandmaster was the only one who answered Darryl's \"Roommate Needed\" ad and with no viable options, the Grandmaster moves in.",
-		"poster_path": "/axlLFvTfV4W8zbWby7H4vf1vMPq.jpg",
+		"poster_path": "/edroTAeTEM9ILyAnumA0ALxRSne.jpg",
 		"release_date": "2018-02-20",
 		"title": "Team Darryl",
 		"video": false,
@@ -3655,7 +3653,7 @@
 		],
 		"release_date": "2013-07-23",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.398,
 		"slug": "the-wolverine",
 		"tags": [
 			"list-8204860"
@@ -4257,7 +4255,7 @@
 		],
 		"release_date": "2009-04-28",
 		"video": false,
-		"vote_average": 6.3,
+		"vote_average": 6.254,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"list-8204860"
@@ -5248,7 +5246,7 @@
 		],
 		"release_date": "1994-05-31",
 		"video": false,
-		"vote_average": 4.401,
+		"vote_average": 4.402,
 		"slug": "the-fantastic-four",
 		"tags": [
 			"list-8204862"
@@ -5323,7 +5321,7 @@
 		],
 		"release_date": "1990-02-18",
 		"video": false,
-		"vote_average": 4.9,
+		"vote_average": 4.949,
 		"slug": "the-death-of-the-incredible-hulk",
 		"tags": [
 			"list-8204862"
@@ -5371,7 +5369,7 @@
 		],
 		"release_date": "1989-05-07",
 		"video": false,
-		"vote_average": 6.305,
+		"vote_average": 6.289,
 		"slug": "the-trial-of-the-incredible-hulk",
 		"tags": [
 			"list-8204862"
@@ -5492,7 +5490,7 @@
 		],
 		"release_date": "1979-11-23",
 		"video": false,
-		"vote_average": 3.659,
+		"vote_average": 3.667,
 		"slug": "captain-america-ii-death-too-soon",
 		"tags": [
 			"list-8204862"
@@ -5539,7 +5537,7 @@
 		],
 		"release_date": "1979-01-19",
 		"video": false,
-		"vote_average": 3.839,
+		"vote_average": 3.842,
 		"slug": "captain-america",
 		"tags": [
 			"list-8204862"
@@ -5761,7 +5759,7 @@
 		],
 		"release_date": "1977-11-04",
 		"video": false,
-		"vote_average": 6.3,
+		"vote_average": 6.342,
 		"slug": "the-incredible-hulk",
 		"tags": [
 			"list-8204862"
@@ -5906,7 +5904,7 @@
 		],
 		"release_date": "1944-02-05",
 		"video": false,
-		"vote_average": 5.6,
+		"vote_average": 5.635,
 		"slug": "captain-america",
 		"tags": [
 			"list-8204862"

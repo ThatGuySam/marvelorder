@@ -37,7 +37,7 @@ watchLinks:
     ],
     "release_date": "1979-01-19",
     "video": false,
-    "vote_average": 3.839,
+    "vote_average": 3.842,
     "slug": "captain-america",
     "tags": [
         "list-8204862"
