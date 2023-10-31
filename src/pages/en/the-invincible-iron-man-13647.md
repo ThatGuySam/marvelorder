@@ -31,7 +31,7 @@ watchLinks:
     "release_date": "2007-01-23",
     "title": "The Invincible Iron Man",
     "video": false,
-    "vote_average": 6.124,
+    "vote_average": 6.142,
     "slug": "the-invincible-iron-man",
     "tags": [
         "movie",

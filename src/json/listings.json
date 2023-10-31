@@ -695,29 +695,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/zsOuIQUpuEJqpGoHfoyMr2O3yOW.jpg",
-		"genre_ids": [
-			14,
-			12,
-			28
-		],
-		"id": 1197625,
-		"original_language": "en",
-		"original_title": "Spider-Man Lotus",
-		"overview": "",
-		"poster_path": "/hBYEaAbzRLDkTXutzyjCqL2Ej0e.jpg",
-		"release_date": "2023-10-24",
-		"title": "Spider-Man Lotus",
-		"video": false,
-		"vote_average": 0,
-		"slug": "spider-man-lotus",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": "/phHZMvFlj5A03gzp7bhmQl8BInz.jpg",
 		"genre_ids": [
 			99
@@ -730,7 +707,7 @@
 		"release_date": "2023-09-20",
 		"title": "Marvel Studios Assembled: The Making of Secret Invasion",
 		"video": false,
-		"vote_average": 4.7,
+		"vote_average": 4.8,
 		"slug": "marvel-studios-assembled-the-making-of-secret-invasion",
 		"tags": [
 			"movie",
@@ -1276,7 +1253,7 @@
 		"release_date": "2022-07-08",
 		"title": "Marvel Studios Assembled: The Making of Doctor Strange in the Multiverse of Madness",
 		"video": false,
-		"vote_average": 7.4,
+		"vote_average": 7.1,
 		"slug": "marvel-studios-assembled-the-making-of-doctor-strange-in-the-multiverse-of-madness",
 		"tags": [
 			"movie",
@@ -1604,7 +1581,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/rAksPS6LjBONzY84szQBz5gGej6.jpg",
+		"backdrop_path": "/cinER0ESG0eJ49kXlExM0MEWGxW.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -1614,7 +1591,7 @@
 		"original_language": "en",
 		"original_title": "Shang-Chi and the Legend of the Ten Rings",
 		"overview": "Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.",
-		"poster_path": "/9f2Q0U3IOsLgrI2HkvldwSABZy5.jpg",
+		"poster_path": "/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg",
 		"release_date": "2021-09-01",
 		"title": "Shang-Chi and the Legend of the Ten Rings",
 		"video": false,
@@ -2233,7 +2210,7 @@
 		],
 		"release_date": "2018-12-06",
 		"video": false,
-		"vote_average": 8.405,
+		"vote_average": 8.404,
 		"slug": "spider-man-into-the-spider-verse",
 		"tags": [
 			"list-8204859"
@@ -2349,7 +2326,7 @@
 		],
 		"release_date": "2018-05-10",
 		"video": false,
-		"vote_average": 7.492,
+		"vote_average": 7.491,
 		"slug": "deadpool-2",
 		"tags": [
 			"list-8204860"
@@ -3311,7 +3288,7 @@
 		],
 		"release_date": "2014-05-15",
 		"video": false,
-		"vote_average": 7.525,
+		"vote_average": 7.5,
 		"slug": "x-men-days-of-future-past",
 		"tags": [
 			"list-8204860"
@@ -4517,7 +4494,7 @@
 		"release_date": "2007-01-23",
 		"title": "The Invincible Iron Man",
 		"video": false,
-		"vote_average": 6.124,
+		"vote_average": 6.142,
 		"slug": "the-invincible-iron-man",
 		"tags": [
 			"movie",
@@ -4852,7 +4829,7 @@
 		],
 		"release_date": "2003-04-27",
 		"video": false,
-		"vote_average": 7.028,
+		"vote_average": 7,
 		"slug": "x2",
 		"tags": [
 			"list-8204860"
@@ -5415,7 +5392,7 @@
 		"release_date": "1986-08-01",
 		"title": "Howard the Duck",
 		"video": false,
-		"vote_average": 5.403,
+		"vote_average": 5.4,
 		"slug": "howard-the-duck",
 		"tags": [
 			"movie",
@@ -5732,7 +5709,7 @@
 			18
 		],
 		"first_air_date": "1977-11-04",
-		"vote_average": 7.205,
+		"vote_average": 7.19,
 		"origin_country": [
 			"US"
 		],

@@ -16,7 +16,7 @@ mcuTimelineOrder: 490
 ```json
 {
     "adult": false,
-    "backdrop_path": "/rAksPS6LjBONzY84szQBz5gGej6.jpg",
+    "backdrop_path": "/cinER0ESG0eJ49kXlExM0MEWGxW.jpg",
     "genre_ids": [
         28,
         12,
@@ -26,7 +26,7 @@ mcuTimelineOrder: 490
     "original_language": "en",
     "original_title": "Shang-Chi and the Legend of the Ten Rings",
     "overview": "Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.",
-    "poster_path": "/9f2Q0U3IOsLgrI2HkvldwSABZy5.jpg",
+    "poster_path": "/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg",
     "release_date": "2021-09-01",
     "title": "Shang-Chi and the Legend of the Ten Rings",
     "video": false,
