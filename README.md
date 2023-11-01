@@ -77,7 +77,6 @@ This is the *most* official list for the Marvel Chronologically, aka by the time
 ## Upcoming
 <!-- start-upcoming-list -->
 
-- November 1, 2023 - [Agatha: Coven of Chaos](https://marvelorder.com/en/agatha-house-of-harkness-138501) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/agatha-house-of-harkness-138501.md)
 - November 8, 2023 - [The Marvels](https://marvelorder.com/en/the-marvels-609681) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/the-marvels-609681.md)
 - February 14, 2024 - [Madame Web](https://marvelorder.com/en/madame-web-634492) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/madame-web-634492.md)
 - March 27, 2024 - [Spider-Man: Beyond the Spider-Verse](https://marvelorder.com/en/spider-man-beyond-the-spider-verse-911916) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/spider-man-beyond-the-spider-verse-911916.md)

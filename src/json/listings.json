@@ -430,7 +430,7 @@
 		"id": 1196551,
 		"original_language": "en",
 		"original_title": "Thor 5",
-		"overview": "The fifth installment in Marvel Studios’ Thor franchise is officially in development at Marvel Studios. Marvel is currently searching for a new director to helm the film, meaning Taika Waititi will not return.",
+		"overview": "Rumored fifth installment in Marvel Studios’ Thor franchise.",
 		"poster_path": null,
 		"release_date": "",
 		"title": "Thor 5",
@@ -707,7 +707,7 @@
 		"release_date": "2023-09-20",
 		"title": "Marvel Studios Assembled: The Making of Secret Invasion",
 		"video": false,
-		"vote_average": 4.8,
+		"vote_average": 4.7,
 		"slug": "marvel-studios-assembled-the-making-of-secret-invasion",
 		"tags": [
 			"movie",
@@ -997,7 +997,7 @@
 		"release_date": "2022-11-03",
 		"title": "Marvel Studios Assembled: The Making of She-Hulk: Attorney at Law",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7,
 		"slug": "marvel-studios-assembled-the-making-of-she-hulk-attorney-at-law",
 		"tags": [
 			"movie",
@@ -1208,7 +1208,7 @@
 		"release_date": "2022-08-03",
 		"title": "Marvel Studios Assembled: The Making of Ms. Marvel",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.2,
 		"slug": "marvel-studios-assembled-the-making-of-ms-marvel",
 		"tags": [
 			"movie",
@@ -1698,7 +1698,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/q3jHCb4dMfYF6ojikKuHd6LscxC.jpg",
+		"backdrop_path": "/sI1DPJUDRxkqfxDLg41q7mee2fA.jpg",
 		"first_air_date": "2021-06-09",
 		"genre_ids": [
 			18,
@@ -1866,7 +1866,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/22q9jvuQ6wGBOpr4JPMmTq7WcKd.jpg",
+		"backdrop_path": "/qCReQONjNVaW4QFN2V5vCOzPvex.jpg",
 		"first_air_date": "2020-10-16",
 		"genre_ids": [
 			10759,
@@ -1933,7 +1933,7 @@
 		],
 		"release_date": "2020-04-02",
 		"video": false,
-		"vote_average": 6.14,
+		"vote_average": 6.139,
 		"slug": "the-new-mutants",
 		"tags": [
 			"list-8204860"
@@ -3193,11 +3193,11 @@
 		],
 		"id": 299969,
 		"original_language": "en",
-		"original_title": "Marvel: 75 Years, From Pulp to Pop!",
+		"original_title": "Marvel - 75 Years: From Pulp to Pop!",
 		"overview": "In celebration of the publisher's 75th anniversary, the hour-long special will take a detailed look at the company's journey from fledgling comics publisher to multi-media juggernaut. Hosted by Emily VanCamp (S.H.I.E.L.D. Agent Sharon Carter), the documentary-style feature will include interviews with comic book icons, pop culture authorities, and Hollywood stars.  The special also promises an \"extraordinary peek into Marvel's future!\" Might Marvel release the first official footage from next year's Avengers: Age of Ultron or Ant-Man? If they do, you'll know about it here.",
 		"poster_path": "/biud0bsRfQryGBfcTXN2ep6ODwM.jpg",
 		"release_date": "2014-11-04",
-		"title": "Marvel: 75 Years, From Pulp to Pop!",
+		"title": "Marvel - 75 Years: From Pulp to Pop!",
 		"video": false,
 		"vote_average": 6.8,
 		"slug": "marvel-75-years-from-pulp-to-pop",
@@ -3288,7 +3288,7 @@
 		],
 		"release_date": "2014-05-15",
 		"video": false,
-		"vote_average": 7.5,
+		"vote_average": 7.525,
 		"slug": "x-men-days-of-future-past",
 		"tags": [
 			"list-8204860"
@@ -4026,7 +4026,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/DJ05KEWIf3KdMmoj7qhU4wYxRv.jpg",
+		"backdrop_path": "/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg",
 		"genre_ids": [
 			12,
 			14,
@@ -4829,7 +4829,7 @@
 		],
 		"release_date": "2003-04-27",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 7.028,
 		"slug": "x2",
 		"tags": [
 			"list-8204860"
