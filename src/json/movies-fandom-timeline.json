@@ -22166,6 +22166,32 @@
     "primeReferenceTitle": "Loki"
   },
   {
+    "hash": "910dda0d-e020-5472-89d0-f05cfa6dd357",
+    "timeDescription": "Unknown Time",
+    "timeDescriptionParts": {
+      "primary": "Unknown Time",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "At the TVA employees, the Temporal Loom reaches catastrophic failure, Loki and his allies attempt to use Timely and Ouroboros's Throughput Multiplier to fix it. It is revealed that the source of Ouroboros's knowledge is Timely himself, creating an ontological paradox. Renslayer and Miss Minutes attempt to take over the TVA, approaching the detained Wolfe, Dox and her loyalists for help. Only Brad agrees. Dox and her loyalists instead choose to be crushed to death by Miss Minutes. Wolfe prunes Hunter D-90 and kidnaps Timely. While staging a rescue, Sylvie and Loki encounter his time-slipping past self. Loki prunes his past self. Ouroboros deactivates Miss Minutes and the TVA's magic-suppressing devices. This enables Sylvie to enchant Brad, controlling him to prune Renslayer. Timely is rescued and is able to restore access to the Temporal Loom, but the Loom's increased temporal radiation spaghettifies him before he can launch the Throughput Multiplier. The Temporal Loom explodes, and the blast wave spreads toward Loki, Mobius, Sylvie, B-15, Casey, and Ouroboros in the TVA. ",
+    "timeline": "The Time Variance Authority Time Zone/Timeline",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Loki_(Disney%2B_series)",
+        "text": "Loki",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Loki_Episode_2.04:_Heart_of_the_TVA",
+        "text": "Heart of the TVA",
+        "referenceType": "episode"
+      }
+    ],
+    "primeReferenceIndex": 0,
+    "primeReferenceTitle": "Loki"
+  },
+  {
     "hash": "7c5190cf-4d59-5bca-b2bc-00a5e38f161a",
     "timeDescription": "1868",
     "timeDescriptionParts": {
@@ -23014,6 +23040,32 @@
       {
         "href": "/wiki/Loki_Episode_2.03:_1893",
         "text": "1893",
+        "referenceType": "episode"
+      }
+    ],
+    "primeReferenceIndex": 0,
+    "primeReferenceTitle": "Loki"
+  },
+  {
+    "hash": "b7261968-8638-5945-8c94-138cd0e5c50b",
+    "timeDescription": "End of Time Realm",
+    "timeDescriptionParts": {
+      "primary": "End of Time Realm",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Miss Minutes reveals that in the past, Renslayer commanded He Who Remains' army he proposed that Renslayer lead the TVA with him, then had Miss Minutes erase the memories of Renslayer and other TVA employees. ",
+    "timeline": "End of Time Realm",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Loki_(Disney%2B_series)",
+        "text": "Loki",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Loki_Episode_2.04:_Heart_of_the_TVA",
+        "text": "Heart of the TVA",
         "referenceType": "episode"
       }
     ],

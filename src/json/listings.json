@@ -682,7 +682,7 @@
 		"original_language": "en",
 		"original_title": "The Marvels",
 		"overview": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
-		"poster_path": "/y4YMYsGSMwu8e985g0Zbumvqxld.jpg",
+		"poster_path": "/8j7Qnegy40bscZUx2zJohkonaty.jpg",
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
@@ -695,7 +695,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
+		"backdrop_path": "/wyHRCgy5aD45VmCBv3aBxP2togQ.jpg",
 		"genre_ids": [
 			28,
 			27,
@@ -705,11 +705,11 @@
 		"original_language": "en",
 		"original_title": "Werewolf By Night In Color",
 		"overview": "",
-		"poster_path": "/6xjL2AxQ9KaLGxyDfSGr9bSWRkF.jpg",
+		"poster_path": "/9A4MGCj2y0AujLFo1UXq9AKp4Sx.jpg",
 		"release_date": "2023-10-20",
 		"title": "Werewolf By Night In Color",
 		"video": false,
-		"vote_average": 0,
+		"vote_average": 8,
 		"slug": "werewolf-by-night-in-color",
 		"tags": [
 			"movie",
@@ -730,7 +730,7 @@
 		"release_date": "2023-09-20",
 		"title": "Marvel Studios Assembled: The Making of Secret Invasion",
 		"video": false,
-		"vote_average": 4.5,
+		"vote_average": 4.3,
 		"slug": "marvel-studios-assembled-the-making-of-secret-invasion",
 		"tags": [
 			"movie",
@@ -1113,7 +1113,7 @@
 		"original_name": "I Am Groot",
 		"overview": "There’s no guarding the galaxy from this mischievous toddler! Get ready as Baby Groot takes center stage in his very own collection of shorts, exploring his glory days growing up and getting into trouble among the stars.",
 		"poster_path": "/lYwFSsP4KsoRhOLhJvBFp3GEGEm.jpg",
-		"vote_average": 7.4,
+		"vote_average": 7.3,
 		"title": "I Am Groot",
 		"slug": "i-am-groot",
 		"tags": [
@@ -1389,7 +1389,7 @@
 		"release_date": "2022-05-04",
 		"title": "Doctor Strange in the Multiverse of Madness",
 		"video": false,
-		"vote_average": 7.4,
+		"vote_average": 7.3,
 		"slug": "doctor-strange-in-the-multiverse-of-madness",
 		"tags": [
 			"movie",
@@ -2090,7 +2090,7 @@
 		],
 		"release_date": "2019-06-05",
 		"video": false,
-		"vote_average": 6,
+		"vote_average": 5.992,
 		"slug": "dark-phoenix",
 		"tags": [
 			"list-8204860"
@@ -2926,7 +2926,7 @@
 		],
 		"release_date": "2016-05-18",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.512,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"list-8204860"
@@ -3653,7 +3653,7 @@
 		],
 		"release_date": "2013-07-23",
 		"video": false,
-		"vote_average": 6.398,
+		"vote_average": 6.397,
 		"slug": "the-wolverine",
 		"tags": [
 			"list-8204860"
@@ -4742,7 +4742,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/pXzAbaFV8iNtflap5MqSyXcV8Qx.jpg",
+		"backdrop_path": "/aqaSgTT6jiAdx9aJ4xUI4G2MEXe.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -5269,7 +5269,7 @@
 			10759
 		],
 		"first_air_date": "1992-10-31",
-		"vote_average": 8.191,
+		"vote_average": 8.185,
 		"origin_country": [
 			"US"
 		],
