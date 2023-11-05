@@ -41,7 +41,7 @@ tags:
     "original_language": "en",
     "original_title": "Marvel Studios Assembled: The Making of Loki: Season 2",
     "overview": "Through candid interviews with the creative minds behind the show, and exclusive on-set footage, discover how the talented team that powered \"Loki: Season 2\" raised the stakes for this latest MCU adventure. Witness imaginative costumes, elaborate environments, and far-out variants come to life, meet new allies and foes, and time-slip across the Multiverse.",
-    "poster_path": null,
+    "poster_path": "/jtEnGQ33ltdILXMkrpDUicFGIvc.jpg",
     "release_date": "2023-11-29",
     "title": "Marvel Studios Assembled: The Making of Loki: Season 2",
     "video": false,

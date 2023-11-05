@@ -626,7 +626,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/z1ORktzKYzEUifGn9iIKeL4T1TG.jpg",
+		"backdrop_path": "/gkUFThxglJ1heDhmcRA7UlHbmYG.jpg",
 		"first_air_date": "2024-01-10",
 		"genre_ids": [
 			10759,
@@ -640,7 +640,7 @@
 		],
 		"original_language": "en",
 		"original_name": "Echo",
-		"overview": "After her ruthless behavior in New York City catches up with her in her hometown, Maya Lopez must face her past, reconnect with her Native American roots and embrace the meaning of family and community if she ever hopes to move forward.",
+		"overview": "Pursued by Wilson Fisk's criminal empire, Maya's journey brings her home and must confront her own family and legacy.",
 		"poster_path": "/vFyJH630cF68LohVYjQW49074Sy.jpg",
 		"vote_average": 0,
 		"title": "Echo",
@@ -660,7 +660,7 @@
 		"original_language": "en",
 		"original_title": "Marvel Studios Assembled: The Making of Loki: Season 2",
 		"overview": "Through candid interviews with the creative minds behind the show, and exclusive on-set footage, discover how the talented team that powered \"Loki: Season 2\" raised the stakes for this latest MCU adventure. Witness imaginative costumes, elaborate environments, and far-out variants come to life, meet new allies and foes, and time-slip across the Multiverse.",
-		"poster_path": null,
+		"poster_path": "/jtEnGQ33ltdILXMkrpDUicFGIvc.jpg",
 		"release_date": "2023-11-29",
 		"title": "Marvel Studios Assembled: The Making of Loki: Season 2",
 		"video": false,
@@ -683,7 +683,7 @@
 		"original_language": "en",
 		"original_title": "The Marvels",
 		"overview": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
-		"poster_path": "/lW7qHsNVo1hBtJugeE8BBJFUJd5.jpg",
+		"poster_path": "/7mUl9KCaQYGo3s1MSWNhXktBJDt.jpg",
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
@@ -729,7 +729,7 @@
 		"release_date": "2023-09-13",
 		"title": "Marvel Studios Assembled: The Making of the Guardians of the Galaxy Vol. 3",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 6.5,
 		"slug": "marvel-studios-assembled-the-making-of-the-guardians-of-the-galaxy-vol-3",
 		"tags": [
 			"movie",
@@ -841,7 +841,7 @@
 		"original_name": "Voices Rising: The Music of Wakanda Forever",
 		"overview": "A documentary series focusing on the music from Marvel Studios’ Black Panther: Wakanda Forever. The show centers on the songs and score from the movie and features interview with director Ryan Coogler, composer Ludwig Göransson, among others.",
 		"poster_path": "/tD0z0ONzplsO7JLkDk1cMTWR1Rd.jpg",
-		"vote_average": 5.8,
+		"vote_average": 5,
 		"title": "Voices Rising: The Music of Wakanda Forever",
 		"slug": "voices-rising-the-music-of-wakanda-forever",
 		"tags": [
@@ -1390,7 +1390,7 @@
 		"original_language": "en",
 		"original_name": "Moon Knight",
 		"overview": "When Steven Grant, a mild-mannered gift-shop employee, becomes plagued with blackouts and memories of another life, he discovers he has dissociative identity disorder and shares a body with mercenary Marc Spector. As Steven/Marc’s enemies converge upon them, they must navigate their complex identities while thrust into a deadly mystery among the powerful gods of Egypt.",
-		"poster_path": "/vKDUmKO6F9bSKKyHhg7YGbgcEeF.jpg",
+		"poster_path": "/11keFudto4QrgrXChukexJwdHPe.jpg",
 		"vote_average": 7.8,
 		"title": "Moon Knight",
 		"slug": "moon-knight",
@@ -1644,7 +1644,7 @@
 		"original_name": "Marvel's Spidey and His Amazing Friends",
 		"overview": "Follow Peter Parker, Gwen Stacy and Miles Morales and their adventures as the young heroes team up with Hulk, Ms. Marvel and Black Panther to defeat foes like Rhino, Doc Ock and Green Goblin and learn that teamwork is the best way to save the day.",
 		"poster_path": "/etO5jDS5WgR4Y1lTyXhQcilJ6u2.jpg",
-		"vote_average": 7.4,
+		"vote_average": 7.3,
 		"title": "Marvel's Spidey and His Amazing Friends",
 		"slug": "marvels-spidey-and-his-amazing-friends",
 		"tags": [
@@ -1934,7 +1934,7 @@
 		],
 		"release_date": "2020-04-02",
 		"video": false,
-		"vote_average": 6.139,
+		"vote_average": 6.14,
 		"slug": "the-new-mutants",
 		"tags": [
 			"list-8204860"
@@ -2491,7 +2491,7 @@
 		"original_name": "The Gifted",
 		"overview": "A suburban couple's ordinary lives are rocked by the sudden discovery that their children possess mutant powers. Forced to go on the run from a hostile government, the family joins up with an underground network of mutants and must fight to survive.",
 		"poster_path": "/nshCqszjTNuqhrB53vrSqWO18sE.jpg",
-		"vote_average": 7.678,
+		"vote_average": 7.7,
 		"title": "The Gifted",
 		"slug": "the-gifted",
 		"tags": [
@@ -2714,7 +2714,7 @@
 		],
 		"release_date": "2017-02-28",
 		"video": false,
-		"vote_average": 7.8,
+		"vote_average": 7.818,
 		"slug": "logan",
 		"tags": [
 			"list-8204860"
@@ -2904,7 +2904,7 @@
 		],
 		"release_date": "2016-05-18",
 		"video": false,
-		"vote_average": 6.512,
+		"vote_average": 6.5,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"list-8204860"
@@ -3996,7 +3996,7 @@
 		],
 		"release_date": "2011-06-01",
 		"video": false,
-		"vote_average": 7.296,
+		"vote_average": 7.3,
 		"slug": "x-men-first-class",
 		"tags": [
 			"list-8204860"
@@ -4112,7 +4112,7 @@
 		"original_name": "The Avengers: Earth's Mightiest Heroes",
 		"overview": "When the powers of a single hero are not enough to save the world, the world’s greatest heroes—Iron Man, Thor, Captain America, The Hulk, Ant-Man/Giant Man and Wasp—assemble to form the Avengers.",
 		"poster_path": "/8MwwAuDy6dc1GbiBUZdvWtQczqR.jpg",
-		"vote_average": 8.211,
+		"vote_average": 8.199,
 		"title": "The Avengers: Earth's Mightiest Heroes",
 		"slug": "the-avengers-earths-mightiest-heroes",
 		"tags": [
@@ -4830,7 +4830,7 @@
 		],
 		"release_date": "2003-04-27",
 		"video": false,
-		"vote_average": 7.028,
+		"vote_average": 7,
 		"slug": "x2",
 		"tags": [
 			"list-8204860"
@@ -4974,7 +4974,7 @@
 		],
 		"release_date": "2000-07-13",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 6.997,
 		"slug": "x-men",
 		"tags": [
 			"list-8204860"
@@ -5197,7 +5197,7 @@
 			10765
 		],
 		"first_air_date": "1994-09-24",
-		"vote_average": 6.7,
+		"vote_average": 6.64,
 		"origin_country": [
 			"US"
 		],
