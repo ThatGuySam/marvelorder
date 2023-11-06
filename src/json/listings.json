@@ -660,7 +660,7 @@
 		"original_language": "en",
 		"original_title": "Marvel Studios Assembled: The Making of Loki: Season 2",
 		"overview": "Through candid interviews with the creative minds behind the show, and exclusive on-set footage, discover how the talented team that powered \"Loki: Season 2\" raised the stakes for this latest MCU adventure. Witness imaginative costumes, elaborate environments, and far-out variants come to life, meet new allies and foes, and time-slip across the Multiverse.",
-		"poster_path": "/jtEnGQ33ltdILXMkrpDUicFGIvc.jpg",
+		"poster_path": "/Atv4Ri7u5jXCjYTWZQru7epIGi7.jpg",
 		"release_date": "2023-11-29",
 		"title": "Marvel Studios Assembled: The Making of Loki: Season 2",
 		"video": false,
@@ -683,11 +683,11 @@
 		"original_language": "en",
 		"original_title": "The Marvels",
 		"overview": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
-		"poster_path": "/7mUl9KCaQYGo3s1MSWNhXktBJDt.jpg",
+		"poster_path": "/Ag3D9qXjhJ2FUkrlJ0Cv1pgxqYQ.jpg",
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 0,
+		"vote_average": 8.6,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -1363,7 +1363,7 @@
 		"original_language": "en",
 		"original_title": "Doctor Strange in the Multiverse of Madness",
 		"overview": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
-		"poster_path": "/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+		"poster_path": "/fwBl3J2aEXru6mrr9Xg8O99Iz2K.jpg",
 		"release_date": "2022-05-04",
 		"title": "Doctor Strange in the Multiverse of Madness",
 		"video": false,
@@ -1390,7 +1390,7 @@
 		"original_language": "en",
 		"original_name": "Moon Knight",
 		"overview": "When Steven Grant, a mild-mannered gift-shop employee, becomes plagued with blackouts and memories of another life, he discovers he has dissociative identity disorder and shares a body with mercenary Marc Spector. As Steven/Marc’s enemies converge upon them, they must navigate their complex identities while thrust into a deadly mystery among the powerful gods of Egypt.",
-		"poster_path": "/11keFudto4QrgrXChukexJwdHPe.jpg",
+		"poster_path": "/x6FsYvt33846IQnDSFxla9j0RX8.jpg",
 		"vote_average": 7.8,
 		"title": "Moon Knight",
 		"slug": "moon-knight",
@@ -2648,7 +2648,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/x1FKNrbePCKPIQhvW6PywcT1uw0.jpg",
+		"backdrop_path": "/jLuoxdI4S6JxOdlQYg57JLwDuEK.jpg",
 		"first_air_date": "2017-03-14",
 		"genre_ids": [
 			10762,
@@ -2827,7 +2827,7 @@
 		"original_language": "en",
 		"original_title": "Doctor Strange",
 		"overview": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
-		"poster_path": "/7WfK17BXE6szXlm4WOxfswgbdsL.jpg",
+		"poster_path": "/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",
 		"release_date": "2016-10-25",
 		"title": "Doctor Strange",
 		"video": false,
@@ -2904,7 +2904,7 @@
 		],
 		"release_date": "2016-05-18",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.512,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"list-8204860"
@@ -3289,7 +3289,7 @@
 		],
 		"release_date": "2014-05-15",
 		"video": false,
-		"vote_average": 7.525,
+		"vote_average": 7.5,
 		"slug": "x-men-days-of-future-past",
 		"tags": [
 			"list-8204860"
@@ -3996,7 +3996,7 @@
 		],
 		"release_date": "2011-06-01",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.296,
 		"slug": "x-men-first-class",
 		"tags": [
 			"list-8204860"
@@ -4233,7 +4233,7 @@
 		],
 		"release_date": "2009-04-28",
 		"video": false,
-		"vote_average": 6.254,
+		"vote_average": 6.253,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"list-8204860"
@@ -4830,7 +4830,7 @@
 		],
 		"release_date": "2003-04-27",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 7.028,
 		"slug": "x2",
 		"tags": [
 			"list-8204860"
