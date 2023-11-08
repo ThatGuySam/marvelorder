@@ -686,7 +686,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 8.1,
+		"vote_average": 8.4,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -2067,7 +2067,7 @@
 		],
 		"release_date": "2019-06-05",
 		"video": false,
-		"vote_average": 5.992,
+		"vote_average": 5.993,
 		"slug": "dark-phoenix",
 		"tags": [
 			"list-8204860"
@@ -2186,7 +2186,7 @@
 		],
 		"release_date": "2018-12-11",
 		"video": false,
-		"vote_average": 7.15,
+		"vote_average": 7.2,
 		"slug": "once-upon-a-deadpool",
 		"tags": [
 			"list-8204860"
@@ -2690,7 +2690,7 @@
 		],
 		"release_date": "2017-03-03",
 		"video": false,
-		"vote_average": 7.149,
+		"vote_average": 7.1,
 		"slug": "deadpool-no-good-deed",
 		"tags": [
 			"list-8204860"
@@ -3675,7 +3675,7 @@
 			10765
 		],
 		"first_air_date": "2013-05-26",
-		"vote_average": 7.615,
+		"vote_average": 7.6,
 		"origin_country": [
 			"US"
 		],
@@ -4291,6 +4291,55 @@
 		]
 	},
 	{
+		"adult": false,
+		"backdrop_path": "/wS3ofKrgeSWR85TSvWCqo3hWvSf.jpg",
+		"genre_ids": [
+			16,
+			28,
+			878,
+			12,
+			14
+		],
+		"id": 15257,
+		"original_language": "en",
+		"original_title": "Hulk vs. Wolverine",
+		"overview": "Department H sends in Wolverine to track down a mysterious beast known by the US Military as the Hulk, who is rampaging across the Canadian wilderness. Surveying the extent of the damage to a destroyed town, Wolverine notices a toxic scent as well as the smell of gunpowder. He is then deployed to the wilderness to resume tracking the creature.",
+		"poster_path": "/p8PZfkrCuXanfYr3k6xAS6WzN8Y.jpg",
+		"release_date": "2009-01-27",
+		"title": "Hulk vs. Wolverine",
+		"video": false,
+		"vote_average": 7.1,
+		"slug": "hulk-vs-wolverine",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/1y6dEBTOzCyJRetN9fOtS0H7Vnx.jpg",
+		"genre_ids": [
+			28,
+			16,
+			14,
+			878
+		],
+		"id": 101907,
+		"original_language": "en",
+		"original_title": "Hulk vs. Thor",
+		"overview": "For ages, Odin has protected his kingdom of Asgard. But every winter, the All-Father must rest and regain his strength for one week. During this time, all of Asgard's foes (including trolls, giants, dark elves, and demons) try to claim the realm for their own, but they are always stopped by Odin's son, the mighty Thor, albeit with the loss of many brave Asgardian warriors. Loki, god of mischief, has kidnapped Dr. Bruce Banner and brought him to Asgard with the help of Amora, once Thor's lover, now the supervillain known as the Enchantress. Loki makes Banner angry and he changes into the Hulk. The Enchantress then casts a spell over the Hulk which separates Banner from his monstrous alter-ego and grants Loki control over the Hulk's body.",
+		"poster_path": "/pezTIa0SmmNIhjQWzo63OlBdpLf.jpg",
+		"release_date": "2009-01-27",
+		"title": "Hulk vs. Thor",
+		"video": false,
+		"vote_average": 6.8,
+		"slug": "hulk-vs-thor",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
 		"backdrop_path": "/uPbpYFYXlUdTDEmfoubKNfdEZZx.jpg",
 		"first_air_date": "2009-01-23",
 		"genre_ids": [
@@ -4336,6 +4385,31 @@
 		"tags": [
 			"movie",
 			"company-11106"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/gCzHEi6g8K0LIWlr6A38fmgtEfb.jpg",
+		"genre_ids": [
+			16,
+			10751,
+			28,
+			12,
+			878
+		],
+		"id": 14613,
+		"original_language": "en",
+		"original_title": "Next Avengers: Heroes of Tomorrow",
+		"overview": "The children of the Avengers hone their powers and go head to head with the very enemy responsible for their parents' demise.",
+		"poster_path": "/fpG1NDbcLV2a7c8X7LC4FPISBT7.jpg",
+		"release_date": "2008-09-02",
+		"title": "Next Avengers: Heroes of Tomorrow",
+		"video": false,
+		"vote_average": 6.9,
+		"slug": "next-avengers-heroes-of-tomorrow",
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -4406,6 +4480,30 @@
 		"tags": [
 			"tv",
 			"company-7505"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/vy3uI3PCQWVnoW7OrKzB65Ba02c.jpg",
+		"genre_ids": [
+			28,
+			16,
+			14,
+			878
+		],
+		"id": 14830,
+		"original_language": "en",
+		"original_title": "Doctor Strange",
+		"overview": "Dr. Stephen Strange embarks on a wondrous journey to the heights of a Tibetan mountain, where he seeks healing at the feet of the mysterious Ancient One.",
+		"poster_path": "/7ygcpWXsWmEc83j7zE8P0lvC0Q.jpg",
+		"release_date": "2007-08-14",
+		"title": "Doctor Strange",
+		"video": false,
+		"vote_average": 6.8,
+		"slug": "doctor-strange",
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -4494,11 +4592,12 @@
 		"release_date": "2007-01-23",
 		"title": "The Invincible Iron Man",
 		"video": false,
-		"vote_average": 6.142,
+		"vote_average": 6.1,
 		"slug": "the-invincible-iron-man",
 		"tags": [
 			"movie",
 			"company-7505",
+			"company-420",
 			"list-8204859"
 		],
 		"media_type": "movie"
@@ -4561,17 +4660,17 @@
 		],
 		"id": 14611,
 		"original_language": "en",
-		"original_title": "Ultimate Avengers 2: Rise of the Panther",
+		"original_title": "Ultimate Avengers 2",
 		"overview": "Mysterious Wakanda lies in the darkest heart of Africa, unknown to most of the world. An isolated land hidden behind closed borders, fiercely protected by its young king: Black Panther. But when brutal alien invaders attack, the threat leaves Black Panther with no option but to go against the sacred decrees of his people and ask for help from outsiders.",
 		"poster_path": "/h1PKqtjuTifmTU0EqM4W0Br2pHX.jpg",
 		"release_date": "2006-08-08",
-		"title": "Ultimate Avengers 2: Rise of the Panther",
+		"title": "Ultimate Avengers 2",
 		"video": false,
 		"vote_average": 6.7,
-		"slug": "ultimate-avengers-2-rise-of-the-panther",
+		"slug": "ultimate-avengers-2",
 		"tags": [
 			"movie",
-			"company-19551"
+			"company-420"
 		]
 	},
 	{
@@ -4592,7 +4691,7 @@
 		"original_name": "Blade: The Series",
 		"overview": "Blade is a half-man, half-vampire who employs his extraordinary powers in a crusade to save mankind from the demonic creatures who walk the night. Set in Detroit, Blade investigates the vampire house of Chthon. Along the way he forms an uneasy alliance with Krista Starr, a former military veteran who becomes entrenched in the world of vampires while investigating the murder of her twin brother.",
 		"poster_path": "/xthJ8MoYaJROntPHaI5mUrXd4Qs.jpg",
-		"vote_average": 6.7,
+		"vote_average": 6.5,
 		"title": "Blade: The Series",
 		"slug": "blade-the-series",
 		"tags": [
@@ -5298,7 +5397,7 @@
 		],
 		"release_date": "1990-02-18",
 		"video": false,
-		"vote_average": 4.9,
+		"vote_average": 4.993,
 		"slug": "the-death-of-the-incredible-hulk",
 		"tags": [
 			"list-8204862"
@@ -5346,7 +5445,7 @@
 		],
 		"release_date": "1989-05-07",
 		"video": false,
-		"vote_average": 6.289,
+		"vote_average": 6.306,
 		"slug": "the-trial-of-the-incredible-hulk",
 		"tags": [
 			"list-8204862"
@@ -5370,7 +5469,7 @@
 		],
 		"release_date": "1988-05-22",
 		"video": false,
-		"vote_average": 6.061,
+		"vote_average": 6.06,
 		"slug": "the-incredible-hulk-returns",
 		"tags": [
 			"list-8204862"

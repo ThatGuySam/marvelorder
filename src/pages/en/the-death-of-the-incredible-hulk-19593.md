@@ -32,7 +32,7 @@ watchLinks:
     ],
     "release_date": "1990-02-18",
     "video": false,
-    "vote_average": 4.9,
+    "vote_average": 4.993,
     "slug": "the-death-of-the-incredible-hulk",
     "tags": [
         "list-8204862"
