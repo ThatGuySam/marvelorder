@@ -18,31 +18,29 @@ vote_average: 7.1
 ## TMDB Data
 ```json
 {
+    "adult": false,
     "backdrop_path": "/9SE5E2g5DVBN9T3EIEYPhwdsZPr.jpg",
-    "first_air_date": "1978-05-17",
-    "genre_ids": [
-        10759,
-        10765
-    ],
     "id": 2640,
     "name": "Spider-Man",
-    "origin_country": [
-        "JP"
-    ],
     "original_language": "ja",
     "original_name": "スパイダーマン",
     "overview": "Follow the exploits of motorcycle racer turned super hero Takuya Yamashiro, as he slings and swings, battling the evil Iron Cross Army along the way. No, it's not the Spiderman most fans are used to, but it's fun, frantic and FREE.",
     "poster_path": "/38AVLCBEoQKJWMyzt9jkxqeefGb.jpg",
+    "media_type": "tv",
+    "genre_ids": [
+        10759,
+        10765
+    ],
+    "first_air_date": "1978-05-17",
     "vote_average": 7.2,
+    "origin_country": [
+        "JP"
+    ],
     "title": "Spider-Man",
     "slug": "spider-man",
     "tags": [
-        "tv",
-        "company-7505",
         "list-8204862"
-    ],
-    "adult": false,
-    "media_type": "tv"
+    ]
 }
 
 ```

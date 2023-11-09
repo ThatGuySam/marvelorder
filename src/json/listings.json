@@ -672,7 +672,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/feSiISwgEpVzR1v3zv2n2AU4ANJ.jpg",
+		"backdrop_path": "/x1dBfTThFQn3utzRFtlbmqw9crI.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -686,7 +686,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 8.4,
+		"vote_average": 7.3,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -2210,7 +2210,7 @@
 		],
 		"release_date": "2018-12-06",
 		"video": false,
-		"vote_average": 8.405,
+		"vote_average": 8.404,
 		"slug": "spider-man-into-the-spider-verse",
 		"tags": [
 			"list-8204859"
@@ -3193,17 +3193,17 @@
 		],
 		"id": 299969,
 		"original_language": "en",
-		"original_title": "Marvel - 75 Years: From Pulp to Pop!",
+		"original_title": "Marvel: 75 Years, from Pulp to Pop!",
 		"overview": "In celebration of the publisher's 75th anniversary, the hour-long special will take a detailed look at the company's journey from fledgling comics publisher to multi-media juggernaut. Hosted by Emily VanCamp (S.H.I.E.L.D. Agent Sharon Carter), the documentary-style feature will include interviews with comic book icons, pop culture authorities, and Hollywood stars.  The special also promises an \"extraordinary peek into Marvel's future!\" Might Marvel release the first official footage from next year's Avengers: Age of Ultron or Ant-Man? If they do, you'll know about it here.",
 		"poster_path": "/biud0bsRfQryGBfcTXN2ep6ODwM.jpg",
 		"release_date": "2014-11-04",
-		"title": "Marvel - 75 Years: From Pulp to Pop!",
+		"title": "Marvel: 75 Years, from Pulp to Pop!",
 		"video": false,
 		"vote_average": 6.8,
 		"slug": "marvel-75-years-from-pulp-to-pop",
 		"tags": [
 			"movie",
-			"company-420"
+			"company-7505"
 		]
 	},
 	{
@@ -3341,7 +3341,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/k0hlAzTryCYX1O1LyC6P8tAa8s0.jpg",
+		"backdrop_path": "/hDvqcbZhq9ux0euxYxCP9N6m1Rh.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -3630,7 +3630,7 @@
 		],
 		"release_date": "2013-07-23",
 		"video": false,
-		"vote_average": 6.398,
+		"vote_average": 6.397,
 		"slug": "the-wolverine",
 		"tags": [
 			"list-8204860"
@@ -3888,7 +3888,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/aHc765LRg5d5DtoS4LKiGEROWrq.jpg",
+		"backdrop_path": "/mLBReXFauC7xtbvWOMaBM891vF7.jpg",
 		"genre_ids": [
 			28,
 			14,
@@ -3898,7 +3898,7 @@
 		"original_language": "en",
 		"original_title": "Ghost Rider: Spirit of Vengeance",
 		"overview": "When the devil resurfaces with aims to take over the world in human form, Johnny Blaze reluctantly comes out of hiding to transform into the flame-spewing supernatural hero Ghost Rider -- and rescue a 10-year-old boy from an unsavory end.",
-		"poster_path": "/3nTr3jGCFs3wBjifokRHp3xJgP5.jpg",
+		"poster_path": "/pby4P6LaAhQB9SgsvjygNFhWsHo.jpg",
 		"release_date": "2011-12-10",
 		"title": "Ghost Rider: Spirit of Vengeance",
 		"video": false,
@@ -3999,29 +3999,6 @@
 		"slug": "x-men-first-class",
 		"tags": [
 			"list-8204860"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/sYtby8VBJnEBG6X9dH3CVIgzQO2.jpg",
-		"genre_ids": [
-			12,
-			16,
-			28
-		],
-		"id": 63686,
-		"original_language": "en",
-		"original_title": "Thor: Tales of Asgard",
-		"overview": "Hungry for adventure, Thor secretly embarks on the journey of a lifetime, joined by his loyal brother Loki, whose budding sorcery equips him with just enough magic to conjure up trouble, along with the Warriors Three - a band of boastful travelers reluctant to set sail on any adventure that might actually be dangerous. But what starts out as a harmless treasure hunt quickly turns deadly, and Thor must now prove himself worthy of the destiny he covets by saving Asgard itself.",
-		"poster_path": "/nM2rBqEMrAFiNFHXKWOhUgdKK45.jpg",
-		"release_date": "2011-05-16",
-		"title": "Thor: Tales of Asgard",
-		"video": false,
-		"vote_average": 6.4,
-		"slug": "thor-tales-of-asgard",
-		"tags": [
-			"movie",
-			"company-7505"
 		]
 	},
 	{
@@ -4232,7 +4209,7 @@
 		],
 		"release_date": "2009-04-28",
 		"video": false,
-		"vote_average": 6.253,
+		"vote_average": 6.254,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"list-8204860"
@@ -4384,7 +4361,8 @@
 		"slug": "punisher-war-zone",
 		"tags": [
 			"movie",
-			"company-11106"
+			"company-11106",
+			"company-420"
 		]
 	},
 	{
@@ -5322,7 +5300,7 @@
 		],
 		"release_date": "1994-05-31",
 		"video": false,
-		"vote_average": 4.402,
+		"vote_average": 4.413,
 		"slug": "the-fantastic-four",
 		"tags": [
 			"list-8204862"
@@ -5491,7 +5469,7 @@
 		"release_date": "1986-08-01",
 		"title": "Howard the Duck",
 		"video": false,
-		"vote_average": 5.4,
+		"vote_average": 5.403,
 		"slug": "howard-the-duck",
 		"tags": [
 			"movie",
@@ -5717,31 +5695,29 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/9SE5E2g5DVBN9T3EIEYPhwdsZPr.jpg",
-		"first_air_date": "1978-05-17",
-		"genre_ids": [
-			10759,
-			10765
-		],
 		"id": 2640,
 		"name": "Spider-Man",
-		"origin_country": [
-			"JP"
-		],
 		"original_language": "ja",
 		"original_name": "スパイダーマン",
 		"overview": "Follow the exploits of motorcycle racer turned super hero Takuya Yamashiro, as he slings and swings, battling the evil Iron Cross Army along the way. No, it's not the Spiderman most fans are used to, but it's fun, frantic and FREE.",
 		"poster_path": "/38AVLCBEoQKJWMyzt9jkxqeefGb.jpg",
+		"media_type": "tv",
+		"genre_ids": [
+			10759,
+			10765
+		],
+		"first_air_date": "1978-05-17",
 		"vote_average": 7.2,
+		"origin_country": [
+			"JP"
+		],
 		"title": "Spider-Man",
 		"slug": "spider-man",
 		"tags": [
-			"tv",
-			"company-7505",
 			"list-8204862"
-		],
-		"adult": false,
-		"media_type": "tv"
+		]
 	},
 	{
 		"adult": false,

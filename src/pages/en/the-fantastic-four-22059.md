@@ -32,7 +32,7 @@ watchLinks:
     ],
     "release_date": "1994-05-31",
     "video": false,
-    "vote_average": 4.402,
+    "vote_average": 4.413,
     "slug": "the-fantastic-four",
     "tags": [
         "list-8204862"
