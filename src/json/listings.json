@@ -532,6 +532,29 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			878,
+			28,
+			12
+		],
+		"id": 912649,
+		"original_language": "en",
+		"original_title": "Venom 3",
+		"overview": "The third entry in the Venom trilogy confirmed to be in development by Amy Pascal.",
+		"poster_path": "/kV6ceSPLK1f8cIjvqOmvnmBEMbD.jpg",
+		"release_date": "2024-11-07",
+		"title": "Venom 3",
+		"video": false,
+		"vote_average": 0,
+		"slug": "venom-3",
+		"tags": [
+			"movie",
+			"company-7505"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/qYvpc3qLb0LpGOBS7JOq5RxYt0x.jpg",
 		"genre_ids": [
 			28,
@@ -551,29 +574,6 @@
 		"tags": [
 			"movie",
 			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
-			878,
-			28,
-			12
-		],
-		"id": 912649,
-		"original_language": "en",
-		"original_title": "Venom 3",
-		"overview": "The third entry in the Venom trilogy confirmed to be in development by Amy Pascal.",
-		"poster_path": "/kV6ceSPLK1f8cIjvqOmvnmBEMbD.jpg",
-		"release_date": "2024-07-11",
-		"title": "Venom 3",
-		"video": false,
-		"vote_average": 0,
-		"slug": "venom-3",
-		"tags": [
-			"movie",
-			"company-7505"
 		]
 	},
 	{
@@ -659,7 +659,7 @@
 		"original_language": "en",
 		"original_title": "Marvel Studios Assembled: The Making of Loki: Season 2",
 		"overview": "Through candid interviews with the creative minds behind the show, and exclusive on-set footage, discover how the talented team that powered \"Loki: Season 2\" raised the stakes for this latest MCU adventure. Witness imaginative costumes, elaborate environments, and far-out variants come to life, meet new allies and foes, and time-slip across the Multiverse.",
-		"poster_path": null,
+		"poster_path": "/9wVbbPwPlaRESrfwY0N4KXHdk3x.jpg",
 		"release_date": "2023-11-29",
 		"title": "Marvel Studios Assembled: The Making of Loki: Season 2",
 		"video": false,
@@ -672,7 +672,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/x1dBfTThFQn3utzRFtlbmqw9crI.jpg",
+		"backdrop_path": "/feSiISwgEpVzR1v3zv2n2AU4ANJ.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -682,11 +682,11 @@
 		"original_language": "en",
 		"original_title": "The Marvels",
 		"overview": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
-		"poster_path": "/Ag3D9qXjhJ2FUkrlJ0Cv1pgxqYQ.jpg",
+		"poster_path": "/tUtgLOESpCx7ue4BaeCTqp3vn1b.jpg",
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 6.4,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -2713,7 +2713,7 @@
 		],
 		"release_date": "2017-02-28",
 		"video": false,
-		"vote_average": 7.818,
+		"vote_average": 7.819,
 		"slug": "logan",
 		"tags": [
 			"list-8204860"
@@ -3288,7 +3288,7 @@
 		],
 		"release_date": "2014-05-15",
 		"video": false,
-		"vote_average": 7.525,
+		"vote_average": 7.5,
 		"slug": "x-men-days-of-future-past",
 		"tags": [
 			"list-8204860"
@@ -3995,7 +3995,7 @@
 		],
 		"release_date": "2011-06-01",
 		"video": false,
-		"vote_average": 7.296,
+		"vote_average": 7.3,
 		"slug": "x-men-first-class",
 		"tags": [
 			"list-8204860"
@@ -4209,7 +4209,7 @@
 		],
 		"release_date": "2009-04-28",
 		"video": false,
-		"vote_average": 6.254,
+		"vote_average": 6.253,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"list-8204860"
