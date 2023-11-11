@@ -322,13 +322,13 @@
 		"genre_ids": [],
 		"id": 1037199,
 		"original_language": "en",
-		"original_title": "Black Panther 3: Legacy of Wakanda",
+		"original_title": "Black Panther 3",
 		"overview": "Rumored third installment in Marvel Studios’ Black Panther franchise.",
-		"poster_path": "/3aYH0YFSQUa22h0RtCEKco3IvQs.jpg",
-		"title": "Black Panther 3: Legacy of Wakanda",
+		"poster_path": null,
+		"title": "Black Panther 3",
 		"video": false,
 		"vote_average": 0,
-		"slug": "black-panther-3-legacy-of-wakanda",
+		"slug": "black-panther-3",
 		"tags": [
 			"movie",
 			"company-420"
@@ -468,27 +468,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/qlwBv4v6EoeN2JxGWziT2kSyoVe.jpg",
-		"genre_ids": [
-			878
-		],
-		"id": 617126,
-		"original_language": "en",
-		"original_title": "Fantastic Four",
-		"overview": "Set in the Marvel Cinematic Universe (MCU) and based on the Marvel Comics characters of the same name.",
-		"poster_path": "/jatnqRPnxjg2Q6cFsAjmrBNhx9.jpg",
-		"release_date": "2025-04-30",
-		"title": "Fantastic Four",
-		"video": false,
-		"vote_average": 0,
-		"slug": "fantastic-four",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": "/hFtJz4TvoiJJcw2ZOMdhK22aU9P.jpg",
 		"genre_ids": [
 			14
@@ -498,7 +477,7 @@
 		"original_title": "Blade",
 		"overview": "A film set in the Marvel Cinematic Universe (MCU) based on the Marvel Comics character of the same name.",
 		"poster_path": "/fKqA4rgVJwrM7Gb3tQ9TGHnu8Tr.jpg",
-		"release_date": "2025-02-12",
+		"release_date": "2025-11-07",
 		"title": "Blade",
 		"video": false,
 		"vote_average": 0,
@@ -520,11 +499,55 @@
 		"original_title": "Thunderbolts",
 		"overview": "A world without Avengers doesn't mean there's not a group of superheroes. There is a group and they're called the Thunderbolts.",
 		"poster_path": "/dHhniU1vz1C0j27AFdcsPmq6xu.jpg",
-		"release_date": "2024-12-18",
+		"release_date": "2025-07-25",
 		"title": "Thunderbolts",
 		"video": false,
 		"vote_average": 0,
 		"slug": "thunderbolts",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/qlwBv4v6EoeN2JxGWziT2kSyoVe.jpg",
+		"genre_ids": [
+			878
+		],
+		"id": 617126,
+		"original_language": "en",
+		"original_title": "Fantastic Four",
+		"overview": "Set in the Marvel Cinematic Universe (MCU) and based on the Marvel Comics characters of the same name.",
+		"poster_path": "/jatnqRPnxjg2Q6cFsAjmrBNhx9.jpg",
+		"release_date": "2025-04-30",
+		"title": "Fantastic Four",
+		"video": false,
+		"vote_average": 0,
+		"slug": "fantastic-four",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/qYvpc3qLb0LpGOBS7JOq5RxYt0x.jpg",
+		"genre_ids": [
+			28,
+			12,
+			878
+		],
+		"id": 822119,
+		"original_language": "en",
+		"original_title": "Captain America: Brave New World",
+		"overview": "A sequel to Marvel Studios' The Falcon and the Winter Soldier and follows Sam Wilson as the new Captain America.",
+		"poster_path": "/ghkjPyaPGMfDufOa4D2A51DFGWr.jpg",
+		"release_date": "2025-02-14",
+		"title": "Captain America: Brave New World",
+		"video": false,
+		"vote_average": 0,
+		"slug": "captain-america-brave-new-world",
 		"tags": [
 			"movie",
 			"company-420"
@@ -555,29 +578,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/qYvpc3qLb0LpGOBS7JOq5RxYt0x.jpg",
-		"genre_ids": [
-			28,
-			12,
-			878
-		],
-		"id": 822119,
-		"original_language": "en",
-		"original_title": "Captain America: Brave New World",
-		"overview": "A sequel to Marvel Studios' The Falcon and the Winter Soldier and follows Sam Wilson as the new Captain America.",
-		"poster_path": "/ghkjPyaPGMfDufOa4D2A51DFGWr.jpg",
-		"release_date": "2024-07-24",
-		"title": "Captain America: Brave New World",
-		"video": false,
-		"vote_average": 0,
-		"slug": "captain-america-brave-new-world",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": "/mbY234XwMwEofAdX8yddNcK82wi.jpg",
 		"genre_ids": [
 			28,
@@ -589,7 +589,7 @@
 		"original_title": "Deadpool 3",
 		"overview": "",
 		"poster_path": "/4gdqWCVvidYR0pOHuVOqFundbUG.jpg",
-		"release_date": "2024-05-01",
+		"release_date": "2024-07-26",
 		"title": "Deadpool 3",
 		"video": false,
 		"vote_average": 0,
@@ -659,7 +659,7 @@
 		"original_language": "en",
 		"original_title": "Marvel Studios Assembled: The Making of Loki: Season 2",
 		"overview": "Through candid interviews with the creative minds behind the show, and exclusive on-set footage, discover how the talented team that powered \"Loki: Season 2\" raised the stakes for this latest MCU adventure. Witness imaginative costumes, elaborate environments, and far-out variants come to life, meet new allies and foes, and time-slip across the Multiverse.",
-		"poster_path": "/9wVbbPwPlaRESrfwY0N4KXHdk3x.jpg",
+		"poster_path": null,
 		"release_date": "2023-11-29",
 		"title": "Marvel Studios Assembled: The Making of Loki: Season 2",
 		"video": false,
@@ -686,7 +686,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.6,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -1389,7 +1389,7 @@
 		"original_language": "en",
 		"original_name": "Moon Knight",
 		"overview": "When Steven Grant, a mild-mannered gift-shop employee, becomes plagued with blackouts and memories of another life, he discovers he has dissociative identity disorder and shares a body with mercenary Marc Spector. As Steven/Marc’s enemies converge upon them, they must navigate their complex identities while thrust into a deadly mystery among the powerful gods of Egypt.",
-		"poster_path": "/x6FsYvt33846IQnDSFxla9j0RX8.jpg",
+		"poster_path": "/YksR65as1ppF2N48TJAh2PLamX.jpg",
 		"vote_average": 7.8,
 		"title": "Moon Knight",
 		"slug": "moon-knight",
@@ -1933,7 +1933,7 @@
 		],
 		"release_date": "2020-04-02",
 		"video": false,
-		"vote_average": 6.14,
+		"vote_average": 6.141,
 		"slug": "the-new-mutants",
 		"tags": [
 			"list-8204860"
@@ -2326,7 +2326,7 @@
 		],
 		"release_date": "2018-05-10",
 		"video": false,
-		"vote_average": 7.491,
+		"vote_average": 7.5,
 		"slug": "deadpool-2",
 		"tags": [
 			"list-8204860"
@@ -3288,7 +3288,7 @@
 		],
 		"release_date": "2014-05-15",
 		"video": false,
-		"vote_average": 7.5,
+		"vote_average": 7.525,
 		"slug": "x-men-days-of-future-past",
 		"tags": [
 			"list-8204860"
@@ -3995,7 +3995,7 @@
 		],
 		"release_date": "2011-06-01",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.296,
 		"slug": "x-men-first-class",
 		"tags": [
 			"list-8204860"
