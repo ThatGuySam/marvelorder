@@ -566,7 +566,7 @@
 		"original_title": "Venom 3",
 		"overview": "The third entry in the Venom trilogy confirmed to be in development by Amy Pascal.",
 		"poster_path": "/kV6ceSPLK1f8cIjvqOmvnmBEMbD.jpg",
-		"release_date": "2024-11-07",
+		"release_date": "2024-11-06",
 		"title": "Venom 3",
 		"video": false,
 		"vote_average": 0,
@@ -589,7 +589,7 @@
 		"original_title": "Deadpool 3",
 		"overview": "",
 		"poster_path": "/4gdqWCVvidYR0pOHuVOqFundbUG.jpg",
-		"release_date": "2024-07-26",
+		"release_date": "2024-07-25",
 		"title": "Deadpool 3",
 		"video": false,
 		"vote_average": 0,
@@ -686,7 +686,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.6,
+		"vote_average": 6.5,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -1090,7 +1090,7 @@
 		"original_name": "I Am Groot",
 		"overview": "There’s no guarding the galaxy from this mischievous toddler! Get ready as Baby Groot takes center stage in his very own collection of shorts, exploring his glory days growing up and getting into trouble among the stars.",
 		"poster_path": "/lYwFSsP4KsoRhOLhJvBFp3GEGEm.jpg",
-		"vote_average": 7.3,
+		"vote_average": 7.2,
 		"title": "I Am Groot",
 		"slug": "i-am-groot",
 		"tags": [
@@ -2326,7 +2326,7 @@
 		],
 		"release_date": "2018-05-10",
 		"video": false,
-		"vote_average": 7.5,
+		"vote_average": 7.491,
 		"slug": "deadpool-2",
 		"tags": [
 			"list-8204860"
@@ -3630,7 +3630,7 @@
 		],
 		"release_date": "2013-07-23",
 		"video": false,
-		"vote_average": 6.397,
+		"vote_average": 6.398,
 		"slug": "the-wolverine",
 		"tags": [
 			"list-8204860"
@@ -3995,7 +3995,7 @@
 		],
 		"release_date": "2011-06-01",
 		"video": false,
-		"vote_average": 7.296,
+		"vote_average": 7.297,
 		"slug": "x-men-first-class",
 		"tags": [
 			"list-8204860"
@@ -4209,7 +4209,7 @@
 		],
 		"release_date": "2009-04-28",
 		"video": false,
-		"vote_average": 6.253,
+		"vote_average": 6.254,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"list-8204860"
@@ -4695,7 +4695,7 @@
 		],
 		"release_date": "2006-05-24",
 		"video": false,
-		"vote_average": 6.405,
+		"vote_average": 6.406,
 		"slug": "x-men-the-last-stand",
 		"tags": [
 			"list-8204860"
@@ -4906,7 +4906,7 @@
 		],
 		"release_date": "2003-04-27",
 		"video": false,
-		"vote_average": 7.028,
+		"vote_average": 7.029,
 		"slug": "x2",
 		"tags": [
 			"list-8204860"
@@ -5665,7 +5665,7 @@
 		],
 		"release_date": "1978-09-06",
 		"video": false,
-		"vote_average": 5.994,
+		"vote_average": 6,
 		"slug": "dr-strange",
 		"tags": [
 			"list-8204862"
@@ -5784,7 +5784,7 @@
 			18
 		],
 		"first_air_date": "1977-11-04",
-		"vote_average": 7.19,
+		"vote_average": 7.197,
 		"origin_country": [
 			"US"
 		],

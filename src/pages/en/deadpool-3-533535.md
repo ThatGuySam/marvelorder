@@ -21,7 +21,7 @@ logo_on_black: /.netlify/functions/tmdb-image/fa6aYdjF083UV2w6V7hOAjwaqi4.webp
     "original_title": "Deadpool 3",
     "overview": "",
     "poster_path": "/4gdqWCVvidYR0pOHuVOqFundbUG.jpg",
-    "release_date": "2024-07-26",
+    "release_date": "2024-07-25",
     "title": "Deadpool 3",
     "video": false,
     "vote_average": 0,
