@@ -297,27 +297,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/h7BU4fdLjF8ly8NF8mJ4hAQOLKU.jpg",
-		"genre_ids": [
-			878,
-			28
-		],
-		"id": 1030022,
-		"original_language": "en",
-		"original_title": "Armor Wars",
-		"overview": "James Rhodes aka War Machine faces the consequences of Tony Stark's worst fear coming true: what happens when his tech falls into the wrong hands?",
-		"poster_path": "/vDbzi8eM710THVCwjfqVU8a5E3g.jpg",
-		"title": "Armor Wars",
-		"video": false,
-		"vote_average": 0,
-		"slug": "armor-wars",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": null,
 		"genre_ids": [],
 		"id": 1037199,
@@ -465,6 +444,28 @@
 			"list-8204859"
 		],
 		"media_type": "movie"
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/h7BU4fdLjF8ly8NF8mJ4hAQOLKU.jpg",
+		"genre_ids": [
+			878,
+			28
+		],
+		"id": 1030022,
+		"original_language": "en",
+		"original_title": "Armor Wars",
+		"overview": "James Rhodes aka War Machine faces the consequences of Tony Stark's worst fear coming true: what happens when his tech falls into the wrong hands?",
+		"poster_path": "/vDbzi8eM710THVCwjfqVU8a5E3g.jpg",
+		"release_date": "2026-02-13",
+		"title": "Armor Wars",
+		"video": false,
+		"vote_average": 0,
+		"slug": "armor-wars",
+		"tags": [
+			"movie",
+			"company-420"
+		]
 	},
 	{
 		"adult": false,
@@ -686,7 +687,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.4,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -2067,7 +2068,7 @@
 		],
 		"release_date": "2019-06-05",
 		"video": false,
-		"vote_average": 5.993,
+		"vote_average": 5.992,
 		"slug": "dark-phoenix",
 		"tags": [
 			"list-8204860"
@@ -2210,7 +2211,7 @@
 		],
 		"release_date": "2018-12-06",
 		"video": false,
-		"vote_average": 8.404,
+		"vote_average": 8.405,
 		"slug": "spider-man-into-the-spider-verse",
 		"tags": [
 			"list-8204859"
@@ -2490,7 +2491,7 @@
 		"original_name": "The Gifted",
 		"overview": "A suburban couple's ordinary lives are rocked by the sudden discovery that their children possess mutant powers. Forced to go on the run from a hostile government, the family joins up with an underground network of mutants and must fight to survive.",
 		"poster_path": "/nshCqszjTNuqhrB53vrSqWO18sE.jpg",
-		"vote_average": 7.7,
+		"vote_average": 7.677,
 		"title": "The Gifted",
 		"slug": "the-gifted",
 		"tags": [
@@ -2713,7 +2714,7 @@
 		],
 		"release_date": "2017-02-28",
 		"video": false,
-		"vote_average": 7.819,
+		"vote_average": 7.818,
 		"slug": "logan",
 		"tags": [
 			"list-8204860"
@@ -3630,7 +3631,7 @@
 		],
 		"release_date": "2013-07-23",
 		"video": false,
-		"vote_average": 6.398,
+		"vote_average": 6.397,
 		"slug": "the-wolverine",
 		"tags": [
 			"list-8204860"
@@ -3995,7 +3996,7 @@
 		],
 		"release_date": "2011-06-01",
 		"video": false,
-		"vote_average": 7.297,
+		"vote_average": 7.296,
 		"slug": "x-men-first-class",
 		"tags": [
 			"list-8204860"
@@ -4088,7 +4089,7 @@
 		"original_name": "The Avengers: Earth's Mightiest Heroes",
 		"overview": "When the powers of a single hero are not enough to save the world, the world’s greatest heroes—Iron Man, Thor, Captain America, The Hulk, Ant-Man/Giant Man and Wasp—assemble to form the Avengers.",
 		"poster_path": "/8MwwAuDy6dc1GbiBUZdvWtQczqR.jpg",
-		"vote_average": 8.202,
+		"vote_average": 8.196,
 		"title": "The Avengers: Earth's Mightiest Heroes",
 		"slug": "the-avengers-earths-mightiest-heroes",
 		"tags": [
@@ -5222,7 +5223,7 @@
 			10759
 		],
 		"first_air_date": "1994-11-19",
-		"vote_average": 8.3,
+		"vote_average": 8.294,
 		"origin_country": [
 			"US"
 		],
@@ -5323,7 +5324,7 @@
 			10759
 		],
 		"first_air_date": "1992-10-31",
-		"vote_average": 8.185,
+		"vote_average": 8.184,
 		"origin_country": [
 			"US"
 		],
@@ -5469,7 +5470,7 @@
 		"release_date": "1986-08-01",
 		"title": "Howard the Duck",
 		"video": false,
-		"vote_average": 5.403,
+		"vote_average": 5.405,
 		"slug": "howard-the-duck",
 		"tags": [
 			"movie",
