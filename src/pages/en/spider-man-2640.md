@@ -32,7 +32,7 @@ vote_average: 7.1
         10765
     ],
     "first_air_date": "1978-05-17",
-    "vote_average": 7.2,
+    "vote_average": 7.257,
     "origin_country": [
         "JP"
     ],

@@ -37,7 +37,7 @@ tags:
     "original_language": "en",
     "original_name": "Agatha: Darkhold Diaries",
     "overview": "Follow Agatha Harkness before and after her appearance in WandaVision.",
-    "poster_path": "/A4JyrpPCsw57E0JHcZK7TDPVPqP.jpg",
+    "poster_path": "/kEDwWQM6hjGntkJFgvIGt0fmShr.jpg",
     "vote_average": 0,
     "title": "Agatha: Darkhold Diaries",
     "slug": "agatha-darkhold-diaries",

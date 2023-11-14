@@ -89,6 +89,7 @@ This is the *most* official list for the Marvel Chronologically, aka by the time
 - April 30, 2025 - [Fantastic Four](https://marvelorder.com/en/fantastic-four-617126) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/fantastic-four-617126.md)
 - July 25, 2025 - [Thunderbolts](https://marvelorder.com/en/thunderbolts-986056) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/thunderbolts-986056.md)
 - November 7, 2025 - [Blade](https://marvelorder.com/en/blade-617127) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/blade-617127.md)
+- February 13, 2026 - [Armor Wars](https://marvelorder.com/en/armor-wars-1030022) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/armor-wars-1030022.md)
 - April 29, 2026 - [Avengers: The Kang Dynasty](https://marvelorder.com/en/avengers-the-kang-dynasty-1003596) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/avengers-the-kang-dynasty-1003596.md)
 - May 5, 2027 - [Avengers: Secret Wars](https://marvelorder.com/en/avengers-secret-wars-1003598) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/avengers-secret-wars-1003598.md)
 
