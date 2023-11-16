@@ -477,7 +477,7 @@
 		"original_title": "Blade",
 		"overview": "A film set in the Marvel Cinematic Universe (MCU) based on the Marvel Comics character of the same name.",
 		"poster_path": "/fKqA4rgVJwrM7Gb3tQ9TGHnu8Tr.jpg",
-		"release_date": "2025-11-07",
+		"release_date": "2025-11-06",
 		"title": "Blade",
 		"video": false,
 		"vote_average": 0,
@@ -499,7 +499,7 @@
 		"original_title": "Thunderbolts",
 		"overview": "A world without Avengers doesn't mean there's not a group of superheroes. There is a group and they're called the Thunderbolts.",
 		"poster_path": "/dHhniU1vz1C0j27AFdcsPmq6xu.jpg",
-		"release_date": "2025-07-25",
+		"release_date": "2025-07-24",
 		"title": "Thunderbolts",
 		"video": false,
 		"vote_average": 0,
@@ -603,7 +603,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/rnoiDBeM1D5vuBJLlVLwrApqDrZ.jpg",
+		"backdrop_path": "/dwl7raDGUHMaLlENxtE7h1qSH4h.jpg",
 		"genre_ids": [
 			28,
 			14,
@@ -612,8 +612,8 @@
 		"id": 634492,
 		"original_language": "en",
 		"original_title": "Madame Web",
-		"overview": "Madame Web is a clairvoyant whose psychic abilities allow her to see within the Spider-Verse itself.",
-		"poster_path": "/s0F3ljbYFjNrb0QJZqo9MjeVaPO.jpg",
+		"overview": "After surviving an accident, paramedic Cassandra Webb begins to desenvolve clairvoyant abilities. Forced to confront revelations about her past, she forges a relationship with three young women destined for powerful futures...if they can all survive a deadly present.",
+		"poster_path": "/eGETFGxPWM5yHrAYRvsFKW65yOF.jpg",
 		"release_date": "2024-02-14",
 		"title": "Madame Web",
 		"video": false,
@@ -1090,7 +1090,7 @@
 		"original_name": "I Am Groot",
 		"overview": "There’s no guarding the galaxy from this mischievous toddler! Get ready as Baby Groot takes center stage in his very own collection of shorts, exploring his glory days growing up and getting into trouble among the stars.",
 		"poster_path": "/lYwFSsP4KsoRhOLhJvBFp3GEGEm.jpg",
-		"vote_average": 7.3,
+		"vote_average": 7.2,
 		"title": "I Am Groot",
 		"slug": "i-am-groot",
 		"tags": [
@@ -1527,7 +1527,7 @@
 		"original_name": "Marvel's Hit-Monkey",
 		"overview": "A Japanese snow macaque's clan meets a stranded hitman, Bryce, and nurses him back to health. But when Bryce bites the dust, it's up to the titular simian (guided by Bryce's ghost) to follow in his assassin footsteps and seek vengeance.",
 		"poster_path": "/1aK7hApRSDUv8xxDQXyQil7qBjN.jpg",
-		"vote_average": 7.9,
+		"vote_average": 7.8,
 		"title": "Marvel's Hit-Monkey",
 		"slug": "marvels-hit-monkey",
 		"tags": [
@@ -1956,7 +1956,7 @@
 		],
 		"release_date": "2020-04-02",
 		"video": false,
-		"vote_average": 6.14,
+		"vote_average": 6.139,
 		"slug": "the-new-mutants",
 		"tags": [
 			"list-8204860"
@@ -2090,7 +2090,7 @@
 		],
 		"release_date": "2019-06-05",
 		"video": false,
-		"vote_average": 5.992,
+		"vote_average": 5.991,
 		"slug": "dark-phoenix",
 		"tags": [
 			"list-8204860"
@@ -2277,7 +2277,7 @@
 		"release_date": "2018-07-04",
 		"title": "Ant-Man and the Wasp",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 6.9,
 		"slug": "ant-man-and-the-wasp",
 		"tags": [
 			"movie",
@@ -3174,7 +3174,7 @@
 			10765
 		],
 		"first_air_date": "2015-03-10",
-		"vote_average": 6.817,
+		"vote_average": 6.78,
 		"origin_country": [
 			"US"
 		],
@@ -3653,7 +3653,7 @@
 		],
 		"release_date": "2013-07-23",
 		"video": false,
-		"vote_average": 6.398,
+		"vote_average": 6.399,
 		"slug": "the-wolverine",
 		"tags": [
 			"list-8204860"
@@ -4159,7 +4159,7 @@
 		"release_date": "2010-01-18",
 		"title": "Black Panther",
 		"video": false,
-		"vote_average": 6.1,
+		"vote_average": 5.9,
 		"slug": "black-panther",
 		"tags": [
 			"movie",
@@ -4232,7 +4232,7 @@
 		],
 		"release_date": "2009-04-28",
 		"video": false,
-		"vote_average": 6.254,
+		"vote_average": 6.255,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"list-8204860"
