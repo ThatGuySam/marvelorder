@@ -21,7 +21,7 @@ type: movie
     "id": 634492,
     "original_language": "en",
     "original_title": "Madame Web",
-    "overview": "After surviving an accident, paramedic Cassandra Webb begins to desenvolve clairvoyant abilities. Forced to confront revelations about her past, she forges a relationship with three young women destined for powerful futures...if they can all survive a deadly present.",
+    "overview": "Forced to confront revelations about her past, paramedic Cassandra Webb forges a relationship with three young women destined for powerful futures... fighting off  all against a deadly present.",
     "poster_path": "/eGETFGxPWM5yHrAYRvsFKW65yOF.jpg",
     "release_date": "2024-02-14",
     "title": "Madame Web",

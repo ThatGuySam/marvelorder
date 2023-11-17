@@ -22183,8 +22183,60 @@
         "referenceType": "unknown"
       },
       {
-        "href": "/wiki/Loki_Episode_2.04:_Heart_of_the_TVA",
-        "text": "Heart of the TVA",
+        "href": "/wiki/Loki_Episode_2.05:_Science/Fiction",
+        "text": "Science/Fiction",
+        "referenceType": "episode"
+      }
+    ],
+    "primeReferenceIndex": 0,
+    "primeReferenceTitle": "Loki"
+  },
+  {
+    "hash": "9e04b438-f276-5733-b86e-c543cc8a0aca",
+    "timeDescription": "Unknown Time",
+    "timeDescriptionParts": {
+      "primary": "Unknown Time",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Loki successfully time slip himself back to moments before the Loom's destruction. ",
+    "timeline": "The Time Variance Authority Time Zone/Timeline",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Loki_(Disney%2B_series)",
+        "text": "Loki",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Loki_Episode_2.05:_Science/Fiction",
+        "text": "Science/Fiction",
+        "referenceType": "episode"
+      }
+    ],
+    "primeReferenceIndex": 0,
+    "primeReferenceTitle": "Loki"
+  },
+  {
+    "hash": "d24a1d72-8895-5e58-96f2-4a5acc07b592",
+    "timeDescription": "Unknown Time",
+    "timeDescriptionParts": {
+      "primary": "Unknown Time",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Loki survives the explosion, but everyone else has vanished and the TVA headquarters spaghettifies. Loki escapes as he begins time slipping again, taking him to branched timelines where his friends Mobius, Hunter B-15, Casey, and OB were reset to their original lives ",
+    "timeline": "The Time Variance Authority Time Zone/Timeline",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Loki_(Disney%2B_series)",
+        "text": "Loki",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Loki_Episode_2.05:_Science/Fiction",
+        "text": "Science/Fiction",
         "referenceType": "episode"
       }
     ],
@@ -22247,6 +22299,32 @@
       {
         "href": "/wiki/Loki_Episode_2.03:_1893",
         "text": "1893",
+        "referenceType": "episode"
+      }
+    ],
+    "primeReferenceIndex": 0,
+    "primeReferenceTitle": "Loki"
+  },
+  {
+    "hash": "f0306da7-cc96-5984-9630-e5ee8715916e",
+    "timeDescription": "1962",
+    "timeDescriptionParts": {
+      "primary": "1962",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Casey were Frank Morris in Alcatraz escaping with other prisoners in San Francisco. ",
+    "timeline": "The Time Variance Authority Time Zone/Timeline",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Loki_(Disney%2B_series)",
+        "text": "Loki",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Loki_Episode_2.05:_Science/Fiction",
+        "text": "Science/Fiction",
         "referenceType": "episode"
       }
     ],
@@ -22363,6 +22441,58 @@
     "primeReferenceTitle": "Loki"
   },
   {
+    "hash": "3fd9cd14-f13b-56f4-86a2-0dfc1ec2ef2c",
+    "timeDescription": "1982",
+    "timeDescriptionParts": {
+      "primary": "1982",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Loki found Sylvie after she finished her shift at McDonald's, Loki approached her, only to discover much to his surprise and relief that Sylvie remembered everything, including the explosion. At a bar, Loki explained how everyone's lives were reset to before the TVA which Sylvie saw as a good thing as they were back in their real lives. ",
+    "timeline": "The Time Variance Authority Time Zone/Timeline",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Loki_(Disney%2B_series)",
+        "text": "Loki",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Loki_Episode_2.02:_Breaking_Brad",
+        "text": "Breaking Brad",
+        "referenceType": "episode"
+      }
+    ],
+    "primeReferenceIndex": 0,
+    "primeReferenceTitle": "Loki"
+  },
+  {
+    "hash": "240f9159-f775-55c9-83a2-e66fb6d5a01c",
+    "timeDescription": "1982",
+    "timeDescriptionParts": {
+      "primary": "1982",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Sylvie witnessed her timeline spaghettifying like Victor Timely while visiting a records store and barely escaped in time using He Who Remains' TemPad. ",
+    "timeline": "The Time Variance Authority Time Zone/Timeline",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Loki_(Disney%2B_series)",
+        "text": "Loki",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Loki_Episode_2.02:_Breaking_Brad",
+        "text": "Breaking Brad",
+        "referenceType": "episode"
+      }
+    ],
+    "primeReferenceIndex": 0,
+    "primeReferenceTitle": "Loki"
+  },
+  {
     "hash": "a54b5e8a-c724-53ff-a1b2-5ce654ad1df3",
     "timeDescription": "1985",
     "timeDescriptionParts": {
@@ -22404,6 +22534,84 @@
     "primeReferenceTitle": "Loki"
   },
   {
+    "hash": "3057cac0-0a8d-5bb9-a088-34b0c7b1db7c",
+    "timeDescription": "1994",
+    "timeDescriptionParts": {
+      "primary": "1994",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Ouroboros is an failed science fiction writer and theoretical physics professor A.D. named Doug in Pasadena. Loki was able to finds Doug and enlists his help with Loki unable to control his time slipping, Doug proposes Loki gather everyone present at the explosion back together, so that their collective temporal aura can send them back to the right time and place. Loki gives Doug a TVA Handbook to allow him to build a TemPad before he time slip. ",
+    "timeline": "The Time Variance Authority Time Zone/Timeline",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Loki_(Disney%2B_series)",
+        "text": "Loki",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Loki_Episode_2.05:_Science/Fiction",
+        "text": "Science/Fiction",
+        "referenceType": "episode"
+      }
+    ],
+    "primeReferenceIndex": 0,
+    "primeReferenceTitle": "Loki"
+  },
+  {
+    "hash": "4daa7c29-6ec5-5707-94fd-fbd2131bd53f",
+    "timeDescription": "1994",
+    "timeDescriptionParts": {
+      "primary": "1994",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Loki was able to gathering everyone else to Doug's workshop. Sylvie went to help Loki. However, Doug's workshop also spaghettifies, as do Frank, Doug, Don, Willis, and Sylvie. Loki finally controls his time slipping by focusing on a person. Declaring that he can \"rewrite the story\". ",
+    "timeline": "The Time Variance Authority Time Zone/Timeline",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Loki_(Disney%2B_series)",
+        "text": "Loki",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Loki_Episode_2.05:_Science/Fiction",
+        "text": "Science/Fiction",
+        "referenceType": "episode"
+      }
+    ],
+    "primeReferenceIndex": 0,
+    "primeReferenceTitle": "Loki"
+  },
+  {
+    "hash": "9d72fd5f-d64d-5ad0-aeed-1314b97c1bf7",
+    "timeDescription": "2012",
+    "timeDescriptionParts": {
+      "primary": "2012",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Hunter B-15 is an pediatrist named Verity Willis in New York City. ",
+    "timeline": "The Time Variance Authority Time Zone/Timeline",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Loki_(Disney%2B_series)",
+        "text": "Loki",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Loki_Episode_2.05:_Science/Fiction",
+        "text": "Science/Fiction",
+        "referenceType": "episode"
+      }
+    ],
+    "primeReferenceIndex": 0,
+    "primeReferenceTitle": "Loki"
+  },
+  {
     "hash": "265e9fa9-7a73-5e3b-9a4e-c13dc2f75307",
     "timeDescription": "2018",
     "timeDescriptionParts": {
@@ -22437,6 +22645,32 @@
       }
     ],
     "primeReferenceIndex": 2,
+    "primeReferenceTitle": "Loki"
+  },
+  {
+    "hash": "ffbc7072-5bc7-587f-819c-418336a541ed",
+    "timeDescription": "2022",
+    "timeDescriptionParts": {
+      "primary": "2022",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Mobius is an jet ski salesman named Don in Cleveland with two young  sons. Loki time slip outside of Don's house where Loki watches his friend with his sons. When Don see Loki he offered to sell him one of Don's two jet skis, and Loki recalled Mobius' fascination with jet skis and the possibility of owning them. However, Don was dubious about Loki's story about the TVA and Don being Mobius until Doug emerged from a Time Door in front of them. ",
+    "timeline": "The Time Variance Authority Time Zone/Timeline",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Loki_(Disney%2B_series)",
+        "text": "Loki",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Loki_Episode_2.05:_Science/Fiction",
+        "text": "Science/Fiction",
+        "referenceType": "episode"
+      }
+    ],
+    "primeReferenceIndex": 0,
     "primeReferenceTitle": "Loki"
   },
   {
@@ -24322,20 +24556,20 @@
     "primeReferenceTitle": ""
   },
   {
-    "hash": "8d60c6af-3d31-577a-a08c-c58d9593c490",
+    "hash": "21f8a403-bda5-594c-b483-93e0dfd1d6aa",
     "timeDescription": "The Multiverse Saga Phase Five",
     "timeDescriptionParts": {
       "primary": "The Multiverse Saga",
       "secondary": "Phase Five",
       "tertiary": ""
     },
-    "textContent": "Agatha: Coven of Chaos ",
+    "textContent": "Agatha: Darkhold Diaries ",
     "timeline": "Movies and Series",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
       {
-        "href": "/wiki/Agatha:_Coven_of_Chaos",
-        "text": "Agatha: Coven of Chaos",
+        "href": "/wiki/Agatha:_Darkhold_Diaries",
+        "text": "Agatha: Darkhold Diaries",
         "referenceType": "unknown"
       }
     ],
