@@ -587,7 +587,7 @@
 		"id": 533535,
 		"original_language": "en",
 		"original_title": "Deadpool 3",
-		"overview": "",
+		"overview": "Wolverine is recovering from his injuries when he crosses paths with the loudmouth, Deadpool. They team up to defeat a common enemy.",
 		"poster_path": "/4gdqWCVvidYR0pOHuVOqFundbUG.jpg",
 		"release_date": "2024-07-25",
 		"title": "Deadpool 3",
@@ -600,29 +600,6 @@
 			"list-8204860"
 		],
 		"media_type": "movie"
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/dwl7raDGUHMaLlENxtE7h1qSH4h.jpg",
-		"genre_ids": [
-			28,
-			14,
-			878
-		],
-		"id": 634492,
-		"original_language": "en",
-		"original_title": "Madame Web",
-		"overview": "Forced to confront revelations about her past, paramedic Cassandra Webb forges a relationship with three young women destined for powerful futures... fighting off  all against a deadly present.",
-		"poster_path": "/eGETFGxPWM5yHrAYRvsFKW65yOF.jpg",
-		"release_date": "2024-02-14",
-		"title": "Madame Web",
-		"video": false,
-		"vote_average": 0,
-		"slug": "madame-web",
-		"tags": [
-			"movie",
-			"company-7505"
-		]
 	},
 	{
 		"backdrop_path": "/gkUFThxglJ1heDhmcRA7UlHbmYG.jpg",
@@ -1284,7 +1261,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/8JSZxdCjS1T4ua3nKCycxE7am4E.jpg",
+		"backdrop_path": "/rlCRM7U5g2hcU1O8ylGcqsMYHIP.jpg",
 		"first_air_date": "2022-06-08",
 		"genre_ids": [
 			10765,
@@ -2233,7 +2210,7 @@
 		],
 		"release_date": "2018-12-06",
 		"video": false,
-		"vote_average": 8.404,
+		"vote_average": 8.405,
 		"slug": "spider-man-into-the-spider-verse",
 		"tags": [
 			"list-8204859"
@@ -2513,7 +2490,7 @@
 		"original_name": "The Gifted",
 		"overview": "A suburban couple's ordinary lives are rocked by the sudden discovery that their children possess mutant powers. Forced to go on the run from a hostile government, the family joins up with an underground network of mutants and must fight to survive.",
 		"poster_path": "/nshCqszjTNuqhrB53vrSqWO18sE.jpg",
-		"vote_average": 7.677,
+		"vote_average": 7.7,
 		"title": "The Gifted",
 		"slug": "the-gifted",
 		"tags": [
