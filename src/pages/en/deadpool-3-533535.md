@@ -21,7 +21,7 @@ logo_on_black: /.netlify/functions/tmdb-image/fa6aYdjF083UV2w6V7hOAjwaqi4.webp
     "original_title": "Deadpool 3",
     "overview": "Wolverine is recovering from his injuries when he crosses paths with the loudmouth, Deadpool. They team up to defeat a common enemy.",
     "poster_path": "/4gdqWCVvidYR0pOHuVOqFundbUG.jpg",
-    "release_date": "2024-07-25",
+    "release_date": "2024-07-24",
     "title": "Deadpool 3",
     "video": false,
     "vote_average": 0,
