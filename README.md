@@ -82,15 +82,15 @@ This is the *most* official list for the Marvel Chronologically, aka by the time
 - February 14, 2024 - [Madame Web](https://marvelorder.com/en/madame-web-634492) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/madame-web-634492.md)
 - March 27, 2024 - [Spider-Man: Beyond the Spider-Verse](https://marvelorder.com/en/spider-man-beyond-the-spider-verse-911916) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/spider-man-beyond-the-spider-verse-911916.md)
 - April 1, 2024 - [Daredevil: Born Again](https://marvelorder.com/en/daredevil-born-again-202555) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/daredevil-born-again-202555.md)
-- July 25, 2024 - [Deadpool 3](https://marvelorder.com/en/deadpool-3-533535) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/deadpool-3-533535.md)
+- July 24, 2024 - [Deadpool 3](https://marvelorder.com/en/deadpool-3-533535) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/deadpool-3-533535.md)
 - October 27, 2024 - [The Lego Movie 3: A Powerpuff Adventure](https://marvelorder.com/en/the-lego-movie-3-a-powerpuff-adventure-1197028) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/the-lego-movie-3-a-powerpuff-adventure-1197028.md)
 - November 6, 2024 - [Venom 3](https://marvelorder.com/en/venom-3-912649) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/venom-3-912649.md)
-- February 14, 2025 - [Captain America: Brave New World](https://marvelorder.com/en/captain-america-brave-new-world-822119) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/captain-america-brave-new-world-822119.md)
+- February 12, 2025 - [Captain America: Brave New World](https://marvelorder.com/en/captain-america-brave-new-world-822119) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/captain-america-brave-new-world-822119.md)
 - April 30, 2025 - [Fantastic Four](https://marvelorder.com/en/fantastic-four-617126) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/fantastic-four-617126.md)
-- July 24, 2025 - [Thunderbolts](https://marvelorder.com/en/thunderbolts-986056) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/thunderbolts-986056.md)
-- November 6, 2025 - [Blade](https://marvelorder.com/en/blade-617127) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/blade-617127.md)
+- July 23, 2025 - [Thunderbolts](https://marvelorder.com/en/thunderbolts-986056) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/thunderbolts-986056.md)
+- November 5, 2025 - [Blade](https://marvelorder.com/en/blade-617127) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/blade-617127.md)
 - April 29, 2026 - [Avengers: The Kang Dynasty](https://marvelorder.com/en/avengers-the-kang-dynasty-1003596) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/avengers-the-kang-dynasty-1003596.md)
-- May 5, 2027 - [Avengers: Secret Wars](https://marvelorder.com/en/avengers-secret-wars-1003598) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/avengers-secret-wars-1003598.md)
+- May 6, 2027 - [Avengers: Secret Wars](https://marvelorder.com/en/avengers-secret-wars-1003598) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/avengers-secret-wars-1003598.md)
 
 <!-- end-upcoming-list -->
 

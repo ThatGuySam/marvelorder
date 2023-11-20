@@ -30,7 +30,7 @@ watchLinks:
     ],
     "release_date": "1981-06-25",
     "video": false,
-    "vote_average": 4.931,
+    "vote_average": 4.9,
     "slug": "spider-man-the-dragons-challenge",
     "tags": [
         "list-8204862"

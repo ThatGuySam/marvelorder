@@ -663,29 +663,8 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.6,
+		"vote_average": 6.5,
 		"slug": "the-marvels",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/ihAzHrvUlvpbRRvnzENu2qZXOZr.jpg",
-		"genre_ids": [
-			18
-		],
-		"id": 1206697,
-		"original_language": "en",
-		"original_title": "Loki : Season 2",
-		"overview": "The second season of the American television series Loki, based on Marvel Comics featuring the character of the same name, sees Loki working with Mobius M. Mobius, Hunter B-15, and other members of the Time Variance Authority (TVA) to navigate the multiverse in order to find Sylvie, Ravonna Renslayer, and Miss Minutes",
-		"poster_path": "/hk9lJ6IIXmYxPmqdHKn4fuFIWdT.jpg",
-		"release_date": "2023-10-05",
-		"title": "loki",
-		"video": false,
-		"vote_average": 0,
-		"slug": "loki",
 		"tags": [
 			"movie",
 			"company-420"
@@ -705,7 +684,7 @@
 		"release_date": "2023-09-20",
 		"title": "Marvel Studios Assembled: The Making of Secret Invasion",
 		"video": false,
-		"vote_average": 4.3,
+		"vote_average": 4.6,
 		"slug": "marvel-studios-assembled-the-making-of-secret-invasion",
 		"tags": [
 			"movie",
@@ -1649,6 +1628,28 @@
 		]
 	},
 	{
+		"adult": false,
+		"backdrop_path": "/lX6t0RCDrpPvR3TNtWk6MDaulc1.jpg",
+		"genre_ids": [
+			28,
+			12
+		],
+		"id": 1207404,
+		"original_language": "en",
+		"original_title": "What If...?",
+		"overview": "Reimagining noteworthy events in the Marvel Cinematic Universe and creating a multiverse of infinite possibilities.",
+		"poster_path": "/hBlgsvQlYRbpKRPVZ1Dthrd6jXb.jpg",
+		"release_date": "2021-08-11",
+		"title": "What If...?",
+		"video": false,
+		"vote_average": 0,
+		"slug": "what-if",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
 		"backdrop_path": "/7CvmnHAVxhDbYE7jPp0PbKunqqs.jpg",
 		"first_air_date": "2021-08-06",
 		"genre_ids": [
@@ -1954,7 +1955,7 @@
 		],
 		"release_date": "2020-04-02",
 		"video": false,
-		"vote_average": 6.14,
+		"vote_average": 6.139,
 		"slug": "the-new-mutants",
 		"tags": [
 			"list-8204860"
@@ -3372,7 +3373,7 @@
 		"original_language": "en",
 		"original_title": "The Amazing Spider-Man 2",
 		"overview": "For Peter Parker, life is busy. Between taking out the bad guys as Spider-Man and spending time with the person he loves, Gwen Stacy, high school graduation cannot come quickly enough. Peter has not forgotten about the promise he made to Gwen’s father to protect her by staying away, but that is a promise he cannot keep. Things will change for Peter when a new villain, Electro, emerges, an old friend, Harry Osborn, returns, and Peter uncovers new clues about his past.",
-		"poster_path": "/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg",
+		"poster_path": "/dGjoPttcbKR5VWg1jQuNFB247KL.jpg",
 		"release_date": "2014-04-16",
 		"title": "The Amazing Spider-Man 2",
 		"video": false,
@@ -4109,7 +4110,7 @@
 		"original_name": "The Avengers: Earth's Mightiest Heroes",
 		"overview": "When the powers of a single hero are not enough to save the world, the world’s greatest heroes—Iron Man, Thor, Captain America, The Hulk, Ant-Man/Giant Man and Wasp—assemble to form the Avengers.",
 		"poster_path": "/8MwwAuDy6dc1GbiBUZdvWtQczqR.jpg",
-		"vote_average": 8.184,
+		"vote_average": 8.179,
 		"title": "The Avengers: Earth's Mightiest Heroes",
 		"slug": "the-avengers-earths-mightiest-heroes",
 		"tags": [
@@ -4591,7 +4592,7 @@
 		"release_date": "2007-01-23",
 		"title": "The Invincible Iron Man",
 		"video": false,
-		"vote_average": 6.1,
+		"vote_average": 6.137,
 		"slug": "the-invincible-iron-man",
 		"tags": [
 			"movie",
@@ -4716,7 +4717,7 @@
 		],
 		"release_date": "2006-05-24",
 		"video": false,
-		"vote_average": 6.406,
+		"vote_average": 6.405,
 		"slug": "x-men-the-last-stand",
 		"tags": [
 			"list-8204860"
@@ -5071,7 +5072,7 @@
 		],
 		"release_date": "2000-07-13",
 		"video": false,
-		"vote_average": 6.997,
+		"vote_average": 6.998,
 		"slug": "x-men",
 		"tags": [
 			"list-8204860"
@@ -5243,7 +5244,7 @@
 			10759
 		],
 		"first_air_date": "1994-11-19",
-		"vote_average": 8.298,
+		"vote_average": 8.295,
 		"origin_country": [
 			"US"
 		],
@@ -5344,7 +5345,7 @@
 			10759
 		],
 		"first_air_date": "1992-10-31",
-		"vote_average": 8.184,
+		"vote_average": 8.2,
 		"origin_country": [
 			"US"
 		],
@@ -5444,7 +5445,7 @@
 		],
 		"release_date": "1989-05-07",
 		"video": false,
-		"vote_average": 6.3,
+		"vote_average": 6.343,
 		"slug": "the-trial-of-the-incredible-hulk",
 		"tags": [
 			"list-8204862"
@@ -5490,7 +5491,7 @@
 		"release_date": "1986-08-01",
 		"title": "Howard the Duck",
 		"video": false,
-		"vote_average": 5.406,
+		"vote_average": 5.4,
 		"slug": "howard-the-duck",
 		"tags": [
 			"movie",
@@ -5541,7 +5542,7 @@
 		],
 		"release_date": "1981-06-25",
 		"video": false,
-		"vote_average": 4.931,
+		"vote_average": 4.9,
 		"slug": "spider-man-the-dragons-challenge",
 		"tags": [
 			"list-8204862"
@@ -5565,7 +5566,7 @@
 		],
 		"release_date": "1979-11-23",
 		"video": false,
-		"vote_average": 3.667,
+		"vote_average": 3.7,
 		"slug": "captain-america-ii-death-too-soon",
 		"tags": [
 			"list-8204862"
@@ -5612,7 +5613,7 @@
 		],
 		"release_date": "1979-01-19",
 		"video": false,
-		"vote_average": 3.842,
+		"vote_average": 3.8,
 		"slug": "captain-america",
 		"tags": [
 			"list-8204862"
@@ -5856,7 +5857,7 @@
 		],
 		"release_date": "1977-09-14",
 		"video": false,
-		"vote_average": 5.953,
+		"vote_average": 6,
 		"slug": "spider-man",
 		"tags": [
 			"list-8204862"
