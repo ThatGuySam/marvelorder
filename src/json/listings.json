@@ -1628,28 +1628,6 @@
 		]
 	},
 	{
-		"adult": false,
-		"backdrop_path": "/lX6t0RCDrpPvR3TNtWk6MDaulc1.jpg",
-		"genre_ids": [
-			28,
-			12
-		],
-		"id": 1207404,
-		"original_language": "en",
-		"original_title": "What If...?",
-		"overview": "Reimagining noteworthy events in the Marvel Cinematic Universe and creating a multiverse of infinite possibilities.",
-		"poster_path": "/hBlgsvQlYRbpKRPVZ1Dthrd6jXb.jpg",
-		"release_date": "2021-08-11",
-		"title": "What If...?",
-		"video": false,
-		"vote_average": 0,
-		"slug": "what-if",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
 		"backdrop_path": "/7CvmnHAVxhDbYE7jPp0PbKunqqs.jpg",
 		"first_air_date": "2021-08-06",
 		"genre_ids": [
@@ -1720,7 +1698,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/N1hWzVPpZ8lIQvQskgdQogxdsc.jpg",
+		"backdrop_path": "/q3jHCb4dMfYF6ojikKuHd6LscxC.jpg",
 		"first_air_date": "2021-06-09",
 		"genre_ids": [
 			18,
@@ -2512,7 +2490,7 @@
 		"original_name": "The Gifted",
 		"overview": "A suburban couple's ordinary lives are rocked by the sudden discovery that their children possess mutant powers. Forced to go on the run from a hostile government, the family joins up with an underground network of mutants and must fight to survive.",
 		"poster_path": "/nshCqszjTNuqhrB53vrSqWO18sE.jpg",
-		"vote_average": 7.7,
+		"vote_average": 7.676,
 		"title": "The Gifted",
 		"slug": "the-gifted",
 		"tags": [
@@ -2712,7 +2690,7 @@
 		],
 		"release_date": "2017-03-03",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7.149,
 		"slug": "deadpool-no-good-deed",
 		"tags": [
 			"list-8204860"
@@ -2925,7 +2903,7 @@
 		],
 		"release_date": "2016-05-18",
 		"video": false,
-		"vote_average": 6.511,
+		"vote_average": 6.5,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"list-8204860"
@@ -3310,7 +3288,7 @@
 		],
 		"release_date": "2014-05-15",
 		"video": false,
-		"vote_average": 7.525,
+		"vote_average": 7.5,
 		"slug": "x-men-days-of-future-past",
 		"tags": [
 			"list-8204860"
@@ -3373,7 +3351,7 @@
 		"original_language": "en",
 		"original_title": "The Amazing Spider-Man 2",
 		"overview": "For Peter Parker, life is busy. Between taking out the bad guys as Spider-Man and spending time with the person he loves, Gwen Stacy, high school graduation cannot come quickly enough. Peter has not forgotten about the promise he made to Gwen’s father to protect her by staying away, but that is a promise he cannot keep. Things will change for Peter when a new villain, Electro, emerges, an old friend, Harry Osborn, returns, and Peter uncovers new clues about his past.",
-		"poster_path": "/dGjoPttcbKR5VWg1jQuNFB247KL.jpg",
+		"poster_path": "/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg",
 		"release_date": "2014-04-16",
 		"title": "The Amazing Spider-Man 2",
 		"video": false,
@@ -3652,7 +3630,7 @@
 		],
 		"release_date": "2013-07-23",
 		"video": false,
-		"vote_average": 6.398,
+		"vote_average": 6.399,
 		"slug": "the-wolverine",
 		"tags": [
 			"list-8204860"
@@ -4017,7 +3995,7 @@
 		],
 		"release_date": "2011-06-01",
 		"video": false,
-		"vote_average": 7.296,
+		"vote_average": 7.3,
 		"slug": "x-men-first-class",
 		"tags": [
 			"list-8204860"
@@ -4717,7 +4695,7 @@
 		],
 		"release_date": "2006-05-24",
 		"video": false,
-		"vote_average": 6.405,
+		"vote_average": 6.406,
 		"slug": "x-men-the-last-stand",
 		"tags": [
 			"list-8204860"
@@ -4928,7 +4906,7 @@
 		],
 		"release_date": "2003-04-27",
 		"video": false,
-		"vote_average": 7.029,
+		"vote_average": 7,
 		"slug": "x2",
 		"tags": [
 			"list-8204860"
@@ -5072,7 +5050,7 @@
 		],
 		"release_date": "2000-07-13",
 		"video": false,
-		"vote_average": 6.998,
+		"vote_average": 7,
 		"slug": "x-men",
 		"tags": [
 			"list-8204860"
@@ -5244,7 +5222,7 @@
 			10759
 		],
 		"first_air_date": "1994-11-19",
-		"vote_average": 8.295,
+		"vote_average": 8.3,
 		"origin_country": [
 			"US"
 		],
@@ -5387,7 +5365,7 @@
 		"original_language": "en",
 		"original_title": "The Death of the Incredible Hulk",
 		"overview": "During the critical experiment that would rid David Banner of the Hulk,a spy sabotages the laboratory. Banner falls in love with the spy, Jasmin, who performs missions only because her sister is being held hostage by Jasmin's superiors. Banner and Jasmin try to escape from the enemy agents to rebuild their lives together, but the Hulk is never far from them.",
-		"poster_path": "/9aSm5X1dPRWXfBodjR9V3u0Zqne.jpg",
+		"poster_path": "/mvKi4iBTzc32whrwvXXO2fEiRZL.jpg",
 		"media_type": "movie",
 		"genre_ids": [
 			28,
