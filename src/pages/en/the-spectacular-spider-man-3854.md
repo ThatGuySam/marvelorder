@@ -22,7 +22,8 @@ watchLinks:
     "first_air_date": "2008-03-08",
     "genre_ids": [
         10759,
-        16
+        16,
+        10762
     ],
     "id": 3854,
     "name": "The Spectacular Spider-Man",
