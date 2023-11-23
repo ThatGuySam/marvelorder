@@ -637,7 +637,7 @@
 		"original_title": "Marvel Studios Assembled: The Making of Loki: Season 2",
 		"overview": "Through candid interviews with the creative minds behind the show, and exclusive on-set footage, discover how the talented team that powered \"Loki: Season 2\" raised the stakes for this latest MCU adventure. Witness imaginative costumes, elaborate environments, and far-out variants come to life, meet new allies and foes, and time-slip across the Multiverse.",
 		"poster_path": "/uvDD8vFNUTz00ofNfGOEhTUjSVz.jpg",
-		"release_date": "2023-11-29",
+		"release_date": "2023-11-22",
 		"title": "Marvel Studios Assembled: The Making of Loki: Season 2",
 		"video": false,
 		"vote_average": 0,
@@ -653,13 +653,14 @@
 		"genre_ids": [
 			28,
 			12,
-			878
+			878,
+			35
 		],
 		"id": 609681,
 		"original_language": "en",
 		"original_title": "The Marvels",
 		"overview": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
-		"poster_path": "/Ag3D9qXjhJ2FUkrlJ0Cv1pgxqYQ.jpg",
+		"poster_path": "/y4YMYsGSMwu8e985g0Zbumvqxld.jpg",
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
@@ -2490,7 +2491,7 @@
 		"original_name": "The Gifted",
 		"overview": "A suburban couple's ordinary lives are rocked by the sudden discovery that their children possess mutant powers. Forced to go on the run from a hostile government, the family joins up with an underground network of mutants and must fight to survive.",
 		"poster_path": "/nshCqszjTNuqhrB53vrSqWO18sE.jpg",
-		"vote_average": 7.675,
+		"vote_average": 7.676,
 		"title": "The Gifted",
 		"slug": "the-gifted",
 		"tags": [
@@ -2600,7 +2601,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+		"backdrop_path": "/n3gb8oqP9BeRCUsCmZVaT5eltPH.jpg",
 		"genre_ids": [
 			878,
 			12,
@@ -3351,7 +3352,7 @@
 		"original_language": "en",
 		"original_title": "The Amazing Spider-Man 2",
 		"overview": "For Peter Parker, life is busy. Between taking out the bad guys as Spider-Man and spending time with the person he loves, Gwen Stacy, high school graduation cannot come quickly enough. Peter has not forgotten about the promise he made to Gwen’s father to protect her by staying away, but that is a promise he cannot keep. Things will change for Peter when a new villain, Electro, emerges, an old friend, Harry Osborn, returns, and Peter uncovers new clues about his past.",
-		"poster_path": "/dGjoPttcbKR5VWg1jQuNFB247KL.jpg",
+		"poster_path": "/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg",
 		"release_date": "2014-04-16",
 		"title": "The Amazing Spider-Man 2",
 		"video": false,
@@ -4088,7 +4089,7 @@
 		"original_name": "The Avengers: Earth's Mightiest Heroes",
 		"overview": "When the powers of a single hero are not enough to save the world, the world’s greatest heroes—Iron Man, Thor, Captain America, The Hulk, Ant-Man/Giant Man and Wasp—assemble to form the Avengers.",
 		"poster_path": "/8MwwAuDy6dc1GbiBUZdvWtQczqR.jpg",
-		"vote_average": 8.179,
+		"vote_average": 8.2,
 		"title": "The Avengers: Earth's Mightiest Heroes",
 		"slug": "the-avengers-earths-mightiest-heroes",
 		"tags": [
@@ -4696,7 +4697,7 @@
 		],
 		"release_date": "2006-05-24",
 		"video": false,
-		"vote_average": 6.406,
+		"vote_average": 6.405,
 		"slug": "x-men-the-last-stand",
 		"tags": [
 			"list-8204860"
@@ -5470,7 +5471,7 @@
 		"release_date": "1986-08-01",
 		"title": "Howard the Duck",
 		"video": false,
-		"vote_average": 5.4,
+		"vote_average": 5.404,
 		"slug": "howard-the-duck",
 		"tags": [
 			"movie",
