@@ -635,12 +635,12 @@
 		"id": 1192825,
 		"original_language": "en",
 		"original_title": "Marvel Studios Assembled: The Making of Loki: Season 2",
-		"overview": "Through candid interviews with the creative minds behind the show, and exclusive on-set footage, discover how the talented team that powered \"Loki: Season 2\" raised the stakes for this latest MCU adventure. Witness imaginative costumes, elaborate environments, and far-out variants come to life, meet new allies and foes, and time-slip across the Multiverse.",
-		"poster_path": "/uvDD8vFNUTz00ofNfGOEhTUjSVz.jpg",
+		"overview": "In this episode of \"Assembled,\" join the likes of Tom Hiddleston and Owen Wilson as they recount the God of Mischief's journey back to the MCU. Since Sylvie dispatched \"He Who Remains\" at the end of time, the Multiverse has been unleashed, the Sacred Timeline is nearing destruction, and Loki's returned to the TVA to try and save reality as we know it. Through candid interviews with the creative minds behind the show, and exclusive on-set footage, discover how the team that powered \"Loki: Season 2\" raised the stakes for this latest adventure while retaining the charm and snark that was always at the heart of the series. Witness imaginative costumes and elaborate environments come to life, meet new allies and foes, and time-slip across the Multiverse in \"Assembled: The Making of Loki: Season 2.\"",
+		"poster_path": "/fa4HvgQO1sLQTobjJR10kDOJzWB.jpg",
 		"release_date": "2023-11-22",
 		"title": "Marvel Studios Assembled: The Making of Loki: Season 2",
 		"video": false,
-		"vote_average": 0,
+		"vote_average": 4,
 		"slug": "marvel-studios-assembled-the-making-of-loki-season-2",
 		"tags": [
 			"movie",
@@ -1934,7 +1934,7 @@
 		],
 		"release_date": "2020-04-02",
 		"video": false,
-		"vote_average": 6.139,
+		"vote_average": 6.138,
 		"slug": "the-new-mutants",
 		"tags": [
 			"list-8204860"
@@ -2068,7 +2068,7 @@
 		],
 		"release_date": "2019-06-05",
 		"video": false,
-		"vote_average": 5.991,
+		"vote_average": 5.99,
 		"slug": "dark-phoenix",
 		"tags": [
 			"list-8204860"
@@ -2187,7 +2187,7 @@
 		],
 		"release_date": "2018-12-11",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 7.14,
 		"slug": "once-upon-a-deadpool",
 		"tags": [
 			"list-8204860"
@@ -2904,7 +2904,7 @@
 		],
 		"release_date": "2016-05-18",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.512,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"list-8204860"
@@ -3996,7 +3996,7 @@
 		],
 		"release_date": "2011-06-01",
 		"video": false,
-		"vote_average": 7.296,
+		"vote_average": 7.3,
 		"slug": "x-men-first-class",
 		"tags": [
 			"list-8204860"
@@ -4697,7 +4697,7 @@
 		],
 		"release_date": "2006-05-24",
 		"video": false,
-		"vote_average": 6.405,
+		"vote_average": 6.406,
 		"slug": "x-men-the-last-stand",
 		"tags": [
 			"list-8204860"
@@ -4908,7 +4908,7 @@
 		],
 		"release_date": "2003-04-27",
 		"video": false,
-		"vote_average": 7.029,
+		"vote_average": 7.03,
 		"slug": "x2",
 		"tags": [
 			"list-8204860"
@@ -5224,7 +5224,7 @@
 			10759
 		],
 		"first_air_date": "1994-11-19",
-		"vote_average": 8.3,
+		"vote_average": 8.296,
 		"origin_country": [
 			"US"
 		],
@@ -5471,7 +5471,7 @@
 		"release_date": "1986-08-01",
 		"title": "Howard the Duck",
 		"video": false,
-		"vote_average": 5.404,
+		"vote_average": 5.405,
 		"slug": "howard-the-duck",
 		"tags": [
 			"movie",
@@ -5496,7 +5496,7 @@
 		"release_date": "1981-07-27",
 		"title": "Monster of Frankenstein",
 		"video": false,
-		"vote_average": 6.2,
+		"vote_average": 6,
 		"slug": "monster-of-frankenstein",
 		"tags": [
 			"movie",
@@ -5667,7 +5667,7 @@
 		],
 		"release_date": "1978-09-06",
 		"video": false,
-		"vote_average": 6,
+		"vote_average": 5.972,
 		"slug": "dr-strange",
 		"tags": [
 			"list-8204862"
@@ -5813,7 +5813,7 @@
 		],
 		"release_date": "1977-11-04",
 		"video": false,
-		"vote_average": 6.373,
+		"vote_average": 6.4,
 		"slug": "the-incredible-hulk",
 		"tags": [
 			"list-8204862"
