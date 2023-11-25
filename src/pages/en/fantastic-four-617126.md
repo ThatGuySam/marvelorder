@@ -12,7 +12,9 @@ logo_on_black: /.netlify/functions/tmdb-image/jatnqRPnxjg2Q6cFsAjmrBNhx9.webp
     "adult": false,
     "backdrop_path": "/qlwBv4v6EoeN2JxGWziT2kSyoVe.jpg",
     "genre_ids": [
-        878
+        878,
+        28,
+        12
     ],
     "id": 617126,
     "original_language": "en",

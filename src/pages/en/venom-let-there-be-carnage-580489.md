@@ -28,7 +28,7 @@ mcuTimelineOrder: 518
     "original_language": "en",
     "original_title": "Venom: Let There Be Carnage",
     "overview": "After finding a host body in investigative reporter Eddie Brock, the alien symbiote must face a new enemy, Carnage, the alter ego of serial killer Cletus Kasady.",
-    "poster_path": "/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg",
+    "poster_path": "/1MJNcPZy46hIy2CmSqOeru0yr5C.jpg",
     "release_date": "2021-09-30",
     "title": "Venom: Let There Be Carnage",
     "video": false,

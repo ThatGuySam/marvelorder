@@ -422,7 +422,8 @@
 		"backdrop_path": "/jqFC2WjYF07hx2X7cs0XmY9jBX6.jpg",
 		"genre_ids": [
 			28,
-			878
+			878,
+			12
 		],
 		"id": 1003598,
 		"original_language": "en",
@@ -492,7 +493,8 @@
 		"backdrop_path": "/vzVojqW0zF9QrXVGuj8PwhxWACD.jpg",
 		"genre_ids": [
 			28,
-			12
+			12,
+			80
 		],
 		"id": 986056,
 		"original_language": "en",
@@ -513,7 +515,9 @@
 		"adult": false,
 		"backdrop_path": "/qlwBv4v6EoeN2JxGWziT2kSyoVe.jpg",
 		"genre_ids": [
-			878
+			878,
+			28,
+			12
 		],
 		"id": 617126,
 		"original_language": "en",
@@ -660,7 +664,7 @@
 		"original_language": "en",
 		"original_title": "The Marvels",
 		"overview": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
-		"poster_path": "/y4YMYsGSMwu8e985g0Zbumvqxld.jpg",
+		"poster_path": "/Ag3D9qXjhJ2FUkrlJ0Cv1pgxqYQ.jpg",
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
@@ -1569,7 +1573,7 @@
 		"original_language": "en",
 		"original_title": "Venom: Let There Be Carnage",
 		"overview": "After finding a host body in investigative reporter Eddie Brock, the alien symbiote must face a new enemy, Carnage, the alter ego of serial killer Cletus Kasady.",
-		"poster_path": "/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg",
+		"poster_path": "/1MJNcPZy46hIy2CmSqOeru0yr5C.jpg",
 		"release_date": "2021-09-30",
 		"title": "Venom: Let There Be Carnage",
 		"video": false,
@@ -1934,7 +1938,7 @@
 		],
 		"release_date": "2020-04-02",
 		"video": false,
-		"vote_average": 6.138,
+		"vote_average": 6.139,
 		"slug": "the-new-mutants",
 		"tags": [
 			"list-8204860"
@@ -3996,7 +4000,7 @@
 		],
 		"release_date": "2011-06-01",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.296,
 		"slug": "x-men-first-class",
 		"tags": [
 			"list-8204860"
@@ -4089,7 +4093,7 @@
 		"original_name": "The Avengers: Earth's Mightiest Heroes",
 		"overview": "When the powers of a single hero are not enough to save the world, the world’s greatest heroes—Iron Man, Thor, Captain America, The Hulk, Ant-Man/Giant Man and Wasp—assemble to form the Avengers.",
 		"poster_path": "/8MwwAuDy6dc1GbiBUZdvWtQczqR.jpg",
-		"vote_average": 8.2,
+		"vote_average": 8.178,
 		"title": "The Avengers: Earth's Mightiest Heroes",
 		"slug": "the-avengers-earths-mightiest-heroes",
 		"tags": [
@@ -4893,13 +4897,13 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/loixNIKBURXfPcND4noz7E8FqCS.jpg",
+		"backdrop_path": "/s8ftvFvafWWEhApISamHx32bx6h.jpg",
 		"id": 36658,
 		"title": "X2",
 		"original_language": "en",
 		"original_title": "X2",
 		"overview": "Professor Charles Xavier and his team of genetically gifted superheroes face a rising tide of anti-mutant sentiment led by Col. William Stryker. Storm, Wolverine and Jean Grey must join their usual nemeses—Magneto and Mystique—to unhinge Stryker's scheme to exterminate all mutants.",
-		"poster_path": "/mM5qSVdWlGkvALHhNIb6kW6D42Y.jpg",
+		"poster_path": "/pwQo1ehiPBqAbiVqD6rfNM8GCFE.jpg",
 		"media_type": "movie",
 		"genre_ids": [
 			12,
@@ -4908,7 +4912,7 @@
 		],
 		"release_date": "2003-04-27",
 		"video": false,
-		"vote_average": 7.03,
+		"vote_average": 7,
 		"slug": "x2",
 		"tags": [
 			"list-8204860"
@@ -5275,7 +5279,7 @@
 			10765
 		],
 		"first_air_date": "1994-09-24",
-		"vote_average": 6.64,
+		"vote_average": 6.6,
 		"origin_country": [
 			"US"
 		],
@@ -5471,7 +5475,7 @@
 		"release_date": "1986-08-01",
 		"title": "Howard the Duck",
 		"video": false,
-		"vote_average": 5.405,
+		"vote_average": 5.4,
 		"slug": "howard-the-duck",
 		"tags": [
 			"movie",
