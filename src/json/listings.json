@@ -285,7 +285,7 @@
 		"original_language": "en",
 		"original_title": "Spider-Man 4",
 		"overview": "The next installment of the MCU Spider-Man franchise: a sequel to \"Spider-Man: No Way Home\" and the first in a possible new trilogy. Plot unknown.",
-		"poster_path": "/8osKxgVXy29V3s1JlYnj5vziVAT.jpg",
+		"poster_path": null,
 		"title": "Spider-Man 4",
 		"video": false,
 		"vote_average": 0,
@@ -644,7 +644,7 @@
 		"release_date": "2023-11-22",
 		"title": "Marvel Studios Assembled: The Making of Loki: Season 2",
 		"video": false,
-		"vote_average": 4,
+		"vote_average": 6,
 		"slug": "marvel-studios-assembled-the-making-of-loki-season-2",
 		"tags": [
 			"movie",
@@ -1072,7 +1072,7 @@
 		"original_name": "I Am Groot",
 		"overview": "There’s no guarding the galaxy from this mischievous toddler! Get ready as Baby Groot takes center stage in his very own collection of shorts, exploring his glory days growing up and getting into trouble among the stars.",
 		"poster_path": "/lYwFSsP4KsoRhOLhJvBFp3GEGEm.jpg",
-		"vote_average": 7.3,
+		"vote_average": 7.2,
 		"title": "I Am Groot",
 		"slug": "i-am-groot",
 		"tags": [
@@ -3795,7 +3795,7 @@
 		],
 		"release_date": "2012-07-16",
 		"video": false,
-		"vote_average": 7.044,
+		"vote_average": 7,
 		"slug": "the-punisher-dirty-laundry",
 		"tags": [
 			"list-8204859"
@@ -3803,7 +3803,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/u1hxf2Co5pm3SJzqFbVyMA8v2N0.jpg",
+		"backdrop_path": "/ac0kRKTfiJ4GcoUfb0XIO5vgC8q.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -3813,7 +3813,7 @@
 		"original_language": "en",
 		"original_title": "The Amazing Spider-Man",
 		"overview": "Peter Parker is an outcast high schooler abandoned by his parents as a boy, leaving him to be raised by his Uncle Ben and Aunt May. Like most teenagers, Peter is trying to figure out who he is and how he got to be the person he is today. As Peter discovers a mysterious briefcase that belonged to his father, he begins a quest to understand his parents' disappearance – leading him directly to Oscorp and the lab of Dr. Curt Connors, his father's former partner. As Spider-Man is set on a collision course with Connors' alter ego, The Lizard, Peter will make life-altering choices to use his powers and shape his destiny to become a hero.",
-		"poster_path": "/BgcvtsVWLQfjHD6Dr3YYgeSLYk.jpg",
+		"poster_path": "/jIfkQNARYyERqRAq1p1c8xgePp4.jpg",
 		"release_date": "2012-06-23",
 		"title": "The Amazing Spider-Man",
 		"video": false,
@@ -4912,7 +4912,7 @@
 		],
 		"release_date": "2003-04-27",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 7.03,
 		"slug": "x2",
 		"tags": [
 			"list-8204860"
@@ -5228,7 +5228,7 @@
 			10759
 		],
 		"first_air_date": "1994-11-19",
-		"vote_average": 8.296,
+		"vote_average": 8.3,
 		"origin_country": [
 			"US"
 		],
