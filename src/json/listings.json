@@ -421,9 +421,7 @@
 		"adult": false,
 		"backdrop_path": "/jqFC2WjYF07hx2X7cs0XmY9jBX6.jpg",
 		"genre_ids": [
-			28,
-			878,
-			12
+			878
 		],
 		"id": 1003598,
 		"original_language": "en",
@@ -446,9 +444,7 @@
 		"adult": false,
 		"backdrop_path": "/uR952NrgispGuyqIdUbkR24vE0u.jpg",
 		"genre_ids": [
-			28,
-			878,
-			12
+			878
 		],
 		"id": 1003596,
 		"original_language": "en",
@@ -493,8 +489,7 @@
 		"backdrop_path": "/vzVojqW0zF9QrXVGuj8PwhxWACD.jpg",
 		"genre_ids": [
 			28,
-			12,
-			80
+			12
 		],
 		"id": 986056,
 		"original_language": "en",
@@ -516,7 +511,6 @@
 		"backdrop_path": "/qlwBv4v6EoeN2JxGWziT2kSyoVe.jpg",
 		"genre_ids": [
 			878,
-			28,
 			12
 		],
 		"id": 617126,
@@ -591,7 +585,7 @@
 		"id": 533535,
 		"original_language": "en",
 		"original_title": "Deadpool 3",
-		"overview": "Wolverine is recovering from his injuries when he crosses paths with the loudmouth, Deadpool. They team up to defeat a common enemy.",
+		"overview": "Third entry in the \"Deadpool\" franchise. Plot TBA.",
 		"poster_path": "/4gdqWCVvidYR0pOHuVOqFundbUG.jpg",
 		"release_date": "2024-07-24",
 		"title": "Deadpool 3",
@@ -638,13 +632,13 @@
 		],
 		"id": 1192825,
 		"original_language": "en",
-		"original_title": "Marvel Studios Assembled: The Making of Loki: Season 2",
-		"overview": "In this episode of \"Assembled,\" join the likes of Tom Hiddleston and Owen Wilson as they recount the God of Mischief's journey back to the MCU. Since Sylvie dispatched \"He Who Remains\" at the end of time, the Multiverse has been unleashed, the Sacred Timeline is nearing destruction, and Loki's returned to the TVA to try and save reality as we know it. Through candid interviews with the creative minds behind the show, and exclusive on-set footage, discover how the team that powered \"Loki: Season 2\" raised the stakes for this latest adventure while retaining the charm and snark that was always at the heart of the series. Witness imaginative costumes and elaborate environments come to life, meet new allies and foes, and time-slip across the Multiverse in \"Assembled: The Making of Loki: Season 2.\"",
+		"original_title": "Marvel Studios Assembled: The Making of Loki Season 2",
+		"overview": "Through candid interviews with the creative minds behind the show, and exclusive on-set footage, discover how the talented team that powered \"Loki: Season 2\" raised the stakes for this latest MCU adventure. Witness imaginative costumes, elaborate environments, and far-out variants come to life, meet new allies and foes, and time-slip across the Multiverse.",
 		"poster_path": "/fa4HvgQO1sLQTobjJR10kDOJzWB.jpg",
 		"release_date": "2023-11-22",
-		"title": "Marvel Studios Assembled: The Making of Loki: Season 2",
+		"title": "Marvel Studios Assembled: The Making of Loki Season 2",
 		"video": false,
-		"vote_average": 6,
+		"vote_average": 6.7,
 		"slug": "marvel-studios-assembled-the-making-of-loki-season-2",
 		"tags": [
 			"movie",
@@ -655,10 +649,9 @@
 		"adult": false,
 		"backdrop_path": "/feSiISwgEpVzR1v3zv2n2AU4ANJ.jpg",
 		"genre_ids": [
-			28,
-			12,
 			878,
-			35
+			12,
+			28
 		],
 		"id": 609681,
 		"original_language": "en",
@@ -668,7 +661,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.6,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -1244,7 +1237,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/jsoz1HlxczSuTx0mDl2h0lxy36l.jpg",
+		"backdrop_path": "/vvObT0eIWGlArLQx3K5wZ0uT812.jpg",
 		"genre_ids": [
 			14,
 			28,
@@ -2072,7 +2065,7 @@
 		],
 		"release_date": "2019-06-05",
 		"video": false,
-		"vote_average": 5.99,
+		"vote_average": 5.991,
 		"slug": "dark-phoenix",
 		"tags": [
 			"list-8204860"
@@ -2215,7 +2208,7 @@
 		],
 		"release_date": "2018-12-06",
 		"video": false,
-		"vote_average": 8.405,
+		"vote_average": 8.4,
 		"slug": "spider-man-into-the-spider-verse",
 		"tags": [
 			"list-8204859"
@@ -3293,7 +3286,7 @@
 		],
 		"release_date": "2014-05-15",
 		"video": false,
-		"vote_average": 7.525,
+		"vote_average": 7.526,
 		"slug": "x-men-days-of-future-past",
 		"tags": [
 			"list-8204860"
@@ -3356,7 +3349,7 @@
 		"original_language": "en",
 		"original_title": "The Amazing Spider-Man 2",
 		"overview": "For Peter Parker, life is busy. Between taking out the bad guys as Spider-Man and spending time with the person he loves, Gwen Stacy, high school graduation cannot come quickly enough. Peter has not forgotten about the promise he made to Gwen’s father to protect her by staying away, but that is a promise he cannot keep. Things will change for Peter when a new villain, Electro, emerges, an old friend, Harry Osborn, returns, and Peter uncovers new clues about his past.",
-		"poster_path": "/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg",
+		"poster_path": "/dGjoPttcbKR5VWg1jQuNFB247KL.jpg",
 		"release_date": "2014-04-16",
 		"title": "The Amazing Spider-Man 2",
 		"video": false,
@@ -4214,7 +4207,7 @@
 		],
 		"release_date": "2009-04-28",
 		"video": false,
-		"vote_average": 6.254,
+		"vote_average": 6.255,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"list-8204860"
