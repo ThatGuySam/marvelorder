@@ -419,6 +419,28 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			28,
+			878
+		],
+		"id": 1210773,
+		"original_language": "en",
+		"original_title": "X-Men",
+		"overview": "Plot TBA. Set in the Marvel Cinematic Universe.",
+		"poster_path": null,
+		"release_date": "",
+		"title": "X-Men",
+		"video": false,
+		"vote_average": 0,
+		"slug": "x-men",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/jqFC2WjYF07hx2X7cs0XmY9jBX6.jpg",
 		"genre_ids": [
 			878
@@ -555,9 +577,10 @@
 		"adult": false,
 		"backdrop_path": null,
 		"genre_ids": [
-			878,
 			28,
-			12
+			878,
+			12,
+			27
 		],
 		"id": 912649,
 		"original_language": "en",
@@ -585,7 +608,7 @@
 		"id": 533535,
 		"original_language": "en",
 		"original_title": "Deadpool 3",
-		"overview": "Third entry in the \"Deadpool\" franchise. Plot TBA.",
+		"overview": "Third entry in the \"Deadpool\" franchise set in the Marvel Cinematic Universe. Plot TBA.",
 		"poster_path": "/4gdqWCVvidYR0pOHuVOqFundbUG.jpg",
 		"release_date": "2024-07-24",
 		"title": "Deadpool 3",
@@ -626,7 +649,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
+		"backdrop_path": "/fxAtHxOVBCGmMBDhKWcBdtX9I5p.jpg",
 		"genre_ids": [
 			99
 		],
@@ -1931,7 +1954,7 @@
 		],
 		"release_date": "2020-04-02",
 		"video": false,
-		"vote_average": 6.139,
+		"vote_average": 6.1,
 		"slug": "the-new-mutants",
 		"tags": [
 			"list-8204860"
@@ -2065,7 +2088,7 @@
 		],
 		"release_date": "2019-06-05",
 		"video": false,
-		"vote_average": 5.991,
+		"vote_average": 5.99,
 		"slug": "dark-phoenix",
 		"tags": [
 			"list-8204860"
@@ -2184,7 +2207,7 @@
 		],
 		"release_date": "2018-12-11",
 		"video": false,
-		"vote_average": 7.14,
+		"vote_average": 7.1,
 		"slug": "once-upon-a-deadpool",
 		"tags": [
 			"list-8204860"
@@ -2901,7 +2924,7 @@
 		],
 		"release_date": "2016-05-18",
 		"video": false,
-		"vote_average": 6.512,
+		"vote_average": 6.5,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"list-8204860"
@@ -3993,7 +4016,7 @@
 		],
 		"release_date": "2011-06-01",
 		"video": false,
-		"vote_average": 7.296,
+		"vote_average": 7.297,
 		"slug": "x-men-first-class",
 		"tags": [
 			"list-8204860"
@@ -4694,7 +4717,7 @@
 		],
 		"release_date": "2006-05-24",
 		"video": false,
-		"vote_average": 6.406,
+		"vote_average": 6.4,
 		"slug": "x-men-the-last-stand",
 		"tags": [
 			"list-8204860"
@@ -5876,7 +5899,7 @@
 		],
 		"original_language": "en",
 		"original_name": "Spider-Man",
-		"overview": "Spider-Man is an animated television series that ran from September 9, 1967 to June 14, 1970. It was jointly produced in Canada and the United States and was the first animated adaptation of the Spider-Man comic book series, created by writer Stan Lee and artist Steve Ditko. It first aired on the ABC television network in the United States but went into syndication at the start of the third season. Grantray-Lawrence Animation produced the first season. Seasons 2 and 3 were crafted by producer Ralph Bakshi in New York City. In Canada, it is currently airing on Teletoon Retro. An internet meme, commonly known as 1960s Spiderman, regarding the series has received an overwhelming amount of popularity. The meme consists of a screenshot taken at a random part of the series and adding an inappropriate and/or witty text. Since the death of Max Ferguson on March 7 2013, there are only three surviving members from the cast. Those three being Paul Soles the voice of Spider-Man, Chris Wiggins the voice of Mysterio and Carl Banas the voice of the Scorpion.",
+		"overview": "Spider-Man was an animated television series that ran from September 9, 1967 to June 14, 1970. It was jointly produced in Canada and the United States and was the first animated adaptation of the Spider-Man comic book series, created by writer Stan Lee and artist Steve Ditko. It first aired on the ABC television network in the United States but went into syndication at the start of the third season. Grantray-Lawrence Animation produced the first season. Seasons 2 and 3 were crafted by producer Ralph Bakshi in New York City. An internet meme, commonly known as 1960s Spiderman, regarding the series has received an overwhelming amount of popularity. The meme consists of a screenshot taken at a random part of the series and adding inappropriate and/or witty text.",
 		"poster_path": "/lwqZ9SdBCwNKS6g2c4vYVGfg0ju.jpg",
 		"vote_average": 7.7,
 		"title": "Spider-Man",
