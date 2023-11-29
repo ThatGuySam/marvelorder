@@ -82,7 +82,7 @@
 		],
 		"original_language": "en",
 		"original_name": "Spider-Man: Freshman Year",
-		"overview": "Follow Peter Parker on his way to becoming Spider-Man, with a journey unlike any we've ever seen.",
+		"overview": "The animated series follows Peter Parker on his way to becoming Spider-Man in the MCU, with a journey unlike we've ever seen and a style that celebrates the character's early comic book roots.",
 		"poster_path": "/7ecqjxf49CaTsqQFIUd1iceoXZB.jpg",
 		"vote_average": 0,
 		"title": "Spider-Man: Freshman Year",
@@ -419,21 +419,18 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
-			28,
-			878
-		],
-		"id": 1210773,
+		"backdrop_path": "/7PNfoKEydYPeS3fnd5IeSBqLiqv.jpg",
+		"genre_ids": [],
+		"id": 1211147,
 		"original_language": "en",
-		"original_title": "X-Men",
-		"overview": "Plot TBA. Set in the Marvel Cinematic Universe.",
-		"poster_path": null,
+		"original_title": "The Scarlet Witch",
+		"overview": "The Return of Wanda Maximoff AKA The Scarlet Witch. Plot TBA.",
+		"poster_path": "/pVD5DfalrgQypFXtfubkrHkCkr2.jpg",
 		"release_date": "",
-		"title": "X-Men",
+		"title": "The Scarlet Witch",
 		"video": false,
 		"vote_average": 0,
-		"slug": "x-men",
+		"slug": "the-scarlet-witch",
 		"tags": [
 			"movie",
 			"company-420"
@@ -608,7 +605,7 @@
 		"id": 533535,
 		"original_language": "en",
 		"original_title": "Deadpool 3",
-		"overview": "Third entry in the \"Deadpool\" franchise set in the Marvel Cinematic Universe. Plot TBA.",
+		"overview": "Third entry in the \"Deadpool\" franchise. Plot TBA.",
 		"poster_path": "/4gdqWCVvidYR0pOHuVOqFundbUG.jpg",
 		"release_date": "2024-07-24",
 		"title": "Deadpool 3",
@@ -661,7 +658,7 @@
 		"release_date": "2023-11-22",
 		"title": "Marvel Studios Assembled: The Making of Loki Season 2",
 		"video": false,
-		"vote_average": 6.7,
+		"vote_average": 7.1,
 		"slug": "marvel-studios-assembled-the-making-of-loki-season-2",
 		"tags": [
 			"movie",
@@ -1954,7 +1951,7 @@
 		],
 		"release_date": "2020-04-02",
 		"video": false,
-		"vote_average": 6.1,
+		"vote_average": 6.141,
 		"slug": "the-new-mutants",
 		"tags": [
 			"list-8204860"
@@ -2231,7 +2228,7 @@
 		],
 		"release_date": "2018-12-06",
 		"video": false,
-		"vote_average": 8.4,
+		"vote_average": 8.406,
 		"slug": "spider-man-into-the-spider-verse",
 		"tags": [
 			"list-8204859"
@@ -2764,7 +2761,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/ejMim7XfNOviARyhEOzUd6ALGWs.jpg",
+		"backdrop_path": "/87eP7ITTrOWvkA4EqCuoRdyjzLy.jpg",
 		"first_air_date": "2017-02-08",
 		"genre_ids": [
 			10759,
@@ -2924,7 +2921,7 @@
 		],
 		"release_date": "2016-05-18",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.512,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"list-8204860"
@@ -4717,7 +4714,7 @@
 		],
 		"release_date": "2006-05-24",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.406,
 		"slug": "x-men-the-last-stand",
 		"tags": [
 			"list-8204860"
@@ -4966,7 +4963,7 @@
 		"id": 557,
 		"original_language": "en",
 		"original_title": "Spider-Man",
-		"overview": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
+		"overview": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parkeris endowed with amazing powers to become the superhero known as Spider-Man.",
 		"poster_path": "/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg",
 		"release_date": "2002-05-01",
 		"title": "Spider-Man",
@@ -5244,7 +5241,7 @@
 			10759
 		],
 		"first_air_date": "1994-11-19",
-		"vote_average": 8.3,
+		"vote_average": 8.295,
 		"origin_country": [
 			"US"
 		],
@@ -5313,7 +5310,7 @@
 		"original_language": "en",
 		"original_title": "The Fantastic Four",
 		"overview": "When dosed with cosmic rays, four intrepid astronauts are given incredible powers. They decide to form a superhero group called the Fantastic Four to fight their arch-enemy, Dr. Doom.",
-		"poster_path": "/2jJoV3Lze514jOAPagF4Fkp5Cl8.jpg",
+		"poster_path": "/5M4BxKlR6GMNsLxKmeCm4Q5051Z.jpg",
 		"media_type": "movie",
 		"genre_ids": [
 			28,
@@ -5322,7 +5319,7 @@
 		],
 		"release_date": "1994-05-31",
 		"video": false,
-		"vote_average": 4.423,
+		"vote_average": 4.4,
 		"slug": "the-fantastic-four",
 		"tags": [
 			"list-8204862"
@@ -5687,7 +5684,7 @@
 		],
 		"release_date": "1978-09-06",
 		"video": false,
-		"vote_average": 5.972,
+		"vote_average": 6,
 		"slug": "dr-strange",
 		"tags": [
 			"list-8204862"

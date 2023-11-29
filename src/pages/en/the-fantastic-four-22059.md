@@ -23,7 +23,7 @@ watchLinks:
     "original_language": "en",
     "original_title": "The Fantastic Four",
     "overview": "When dosed with cosmic rays, four intrepid astronauts are given incredible powers. They decide to form a superhero group called the Fantastic Four to fight their arch-enemy, Dr. Doom.",
-    "poster_path": "/2jJoV3Lze514jOAPagF4Fkp5Cl8.jpg",
+    "poster_path": "/5M4BxKlR6GMNsLxKmeCm4Q5051Z.jpg",
     "media_type": "movie",
     "genre_ids": [
         28,
@@ -32,7 +32,7 @@ watchLinks:
     ],
     "release_date": "1994-05-31",
     "video": false,
-    "vote_average": 4.423,
+    "vote_average": 4.4,
     "slug": "the-fantastic-four",
     "tags": [
         "list-8204862"
