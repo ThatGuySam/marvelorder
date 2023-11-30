@@ -3,7 +3,7 @@ title: Spider-Man
 slug: spider-man
 description: >-
   After being bitten by a genetically altered spider at Oscorp, nerdy but
-  endearing high school student Peter Parker is endowed with amazing powers to
+  endearing high school student Peter Parkeris endowed with amazing powers to
   become the superhero known as Spider-Man.
 layout: ../../layouts/MainLayout.astro
 type: movie
@@ -26,7 +26,7 @@ mcuTimelineOrder: 512
     "id": 557,
     "original_language": "en",
     "original_title": "Spider-Man",
-    "overview": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parkeris endowed with amazing powers to become the superhero known as Spider-Man.",
+    "overview": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
     "poster_path": "/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg",
     "release_date": "2002-05-01",
     "title": "Spider-Man",

@@ -576,8 +576,7 @@
 		"genre_ids": [
 			28,
 			878,
-			12,
-			27
+			12
 		],
 		"id": 912649,
 		"original_language": "en",
@@ -2085,7 +2084,7 @@
 		],
 		"release_date": "2019-06-05",
 		"video": false,
-		"vote_average": 5.99,
+		"vote_average": 6,
 		"slug": "dark-phoenix",
 		"tags": [
 			"list-8204860"
@@ -2921,7 +2920,7 @@
 		],
 		"release_date": "2016-05-18",
 		"video": false,
-		"vote_average": 6.512,
+		"vote_average": 6.5,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"list-8204860"
@@ -3306,7 +3305,7 @@
 		],
 		"release_date": "2014-05-15",
 		"video": false,
-		"vote_average": 7.526,
+		"vote_average": 7.5,
 		"slug": "x-men-days-of-future-past",
 		"tags": [
 			"list-8204860"
@@ -4227,7 +4226,7 @@
 		],
 		"release_date": "2009-04-28",
 		"video": false,
-		"vote_average": 6.255,
+		"vote_average": 6.3,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"list-8204860"
@@ -4277,7 +4276,7 @@
 		"original_name": "Iron Man: Armored Adventures",
 		"overview": "Iron Man: Armored Adventures is a 3D CGI cartoon series based on the Marvel Comics superhero Iron Man. It debuted in the USA on the Nicktoons on April 24, 2009, and has already begun airing on Canadian network Teletoon. Iron Man: Armored Adventures aired on Nickelodeon on July 4, 2009 until September 12, 2009. The series is story edited by showrunner Christopher Yost, who also worked on Wolverine and the X-Men, and numerous other Marvel Animation projects. The television show is not related to the 2007 animated film The Invincible Iron Man; It has a different voice cast, but some story elements are similar and the show uses the same musical score as the film in some instances. It is the first Iron Man television series since Iron Man from 1994–1996, and started airing after the success of the live action Iron Man film.\n\nThe series follows the adventures of teenage child prodigy Tony Stark and his alter ego of Iron Man. As Iron Man, he uses his technological inventions to fight various similarly technologically advanced threats. His friends, James \"Rhodey\" Rhodes and Pepper Potts help him on his courageous, and dangerous adventures.",
 		"poster_path": "/uwMIL8PR1jHpHQksIq7kzdeqg2A.jpg",
-		"vote_average": 7.5,
+		"vote_average": 7.4,
 		"title": "Iron Man: Armored Adventures",
 		"slug": "iron-man-armored-adventures",
 		"tags": [
@@ -4963,7 +4962,7 @@
 		"id": 557,
 		"original_language": "en",
 		"original_title": "Spider-Man",
-		"overview": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parkeris endowed with amazing powers to become the superhero known as Spider-Man.",
+		"overview": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
 		"poster_path": "/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg",
 		"release_date": "2002-05-01",
 		"title": "Spider-Man",
@@ -5342,7 +5341,7 @@
 			10759
 		],
 		"first_air_date": "1992-10-31",
-		"vote_average": 8.185,
+		"vote_average": 8.187,
 		"origin_country": [
 			"US"
 		],
