@@ -31,7 +31,7 @@ watchLinks:
     ],
     "release_date": "2014-05-15",
     "video": false,
-    "vote_average": 7.5,
+    "vote_average": 7.526,
     "slug": "x-men-days-of-future-past",
     "tags": [
         "list-8204860"

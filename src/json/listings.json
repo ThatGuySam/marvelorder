@@ -167,7 +167,8 @@
 		"backdrop_path": null,
 		"first_air_date": "",
 		"genre_ids": [
-			18
+			18,
+			10765
 		],
 		"id": 213375,
 		"name": "Vision Quest",
@@ -419,25 +420,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/7PNfoKEydYPeS3fnd5IeSBqLiqv.jpg",
-		"genre_ids": [],
-		"id": 1211147,
-		"original_language": "en",
-		"original_title": "The Scarlet Witch",
-		"overview": "The Return of Wanda Maximoff AKA The Scarlet Witch. Plot TBA.",
-		"poster_path": "/pVD5DfalrgQypFXtfubkrHkCkr2.jpg",
-		"release_date": "",
-		"title": "The Scarlet Witch",
-		"video": false,
-		"vote_average": 0,
-		"slug": "the-scarlet-witch",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": "/jqFC2WjYF07hx2X7cs0XmY9jBX6.jpg",
 		"genre_ids": [
 			878
@@ -645,7 +627,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/fxAtHxOVBCGmMBDhKWcBdtX9I5p.jpg",
+		"backdrop_path": "/6woewtQB41uPrfAiddBt523uSjB.jpg",
 		"genre_ids": [
 			99
 		],
@@ -653,7 +635,7 @@
 		"original_language": "en",
 		"original_title": "Marvel Studios Assembled: The Making of Loki Season 2",
 		"overview": "Through candid interviews with the creative minds behind the show, and exclusive on-set footage, discover how the talented team that powered \"Loki: Season 2\" raised the stakes for this latest MCU adventure. Witness imaginative costumes, elaborate environments, and far-out variants come to life, meet new allies and foes, and time-slip across the Multiverse.",
-		"poster_path": "/fa4HvgQO1sLQTobjJR10kDOJzWB.jpg",
+		"poster_path": "/l4dAm09HoxB5Dbm8IqDfrAKyMkS.jpg",
 		"release_date": "2023-11-22",
 		"title": "Marvel Studios Assembled: The Making of Loki Season 2",
 		"video": false,
@@ -1950,7 +1932,7 @@
 		],
 		"release_date": "2020-04-02",
 		"video": false,
-		"vote_average": 6.141,
+		"vote_average": 6.139,
 		"slug": "the-new-mutants",
 		"tags": [
 			"list-8204860"
@@ -2084,7 +2066,7 @@
 		],
 		"release_date": "2019-06-05",
 		"video": false,
-		"vote_average": 6,
+		"vote_average": 5.99,
 		"slug": "dark-phoenix",
 		"tags": [
 			"list-8204860"
@@ -2730,7 +2712,7 @@
 		],
 		"release_date": "2017-02-28",
 		"video": false,
-		"vote_average": 7.818,
+		"vote_average": 7.819,
 		"slug": "logan",
 		"tags": [
 			"list-8204860"
@@ -2920,7 +2902,7 @@
 		],
 		"release_date": "2016-05-18",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.512,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"list-8204860"
@@ -3305,7 +3287,7 @@
 		],
 		"release_date": "2014-05-15",
 		"video": false,
-		"vote_average": 7.5,
+		"vote_average": 7.526,
 		"slug": "x-men-days-of-future-past",
 		"tags": [
 			"list-8204860"
@@ -4226,7 +4208,7 @@
 		],
 		"release_date": "2009-04-28",
 		"video": false,
-		"vote_average": 6.3,
+		"vote_average": 6.255,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"list-8204860"
@@ -4713,7 +4695,7 @@
 		],
 		"release_date": "2006-05-24",
 		"video": false,
-		"vote_average": 6.406,
+		"vote_average": 6.407,
 		"slug": "x-men-the-last-stand",
 		"tags": [
 			"list-8204860"
@@ -5341,7 +5323,7 @@
 			10759
 		],
 		"first_air_date": "1992-10-31",
-		"vote_average": 8.187,
+		"vote_average": 8.188,
 		"origin_country": [
 			"US"
 		],

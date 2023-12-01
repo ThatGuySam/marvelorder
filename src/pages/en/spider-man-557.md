@@ -3,7 +3,7 @@ title: Spider-Man
 slug: spider-man
 description: >-
   After being bitten by a genetically altered spider at Oscorp, nerdy but
-  endearing high school student Peter Parkeris endowed with amazing powers to
+  endearing high school student Peter Parker is endowed with amazing powers to
   become the superhero known as Spider-Man.
 layout: ../../layouts/MainLayout.astro
 type: movie

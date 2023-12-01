@@ -23437,14 +23437,40 @@
     "primeReferenceTitle": "Loki"
   },
   {
-    "hash": "7cf1881b-a8b2-53e8-ba51-47bca4702894",
+    "hash": "f1cbac86-e066-5a51-bf4b-92a934151e06",
     "timeDescription": "End of Time Realm",
     "timeDescriptionParts": {
       "primary": "End of Time Realm",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "Loki magically rejuvenates the dying timelines and rearranges them into a tree-like structure, committing himself to oversee the branches alone at the End of Time. ",
+    "textContent": "Loki transform the ruin He Who Remains'  throne into a golden one then he magically rejuvenates the dying timelines and rearranges them into a tree-like structure, committing himself to oversee the branches alone at the End of Time. ",
+    "timeline": "End of Time Realm",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Loki_(Disney%2B_series)",
+        "text": "Loki",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Loki_Episode_2.06:_Glorious_Purpose",
+        "text": "Glorious Purpose",
+        "referenceType": "episode"
+      }
+    ],
+    "primeReferenceIndex": 0,
+    "primeReferenceTitle": "Loki"
+  },
+  {
+    "hash": "1d69d519-99df-536d-b698-29b40b26376a",
+    "timeDescription": "End of Time Realm",
+    "timeDescriptionParts": {
+      "primary": "End of Time Realm",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Loki watch over Mobius and Sylvie as the God of Stories. ",
     "timeline": "End of Time Realm",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
