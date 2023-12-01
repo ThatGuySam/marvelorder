@@ -4,6 +4,9 @@ slug: deadpools-maximum-reactions-korg-and-deadpool
 description: ''
 layout: ../../layouts/MainLayout.astro
 logo_on_black: /.netlify/functions/tmdb-image/5g1T37Hv1kE6P9pOMuVWMTh25fe.webp
+watchLinks:
+  youtube: >-
+    https://www.youtube.com/watch?v=g7q60i_Lh_E
 tags:
   - movie
   - company-420
