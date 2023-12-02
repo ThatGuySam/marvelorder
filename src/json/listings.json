@@ -639,7 +639,7 @@
 		"release_date": "2023-11-22",
 		"title": "Marvel Studios Assembled: The Making of Loki Season 2",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7.2,
 		"slug": "marvel-studios-assembled-the-making-of-loki-season-2",
 		"tags": [
 			"movie",
@@ -658,7 +658,7 @@
 		"original_language": "en",
 		"original_title": "The Marvels",
 		"overview": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
-		"poster_path": "/Ag3D9qXjhJ2FUkrlJ0Cv1pgxqYQ.jpg",
+		"poster_path": "/y4YMYsGSMwu8e985g0Zbumvqxld.jpg",
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
@@ -1055,7 +1055,8 @@
 			16,
 			35,
 			10751,
-			10765
+			10765,
+			10762
 		],
 		"id": 232125,
 		"name": "I Am Groot",
@@ -5323,7 +5324,7 @@
 			10759
 		],
 		"first_air_date": "1992-10-31",
-		"vote_average": 8.188,
+		"vote_average": 8.187,
 		"origin_country": [
 			"US"
 		],
