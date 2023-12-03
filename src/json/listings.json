@@ -2210,7 +2210,7 @@
 		],
 		"release_date": "2018-12-06",
 		"video": false,
-		"vote_average": 8.406,
+		"vote_average": 8.405,
 		"slug": "spider-man-into-the-spider-verse",
 		"tags": [
 			"list-8204859"
@@ -4209,7 +4209,7 @@
 		],
 		"release_date": "2009-04-28",
 		"video": false,
-		"vote_average": 6.255,
+		"vote_average": 6.3,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"list-8204860"
@@ -4696,7 +4696,7 @@
 		],
 		"release_date": "2006-05-24",
 		"video": false,
-		"vote_average": 6.407,
+		"vote_average": 6.406,
 		"slug": "x-men-the-last-stand",
 		"tags": [
 			"list-8204860"
@@ -4723,7 +4723,8 @@
 		"slug": "fantastic-four",
 		"tags": [
 			"movie",
-			"company-19551"
+			"company-19551",
+			"company-420"
 		]
 	},
 	{
@@ -5545,7 +5546,7 @@
 		],
 		"release_date": "1979-11-23",
 		"video": false,
-		"vote_average": 3.7,
+		"vote_average": 3.659,
 		"slug": "captain-america-ii-death-too-soon",
 		"tags": [
 			"list-8204862"
@@ -5592,7 +5593,7 @@
 		],
 		"release_date": "1979-01-19",
 		"video": false,
-		"vote_average": 3.8,
+		"vote_average": 3.877,
 		"slug": "captain-america",
 		"tags": [
 			"list-8204862"
@@ -5957,7 +5958,7 @@
 		],
 		"release_date": "1944-02-05",
 		"video": false,
-		"vote_average": 5.635,
+		"vote_average": 5.6,
 		"slug": "captain-america",
 		"tags": [
 			"list-8204862"
