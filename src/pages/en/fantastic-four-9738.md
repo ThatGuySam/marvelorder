@@ -37,8 +37,7 @@ watchLinks:
     "slug": "fantastic-four",
     "tags": [
         "movie",
-        "company-19551",
-        "company-420"
+        "company-19551"
     ]
 }
 
