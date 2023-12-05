@@ -20,7 +20,8 @@ watchLinks:
     "first_air_date": "2017-02-08",
     "genre_ids": [
         10759,
-        10765
+        10765,
+        18
     ],
     "id": 67195,
     "name": "Legion",

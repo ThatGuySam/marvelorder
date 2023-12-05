@@ -1933,7 +1933,7 @@
 		],
 		"release_date": "2020-04-02",
 		"video": false,
-		"vote_average": 6.139,
+		"vote_average": 6.138,
 		"slug": "the-new-mutants",
 		"tags": [
 			"list-8204860"
@@ -2067,7 +2067,7 @@
 		],
 		"release_date": "2019-06-05",
 		"video": false,
-		"vote_average": 5.99,
+		"vote_average": 6,
 		"slug": "dark-phoenix",
 		"tags": [
 			"list-8204860"
@@ -2713,7 +2713,7 @@
 		],
 		"release_date": "2017-02-28",
 		"video": false,
-		"vote_average": 7.819,
+		"vote_average": 7.8,
 		"slug": "logan",
 		"tags": [
 			"list-8204860"
@@ -2747,7 +2747,8 @@
 		"first_air_date": "2017-02-08",
 		"genre_ids": [
 			10759,
-			10765
+			10765,
+			18
 		],
 		"id": 67195,
 		"name": "Legion",
@@ -3288,7 +3289,7 @@
 		],
 		"release_date": "2014-05-15",
 		"video": false,
-		"vote_average": 7.526,
+		"vote_average": 7.5,
 		"slug": "x-men-days-of-future-past",
 		"tags": [
 			"list-8204860"
@@ -3630,7 +3631,7 @@
 		],
 		"release_date": "2013-07-23",
 		"video": false,
-		"vote_average": 6.399,
+		"vote_average": 6.4,
 		"slug": "the-wolverine",
 		"tags": [
 			"list-8204860"
@@ -4088,7 +4089,7 @@
 		"original_name": "The Avengers: Earth's Mightiest Heroes",
 		"overview": "When the powers of a single hero are not enough to save the world, the world’s greatest heroes—Iron Man, Thor, Captain America, The Hulk, Ant-Man/Giant Man and Wasp—assemble to form the Avengers.",
 		"poster_path": "/8MwwAuDy6dc1GbiBUZdvWtQczqR.jpg",
-		"vote_average": 8.178,
+		"vote_average": 8.181,
 		"title": "The Avengers: Earth's Mightiest Heroes",
 		"slug": "the-avengers-earths-mightiest-heroes",
 		"tags": [
@@ -4696,7 +4697,7 @@
 		],
 		"release_date": "2006-05-24",
 		"video": false,
-		"vote_average": 6.406,
+		"vote_average": 6.4,
 		"slug": "x-men-the-last-stand",
 		"tags": [
 			"list-8204860"
@@ -4907,7 +4908,7 @@
 		],
 		"release_date": "2003-04-27",
 		"video": false,
-		"vote_average": 7.03,
+		"vote_average": 7,
 		"slug": "x2",
 		"tags": [
 			"list-8204860"
@@ -5023,7 +5024,7 @@
 		"original_name": "X-Men: Evolution",
 		"overview": "Teenagers Cyclops, Jean Grey, Rogue, Nightcrawler, Shadowcat, and Spike fight for a world that fears and hates them.",
 		"poster_path": "/At5aZIKkN8zHTAXOnQR9D3b7usW.jpg",
-		"vote_average": 7.967,
+		"vote_average": 8,
 		"title": "X-Men: Evolution",
 		"slug": "x-men-evolution",
 		"tags": [
@@ -5051,7 +5052,7 @@
 		],
 		"release_date": "2000-07-13",
 		"video": false,
-		"vote_average": 6.998,
+		"vote_average": 7,
 		"slug": "x-men",
 		"tags": [
 			"list-8204860"
@@ -5470,7 +5471,7 @@
 		"release_date": "1986-08-01",
 		"title": "Howard the Duck",
 		"video": false,
-		"vote_average": 5.4,
+		"vote_average": 5.404,
 		"slug": "howard-the-duck",
 		"tags": [
 			"movie",
