@@ -577,7 +577,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/mbY234XwMwEofAdX8yddNcK82wi.jpg",
+		"backdrop_path": "/c8vGaFuWkYetS1GY02CfSg88oaI.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -2067,7 +2067,7 @@
 		],
 		"release_date": "2019-06-05",
 		"video": false,
-		"vote_average": 6,
+		"vote_average": 5.99,
 		"slug": "dark-phoenix",
 		"tags": [
 			"list-8204860"
@@ -2904,7 +2904,7 @@
 		],
 		"release_date": "2016-05-18",
 		"video": false,
-		"vote_average": 6.512,
+		"vote_average": 6.513,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"list-8204860"
@@ -3289,7 +3289,7 @@
 		],
 		"release_date": "2014-05-15",
 		"video": false,
-		"vote_average": 7.5,
+		"vote_average": 7.526,
 		"slug": "x-men-days-of-future-past",
 		"tags": [
 			"list-8204860"
@@ -3631,7 +3631,7 @@
 		],
 		"release_date": "2013-07-23",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.399,
 		"slug": "the-wolverine",
 		"tags": [
 			"list-8204860"
@@ -4210,7 +4210,7 @@
 		],
 		"release_date": "2009-04-28",
 		"video": false,
-		"vote_average": 6.3,
+		"vote_average": 6.255,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"list-8204860"
@@ -4598,7 +4598,7 @@
 		"release_date": "2007-01-15",
 		"title": "Ghost Rider",
 		"video": false,
-		"vote_average": 5.5,
+		"vote_average": 5.6,
 		"slug": "ghost-rider",
 		"tags": [
 			"movie",
@@ -4697,7 +4697,7 @@
 		],
 		"release_date": "2006-05-24",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.407,
 		"slug": "x-men-the-last-stand",
 		"tags": [
 			"list-8204860"
@@ -4908,7 +4908,7 @@
 		],
 		"release_date": "2003-04-27",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 7.03,
 		"slug": "x2",
 		"tags": [
 			"list-8204860"
@@ -5052,7 +5052,7 @@
 		],
 		"release_date": "2000-07-13",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 6.998,
 		"slug": "x-men",
 		"tags": [
 			"list-8204860"
@@ -5224,7 +5224,7 @@
 			10759
 		],
 		"first_air_date": "1994-11-19",
-		"vote_average": 8.292,
+		"vote_average": 8.3,
 		"origin_country": [
 			"US"
 		],
