@@ -587,7 +587,7 @@
 		"original_language": "en",
 		"original_title": "Deadpool 3",
 		"overview": "Third entry in the \"Deadpool\" franchise. Plot TBA.",
-		"poster_path": "/hKw5DsArF589GffxPXDzeLtAmIP.jpg",
+		"poster_path": "/4gdqWCVvidYR0pOHuVOqFundbUG.jpg",
 		"release_date": "2024-07-24",
 		"title": "Deadpool 3",
 		"video": false,
@@ -635,7 +635,7 @@
 		"original_language": "en",
 		"original_title": "Marvel Studios Assembled: The Making of Loki Season 2",
 		"overview": "Through candid interviews with the creative minds behind the show, and exclusive on-set footage, discover how the talented team that powered \"Loki: Season 2\" raised the stakes for this latest MCU adventure. Witness imaginative costumes, elaborate environments, and far-out variants come to life, meet new allies and foes, and time-slip across the Multiverse.",
-		"poster_path": "/l4dAm09HoxB5Dbm8IqDfrAKyMkS.jpg",
+		"poster_path": "/fa4HvgQO1sLQTobjJR10kDOJzWB.jpg",
 		"release_date": "2023-11-22",
 		"title": "Marvel Studios Assembled: The Making of Loki Season 2",
 		"video": false,
@@ -952,7 +952,7 @@
 		"release_date": "2022-11-04",
 		"title": "Director by Night",
 		"video": false,
-		"vote_average": 6.3,
+		"vote_average": 6.2,
 		"slug": "director-by-night",
 		"tags": [
 			"movie",
@@ -1933,7 +1933,7 @@
 		],
 		"release_date": "2020-04-02",
 		"video": false,
-		"vote_average": 6.138,
+		"vote_average": 6.137,
 		"slug": "the-new-mutants",
 		"tags": [
 			"list-8204860"
@@ -2326,7 +2326,7 @@
 		],
 		"release_date": "2018-05-10",
 		"video": false,
-		"vote_average": 7.5,
+		"vote_average": 7.491,
 		"slug": "deadpool-2",
 		"tags": [
 			"list-8204860"
@@ -2713,7 +2713,7 @@
 		],
 		"release_date": "2017-02-28",
 		"video": false,
-		"vote_average": 7.8,
+		"vote_average": 7.819,
 		"slug": "logan",
 		"tags": [
 			"list-8204860"
@@ -2904,7 +2904,7 @@
 		],
 		"release_date": "2016-05-18",
 		"video": false,
-		"vote_average": 6.512,
+		"vote_average": 6.513,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"list-8204860"
@@ -3626,8 +3626,7 @@
 		"genre_ids": [
 			28,
 			878,
-			12,
-			14
+			12
 		],
 		"release_date": "2013-07-23",
 		"video": false,
@@ -4205,7 +4204,6 @@
 		"genre_ids": [
 			12,
 			28,
-			53,
 			878
 		],
 		"release_date": "2009-04-28",
@@ -4490,10 +4488,9 @@
 		"adult": false,
 		"backdrop_path": "/7ff2FyFmskEFfmXHkxuqVr47DiG.jpg",
 		"genre_ids": [
+			878,
 			12,
-			14,
-			28,
-			53
+			28
 		],
 		"id": 1979,
 		"original_language": "en",
@@ -4708,7 +4705,6 @@
 		"backdrop_path": "/463aGxN198nLz3sTDYzjSxufyAo.jpg",
 		"genre_ids": [
 			28,
-			12,
 			14,
 			878
 		],
@@ -4908,7 +4904,7 @@
 		],
 		"release_date": "2003-04-27",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 7.03,
 		"slug": "x2",
 		"tags": [
 			"list-8204860"
@@ -5425,7 +5421,7 @@
 		],
 		"release_date": "1989-05-07",
 		"video": false,
-		"vote_average": 6.343,
+		"vote_average": 6.3,
 		"slug": "the-trial-of-the-incredible-hulk",
 		"tags": [
 			"list-8204862"
@@ -5471,7 +5467,7 @@
 		"release_date": "1986-08-01",
 		"title": "Howard the Duck",
 		"video": false,
-		"vote_average": 5.404,
+		"vote_average": 5.4,
 		"slug": "howard-the-duck",
 		"tags": [
 			"movie",
@@ -5546,7 +5542,7 @@
 		],
 		"release_date": "1979-11-23",
 		"video": false,
-		"vote_average": 3.659,
+		"vote_average": 3.7,
 		"slug": "captain-america-ii-death-too-soon",
 		"tags": [
 			"list-8204862"
@@ -5593,7 +5589,7 @@
 		],
 		"release_date": "1979-01-19",
 		"video": false,
-		"vote_average": 3.877,
+		"vote_average": 3.9,
 		"slug": "captain-america",
 		"tags": [
 			"list-8204862"

@@ -20,7 +20,7 @@ logo_on_black: /.netlify/functions/tmdb-image/fa6aYdjF083UV2w6V7hOAjwaqi4.webp
     "original_language": "en",
     "original_title": "Deadpool 3",
     "overview": "Third entry in the \"Deadpool\" franchise. Plot TBA.",
-    "poster_path": "/hKw5DsArF589GffxPXDzeLtAmIP.jpg",
+    "poster_path": "/4gdqWCVvidYR0pOHuVOqFundbUG.jpg",
     "release_date": "2024-07-24",
     "title": "Deadpool 3",
     "video": false,

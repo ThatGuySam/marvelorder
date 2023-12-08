@@ -20,10 +20,9 @@ watchLinks:
     "adult": false,
     "backdrop_path": "/7ff2FyFmskEFfmXHkxuqVr47DiG.jpg",
     "genre_ids": [
+        878,
         12,
-        14,
-        28,
-        53
+        28
     ],
     "id": 1979,
     "original_language": "en",

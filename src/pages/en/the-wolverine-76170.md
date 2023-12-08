@@ -25,8 +25,7 @@ watchLinks:
     "genre_ids": [
         28,
         878,
-        12,
-        14
+        12
     ],
     "release_date": "2013-07-23",
     "video": false,

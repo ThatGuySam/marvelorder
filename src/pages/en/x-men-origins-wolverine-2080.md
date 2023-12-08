@@ -26,7 +26,6 @@ watchLinks:
     "genre_ids": [
         12,
         28,
-        53,
         878
     ],
     "release_date": "2009-04-28",
