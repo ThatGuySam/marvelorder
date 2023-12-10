@@ -41,7 +41,7 @@ watchLinks:
     "original_language": "en",
     "original_name": "Spider-Man",
     "overview": "Spider-Man was an animated television series that ran from September 9, 1967 to June 14, 1970. It was jointly produced in Canada and the United States and was the first animated adaptation of the Spider-Man comic book series, created by writer Stan Lee and artist Steve Ditko. It first aired on the ABC television network in the United States but went into syndication at the start of the third season. Grantray-Lawrence Animation produced the first season. Seasons 2 and 3 were crafted by producer Ralph Bakshi in New York City. An internet meme, commonly known as 1960s Spiderman, regarding the series has received an overwhelming amount of popularity. The meme consists of a screenshot taken at a random part of the series and adding inappropriate and/or witty text.",
-    "poster_path": "/lwqZ9SdBCwNKS6g2c4vYVGfg0ju.jpg",
+    "poster_path": "/y85QOYMhcZsEfHbrntBv5SZXH1w.jpg",
     "vote_average": 7.7,
     "title": "Spider-Man",
     "slug": "spider-man",

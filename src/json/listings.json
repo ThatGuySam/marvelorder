@@ -359,25 +359,6 @@
 	{
 		"adult": false,
 		"backdrop_path": null,
-		"genre_ids": [],
-		"id": 1072946,
-		"original_language": "en",
-		"original_title": "Doctor Strange 3",
-		"overview": "Rumored sequel to Doctor Strange in the Multiverse of Madness.",
-		"poster_path": null,
-		"release_date": "",
-		"title": "Doctor Strange 3",
-		"video": false,
-		"vote_average": 0,
-		"slug": "doctor-strange-3",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": null,
 		"genre_ids": [
 			10770
 		],
@@ -440,6 +421,29 @@
 			"list-8204859"
 		],
 		"media_type": "movie"
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			28,
+			878,
+			12
+		],
+		"id": 1072946,
+		"original_language": "en",
+		"original_title": "Doctor Strange: Time Runs Out",
+		"overview": "Rumored sequel to Doctor Strange in the Multiverse of Madness.",
+		"poster_path": null,
+		"release_date": "2027-02-12",
+		"title": "Doctor Strange: Time Runs Out",
+		"video": false,
+		"vote_average": 0,
+		"slug": "doctor-strange-time-runs-out",
+		"tags": [
+			"movie",
+			"company-420"
+		]
 	},
 	{
 		"adult": false,
@@ -658,12 +662,36 @@
 		"original_language": "en",
 		"original_title": "The Marvels",
 		"overview": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
-		"poster_path": "/y4YMYsGSMwu8e985g0Zbumvqxld.jpg",
+		"poster_path": "/3sXv15ymVkaV7E18m4TlTgwNkAN.jpg",
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.6,
+		"vote_average": 6.5,
 		"slug": "the-marvels",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			28,
+			14,
+			27,
+			12
+		],
+		"id": 1205972,
+		"original_language": "en",
+		"original_title": "Werewolf By Night in Color",
+		"overview": "Now presented in color, Marvel Studios' \"Werewolf by Night in Color\" takes place on a dark and somber night as a secret cabal of monster hunters emerge from the shadows and gather at the foreboding Bloodstone Temple following the death of their leader. In a strange and macabra memorial to the leader's life, the attendees are thrust into a deadly competition for a powerful relic.",
+		"poster_path": "/rH3utLZ9MaOfsjfdYmD7Z0uI4Rn.jpg",
+		"release_date": "2023-10-20",
+		"title": "Werewolf By Night in Color",
+		"video": false,
+		"vote_average": 0,
+		"slug": "werewolf-by-night-in-color",
 		"tags": [
 			"movie",
 			"company-420"
@@ -2690,7 +2718,7 @@
 		],
 		"release_date": "2017-03-03",
 		"video": false,
-		"vote_average": 7.149,
+		"vote_average": 7.1,
 		"slug": "deadpool-no-good-deed",
 		"tags": [
 			"list-8204860"
@@ -3798,7 +3826,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/ac0kRKTfiJ4GcoUfb0XIO5vgC8q.jpg",
+		"backdrop_path": "/u1hxf2Co5pm3SJzqFbVyMA8v2N0.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -4088,7 +4116,7 @@
 		"original_name": "The Avengers: Earth's Mightiest Heroes",
 		"overview": "When the powers of a single hero are not enough to save the world, the world’s greatest heroes—Iron Man, Thor, Captain America, The Hulk, Ant-Man/Giant Man and Wasp—assemble to form the Avengers.",
 		"poster_path": "/8MwwAuDy6dc1GbiBUZdvWtQczqR.jpg",
-		"vote_average": 8.181,
+		"vote_average": 8.2,
 		"title": "The Avengers: Earth's Mightiest Heroes",
 		"slug": "the-avengers-earths-mightiest-heroes",
 		"tags": [
@@ -4569,7 +4597,7 @@
 		"release_date": "2007-01-23",
 		"title": "The Invincible Iron Man",
 		"video": false,
-		"vote_average": 6.137,
+		"vote_average": 6.145,
 		"slug": "the-invincible-iron-man",
 		"tags": [
 			"movie",
@@ -5467,7 +5495,7 @@
 		"release_date": "1986-08-01",
 		"title": "Howard the Duck",
 		"video": false,
-		"vote_average": 5.4,
+		"vote_average": 5.405,
 		"slug": "howard-the-duck",
 		"tags": [
 			"movie",
@@ -5876,7 +5904,7 @@
 		"original_language": "en",
 		"original_name": "Spider-Man",
 		"overview": "Spider-Man was an animated television series that ran from September 9, 1967 to June 14, 1970. It was jointly produced in Canada and the United States and was the first animated adaptation of the Spider-Man comic book series, created by writer Stan Lee and artist Steve Ditko. It first aired on the ABC television network in the United States but went into syndication at the start of the third season. Grantray-Lawrence Animation produced the first season. Seasons 2 and 3 were crafted by producer Ralph Bakshi in New York City. An internet meme, commonly known as 1960s Spiderman, regarding the series has received an overwhelming amount of popularity. The meme consists of a screenshot taken at a random part of the series and adding inappropriate and/or witty text.",
-		"poster_path": "/lwqZ9SdBCwNKS6g2c4vYVGfg0ju.jpg",
+		"poster_path": "/y85QOYMhcZsEfHbrntBv5SZXH1w.jpg",
 		"vote_average": 7.7,
 		"title": "Spider-Man",
 		"slug": "spider-man",
