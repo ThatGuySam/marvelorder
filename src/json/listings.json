@@ -82,7 +82,7 @@
 		],
 		"original_language": "en",
 		"original_name": "Spider-Man: Freshman Year",
-		"overview": "The animated series follows Peter Parker on his way to becoming Spider-Man in the MCU, with a journey unlike we've ever seen and a style that celebrates the character's early comic book roots.",
+		"overview": "Follow Peter Parker on his way to becoming Spider-Man, with a journey unlike any we've ever seen.",
 		"poster_path": "/7ecqjxf49CaTsqQFIUd1iceoXZB.jpg",
 		"vote_average": 0,
 		"title": "Spider-Man: Freshman Year",
@@ -360,6 +360,26 @@
 		"adult": false,
 		"backdrop_path": null,
 		"genre_ids": [
+			14
+		],
+		"id": 1072946,
+		"original_language": "en",
+		"original_title": "Doctor Strange 3",
+		"overview": "Rumored sequel to Doctor Strange in the Multiverse of Madness.",
+		"poster_path": null,
+		"title": "Doctor Strange 3",
+		"video": false,
+		"vote_average": 0,
+		"slug": "doctor-strange-3",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
 			10770
 		],
 		"id": 1101411,
@@ -421,29 +441,6 @@
 			"list-8204859"
 		],
 		"media_type": "movie"
-	},
-	{
-		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
-			28,
-			878,
-			12
-		],
-		"id": 1072946,
-		"original_language": "en",
-		"original_title": "Doctor Strange: Time Runs Out",
-		"overview": "Rumored sequel to Doctor Strange in the Multiverse of Madness.",
-		"poster_path": null,
-		"release_date": "2027-02-12",
-		"title": "Doctor Strange: Time Runs Out",
-		"video": false,
-		"vote_average": 0,
-		"slug": "doctor-strange-time-runs-out",
-		"tags": [
-			"movie",
-			"company-420"
-		]
 	},
 	{
 		"adult": false,
@@ -643,7 +640,7 @@
 		"release_date": "2023-11-22",
 		"title": "Marvel Studios Assembled: The Making of Loki Season 2",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 7.1,
 		"slug": "marvel-studios-assembled-the-making-of-loki-season-2",
 		"tags": [
 			"movie",
@@ -666,32 +663,8 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.6,
 		"slug": "the-marvels",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
-			28,
-			14,
-			27,
-			12
-		],
-		"id": 1205972,
-		"original_language": "en",
-		"original_title": "Werewolf By Night in Color",
-		"overview": "Now presented in color, Marvel Studios' \"Werewolf by Night in Color\" takes place on a dark and somber night as a secret cabal of monster hunters emerge from the shadows and gather at the foreboding Bloodstone Temple following the death of their leader. In a strange and macabra memorial to the leader's life, the attendees are thrust into a deadly competition for a powerful relic.",
-		"poster_path": "/rH3utLZ9MaOfsjfdYmD7Z0uI4Rn.jpg",
-		"release_date": "2023-10-20",
-		"title": "Werewolf By Night in Color",
-		"video": false,
-		"vote_average": 0,
-		"slug": "werewolf-by-night-in-color",
 		"tags": [
 			"movie",
 			"company-420"
@@ -1394,7 +1367,7 @@
 		"original_language": "en",
 		"original_name": "Moon Knight",
 		"overview": "When Steven Grant, a mild-mannered gift-shop employee, becomes plagued with blackouts and memories of another life, he discovers he has dissociative identity disorder and shares a body with mercenary Marc Spector. As Steven/Marc’s enemies converge upon them, they must navigate their complex identities while thrust into a deadly mystery among the powerful gods of Egypt.",
-		"poster_path": "/YksR65as1ppF2N48TJAh2PLamX.jpg",
+		"poster_path": "/11keFudto4QrgrXChukexJwdHPe.jpg",
 		"vote_average": 7.8,
 		"title": "Moon Knight",
 		"slug": "moon-knight",
@@ -2095,7 +2068,7 @@
 		],
 		"release_date": "2019-06-05",
 		"video": false,
-		"vote_average": 5.989,
+		"vote_average": 5.99,
 		"slug": "dark-phoenix",
 		"tags": [
 			"list-8204860"
@@ -3180,7 +3153,7 @@
 			10765
 		],
 		"first_air_date": "2015-03-10",
-		"vote_average": 6.78,
+		"vote_average": 6.775,
 		"origin_country": [
 			"US"
 		],
@@ -3703,7 +3676,7 @@
 			10765
 		],
 		"first_air_date": "2013-05-26",
-		"vote_average": 7.6,
+		"vote_average": 7.619,
 		"origin_country": [
 			"US"
 		],
@@ -5226,7 +5199,7 @@
 		],
 		"release_date": "1996-12-20",
 		"video": false,
-		"vote_average": 3.9,
+		"vote_average": 3.949,
 		"slug": "generation-x",
 		"tags": [
 			"list-8204860",
@@ -5495,7 +5468,7 @@
 		"release_date": "1986-08-01",
 		"title": "Howard the Duck",
 		"video": false,
-		"vote_average": 5.405,
+		"vote_average": 5.401,
 		"slug": "howard-the-duck",
 		"tags": [
 			"movie",
