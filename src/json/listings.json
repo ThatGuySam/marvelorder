@@ -76,17 +76,17 @@
 			10759
 		],
 		"id": 138503,
-		"name": "Spider-Man: Freshman Year",
+		"name": "Your Friendly Neighborhood Spider-Man",
 		"origin_country": [
 			"US"
 		],
 		"original_language": "en",
-		"original_name": "Spider-Man: Freshman Year",
+		"original_name": "Your Friendly Neighborhood Spider-Man",
 		"overview": "Follow Peter Parker on his way to becoming Spider-Man, with a journey unlike any we've ever seen.",
 		"poster_path": "/7ecqjxf49CaTsqQFIUd1iceoXZB.jpg",
 		"vote_average": 0,
-		"title": "Spider-Man: Freshman Year",
-		"slug": "spider-man-freshman-year",
+		"title": "Your Friendly Neighborhood Spider-Man",
+		"slug": "your-friendly-neighborhood-spider-man",
 		"tags": [
 			"tv",
 			"company-420"
@@ -204,6 +204,30 @@
 		"vote_average": 0,
 		"title": "Nova",
 		"slug": "nova",
+		"tags": [
+			"tv",
+			"company-420"
+		]
+	},
+	{
+		"backdrop_path": null,
+		"first_air_date": "",
+		"genre_ids": [
+			16,
+			10759
+		],
+		"id": 241388,
+		"name": "Eyes of Wakanda",
+		"origin_country": [
+			"US"
+		],
+		"original_language": "en",
+		"original_name": "Eyes of Wakanda",
+		"overview": "Throughout Wakandan history, brave warriors have been tasked to travel the world retrieving dangerous vibranium artifacts. This is their story.",
+		"poster_path": null,
+		"vote_average": 0,
+		"title": "Eyes of Wakanda",
+		"slug": "eyes-of-wakanda",
 		"tags": [
 			"tv",
 			"company-420"
@@ -2491,7 +2515,7 @@
 		"original_name": "The Gifted",
 		"overview": "A suburban couple's ordinary lives are rocked by the sudden discovery that their children possess mutant powers. Forced to go on the run from a hostile government, the family joins up with an underground network of mutants and must fight to survive.",
 		"poster_path": "/nshCqszjTNuqhrB53vrSqWO18sE.jpg",
-		"vote_average": 7.676,
+		"vote_average": 7.678,
 		"title": "The Gifted",
 		"slug": "the-gifted",
 		"tags": [
@@ -3899,7 +3923,7 @@
 		"original_language": "en",
 		"original_title": "Ghost Rider: Spirit of Vengeance",
 		"overview": "When the devil resurfaces with aims to take over the world in human form, Johnny Blaze reluctantly comes out of hiding to transform into the flame-spewing supernatural hero Ghost Rider -- and rescue a 10-year-old boy from an unsavory end.",
-		"poster_path": "/pby4P6LaAhQB9SgsvjygNFhWsHo.jpg",
+		"poster_path": "/fDtIZXLNreDHk3mOskJYABrQNOQ.jpg",
 		"release_date": "2011-12-10",
 		"title": "Ghost Rider: Spirit of Vengeance",
 		"video": false,
@@ -5072,7 +5096,7 @@
 		"original_name": "The Avengers: United They Stand",
 		"overview": "When the planet is threatened by Super Villains, time traveling conquerors, alien invaders, mythical monsters or mad robots bent on the total destruction of humanity, when the forces of evil are so overwhelming that no single hero has the power to save the world, when there is no hope left…the AVENGERS ASSEMBLE!",
 		"poster_path": "/p2SrnKTQjLRXBCcTZtYkTZCwLpp.jpg",
-		"vote_average": 5.9,
+		"vote_average": 5.941,
 		"title": "The Avengers: United They Stand",
 		"slug": "the-avengers-united-they-stand",
 		"tags": [
@@ -5221,7 +5245,7 @@
 			10759
 		],
 		"first_air_date": "1994-11-19",
-		"vote_average": 8.29,
+		"vote_average": 8.287,
 		"origin_country": [
 			"US"
 		],
@@ -5272,7 +5296,7 @@
 			10765
 		],
 		"first_air_date": "1994-09-24",
-		"vote_average": 6.6,
+		"vote_average": 6.655,
 		"origin_country": [
 			"US"
 		],
@@ -5322,7 +5346,7 @@
 			10759
 		],
 		"first_air_date": "1992-10-31",
-		"vote_average": 8.187,
+		"vote_average": 8.185,
 		"origin_country": [
 			"US"
 		],
