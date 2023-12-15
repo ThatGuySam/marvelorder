@@ -626,29 +626,6 @@
 		"media_type": "movie"
 	},
 	{
-		"adult": false,
-		"backdrop_path": "/dwl7raDGUHMaLlENxtE7h1qSH4h.jpg",
-		"genre_ids": [
-			28,
-			14,
-			878
-		],
-		"id": 634492,
-		"original_language": "en",
-		"original_title": "Madame Web",
-		"overview": "Forced to confront revelations about her past, paramedic Cassandra Webb forges a relationship with three young women destined for powerful futures...if they can all survive a deadly present.",
-		"poster_path": "/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg",
-		"release_date": "2024-02-14",
-		"title": "Madame Web",
-		"video": false,
-		"vote_average": 0,
-		"slug": "madame-web",
-		"tags": [
-			"movie",
-			"company-7505"
-		]
-	},
-	{
 		"backdrop_path": "/gkUFThxglJ1heDhmcRA7UlHbmYG.jpg",
 		"first_air_date": "2024-01-10",
 		"genre_ids": [
@@ -1115,7 +1092,7 @@
 		"original_name": "I Am Groot",
 		"overview": "There’s no guarding the galaxy from this mischievous toddler! Get ready as Baby Groot takes center stage in his very own collection of shorts, exploring his glory days growing up and getting into trouble among the stars.",
 		"poster_path": "/lYwFSsP4KsoRhOLhJvBFp3GEGEm.jpg",
-		"vote_average": 7.2,
+		"vote_average": 7.1,
 		"title": "I Am Groot",
 		"slug": "i-am-groot",
 		"tags": [
@@ -2115,7 +2092,7 @@
 		],
 		"release_date": "2019-06-05",
 		"video": false,
-		"vote_average": 6,
+		"vote_average": 5.99,
 		"slug": "dark-phoenix",
 		"tags": [
 			"list-8204860"
@@ -2761,7 +2738,7 @@
 		],
 		"release_date": "2017-02-28",
 		"video": false,
-		"vote_average": 7.819,
+		"vote_average": 7.8,
 		"slug": "logan",
 		"tags": [
 			"list-8204860"
@@ -3337,7 +3314,7 @@
 		],
 		"release_date": "2014-05-15",
 		"video": false,
-		"vote_average": 7.526,
+		"vote_average": 7.5,
 		"slug": "x-men-days-of-future-past",
 		"tags": [
 			"list-8204860"
@@ -3428,7 +3405,7 @@
 		"original_name": "ディスク・ウォーズ:アベンジャーズ",
 		"overview": "A group of teenagers join forces with the Avengers, Earth's mightiest heroes, to fight against the tyrannical Loki and his mighty empire.",
 		"poster_path": "/6wQAZaWSvBJOIIt68cqmC0KJjeE.jpg",
-		"vote_average": 6.5,
+		"vote_average": 6.7,
 		"title": "Marvel Disk Wars: The Avengers",
 		"slug": "marvel-disk-wars-the-avengers",
 		"tags": [
@@ -5515,7 +5492,7 @@
 		"release_date": "1986-08-01",
 		"title": "Howard the Duck",
 		"video": false,
-		"vote_average": 5.4,
+		"vote_average": 5.402,
 		"slug": "howard-the-duck",
 		"tags": [
 			"movie",
