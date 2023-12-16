@@ -1,9 +1,9 @@
 [
   {
     "hash": "0cf800b2-820f-5e38-9df9-5e13a4924e1c",
-    "timeDescription": "Dawn of Time",
+    "timeDescription": "Dawn of Time - 13.8 Billion Years Ago",
     "timeDescriptionParts": {
-      "primary": "Dawn of Time",
+      "primary": "Dawn of Time - 13.8 Billion Years Ago",
       "secondary": "",
       "tertiary": ""
     },
@@ -32,9 +32,9 @@
   },
   {
     "hash": "43017e81-fc73-5c68-bb68-c6b0a3dc99c0",
-    "timeDescription": "Dawn of Time",
+    "timeDescription": "Dawn of Time - 13.8 Billion Years Ago",
     "timeDescriptionParts": {
-      "primary": "Dawn of Time",
+      "primary": "Dawn of Time - 13.8 Billion Years Ago",
       "secondary": "",
       "tertiary": ""
     },
@@ -58,9 +58,9 @@
   },
   {
     "hash": "a49f45d7-ba75-5cdb-93b2-e4e950f9114c",
-    "timeDescription": "Dawn of Time",
+    "timeDescription": "Dawn of Time - 13.8 Billion Years Ago",
     "timeDescriptionParts": {
-      "primary": "Dawn of Time",
+      "primary": "Dawn of Time - 13.8 Billion Years Ago",
       "secondary": "",
       "tertiary": ""
     },
@@ -102,6 +102,37 @@
     ],
     "primeReferenceIndex": 1,
     "primeReferenceTitle": "Eternals"
+  },
+  {
+    "hash": "fdcba624-9e96-5921-8b3d-3ba419316048",
+    "timeDescription": "Unknown Date",
+    "timeDescriptionParts": {
+      "primary": "Unknown Date",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Yggdrasil and Earth form. Tiamut's seed is planted in Earth as intelligent life begins to thrive.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Yggdrasil",
+        "text": "Yggdrasil",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Earth",
+        "text": "Earth",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Tiamut",
+        "text": "Tiamut",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
   },
   {
     "hash": "18c7aac8-85ce-5cbb-a733-8f2a44bae34e",
@@ -159,6 +190,83 @@
     ],
     "primeReferenceIndex": 2,
     "primeReferenceTitle": "Guardians of the Galaxy"
+  },
+  {
+    "hash": "6808ee15-9a8f-5c9a-b93d-1387022ff011",
+    "timeDescription": "Unknown Date",
+    "timeDescriptionParts": {
+      "primary": "Unknown Date",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Carving Mount Wundagore - Chthon carves his forbidden incantations inside a temple at Mount Wundagore.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Mount_Wundagore",
+        "text": "Mount Wundagore",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Chthon",
+        "text": "Chthon",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Darkhold_Tomb",
+        "text": "temple",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
+  },
+  {
+    "hash": "d231a178-7309-51be-9bd0-410f5e1c7078",
+    "timeDescription": "Unknown Date",
+    "timeDescriptionParts": {
+      "primary": "Unknown Date",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Millions of years ago, the Vibranium Meteorite strikes Earth in Africa and the Atlantic Ocean.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Earth",
+        "text": "Earth",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Africa",
+        "text": "Africa",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Atlantic_Ocean",
+        "text": "Atlantic Ocean",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
+  },
+  {
+    "hash": "ea826e1f-2dbf-50df-9708-6176424ee7a1",
+    "timeDescription": "Unknown Date",
+    "timeDescriptionParts": {
+      "primary": "Unknown Date",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "The Expansion - Ego sows his seeds after millions and millions of years alone.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
   },
   {
     "hash": "9708aedb-e66c-5fde-9204-e5ae23dac869",
@@ -232,25 +340,174 @@
     "primeReferenceTitle": "Eternals"
   },
   {
-    "hash": "1bf64e96-43bb-549a-8782-bdc799c41d63",
-    "timeDescription": "2987 B.C.",
+    "hash": "1d37fbf3-9e23-5f1c-8d45-45bdef8eda54",
+    "timeDescription": "Unknown Date",
     "timeDescriptionParts": {
-      "primary": "2987 B.C.",
+      "primary": "Unknown Date",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "Malekith, the leader of the Dark Elves of Svartalfheim, planned to use the Convergence to release the Aether, a relic from before the universe, and plunge the Nine Realms back into darkness. The Asgardians intervened and took the Aether from the Dark Elves by force, watching as that race was apparently decimated in the destruction of their warships.",
+    "textContent": "Founding of Wakanda - Five human tribes living around the vibranium impact site in Africa join together as the nation of Wakanda. The country is founded and first ruled over by the warrior shaman Bashenga after he receives a vision from panther goddess Bast, directing him to the Heart-Shaped Herb. After consuming it, Bashenga derives increased agility, strength and acumen and becomes the first Black Panther. The Jabarai resist Bashenga's rule and choose independence from the king in Jabari Land.",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
       {
-        "href": "/wiki/Malekith",
-        "text": "Malekith",
+        "href": "/wiki/Wakanda",
+        "text": "Wakanda",
         "referenceType": "unknown"
       },
       {
+        "href": "/wiki/Vibranium",
+        "text": "vibranium",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Bashenga",
+        "text": "Bashenga",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Bast",
+        "text": "Bast",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Heart-Shaped_Herb",
+        "text": "Heart-Shaped Herb",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Jabari_Tribe",
+        "text": "Jabarai",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Jabari_Land",
+        "text": "Jabari Land",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
+  },
+  {
+    "hash": "210822b8-8df0-55ad-90f1-d3031ab9852f",
+    "timeDescription": "Unknown Date",
+    "timeDescriptionParts": {
+      "primary": "Unknown Date",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Wakanda withdraws from the world and create an elaborate camouflage, masking their country as a humble agrarian society. This allows them to focus on their innovation and advancement inward.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
+  },
+  {
+    "hash": "0977955b-5452-53ec-a0e4-fe488ab8811b",
+    "timeDescription": "Unknown Date",
+    "timeDescriptionParts": {
+      "primary": "Unknown Date",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "The Mystic Arts - Ancient people of Earth begin to dabble in magic and mysticism. Agamotto becomes one of the first to research and perfect these abilities and founds the Masters of the Mystic Arts. Three sanctums are established at sites of extraordinary poweer around the world.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Agamotto",
+        "text": "Agamotto",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Masters_of_the_Mystic_Arts",
+        "text": "Masters of the Mystic Arts",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
+  },
+  {
+    "hash": "7a383dad-2d8a-54e7-927d-e0ec4b6a0792",
+    "timeDescription": "Unknown Date",
+    "timeDescriptionParts": {
+      "primary": "Unknown Date",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Agamotto comes into possession of the Time Stone and creates the Eye of Agamotto.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Time_Stone",
+        "text": "Time Stone",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Eye_of_Agamotto",
+        "text": "Eye of Agamotto",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
+  },
+  {
+    "hash": "a5a52f6f-abcf-520e-a02e-e09961fa7099",
+    "timeDescription": "Unknown Date",
+    "timeDescriptionParts": {
+      "primary": "Unknown Date",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "A Panoply of Gods - Deities of all kinds make their presences felt on Earth and humans concoct elaborate mythologies around them. The Ennead Council banish Khonshu. Asgardian interaction with Nordic regions inspires local mythology, while other gods like Zeus and his pantheon become the foundation of Greek myth and faith.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Ennead_Council",
+        "text": "Ennead Council",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Khonshu",
+        "text": "Khonshu",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Zeus_Panhellenios",
+        "text": "Zeus",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
+  },
+  {
+    "hash": "01b012f8-8eec-5ba9-9f28-71db0192a1a5",
+    "timeDescription": "2988 B.C.",
+    "timeDescriptionParts": {
+      "primary": "2988 B.C.",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Dark Elves Revolt - Malekith, the leader of the Dark Elves of Svartalfheim, planned to use the Convergence to release the Aether, a relic from before the universe, and plunge the Nine Realms back into darkness. The Asgardians intervened and took the Aether from the Dark Elves by force, watching as that race was apparently decimated in the destruction of their warships.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
         "href": "/wiki/Dark_Elves",
         "text": "Dark Elves",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Malekith",
+        "text": "Malekith",
         "referenceType": "unknown"
       },
       {
@@ -284,9 +541,9 @@
   },
   {
     "hash": "2ba49d81-776c-5d69-a8ac-60b57e9a5cd5",
-    "timeDescription": "2987 B.C.",
+    "timeDescription": "2988 B.C.",
     "timeDescriptionParts": {
-      "primary": "2987 B.C.",
+      "primary": "2988 B.C.",
       "secondary": "",
       "tertiary": ""
     },
@@ -314,14 +571,14 @@
     "primeReferenceTitle": "Thor: The Dark World"
   },
   {
-    "hash": "4f5cfc8e-95c0-55e9-9b2c-6686f99f31b1",
-    "timeDescription": "2987 B.C.",
+    "hash": "8f54f20c-2295-5d77-b413-7d52da381895",
+    "timeDescription": "2988 B.C.",
     "timeDescriptionParts": {
-      "primary": "2987 B.C.",
+      "primary": "2988 B.C.",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "Malekith and the remaining Dark Elves escaped in the Harrow into space.",
+    "textContent": "Malekith and the remaining Dark Elves escaped in the Harrow and go into hibernation.",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [

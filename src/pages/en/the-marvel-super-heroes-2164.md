@@ -32,7 +32,7 @@ tags:
         10762
     ],
     "first_air_date": "1966-09-05",
-    "vote_average": 8.4,
+    "vote_average": 8.5,
     "origin_country": [
         "CA",
         "US"

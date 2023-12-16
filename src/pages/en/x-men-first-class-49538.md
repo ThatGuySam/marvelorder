@@ -32,7 +32,7 @@ watchLinks:
     ],
     "release_date": "2011-06-01",
     "video": false,
-    "vote_average": 7.297,
+    "vote_average": 7.296,
     "slug": "x-men-first-class",
     "tags": [
         "list-8204860"
