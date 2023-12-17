@@ -597,41 +597,350 @@
     "primeReferenceTitle": "Thor: The Dark World"
   },
   {
-    "hash": "24153f03-87aa-5925-a061-a8146cfab49d",
-    "timeDescription": "500 A.D.",
+    "hash": "73a2a77f-9b95-5f3b-a136-2ee09c85b569",
+    "timeDescription": "Unknown Date",
     "timeDescriptionParts": {
-      "primary": "500 A.D.",
+      "primary": "Unknown Date",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "Eternals, Sersi and Ikaris, develop feelings for one another, eventually becoming a married couple.",
+    "textContent": "Creation of the Dark Gate - the Dweller-in-Darkness rampages through Ta Lo with an army of Soul Eaters. An alliance of human warriors join forces with the noble dragon they call the Great Protector and imprison the Dweller and his army behind the Dark Gate.",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
+      {
+        "href": "/wiki/Dark_Gate",
+        "text": "Dark Gate",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Dweller-in-Darkness",
+        "text": "Dweller-in-Darkness",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Ta_Lo",
+        "text": "Ta Lo",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Soul_Eaters",
+        "text": "Soul Eaters",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Great_Protector",
+        "text": "Great Protector",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
+  },
+  {
+    "hash": "a9392261-6333-5b86-88f3-56b176b7881b",
+    "timeDescription": "Unknown Date",
+    "timeDescriptionParts": {
+      "primary": "Unknown Date",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Mjölnir is forged by the Dwarves in the dying star Nidavellir.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Mj%C3%B6lnir",
+        "text": "Mjölnir",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Dwarves",
+        "text": "Dwarves",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Nidavellir",
+        "text": "Nidavellir",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
+  },
+  {
+    "hash": "95e988c3-353a-56e1-91ff-0ab15ca99863",
+    "timeDescription": "Unknown Date",
+    "timeDescriptionParts": {
+      "primary": "Unknown Date",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Odin's Conquest - Odin Borson claims the throne of Asgard from his father Bor Burison. He has a daughter, Hela, whom he gives Mjolnir as commander of the legions of Asgard. Together they violently takeover the Nine Realms and use the enslaved to construct the Royal Palace of Valaskjalf.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Odin_Borson",
+        "text": "Odin Borson",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Asgard",
+        "text": "Asgard",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Bor_Burison",
+        "text": "Bor Burison",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Hela_Odinsdottir",
+        "text": "Hela",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Nine_Realms",
+        "text": "Nine Realms",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
+  },
+  {
+    "hash": "0d8d0326-eaff-58c8-b511-3290917e0de7",
+    "timeDescription": "Unknown Date",
+    "timeDescriptionParts": {
+      "primary": "Unknown Date",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "The spells in the temple at Mount Wundagore get transcribed into the Darkhold.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Mount_Wundagore",
+        "text": "Mount Wundagore",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Darkhold",
+        "text": "Darkhold",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
+  },
+  {
+    "hash": "fc87edbd-aa36-5f5f-bb78-4edfe4b183f2",
+    "timeDescription": "575 B.C.",
+    "timeDescriptionParts": {
+      "primary": "575 B.C.",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Battle of Babylon - The Eternals defeat a horde of Deviants outside the walls of Babylon.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Eternals",
+        "text": "Eternals",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Deviants",
+        "text": "Deviants",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Babylon",
+        "text": "Babylon",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
+  },
+  {
+    "hash": "c027ec6c-19fb-544d-9b7c-06d5eab4fa32",
+    "timeDescription": "575 B.C.",
+    "timeDescriptionParts": {
+      "primary": "575 B.C.",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Phastos considers introducing the steam engine to the Mesopotamians but the other Eternals veto the idea. Phastos instead introduces the plow.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Phastos",
+        "text": "Phastos",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
+  },
+  {
+    "hash": "25991aa3-ca93-57c4-a08e-3a56e12132c7",
+    "timeDescription": "575 B.C.",
+    "timeDescriptionParts": {
+      "primary": "575 B.C.",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Ajak asks Arishem to consider sparing the humans but he dismisses her concerns.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Ajak",
+        "text": "Ajak",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Arishem",
+        "text": "Arishem",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
+  },
+  {
+    "hash": "b1c7aa1e-a192-5f3d-b3ec-9025a64ef523",
+    "timeDescription": "575 B.C.",
+    "timeDescriptionParts": {
+      "primary": "575 B.C.",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Hela's Imprisonment - Odin refashions himself as a benevolent peacekeeper. Hela turns against him and attempts to seize the throne through a palace massacre. Odin banished her to a remote, desolate realm and strikes her name and image from Asgard's history.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
+  },
+  {
+    "hash": "698ad722-8edb-59eb-8154-1d576b6c395b",
+    "timeDescription": "575 B.C.",
+    "timeDescriptionParts": {
+      "primary": "575 B.C.",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "The Destruction of the Valkyrie - Hela breaks free. The Valkyrie are virtually exterminated as they force her back into imprisonment. Only one Valkyrie remains and spends the coming centuries in self-exile.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Valkyries",
+        "text": "Valkyrie",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Brunnhilde",
+        "text": "Valkyrie",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
+  },
+  {
+    "hash": "1d8b8830-787f-56d4-9306-3b183fb3b70a",
+    "timeDescription": "400 A.D.",
+    "timeDescriptionParts": {
+      "primary": "400 A.D.",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "After centuries of romance, Eternals Sersi and Ikaris get married in the Gupta Empire. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Gupta_Empire",
+        "text": "Gupta Empire",
+        "referenceType": "unknown"
+      },
       {
         "href": "/wiki/Eternals_(film)",
         "text": "Eternals",
         "referenceType": "unknown"
       }
     ],
-    "primeReferenceIndex": 0,
+    "primeReferenceIndex": 1,
     "primeReferenceTitle": "Eternals"
   },
   {
-    "hash": "f279c864-1529-5c5b-b5ae-b143ab32a063",
+    "hash": "346b38e5-323f-5419-9311-6a23bbb62126",
+    "timeDescription": "Unknown Date",
+    "timeDescriptionParts": {
+      "primary": "Unknown Date",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Ancient One - Her precise origin is lost in time but the Ancient One became the Sorcerer Supreme of the Masters of the Mystic Arts. She does not die for several centuries, extending her lifespan by practicing forbidden rituals that draw energy from the Dark Dimension.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Ancient_One",
+        "text": "Ancient One",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Masters_of_the_Mystic_Arts",
+        "text": "Masters of the Mystic Arts",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Dark_Dimension",
+        "text": "Dark Dimension",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
+  },
+  {
+    "hash": "afbc467c-60af-5d6e-bded-91931636f954",
     "timeDescription": "965 A.D.",
     "timeDescriptionParts": {
       "primary": "965 A.D.",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "The monstrous race known as the Frost Giants attacked Tønsberg in Norway with the Casket of Ancient Winters in the first step of their plan to conquer the Nine Realms, wanting to plunge Earth into a new Ice Age. The Asgardians, led by their king, Odin Borson, intervened and defeated the Jotuns, banishing them back to Jotunheim and confiscating the Casket of Ancient Winters to leave them powerless. Odin lost his right eye in the battle.",
+    "textContent": "Battle in Tonsberg - The Frost Giants of Jotunheim attack Tønsberg in Norway. Laufey uses the Casket of Ancient Winters in the first step of their plan to conquer the Nine Realms, wanting to plunge Earth into a new Ice Age. The Asgardians, led by their king, Odin Borson, with the aid of Gilgamesh intervened and defeated the Jotuns, banishing them back to Jotunheim. Odin lost his right eye in the battle.",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
       {
+        "href": "/wiki/Tonsberg",
+        "text": "Tonsberg",
+        "referenceType": "unknown"
+      },
+      {
         "href": "/wiki/Frost_Giants",
         "text": "Frost Giants",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Jotunheim",
+        "text": "Jotunheim",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Laufey",
+        "text": "Laufey",
         "referenceType": "unknown"
       },
       {
@@ -650,13 +959,13 @@
         "referenceType": "unknown"
       },
       {
-        "href": "/wiki/Jotunheim",
-        "text": "Jotunheim",
+        "href": "/wiki/Gilgamesh",
+        "text": "Gilgamesh",
         "referenceType": "unknown"
       },
       {
-        "href": "/wiki/Casket_of_Ancient_Winters",
-        "text": "Casket of Ancient Winters",
+        "href": "/wiki/Jotunheim",
+        "text": "Jotunheim",
         "referenceType": "unknown"
       },
       {
@@ -665,26 +974,21 @@
         "referenceType": "unknown"
       }
     ],
-    "primeReferenceIndex": 6,
+    "primeReferenceIndex": 9,
     "primeReferenceTitle": "Thor"
   },
   {
-    "hash": "0964ae06-619a-56ac-9eef-29db91767164",
+    "hash": "8335e37c-ec3f-5676-b090-1168465f801d",
     "timeDescription": "965 A.D.",
     "timeDescriptionParts": {
       "primary": "965 A.D.",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "After defeating Laufey, Odin took his child Loki and raised him alongside Thor as his own son.",
+    "textContent": "The armies of Asgard pursue the Frost Giants back to Jotunheim, where Laufey is subdued and the Casket of Ancient Winters is captured. Odin took Laufey's abandoned child, Loki, and raised him alongside Thor as his own son.",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
-      {
-        "href": "/wiki/Laufey",
-        "text": "Laufey",
-        "referenceType": "unknown"
-      },
       {
         "href": "/wiki/Loki_Laufeyson",
         "text": "Loki",
@@ -701,8 +1005,34 @@
         "referenceType": "unknown"
       }
     ],
-    "primeReferenceIndex": 2,
+    "primeReferenceIndex": 1,
     "primeReferenceTitle": "Thor"
+  },
+  {
+    "hash": "84837eb6-43a9-5cce-9ddf-f8c138a2c2c1",
+    "timeDescription": "c. 1000 A.D.",
+    "timeDescriptionParts": {
+      "primary": "c. 1000 A.D.",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Galactic War Erupts - Tensions between the Kree and Nova Corps becomes a multi-planetary war that lasts a thousand years.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Kree",
+        "text": "Kree",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Nova_Corps",
+        "text": "Nova Corps",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
   },
   {
     "hash": "99eba943-e437-53dd-8dbd-e20a78cc4a41",
@@ -726,14 +1056,14 @@
     "primeReferenceTitle": "Thor"
   },
   {
-    "hash": "2e42c53d-42b9-5443-bf1f-426b215001a0",
+    "hash": "38bea0ce-f457-5609-bd7e-c32b472a36f6",
     "timeDescription": "Unknown Date",
     "timeDescriptionParts": {
       "primary": "Unknown Date",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "Xu Wenwu a warrior discovered ten powerful mystical rings. The rings grant him with immortality and unmatched power, allowing him to become a dominating conqueror. Founding the Ten Rings organization, the terrorist syndicate would spread to nearly every corner of the world.",
+    "textContent": "Xu Wenwu, a warrior, discovers ten powerful mystical rings. The rings grant him with immortality and unmatched power, allowing him to become a dominating conqueror. Founding the Ten Rings organization, the terrorist syndicate would spread to nearly every corner of the world.",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -776,6 +1106,37 @@
     ],
     "primeReferenceIndex": 0,
     "primeReferenceTitle": "The Avengers: The Avengers Initiative"
+  },
+  {
+    "hash": "b2017875-b8ea-5feb-9f38-16a7d5bc2975",
+    "timeDescription": "Unknown Date",
+    "timeDescriptionParts": {
+      "primary": "Unknown Date",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Tesseract Hidden on Earth - The Space Stone is hidden inside a medieval church in Tonsberg.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Tesseract",
+        "text": "Tesseract",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Space_Stone",
+        "text": "Space Stone",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Tonsberg",
+        "text": "Tonsberg",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
   },
   {
     "hash": "c55d3fba-7867-59c7-b632-2d084f9fe05e",

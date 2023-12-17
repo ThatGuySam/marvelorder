@@ -30,7 +30,7 @@ watchLinks:
     ],
     "release_date": "2009-04-28",
     "video": false,
-    "vote_average": 6.255,
+    "vote_average": 6.3,
     "slug": "x-men-origins-wolverine",
     "tags": [
         "list-8204860"
