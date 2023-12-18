@@ -310,7 +310,7 @@
 		"original_language": "en",
 		"original_title": "Spider-Man 4",
 		"overview": "The next installment of the MCU Spider-Man franchise: a sequel to \"Spider-Man: No Way Home\" and the first in a possible new trilogy. Plot unknown.",
-		"poster_path": null,
+		"poster_path": "/hU4ZmSFRfE1t9CJAZobXrgnoB17.jpg",
 		"title": "Spider-Man 4",
 		"video": false,
 		"vote_average": 0,
@@ -627,7 +627,7 @@
 	},
 	{
 		"backdrop_path": "/gkUFThxglJ1heDhmcRA7UlHbmYG.jpg",
-		"first_air_date": "2024-01-10",
+		"first_air_date": "2024-01-09",
 		"genre_ids": [
 			10759,
 			18,
@@ -2148,7 +2148,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/pKYGeN0rPktfiim5NWRLf3bJCmO.jpg",
+		"backdrop_path": "/k5V2cbDZvYIu6BKIK0Q0KGyAUDB.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -3314,7 +3314,7 @@
 		],
 		"release_date": "2014-05-15",
 		"video": false,
-		"vote_average": 7.526,
+		"vote_average": 7.5,
 		"slug": "x-men-days-of-future-past",
 		"tags": [
 			"list-8204860"
@@ -4233,7 +4233,7 @@
 		],
 		"release_date": "2009-04-28",
 		"video": false,
-		"vote_average": 6.3,
+		"vote_average": 6.256,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"list-8204860"
@@ -4624,7 +4624,7 @@
 		"slug": "ghost-rider",
 		"tags": [
 			"movie",
-			"company-7505"
+			"company-420"
 		]
 	},
 	{
@@ -5245,7 +5245,7 @@
 			10759
 		],
 		"first_air_date": "1994-11-19",
-		"vote_average": 8.286,
+		"vote_average": 8.287,
 		"origin_country": [
 			"US"
 		],
@@ -5834,7 +5834,7 @@
 		],
 		"release_date": "1977-11-04",
 		"video": false,
-		"vote_average": 6.378,
+		"vote_average": 6.4,
 		"slug": "the-incredible-hulk",
 		"tags": [
 			"list-8204862"

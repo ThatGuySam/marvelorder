@@ -37,7 +37,7 @@ watchLinks:
     "slug": "ghost-rider",
     "tags": [
         "movie",
-        "company-7505"
+        "company-420"
     ]
 }
 
