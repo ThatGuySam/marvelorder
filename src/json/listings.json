@@ -310,7 +310,7 @@
 		"original_language": "en",
 		"original_title": "Spider-Man 4",
 		"overview": "The next installment of the MCU Spider-Man franchise: a sequel to \"Spider-Man: No Way Home\" and the first in a possible new trilogy. Plot unknown.",
-		"poster_path": "/hU4ZmSFRfE1t9CJAZobXrgnoB17.jpg",
+		"poster_path": null,
 		"title": "Spider-Man 4",
 		"video": false,
 		"vote_average": 0,
@@ -1678,6 +1678,27 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": "/tiku7w3w3U7sZtA3PaNWPA8VR1G.jpg",
+		"genre_ids": [
+			35
+		],
+		"id": 1205441,
+		"original_language": "en",
+		"original_title": "Deadpool and Korg React",
+		"overview": "Deadpool and Korg react to the trailer for Free Guy.",
+		"poster_path": "/zw9oXB5loNUh4O8xzIlEpxtICzJ.jpg",
+		"release_date": "2021-07-13",
+		"title": "Deadpool and Korg React",
+		"video": false,
+		"vote_average": 6,
+		"slug": "deadpool-and-korg-react",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/keIxh0wPr2Ymj0Btjh4gW7JJ89e.jpg",
 		"genre_ids": [
 			28,
@@ -1958,7 +1979,7 @@
 		],
 		"release_date": "2020-04-02",
 		"video": false,
-		"vote_average": 6.137,
+		"vote_average": 6.1,
 		"slug": "the-new-mutants",
 		"tags": [
 			"list-8204860"
@@ -2092,7 +2113,7 @@
 		],
 		"release_date": "2019-06-05",
 		"video": false,
-		"vote_average": 5.99,
+		"vote_average": 5.991,
 		"slug": "dark-phoenix",
 		"tags": [
 			"list-8204860"
@@ -2715,7 +2736,7 @@
 		],
 		"release_date": "2017-03-03",
 		"video": false,
-		"vote_average": 7.148,
+		"vote_average": 7.1,
 		"slug": "deadpool-no-good-deed",
 		"tags": [
 			"list-8204860"
@@ -3314,7 +3335,7 @@
 		],
 		"release_date": "2014-05-15",
 		"video": false,
-		"vote_average": 7.5,
+		"vote_average": 7.526,
 		"slug": "x-men-days-of-future-past",
 		"tags": [
 			"list-8204860"

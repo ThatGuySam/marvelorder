@@ -1139,14 +1139,40 @@
     "primeReferenceTitle": ""
   },
   {
-    "hash": "c55d3fba-7867-59c7-b632-2d084f9fe05e",
-    "timeDescription": "1521",
+    "hash": "6e4b87aa-172d-50d6-8b33-46e51cdcb02d",
+    "timeDescription": "1521 A.D.",
     "timeDescriptionParts": {
-      "primary": "1521",
+      "primary": "1521 A.D.",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "Eternals watch as spanish soldiers attack a Aztec city which the same time runs an attack from the last of the Deviants. While fighting them off, Thena's Mahd Wy’ry causes her to momentarily turn on the Eternals, only to be stopped by Gilgamesh. Their leader, Ajak, offers to cure Thena's affliction at the cost of her memories, but Gilgamesh volunteers to watch over her, conceding with the possibility that she may have to be killed if she turns again. Druig, frustrated with how the Eternals have been abstaining from human affairs, deserts them to end the Spanish conflict himself. With the Deviants seemingly eradicated, Ajak releases the Eternals to go their own ways.",
+    "textContent": "Eternals slay what they believe to be the last of the Deviants during the fall of Tenochtitlan. Thena's Mahd Wy’ry causes her to momentarily turn on the Eternals, only to be stopped by Gilgamesh. Their leader, Ajak, offers to cure Thena's affliction at the cost of her memories, but Gilgamesh volunteers to watch over her, conceding with the possibility that she may have to be killed if she turns again. Druig, frustrated with how the Eternals have been abstaining from human affairs, deserts them to end the Spanish conflict himself. With the Deviants seemingly eradicated, Ajak releases the Eternals to go their own ways. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Tenochtitlan",
+        "text": "Tenochtitlan",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Eternals_(film)",
+        "text": "Eternals",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 1,
+    "primeReferenceTitle": "Eternals"
+  },
+  {
+    "hash": "1f427728-5a9d-5333-aa60-c59ba4e0483a",
+    "timeDescription": "1521 A.D.",
+    "timeDescriptionParts": {
+      "primary": "1521 A.D.",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Ikaris abandons Sersi after Ajak tells him the truth about why the Eternals were sent to Earth. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -1160,35 +1186,14 @@
     "primeReferenceTitle": "Eternals"
   },
   {
-    "hash": "c896cfe2-8364-5999-979c-6797f892e611",
-    "timeDescription": "1521",
+    "hash": "3ac33c41-a74a-54b8-a7fe-5bf2b5481877",
+    "timeDescription": "1571 A.D.",
     "timeDescriptionParts": {
-      "primary": "1521",
+      "primary": "1571 A.D.",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "Ikaris abandon Sersi after Ajak told him the truth about why the Eternals was sent to Earth.",
-    "timeline": "Marvel Cinematic Universe",
-    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
-    "referenceLinks": [
-      {
-        "href": "/wiki/Eternals_(film)",
-        "text": "Eternals",
-        "referenceType": "unknown"
-      }
-    ],
-    "primeReferenceIndex": 0,
-    "primeReferenceTitle": "Eternals"
-  },
-  {
-    "hash": "27f0cebd-5fe8-508f-a6e4-8b77a517605b",
-    "timeDescription": "1571-1700s",
-    "timeDescriptionParts": {
-      "primary": "1571-1700s",
-      "secondary": "",
-      "tertiary": ""
-    },
-    "textContent": "The Yucatan people fell ill to the plague. One man found a plant and along with other people, drank it. The substance turned the people blue and made them incapable of breathing in air. They quickly moved to the ocean and created a civilization in the deep water, Talokan. One of the women who ingested the plant had a baby named K'uk'ulkan. The baby grew up to become ruler of Talokan. When Fen died, she asked to be buried on the land. K'uk'ulkan led some guards up to the land where he saw a civilization. They attacked the civilization to make room for his mother's burial. During his attack, a Spanish priest called the child \"Un nino sin amor,\" meaning \"A boy without love\". The boy claimed Namor as his name to his enemies, for he had no love for the surface world. ",
+    "textContent": "The Yucatan people fell ill to the plague. A shaman found the vibranium-infused plant and along with his people, ingested it. The substance turned the people blue and made them incapable of breathing in air. They quickly moved to the ocean and created a civilization in the deep water, Talokan. Fen has a baby who is born with wings on his ankles, the ability to survive both above and below the water's surface and slowed aging. His people name K'uk'ulkan. The baby grew up to become ruler of Talokan.",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -1198,31 +1203,62 @@
         "referenceType": "unknown"
       },
       {
+        "href": "/wiki/Fen",
+        "text": "Fen",
+        "referenceType": "unknown"
+      },
+      {
         "href": "/wiki/K%27uk%27ulkan",
         "text": "K'uk'ulkan",
         "referenceType": "unknown"
-      },
+      }
+    ],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
+  },
+  {
+    "hash": "d569a59f-57ad-50a0-bab2-4a350cd38fcc",
+    "timeDescription": "1571-1693",
+    "timeDescriptionParts": {
+      "primary": "1571-1693",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "When Fen dies, K'uk'ulkan honors her wishes of being buried on the land where she was raised. K'uk'ulkan leads some guards up to the land where he saw a civilization enslaving the Yucatan people. K'uk'ulkan leads an attack the civilization. During his attack, a Spanish priest called the child \"El Nino sin Amor\" - \"child without love\". K'uk'ulkan embraces Namor as his name to his enemies, for he had no love for the surface world. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
       {
         "href": "/wiki/Black_Panther:_Wakanda_Forever",
         "text": "Black Panther: Wakanda Forever",
         "referenceType": "unknown"
       }
     ],
-    "primeReferenceIndex": 2,
+    "primeReferenceIndex": 0,
     "primeReferenceTitle": "Black Panther: Wakanda Forever"
   },
   {
-    "hash": "7cb69195-a239-5faa-9e32-ef54bb4e8085",
-    "timeDescription": "1693",
+    "hash": "89617ab5-c2d8-5bd6-b659-4ad9e8e7d93b",
+    "timeDescription": "1693 A.D.",
     "timeDescriptionParts": {
-      "primary": "1693",
+      "primary": "1693 A.D.",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "Agatha Harkness is held for trial by a coven of witches, for practicing dark magic. As they attempt to kill her, she drains their life from them.",
+    "textContent": "The Witch Trial Massacre - In Salem, Massachusetts, Agatha Harkness is accused by her coven of witches of betraying them and practicing dark magic. As they attempt to kill her, she drains their life from them.",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
+      {
+        "href": "/wiki/Massachusetts",
+        "text": "Massachusetts",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Agatha_Harkness",
+        "text": "Agatha Harkness",
+        "referenceType": "unknown"
+      },
       {
         "href": "/wiki/WandaVision",
         "text": "WandaVision",
@@ -1234,14 +1270,14 @@
         "referenceType": "episode"
       }
     ],
-    "primeReferenceIndex": 0,
+    "primeReferenceIndex": 2,
     "primeReferenceTitle": "WandaVision"
   },
   {
     "hash": "36db7e18-7bcf-5b82-9fa1-bce91fd29f23",
-    "timeDescription": "1917",
+    "timeDescription": "1917 A.D.",
     "timeDescriptionParts": {
-      "primary": "1917",
+      "primary": "1917 A.D.",
       "secondary": "",
       "tertiary": ""
     },
@@ -1260,9 +1296,9 @@
   },
   {
     "hash": "8b73b63a-fb73-5acd-aa44-7306c16bdbf5",
-    "timeDescription": "1917",
+    "timeDescription": "1917 A.D.",
     "timeDescriptionParts": {
-      "primary": "1917",
+      "primary": "1917 A.D.",
       "secondary": "",
       "tertiary": ""
     },
@@ -1281,13 +1317,13 @@
   },
   {
     "hash": "8c6314b2-dfd0-5b4c-a8d2-97c9e430cb56",
-    "timeDescription": "1918",
+    "timeDescription": "1918 A.D.",
     "timeDescriptionParts": {
-      "primary": "1918",
+      "primary": "1918 A.D.",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "Steve Rogers is born in Brooklyn, New York.",
+    "textContent": "Steve Rogers is born in Brooklyn, New York. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -1307,13 +1343,13 @@
   },
   {
     "hash": "9d77fe0e-027b-5005-a13f-71421b03af60",
-    "timeDescription": "1918 Between September 1917 and November 1918.",
+    "timeDescription": "1918 A.D. Between September 1917 and November 1918.",
     "timeDescriptionParts": {
-      "primary": "1918",
+      "primary": "1918 A.D.",
       "secondary": "",
       "tertiary": "Between September 1917 and November 1918."
     },
-    "textContent": "Joe Rogers dies from a Mustard Gas attack with the 107th during the First World War.",
+    "textContent": "Joe Rogers dies from a Mustard Gas attack with the 107th during the First World War. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -1328,13 +1364,13 @@
   },
   {
     "hash": "9d77fe0e-027b-5005-a13f-71421b03af60",
-    "timeDescription": "1918 Between September 1917 and November 1918.",
+    "timeDescription": "1918 A.D. Between September 1917 and November 1918.",
     "timeDescriptionParts": {
-      "primary": "1918",
+      "primary": "1918 A.D.",
       "secondary": "",
       "tertiary": "Between September 1917 and November 1918."
     },
-    "textContent": "Joe Rogers dies from a Mustard Gas attack with the 107th during the First World War.",
+    "textContent": "Joe Rogers dies from a Mustard Gas attack with the 107th during the First World War. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -1349,9 +1385,9 @@
   },
   {
     "hash": "155e3cf1-7840-5ec7-8288-21c1eb125e07",
-    "timeDescription": "1921",
+    "timeDescription": "1921 A.D.",
     "timeDescriptionParts": {
-      "primary": "1921",
+      "primary": "1921 A.D.",
       "secondary": "",
       "tertiary": ""
     },
@@ -1370,13 +1406,13 @@
   },
   {
     "hash": "2836fed3-2dd1-5401-b398-19d338665172",
-    "timeDescription": "1924 June 1st",
+    "timeDescription": "1924 A.D. June 1st",
     "timeDescriptionParts": {
-      "primary": "1924",
-      "secondary": "June",
-      "tertiary": "1st"
+      "primary": "1924 A.D.",
+      "secondary": "",
+      "tertiary": "June 1st"
     },
-    "textContent": "In Hell's Kitchen, Manhattan, a young Steve Rogers talks to his mother about his father.",
+    "textContent": "In Hell's Kitchen, Manhattan, a young Steve Rogers talks to his mother about his father. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -1391,13 +1427,13 @@
   },
   {
     "hash": "2836fed3-2dd1-5401-b398-19d338665172",
-    "timeDescription": "1924 June 1st",
+    "timeDescription": "1924 A.D. June 1st",
     "timeDescriptionParts": {
-      "primary": "1924",
-      "secondary": "June",
-      "tertiary": "1st"
+      "primary": "1924 A.D.",
+      "secondary": "",
+      "tertiary": "June 1st"
     },
-    "textContent": "In Hell's Kitchen, Manhattan, a young Steve Rogers talks to his mother about his father.",
+    "textContent": "In Hell's Kitchen, Manhattan, a young Steve Rogers talks to his mother about his father. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
