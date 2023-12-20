@@ -474,14 +474,14 @@
 		],
 		"id": 1003596,
 		"original_language": "en",
-		"original_title": "Avengers: The Kang Dynasty",
+		"original_title": "Avengers 5",
 		"overview": "An upcoming film in the Marvel Cinematic Universe's sixth Phase and part of The Multiverse Saga. Plot unknown.",
 		"poster_path": "/utZTb3VBrH0zR77BcISU67pHuAx.jpg",
 		"release_date": "2026-04-29",
-		"title": "Avengers: The Kang Dynasty",
+		"title": "Avengers 5",
 		"video": false,
 		"vote_average": 0,
-		"slug": "avengers-the-kang-dynasty",
+		"slug": "avengers-5",
 		"tags": [
 			"movie",
 			"company-420",
@@ -491,7 +491,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/hFtJz4TvoiJJcw2ZOMdhK22aU9P.jpg",
+		"backdrop_path": "/uoB8njUzSUESz1iVU5ZzA6SckLp.jpg",
 		"genre_ids": [
 			14
 		],
@@ -1678,27 +1678,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/tiku7w3w3U7sZtA3PaNWPA8VR1G.jpg",
-		"genre_ids": [
-			35
-		],
-		"id": 1205441,
-		"original_language": "en",
-		"original_title": "Deadpool and Korg React",
-		"overview": "Deadpool and Korg react to the trailer for Free Guy.",
-		"poster_path": "/zw9oXB5loNUh4O8xzIlEpxtICzJ.jpg",
-		"release_date": "2021-07-13",
-		"title": "Deadpool and Korg React",
-		"video": false,
-		"vote_average": 6,
-		"slug": "deadpool-and-korg-react",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": "/keIxh0wPr2Ymj0Btjh4gW7JJ89e.jpg",
 		"genre_ids": [
 			28,
@@ -2486,7 +2465,7 @@
 		"original_name": "Marvel's Runaways",
 		"overview": "Every teenager thinks their parents are evil. What if you found out they actually were? Six diverse teenagers who can barely stand each other must unite against a common foe – their parents.",
 		"poster_path": "/zceMrfO17AQkeWJZNra4O90s1vE.jpg",
-		"vote_average": 7.5,
+		"vote_average": 7.4,
 		"title": "Marvel's Runaways",
 		"slug": "marvels-runaways",
 		"tags": [

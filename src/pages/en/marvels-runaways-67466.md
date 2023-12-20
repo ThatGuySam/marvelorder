@@ -32,7 +32,7 @@ mcuTimelineOrder: 287
     "original_name": "Marvel's Runaways",
     "overview": "Every teenager thinks their parents are evil. What if you found out they actually were? Six diverse teenagers who can barely stand each other must unite against a common foe – their parents.",
     "poster_path": "/zceMrfO17AQkeWJZNra4O90s1vE.jpg",
-    "vote_average": 7.5,
+    "vote_average": 7.4,
     "title": "Marvel's Runaways",
     "slug": "marvels-runaways",
     "tags": [

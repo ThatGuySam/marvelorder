@@ -1447,118 +1447,97 @@
     "primeReferenceTitle": ""
   },
   {
-    "hash": "aac77979-f302-5d63-bb5a-714af340afc7",
-    "timeDescription": "1930 January 1st",
+    "hash": "fa58d2a0-972a-51b3-9c6b-a79bbb003095",
+    "timeDescription": "1930s",
     "timeDescriptionParts": {
-      "primary": "1930",
-      "secondary": "January",
-      "tertiary": "1st"
-    },
-    "textContent": "Dr. Abraham Erskine works in a German university doing research into the Super Soldier Serum.",
-    "timeline": "Marvel Cinematic Universe",
-    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
-    "referenceLinks": [
-      {
-        "href": "/wiki/Abraham_Erskine",
-        "text": "Dr. Abraham Erskine",
-        "referenceType": "unknown"
-      },
-      {
-        "href": "/wiki/Super_Soldier_Serum",
-        "text": "Super Soldier Serum",
-        "referenceType": "unknown"
-      },
-      {
-        "href": "/wiki/Captain_America:_The_First_Avenger",
-        "text": "Captain America: The First Avenger",
-        "referenceType": "unknown"
-      }
-    ],
-    "primeReferenceIndex": 2,
-    "primeReferenceTitle": "Captain America: The First Avenger"
-  },
-  {
-    "hash": "aac77979-f302-5d63-bb5a-714af340afc7",
-    "timeDescription": "1930 January 1st",
-    "timeDescriptionParts": {
-      "primary": "1930",
-      "secondary": "January",
-      "tertiary": "1st"
-    },
-    "textContent": "Dr. Abraham Erskine works in a German university doing research into the Super Soldier Serum.",
-    "timeline": "Marvel Cinematic Universe",
-    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
-    "referenceLinks": [
-      {
-        "href": "/wiki/Abraham_Erskine",
-        "text": "Dr. Abraham Erskine",
-        "referenceType": "unknown"
-      },
-      {
-        "href": "/wiki/Super_Soldier_Serum",
-        "text": "Super Soldier Serum",
-        "referenceType": "unknown"
-      },
-      {
-        "href": "/wiki/Captain_America:_The_First_Avenger",
-        "text": "Captain America: The First Avenger",
-        "referenceType": "unknown"
-      }
-    ],
-    "primeReferenceIndex": 2,
-    "primeReferenceTitle": "Captain America: The First Avenger"
-  },
-  {
-    "hash": "e65a8fe9-7f97-5f26-8238-8f68da8f4330",
-    "timeDescription": "1930 September 1st",
-    "timeDescriptionParts": {
-      "primary": "1930",
-      "secondary": "September",
-      "tertiary": "1st"
-    },
-    "textContent": "In Hell's Kitchen, Manhattan, Steve meets James Buchanan \"Bucky\" Barnes during a back ally scuffle with some bullies. The two become friends.",
-    "timeline": "Marvel Cinematic Universe",
-    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
-    "referenceLinks": [
-      {
-        "href": "/wiki/James_Barnes",
-        "text": "James Buchanan \"Bucky\" Barnes",
-        "referenceType": "unknown"
-      }
-    ],
-    "primeReferenceIndex": -1,
-    "primeReferenceTitle": ""
-  },
-  {
-    "hash": "e65a8fe9-7f97-5f26-8238-8f68da8f4330",
-    "timeDescription": "1930 September 1st",
-    "timeDescriptionParts": {
-      "primary": "1930",
-      "secondary": "September",
-      "tertiary": "1st"
-    },
-    "textContent": "In Hell's Kitchen, Manhattan, Steve meets James Buchanan \"Bucky\" Barnes during a back ally scuffle with some bullies. The two become friends.",
-    "timeline": "Marvel Cinematic Universe",
-    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
-    "referenceLinks": [
-      {
-        "href": "/wiki/James_Barnes",
-        "text": "James Buchanan \"Bucky\" Barnes",
-        "referenceType": "unknown"
-      }
-    ],
-    "primeReferenceIndex": -1,
-    "primeReferenceTitle": ""
-  },
-  {
-    "hash": "3556e353-1f31-54c6-8f09-e9a3fced4782",
-    "timeDescription": "1933",
-    "timeDescriptionParts": {
-      "primary": "1933",
+      "primary": "1930s",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "Johann Schmidt begins to search for the Tesseract.",
+    "textContent": "The Great Kingo makes a name for himself in Bollywood and stars in Saraush Ke Putra.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Kingo",
+        "text": "The Great Kingo",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
+  },
+  {
+    "hash": "aac77979-f302-5d63-bb5a-714af340afc7",
+    "timeDescription": "1930 A.D. January 1st",
+    "timeDescriptionParts": {
+      "primary": "1930 A.D.",
+      "secondary": "",
+      "tertiary": "January 1st"
+    },
+    "textContent": "Dr. Abraham Erskine works in a German university doing research into the Super Soldier Serum.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Abraham_Erskine",
+        "text": "Dr. Abraham Erskine",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Super_Soldier_Serum",
+        "text": "Super Soldier Serum",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Captain_America:_The_First_Avenger",
+        "text": "Captain America: The First Avenger",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 2,
+    "primeReferenceTitle": "Captain America: The First Avenger"
+  },
+  {
+    "hash": "aac77979-f302-5d63-bb5a-714af340afc7",
+    "timeDescription": "1930 A.D. January 1st",
+    "timeDescriptionParts": {
+      "primary": "1930 A.D.",
+      "secondary": "",
+      "tertiary": "January 1st"
+    },
+    "textContent": "Dr. Abraham Erskine works in a German university doing research into the Super Soldier Serum.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Abraham_Erskine",
+        "text": "Dr. Abraham Erskine",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Super_Soldier_Serum",
+        "text": "Super Soldier Serum",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Captain_America:_The_First_Avenger",
+        "text": "Captain America: The First Avenger",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 2,
+    "primeReferenceTitle": "Captain America: The First Avenger"
+  },
+  {
+    "hash": "3556e353-1f31-54c6-8f09-e9a3fced4782",
+    "timeDescription": "1933 A.D.",
+    "timeDescriptionParts": {
+      "primary": "1933 A.D.",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Johann Schmidt begins to search for the Tesseract. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -1583,13 +1562,13 @@
   },
   {
     "hash": "bed9c290-d95b-5591-accc-102444347014",
-    "timeDescription": "1934 June 30th",
+    "timeDescription": "1934 A.D. June 30th",
     "timeDescriptionParts": {
-      "primary": "1934",
-      "secondary": "June",
-      "tertiary": "30th"
+      "primary": "1934 A.D.",
+      "secondary": "",
+      "tertiary": "June 30th"
     },
-    "textContent": "Johann Schmidt meets Adolf Hitler, Heinrich Himmler and Ernst Kaufmann, head of the Special Weapon Division, after a Wagner opera and reveals his theory that Norse gods and their magic could be more than myth.",
+    "textContent": "Johann Schmidt meets Adolf Hitler, Heinrich Himmler and Ernst Kaufmann, head of the Special Weapon Division, after a Wagner opera and reveals his theory that Norse gods and their magic could be more than myth. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -1619,11 +1598,11 @@
   },
   {
     "hash": "5efa8728-7fc2-5655-8a85-98d5a7caf145",
-    "timeDescription": "1934 June 30th",
+    "timeDescription": "1934 A.D. June 30th",
     "timeDescriptionParts": {
-      "primary": "1934",
-      "secondary": "June",
-      "tertiary": "30th"
+      "primary": "1934 A.D.",
+      "secondary": "",
+      "tertiary": "June 30th"
     },
     "textContent": "Dr. Abraham Erskine and Howard Stark meet at an Engineering Conference.",
     "timeline": "Marvel Cinematic Universe",
@@ -1633,20 +1612,25 @@
     "primeReferenceTitle": ""
   },
   {
-    "hash": "73e2893d-0a56-522d-b1cf-2e80ad287530",
-    "timeDescription": "1934 June 30th",
+    "hash": "cf2e1829-7dda-5044-8a3b-7dee2ff8b1a6",
+    "timeDescription": "1934 A.D. June 30th",
     "timeDescriptionParts": {
-      "primary": "1934",
-      "secondary": "June",
-      "tertiary": "30th"
+      "primary": "1934 A.D.",
+      "secondary": "",
+      "tertiary": "June 30th"
     },
-    "textContent": "Johann Schmidt assassinates Erst Kaufmann and seizes control of his weapons program.",
+    "textContent": "Johann Schmidt assassinates Erst Kaufmann and seizes control of his weapons program \"HYDRA\". ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
       {
         "href": "/wiki/Johann_Schmidt",
         "text": "Johann Schmidt",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/HYDRA",
+        "text": "HYDRA",
         "referenceType": "unknown"
       }
     ],
@@ -1655,13 +1639,13 @@
   },
   {
     "hash": "bed9c290-d95b-5591-accc-102444347014",
-    "timeDescription": "1934 June 30th",
+    "timeDescription": "1934 A.D. June 30th",
     "timeDescriptionParts": {
-      "primary": "1934",
-      "secondary": "June",
-      "tertiary": "30th"
+      "primary": "1934 A.D.",
+      "secondary": "",
+      "tertiary": "June 30th"
     },
-    "textContent": "Johann Schmidt meets Adolf Hitler, Heinrich Himmler and Ernst Kaufmann, head of the Special Weapon Division, after a Wagner opera and reveals his theory that Norse gods and their magic could be more than myth.",
+    "textContent": "Johann Schmidt meets Adolf Hitler, Heinrich Himmler and Ernst Kaufmann, head of the Special Weapon Division, after a Wagner opera and reveals his theory that Norse gods and their magic could be more than myth. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -1691,11 +1675,11 @@
   },
   {
     "hash": "5efa8728-7fc2-5655-8a85-98d5a7caf145",
-    "timeDescription": "1934 June 30th",
+    "timeDescription": "1934 A.D. June 30th",
     "timeDescriptionParts": {
-      "primary": "1934",
-      "secondary": "June",
-      "tertiary": "30th"
+      "primary": "1934 A.D.",
+      "secondary": "",
+      "tertiary": "June 30th"
     },
     "textContent": "Dr. Abraham Erskine and Howard Stark meet at an Engineering Conference.",
     "timeline": "Marvel Cinematic Universe",
@@ -1705,20 +1689,25 @@
     "primeReferenceTitle": ""
   },
   {
-    "hash": "73e2893d-0a56-522d-b1cf-2e80ad287530",
-    "timeDescription": "1934 June 30th",
+    "hash": "cf2e1829-7dda-5044-8a3b-7dee2ff8b1a6",
+    "timeDescription": "1934 A.D. June 30th",
     "timeDescriptionParts": {
-      "primary": "1934",
-      "secondary": "June",
-      "tertiary": "30th"
+      "primary": "1934 A.D.",
+      "secondary": "",
+      "tertiary": "June 30th"
     },
-    "textContent": "Johann Schmidt assassinates Erst Kaufmann and seizes control of his weapons program.",
+    "textContent": "Johann Schmidt assassinates Erst Kaufmann and seizes control of his weapons program \"HYDRA\". ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
       {
         "href": "/wiki/Johann_Schmidt",
         "text": "Johann Schmidt",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/HYDRA",
+        "text": "HYDRA",
         "referenceType": "unknown"
       }
     ],
@@ -1727,13 +1716,13 @@
   },
   {
     "hash": "4003fec8-04c1-55c1-a5e3-8ff5ad583ced",
-    "timeDescription": "1934 July 5th",
+    "timeDescription": "1934 A.D. July 5th",
     "timeDescriptionParts": {
-      "primary": "1934",
-      "secondary": "July",
-      "tertiary": "5th"
+      "primary": "1934 A.D.",
+      "secondary": "",
+      "tertiary": "July 5th"
     },
-    "textContent": "Schmidt and SS troops attack an SA Weapons Testing Ground at Kummersdorf where he finds and recruits advanced exo-skeleton battle armor researcher Arnim Zola.",
+    "textContent": "Schmidt and SS troops attack an SA Weapons Testing Ground at Kummersdorf where he finds and recruits advanced exo-skeleton battle armor researcher Arnim Zola. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -1748,13 +1737,13 @@
   },
   {
     "hash": "ff594ca0-5420-539c-80e0-eb4a47063793",
-    "timeDescription": "1934 July 5th",
+    "timeDescription": "1934 A.D. July 5th",
     "timeDescriptionParts": {
-      "primary": "1934",
-      "secondary": "July",
-      "tertiary": "5th"
+      "primary": "1934 A.D.",
+      "secondary": "",
+      "tertiary": "July 5th"
     },
-    "textContent": "Howard Stark founds Stark Industries with Obadiah Stane.",
+    "textContent": "Howard Stark founds Stark Industries with Obadiah Stane. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -1784,13 +1773,13 @@
   },
   {
     "hash": "4003fec8-04c1-55c1-a5e3-8ff5ad583ced",
-    "timeDescription": "1934 July 5th",
+    "timeDescription": "1934 A.D. July 5th",
     "timeDescriptionParts": {
-      "primary": "1934",
-      "secondary": "July",
-      "tertiary": "5th"
+      "primary": "1934 A.D.",
+      "secondary": "",
+      "tertiary": "July 5th"
     },
-    "textContent": "Schmidt and SS troops attack an SA Weapons Testing Ground at Kummersdorf where he finds and recruits advanced exo-skeleton battle armor researcher Arnim Zola.",
+    "textContent": "Schmidt and SS troops attack an SA Weapons Testing Ground at Kummersdorf where he finds and recruits advanced exo-skeleton battle armor researcher Arnim Zola. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -1805,13 +1794,13 @@
   },
   {
     "hash": "ff594ca0-5420-539c-80e0-eb4a47063793",
-    "timeDescription": "1934 July 5th",
+    "timeDescription": "1934 A.D. July 5th",
     "timeDescriptionParts": {
-      "primary": "1934",
-      "secondary": "July",
-      "tertiary": "5th"
+      "primary": "1934 A.D.",
+      "secondary": "",
+      "tertiary": "July 5th"
     },
-    "textContent": "Howard Stark founds Stark Industries with Obadiah Stane.",
+    "textContent": "Howard Stark founds Stark Industries with Obadiah Stane. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -1841,11 +1830,11 @@
   },
   {
     "hash": "6d5a7f49-fb79-5895-a9b0-9b8e31000aa9",
-    "timeDescription": "1939 September 1st",
+    "timeDescription": "1939 A.D. September 1st",
     "timeDescriptionParts": {
-      "primary": "1939",
-      "secondary": "September",
-      "tertiary": "1st"
+      "primary": "1939 A.D.",
+      "secondary": "",
+      "tertiary": "September 1st"
     },
     "textContent": "World War II begins.",
     "timeline": "Marvel Cinematic Universe",
@@ -1856,11 +1845,11 @@
   },
   {
     "hash": "6d5a7f49-fb79-5895-a9b0-9b8e31000aa9",
-    "timeDescription": "1939 September 1st",
+    "timeDescription": "1939 A.D. September 1st",
     "timeDescriptionParts": {
-      "primary": "1939",
-      "secondary": "September",
-      "tertiary": "1st"
+      "primary": "1939 A.D.",
+      "secondary": "",
+      "tertiary": "September 1st"
     },
     "textContent": "World War II begins.",
     "timeline": "Marvel Cinematic Universe",
@@ -1871,9 +1860,9 @@
   },
   {
     "hash": "8136fa50-2672-50af-89ec-f87b3a8e2fcd",
-    "timeDescription": "1940",
+    "timeDescription": "1940 A.D.",
     "timeDescriptionParts": {
-      "primary": "1940",
+      "primary": "1940 A.D.",
       "secondary": "",
       "tertiary": ""
     },
@@ -1896,32 +1885,11 @@
     "primeReferenceTitle": ""
   },
   {
-    "hash": "26c531bb-97b8-5fec-8919-a7ce10e3c1b2",
-    "timeDescription": "1940",
-    "timeDescriptionParts": {
-      "primary": "1940",
-      "secondary": "",
-      "tertiary": ""
-    },
-    "textContent": "Erskine is rescued by Agent 13 (Peggy Carter) and brought into the Strategic Science Reserve.",
-    "timeline": "Marvel Cinematic Universe",
-    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
-    "referenceLinks": [
-      {
-        "href": "/wiki/Captain_America:_The_First_Avenger",
-        "text": "Captain America: The First Avenger",
-        "referenceType": "unknown"
-      }
-    ],
-    "primeReferenceIndex": 0,
-    "primeReferenceTitle": "Captain America: The First Avenger"
-  },
-  {
     "hash": "ca0d6543-2030-5515-baa5-f23a59decef6",
-    "timeDescription": "1940 February",
+    "timeDescription": "1940 A.D.",
     "timeDescriptionParts": {
-      "primary": "1940",
-      "secondary": "February",
+      "primary": "1940 A.D.",
+      "secondary": "",
       "tertiary": ""
     },
     "textContent": "Howard Stark begins a demonstration which would showcase vibranium, a metal discovered by Stark Industries researchers in Africa, and then meets with Colonel Chester Phillips. After being attacked by HYDRA assassins Stark agrees to join Col Phillip's newly created Strategic Science Reserve.",
@@ -1938,14 +1906,14 @@
     "primeReferenceTitle": ""
   },
   {
-    "hash": "598308ad-2b3e-546a-afca-6938ae52221d",
-    "timeDescription": "1940 February",
+    "hash": "6eb9edeb-3a4a-5114-b0b6-49642a2ce50b",
+    "timeDescription": "1940 A.D.",
     "timeDescriptionParts": {
-      "primary": "1940",
-      "secondary": "February",
+      "primary": "1940 A.D.",
+      "secondary": "",
       "tertiary": ""
     },
-    "textContent": "Johann Schmidt takes part in an test involving Erskine and his Super Soldier Serum which turns Schmidt into what would become known as the Red Skull.",
+    "textContent": "Johann Schmidt takes part in an test involving Erskine and an incomplete Super Soldier Serum which turns Schmidt into the nightmarishly disfigured Red Skull. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -1969,14 +1937,35 @@
     "primeReferenceTitle": "Captain America: The First Avenger"
   },
   {
-    "hash": "61453c09-26ae-59b2-8ee4-ace686d934f5",
-    "timeDescription": "1941",
+    "hash": "26c531bb-97b8-5fec-8919-a7ce10e3c1b2",
+    "timeDescription": "1940 A.D.",
     "timeDescriptionParts": {
-      "primary": "1941",
+      "primary": "1940 A.D.",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "The funeral of Steve Rogers' mother is held. Steve goes to stay with Bucky.",
+    "textContent": "Erskine is rescued by Agent 13 (Peggy Carter) and brought into the Strategic Science Reserve. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Captain_America:_The_First_Avenger",
+        "text": "Captain America: The First Avenger",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 0,
+    "primeReferenceTitle": "Captain America: The First Avenger"
+  },
+  {
+    "hash": "61453c09-26ae-59b2-8ee4-ace686d934f5",
+    "timeDescription": "1941 A.D.",
+    "timeDescriptionParts": {
+      "primary": "1941 A.D.",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "The funeral of Steve Rogers' mother is held. Steve goes to stay with Bucky. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -1990,17 +1979,146 @@
     "primeReferenceTitle": "Captain America: The Winter Soldier"
   },
   {
-    "hash": "373ccc45-5f83-5f41-9329-ad3c94f8ac97",
-    "timeDescription": "1942",
+    "hash": "5aca581f-7f1b-515b-90fe-a40f36c8d402",
+    "timeDescription": "1942 A.D. March",
     "timeDescriptionParts": {
-      "primary": "1942",
+      "primary": "1942 A.D.",
       "secondary": "",
-      "tertiary": ""
+      "tertiary": "March"
     },
-    "textContent": "Aisha flees from assailants and takes refuge in a village. Hasan, an Indian independence activist, offers her food and shelter. They fall in love and have a child, Sana Ali.(Ms. Marvel ",
+    "textContent": "Johann Schmidt invades Tonsberg and recovers the Tesseract. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
+      {
+        "href": "/wiki/Johann_Schmidt",
+        "text": "Johann Schmidt",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Tonsberg",
+        "text": "Tonsberg",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Tesseract",
+        "text": "Tesseract",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Captain_America:_The_First_Avenger",
+        "text": "Captain America: The First Avenger",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 3,
+    "primeReferenceTitle": "Captain America: The First Avenger"
+  },
+  {
+    "hash": "12796302-1e18-502d-82fb-bec7a68da77f",
+    "timeDescription": "1942 A.D. March",
+    "timeDescriptionParts": {
+      "primary": "1942 A.D.",
+      "secondary": "",
+      "tertiary": "March"
+    },
+    "textContent": "Erskine rejects all the candidates selected by Col Philips for the Super Soldier Serum. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Captain_America:_The_First_Avenger",
+        "text": "Captain America: The First Avenger",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 0,
+    "primeReferenceTitle": "Captain America: The First Avenger"
+  },
+  {
+    "hash": "5aca581f-7f1b-515b-90fe-a40f36c8d402",
+    "timeDescription": "1942 A.D. March",
+    "timeDescriptionParts": {
+      "primary": "1942 A.D.",
+      "secondary": "",
+      "tertiary": "March"
+    },
+    "textContent": "Johann Schmidt invades Tonsberg and recovers the Tesseract. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Johann_Schmidt",
+        "text": "Johann Schmidt",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Tonsberg",
+        "text": "Tonsberg",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Tesseract",
+        "text": "Tesseract",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Captain_America:_The_First_Avenger",
+        "text": "Captain America: The First Avenger",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 3,
+    "primeReferenceTitle": "Captain America: The First Avenger"
+  },
+  {
+    "hash": "12796302-1e18-502d-82fb-bec7a68da77f",
+    "timeDescription": "1942 A.D. March",
+    "timeDescriptionParts": {
+      "primary": "1942 A.D.",
+      "secondary": "",
+      "tertiary": "March"
+    },
+    "textContent": "Erskine rejects all the candidates selected by Col Philips for the Super Soldier Serum. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Captain_America:_The_First_Avenger",
+        "text": "Captain America: The First Avenger",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 0,
+    "primeReferenceTitle": "Captain America: The First Avenger"
+  },
+  {
+    "hash": "b053814e-8684-5db8-af22-449455ccb13f",
+    "timeDescription": "1942 A.D. March",
+    "timeDescriptionParts": {
+      "primary": "1942 A.D.",
+      "secondary": "",
+      "tertiary": "March"
+    },
+    "textContent": "Exiles from the Noor Dimension known as the Clandestines uncover a Quantum Band. The leader of the group, Aisha, flees from British soldiers and takes refuge in a village. Hasan, an Indian independence activist, offers her food and shelter. They fall in love and have a child, Sana Ali. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Noor_Dimension",
+        "text": "Noor Dimension",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Clandestines",
+        "text": "Clandestines",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Quantum_Bands",
+        "text": "Quantum Band",
+        "referenceType": "unknown"
+      },
       {
         "href": "/wiki/Aisha",
         "text": "Aisha",
@@ -2018,7 +2136,7 @@
       },
       {
         "href": "/wiki/Ms._Marvel_(Disney%2B_series)",
-        "text": "Ms. Marvel (Disney+ series)",
+        "text": "Ms. Marvel",
         "referenceType": "unknown"
       },
       {
@@ -2027,70 +2145,39 @@
         "referenceType": "episode"
       }
     ],
-    "primeReferenceIndex": -1,
+    "primeReferenceIndex": 6,
     "primeReferenceTitle": "Ms. Marvel"
   },
   {
-    "hash": "5869a0b9-d22d-5a20-a71f-9f1bfd0510cb",
-    "timeDescription": "1942 March",
+    "hash": "09b52079-4fa8-5844-a718-28c077ec6296",
+    "timeDescription": "1943 A.D. June 14th",
     "timeDescriptionParts": {
-      "primary": "1942",
-      "secondary": "March",
-      "tertiary": ""
-    },
-    "textContent": "Johann Schmidt recovers the Tesseract.",
-    "timeline": "Marvel Cinematic Universe",
-    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
-    "referenceLinks": [
-      {
-        "href": "/wiki/Johann_Schmidt",
-        "text": "Johann Schmidt",
-        "referenceType": "unknown"
-      },
-      {
-        "href": "/wiki/Tesseract",
-        "text": "Tesseract",
-        "referenceType": "unknown"
-      },
-      {
-        "href": "/wiki/Captain_America:_The_First_Avenger",
-        "text": "Captain America: The First Avenger",
-        "referenceType": "unknown"
-      }
-    ],
-    "primeReferenceIndex": 2,
-    "primeReferenceTitle": "Captain America: The First Avenger"
-  },
-  {
-    "hash": "12796302-1e18-502d-82fb-bec7a68da77f",
-    "timeDescription": "1942 March",
-    "timeDescriptionParts": {
-      "primary": "1942",
-      "secondary": "March",
-      "tertiary": ""
-    },
-    "textContent": "Erskine rejects all the candidates selected by Col Philips for the Super Soldier Serum.",
-    "timeline": "Marvel Cinematic Universe",
-    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
-    "referenceLinks": [
-      {
-        "href": "/wiki/Captain_America:_The_First_Avenger",
-        "text": "Captain America: The First Avenger",
-        "referenceType": "unknown"
-      }
-    ],
-    "primeReferenceIndex": 0,
-    "primeReferenceTitle": "Captain America: The First Avenger"
-  },
-  {
-    "hash": "59ecaa3d-8c37-5dba-bd35-6e7899679984",
-    "timeDescription": "1943",
-    "timeDescriptionParts": {
-      "primary": "1943",
+      "primary": "1943 A.D.",
       "secondary": "",
-      "tertiary": ""
+      "tertiary": "June 14th"
     },
-    "textContent": "Howard Stark hosts the New York World's Fair, where a \"Technology of the Future\" exhibit is being presented by Stark himself. Notable demonstrations were the Human Torch and a flying car based on repulsor technology. The success of the presentation would lead Howard to later expand the event into his own Stark Expo.",
+    "textContent": "Steve Rogers attempts to enlist in the U.S. Army but is deemed unfit for military service. Later he is saved from a back alley fist fight by Bucky who is shipping out with the 107th the next day.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Steven_Rogers",
+        "text": "Steve Rogers",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
+  },
+  {
+    "hash": "07b1a945-c03f-5f9d-adb4-314839eb4577",
+    "timeDescription": "1943 A.D. June 14th",
+    "timeDescriptionParts": {
+      "primary": "1943 A.D.",
+      "secondary": "",
+      "tertiary": "June 14th"
+    },
+    "textContent": "Howard Stark hosts the World Exposition of Tomorrow, where a \"Technology of the Future\" exhibit is being presented by Stark himself. Notable demonstrations were the Human Torch and a flying car using Stark Gravitic Reversion Technology. The success of the presentation would lead Howard to later expand the event into his own Stark Expo. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -2124,14 +2211,14 @@
     "primeReferenceTitle": "Captain America: The First Avenger"
   },
   {
-    "hash": "673bfce1-397a-549d-8501-41f1ac03661a",
-    "timeDescription": "1943",
+    "hash": "4f04b6e1-63e7-5b9e-80a4-b2aa8674f8a2",
+    "timeDescription": "1943 A.D. June 14th",
     "timeDescriptionParts": {
-      "primary": "1943",
+      "primary": "1943 A.D.",
       "secondary": "",
-      "tertiary": ""
+      "tertiary": "June 14th"
     },
-    "textContent": "Erskine spots Steve Rogers at a recruitment office.",
+    "textContent": "Erskine spots Steve Rogers at a recruitment office and recruits him into the trials to determine the first test subject for the improved Super Soldier Serum. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -2145,14 +2232,14 @@
     "primeReferenceTitle": "Captain America: The First Avenger"
   },
   {
-    "hash": "921641aa-2357-530f-af86-2b5dec6325f4",
-    "timeDescription": "1943",
+    "hash": "09b52079-4fa8-5844-a718-28c077ec6296",
+    "timeDescription": "1943 A.D. June 14th",
     "timeDescriptionParts": {
-      "primary": "1943",
+      "primary": "1943 A.D.",
       "secondary": "",
-      "tertiary": ""
+      "tertiary": "June 14th"
     },
-    "textContent": "Steve Rogers is recruited by Abraham Erskine into the trials to determine the first test subject for the improved Super Soldier Serum. ",
+    "textContent": "Steve Rogers attempts to enlist in the U.S. Army but is deemed unfit for military service. Later he is saved from a back alley fist fight by Bucky who is shipping out with the 107th the next day.",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -2160,10 +2247,186 @@
         "href": "/wiki/Steven_Rogers",
         "text": "Steve Rogers",
         "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
+  },
+  {
+    "hash": "07b1a945-c03f-5f9d-adb4-314839eb4577",
+    "timeDescription": "1943 A.D. June 14th",
+    "timeDescriptionParts": {
+      "primary": "1943 A.D.",
+      "secondary": "",
+      "tertiary": "June 14th"
+    },
+    "textContent": "Howard Stark hosts the World Exposition of Tomorrow, where a \"Technology of the Future\" exhibit is being presented by Stark himself. Notable demonstrations were the Human Torch and a flying car using Stark Gravitic Reversion Technology. The success of the presentation would lead Howard to later expand the event into his own Stark Expo. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Howard_Stark",
+        "text": "Howard Stark",
+        "referenceType": "unknown"
       },
+      {
+        "href": "/wiki/Human_Torch_(android)",
+        "text": "Human Torch",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Stark_Expo",
+        "text": "Stark Expo",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Captain_America:_The_First_Avenger",
+        "text": "Captain America: The First Avenger",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Iron_Man_2",
+        "text": "Iron Man 2",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 3,
+    "primeReferenceTitle": "Captain America: The First Avenger"
+  },
+  {
+    "hash": "4f04b6e1-63e7-5b9e-80a4-b2aa8674f8a2",
+    "timeDescription": "1943 A.D. June 14th",
+    "timeDescriptionParts": {
+      "primary": "1943 A.D.",
+      "secondary": "",
+      "tertiary": "June 14th"
+    },
+    "textContent": "Erskine spots Steve Rogers at a recruitment office and recruits him into the trials to determine the first test subject for the improved Super Soldier Serum. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Captain_America:_The_First_Avenger",
+        "text": "Captain America: The First Avenger",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 0,
+    "primeReferenceTitle": "Captain America: The First Avenger"
+  },
+  {
+    "hash": "5e054ee4-a241-5a74-9c45-5834ab295f52",
+    "timeDescription": "1943 A.D. June 15th-21st",
+    "timeDescriptionParts": {
+      "primary": "1943 A.D.",
+      "secondary": "",
+      "tertiary": "June 15th-21st"
+    },
+    "textContent": "During training for the SSR's Super Soldier Program at Camp Lehigh, Steve Rogers meets Peggy Carter. Steve throws himself on what he believes to be a live grenade to protect his fellow recruits and passes Col. Phillips' test and is selected as the candidate for the serum. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Camp_Lehigh",
+        "text": "Camp Lehigh",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Margaret_Carter",
+        "text": "Peggy Carter",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Captain_America:_The_First_Avenger",
+        "text": "Captain America: The First Avenger",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 2,
+    "primeReferenceTitle": "Captain America: The First Avenger"
+  },
+  {
+    "hash": "5e054ee4-a241-5a74-9c45-5834ab295f52",
+    "timeDescription": "1943 A.D. June 15th-21st",
+    "timeDescriptionParts": {
+      "primary": "1943 A.D.",
+      "secondary": "",
+      "tertiary": "June 15th-21st"
+    },
+    "textContent": "During training for the SSR's Super Soldier Program at Camp Lehigh, Steve Rogers meets Peggy Carter. Steve throws himself on what he believes to be a live grenade to protect his fellow recruits and passes Col. Phillips' test and is selected as the candidate for the serum. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Camp_Lehigh",
+        "text": "Camp Lehigh",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Margaret_Carter",
+        "text": "Peggy Carter",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Captain_America:_The_First_Avenger",
+        "text": "Captain America: The First Avenger",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 2,
+    "primeReferenceTitle": "Captain America: The First Avenger"
+  },
+  {
+    "hash": "602d7a8f-76a5-595b-84a0-4085bde2d437",
+    "timeDescription": "1943 A.D. June 22nd",
+    "timeDescriptionParts": {
+      "primary": "1943 A.D.",
+      "secondary": "",
+      "tertiary": "June 22nd"
+    },
+    "textContent": "Steve Rogers undergoes the Super Soldier transformation. Abraham Erskine is killed by Heinz Kruger. Steve pursues Kruger on foot only for the HYDRA agent to take a cyanide pill. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
       {
         "href": "/wiki/Abraham_Erskine",
         "text": "Abraham Erskine",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Heinz_Kruger",
+        "text": "Heinz Kruger",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Captain_America:_The_First_Avenger",
+        "text": "Captain America: The First Avenger",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 2,
+    "primeReferenceTitle": "Captain America: The First Avenger"
+  },
+  {
+    "hash": "602d7a8f-76a5-595b-84a0-4085bde2d437",
+    "timeDescription": "1943 A.D. June 22nd",
+    "timeDescriptionParts": {
+      "primary": "1943 A.D.",
+      "secondary": "",
+      "tertiary": "June 22nd"
+    },
+    "textContent": "Steve Rogers undergoes the Super Soldier transformation. Abraham Erskine is killed by Heinz Kruger. Steve pursues Kruger on foot only for the HYDRA agent to take a cyanide pill. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Abraham_Erskine",
+        "text": "Abraham Erskine",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Heinz_Kruger",
+        "text": "Heinz Kruger",
         "referenceType": "unknown"
       },
       {
@@ -2177,13 +2440,13 @@
   },
   {
     "hash": "b0f0cd6f-867a-5eb4-af74-aed31afe6fcc",
-    "timeDescription": "1943",
+    "timeDescription": "1943 A.D. June 23rd-November 2nd",
     "timeDescriptionParts": {
-      "primary": "1943",
+      "primary": "1943 A.D.",
       "secondary": "",
-      "tertiary": ""
+      "tertiary": "June 23rd-November 2nd"
     },
-    "textContent": "Steve Rogers tours with the USO as Captain America.",
+    "textContent": "Steve Rogers tours with the USO as Captain America. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -2202,40 +2465,14 @@
     "primeReferenceTitle": "Captain America: The First Avenger"
   },
   {
-    "hash": "18e61166-3793-5702-a83f-e54f4590c57d",
-    "timeDescription": "1943",
+    "hash": "576edaf0-2c56-5658-bcad-d7816f418faa",
+    "timeDescription": "1943 A.D. June 23rd-November 2nd",
     "timeDescriptionParts": {
-      "primary": "1943",
+      "primary": "1943 A.D.",
       "secondary": "",
-      "tertiary": ""
+      "tertiary": "June 23rd-November 2nd"
     },
-    "textContent": "Captain America arrives in Italy with the USO.",
-    "timeline": "Marvel Cinematic Universe",
-    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
-    "referenceLinks": [
-      {
-        "href": "/wiki/Steven_Rogers",
-        "text": "Captain America",
-        "referenceType": "unknown"
-      },
-      {
-        "href": "/wiki/Captain_America:_The_First_Avenger",
-        "text": "Captain America: The First Avenger",
-        "referenceType": "unknown"
-      }
-    ],
-    "primeReferenceIndex": 1,
-    "primeReferenceTitle": "Captain America: The First Avenger"
-  },
-  {
-    "hash": "a1c73f2a-92dd-5707-9cc0-053ed6679826",
-    "timeDescription": "1943",
-    "timeDescriptionParts": {
-      "primary": "1943",
-      "secondary": "",
-      "tertiary": ""
-    },
-    "textContent": "James Barnes is captured with the 107th and is experimented on by Arnim Zola.",
+    "textContent": "James Barnes is captured with the 107th near Azzano and is experimented on by Arnim Zola. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -2259,14 +2496,206 @@
     "primeReferenceTitle": "Captain America: The First Avenger"
   },
   {
-    "hash": "c8a4f6c6-da06-5ad2-a187-27578766570e",
-    "timeDescription": "1943",
+    "hash": "b0f0cd6f-867a-5eb4-af74-aed31afe6fcc",
+    "timeDescription": "1943 A.D. June 23rd-November 2nd",
     "timeDescriptionParts": {
-      "primary": "1943",
+      "primary": "1943 A.D.",
       "secondary": "",
-      "tertiary": ""
+      "tertiary": "June 23rd-November 2nd"
     },
-    "textContent": "Captain America rescues American POWs and first encounters the Red Skull. According to Phillips, he left on the 3rd for the rescue mission. His success earns him official active duty status.",
+    "textContent": "Steve Rogers tours with the USO as Captain America. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Steven_Rogers",
+        "text": "Steve Rogers",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Captain_America:_The_First_Avenger",
+        "text": "Captain America: The First Avenger",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 1,
+    "primeReferenceTitle": "Captain America: The First Avenger"
+  },
+  {
+    "hash": "576edaf0-2c56-5658-bcad-d7816f418faa",
+    "timeDescription": "1943 A.D. June 23rd-November 2nd",
+    "timeDescriptionParts": {
+      "primary": "1943 A.D.",
+      "secondary": "",
+      "tertiary": "June 23rd-November 2nd"
+    },
+    "textContent": "James Barnes is captured with the 107th near Azzano and is experimented on by Arnim Zola. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/James_Barnes",
+        "text": "James Barnes",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Arnim_Zola",
+        "text": "Arnim Zola",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Captain_America:_The_First_Avenger",
+        "text": "Captain America: The First Avenger",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 2,
+    "primeReferenceTitle": "Captain America: The First Avenger"
+  },
+  {
+    "hash": "18e61166-3793-5702-a83f-e54f4590c57d",
+    "timeDescription": "1943 A.D. November 3rd",
+    "timeDescriptionParts": {
+      "primary": "1943 A.D.",
+      "secondary": "",
+      "tertiary": "November 3rd"
+    },
+    "textContent": "Captain America arrives in Italy with the USO. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Steven_Rogers",
+        "text": "Captain America",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Italy",
+        "text": "Italy",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Captain_America:_The_First_Avenger",
+        "text": "Captain America: The First Avenger",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 2,
+    "primeReferenceTitle": "Captain America: The First Avenger"
+  },
+  {
+    "hash": "18e61166-3793-5702-a83f-e54f4590c57d",
+    "timeDescription": "1943 A.D. November 3rd",
+    "timeDescriptionParts": {
+      "primary": "1943 A.D.",
+      "secondary": "",
+      "tertiary": "November 3rd"
+    },
+    "textContent": "Captain America arrives in Italy with the USO. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Steven_Rogers",
+        "text": "Captain America",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Italy",
+        "text": "Italy",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Captain_America:_The_First_Avenger",
+        "text": "Captain America: The First Avenger",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 2,
+    "primeReferenceTitle": "Captain America: The First Avenger"
+  },
+  {
+    "hash": "278437ae-3c70-5966-8328-f9b9422229b9",
+    "timeDescription": "1943 A.D. November 3rd-10th",
+    "timeDescriptionParts": {
+      "primary": "1943 A.D.",
+      "secondary": "",
+      "tertiary": "November 3rd-10th"
+    },
+    "textContent": "Steve learns of the captured 107th and is flown into enemy territory denying the wishes of Col. Phillips. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Captain_America:_The_First_Avenger",
+        "text": "Captain America: The First Avenger",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 0,
+    "primeReferenceTitle": "Captain America: The First Avenger"
+  },
+  {
+    "hash": "617b7c08-a7fd-5543-9ee9-fd655e05a91e",
+    "timeDescription": "1943 A.D. November 3rd-10th",
+    "timeDescriptionParts": {
+      "primary": "1943 A.D.",
+      "secondary": "",
+      "tertiary": "November 3rd-10th"
+    },
+    "textContent": "Captain America rescues American POWs and first encounters the Red Skull. According to Phillips. His success earns him official active duty status. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Steven_Rogers",
+        "text": "Captain America",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Johann_Schmidt",
+        "text": "Red Skull",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Captain_America:_The_First_Avenger",
+        "text": "Captain America: The First Avenger",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 2,
+    "primeReferenceTitle": "Captain America: The First Avenger"
+  },
+  {
+    "hash": "278437ae-3c70-5966-8328-f9b9422229b9",
+    "timeDescription": "1943 A.D. November 3rd-10th",
+    "timeDescriptionParts": {
+      "primary": "1943 A.D.",
+      "secondary": "",
+      "tertiary": "November 3rd-10th"
+    },
+    "textContent": "Steve learns of the captured 107th and is flown into enemy territory denying the wishes of Col. Phillips. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Captain_America:_The_First_Avenger",
+        "text": "Captain America: The First Avenger",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 0,
+    "primeReferenceTitle": "Captain America: The First Avenger"
+  },
+  {
+    "hash": "617b7c08-a7fd-5543-9ee9-fd655e05a91e",
+    "timeDescription": "1943 A.D. November 3rd-10th",
+    "timeDescriptionParts": {
+      "primary": "1943 A.D.",
+      "secondary": "",
+      "tertiary": "November 3rd-10th"
+    },
+    "textContent": "Captain America rescues American POWs and first encounters the Red Skull. According to Phillips. His success earns him official active duty status. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -2291,13 +2720,13 @@
   },
   {
     "hash": "c0f53137-9aaf-53e1-b4e6-79cba92512b3",
-    "timeDescription": "1943",
+    "timeDescription": "1943 A.D. November 3rd-10th",
     "timeDescriptionParts": {
-      "primary": "1943",
+      "primary": "1943 A.D.",
       "secondary": "",
-      "tertiary": ""
+      "tertiary": "November 3rd-10th"
     },
-    "textContent": "Howard Stark creates a unique shield and costume for Captain America.",
+    "textContent": "Howard Stark creates a unique shield and costume for Captain America. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -2322,13 +2751,13 @@
   },
   {
     "hash": "eb4c17b6-91b3-5403-a63f-f146a612a1a1",
-    "timeDescription": "1943 December",
+    "timeDescription": "1943 A.D. December",
     "timeDescriptionParts": {
-      "primary": "1943",
-      "secondary": "December",
-      "tertiary": ""
+      "primary": "1943 A.D.",
+      "secondary": "",
+      "tertiary": "December"
     },
-    "textContent": "Johann Schmidt and Arnim Zola successfully transfer energy from the Tesseract into their HYDRA weapons.",
+    "textContent": "Johann Schmidt and Arnim Zola successfully transfer energy from the Tesseract into their HYDRA weapons. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -2362,40 +2791,35 @@
     "primeReferenceTitle": "Captain America: The First Avenger"
   },
   {
-    "hash": "0f8c0182-c3f2-5398-9ad0-cb84cbe17b63",
-    "timeDescription": "1943 December",
+    "hash": "eb4c17b6-91b3-5403-a63f-f146a612a1a1",
+    "timeDescription": "1943 A.D. December",
     "timeDescriptionParts": {
-      "primary": "1943",
-      "secondary": "December",
-      "tertiary": ""
+      "primary": "1943 A.D.",
+      "secondary": "",
+      "tertiary": "December"
     },
-    "textContent": "Steve Rogers is injected with the Super Soldier Serum. Heinz Kruger assassinates Abraham Erskine on Johann Schmidt's orders.",
+    "textContent": "Johann Schmidt and Arnim Zola successfully transfer energy from the Tesseract into their HYDRA weapons. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
       {
-        "href": "/wiki/Steven_Rogers",
-        "text": "Steve Rogers",
-        "referenceType": "unknown"
-      },
-      {
-        "href": "/wiki/Super_Soldier_Serum",
-        "text": "Super Soldier Serum",
-        "referenceType": "unknown"
-      },
-      {
-        "href": "/wiki/Heinz_Kruger",
-        "text": "Heinz Kruger",
-        "referenceType": "unknown"
-      },
-      {
-        "href": "/wiki/Abraham_Erskine",
-        "text": "Abraham Erskine",
-        "referenceType": "unknown"
-      },
-      {
         "href": "/wiki/Johann_Schmidt",
         "text": "Johann Schmidt",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Arnim_Zola",
+        "text": "Arnim Zola",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Tesseract",
+        "text": "Tesseract",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/HYDRA",
+        "text": "HYDRA",
         "referenceType": "unknown"
       },
       {
@@ -2404,7 +2828,7 @@
         "referenceType": "unknown"
       }
     ],
-    "primeReferenceIndex": 5,
+    "primeReferenceIndex": 4,
     "primeReferenceTitle": "Captain America: The First Avenger"
   },
   {
