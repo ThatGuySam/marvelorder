@@ -2833,13 +2833,13 @@
   },
   {
     "hash": "500be9d0-6466-50e6-a9af-3ae4491ea52e",
-    "timeDescription": "1944",
+    "timeDescription": "1944-45",
     "timeDescriptionParts": {
-      "primary": "1944",
+      "primary": "1944-45",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "Rogers invades a castle in the Nazi occupied Danish Straits. The castle is controlled by Nazi special weapons unit HYDRA. Here Cap fights a Nazi wearing an arc reactor powered battle suit, as well as an arc powered tank. Schmidt attempts to destroy them by using a mystical Viking runestone, but Rogers slows the relic from exploding to allow time for the Commandos to escape.",
+    "textContent": "Rogers invades a castle in the Nazi occupied Danish Straits. The castle is controlled by Nazi special weapons unit HYDRA. Here Cap fights a Nazi wearing an arc reactor powered battle suit, as well as an arc powered tank. Schmidt attempts to destroy them by using a mystical Viking runestone, but Rogers slows the relic from exploding to allow time for the Commandos to escape. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -2854,13 +2854,13 @@
   },
   {
     "hash": "8c12ab54-4cbb-51bf-9af2-4a84e14ab88f",
-    "timeDescription": "1944",
+    "timeDescription": "1944-45",
     "timeDescriptionParts": {
-      "primary": "1944",
+      "primary": "1944-45",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "Rogers boards and captures the HYDRA submarine Leviathan.",
+    "textContent": "Rogers boards and captures the HYDRA submarine Leviathan. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -2875,13 +2875,13 @@
   },
   {
     "hash": "387b6470-f44b-5c59-b96c-e941a28b104d",
-    "timeDescription": "1945",
+    "timeDescription": "1944-45",
     "timeDescriptionParts": {
-      "primary": "1945",
+      "primary": "1944-45",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "After falling off a moving train while attempting to capture Arnim Zola, James Barnes is presumed dead.",
+    "textContent": "After falling off a moving train while attempting to capture Arnim Zola, James Barnes is presumed dead. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -2906,13 +2906,13 @@
   },
   {
     "hash": "90ee396d-a18e-5181-84a1-ab8317125d37",
-    "timeDescription": "1945",
+    "timeDescription": "1944-45",
     "timeDescriptionParts": {
-      "primary": "1945",
+      "primary": "1944-45",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "Barnes is later recovered by HYDRA for the \"Winter Soldier\" program.",
+    "textContent": "Barnes is later recovered by HYDRA for the \"Winter Soldier\" program. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -2927,11 +2927,47 @@
   },
   {
     "hash": "f984564d-094f-561f-8e5d-a7d56a47235c",
-    "timeDescription": "1945",
+    "timeDescription": "1945 A.D. March",
     "timeDescriptionParts": {
-      "primary": "1945",
+      "primary": "1945 A.D.",
       "secondary": "",
-      "tertiary": ""
+      "tertiary": "March"
+    },
+    "textContent": "Captain America and US forces raid a HYDRA base. The Red Skull is disintegrated when he touches the Tesseract. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/HYDRA",
+        "text": "HYDRA",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Johann_Schmidt",
+        "text": "Red Skull",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Tesseract",
+        "text": "Tesseract",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Captain_America:_The_First_Avenger",
+        "text": "Captain America: The First Avenger",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 3,
+    "primeReferenceTitle": "Captain America: The First Avenger"
+  },
+  {
+    "hash": "f984564d-094f-561f-8e5d-a7d56a47235c",
+    "timeDescription": "1945 A.D. March",
+    "timeDescriptionParts": {
+      "primary": "1945 A.D.",
+      "secondary": "",
+      "tertiary": "March"
     },
     "textContent": "Captain America and US forces raid a HYDRA base. The Red Skull is disintegrated when he touches the Tesseract. ",
     "timeline": "Marvel Cinematic Universe",
@@ -2963,13 +2999,13 @@
   },
   {
     "hash": "312c1aa8-f443-5561-ba8c-6f8604ed612e",
-    "timeDescription": "1945",
+    "timeDescription": "1945 A.D. March",
     "timeDescriptionParts": {
-      "primary": "1945",
+      "primary": "1945 A.D.",
       "secondary": "",
-      "tertiary": ""
+      "tertiary": "March"
     },
-    "textContent": "The Tesseract falls into the ocean. Captain America crashes The Valkyrie into the arctic, where he is frozen in suspended animation. He is presumed dead.",
+    "textContent": "The Tesseract falls into the ocean. Captain America crashes The Valkyrie into the arctic, where he is frozen in suspended animation. He is presumed dead. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -2993,14 +3029,66 @@
     "primeReferenceTitle": "Captain America: The First Avenger"
   },
   {
-    "hash": "ec66a025-007f-5436-81fa-ea8cd829e5e8",
-    "timeDescription": "1945",
+    "hash": "9ee123ce-fa87-5d6e-9361-1bd5781f1ef1",
+    "timeDescription": "1945 A.D. August",
     "timeDescriptionParts": {
-      "primary": "1945",
+      "primary": "1945 A.D.",
+      "secondary": "",
+      "tertiary": "August"
+    },
+    "textContent": "Following the massive destruction of the Atomic Bomb, Phastos is horrified for his role in advancing mankind's capacity for destruction through the technology he help advance. Phastos turn his back on humanity and the Eternals.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Phastos",
+        "text": "Phastos",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Eternals_(film)",
+        "text": "Eternals",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 1,
+    "primeReferenceTitle": "Eternals"
+  },
+  {
+    "hash": "9ee123ce-fa87-5d6e-9361-1bd5781f1ef1",
+    "timeDescription": "1945 A.D. August",
+    "timeDescriptionParts": {
+      "primary": "1945 A.D.",
+      "secondary": "",
+      "tertiary": "August"
+    },
+    "textContent": "Following the massive destruction of the Atomic Bomb, Phastos is horrified for his role in advancing mankind's capacity for destruction through the technology he help advance. Phastos turn his back on humanity and the Eternals.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Phastos",
+        "text": "Phastos",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Eternals_(film)",
+        "text": "Eternals",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 1,
+    "primeReferenceTitle": "Eternals"
+  },
+  {
+    "hash": "ec66a025-007f-5436-81fa-ea8cd829e5e8",
+    "timeDescription": "1945-46",
+    "timeDescriptionParts": {
+      "primary": "1945-46",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "Howard Stark recovers the Tesseract, while searching for Steve.",
+    "textContent": "Howard Stark recovers the Tesseract while searching for Steve. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -3022,32 +3110,6 @@
     ],
     "primeReferenceIndex": 2,
     "primeReferenceTitle": "Captain America: The First Avenger"
-  },
-  {
-    "hash": "9ee123ce-fa87-5d6e-9361-1bd5781f1ef1",
-    "timeDescription": "1945 August",
-    "timeDescriptionParts": {
-      "primary": "1945",
-      "secondary": "August",
-      "tertiary": ""
-    },
-    "textContent": "Following the massive destruction of the Atomic Bomb, Phastos is horrified for his role in advancing mankind's capacity for destruction through the technology he help advance. Phastos turn his back on humanity and the Eternals.",
-    "timeline": "Marvel Cinematic Universe",
-    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
-    "referenceLinks": [
-      {
-        "href": "/wiki/Phastos",
-        "text": "Phastos",
-        "referenceType": "unknown"
-      },
-      {
-        "href": "/wiki/Eternals_(film)",
-        "text": "Eternals",
-        "referenceType": "unknown"
-      }
-    ],
-    "primeReferenceIndex": 1,
-    "primeReferenceTitle": "Eternals"
   },
   {
     "hash": "c6b9a4ce-3d7b-586c-97dc-1365ba31f1ee",
