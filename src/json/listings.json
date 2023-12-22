@@ -216,7 +216,7 @@
 		"original_language": "en",
 		"original_title": "Spider-Man 4",
 		"overview": "The next installment of the MCU Spider-Man franchise: a sequel to \"Spider-Man: No Way Home\" and the first in a possible new trilogy. Plot unknown.",
-		"poster_path": null,
+		"poster_path": "/mpRNje0KM7ronSLEC2qhsOSES83.jpg",
 		"title": "Spider-Man 4",
 		"video": false,
 		"vote_average": 0,
@@ -530,6 +530,29 @@
 			"list-8204860"
 		],
 		"media_type": "movie"
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/dwl7raDGUHMaLlENxtE7h1qSH4h.jpg",
+		"genre_ids": [
+			28,
+			14,
+			878
+		],
+		"id": 634492,
+		"original_language": "en",
+		"original_title": "Madame Web",
+		"overview": "Forced to confront revelations about her past, paramedic Cassandra Webb forges a relationship with three young women destined for powerful futures...if they can all survive a deadly present.",
+		"poster_path": "/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg",
+		"release_date": "2024-02-14",
+		"title": "Madame Web",
+		"video": false,
+		"vote_average": 0,
+		"slug": "madame-web",
+		"tags": [
+			"movie",
+			"company-7505"
+		]
 	},
 	{
 		"adult": false,
@@ -1689,7 +1712,7 @@
 		],
 		"release_date": "2020-04-02",
 		"video": false,
-		"vote_average": 6.1,
+		"vote_average": 6.137,
 		"slug": "the-new-mutants",
 		"tags": [
 			"list-8204860"
@@ -1942,7 +1965,7 @@
 		],
 		"release_date": "2018-12-11",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7.145,
 		"slug": "once-upon-a-deadpool",
 		"tags": [
 			"list-8204860"
@@ -1966,7 +1989,7 @@
 		],
 		"release_date": "2018-12-06",
 		"video": false,
-		"vote_average": 8.405,
+		"vote_average": 8.4,
 		"slug": "spider-man-into-the-spider-verse",
 		"tags": [
 			"list-8204859"
@@ -2404,7 +2427,7 @@
 	},
 	{
 		"backdrop_path": "/jLuoxdI4S6JxOdlQYg57JLwDuEK.jpg",
-		"first_air_date": "2017-03-14",
+		"first_air_date": "2017-03-10",
 		"genre_ids": [
 			10762,
 			16,
@@ -2660,7 +2683,7 @@
 		],
 		"release_date": "2016-05-18",
 		"video": false,
-		"vote_average": 6.513,
+		"vote_average": 6.514,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"list-8204860"
@@ -4062,7 +4085,7 @@
 		"original_language": "en",
 		"original_title": "Hulk vs. Thor",
 		"overview": "For ages, Odin has protected his kingdom of Asgard. But every winter, the All-Father must rest and regain his strength for one week. During this time, all of Asgard's foes (including trolls, giants, dark elves, and demons) try to claim the realm for their own, but they are always stopped by Odin's son, the mighty Thor, albeit with the loss of many brave Asgardian warriors. Loki, god of mischief, has kidnapped Dr. Bruce Banner and brought him to Asgard with the help of Amora, once Thor's lover, now the supervillain known as the Enchantress. Loki makes Banner angry and he changes into the Hulk. The Enchantress then casts a spell over the Hulk which separates Banner from his monstrous alter-ego and grants Loki control over the Hulk's body.",
-		"poster_path": "/pezTIa0SmmNIhjQWzo63OlBdpLf.jpg",
+		"poster_path": "/4NS7L9xtGEOsZA0gnqdQBI7QiXu.jpg",
 		"release_date": "2009-01-27",
 		"title": "Hulk vs. Thor",
 		"video": false,
