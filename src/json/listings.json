@@ -216,7 +216,7 @@
 		"original_language": "en",
 		"original_title": "Spider-Man 4",
 		"overview": "The next installment of the MCU Spider-Man franchise: a sequel to \"Spider-Man: No Way Home\" and the first in a possible new trilogy. Plot unknown.",
-		"poster_path": "/mpRNje0KM7ronSLEC2qhsOSES83.jpg",
+		"poster_path": null,
 		"title": "Spider-Man 4",
 		"video": false,
 		"vote_average": 0,
@@ -1846,7 +1846,7 @@
 		],
 		"release_date": "2019-06-05",
 		"video": false,
-		"vote_average": 6,
+		"vote_average": 5.991,
 		"slug": "dark-phoenix",
 		"tags": [
 			"list-8204860"
@@ -1989,7 +1989,7 @@
 		],
 		"release_date": "2018-12-06",
 		"video": false,
-		"vote_average": 8.4,
+		"vote_average": 8.405,
 		"slug": "spider-man-into-the-spider-verse",
 		"tags": [
 			"list-8204859"
@@ -2105,7 +2105,7 @@
 		],
 		"release_date": "2018-05-10",
 		"video": false,
-		"vote_average": 7.491,
+		"vote_average": 7.49,
 		"slug": "deadpool-2",
 		"tags": [
 			"list-8204860"
@@ -2683,7 +2683,7 @@
 		],
 		"release_date": "2016-05-18",
 		"video": false,
-		"vote_average": 6.514,
+		"vote_average": 6.513,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"list-8204860"
@@ -3454,7 +3454,7 @@
 			10765
 		],
 		"first_air_date": "2013-05-26",
-		"vote_average": 7.619,
+		"vote_average": 7.6,
 		"origin_country": [
 			"US"
 		],
@@ -4763,27 +4763,6 @@
 		]
 	},
 	{
-		"adult": false,
-		"backdrop_path": "/chn9jBtOC65JlOd4IObtNjwX3UK.jpg",
-		"genre_ids": [
-			99
-		],
-		"id": 447399,
-		"original_language": "en",
-		"original_title": "X-Men: The Mutant Watch",
-		"overview": "While Senator Kelly addresses a senate committee about the supposed mutant menace, we learn about the making of the movie, X-Men.",
-		"poster_path": "/4FwbuT0NJwcHGRqRc3kpTjgj0jS.jpg",
-		"release_date": "2001-08-11",
-		"title": "X-Men: The Mutant Watch",
-		"video": false,
-		"vote_average": 7,
-		"slug": "x-men-the-mutant-watch",
-		"tags": [
-			"movie",
-			"company-7505"
-		]
-	},
-	{
 		"backdrop_path": "/ypjekzMRMvdrx4PRA7v1DNyCmTR.jpg",
 		"first_air_date": "2000-11-04",
 		"genre_ids": [
@@ -5165,7 +5144,10 @@
 		"backdrop_path": "/tFmrdnfXM0p6ihMTFpptYOKEfSl.jpg",
 		"genre_ids": [
 			28,
-			53
+			53,
+			80,
+			18,
+			10749
 		],
 		"id": 8867,
 		"original_language": "en",
