@@ -508,6 +508,29 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": "/wSlRrIQlPdbouk3z1WopwqV5dvh.jpg",
+		"genre_ids": [
+			28,
+			12,
+			878
+		],
+		"id": 539972,
+		"original_language": "en",
+		"original_title": "Kraven the Hunter",
+		"overview": "Sergei Kravinoff is a big game hunter, who takes a magical serum giving him superhuman abilities and a longer life.",
+		"poster_path": "/1GvBhRxY6MELDfxFrete6BNhBB5.jpg",
+		"release_date": "2024-08-28",
+		"title": "Kraven the Hunter",
+		"video": false,
+		"vote_average": 0,
+		"slug": "kraven-the-hunter",
+		"tags": [
+			"movie",
+			"company-7505"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/c8vGaFuWkYetS1GY02CfSg88oaI.jpg",
 		"genre_ids": [
 			28,
@@ -614,7 +637,7 @@
 		"release_date": "2023-11-22",
 		"title": "Marvel Studios Assembled: The Making of Loki Season 2",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7,
 		"slug": "marvel-studios-assembled-the-making-of-loki-season-2",
 		"tags": [
 			"movie",
@@ -3867,7 +3890,7 @@
 		"original_name": "The Avengers: Earth's Mightiest Heroes",
 		"overview": "When the powers of a single hero are not enough to save the world, the world’s greatest heroes—Iron Man, Thor, Captain America, The Hulk, Ant-Man/Giant Man and Wasp—assemble to form the Avengers.",
 		"poster_path": "/8MwwAuDy6dc1GbiBUZdvWtQczqR.jpg",
-		"vote_average": 8.2,
+		"vote_average": 8.182,
 		"title": "The Avengers: Earth's Mightiest Heroes",
 		"slug": "the-avengers-earths-mightiest-heroes",
 		"tags": [
@@ -5230,7 +5253,7 @@
 		"release_date": "1986-08-01",
 		"title": "Howard the Duck",
 		"video": false,
-		"vote_average": 5.4,
+		"vote_average": 5.401,
 		"slug": "howard-the-duck",
 		"tags": [
 			"movie",
@@ -5426,7 +5449,7 @@
 		],
 		"release_date": "1978-09-06",
 		"video": false,
-		"vote_average": 6,
+		"vote_average": 5.939,
 		"slug": "dr-strange",
 		"tags": [
 			"list-8204862"

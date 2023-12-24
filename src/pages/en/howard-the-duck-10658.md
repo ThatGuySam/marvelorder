@@ -32,7 +32,7 @@ watchLinks:
     "release_date": "1986-08-01",
     "title": "Howard the Duck",
     "video": false,
-    "vote_average": 5.4,
+    "vote_average": 5.401,
     "slug": "howard-the-duck",
     "tags": [
         "movie",
