@@ -19,27 +19,25 @@ watchLinks:
 {
     "adult": false,
     "backdrop_path": "/t3wX0hMH0esnx4SZEbugYCnCoMl.jpg",
+    "id": 10658,
+    "title": "Howard the Duck",
+    "original_language": "en",
+    "original_title": "Howard the Duck",
+    "overview": "A scientific experiment unknowingly brings extraterrestrial life forms to the Earth through a laser beam. First is the cigar smoking drake Howard from the duck's planet. A few kids try to keep him from the greedy scientists and help him back to his planet. But then a much less friendly being arrives through the beam...",
+    "poster_path": "/eU0dWo8PJgsSAZFbcyHiUpuLSyW.jpg",
+    "media_type": "movie",
     "genre_ids": [
         35,
         14,
         878
     ],
-    "id": 10658,
-    "original_language": "en",
-    "original_title": "Howard the Duck",
-    "overview": "A scientific experiment unknowingly brings extraterrestrial life forms to the Earth through a laser beam. First is the cigar smoking drake Howard from the duck's planet. A few kids try to keep him from the greedy scientists and help him back to his planet. But then a much less friendly being arrives through the beam...",
-    "poster_path": "/eU0dWo8PJgsSAZFbcyHiUpuLSyW.jpg",
     "release_date": "1986-08-01",
-    "title": "Howard the Duck",
     "video": false,
-    "vote_average": 5.401,
+    "vote_average": 5.4,
     "slug": "howard-the-duck",
     "tags": [
-        "movie",
-        "company-7505",
         "list-8204859"
-    ],
-    "media_type": "movie"
+    ]
 }
 
 ```
