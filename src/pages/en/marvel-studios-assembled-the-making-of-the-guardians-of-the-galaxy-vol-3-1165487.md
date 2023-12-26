@@ -35,7 +35,7 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/10s2Czm8wQlY8a8h4XJoBFw7T1f.jpg",
+    "backdrop_path": "/7SgsIAwZRx2CW5uAgIQDwrw3KpA.jpg",
     "genre_ids": [
         99
     ],

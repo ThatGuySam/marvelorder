@@ -628,45 +628,20 @@
 		"backdrop_path": null,
 		"genre_ids": [
 			28,
-			16,
 			35,
-			10751
-		],
-		"id": 1222100,
-		"original_language": "en",
-		"original_title": "What If... Happy Hogan Saved Christmas?",
-		"overview": "Happy Hogan sets out to prove his hero chops when Justin Hammer lays siege to Avengers Tower during the annual holiday party.",
-		"poster_path": "/lbGNgelIbOZWMYBahOTpQcIxx9p.jpg",
-		"release_date": "2023-12-24",
-		"title": "What If... Happy Hogan Saved Christmas?",
-		"video": false,
-		"vote_average": 0,
-		"slug": "what-if-happy-hogan-saved-christmas",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
 			16,
-			28,
-			14,
-			878,
-			35
+			878
 		],
-		"id": 1222093,
+		"id": 1222390,
 		"original_language": "en",
-		"original_title": "What If... Peter Quill Attacked Earth's Mightiest Heroes?",
-		"overview": "When Ego and a young Peter Quill attack Earth in 1988, Howard Stark and Peggy Carter form a team to stop them.",
-		"poster_path": "/fyBvG19S67jxRf9wXjLeoohVq0u.jpg",
-		"release_date": "2023-12-23",
-		"title": "What If... Peter Quill Attacked Earth's Mightiest Heroes?",
+		"original_title": "What If... Iron Man Crashed Into the Grandmaster?",
+		"overview": "Tony Stark challenges The Grandmaster, leading to a grand prix-turned-demolition-derby death match.",
+		"poster_path": "/gpdlDFtp16nU8CIDzDPFfnwBdcZ.jpg",
+		"release_date": "2023-12-25",
+		"title": "What If... Iron Man Crashed Into the Grandmaster?",
 		"video": false,
 		"vote_average": 0,
-		"slug": "what-if-peter-quill-attacked-earths-mightiest-heroes",
+		"slug": "what-if-iron-man-crashed-into-the-grandmaster",
 		"tags": [
 			"movie",
 			"company-420"
@@ -674,7 +649,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/6woewtQB41uPrfAiddBt523uSjB.jpg",
+		"backdrop_path": "/q8OCAKDfdgm4oQAITaEG7czomyI.jpg",
 		"genre_ids": [
 			99
 		],
@@ -739,7 +714,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/10s2Czm8wQlY8a8h4XJoBFw7T1f.jpg",
+		"backdrop_path": "/7SgsIAwZRx2CW5uAgIQDwrw3KpA.jpg",
 		"genre_ids": [
 			99
 		],
@@ -2177,7 +2152,7 @@
 		],
 		"release_date": "2018-05-10",
 		"video": false,
-		"vote_average": 7.49,
+		"vote_average": 7.491,
 		"slug": "deadpool-2",
 		"tags": [
 			"list-8204860"
@@ -2564,7 +2539,7 @@
 		],
 		"release_date": "2017-02-28",
 		"video": false,
-		"vote_average": 7.8,
+		"vote_average": 7.818,
 		"slug": "logan",
 		"tags": [
 			"list-8204860"
@@ -4884,7 +4859,7 @@
 		],
 		"release_date": "2000-07-13",
 		"video": false,
-		"vote_average": 6.998,
+		"vote_average": 7,
 		"slug": "x-men",
 		"tags": [
 			"list-8204860"
