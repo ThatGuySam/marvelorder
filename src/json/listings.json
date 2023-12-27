@@ -508,29 +508,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/wSlRrIQlPdbouk3z1WopwqV5dvh.jpg",
-		"genre_ids": [
-			28,
-			12,
-			878
-		],
-		"id": 539972,
-		"original_language": "en",
-		"original_title": "Kraven the Hunter",
-		"overview": "Sergei Kravinoff is a big game hunter, who takes a magical serum giving him superhuman abilities and a longer life.",
-		"poster_path": "/1GvBhRxY6MELDfxFrete6BNhBB5.jpg",
-		"release_date": "2024-08-28",
-		"title": "Kraven the Hunter",
-		"video": false,
-		"vote_average": 0,
-		"slug": "kraven-the-hunter",
-		"tags": [
-			"movie",
-			"company-7505"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": "/c8vGaFuWkYetS1GY02CfSg88oaI.jpg",
 		"genre_ids": [
 			28,
@@ -620,30 +597,6 @@
 		"slug": "echo",
 		"tags": [
 			"tv",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
-			28,
-			35,
-			16,
-			878
-		],
-		"id": 1222390,
-		"original_language": "en",
-		"original_title": "What If... Iron Man Crashed Into the Grandmaster?",
-		"overview": "Tony Stark challenges The Grandmaster, leading to a grand prix-turned-demolition-derby death match.",
-		"poster_path": "/gpdlDFtp16nU8CIDzDPFfnwBdcZ.jpg",
-		"release_date": "2023-12-25",
-		"title": "What If... Iron Man Crashed Into the Grandmaster?",
-		"video": false,
-		"vote_average": 0,
-		"slug": "what-if-iron-man-crashed-into-the-grandmaster",
-		"tags": [
-			"movie",
 			"company-420"
 		]
 	},
@@ -2012,7 +1965,7 @@
 		],
 		"release_date": "2018-12-11",
 		"video": false,
-		"vote_average": 7.145,
+		"vote_average": 7.143,
 		"slug": "once-upon-a-deadpool",
 		"tags": [
 			"list-8204860"
@@ -2152,7 +2105,7 @@
 		],
 		"release_date": "2018-05-10",
 		"video": false,
-		"vote_average": 7.491,
+		"vote_average": 7.49,
 		"slug": "deadpool-2",
 		"tags": [
 			"list-8204860"
@@ -2730,7 +2683,7 @@
 		],
 		"release_date": "2016-05-18",
 		"video": false,
-		"vote_average": 6.514,
+		"vote_average": 6.513,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"list-8204860"
@@ -4034,7 +3987,7 @@
 		],
 		"release_date": "2009-04-28",
 		"video": false,
-		"vote_average": 6.256,
+		"vote_average": 6.3,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"list-8204860"
@@ -4521,7 +4474,7 @@
 		"release_date": "2006-05-24",
 		"title": "X-Men: The Last Stand",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.407,
 		"slug": "x-men-the-last-stand",
 		"tags": [
 			"movie",
@@ -4733,7 +4686,7 @@
 		"release_date": "2003-04-27",
 		"title": "X2",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 7.029,
 		"slug": "x2",
 		"tags": [
 			"movie",
@@ -4859,7 +4812,7 @@
 		],
 		"release_date": "2000-07-13",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 6.998,
 		"slug": "x-men",
 		"tags": [
 			"list-8204860"
