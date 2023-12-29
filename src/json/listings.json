@@ -533,29 +533,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/dwl7raDGUHMaLlENxtE7h1qSH4h.jpg",
-		"genre_ids": [
-			28,
-			14,
-			878
-		],
-		"id": 634492,
-		"original_language": "en",
-		"original_title": "Madame Web",
-		"overview": "Forced to confront revelations about her past, paramedic Cassandra Webb forges a relationship with three young women destined for powerful futures...if they can all survive a deadly present.",
-		"poster_path": "/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg",
-		"release_date": "2024-02-14",
-		"title": "Madame Web",
-		"video": false,
-		"vote_average": 0,
-		"slug": "madame-web",
-		"tags": [
-			"movie",
-			"company-7505"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": null,
 		"genre_ids": [
 			99
@@ -597,6 +574,78 @@
 		"slug": "echo",
 		"tags": [
 			"tv",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			16,
+			14,
+			28,
+			12
+		],
+		"id": 1223617,
+		"original_language": "en",
+		"original_title": "What If... Hela Found the Ten Rings?",
+		"overview": "Hela - stripped of her powers and banished to Earth - comes across a new source of power: the Ten Rings.",
+		"poster_path": "/26YHUy8FovYNO8xY2DJLqCDjFK2.jpg",
+		"release_date": "2023-12-28",
+		"title": "What If... Hela Found the Ten Rings?",
+		"video": false,
+		"vote_average": 0,
+		"slug": "what-if-hela-found-the-ten-rings",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			16,
+			18,
+			878,
+			28
+		],
+		"id": 1223472,
+		"original_language": "en",
+		"original_title": "What If... Kahhori Reshaped the World?",
+		"overview": "A Mohawk woman ventures into the waters of the Forbidden Lake to help save her people.",
+		"poster_path": "/4aNTV86kavKaTh0aDnNwOABAiAE.jpg",
+		"release_date": "2023-12-27",
+		"title": "What If... Kahhori Reshaped the World?",
+		"video": false,
+		"vote_average": 0,
+		"slug": "what-if-kahhori-reshaped-the-world",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			16,
+			28,
+			878,
+			53
+		],
+		"id": 1223442,
+		"original_language": "en",
+		"original_title": "What If... Captain Carter Fought the Hydra Stomper?",
+		"overview": "Captain Carter's mission to save Steve Rogers sets her on a collision course with new enemies.",
+		"poster_path": "/d7vKgwO5s4e9jfpkwrUf8WrKqJg.jpg",
+		"release_date": "2023-12-26",
+		"title": "What If... Captain Carter Fought the Hydra Stomper?",
+		"video": false,
+		"vote_average": 0,
+		"slug": "what-if-captain-carter-fought-the-hydra-stomper",
+		"tags": [
+			"movie",
 			"company-420"
 		]
 	},
@@ -1712,7 +1761,7 @@
 		],
 		"release_date": "2020-04-02",
 		"video": false,
-		"vote_average": 6.136,
+		"vote_average": 6.137,
 		"slug": "the-new-mutants",
 		"tags": [
 			"list-8204860"
@@ -1846,7 +1895,7 @@
 		],
 		"release_date": "2019-06-05",
 		"video": false,
-		"vote_average": 5.991,
+		"vote_average": 5.99,
 		"slug": "dark-phoenix",
 		"tags": [
 			"list-8204860"
@@ -3987,7 +4036,7 @@
 		],
 		"release_date": "2009-04-28",
 		"video": false,
-		"vote_average": 6.256,
+		"vote_average": 6.255,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"list-8204860"
@@ -5235,7 +5284,7 @@
 		],
 		"release_date": "1986-08-01",
 		"video": false,
-		"vote_average": 5.4,
+		"vote_average": 5.403,
 		"slug": "howard-the-duck",
 		"tags": [
 			"list-8204859"
@@ -5281,7 +5330,7 @@
 			14,
 			10770
 		],
-		"release_date": "1981-06-25",
+		"release_date": "1981-05-09",
 		"video": false,
 		"vote_average": 5,
 		"slug": "spider-man-the-dragons-challenge",
