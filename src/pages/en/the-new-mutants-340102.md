@@ -33,7 +33,7 @@ watchLinks:
     ],
     "release_date": "2020-04-02",
     "video": false,
-    "vote_average": 6.137,
+    "vote_average": 6.135,
     "slug": "the-new-mutants",
     "tags": [
         "list-8204860"

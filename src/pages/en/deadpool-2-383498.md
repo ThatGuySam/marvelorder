@@ -29,7 +29,7 @@ watchLinks:
     ],
     "release_date": "2018-05-10",
     "video": false,
-    "vote_average": 7.49,
+    "vote_average": 7.489,
     "slug": "deadpool-2",
     "tags": [
         "list-8204860"

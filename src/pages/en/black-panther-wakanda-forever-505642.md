@@ -6,7 +6,7 @@ layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/tmdb-image/6N6Rr1Y5wsi2KbTP4hFAP3hnWQE.webp
 overview: The sequel to Black Panther (2018).
-mcuTimelineOrder: 575
+mcuTimelineOrder: 576
 ---
 ## TMDB Data
 ```json
