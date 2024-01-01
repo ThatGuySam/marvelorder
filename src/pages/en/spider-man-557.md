@@ -20,8 +20,8 @@ mcuTimelineOrder: 521
     "adult": false,
     "backdrop_path": "/no2cllXSRA56LPipQnuPlg3RuTL.jpg",
     "genre_ids": [
-        14,
-        28
+        28,
+        878
     ],
     "id": 557,
     "original_language": "en",
