@@ -31,7 +31,7 @@ watchLinks:
     ],
     "release_date": "2018-12-11",
     "video": false,
-    "vote_average": 7.132,
+    "vote_average": 7.128,
     "slug": "once-upon-a-deadpool",
     "tags": [
         "list-8204860"

@@ -140,30 +140,6 @@
 		]
 	},
 	{
-		"backdrop_path": null,
-		"first_air_date": "",
-		"genre_ids": [
-			18,
-			10765
-		],
-		"id": 242236,
-		"name": "Loki",
-		"origin_country": [
-			"US"
-		],
-		"original_language": "en",
-		"original_name": "Loki",
-		"overview": "",
-		"poster_path": "/qth2ElEKu4ZAgmrFhlZL7oahpOZ.jpg",
-		"vote_average": 0,
-		"title": "Loki",
-		"slug": "loki",
-		"tags": [
-			"tv",
-			"company-420"
-		]
-	},
-	{
 		"adult": false,
 		"backdrop_path": null,
 		"genre_ids": [
@@ -661,7 +637,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.4,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -1736,7 +1712,7 @@
 		],
 		"release_date": "2020-04-02",
 		"video": false,
-		"vote_average": 6.135,
+		"vote_average": 6.134,
 		"slug": "the-new-mutants",
 		"tags": [
 			"list-8204860"
@@ -1870,7 +1846,7 @@
 		],
 		"release_date": "2019-06-05",
 		"video": false,
-		"vote_average": 5.99,
+		"vote_average": 5.989,
 		"slug": "dark-phoenix",
 		"tags": [
 			"list-8204860"
@@ -1989,7 +1965,7 @@
 		],
 		"release_date": "2018-12-11",
 		"video": false,
-		"vote_average": 7.132,
+		"vote_average": 7.128,
 		"slug": "once-upon-a-deadpool",
 		"tags": [
 			"list-8204860"
@@ -2013,7 +1989,7 @@
 		],
 		"release_date": "2018-12-06",
 		"video": false,
-		"vote_average": 8.404,
+		"vote_average": 8.4,
 		"slug": "spider-man-into-the-spider-verse",
 		"tags": [
 			"list-8204859"
@@ -2707,7 +2683,7 @@
 		],
 		"release_date": "2016-05-18",
 		"video": false,
-		"vote_average": 6.513,
+		"vote_average": 6.512,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"list-8204860"
@@ -3891,7 +3867,7 @@
 		"original_name": "The Avengers: Earth's Mightiest Heroes",
 		"overview": "When the powers of a single hero are not enough to save the world, the world’s greatest heroes—Iron Man, Thor, Captain America, The Hulk, Ant-Man/Giant Man and Wasp—assemble to form the Avengers.",
 		"poster_path": "/8MwwAuDy6dc1GbiBUZdvWtQczqR.jpg",
-		"vote_average": 8.185,
+		"vote_average": 8.175,
 		"title": "The Avengers: Earth's Mightiest Heroes",
 		"slug": "the-avengers-earths-mightiest-heroes",
 		"tags": [
@@ -4498,7 +4474,7 @@
 		"release_date": "2006-05-24",
 		"title": "X-Men: The Last Stand",
 		"video": false,
-		"vote_average": 6.406,
+		"vote_average": 6.407,
 		"slug": "x-men-the-last-stand",
 		"tags": [
 			"movie",
@@ -4836,7 +4812,7 @@
 		],
 		"release_date": "2000-07-13",
 		"video": false,
-		"vote_average": 6.998,
+		"vote_average": 6.997,
 		"slug": "x-men",
 		"tags": [
 			"list-8204860"
@@ -5008,7 +4984,7 @@
 			10759
 		],
 		"first_air_date": "1994-11-19",
-		"vote_average": 8.287,
+		"vote_average": 8.286,
 		"origin_country": [
 			"US"
 		],
@@ -5059,7 +5035,7 @@
 			10765
 		],
 		"first_air_date": "1994-09-24",
-		"vote_average": 6.655,
+		"vote_average": 6.659,
 		"origin_country": [
 			"US"
 		],
@@ -5161,7 +5137,7 @@
 		],
 		"release_date": "1990-02-18",
 		"video": false,
-		"vote_average": 5.007,
+		"vote_average": 5.021,
 		"slug": "the-death-of-the-incredible-hulk",
 		"tags": [
 			"list-8204862"
@@ -5259,7 +5235,7 @@
 		],
 		"release_date": "1986-08-01",
 		"video": false,
-		"vote_average": 5.402,
+		"vote_average": 5.404,
 		"slug": "howard-the-duck",
 		"tags": [
 			"list-8204859"
@@ -5521,7 +5497,7 @@
 			10759
 		],
 		"first_air_date": "1978-04-05",
-		"vote_average": 6,
+		"vote_average": 6.024,
 		"origin_country": [
 			"US"
 		],
