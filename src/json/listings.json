@@ -637,7 +637,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.5,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -1965,7 +1965,7 @@
 		],
 		"release_date": "2018-12-11",
 		"video": false,
-		"vote_average": 7.128,
+		"vote_average": 7.13,
 		"slug": "once-upon-a-deadpool",
 		"tags": [
 			"list-8204860"
@@ -1989,7 +1989,7 @@
 		],
 		"release_date": "2018-12-06",
 		"video": false,
-		"vote_average": 8.4,
+		"vote_average": 8.404,
 		"slug": "spider-man-into-the-spider-verse",
 		"tags": [
 			"list-8204859"
@@ -2492,7 +2492,7 @@
 		],
 		"release_date": "2017-02-28",
 		"video": false,
-		"vote_average": 7.818,
+		"vote_average": 7.817,
 		"slug": "logan",
 		"tags": [
 			"list-8204860"
@@ -2683,7 +2683,7 @@
 		],
 		"release_date": "2016-05-18",
 		"video": false,
-		"vote_average": 6.512,
+		"vote_average": 6.513,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"list-8204860"
@@ -2729,7 +2729,7 @@
 		],
 		"release_date": "2016-02-09",
 		"video": false,
-		"vote_average": 7.607,
+		"vote_average": 7.608,
 		"slug": "deadpool",
 		"tags": [
 			"list-8204860"
@@ -4812,7 +4812,7 @@
 		],
 		"release_date": "2000-07-13",
 		"video": false,
-		"vote_average": 6.997,
+		"vote_average": 7,
 		"slug": "x-men",
 		"tags": [
 			"list-8204860"
@@ -5465,14 +5465,14 @@
 		"original_language": "ja",
 		"original_name": "スパイダーマン",
 		"overview": "Follow the exploits of motorcycle racer turned super hero Takuya Yamashiro, as he slings and swings, battling the evil Iron Cross Army along the way. No, it's not the Spiderman most fans are used to, but it's fun, frantic and FREE.",
-		"poster_path": "/38AVLCBEoQKJWMyzt9jkxqeefGb.jpg",
+		"poster_path": "/vlSuwzyt3Hyq5OSFpvJDYnYDN1a.jpg",
 		"media_type": "tv",
 		"genre_ids": [
 			10759,
 			10765
 		],
 		"first_air_date": "1978-05-17",
-		"vote_average": 7.272,
+		"vote_average": 7.3,
 		"origin_country": [
 			"JP"
 		],

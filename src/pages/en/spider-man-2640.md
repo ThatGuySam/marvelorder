@@ -25,14 +25,14 @@ vote_average: 7.1
     "original_language": "ja",
     "original_name": "スパイダーマン",
     "overview": "Follow the exploits of motorcycle racer turned super hero Takuya Yamashiro, as he slings and swings, battling the evil Iron Cross Army along the way. No, it's not the Spiderman most fans are used to, but it's fun, frantic and FREE.",
-    "poster_path": "/38AVLCBEoQKJWMyzt9jkxqeefGb.jpg",
+    "poster_path": "/vlSuwzyt3Hyq5OSFpvJDYnYDN1a.jpg",
     "media_type": "tv",
     "genre_ids": [
         10759,
         10765
     ],
     "first_air_date": "1978-05-17",
-    "vote_average": 7.272,
+    "vote_average": 7.3,
     "origin_country": [
         "JP"
     ],
