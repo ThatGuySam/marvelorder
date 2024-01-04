@@ -533,29 +533,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/dwl7raDGUHMaLlENxtE7h1qSH4h.jpg",
-		"genre_ids": [
-			28,
-			14,
-			878
-		],
-		"id": 634492,
-		"original_language": "en",
-		"original_title": "Madame Web",
-		"overview": "Forced to confront revelations about her past, paramedic Cassandra Webb forges a relationship with three young women destined for powerful futures...if they can all survive a deadly present.",
-		"poster_path": "/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg",
-		"release_date": "2024-02-14",
-		"title": "Madame Web",
-		"video": false,
-		"vote_average": 0,
-		"slug": "madame-web",
-		"tags": [
-			"movie",
-			"company-7505"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": null,
 		"genre_ids": [
 			99
@@ -592,7 +569,7 @@
 		"original_name": "Echo",
 		"overview": "Pursued by Wilson Fisk's criminal empire, Maya's journey brings her home and must confront her own family and legacy.",
 		"poster_path": "/vFyJH630cF68LohVYjQW49074Sy.jpg",
-		"vote_average": 0,
+		"vote_average": 8,
 		"title": "Echo",
 		"slug": "echo",
 		"tags": [
@@ -637,7 +614,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.4,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -1712,7 +1689,7 @@
 		],
 		"release_date": "2020-04-02",
 		"video": false,
-		"vote_average": 6.134,
+		"vote_average": 6.133,
 		"slug": "the-new-mutants",
 		"tags": [
 			"list-8204860"
@@ -1846,7 +1823,7 @@
 		],
 		"release_date": "2019-06-05",
 		"video": false,
-		"vote_average": 5.989,
+		"vote_average": 5.99,
 		"slug": "dark-phoenix",
 		"tags": [
 			"list-8204860"
@@ -1965,7 +1942,7 @@
 		],
 		"release_date": "2018-12-11",
 		"video": false,
-		"vote_average": 7.13,
+		"vote_average": 7.127,
 		"slug": "once-upon-a-deadpool",
 		"tags": [
 			"list-8204860"
@@ -1989,7 +1966,7 @@
 		],
 		"release_date": "2018-12-06",
 		"video": false,
-		"vote_average": 8.404,
+		"vote_average": 8.405,
 		"slug": "spider-man-into-the-spider-verse",
 		"tags": [
 			"list-8204859"
@@ -2683,7 +2660,7 @@
 		],
 		"release_date": "2016-05-18",
 		"video": false,
-		"vote_average": 6.513,
+		"vote_average": 6.512,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"list-8204860"
@@ -2729,7 +2706,7 @@
 		],
 		"release_date": "2016-02-09",
 		"video": false,
-		"vote_average": 7.608,
+		"vote_average": 7.607,
 		"slug": "deadpool",
 		"tags": [
 			"list-8204860"
@@ -3867,7 +3844,7 @@
 		"original_name": "The Avengers: Earth's Mightiest Heroes",
 		"overview": "When the powers of a single hero are not enough to save the world, the world’s greatest heroes—Iron Man, Thor, Captain America, The Hulk, Ant-Man/Giant Man and Wasp—assemble to form the Avengers.",
 		"poster_path": "/8MwwAuDy6dc1GbiBUZdvWtQczqR.jpg",
-		"vote_average": 8.175,
+		"vote_average": 8.2,
 		"title": "The Avengers: Earth's Mightiest Heroes",
 		"slug": "the-avengers-earths-mightiest-heroes",
 		"tags": [
@@ -4686,7 +4663,7 @@
 		"release_date": "2003-04-27",
 		"title": "X2",
 		"video": false,
-		"vote_average": 7.029,
+		"vote_average": 7.03,
 		"slug": "x2",
 		"tags": [
 			"movie",
@@ -4812,7 +4789,7 @@
 		],
 		"release_date": "2000-07-13",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 6.998,
 		"slug": "x-men",
 		"tags": [
 			"list-8204860"
@@ -4835,7 +4812,7 @@
 		"original_name": "The Avengers: United They Stand",
 		"overview": "When the planet is threatened by Super Villains, time traveling conquerors, alien invaders, mythical monsters or mad robots bent on the total destruction of humanity, when the forces of evil are so overwhelming that no single hero has the power to save the world, when there is no hope left…the AVENGERS ASSEMBLE!",
 		"poster_path": "/p2SrnKTQjLRXBCcTZtYkTZCwLpp.jpg",
-		"vote_average": 5.941,
+		"vote_average": 5.9,
 		"title": "The Avengers: United They Stand",
 		"slug": "the-avengers-united-they-stand",
 		"tags": [
@@ -4984,7 +4961,7 @@
 			10759
 		],
 		"first_air_date": "1994-11-19",
-		"vote_average": 8.286,
+		"vote_average": 8.284,
 		"origin_country": [
 			"US"
 		],
@@ -5062,7 +5039,7 @@
 		],
 		"release_date": "1994-05-31",
 		"video": false,
-		"vote_average": 4.407,
+		"vote_average": 4.391,
 		"slug": "the-fantastic-four",
 		"tags": [
 			"list-8204862"
@@ -5220,7 +5197,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/t3wX0hMH0esnx4SZEbugYCnCoMl.jpg",
+		"backdrop_path": "/3KQe8Vzma7ZAYE25mJjgIG4Gj5e.jpg",
 		"id": 10658,
 		"title": "Howard the Duck",
 		"original_language": "en",
@@ -5235,7 +5212,7 @@
 		],
 		"release_date": "1986-08-01",
 		"video": false,
-		"vote_average": 5.404,
+		"vote_average": 5.4,
 		"slug": "howard-the-duck",
 		"tags": [
 			"list-8204859"

@@ -18,7 +18,7 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/t3wX0hMH0esnx4SZEbugYCnCoMl.jpg",
+    "backdrop_path": "/3KQe8Vzma7ZAYE25mJjgIG4Gj5e.jpg",
     "id": 10658,
     "title": "Howard the Duck",
     "original_language": "en",
@@ -33,7 +33,7 @@ watchLinks:
     ],
     "release_date": "1986-08-01",
     "video": false,
-    "vote_average": 5.404,
+    "vote_average": 5.4,
     "slug": "howard-the-duck",
     "tags": [
         "list-8204859"
