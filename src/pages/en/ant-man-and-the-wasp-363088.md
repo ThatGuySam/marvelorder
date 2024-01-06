@@ -12,7 +12,7 @@ logo_on_black: /.netlify/functions/tmdb-image/kbYbZR4FgcLTfI6HT2hiEqoPvr9.webp
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B07F1HTM3K?tag=marvelorder-20&linkCode=osi&th=1&psc=1
-mcuTimelineOrder: 377
+mcuTimelineOrder: 387
 ---
 ## TMDB Data
 ```json

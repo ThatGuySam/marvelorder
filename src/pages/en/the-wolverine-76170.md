@@ -27,7 +27,7 @@ watchLinks:
         878,
         12
     ],
-    "release_date": "2013-07-23",
+    "release_date": "2013-07-21",
     "video": false,
     "vote_average": 6.399,
     "slug": "the-wolverine",

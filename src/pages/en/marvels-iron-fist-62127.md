@@ -9,7 +9,7 @@ type: tv
 logo_on_black: /.netlify/functions/fanart/iron-fist-2017-589781e36a330.webp
 watchLinks:
   amazon: none
-mcuTimelineOrder: 196
+mcuTimelineOrder: 206
 ---
 ## TMDB Data
 ```json

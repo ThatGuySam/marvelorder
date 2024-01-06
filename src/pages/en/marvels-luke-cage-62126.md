@@ -9,7 +9,7 @@ type: tv
 logo_on_black: /.netlify/functions/fanart/marvels-luke-cage-57931ed78bc64.webp
 watchLinks:
   amazon: none
-mcuTimelineOrder: 129
+mcuTimelineOrder: 139
 ---
 ## TMDB Data
 ```json

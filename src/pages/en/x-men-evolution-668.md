@@ -32,7 +32,7 @@ watchLinks:
     "original_name": "X-Men: Evolution",
     "overview": "Teenagers Cyclops, Jean Grey, Rogue, Nightcrawler, Shadowcat, and Spike fight for a world that fears and hates them.",
     "poster_path": "/At5aZIKkN8zHTAXOnQR9D3b7usW.jpg",
-    "vote_average": 8,
+    "vote_average": 7.95,
     "title": "X-Men: Evolution",
     "slug": "x-men-evolution",
     "tags": [
