@@ -541,7 +541,7 @@
 		"original_language": "en",
 		"original_title": "Marvel Studios Assembled: The Making of Echo",
 		"overview": "Go behind-the-scenes of Maya's own groundbreaking series: \"Echo.\" Discover how members of the production's cast and crew learned American Sign Language to create a more inclusive and accessible on-set environment. Witness the filmmakers taking unprecedented steps to portray Native American culture truthfully, and without artifice. Spend time with powerhouse actor Vincent D'Onofrio as he brings the Kingpin to monstrous life once more.",
-		"poster_path": "/7IMAekNjDkidMiyJPclOtIMbu4G.jpg",
+		"poster_path": null,
 		"release_date": "2024-01-31",
 		"title": "Marvel Studios Assembled: The Making of Echo",
 		"video": false,
@@ -574,6 +574,31 @@
 		"slug": "echo",
 		"tags": [
 			"tv",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			28,
+			12,
+			80,
+			53,
+			18
+		],
+		"id": 1228327,
+		"original_language": "en",
+		"original_title": "Echo",
+		"overview": "Maya Lopez's ruthless behavior in New York City catches up with her in her hometown; she must face her past, reconnect with her Native American roots and embrace the meaning of family and community.",
+		"poster_path": "/2nlpccm7tmgNdu3eqFDI8segw5S.jpg",
+		"release_date": "2024-01-09",
+		"title": "Echo",
+		"video": false,
+		"vote_average": 0,
+		"slug": "echo",
+		"tags": [
+			"movie",
 			"company-420"
 		]
 	},
@@ -728,6 +753,30 @@
 		"tags": [
 			"movie",
 			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg",
+		"genre_ids": [
+			16,
+			28,
+			12,
+			878
+		],
+		"id": 569094,
+		"original_language": "en",
+		"original_title": "Spider-Man: Across the Spider-Verse",
+		"overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+		"poster_path": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+		"release_date": "2023-05-31",
+		"title": "Spider-Man: Across the Spider-Verse",
+		"video": false,
+		"vote_average": 8.4,
+		"slug": "spider-man-across-the-spider-verse",
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -1359,29 +1408,6 @@
 		"tags": [
 			"movie",
 			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/vIgyYkXkg6NC2whRbYjBD7eb3Er.jpg",
-		"genre_ids": [
-			878,
-			28,
-			12
-		],
-		"id": 580489,
-		"original_language": "en",
-		"original_title": "Venom: Let There Be Carnage",
-		"overview": "After finding a host body in investigative reporter Eddie Brock, the alien symbiote must face a new enemy, Carnage, the alter ego of serial killer Cletus Kasady.",
-		"poster_path": "/1MJNcPZy46hIy2CmSqOeru0yr5C.jpg",
-		"release_date": "2021-09-30",
-		"title": "Venom: Let There Be Carnage",
-		"video": false,
-		"vote_average": 6.8,
-		"slug": "venom-let-there-be-carnage",
-		"tags": [
-			"movie",
-			"company-7505"
 		]
 	},
 	{
@@ -2082,7 +2108,7 @@
 		],
 		"release_date": "2018-05-10",
 		"video": false,
-		"vote_average": 7.5,
+		"vote_average": 7.489,
 		"slug": "deadpool-2",
 		"tags": [
 			"list-8204860"
@@ -2246,7 +2272,7 @@
 		"original_name": "The Gifted",
 		"overview": "A suburban couple's ordinary lives are rocked by the sudden discovery that their children possess mutant powers. Forced to go on the run from a hostile government, the family joins up with an underground network of mutants and must fight to survive.",
 		"poster_path": "/nshCqszjTNuqhrB53vrSqWO18sE.jpg",
-		"vote_average": 7.678,
+		"vote_average": 7.675,
 		"title": "The Gifted",
 		"slug": "the-gifted",
 		"tags": [
@@ -2660,7 +2686,7 @@
 		],
 		"release_date": "2016-05-18",
 		"video": false,
-		"vote_average": 6.511,
+		"vote_average": 6.5,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"list-8204860"
@@ -3045,7 +3071,7 @@
 		],
 		"release_date": "2014-05-15",
 		"video": false,
-		"vote_average": 7.524,
+		"vote_average": 7.5,
 		"slug": "x-men-days-of-future-past",
 		"tags": [
 			"list-8204860"
@@ -3431,7 +3457,7 @@
 			10765
 		],
 		"first_air_date": "2013-05-26",
-		"vote_average": 7.601,
+		"vote_average": 7.598,
 		"origin_country": [
 			"US"
 		],
@@ -3600,7 +3626,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/gHLs7Fy3DzLmLsD4lmfqL55KGcl.jpg",
+		"backdrop_path": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
 		"genre_ids": [
 			878,
 			28,
@@ -3751,7 +3777,7 @@
 		],
 		"release_date": "2011-06-01",
 		"video": false,
-		"vote_average": 7.295,
+		"vote_average": 7.3,
 		"slug": "x-men-first-class",
 		"tags": [
 			"list-8204860"
@@ -3844,7 +3870,7 @@
 		"original_name": "The Avengers: Earth's Mightiest Heroes",
 		"overview": "When the powers of a single hero are not enough to save the world, the world’s greatest heroes—Iron Man, Thor, Captain America, The Hulk, Ant-Man/Giant Man and Wasp—assemble to form the Avengers.",
 		"poster_path": "/8MwwAuDy6dc1GbiBUZdvWtQczqR.jpg",
-		"vote_average": 8.153,
+		"vote_average": 8.155,
 		"title": "The Avengers: Earth's Mightiest Heroes",
 		"slug": "the-avengers-earths-mightiest-heroes",
 		"tags": [
@@ -4451,7 +4477,7 @@
 		"release_date": "2006-05-24",
 		"title": "X-Men: The Last Stand",
 		"video": false,
-		"vote_average": 6.405,
+		"vote_average": 6.404,
 		"slug": "x-men-the-last-stand",
 		"tags": [
 			"movie",
@@ -4732,7 +4758,7 @@
 			9648
 		],
 		"first_air_date": "2001-10-06",
-		"vote_average": 6.537,
+		"vote_average": 6.532,
 		"origin_country": [
 			"CA",
 			"US"
@@ -4761,7 +4787,7 @@
 		"original_name": "X-Men: Evolution",
 		"overview": "Teenagers Cyclops, Jean Grey, Rogue, Nightcrawler, Shadowcat, and Spike fight for a world that fears and hates them.",
 		"poster_path": "/At5aZIKkN8zHTAXOnQR9D3b7usW.jpg",
-		"vote_average": 7.933,
+		"vote_average": 7.929,
 		"title": "X-Men: Evolution",
 		"slug": "x-men-evolution",
 		"tags": [
@@ -4911,7 +4937,7 @@
 			10759
 		],
 		"first_air_date": "1997-09-20",
-		"vote_average": 6.364,
+		"vote_average": 6.25,
 		"origin_country": [
 			"US"
 		],
@@ -4939,7 +4965,7 @@
 		],
 		"release_date": "1996-12-20",
 		"video": false,
-		"vote_average": 3.949,
+		"vote_average": 3.97,
 		"slug": "generation-x",
 		"tags": [
 			"list-8204860",
@@ -4961,7 +4987,7 @@
 			10759
 		],
 		"first_air_date": "1994-11-19",
-		"vote_average": 8.281,
+		"vote_average": 8.279,
 		"origin_country": [
 			"US"
 		],
@@ -5012,7 +5038,7 @@
 			10765
 		],
 		"first_air_date": "1994-09-24",
-		"vote_average": 6.533,
+		"vote_average": 6.527,
 		"origin_country": [
 			"US"
 		],
@@ -5039,7 +5065,7 @@
 		],
 		"release_date": "1994-05-31",
 		"video": false,
-		"vote_average": 4.391,
+		"vote_average": 4.389,
 		"slug": "the-fantastic-four",
 		"tags": [
 			"list-8204862"
@@ -5165,7 +5191,7 @@
 		],
 		"release_date": "1989-05-07",
 		"video": false,
-		"vote_average": 6.33,
+		"vote_average": 6.317,
 		"slug": "the-trial-of-the-incredible-hulk",
 		"tags": [
 			"list-8204862"
@@ -5189,7 +5215,7 @@
 		],
 		"release_date": "1988-05-22",
 		"video": false,
-		"vote_average": 6.06,
+		"vote_average": 6.051,
 		"slug": "the-incredible-hulk-returns",
 		"tags": [
 			"list-8204862"
@@ -5212,7 +5238,7 @@
 		],
 		"release_date": "1986-08-01",
 		"video": false,
-		"vote_average": 5.403,
+		"vote_average": 5.402,
 		"slug": "howard-the-duck",
 		"tags": [
 			"list-8204859"
@@ -5307,7 +5333,7 @@
 		],
 		"release_date": "1979-11-23",
 		"video": false,
-		"vote_average": 3.7,
+		"vote_average": 3.644,
 		"slug": "captain-america-ii-death-too-soon",
 		"tags": [
 			"list-8204862"
@@ -5354,7 +5380,7 @@
 		],
 		"release_date": "1979-01-19",
 		"video": false,
-		"vote_average": 3.9,
+		"vote_average": 3.863,
 		"slug": "captain-america",
 		"tags": [
 			"list-8204862"
@@ -5428,7 +5454,7 @@
 		],
 		"release_date": "1978-09-06",
 		"video": false,
-		"vote_average": 5.984,
+		"vote_average": 5.973,
 		"slug": "dr-strange",
 		"tags": [
 			"list-8204862"
@@ -5472,7 +5498,7 @@
 			10765
 		],
 		"first_air_date": "1978-05-17",
-		"vote_average": 7.3,
+		"vote_average": 7.261,
 		"origin_country": [
 			"JP"
 		],
@@ -5497,7 +5523,7 @@
 			10759
 		],
 		"first_air_date": "1978-04-05",
-		"vote_average": 5.935,
+		"vote_average": 5.938,
 		"origin_country": [
 			"US"
 		],
@@ -5547,7 +5573,7 @@
 			18
 		],
 		"first_air_date": "1977-11-04",
-		"vote_average": 7.198,
+		"vote_average": 7.195,
 		"origin_country": [
 			"US"
 		],
@@ -5719,7 +5745,7 @@
 		],
 		"release_date": "1944-02-05",
 		"video": false,
-		"vote_average": 5.6,
+		"vote_average": 5.611,
 		"slug": "captain-america",
 		"tags": [
 			"list-8204862"
