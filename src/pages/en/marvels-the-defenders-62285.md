@@ -9,7 +9,7 @@ type: tv
 logo_on_black: /.netlify/functions/fanart/marvels-the-defenders-594bfae9075c1.webp
 watchLinks:
   amazon: none
-mcuTimelineOrder: 242
+mcuTimelineOrder: 219
 ---
 ## TMDB Data
 ```json
