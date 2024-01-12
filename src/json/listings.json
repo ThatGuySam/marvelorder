@@ -553,7 +553,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/gkUFThxglJ1heDhmcRA7UlHbmYG.jpg",
+		"backdrop_path": "/u3ySnWqSjM3jedYgJZTR7RWRDDm.jpg",
 		"first_air_date": "2024-01-09",
 		"genre_ids": [
 			18,
@@ -591,7 +591,7 @@
 		"release_date": "2023-11-22",
 		"title": "Marvel Studios Assembled: The Making of Loki Season 2",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 7.2,
 		"slug": "marvel-studios-assembled-the-making-of-loki-season-2",
 		"tags": [
 			"movie",
@@ -701,7 +701,7 @@
 		"original_name": "Secret Invasion",
 		"overview": "Nick Fury and Talos discover a faction of shapeshifting Skrulls who have been infiltrating Earth for years.",
 		"poster_path": "/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg",
-		"vote_average": 7,
+		"vote_average": 6.9,
 		"title": "Secret Invasion",
 		"slug": "secret-invasion",
 		"tags": [
@@ -1824,7 +1824,7 @@
 		],
 		"release_date": "2019-06-05",
 		"video": false,
-		"vote_average": 5.988,
+		"vote_average": 5.987,
 		"slug": "dark-phoenix",
 		"tags": [
 			"list-8204860"
@@ -1943,7 +1943,7 @@
 		],
 		"release_date": "2018-12-11",
 		"video": false,
-		"vote_average": 7.13,
+		"vote_average": 7.136,
 		"slug": "once-upon-a-deadpool",
 		"tags": [
 			"list-8204860"
@@ -2447,7 +2447,7 @@
 		],
 		"release_date": "2017-03-03",
 		"video": false,
-		"vote_average": 7.15,
+		"vote_average": 7.145,
 		"slug": "deadpool-no-good-deed",
 		"tags": [
 			"list-8204860"
@@ -2661,7 +2661,7 @@
 		],
 		"release_date": "2016-05-18",
 		"video": false,
-		"vote_average": 6.512,
+		"vote_average": 6.511,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"list-8204860"
@@ -3965,7 +3965,7 @@
 		],
 		"release_date": "2009-04-28",
 		"video": false,
-		"vote_average": 6.255,
+		"vote_average": 6.3,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"list-8204860"
@@ -5220,29 +5220,6 @@
 		]
 	},
 	{
-		"backdrop_path": "/hRQfwDzTXpUrIEkPaQXt4mldNsh.jpg",
-		"first_air_date": "1982-09-18",
-		"genre_ids": [
-			16
-		],
-		"id": 11328,
-		"name": "The Incredible Hulk",
-		"origin_country": [
-			"US"
-		],
-		"original_language": "en",
-		"original_name": "The Incredible Hulk",
-		"overview": "The Incredible Hulk is an animated television series based on the Marvel Comics character of the same name. The series ran for 13 episodes on NBC in 1982, part of a combined hour with Spider-Man and His Amazing Friends. Unlike the previous live-action The Incredible Hulk television series from Universal in the 1970s, this series was based upon the Hulk comic-books and was able to portray the more fantastical elements of the comics as sticking to his true name and origin as well as featuring the return of the original characters in his life all of which the live-action series refused to show. It featured stories faithful to the source material from Marvel, In addition, new recurring characters were created for the series including the Hispanic family of father Rio and his youthful daughter Rita.",
-		"poster_path": "/eg1HgM1kF0SJbYsWVmpP2BjvPUU.jpg",
-		"vote_average": 6.1,
-		"title": "The Incredible Hulk",
-		"slug": "the-incredible-hulk",
-		"tags": [
-			"tv",
-			"company-420"
-		]
-	},
-	{
 		"adult": false,
 		"backdrop_path": "/vfmVqMqnsgKZw2Bi0RirBR9FUhZ.jpg",
 		"genre_ids": [
@@ -5548,7 +5525,7 @@
 			18
 		],
 		"first_air_date": "1977-11-04",
-		"vote_average": 7.195,
+		"vote_average": 7.2,
 		"origin_country": [
 			"US"
 		],
