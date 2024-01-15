@@ -27,6 +27,7 @@ vote_average: 0
 tags:
   - movie
   - company-38679
+mcuTimelineOrder: 82
 ---
 ## TMDB Data
 ```json
@@ -47,7 +48,7 @@ tags:
     "release_date": "2015-04-10",
     "title": "Marvel's Daredevil",
     "video": false,
-    "vote_average": 0,
+    "vote_average": 9,
     "slug": "marvels-daredevil",
     "tags": [
         "movie",

@@ -1690,7 +1690,7 @@
 		],
 		"release_date": "2020-04-02",
 		"video": false,
-		"vote_average": 6.129,
+		"vote_average": 6.127,
 		"slug": "the-new-mutants",
 		"tags": [
 			"list-8204860"
@@ -1824,7 +1824,7 @@
 		],
 		"release_date": "2019-06-05",
 		"video": false,
-		"vote_average": 5.988,
+		"vote_average": 6,
 		"slug": "dark-phoenix",
 		"tags": [
 			"list-8204860"
@@ -1967,7 +1967,7 @@
 		],
 		"release_date": "2018-12-06",
 		"video": false,
-		"vote_average": 8.4,
+		"vote_average": 8.404,
 		"slug": "spider-man-into-the-spider-verse",
 		"tags": [
 			"list-8204859"
@@ -2083,7 +2083,7 @@
 		],
 		"release_date": "2018-05-10",
 		"video": false,
-		"vote_average": 7.489,
+		"vote_average": 7.5,
 		"slug": "deadpool-2",
 		"tags": [
 			"list-8204860"
@@ -2247,7 +2247,7 @@
 		"release_date": "2017-11-17",
 		"title": "Marvel's The Punisher",
 		"video": false,
-		"vote_average": 0,
+		"vote_average": 8,
 		"slug": "marvels-the-punisher",
 		"tags": [
 			"movie",
@@ -2637,7 +2637,7 @@
 		"original_name": "Marvel's Luke Cage",
 		"overview": "Given superstrength and durability by a sabotaged experiment, a wrongly accused man escapes prison to become a superhero for hire.",
 		"poster_path": "/quTfV803fGaSADzTeEqCbIZnt9d.jpg",
-		"vote_average": 7,
+		"vote_average": 6.9,
 		"title": "Marvel's Luke Cage",
 		"slug": "marvels-luke-cage",
 		"tags": [
@@ -2685,7 +2685,7 @@
 		],
 		"release_date": "2016-05-18",
 		"video": false,
-		"vote_average": 6.512,
+		"vote_average": 6.5,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"list-8204860"
@@ -2731,7 +2731,7 @@
 		],
 		"release_date": "2016-02-09",
 		"video": false,
-		"vote_average": 7.607,
+		"vote_average": 7.608,
 		"slug": "deadpool",
 		"tags": [
 			"list-8204860"
@@ -2893,7 +2893,7 @@
 		"release_date": "2015-04-10",
 		"title": "Marvel's Daredevil",
 		"video": false,
-		"vote_average": 0,
+		"vote_average": 9,
 		"slug": "marvels-daredevil",
 		"tags": [
 			"movie",
@@ -3800,7 +3800,7 @@
 		],
 		"release_date": "2011-06-01",
 		"video": false,
-		"vote_average": 7.295,
+		"vote_average": 7.3,
 		"slug": "x-men-first-class",
 		"tags": [
 			"list-8204860"
@@ -4013,7 +4013,7 @@
 		],
 		"release_date": "2009-04-28",
 		"video": false,
-		"vote_average": 6.3,
+		"vote_average": 6.256,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"list-8204860"
@@ -5112,7 +5112,7 @@
 			10759
 		],
 		"first_air_date": "1992-10-31",
-		"vote_average": 8.178,
+		"vote_average": 8.2,
 		"origin_country": [
 			"US"
 		],

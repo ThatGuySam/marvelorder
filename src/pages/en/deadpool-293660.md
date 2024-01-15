@@ -32,7 +32,7 @@ watchLinks:
     ],
     "release_date": "2016-02-09",
     "video": false,
-    "vote_average": 7.607,
+    "vote_average": 7.608,
     "slug": "deadpool",
     "tags": [
         "list-8204860"

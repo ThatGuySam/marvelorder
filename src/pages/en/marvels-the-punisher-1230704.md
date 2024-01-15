@@ -25,6 +25,7 @@ vote_average: 0
 tags:
   - movie
   - company-38679
+mcuTimelineOrder: 255
 ---
 ## TMDB Data
 ```json
@@ -45,7 +46,7 @@ tags:
     "release_date": "2017-11-17",
     "title": "Marvel's The Punisher",
     "video": false,
-    "vote_average": 0,
+    "vote_average": 8,
     "slug": "marvels-the-punisher",
     "tags": [
         "movie",
