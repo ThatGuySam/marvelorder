@@ -569,7 +569,7 @@
 		"original_name": "Echo",
 		"overview": "Pursued by Wilson Fisk's criminal empire, Maya's journey brings her home and she must confront her own family and legacy.",
 		"poster_path": "/vFyJH630cF68LohVYjQW49074Sy.jpg",
-		"vote_average": 6.3,
+		"vote_average": 6.2,
 		"title": "Echo",
 		"slug": "echo",
 		"tags": [
@@ -1690,7 +1690,7 @@
 		],
 		"release_date": "2020-04-02",
 		"video": false,
-		"vote_average": 6.127,
+		"vote_average": 6.126,
 		"slug": "the-new-mutants",
 		"tags": [
 			"list-8204860"
@@ -1824,7 +1824,7 @@
 		],
 		"release_date": "2019-06-05",
 		"video": false,
-		"vote_average": 5.987,
+		"vote_average": 6,
 		"slug": "dark-phoenix",
 		"tags": [
 			"list-8204860"
@@ -1967,7 +1967,7 @@
 		],
 		"release_date": "2018-12-06",
 		"video": false,
-		"vote_average": 8.404,
+		"vote_average": 8.4,
 		"slug": "spider-man-into-the-spider-verse",
 		"tags": [
 			"list-8204859"
@@ -2231,30 +2231,6 @@
 		]
 	},
 	{
-		"adult": false,
-		"backdrop_path": "/aMT407Kv7j8IUzdmR87zNRJNKi6.jpg",
-		"genre_ids": [
-			28,
-			12,
-			80,
-			18
-		],
-		"id": 1230704,
-		"original_language": "en",
-		"original_title": "Marvel's The Punisher",
-		"overview": "A former Marine out to punish the criminals responsible for his family's murder finds himself ensnared in a military conspiracy.",
-		"poster_path": "/gW7VtjFrvUJavRv4QJhvE8D6qre.jpg",
-		"release_date": "2017-11-17",
-		"title": "Marvel's The Punisher",
-		"video": false,
-		"vote_average": 8,
-		"slug": "marvels-the-punisher",
-		"tags": [
-			"movie",
-			"company-38679"
-		]
-	},
-	{
 		"backdrop_path": "/18inwHlpKnK9mt02wFBJoIVKXI.jpg",
 		"first_air_date": "2017-10-02",
 		"genre_ids": [
@@ -2271,7 +2247,7 @@
 		"original_name": "The Gifted",
 		"overview": "A suburban couple's ordinary lives are rocked by the sudden discovery that their children possess mutant powers. Forced to go on the run from a hostile government, the family joins up with an underground network of mutants and must fight to survive.",
 		"poster_path": "/nshCqszjTNuqhrB53vrSqWO18sE.jpg",
-		"vote_average": 7.675,
+		"vote_average": 7.7,
 		"title": "The Gifted",
 		"slug": "the-gifted",
 		"tags": [
@@ -2425,6 +2401,31 @@
 		"tags": [
 			"tv",
 			"company-38679"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			28,
+			18,
+			12,
+			878,
+			14
+		],
+		"id": 1231499,
+		"original_language": "en",
+		"original_title": "Marvel's Iron Fist",
+		"overview": "Danny Rand resurfaces 15 years after being presumed dead. Now, with the power of the Iron Fist, he seeks to reclaim his past and fulfill his destiny.",
+		"poster_path": "/fQ5Ejc4LAGNHbuiw0qpTvSeto46.jpg",
+		"release_date": "2017-03-16",
+		"title": "Marvel's Iron Fist",
+		"video": false,
+		"vote_average": 0,
+		"slug": "marvels-iron-fist",
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -2647,6 +2648,32 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": "/1JLvaMZMcPOtzkkgekahbfbJoLg.jpg",
+		"genre_ids": [
+			18,
+			878,
+			14,
+			28,
+			12,
+			80
+		],
+		"id": 1231494,
+		"original_language": "en",
+		"original_title": "Marvel's Luke Cage",
+		"overview": "Given superstrength and durability by a sabotaged experiment, a wrongly accused man escapes prison to become a superhero for hire.",
+		"poster_path": "/46Vs43Hayx9WWPWHF8bzrdIbFQR.jpg",
+		"release_date": "2016-09-30",
+		"title": "Marvel's Luke Cage",
+		"video": false,
+		"vote_average": 0,
+		"slug": "marvels-luke-cage",
+		"tags": [
+			"movie",
+			"company-7505"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/cU0NFIVj11wo2ERNsb6pBeefqgV.jpg",
 		"genre_ids": [
 			35,
@@ -2773,7 +2800,7 @@
 		"original_language": "en",
 		"original_name": "Marvel's Jessica Jones",
 		"overview": "After a tragic ending to her short-lived super hero stint, Jessica Jones is rebuilding her personal life and career as a detective who gets pulled into cases involving people with extraordinary abilities in New York City.",
-		"poster_path": "/paf9wL3mOW9LT3ZjRxXqJcjeMEv.jpg",
+		"poster_path": "/lwPFyjxAZY6NqHxywgY00Y4MFBx.jpg",
 		"vote_average": 7.5,
 		"title": "Marvel's Jessica Jones",
 		"slug": "marvels-jessica-jones",
@@ -2873,30 +2900,6 @@
 		"slug": "marvels-daredevil",
 		"tags": [
 			"tv",
-			"company-38679"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/9nL6NRyh4w5G3Zf9fDZxMJIXyh7.jpg",
-		"genre_ids": [
-			80,
-			18,
-			28,
-			12
-		],
-		"id": 1230445,
-		"original_language": "en",
-		"original_title": "Marvel's Daredevil",
-		"overview": "Lawyer-by-day Matt Murdock uses his heightened senses from being blinded as a young boy to fight crime at night on the streets of Hell’s Kitchen as Daredevil.",
-		"poster_path": "/9D6oZ7JLECk5me9S7D4377sMbfV.jpg",
-		"release_date": "2015-04-10",
-		"title": "Marvel's Daredevil",
-		"video": false,
-		"vote_average": 9,
-		"slug": "marvels-daredevil",
-		"tags": [
-			"movie",
 			"company-38679"
 		]
 	},
@@ -4500,7 +4503,7 @@
 		"release_date": "2006-05-24",
 		"title": "X-Men: The Last Stand",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.405,
 		"slug": "x-men-the-last-stand",
 		"tags": [
 			"movie",
@@ -5011,7 +5014,7 @@
 			10759
 		],
 		"first_air_date": "1994-11-19",
-		"vote_average": 8.279,
+		"vote_average": 8.277,
 		"origin_country": [
 			"US"
 		],
@@ -5112,7 +5115,7 @@
 			10759
 		],
 		"first_air_date": "1992-10-31",
-		"vote_average": 8.2,
+		"vote_average": 8.178,
 		"origin_country": [
 			"US"
 		],
