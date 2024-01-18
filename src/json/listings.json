@@ -216,7 +216,7 @@
 		"original_language": "en",
 		"original_title": "Spider-Man 4",
 		"overview": "The next installment of the MCU Spider-Man franchise: a sequel to \"Spider-Man: No Way Home\" and the first in a possible new trilogy. Plot unknown.",
-		"poster_path": null,
+		"poster_path": "/mpRNje0KM7ronSLEC2qhsOSES83.jpg",
 		"title": "Spider-Man 4",
 		"video": false,
 		"vote_average": 0,
@@ -1824,7 +1824,7 @@
 		],
 		"release_date": "2019-06-05",
 		"video": false,
-		"vote_average": 6,
+		"vote_average": 5.987,
 		"slug": "dark-phoenix",
 		"tags": [
 			"list-8204860"
@@ -1967,7 +1967,7 @@
 		],
 		"release_date": "2018-12-06",
 		"video": false,
-		"vote_average": 8.4,
+		"vote_average": 8.404,
 		"slug": "spider-man-into-the-spider-verse",
 		"tags": [
 			"list-8204859"
@@ -2404,31 +2404,6 @@
 		]
 	},
 	{
-		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
-			28,
-			18,
-			12,
-			878,
-			14
-		],
-		"id": 1231499,
-		"original_language": "en",
-		"original_title": "Marvel's Iron Fist",
-		"overview": "Danny Rand resurfaces 15 years after being presumed dead. Now, with the power of the Iron Fist, he seeks to reclaim his past and fulfill his destiny.",
-		"poster_path": "/fQ5Ejc4LAGNHbuiw0qpTvSeto46.jpg",
-		"release_date": "2017-03-16",
-		"title": "Marvel's Iron Fist",
-		"video": false,
-		"vote_average": 0,
-		"slug": "marvels-iron-fist",
-		"tags": [
-			"movie",
-			"company-7505"
-		]
-	},
-	{
 		"backdrop_path": "/jLuoxdI4S6JxOdlQYg57JLwDuEK.jpg",
 		"first_air_date": "2017-03-10",
 		"genre_ids": [
@@ -2472,7 +2447,7 @@
 		],
 		"release_date": "2017-03-03",
 		"video": false,
-		"vote_average": 7.145,
+		"vote_average": 7.143,
 		"slug": "deadpool-no-good-deed",
 		"tags": [
 			"list-8204860"
@@ -2644,32 +2619,6 @@
 		"tags": [
 			"tv",
 			"company-38679"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/1JLvaMZMcPOtzkkgekahbfbJoLg.jpg",
-		"genre_ids": [
-			18,
-			878,
-			14,
-			28,
-			12,
-			80
-		],
-		"id": 1231494,
-		"original_language": "en",
-		"original_title": "Marvel's Luke Cage",
-		"overview": "Given superstrength and durability by a sabotaged experiment, a wrongly accused man escapes prison to become a superhero for hire.",
-		"poster_path": "/46Vs43Hayx9WWPWHF8bzrdIbFQR.jpg",
-		"release_date": "2016-09-30",
-		"title": "Marvel's Luke Cage",
-		"video": false,
-		"vote_average": 0,
-		"slug": "marvels-luke-cage",
-		"tags": [
-			"movie",
-			"company-7505"
 		]
 	},
 	{
@@ -3438,7 +3387,7 @@
 		],
 		"release_date": "2013-07-21",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.401,
 		"slug": "the-wolverine",
 		"tags": [
 			"list-8204860"
@@ -3803,7 +3752,7 @@
 		],
 		"release_date": "2011-06-01",
 		"video": false,
-		"vote_average": 7.295,
+		"vote_average": 7.296,
 		"slug": "x-men-first-class",
 		"tags": [
 			"list-8204860"
@@ -4715,7 +4664,7 @@
 		"release_date": "2003-04-27",
 		"title": "X2",
 		"video": false,
-		"vote_average": 7.027,
+		"vote_average": 7.028,
 		"slug": "x2",
 		"tags": [
 			"movie",
@@ -4814,7 +4763,7 @@
 		"original_name": "X-Men: Evolution",
 		"overview": "Teenagers Cyclops, Jean Grey, Rogue, Nightcrawler, Shadowcat, and Spike fight for a world that fears and hates them.",
 		"poster_path": "/At5aZIKkN8zHTAXOnQR9D3b7usW.jpg",
-		"vote_average": 7.9,
+		"vote_average": 7.929,
 		"title": "X-Men: Evolution",
 		"slug": "x-men-evolution",
 		"tags": [
@@ -5014,7 +4963,7 @@
 			10759
 		],
 		"first_air_date": "1994-11-19",
-		"vote_average": 8.277,
+		"vote_average": 8.3,
 		"origin_country": [
 			"US"
 		],
@@ -5115,7 +5064,7 @@
 			10759
 		],
 		"first_air_date": "1992-10-31",
-		"vote_average": 8.178,
+		"vote_average": 8.176,
 		"origin_country": [
 			"US"
 		],
@@ -5242,7 +5191,7 @@
 		],
 		"release_date": "1988-05-22",
 		"video": false,
-		"vote_average": 6.051,
+		"vote_average": 6.038,
 		"slug": "the-incredible-hulk-returns",
 		"tags": [
 			"list-8204862"
@@ -5265,7 +5214,7 @@
 		],
 		"release_date": "1986-08-01",
 		"video": false,
-		"vote_average": 5.4,
+		"vote_average": 5.397,
 		"slug": "howard-the-duck",
 		"tags": [
 			"list-8204859"
@@ -5600,7 +5549,7 @@
 			18
 		],
 		"first_air_date": "1977-11-04",
-		"vote_average": 7.2,
+		"vote_average": 7.202,
 		"origin_country": [
 			"US"
 		],
