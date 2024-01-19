@@ -26,11 +26,11 @@ watchLinks:
     "original_language": "en",
     "original_title": "X-Men: The Last Stand",
     "overview": "When a cure is found to treat mutations, lines are drawn amongst the X-Men—led by Professor Charles Xavier—and the Brotherhood, a band of powerful mutants organised under Xavier's former ally, Magneto.",
-    "poster_path": "/sNSvwqiNXjEvDSeQFsJAGPEP7Gl.jpg",
+    "poster_path": "/7RSSkRpwvkNN5iKO8zACtBA0KhQ.jpg",
     "release_date": "2006-05-24",
     "title": "X-Men: The Last Stand",
     "video": false,
-    "vote_average": 6.405,
+    "vote_average": 6.4,
     "slug": "x-men-the-last-stand",
     "tags": [
         "movie",
