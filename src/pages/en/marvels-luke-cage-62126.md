@@ -31,7 +31,7 @@ mcuTimelineOrder: 139
     "original_name": "Marvel's Luke Cage",
     "overview": "Given superstrength and durability by a sabotaged experiment, a wrongly accused man escapes prison to become a superhero for hire.",
     "poster_path": "/quTfV803fGaSADzTeEqCbIZnt9d.jpg",
-    "vote_average": 6.9,
+    "vote_average": 7,
     "title": "Marvel's Luke Cage",
     "slug": "marvels-luke-cage",
     "tags": [
