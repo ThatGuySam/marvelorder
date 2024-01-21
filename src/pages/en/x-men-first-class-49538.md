@@ -23,7 +23,7 @@ watchLinks:
     "original_language": "en",
     "original_title": "X-Men: First Class",
     "overview": "Before Charles Xavier and Erik Lensherr took the names Professor X and Magneto, they were two young men discovering their powers for the first time. Before they were arch-enemies, they were closest of friends, working together with other mutants (some familiar, some new), to stop the greatest threat the world has ever known.",
-    "poster_path": "/vUvlOY575rztBuJV3a0dbHW5MQR.jpg",
+    "poster_path": "/b9r6lsLuzBONdSokQ3O2JiVmy0C.jpg",
     "media_type": "movie",
     "genre_ids": [
         28,
@@ -32,7 +32,7 @@ watchLinks:
     ],
     "release_date": "2011-06-01",
     "video": false,
-    "vote_average": 7.296,
+    "vote_average": 7.3,
     "slug": "x-men-first-class",
     "tags": [
         "list-8204860"

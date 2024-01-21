@@ -23,7 +23,8 @@ watchLinks:
     "genre_ids": [
         10759,
         16,
-        10762
+        10762,
+        10751
     ],
     "id": 3854,
     "name": "The Spectacular Spider-Man",

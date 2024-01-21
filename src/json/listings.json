@@ -518,7 +518,7 @@
 		"original_language": "en",
 		"original_title": "Deadpool 3",
 		"overview": "Third entry in the \"Deadpool\" franchise. Plot TBA.",
-		"poster_path": "/4gdqWCVvidYR0pOHuVOqFundbUG.jpg",
+		"poster_path": "/3e9RToA9tGMl1T994T9T8zLW3CU.jpg",
 		"release_date": "2024-07-24",
 		"title": "Deadpool 3",
 		"video": false,
@@ -568,8 +568,8 @@
 		"original_language": "en",
 		"original_name": "Echo",
 		"overview": "Pursued by Wilson Fisk's criminal empire, Maya's journey brings her home and she must confront her own family and legacy.",
-		"poster_path": "/vFyJH630cF68LohVYjQW49074Sy.jpg",
-		"vote_average": 6.2,
+		"poster_path": "/4m2kop1q6OLnOz7MWZmdzZbSNkh.jpg",
+		"vote_average": 6.3,
 		"title": "Echo",
 		"slug": "echo",
 		"tags": [
@@ -614,7 +614,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.3,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -1824,7 +1824,7 @@
 		],
 		"release_date": "2019-06-05",
 		"video": false,
-		"vote_average": 6,
+		"vote_average": 5.985,
 		"slug": "dark-phoenix",
 		"tags": [
 			"list-8204860"
@@ -1943,7 +1943,7 @@
 		],
 		"release_date": "2018-12-11",
 		"video": false,
-		"vote_average": 7.14,
+		"vote_average": 7.138,
 		"slug": "once-upon-a-deadpool",
 		"tags": [
 			"list-8204860"
@@ -2247,7 +2247,7 @@
 		"original_name": "The Gifted",
 		"overview": "A suburban couple's ordinary lives are rocked by the sudden discovery that their children possess mutant powers. Forced to go on the run from a hostile government, the family joins up with an underground network of mutants and must fight to survive.",
 		"poster_path": "/nshCqszjTNuqhrB53vrSqWO18sE.jpg",
-		"vote_average": 7.669,
+		"vote_average": 7.668,
 		"title": "The Gifted",
 		"slug": "the-gifted",
 		"tags": [
@@ -2432,13 +2432,13 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
+		"backdrop_path": "/gsljBGOjBkbuNt3gvIDXQWnudn.jpg",
 		"id": 558144,
 		"title": "Deadpool: No Good Deed",
 		"original_language": "en",
 		"original_title": "Deadpool: No Good Deed",
 		"overview": "Deadpool sees an opportunity to save the day, but it doesn't go entirely as planned.",
-		"poster_path": "/7p1v2CMnEd0Hb3eFi0iEA6kDAMU.jpg",
+		"poster_path": "/wlKU9yB0Q8nfPMakBcSBT0JGS7.jpg",
 		"media_type": "movie",
 		"genre_ids": [
 			28,
@@ -2447,7 +2447,7 @@
 		],
 		"release_date": "2017-03-03",
 		"video": false,
-		"vote_average": 7.143,
+		"vote_average": 7.1,
 		"slug": "deadpool-no-good-deed",
 		"tags": [
 			"list-8204860"
@@ -2661,7 +2661,7 @@
 		],
 		"release_date": "2016-05-18",
 		"video": false,
-		"vote_average": 6.512,
+		"vote_average": 6.511,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"list-8204860"
@@ -3714,7 +3714,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/yFuKvT4Vm3sKHdFY4eG6I4ldAnn.jpg",
+		"backdrop_path": "/4NWWpT0jiMUak8r6jfpvG4eBgFU.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -3743,7 +3743,7 @@
 		"original_language": "en",
 		"original_title": "X-Men: First Class",
 		"overview": "Before Charles Xavier and Erik Lensherr took the names Professor X and Magneto, they were two young men discovering their powers for the first time. Before they were arch-enemies, they were closest of friends, working together with other mutants (some familiar, some new), to stop the greatest threat the world has ever known.",
-		"poster_path": "/vUvlOY575rztBuJV3a0dbHW5MQR.jpg",
+		"poster_path": "/b9r6lsLuzBONdSokQ3O2JiVmy0C.jpg",
 		"media_type": "movie",
 		"genre_ids": [
 			28,
@@ -3752,7 +3752,7 @@
 		],
 		"release_date": "2011-06-01",
 		"video": false,
-		"vote_average": 7.296,
+		"vote_average": 7.3,
 		"slug": "x-men-first-class",
 		"tags": [
 			"list-8204860"
@@ -3845,7 +3845,7 @@
 		"original_name": "The Avengers: Earth's Mightiest Heroes",
 		"overview": "When the powers of a single hero are not enough to save the world, the world’s greatest heroes—Iron Man, Thor, Captain America, The Hulk, Ant-Man/Giant Man and Wasp—assemble to form the Avengers.",
 		"poster_path": "/8MwwAuDy6dc1GbiBUZdvWtQczqR.jpg",
-		"vote_average": 8.2,
+		"vote_average": 8.158,
 		"title": "The Avengers: Earth's Mightiest Heroes",
 		"slug": "the-avengers-earths-mightiest-heroes",
 		"tags": [
@@ -3969,33 +3969,6 @@
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"list-8204860"
-		]
-	},
-	{
-		"backdrop_path": null,
-		"first_air_date": "2009-04-28",
-		"genre_ids": [
-			10765
-		],
-		"id": 216720,
-		"name": "Brazilian Wolverine",
-		"origin_country": [
-			"BR",
-			"IN",
-			"PT",
-			"GB",
-			"US"
-		],
-		"original_language": "pt",
-		"original_name": "Wolverine Brasileiro",
-		"overview": "This television series about the brazilian performer Marcos Greick, who plays the Wolverine in CULTZONE Interview talk-show in the YTB.",
-		"poster_path": "/siKP5HS8BZO41a6GXH9aki52DNn.jpg",
-		"vote_average": 0,
-		"title": "Brazilian Wolverine",
-		"slug": "brazilian-wolverine",
-		"tags": [
-			"tv",
-			"company-7505"
 		]
 	},
 	{
@@ -4200,7 +4173,8 @@
 		"genre_ids": [
 			10759,
 			16,
-			10762
+			10762,
+			10751
 		],
 		"id": 3854,
 		"name": "The Spectacular Spider-Man",
@@ -4791,7 +4765,7 @@
 		],
 		"release_date": "2000-07-13",
 		"video": false,
-		"vote_average": 6.996,
+		"vote_average": 6.997,
 		"slug": "x-men",
 		"tags": [
 			"list-8204860"
@@ -5076,30 +5050,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/GfYVmaRWrNzOfyuoCvtFquaPLW.jpg",
-		"genre_ids": [
-			28,
-			12,
-			878,
-			10752
-		],
-		"id": 13995,
-		"original_language": "en",
-		"original_title": "Captain America",
-		"overview": "During World War II, a brave, patriotic American Soldier undergoes experiments to become a new supersoldier, \"Captain America\". Racing to Germany to sabotage the rockets of Nazi baddie \"Red Skull\", Captain America winds up frozen until the 1990s. He reawakens to find that the Red Skull has changed identities and is now planning to kidnap the President of the United States.",
-		"poster_path": "/vdHrLFfHcJX9nlvUfG3LK2a2hq4.jpg",
-		"release_date": "1990-12-14",
-		"title": "Captain America",
-		"video": false,
-		"vote_average": 4.5,
-		"slug": "captain-america",
-		"tags": [
-			"movie",
-			"company-7505"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": "/vNz1LTGnXY9YPqdTEnK7FbRYD7w.jpg",
 		"id": 19593,
 		"title": "The Death of the Incredible Hulk",
@@ -5120,31 +5070,6 @@
 		"slug": "the-death-of-the-incredible-hulk",
 		"tags": [
 			"list-8204862"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/tFmrdnfXM0p6ihMTFpptYOKEfSl.jpg",
-		"genre_ids": [
-			28,
-			53,
-			80,
-			18,
-			10749
-		],
-		"id": 8867,
-		"original_language": "en",
-		"original_title": "The Punisher",
-		"overview": "The avenging angel of Marvel Comics fame comes brilliantly to life in this searing action-adventure thriller! Dolph Lundgren stars as Frank Castle, a veteran cop who loses his entire family to a mafia car bomb. His ex-partner believes Castle survived the blast and became the Punisher, living in the sewers and exacting vigilante violence against mob bosses throughout the city. When the populace is caught in the midst of a gang war that he caused, Castle must again emerge from the shadows and save the innocent.",
-		"poster_path": "/94uI2GcM1Za0dJVUSSuyI8gvQgX.jpg",
-		"release_date": "1989-10-05",
-		"title": "The Punisher",
-		"video": false,
-		"vote_average": 5.7,
-		"slug": "the-punisher",
-		"tags": [
-			"movie",
-			"company-7505"
 		]
 	},
 	{
@@ -5218,52 +5143,6 @@
 		"slug": "howard-the-duck",
 		"tags": [
 			"list-8204859"
-		]
-	},
-	{
-		"backdrop_path": "/hRQfwDzTXpUrIEkPaQXt4mldNsh.jpg",
-		"first_air_date": "1982-09-18",
-		"genre_ids": [
-			16
-		],
-		"id": 11328,
-		"name": "The Incredible Hulk",
-		"origin_country": [
-			"US"
-		],
-		"original_language": "en",
-		"original_name": "The Incredible Hulk",
-		"overview": "The Incredible Hulk is an animated television series based on the Marvel Comics character of the same name. The series ran for 13 episodes on NBC in 1982, part of a combined hour with Spider-Man and His Amazing Friends. Unlike the previous live-action The Incredible Hulk television series from Universal in the 1970s, this series was based upon the Hulk comic-books and was able to portray the more fantastical elements of the comics as sticking to his true name and origin as well as featuring the return of the original characters in his life all of which the live-action series refused to show. It featured stories faithful to the source material from Marvel, In addition, new recurring characters were created for the series including the Hispanic family of father Rio and his youthful daughter Rita.",
-		"poster_path": "/eg1HgM1kF0SJbYsWVmpP2BjvPUU.jpg",
-		"vote_average": 6.1,
-		"title": "The Incredible Hulk",
-		"slug": "the-incredible-hulk",
-		"tags": [
-			"tv",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/vfmVqMqnsgKZw2Bi0RirBR9FUhZ.jpg",
-		"genre_ids": [
-			27,
-			16,
-			10770
-		],
-		"id": 3066,
-		"original_language": "ja",
-		"original_title": "恐怖伝説　怪奇！フランケンシュタイン",
-		"overview": "The film centers around the life of Victor Frankenstein. After creating the monster together with his partner Zuckel, the monster attacks the assistant and falls from a cliff. Assuming the monster is dead, Victor returns to his wife Elizabeth and daughter Emily. A police inspector named Bellbeau investigates some mysterious mutilations killings, and Victor is blackmailed by his former assistant, who lost an eye in his fight with the monster.",
-		"poster_path": "/m8kaTsSKu3OqmcqK5xpcEYwEM5u.jpg",
-		"release_date": "1981-07-27",
-		"title": "Monster of Frankenstein",
-		"video": false,
-		"vote_average": 6,
-		"slug": "monster-of-frankenstein",
-		"tags": [
-			"movie",
-			"company-7505"
 		]
 	},
 	{
