@@ -1690,7 +1690,7 @@
 		],
 		"release_date": "2020-04-02",
 		"video": false,
-		"vote_average": 6.126,
+		"vote_average": 6.127,
 		"slug": "the-new-mutants",
 		"tags": [
 			"list-8204860"
@@ -1967,7 +1967,7 @@
 		],
 		"release_date": "2018-12-06",
 		"video": false,
-		"vote_average": 8.405,
+		"vote_average": 8.404,
 		"slug": "spider-man-into-the-spider-verse",
 		"tags": [
 			"list-8204859"
@@ -2613,7 +2613,7 @@
 		"original_name": "Marvel's Luke Cage",
 		"overview": "Given superstrength and durability by a sabotaged experiment, a wrongly accused man escapes prison to become a superhero for hire.",
 		"poster_path": "/quTfV803fGaSADzTeEqCbIZnt9d.jpg",
-		"vote_average": 7,
+		"vote_average": 6.9,
 		"title": "Marvel's Luke Cage",
 		"slug": "marvels-luke-cage",
 		"tags": [
@@ -2661,7 +2661,7 @@
 		],
 		"release_date": "2016-05-18",
 		"video": false,
-		"vote_average": 6.511,
+		"vote_average": 6.5,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"list-8204860"
@@ -3046,7 +3046,7 @@
 		],
 		"release_date": "2014-05-15",
 		"video": false,
-		"vote_average": 7.523,
+		"vote_average": 7.524,
 		"slug": "x-men-days-of-future-past",
 		"tags": [
 			"list-8204860"
@@ -3387,7 +3387,7 @@
 		],
 		"release_date": "2013-07-21",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.401,
 		"slug": "the-wolverine",
 		"tags": [
 			"list-8204860"
@@ -3845,7 +3845,7 @@
 		"original_name": "The Avengers: Earth's Mightiest Heroes",
 		"overview": "When the powers of a single hero are not enough to save the world, the world’s greatest heroes—Iron Man, Thor, Captain America, The Hulk, Ant-Man/Giant Man and Wasp—assemble to form the Avengers.",
 		"poster_path": "/8MwwAuDy6dc1GbiBUZdvWtQczqR.jpg",
-		"vote_average": 8.158,
+		"vote_average": 8.161,
 		"title": "The Avengers: Earth's Mightiest Heroes",
 		"slug": "the-avengers-earths-mightiest-heroes",
 		"tags": [
@@ -4302,7 +4302,7 @@
 		"release_date": "2007-01-23",
 		"title": "The Invincible Iron Man",
 		"video": false,
-		"vote_average": 6.144,
+		"vote_average": 6.139,
 		"slug": "the-invincible-iron-man",
 		"tags": [
 			"movie",
@@ -4426,7 +4426,7 @@
 		"release_date": "2006-05-24",
 		"title": "X-Men: The Last Stand",
 		"video": false,
-		"vote_average": 6.405,
+		"vote_average": 6.406,
 		"slug": "x-men-the-last-stand",
 		"tags": [
 			"movie",
@@ -4487,7 +4487,7 @@
 		"genre_ids": [
 			28,
 			14,
-			878
+			12
 		],
 		"id": 9947,
 		"original_language": "en",
@@ -4937,7 +4937,7 @@
 			10759
 		],
 		"first_air_date": "1994-11-19",
-		"vote_average": 8.3,
+		"vote_average": 8.274,
 		"origin_country": [
 			"US"
 		],

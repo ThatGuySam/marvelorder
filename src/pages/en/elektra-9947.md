@@ -21,7 +21,7 @@ watchLinks:
     "genre_ids": [
         28,
         14,
-        878
+        12
     ],
     "id": 9947,
     "original_language": "en",
