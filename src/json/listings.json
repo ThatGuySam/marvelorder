@@ -569,7 +569,7 @@
 		"original_name": "Echo",
 		"overview": "Pursued by Wilson Fisk's criminal empire, Maya's journey brings her home and she must confront her own family and legacy.",
 		"poster_path": "/4m2kop1q6OLnOz7MWZmdzZbSNkh.jpg",
-		"vote_average": 6.3,
+		"vote_average": 6.2,
 		"title": "Echo",
 		"slug": "echo",
 		"tags": [
@@ -600,7 +600,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/feSiISwgEpVzR1v3zv2n2AU4ANJ.jpg",
+		"backdrop_path": "/criPrxkTggCra1jch49jsiSeXo1.jpg",
 		"genre_ids": [
 			878,
 			12,
@@ -614,7 +614,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.3,
+		"vote_average": 6.4,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -1880,7 +1880,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/k5V2cbDZvYIu6BKIK0Q0KGyAUDB.jpg",
+		"backdrop_path": "/cEH8LafBTXejtpLtzSCklGQCzq8.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -2247,7 +2247,7 @@
 		"original_name": "The Gifted",
 		"overview": "A suburban couple's ordinary lives are rocked by the sudden discovery that their children possess mutant powers. Forced to go on the run from a hostile government, the family joins up with an underground network of mutants and must fight to survive.",
 		"poster_path": "/nshCqszjTNuqhrB53vrSqWO18sE.jpg",
-		"vote_average": 7.668,
+		"vote_average": 7.664,
 		"title": "The Gifted",
 		"slug": "the-gifted",
 		"tags": [
@@ -2661,7 +2661,7 @@
 		],
 		"release_date": "2016-05-18",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.512,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"list-8204860"
@@ -3752,7 +3752,7 @@
 		],
 		"release_date": "2011-06-01",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.296,
 		"slug": "x-men-first-class",
 		"tags": [
 			"list-8204860"
@@ -3845,7 +3845,7 @@
 		"original_name": "The Avengers: Earth's Mightiest Heroes",
 		"overview": "When the powers of a single hero are not enough to save the world, the world’s greatest heroes—Iron Man, Thor, Captain America, The Hulk, Ant-Man/Giant Man and Wasp—assemble to form the Avengers.",
 		"poster_path": "/8MwwAuDy6dc1GbiBUZdvWtQczqR.jpg",
-		"vote_average": 8.161,
+		"vote_average": 8.2,
 		"title": "The Avengers: Earth's Mightiest Heroes",
 		"slug": "the-avengers-earths-mightiest-heroes",
 		"tags": [
@@ -4765,7 +4765,7 @@
 		],
 		"release_date": "2000-07-13",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 6.997,
 		"slug": "x-men",
 		"tags": [
 			"list-8204860"
@@ -4937,7 +4937,7 @@
 			10759
 		],
 		"first_air_date": "1994-11-19",
-		"vote_average": 8.274,
+		"vote_average": 8.3,
 		"origin_country": [
 			"US"
 		],
