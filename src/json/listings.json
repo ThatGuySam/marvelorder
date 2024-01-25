@@ -382,7 +382,7 @@
 		"original_language": "en",
 		"original_title": "Avengers 5",
 		"overview": "An upcoming film in the Marvel Cinematic Universe's sixth Phase and part of The Multiverse Saga. Plot unknown.",
-		"poster_path": "/utZTb3VBrH0zR77BcISU67pHuAx.jpg",
+		"poster_path": "/lfE1GkxqoNaGqajRDCTYw5erBSo.jpg",
 		"release_date": "2026-04-29",
 		"title": "Avengers 5",
 		"video": false,
@@ -600,7 +600,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/criPrxkTggCra1jch49jsiSeXo1.jpg",
+		"backdrop_path": "/tLxjbT5ROZRwYcpNT3nfQbqkApk.jpg",
 		"genre_ids": [
 			878,
 			12,
@@ -1943,7 +1943,7 @@
 		],
 		"release_date": "2018-12-11",
 		"video": false,
-		"vote_average": 7.137,
+		"vote_average": 7.138,
 		"slug": "once-upon-a-deadpool",
 		"tags": [
 			"list-8204860"
@@ -1967,7 +1967,7 @@
 		],
 		"release_date": "2018-12-06",
 		"video": false,
-		"vote_average": 8.404,
+		"vote_average": 8.405,
 		"slug": "spider-man-into-the-spider-verse",
 		"tags": [
 			"list-8204859"
@@ -2247,7 +2247,7 @@
 		"original_name": "The Gifted",
 		"overview": "A suburban couple's ordinary lives are rocked by the sudden discovery that their children possess mutant powers. Forced to go on the run from a hostile government, the family joins up with an underground network of mutants and must fight to survive.",
 		"poster_path": "/nshCqszjTNuqhrB53vrSqWO18sE.jpg",
-		"vote_average": 7.664,
+		"vote_average": 7.665,
 		"title": "The Gifted",
 		"slug": "the-gifted",
 		"tags": [
@@ -3387,7 +3387,7 @@
 		],
 		"release_date": "2013-07-21",
 		"video": false,
-		"vote_average": 6.401,
+		"vote_average": 6.4,
 		"slug": "the-wolverine",
 		"tags": [
 			"list-8204860"
@@ -3752,7 +3752,7 @@
 		],
 		"release_date": "2011-06-01",
 		"video": false,
-		"vote_average": 7.296,
+		"vote_average": 7.297,
 		"slug": "x-men-first-class",
 		"tags": [
 			"list-8204860"
@@ -3965,7 +3965,7 @@
 		],
 		"release_date": "2009-04-28",
 		"video": false,
-		"vote_average": 6.257,
+		"vote_average": 6.3,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"list-8204860"
@@ -4638,7 +4638,7 @@
 		"release_date": "2003-04-27",
 		"title": "X2",
 		"video": false,
-		"vote_average": 7.028,
+		"vote_average": 7,
 		"slug": "x2",
 		"tags": [
 			"movie",
