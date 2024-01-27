@@ -26,10 +26,9 @@ watchLinks:
     "genre_ids": [
         878,
         28,
-        18,
-        10770
+        18
     ],
-    "release_date": "1978-09-22",
+    "release_date": "1980-01-30",
     "video": false,
     "vote_average": 6.9,
     "slug": "bride-of-the-incredible-hulk",

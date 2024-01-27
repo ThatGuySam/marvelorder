@@ -31,7 +31,7 @@ watchLinks:
     "original_language": "en",
     "original_name": "Legion",
     "overview": "David Haller, AKA Legion, is a troubled young man who may be more than human. Diagnosed as schizophrenic, David has been in and out of psychiatric hospitals for years. But after a strange encounter with a fellow patient, he’s confronted with the possibility that the voices he hears and the visions he sees might be real.",
-    "poster_path": "/4WLMWQgH3eXNP1aGrAuwlSiIx5j.jpg",
+    "poster_path": "/d6T86JYMW4sSLRmNfdtFilvugOv.jpg",
     "vote_average": 7.6,
     "title": "Legion",
     "slug": "legion",

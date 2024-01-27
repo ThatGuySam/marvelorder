@@ -35,6 +35,7 @@ release_date: '2008-05-02'
     "slug": "iron-man",
     "tags": [
         "movie",
+        "company-7505",
         "company-420"
     ]
 }

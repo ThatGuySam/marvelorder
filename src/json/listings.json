@@ -489,7 +489,8 @@
 		"genre_ids": [
 			28,
 			878,
-			12
+			12,
+			53
 		],
 		"id": 912649,
 		"original_language": "en",
@@ -970,7 +971,7 @@
 		"release_date": "2022-11-03",
 		"title": "Marvel Studios Assembled: The Making of She-Hulk: Attorney at Law",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 6.9,
 		"slug": "marvel-studios-assembled-the-making-of-she-hulk-attorney-at-law",
 		"tags": [
 			"movie",
@@ -1189,7 +1190,7 @@
 		"original_language": "en",
 		"original_title": "Doctor Strange in the Multiverse of Madness",
 		"overview": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
-		"poster_path": "/fwBl3J2aEXru6mrr9Xg8O99Iz2K.jpg",
+		"poster_path": "/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
 		"release_date": "2022-05-04",
 		"title": "Doctor Strange in the Multiverse of Madness",
 		"video": false,
@@ -1711,7 +1712,7 @@
 		],
 		"release_date": "2020-04-02",
 		"video": false,
-		"vote_average": 6.127,
+		"vote_average": 6.126,
 		"slug": "the-new-mutants",
 		"tags": [
 			"list-8204860"
@@ -1988,7 +1989,7 @@
 		],
 		"release_date": "2018-12-06",
 		"video": false,
-		"vote_average": 8.405,
+		"vote_average": 8.404,
 		"slug": "spider-man-into-the-spider-verse",
 		"tags": [
 			"list-8204859"
@@ -2268,7 +2269,7 @@
 		"original_name": "The Gifted",
 		"overview": "A suburban couple's ordinary lives are rocked by the sudden discovery that their children possess mutant powers. Forced to go on the run from a hostile government, the family joins up with an underground network of mutants and must fight to survive.",
 		"poster_path": "/nshCqszjTNuqhrB53vrSqWO18sE.jpg",
-		"vote_average": 7.665,
+		"vote_average": 7.662,
 		"title": "The Gifted",
 		"slug": "the-gifted",
 		"tags": [
@@ -2468,7 +2469,7 @@
 		],
 		"release_date": "2017-03-03",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7.149,
 		"slug": "deadpool-no-good-deed",
 		"tags": [
 			"list-8204860"
@@ -2536,7 +2537,7 @@
 		"original_language": "en",
 		"original_name": "Legion",
 		"overview": "David Haller, AKA Legion, is a troubled young man who may be more than human. Diagnosed as schizophrenic, David has been in and out of psychiatric hospitals for years. But after a strange encounter with a fellow patient, he’s confronted with the possibility that the voices he hears and the visions he sees might be real.",
-		"poster_path": "/4WLMWQgH3eXNP1aGrAuwlSiIx5j.jpg",
+		"poster_path": "/d6T86JYMW4sSLRmNfdtFilvugOv.jpg",
 		"vote_average": 7.6,
 		"title": "Legion",
 		"slug": "legion",
@@ -2682,7 +2683,7 @@
 		],
 		"release_date": "2016-05-18",
 		"video": false,
-		"vote_average": 6.511,
+		"vote_average": 6.512,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"list-8204860"
@@ -3067,7 +3068,7 @@
 		],
 		"release_date": "2014-05-15",
 		"video": false,
-		"vote_average": 7.523,
+		"vote_average": 7.524,
 		"slug": "x-men-days-of-future-past",
 		"tags": [
 			"list-8204860"
@@ -3158,7 +3159,7 @@
 		"original_name": "ディスク・ウォーズ:アベンジャーズ",
 		"overview": "A group of teenagers join forces with the Avengers, Earth's mightiest heroes, to fight against the tyrannical Loki and his mighty empire.",
 		"poster_path": "/6wQAZaWSvBJOIIt68cqmC0KJjeE.jpg",
-		"vote_average": 6.7,
+		"vote_average": 6.4,
 		"title": "Marvel Disk Wars: The Avengers",
 		"slug": "marvel-disk-wars-the-avengers",
 		"tags": [
@@ -3453,7 +3454,7 @@
 			10765
 		],
 		"first_air_date": "2013-05-26",
-		"vote_average": 7.6,
+		"vote_average": 7.594,
 		"origin_country": [
 			"US"
 		],
@@ -3568,7 +3569,7 @@
 		],
 		"release_date": "2012-07-16",
 		"video": false,
-		"vote_average": 7.053,
+		"vote_average": 7.044,
 		"slug": "the-punisher-dirty-laundry",
 		"tags": [
 			"list-8204859"
@@ -3753,6 +3754,7 @@
 		"slug": "captain-america-the-first-avenger",
 		"tags": [
 			"movie",
+			"company-7505",
 			"company-420"
 		]
 	},
@@ -3799,6 +3801,7 @@
 		"slug": "thor",
 		"tags": [
 			"movie",
+			"company-7505",
 			"company-420"
 		]
 	},
@@ -3817,7 +3820,7 @@
 		"original_name": "Thor & Loki: Blood Brothers",
 		"overview": "Inspired by the acclaimed graphic novel from Robert Rodi and Esad Ribic, Marvel Knights Animation's \"Thor & Loki: Blood Brothers\" takes a powerful look inside the minds of Thor & Loki, brothers in the mythical land of Asgard and seemingly forever enemies. But just why does Loki hate his brother Thor? And could it be that this master of mischief isn’t really the villain he’s been branded? Loki's insatiable lust for power and his feud with Thor take on new meaning in this resonant epic.",
 		"poster_path": "/tvd33sRfEEf4fBlyqxTI62wY9qF.jpg",
-		"vote_average": 6.8,
+		"vote_average": 6.5,
 		"title": "Thor & Loki: Blood Brothers",
 		"slug": "thor-and-loki-blood-brothers",
 		"tags": [
@@ -3897,6 +3900,7 @@
 		"slug": "iron-man-2",
 		"tags": [
 			"movie",
+			"company-7505",
 			"company-420"
 		]
 	},
@@ -4162,6 +4166,7 @@
 		"slug": "the-incredible-hulk",
 		"tags": [
 			"movie",
+			"company-7505",
 			"company-420"
 		]
 	},
@@ -4185,6 +4190,7 @@
 		"slug": "iron-man",
 		"tags": [
 			"movie",
+			"company-7505",
 			"company-420"
 		]
 	},
@@ -4659,7 +4665,7 @@
 		"release_date": "2003-04-27",
 		"title": "X2",
 		"video": false,
-		"vote_average": 7.028,
+		"vote_average": 7.029,
 		"slug": "x2",
 		"tags": [
 			"movie",
@@ -4758,7 +4764,7 @@
 		"original_name": "X-Men: Evolution",
 		"overview": "Teenagers Cyclops, Jean Grey, Rogue, Nightcrawler, Shadowcat, and Spike fight for a world that fears and hates them.",
 		"poster_path": "/At5aZIKkN8zHTAXOnQR9D3b7usW.jpg",
-		"vote_average": 7.9,
+		"vote_average": 7.917,
 		"title": "X-Men: Evolution",
 		"slug": "x-men-evolution",
 		"tags": [
@@ -4809,7 +4815,7 @@
 		"original_name": "The Avengers: United They Stand",
 		"overview": "When the planet is threatened by Super Villains, time traveling conquerors, alien invaders, mythical monsters or mad robots bent on the total destruction of humanity, when the forces of evil are so overwhelming that no single hero has the power to save the world, when there is no hope left…the AVENGERS ASSEMBLE!",
 		"poster_path": "/p2SrnKTQjLRXBCcTZtYkTZCwLpp.jpg",
-		"vote_average": 5.9,
+		"vote_average": 5.833,
 		"title": "The Avengers: United They Stand",
 		"slug": "the-avengers-united-they-stand",
 		"tags": [
@@ -4908,7 +4914,7 @@
 			10759
 		],
 		"first_air_date": "1997-09-20",
-		"vote_average": 6.25,
+		"vote_average": 6.231,
 		"origin_country": [
 			"US"
 		],
@@ -5009,7 +5015,7 @@
 			10765
 		],
 		"first_air_date": "1994-09-24",
-		"vote_average": 6.5,
+		"vote_average": 6.522,
 		"origin_country": [
 			"US"
 		],
@@ -5036,7 +5042,7 @@
 		],
 		"release_date": "1994-05-31",
 		"video": false,
-		"vote_average": 4.386,
+		"vote_average": 4.403,
 		"slug": "the-fantastic-four",
 		"tags": [
 			"list-8204862"
@@ -5059,7 +5065,7 @@
 			10759
 		],
 		"first_air_date": "1992-10-31",
-		"vote_average": 8.176,
+		"vote_average": 8.174,
 		"origin_country": [
 			"US"
 		],
@@ -5193,6 +5199,29 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": "/nPg1MZNfowinzf5qJ7YF1hsB7EV.jpg",
+		"id": 79989,
+		"title": "Bride of the Incredible Hulk",
+		"original_language": "en",
+		"original_title": "Bride of the Incredible Hulk",
+		"overview": "David and Carolyn marry in Hawaii and continue to work to find a cure for both their afflictions in a race against time.",
+		"poster_path": "/3apbGlabEmgR1jEgJgqg7FUMqCz.jpg",
+		"media_type": "movie",
+		"genre_ids": [
+			878,
+			28,
+			18
+		],
+		"release_date": "1980-01-30",
+		"video": false,
+		"vote_average": 6.9,
+		"slug": "bride-of-the-incredible-hulk",
+		"tags": [
+			"list-8204862"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/911CxMNSN8EycQSnTcaIXC7DBx0.jpg",
 		"id": 197481,
 		"title": "Captain America II: Death Too Soon",
@@ -5236,6 +5265,29 @@
 		"tags": [
 			"movie",
 			"company-7505"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/eTGbkHzD8VijGgmXDjQze9eceUO.jpg",
+		"id": 65294,
+		"title": "The Incredible Hulk",
+		"original_language": "en",
+		"original_title": "The Incredible Hulk",
+		"overview": "An accidental overdose of gamma radiation causes a mutation in scientist David Banner's DNA: now whenever he becomes angry, he metamorphoses into a seven-foot-tall, 330-pound, mindless muscular green creature.",
+		"poster_path": "/eMdysVpG2i3PzydIqkY4jt2YUZ8.jpg",
+		"media_type": "movie",
+		"genre_ids": [
+			28,
+			12,
+			878
+		],
+		"release_date": "1979-06-13",
+		"video": false,
+		"vote_average": 6.4,
+		"slug": "the-incredible-hulk",
+		"tags": [
+			"list-8204862"
 		]
 	},
 	{
@@ -5289,30 +5341,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/nPg1MZNfowinzf5qJ7YF1hsB7EV.jpg",
-		"id": 79989,
-		"title": "Bride of the Incredible Hulk",
-		"original_language": "en",
-		"original_title": "Bride of the Incredible Hulk",
-		"overview": "David and Carolyn marry in Hawaii and continue to work to find a cure for both their afflictions in a race against time.",
-		"poster_path": "/3apbGlabEmgR1jEgJgqg7FUMqCz.jpg",
-		"media_type": "movie",
-		"genre_ids": [
-			878,
-			28,
-			18,
-			10770
-		],
-		"release_date": "1978-09-22",
-		"video": false,
-		"vote_average": 6.9,
-		"slug": "bride-of-the-incredible-hulk",
-		"tags": [
-			"list-8204862"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": "/kw4GhCZP5NeMVsfPol6HcX9JEeQ.jpg",
 		"id": 50468,
 		"title": "Dr. Strange",
@@ -5330,7 +5358,7 @@
 		],
 		"release_date": "1978-09-06",
 		"video": false,
-		"vote_average": 5.973,
+		"vote_average": 5.962,
 		"slug": "dr-strange",
 		"tags": [
 			"list-8204862"
@@ -5449,34 +5477,11 @@
 			18
 		],
 		"first_air_date": "1977-11-04",
-		"vote_average": 7.203,
+		"vote_average": 7.2,
 		"origin_country": [
 			"US"
 		],
 		"title": "The Incredible Hulk",
-		"slug": "the-incredible-hulk",
-		"tags": [
-			"list-8204862"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/eTGbkHzD8VijGgmXDjQze9eceUO.jpg",
-		"id": 65294,
-		"title": "The Incredible Hulk",
-		"original_language": "en",
-		"original_title": "The Incredible Hulk",
-		"overview": "An accidental overdose of gamma radiation causes a mutation in scientist David Banner's DNA: now whenever he becomes angry, he metamorphoses into a seven-foot-tall, 330-pound, mindless muscular green creature.",
-		"poster_path": "/eMdysVpG2i3PzydIqkY4jt2YUZ8.jpg",
-		"media_type": "movie",
-		"genre_ids": [
-			28,
-			12,
-			878
-		],
-		"release_date": "1977-11-04",
-		"video": false,
-		"vote_average": 6.4,
 		"slug": "the-incredible-hulk",
 		"tags": [
 			"list-8204862"
