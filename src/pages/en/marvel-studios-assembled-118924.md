@@ -25,7 +25,7 @@ type: tv
     "original_name": "Marvel Studios Assembled",
     "overview": "Go behind the scenes of the shows and movies of the Marvel Cinematic Universe, following the filmmakers, cast and crew, and Marvel heroes every step of the way.",
     "poster_path": "/v2BHRwtQVkt5fssLdo5MpFgHJPY.jpg",
-    "vote_average": 7.3,
+    "vote_average": 7.2,
     "title": "Marvel Studios Assembled",
     "slug": "marvel-studios-assembled",
     "tags": [
