@@ -2194,7 +2194,7 @@
 		"release_date": "2017-12-09",
 		"title": "LEGO Marvel Super Heroes: Guardians of the Galaxy - The Thanos Threat",
 		"video": false,
-		"vote_average": 6.9,
+		"vote_average": 7,
 		"slug": "lego-marvel-super-heroes-guardians-of-the-galaxy-the-thanos-threat",
 		"tags": [
 			"movie",
@@ -2850,7 +2850,7 @@
 		]
 	},
 	{
-		"backdrop_path": "/2PrYnQR8YPei5vCVRwJXnwMqMyR.jpg",
+		"backdrop_path": "/qsnXwGS7KBbX4JLqHvICngtR8qg.jpg",
 		"first_air_date": "2015-04-10",
 		"genre_ids": [
 			80,
@@ -2865,7 +2865,7 @@
 		"original_language": "en",
 		"original_name": "Marvel's Daredevil",
 		"overview": "Lawyer-by-day Matt Murdock uses his heightened senses from being blinded as a young boy to fight crime at night on the streets of Hell’s Kitchen as Daredevil.",
-		"poster_path": "/p7oImOiZAUF4DCreZuE11hWJRyA.jpg",
+		"poster_path": "/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
 		"vote_average": 8.2,
 		"title": "Marvel's Daredevil",
 		"slug": "marvels-daredevil",
@@ -3370,7 +3370,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/5SssJxnWxcd5bj1dPg7rKHn1VDm.jpg",
+		"backdrop_path": "/kv8KDbi2I4F4MNBbBMCR4LDqP6H.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -3409,7 +3409,7 @@
 		],
 		"release_date": "2013-07-21",
 		"video": false,
-		"vote_average": 6.401,
+		"vote_average": 6.402,
 		"slug": "the-wolverine",
 		"tags": [
 			"list-8204860"
@@ -4665,7 +4665,7 @@
 		"release_date": "2003-04-27",
 		"title": "X2",
 		"video": false,
-		"vote_average": 7.029,
+		"vote_average": 7.028,
 		"slug": "x2",
 		"tags": [
 			"movie",
@@ -4964,7 +4964,7 @@
 			10759
 		],
 		"first_air_date": "1994-11-19",
-		"vote_average": 8.273,
+		"vote_average": 8.272,
 		"origin_country": [
 			"US"
 		],
@@ -5065,7 +5065,7 @@
 			10759
 		],
 		"first_air_date": "1992-10-31",
-		"vote_average": 8.2,
+		"vote_average": 8.176,
 		"origin_country": [
 			"US"
 		],
@@ -5402,7 +5402,7 @@
 			10765
 		],
 		"first_air_date": "1978-05-17",
-		"vote_average": 7.261,
+		"vote_average": 7.3,
 		"origin_country": [
 			"JP"
 		],
