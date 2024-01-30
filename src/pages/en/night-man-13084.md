@@ -59,7 +59,7 @@ tags:
         10759
     ],
     "first_air_date": "1997-09-20",
-    "vote_average": 6.231,
+    "vote_average": 6.2,
     "origin_country": [
         "US"
     ],
