@@ -47,6 +47,76 @@
 		]
 	},
 	{
+		"backdrop_path": "/nSJZ1fuINwSVAx3x9ZEk11SUoaW.jpg",
+		"genre_ids": [
+			16,
+			10759
+		],
+		"id": 138502,
+		"name": "X-Men '97",
+		"origin_country": [
+			"US"
+		],
+		"original_language": "en",
+		"original_name": "X-Men '97",
+		"overview": "An animated series from Marvel Studios that explores new stories in the iconic ‘90s timeline of the original series.",
+		"poster_path": "/kZhODsClYVftvqwwZB7nPcuA1km.jpg",
+		"vote_average": 0,
+		"title": "X-Men '97",
+		"slug": "x-men-97",
+		"tags": [
+			"tv",
+			"company-420"
+		]
+	},
+	{
+		"backdrop_path": null,
+		"genre_ids": [
+			16,
+			10759
+		],
+		"id": 138503,
+		"name": "Your Friendly Neighborhood Spider-Man",
+		"origin_country": [
+			"US"
+		],
+		"original_language": "en",
+		"original_name": "Your Friendly Neighborhood Spider-Man",
+		"overview": "Follow Peter Parker on his way to becoming Spider-Man, with a journey unlike any we've ever seen.",
+		"poster_path": "/7ecqjxf49CaTsqQFIUd1iceoXZB.jpg",
+		"vote_average": 0,
+		"title": "Your Friendly Neighborhood Spider-Man",
+		"slug": "your-friendly-neighborhood-spider-man",
+		"tags": [
+			"tv",
+			"company-420"
+		]
+	},
+	{
+		"backdrop_path": null,
+		"genre_ids": [
+			16,
+			10765,
+			10759
+		],
+		"id": 138505,
+		"name": "Marvel Zombies",
+		"origin_country": [
+			"US"
+		],
+		"original_language": "en",
+		"original_name": "Marvel Zombies",
+		"overview": "The Marvel Universe is reimagined as a new generation of heroes battle against an ever-spreading zombie scourge.",
+		"poster_path": "/vK2ZJlnurjxajVXGxy6KMeHJuW8.jpg",
+		"vote_average": 0,
+		"title": "Marvel Zombies",
+		"slug": "marvel-zombies",
+		"tags": [
+			"tv",
+			"company-420"
+		]
+	},
+	{
 		"backdrop_path": null,
 		"first_air_date": "",
 		"genre_ids": [
@@ -134,6 +204,31 @@
 		"vote_average": 0,
 		"title": "Nova",
 		"slug": "nova",
+		"tags": [
+			"tv",
+			"company-420"
+		]
+	},
+	{
+		"backdrop_path": null,
+		"first_air_date": "",
+		"genre_ids": [
+			16,
+			10759,
+			10764
+		],
+		"id": 241388,
+		"name": "Eyes of Wakanda",
+		"origin_country": [
+			"US"
+		],
+		"original_language": "en",
+		"original_name": "Eyes of Wakanda",
+		"overview": "Throughout Wakandan history, brave warriors have been tasked to travel the world retrieving dangerous vibranium artifacts. This is their story.",
+		"poster_path": null,
+		"vote_average": 0,
+		"title": "Eyes of Wakanda",
+		"slug": "eyes-of-wakanda",
 		"tags": [
 			"tv",
 			"company-420"
@@ -1047,6 +1142,129 @@
 		]
 	},
 	{
+		"backdrop_path": "/bAnHzJ6AMhOhnV3C0kTxkpCqpgM.jpg",
+		"first_air_date": "2022-08-10",
+		"genre_ids": [
+			16,
+			35,
+			10751,
+			10765,
+			10762
+		],
+		"id": 232125,
+		"name": "I Am Groot",
+		"origin_country": [
+			"US"
+		],
+		"original_language": "en",
+		"original_name": "I Am Groot",
+		"overview": "There’s no guarding the galaxy from this mischievous toddler! Get ready as Baby Groot takes center stage in his very own collection of shorts, exploring his glory days growing up and getting into trouble among the stars.",
+		"poster_path": "/lYwFSsP4KsoRhOLhJvBFp3GEGEm.jpg",
+		"vote_average": 7.2,
+		"title": "I Am Groot",
+		"slug": "i-am-groot",
+		"tags": [
+			"tv",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/9bColKVEAaWfmOLiLZoUhdYfevy.jpg",
+		"genre_ids": [
+			16,
+			10751,
+			35,
+			878
+		],
+		"id": 1010818,
+		"original_language": "en",
+		"original_title": "Groot's First Steps",
+		"overview": "Following the events of “Guardians of the Galaxy Vol. 1,” Baby Groot is finally ready to try taking his first steps out of his pot—only to learn you have to walk before you can run.",
+		"poster_path": "/1ifiV9ZJD4tC3tRYcnLIzH0meaB.jpg",
+		"release_date": "2022-08-10",
+		"title": "Groot's First Steps",
+		"video": false,
+		"vote_average": 7,
+		"slug": "groots-first-steps",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/tTrZap8lEJsdpnab5yIR3d9bedg.jpg",
+		"genre_ids": [
+			16,
+			10751,
+			35,
+			878
+		],
+		"id": 1010819,
+		"original_language": "en",
+		"original_title": "The Little Guy",
+		"overview": "Groot discovers a miniature civilization that believes the seemingly enormous tree toddler is the hero they’ve been waiting for.",
+		"poster_path": "/lPzcizL8PdS2U1q0rfhlVn00b9l.jpg",
+		"release_date": "2022-08-10",
+		"title": "The Little Guy",
+		"video": false,
+		"vote_average": 7.3,
+		"slug": "the-little-guy",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/jaEWCQ93FUGCp4p59cLktWUuYOS.jpg",
+		"genre_ids": [
+			16,
+			10751,
+			35,
+			878
+		],
+		"id": 1010820,
+		"original_language": "en",
+		"original_title": "Groot's Pursuit",
+		"overview": "Groot investigates a spooky noise that’s been haunting the Quadrant, which leads to an intense dance off.",
+		"poster_path": "/z5AQHYTTx7DzG9CRd01ny9DtqNE.jpg",
+		"release_date": "2022-08-10",
+		"title": "Groot's Pursuit",
+		"video": false,
+		"vote_average": 7.1,
+		"slug": "groots-pursuit",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/4bsz75kSdeVQm9u5aD87ciRpYVW.jpg",
+		"genre_ids": [
+			16,
+			10751,
+			35,
+			878
+		],
+		"id": 1010821,
+		"original_language": "en",
+		"original_title": "Groot Takes a Bath",
+		"overview": "Everybody needs some alone time to relax and wash up, but things go quite differently when you’re a Flora Colossi toddler.",
+		"poster_path": "/sN7FJP06TsNNtK9Jr77dc25yI82.jpg",
+		"release_date": "2022-08-10",
+		"title": "Groot Takes a Bath",
+		"video": false,
+		"vote_average": 7.1,
+		"slug": "groot-takes-a-bath",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
 		"adult": false,
 		"backdrop_path": "/qXOYUTJ5p5aINFGmyIWTGeZCNTc.jpg",
 		"genre_ids": [
@@ -1062,6 +1280,30 @@
 		"video": false,
 		"vote_average": 7.1,
 		"slug": "marvel-studios-assembled-the-making-of-ms-marvel",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/qtKlSjETlYzbq4URtxocQtKce8d.jpg",
+		"genre_ids": [
+			16,
+			10751,
+			878,
+			35
+		],
+		"id": 1010823,
+		"original_language": "en",
+		"original_title": "Magnum Opus",
+		"overview": "Groot sets out to paint a family portrait of himself and the Guardians, only to discover just how messy the artistic process can be.",
+		"poster_path": "/8p8JsKokKbuNCn9yBirAg1oEwGd.jpg",
+		"release_date": "2022-07-18",
+		"title": "Magnum Opus",
+		"video": false,
+		"vote_average": 7.3,
+		"slug": "magnum-opus",
 		"tags": [
 			"movie",
 			"company-420"
@@ -1427,6 +1669,56 @@
 		"slug": "shang-chi-and-the-legend-of-the-ten-rings",
 		"tags": [
 			"movie",
+			"company-420"
+		]
+	},
+	{
+		"backdrop_path": "/xuCHkaxkkm9pPum1SByC0dhvR2U.jpg",
+		"first_air_date": "2021-08-11",
+		"genre_ids": [
+			16,
+			10759,
+			10765
+		],
+		"id": 91363,
+		"name": "What If...?",
+		"origin_country": [
+			"US"
+		],
+		"original_language": "en",
+		"original_name": "What If...?",
+		"overview": "Taking inspiration from the comic books of the same name, each episode of this animated anthology series questions, revisits and twists classic Marvel Cinematic moments.",
+		"poster_path": "/lztz5XBMG1x6Y5ubz7CxfPFsAcW.jpg",
+		"vote_average": 8.2,
+		"title": "What If...?",
+		"slug": "what-if",
+		"tags": [
+			"tv",
+			"company-420"
+		]
+	},
+	{
+		"backdrop_path": "/7CvmnHAVxhDbYE7jPp0PbKunqqs.jpg",
+		"first_air_date": "2021-08-06",
+		"genre_ids": [
+			10762,
+			16,
+			35
+		],
+		"id": 127635,
+		"name": "Marvel's Spidey and His Amazing Friends",
+		"origin_country": [
+			"US"
+		],
+		"original_language": "en",
+		"original_name": "Marvel's Spidey and His Amazing Friends",
+		"overview": "Follow Peter Parker, Gwen Stacy and Miles Morales and their adventures as the young heroes team up with Hulk, Ms. Marvel and Black Panther to defeat foes like Rhino, Doc Ock and Green Goblin and learn that teamwork is the best way to save the day.",
+		"poster_path": "/etO5jDS5WgR4Y1lTyXhQcilJ6u2.jpg",
+		"vote_average": 7.3,
+		"title": "Marvel's Spidey and His Amazing Friends",
+		"slug": "marvels-spidey-and-his-amazing-friends",
+		"tags": [
+			"tv",
 			"company-420"
 		]
 	},
@@ -1965,7 +2257,7 @@
 		],
 		"release_date": "2018-12-11",
 		"video": false,
-		"vote_average": 7.136,
+		"vote_average": 7.14,
 		"slug": "once-upon-a-deadpool",
 		"tags": [
 			"list-8204860"
@@ -2194,7 +2486,7 @@
 		"release_date": "2017-12-09",
 		"title": "LEGO Marvel Super Heroes: Guardians of the Galaxy - The Thanos Threat",
 		"video": false,
-		"vote_average": 6.9,
+		"vote_average": 6.8,
 		"slug": "lego-marvel-super-heroes-guardians-of-the-galaxy-the-thanos-threat",
 		"tags": [
 			"movie",
@@ -3454,7 +3746,7 @@
 			10765
 		],
 		"first_air_date": "2013-05-26",
-		"vote_average": 7.594,
+		"vote_average": 7.6,
 		"origin_country": [
 			"US"
 		],
@@ -4329,7 +4621,7 @@
 		"release_date": "2007-01-23",
 		"title": "The Invincible Iron Man",
 		"video": false,
-		"vote_average": 6.139,
+		"vote_average": 6.138,
 		"slug": "the-invincible-iron-man",
 		"tags": [
 			"movie",
@@ -5506,7 +5798,7 @@
 		],
 		"release_date": "1977-09-14",
 		"video": false,
-		"vote_average": 5.954,
+		"vote_average": 5.983,
 		"slug": "spider-man",
 		"tags": [
 			"list-8204862"

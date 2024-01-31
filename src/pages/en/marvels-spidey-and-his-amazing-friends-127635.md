@@ -17,7 +17,8 @@ type: tv
     "first_air_date": "2021-08-06",
     "genre_ids": [
         10762,
-        16
+        16,
+        35
     ],
     "id": 127635,
     "name": "Marvel's Spidey and His Amazing Friends",

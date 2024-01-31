@@ -32,7 +32,8 @@ tags:
     "first_air_date": "",
     "genre_ids": [
         16,
-        10759
+        10759,
+        10764
     ],
     "id": 241388,
     "name": "Eyes of Wakanda",
