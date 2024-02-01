@@ -650,15 +650,15 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
+		"backdrop_path": "/cU8P1DeAlbAr8g9NlJony6FGIhi.jpg",
 		"genre_ids": [
 			99
 		],
 		"id": 1220337,
 		"original_language": "en",
 		"original_title": "Marvel Studios Assembled: The Making of Echo",
-		"overview": "Go behind-the-scenes of Maya's own groundbreaking series: \"Echo.\" Discover how members of the production's cast and crew learned American Sign Language to create a more inclusive and accessible on-set environment. Witness the filmmakers taking unprecedented steps to portray Native American culture truthfully, and without artifice. Spend time with powerhouse actor Vincent D'Onofrio as he brings the Kingpin to monstrous life once more.",
-		"poster_path": null,
+		"overview": "Join us on a revealing journey behind-the-scenes of Maya Lopez’s own groundbreaking series. Witness how the production took unprecedented steps to portray the deaf experience, and Native American culture truthfully. Spend time with powerhouse actor Vincent D’Onofrio as he brings the Kingpin to monstrous life once again. All this and more waits to be discovered in \"Assembled: The Making of Echo.\"",
+		"poster_path": "/nVP320D13evThlaESi7Wc4DCcLp.jpg",
 		"release_date": "2024-01-31",
 		"title": "Marvel Studios Assembled: The Making of Echo",
 		"video": false,
@@ -1460,7 +1460,7 @@
 		"original_name": "Moon Knight",
 		"overview": "When Steven Grant, a mild-mannered gift-shop employee, becomes plagued with blackouts and memories of another life, he discovers he has dissociative identity disorder and shares a body with mercenary Marc Spector. As Steven/Marc’s enemies converge upon them, they must navigate their complex identities while thrust into a deadly mystery among the powerful gods of Egypt.",
 		"poster_path": "/vKDUmKO6F9bSKKyHhg7YGbgcEeF.jpg",
-		"vote_average": 7.8,
+		"vote_average": 7.7,
 		"title": "Moon Knight",
 		"slug": "moon-knight",
 		"tags": [
@@ -1903,7 +1903,7 @@
 		"original_name": "WandaVision",
 		"overview": "Wanda Maximoff and Vision—two super-powered beings living idealized suburban lives—begin to suspect that everything is not as it seems.",
 		"poster_path": "/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
-		"vote_average": 8.3,
+		"vote_average": 8.2,
 		"title": "WandaVision",
 		"slug": "wandavision",
 		"tags": [
@@ -4957,7 +4957,7 @@
 		"release_date": "2003-04-27",
 		"title": "X2",
 		"video": false,
-		"vote_average": 7.029,
+		"vote_average": 7.028,
 		"slug": "x2",
 		"tags": [
 			"movie",
@@ -5011,31 +5011,32 @@
 		]
 	},
 	{
-		"adult": false,
 		"backdrop_path": "/A2BqbbSs9E4emekdxdvWzLK6lpx.jpg",
-		"id": 1449,
-		"name": "Mutant X",
-		"original_language": "en",
-		"original_name": "Mutant X",
-		"overview": "Mutant X is a science fiction television series that debuted on October 6, 2001. The show was created by Avi Arad, and it centers around Mutant X, a team of \"New Mutants\" who possess extraordinary powers as a result of genetic engineering. The members of Mutant X were used as test subjects in a series of covert government experiments. The mission of Mutant X is to seek out and protect their fellow New Mutants. The series was filmed in Toronto, Ontario, Canada.\n\nEven though the series had high ratings and was meant to be renewed for a fourth season, it was abruptly canceled in 2004 after the dismantling of Fireworks Entertainment, one of the show's production companies, ending the show on a cliffhanger.",
-		"poster_path": "/yiKg027jdpkSsguVBI9WqliNWez.jpg",
-		"media_type": "tv",
+		"first_air_date": "2001-10-06",
 		"genre_ids": [
 			10765,
 			10759,
 			9648
 		],
-		"first_air_date": "2001-10-06",
-		"vote_average": 6.532,
+		"id": 1449,
+		"name": "Mutant X",
 		"origin_country": [
-			"CA",
 			"US"
 		],
+		"original_language": "en",
+		"original_name": "Mutant X",
+		"overview": "Mutant X is a science fiction television series that debuted on October 6, 2001. The show was created by Avi Arad, and it centers around Mutant X, a team of \"New Mutants\" who possess extraordinary powers as a result of genetic engineering. The members of Mutant X were used as test subjects in a series of covert government experiments. The mission of Mutant X is to seek out and protect their fellow New Mutants. The series was filmed in Toronto, Ontario, Canada.\n\nEven though the series had high ratings and was meant to be renewed for a fourth season, it was abruptly canceled in 2004 after the dismantling of Fireworks Entertainment, one of the show's production companies, ending the show on a cliffhanger.",
+		"poster_path": "/yiKg027jdpkSsguVBI9WqliNWez.jpg",
+		"vote_average": 6.5,
 		"title": "Mutant X",
 		"slug": "mutant-x",
 		"tags": [
+			"tv",
+			"company-420",
 			"list-8204860"
-		]
+		],
+		"adult": false,
+		"media_type": "tv"
 	},
 	{
 		"backdrop_path": "/ypjekzMRMvdrx4PRA7v1DNyCmTR.jpg",
@@ -5232,9 +5233,9 @@
 			14,
 			878
 		],
-		"release_date": "1996-12-20",
+		"release_date": "1996-02-20",
 		"video": false,
-		"vote_average": 3.97,
+		"vote_average": 4,
 		"slug": "generation-x",
 		"tags": [
 			"list-8204860",
@@ -5385,7 +5386,7 @@
 		],
 		"release_date": "1990-02-18",
 		"video": false,
-		"vote_average": 5.021,
+		"vote_average": 5,
 		"slug": "the-death-of-the-incredible-hulk",
 		"tags": [
 			"list-8204862"
@@ -5411,7 +5412,7 @@
 		],
 		"release_date": "1989-05-07",
 		"video": false,
-		"vote_average": 6.317,
+		"vote_average": 6.3,
 		"slug": "the-trial-of-the-incredible-hulk",
 		"tags": [
 			"list-8204862"
@@ -5435,7 +5436,7 @@
 		],
 		"release_date": "1988-05-22",
 		"video": false,
-		"vote_average": 6.038,
+		"vote_average": 6,
 		"slug": "the-incredible-hulk-returns",
 		"tags": [
 			"list-8204862"
@@ -5458,7 +5459,7 @@
 		],
 		"release_date": "1986-08-01",
 		"video": false,
-		"vote_average": 5.395,
+		"vote_average": 5.396,
 		"slug": "howard-the-duck",
 		"tags": [
 			"list-8204859"

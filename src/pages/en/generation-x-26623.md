@@ -29,9 +29,9 @@ watchLinks:
         14,
         878
     ],
-    "release_date": "1996-12-20",
+    "release_date": "1996-02-20",
     "video": false,
-    "vote_average": 3.97,
+    "vote_average": 4,
     "slug": "generation-x",
     "tags": [
         "list-8204860",

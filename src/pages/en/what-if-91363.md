@@ -2,9 +2,9 @@
 title: What If...?
 slug: what-if
 description: >-
-  Taking inspiration from the comic books of the same name, each episode
-  explores a pivotal moment from the Marvel Cinematic Universe and turns it on
-  its head, leading the audience into uncharted territory.
+  Taking inspiration from the comic books of the same name, each episode of this
+  animated anthology series questions, revisits and twists classic Marvel
+  Cinematic moments.
 layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/tmdb-image/wzFmZOBRSYbrPxJE2nkhq2tAKwI.webp
