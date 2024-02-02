@@ -43,11 +43,11 @@ tags:
     "original_language": "en",
     "original_title": "Marvel Studios Assembled: The Making of Echo",
     "overview": "Join us on a revealing journey behind-the-scenes of Maya Lopez’s own groundbreaking series. Witness how the production took unprecedented steps to portray the deaf experience, and Native American culture truthfully. Spend time with powerhouse actor Vincent D’Onofrio as he brings the Kingpin to monstrous life once again. All this and more waits to be discovered in \"Assembled: The Making of Echo.\"",
-    "poster_path": "/nVP320D13evThlaESi7Wc4DCcLp.jpg",
+    "poster_path": "/m2NdqwcZK6LswtvVN65zocVYc38.jpg",
     "release_date": "2024-01-31",
     "title": "Marvel Studios Assembled: The Making of Echo",
     "video": false,
-    "vote_average": 0,
+    "vote_average": 3,
     "slug": "marvel-studios-assembled-the-making-of-echo",
     "tags": [
         "movie",
