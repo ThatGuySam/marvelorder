@@ -32,7 +32,7 @@ logo_on_black: >-
     "release_date": "2018-06-04",
     "title": "LEGO Marvel Super Heroes: Black Panther - Trouble in Wakanda",
     "video": false,
-    "vote_average": 6,
+    "vote_average": 5.991,
     "slug": "lego-marvel-super-heroes-black-panther-trouble-in-wakanda",
     "tags": [
         "movie",

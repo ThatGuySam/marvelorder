@@ -34,7 +34,7 @@ watchLinks:
     ],
     "release_date": "2019-06-05",
     "video": false,
-    "vote_average": 5.983,
+    "vote_average": 5.982,
     "slug": "dark-phoenix",
     "tags": [
         "list-8204860"

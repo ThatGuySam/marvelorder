@@ -12,6 +12,7 @@ release_date: "Spring 2024"
 ## TMDB Data
 ```json
 {
+    "adult": false,
     "backdrop_path": "/5NGuM3zv8KjFg7k0FBZ0UdeLFGv.jpg",
     "genre_ids": [
         18,
@@ -19,7 +20,6 @@ release_date: "Spring 2024"
         10759
     ],
     "id": 202555,
-    "name": "Daredevil: Born Again",
     "origin_country": [
         "US"
     ],
@@ -27,6 +27,8 @@ release_date: "Spring 2024"
     "original_name": "Daredevil: Born Again",
     "overview": "An upcoming Disney+ series featuring Matt Murdock aka Daredevil in the Marvel Cinematic Universe.",
     "poster_path": "/t2MKhbLkSlMduIukClOXFMK9LhP.jpg",
+    "first_air_date": "",
+    "name": "Daredevil: Born Again",
     "vote_average": 0,
     "title": "Daredevil: Born Again",
     "slug": "daredevil-born-again",

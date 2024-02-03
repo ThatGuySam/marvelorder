@@ -24,13 +24,13 @@ tags:
 ## TMDB Data
 ```json
 {
+    "adult": false,
     "backdrop_path": "/wPnapuJNdWe27IAE5z2Hieo4Yh.jpg",
     "genre_ids": [
         35,
         10765
     ],
     "id": 138501,
-    "name": "Agatha: Darkhold Diaries",
     "origin_country": [
         "US"
     ],
@@ -38,6 +38,8 @@ tags:
     "original_name": "Agatha: Darkhold Diaries",
     "overview": "Follow Agatha Harkness before and after her appearance in WandaVision.",
     "poster_path": "/kEDwWQM6hjGntkJFgvIGt0fmShr.jpg",
+    "first_air_date": "",
+    "name": "Agatha: Darkhold Diaries",
     "vote_average": 0,
     "title": "Agatha: Darkhold Diaries",
     "slug": "agatha-darkhold-diaries",

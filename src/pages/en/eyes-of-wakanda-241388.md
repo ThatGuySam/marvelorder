@@ -28,15 +28,14 @@ tags:
 ## TMDB Data
 ```json
 {
+    "adult": false,
     "backdrop_path": null,
-    "first_air_date": "",
     "genre_ids": [
         16,
         10759,
         10764
     ],
     "id": 241388,
-    "name": "Eyes of Wakanda",
     "origin_country": [
         "US"
     ],
@@ -44,6 +43,8 @@ tags:
     "original_name": "Eyes of Wakanda",
     "overview": "Throughout Wakandan history, brave warriors have been tasked to travel the world retrieving dangerous vibranium artifacts. This is their story.",
     "poster_path": null,
+    "first_air_date": "",
+    "name": "Eyes of Wakanda",
     "vote_average": 0,
     "title": "Eyes of Wakanda",
     "slug": "eyes-of-wakanda",

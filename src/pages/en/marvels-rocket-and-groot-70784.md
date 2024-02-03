@@ -13,8 +13,8 @@ watchLinks:
 ## TMDB Data
 ```json
 {
+    "adult": false,
     "backdrop_path": "/jLuoxdI4S6JxOdlQYg57JLwDuEK.jpg",
-    "first_air_date": "2017-03-10",
     "genre_ids": [
         10762,
         16,
@@ -23,7 +23,6 @@ watchLinks:
         35
     ],
     "id": 70784,
-    "name": "Marvel's Rocket & Groot",
     "origin_country": [
         "US"
     ],
@@ -31,7 +30,9 @@ watchLinks:
     "original_name": "Marvel's Rocket & Groot",
     "overview": "Before becoming Guardians of the Galaxy, Rocket and Groot were bounty hunters trying to get a ship.",
     "poster_path": "/7FHJr40MPFwtHrOyOD9buQDoVcs.jpg",
-    "vote_average": 7,
+    "first_air_date": "2017-03-10",
+    "name": "Marvel's Rocket & Groot",
+    "vote_average": 6.976,
     "title": "Marvel's Rocket & Groot",
     "slug": "marvels-rocket-and-groot",
     "tags": [

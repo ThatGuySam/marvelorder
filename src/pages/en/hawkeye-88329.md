@@ -17,15 +17,14 @@ mcuTimelineOrder: 586
 ## TMDB Data
 ```json
 {
+    "adult": false,
     "backdrop_path": "/1R68vl3d5s86JsS2NPjl8UoMqIS.jpg",
-    "first_air_date": "2021-11-24",
     "genre_ids": [
         18,
         35,
         10759
     ],
     "id": 88329,
-    "name": "Hawkeye",
     "origin_country": [
         "US"
     ],
@@ -33,7 +32,9 @@ mcuTimelineOrder: 586
     "original_name": "Hawkeye",
     "overview": "Former Avenger Clint Barton has a seemingly simple mission: get back to his family for Christmas. Possible? Maybe with the help of Kate Bishop, a 22-year-old archer with dreams of becoming a superhero. The two are forced to work together when a presence from Barton’s past threatens to derail far more than the festive spirit.",
     "poster_path": "/ct5pNE5dDHryHLDnxyZPYcqO1sz.jpg",
-    "vote_average": 7.9,
+    "first_air_date": "2021-11-24",
+    "name": "Hawkeye",
+    "vote_average": 7.915,
     "title": "Hawkeye",
     "slug": "hawkeye",
     "tags": [

@@ -31,7 +31,7 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/gCzHEi6g8K0LIWlr6A38fmgtEfb.jpg",
+    "backdrop_path": "/8N91uYwrr1uepEKbmym1tgfXlzS.jpg",
     "genre_ids": [
         16,
         10751,
@@ -47,7 +47,7 @@ tags:
     "release_date": "2008-09-02",
     "title": "Next Avengers: Heroes of Tomorrow",
     "video": false,
-    "vote_average": 6.9,
+    "vote_average": 6.895,
     "slug": "next-avengers-heroes-of-tomorrow",
     "tags": [
         "movie",

@@ -24,7 +24,7 @@ mcuTimelineOrder: 546
 ```json
 {
     "adult": false,
-    "backdrop_path": "/u1hxf2Co5pm3SJzqFbVyMA8v2N0.jpg",
+    "backdrop_path": "/sxskOU71CO8LaNX2LOtjYFUtKv7.jpg",
     "genre_ids": [
         28,
         12,
@@ -38,7 +38,7 @@ mcuTimelineOrder: 546
     "release_date": "2012-06-23",
     "title": "The Amazing Spider-Man",
     "video": false,
-    "vote_average": 6.7,
+    "vote_average": 6.697,
     "slug": "the-amazing-spider-man",
     "tags": [
         "movie",

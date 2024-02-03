@@ -18,7 +18,7 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/mLBReXFauC7xtbvWOMaBM891vF7.jpg",
+    "backdrop_path": "/61l2TNmJMjEXcznDTWHVC1oBpZC.jpg",
     "genre_ids": [
         28,
         14,
@@ -32,7 +32,7 @@ watchLinks:
     "release_date": "2011-12-10",
     "title": "Ghost Rider: Spirit of Vengeance",
     "video": false,
-    "vote_average": 5,
+    "vote_average": 5.011,
     "slug": "ghost-rider-spirit-of-vengeance",
     "tags": [
         "movie",

@@ -17,15 +17,14 @@ tags:
 ## TMDB Data
 ```json
 {
+    "adult": false,
     "backdrop_path": "/xuCHkaxkkm9pPum1SByC0dhvR2U.jpg",
-    "first_air_date": "2021-08-11",
     "genre_ids": [
         16,
         10759,
         10765
     ],
     "id": 91363,
-    "name": "What If...?",
     "origin_country": [
         "US"
     ],
@@ -33,7 +32,9 @@ tags:
     "original_name": "What If...?",
     "overview": "Taking inspiration from the comic books of the same name, each episode of this animated anthology series questions, revisits and twists classic Marvel Cinematic moments.",
     "poster_path": "/lztz5XBMG1x6Y5ubz7CxfPFsAcW.jpg",
-    "vote_average": 8.2,
+    "first_air_date": "2021-08-11",
+    "name": "What If...?",
+    "vote_average": 8.172,
     "title": "What If...?",
     "slug": "what-if",
     "tags": [

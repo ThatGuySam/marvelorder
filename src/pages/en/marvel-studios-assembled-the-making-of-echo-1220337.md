@@ -35,7 +35,7 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/cU8P1DeAlbAr8g9NlJony6FGIhi.jpg",
+    "backdrop_path": "/dlHzNpFMlZwSR9Cw8XVPAiAKul5.jpg",
     "genre_ids": [
         99
     ],
@@ -47,7 +47,7 @@ tags:
     "release_date": "2024-01-31",
     "title": "Marvel Studios Assembled: The Making of Echo",
     "video": false,
-    "vote_average": 3,
+    "vote_average": 6,
     "slug": "marvel-studios-assembled-the-making-of-echo",
     "tags": [
         "movie",

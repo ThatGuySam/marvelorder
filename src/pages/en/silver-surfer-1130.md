@@ -13,15 +13,14 @@ watchLinks:
 ## TMDB Data
 ```json
 {
-    "backdrop_path": "/776tRQ2c0JNrRjZahgpEdXtjSD9.jpg",
-    "first_air_date": "1998-02-07",
+    "adult": false,
+    "backdrop_path": "/uPvWJbO9tIL7tnhcoCRweBPteTe.jpg",
     "genre_ids": [
         16,
         10759,
         10765
     ],
     "id": 1130,
-    "name": "Silver Surfer",
     "origin_country": [
         "US"
     ],
@@ -29,7 +28,9 @@ watchLinks:
     "original_name": "Silver Surfer",
     "overview": "The adventures of the cosmic wanderer as he seeks his lost home after rebelling from his master.",
     "poster_path": "/mBJTL4CRSoNkAQRmfwbiLTtviuW.jpg",
-    "vote_average": 7.2,
+    "first_air_date": "1998-02-07",
+    "name": "Silver Surfer",
+    "vote_average": 7.169,
     "title": "Silver Surfer",
     "slug": "silver-surfer",
     "tags": [

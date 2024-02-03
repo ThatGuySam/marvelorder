@@ -11,13 +11,12 @@ type: tv
 ## TMDB Data
 ```json
 {
+    "adult": false,
     "backdrop_path": "/bltNf2ajBm3wkfiF5Lglw7DS0vk.jpg",
-    "first_air_date": "2021-03-12",
     "genre_ids": [
         99
     ],
     "id": 118924,
-    "name": "Marvel Studios Assembled",
     "origin_country": [
         "US"
     ],
@@ -25,6 +24,8 @@ type: tv
     "original_name": "Marvel Studios Assembled",
     "overview": "Go behind the scenes of the shows and movies of the Marvel Cinematic Universe, following the filmmakers, cast and crew, and Marvel heroes every step of the way.",
     "poster_path": "/v2BHRwtQVkt5fssLdo5MpFgHJPY.jpg",
+    "first_air_date": "2021-03-12",
+    "name": "Marvel Studios Assembled",
     "vote_average": 7.2,
     "title": "Marvel Studios Assembled",
     "slug": "marvel-studios-assembled",
