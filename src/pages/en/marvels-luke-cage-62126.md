@@ -32,7 +32,7 @@ mcuTimelineOrder: 139
     "poster_path": "/quTfV803fGaSADzTeEqCbIZnt9d.jpg",
     "first_air_date": "2016-09-30",
     "name": "Marvel's Luke Cage",
-    "vote_average": 6.948,
+    "vote_average": 6.946,
     "title": "Marvel's Luke Cage",
     "slug": "marvels-luke-cage",
     "tags": [

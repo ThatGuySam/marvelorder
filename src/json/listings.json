@@ -330,7 +330,7 @@
 		"original_language": "en",
 		"original_title": "Spider-Man 4",
 		"overview": "The next installment of the MCU Spider-Man franchise: a sequel to \"Spider-Man: No Way Home\" and the first in a possible new trilogy. Plot unknown.",
-		"poster_path": "/1YcVNCOAcR91OJxc9ngFj0OA4Ly.jpg",
+		"poster_path": null,
 		"release_date": "",
 		"title": "Spider-Man 4",
 		"video": false,
@@ -710,7 +710,7 @@
 		"poster_path": "/4m2kop1q6OLnOz7MWZmdzZbSNkh.jpg",
 		"first_air_date": "2024-01-09",
 		"name": "Echo",
-		"vote_average": 6.287,
+		"vote_average": 6.3,
 		"title": "Echo",
 		"slug": "echo",
 		"tags": [
@@ -921,6 +921,29 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": "/nJbWAc8wakV3BncyF4643SyFWPr.jpg",
+		"genre_ids": [
+			35,
+			878,
+			12
+		],
+		"id": 774752,
+		"original_language": "en",
+		"original_title": "The Guardians of the Galaxy Holiday Special",
+		"overview": "On a mission to make Christmas unforgettable for Quill, the Guardians head to Earth in search of the perfect present.",
+		"poster_path": "/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg",
+		"release_date": "2022-11-25",
+		"title": "The Guardians of the Galaxy Holiday Special",
+		"video": false,
+		"vote_average": 7.2,
+		"slug": "the-guardians-of-the-galaxy-holiday-special",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/xDMIl84Qo5Tsu62c9DGWhmPI67A.jpg",
 		"genre_ids": [
 			28,
@@ -935,7 +958,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 7.148,
+		"vote_average": 7.1,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -1000,7 +1023,7 @@
 		"release_date": "2022-09-25",
 		"title": "Werewolf by Night",
 		"video": false,
-		"vote_average": 7.011,
+		"vote_average": 7,
 		"slug": "werewolf-by-night",
 		"tags": [
 			"movie",
@@ -1045,7 +1068,7 @@
 		"poster_path": "/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
 		"first_air_date": "2022-08-18",
 		"name": "She-Hulk: Attorney at Law",
-		"vote_average": 6.316,
+		"vote_average": 6.317,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
 		"tags": [
@@ -1098,7 +1121,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot's First Steps",
 		"video": false,
-		"vote_average": 7.024,
+		"vote_average": 7.022,
 		"slug": "groots-first-steps",
 		"tags": [
 			"movie",
@@ -1170,7 +1193,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot Takes a Bath",
 		"video": false,
-		"vote_average": 7.107,
+		"vote_average": 7.105,
 		"slug": "groot-takes-a-bath",
 		"tags": [
 			"movie",
@@ -1259,7 +1282,7 @@
 		"release_date": "2022-07-06",
 		"title": "Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 6.484,
+		"vote_average": 6.483,
 		"slug": "thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -1515,7 +1538,7 @@
 		"poster_path": "/lztz5XBMG1x6Y5ubz7CxfPFsAcW.jpg",
 		"first_air_date": "2021-08-11",
 		"name": "What If...?",
-		"vote_average": 8.172,
+		"vote_average": 8.2,
 		"title": "What If...?",
 		"slug": "what-if",
 		"tags": [
@@ -1546,6 +1569,29 @@
 		"slug": "marvels-spidey-and-his-amazing-friends",
 		"tags": [
 			"tv",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/keIxh0wPr2Ymj0Btjh4gW7JJ89e.jpg",
+		"genre_ids": [
+			28,
+			12,
+			878
+		],
+		"id": 497698,
+		"original_language": "en",
+		"original_title": "Black Widow",
+		"overview": "Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.",
+		"poster_path": "/kwB7d51AIcyzPOBOHLCEZJkmPhQ.jpg",
+		"release_date": "2021-07-07",
+		"title": "Black Widow",
+		"video": false,
+		"vote_average": 7.273,
+		"slug": "black-widow",
+		"tags": [
+			"movie",
 			"company-420"
 		]
 	},
@@ -1912,6 +1958,29 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": "/ng6SSB3JhbcpKTwbPDsRwUYK8Cq.jpg",
+		"genre_ids": [
+			28,
+			12,
+			878
+		],
+		"id": 429617,
+		"original_language": "en",
+		"original_title": "Spider-Man: Far From Home",
+		"overview": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
+		"poster_path": "/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+		"release_date": "2019-06-28",
+		"title": "Spider-Man: Far From Home",
+		"video": false,
+		"vote_average": 7.4,
+		"slug": "spider-man-far-from-home",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/cjRUhKyt2Jo3V1KNzc5tpPNfccG.jpg",
 		"id": 320288,
 		"title": "Dark Phoenix",
@@ -1952,7 +2021,7 @@
 		"release_date": "2019-03-19",
 		"title": "Spider-Ham: Caught in a Ham",
 		"video": false,
-		"vote_average": 6.905,
+		"vote_average": 6.9,
 		"slug": "spider-ham-caught-in-a-ham",
 		"tags": [
 			"movie",
@@ -1975,7 +2044,7 @@
 		"release_date": "2019-03-06",
 		"title": "Captain Marvel",
 		"video": false,
-		"vote_average": 6.831,
+		"vote_average": 6.83,
 		"slug": "captain-marvel",
 		"tags": [
 			"movie",
@@ -2048,7 +2117,7 @@
 		],
 		"release_date": "2018-12-06",
 		"video": false,
-		"vote_average": 8.4,
+		"vote_average": 8.405,
 		"slug": "spider-man-into-the-spider-verse",
 		"tags": [
 			"list-8204859"
@@ -2078,6 +2147,29 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": "/iYdgEUE2W2aJkgqfSjf1x3gFfuV.jpg",
+		"genre_ids": [
+			28,
+			12,
+			878
+		],
+		"id": 363088,
+		"original_language": "en",
+		"original_title": "Ant-Man and the Wasp",
+		"overview": "Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.",
+		"poster_path": "/cFQEO687n1K6umXbInzocxcnAQz.jpg",
+		"release_date": "2018-07-04",
+		"title": "Ant-Man and the Wasp",
+		"video": false,
+		"vote_average": 6.9,
+		"slug": "ant-man-and-the-wasp",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/4amkATUf2mh5QL9OQ3WmHQqx9wk.jpg",
 		"genre_ids": [
 			10759,
@@ -2100,6 +2192,29 @@
 		"tags": [
 			"tv",
 			"company-38679"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/96ANeIgnKUqrBNlG2ZdesuOsony.jpg",
+		"genre_ids": [
+			16,
+			14,
+			10751
+		],
+		"id": 528222,
+		"original_language": "en",
+		"original_title": "LEGO Marvel Super Heroes: Black Panther - Trouble in Wakanda",
+		"overview": "After speaking at the Wakanda Embassy, Black Panther fights Thanos and fends him off with the help of fellow Avengers Captain America, Thor, Iron Man, Hulk, and Black Widow. After regaining conscious, Thanos is approached by Erik Killmonger and Ulysses Klaue in a plot where they will obtain the Vibranium in Wakanda to empower Thanos. When Black Panther discovers this plot, he must work with Shuri, Okoye, and the Avengers to defeat them.",
+		"poster_path": "/auiRFbbnMhnclaIMNGcQg0Uba8Y.jpg",
+		"release_date": "2018-06-04",
+		"title": "LEGO Marvel Super Heroes: Black Panther - Trouble in Wakanda",
+		"video": false,
+		"vote_average": 5.991,
+		"slug": "lego-marvel-super-heroes-black-panther-trouble-in-wakanda",
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -2260,7 +2375,7 @@
 		"poster_path": "/tM6xqRKXoloH9UchaJEyyRE9O1w.jpg",
 		"first_air_date": "2017-11-17",
 		"name": "Marvel's The Punisher",
-		"vote_average": 8.121,
+		"vote_average": 8.122,
 		"title": "Marvel's The Punisher",
 		"slug": "marvels-the-punisher",
 		"tags": [
@@ -2286,7 +2401,7 @@
 		"poster_path": "/nshCqszjTNuqhrB53vrSqWO18sE.jpg",
 		"first_air_date": "2017-10-02",
 		"name": "The Gifted",
-		"vote_average": 7.662,
+		"vote_average": 7.66,
 		"title": "The Gifted",
 		"slug": "the-gifted",
 		"tags": [
@@ -2295,6 +2410,29 @@
 			"list-8204860"
 		],
 		"media_type": "tv"
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/kaIfm5ryEOwYg8mLbq8HkPuM1Fo.jpg",
+		"genre_ids": [
+			28,
+			12,
+			878
+		],
+		"id": 284053,
+		"original_language": "en",
+		"original_title": "Thor: Ragnarok",
+		"overview": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.",
+		"poster_path": "/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg",
+		"release_date": "2017-10-02",
+		"title": "Thor: Ragnarok",
+		"video": false,
+		"vote_average": 7.6,
+		"slug": "thor-ragnarok",
+		"tags": [
+			"movie",
+			"company-420"
+		]
 	},
 	{
 		"adult": false,
@@ -2473,6 +2611,29 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": "/oBIn5pHlbmZgr5b8D6WL10rsgO5.jpg",
+		"genre_ids": [
+			878,
+			35,
+			14
+		],
+		"id": 441829,
+		"original_language": "en",
+		"original_title": "Team Thor: Part 2",
+		"overview": "A continuation of the documentary spoof of what Thor and his roommate Darryl were up to during the events of \"Captain America: Civil War\". While Cap and Iron Man duke it out, Thor tries to pay Darryl his rent in Asgardian coins.",
+		"poster_path": "/9Vt1OLu3BrKy1IQFK3QyzpR1LVm.jpg",
+		"release_date": "2017-02-14",
+		"title": "Team Thor: Part 2",
+		"video": false,
+		"vote_average": 6.976,
+		"slug": "team-thor-part-2",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/87eP7ITTrOWvkA4EqCuoRdyjzLy.jpg",
 		"genre_ids": [
 			10759,
@@ -2589,7 +2750,7 @@
 		"poster_path": "/quTfV803fGaSADzTeEqCbIZnt9d.jpg",
 		"first_air_date": "2016-09-30",
 		"name": "Marvel's Luke Cage",
-		"vote_average": 6.948,
+		"vote_average": 6.946,
 		"title": "Marvel's Luke Cage",
 		"slug": "marvels-luke-cage",
 		"tags": [
@@ -2612,7 +2773,7 @@
 		"release_date": "2016-08-28",
 		"title": "Team Thor",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.283,
 		"slug": "team-thor",
 		"tags": [
 			"movie",
@@ -2955,7 +3116,7 @@
 		"release_date": "2014-07-30",
 		"title": "Guardians of the Galaxy",
 		"video": false,
-		"vote_average": 7.907,
+		"vote_average": 7.9,
 		"slug": "guardians-of-the-galaxy",
 		"tags": [
 			"movie",
@@ -3228,7 +3389,7 @@
 		"release_date": "2013-10-30",
 		"title": "Thor: The Dark World",
 		"video": false,
-		"vote_average": 6.532,
+		"vote_average": 6.5,
 		"slug": "thor-the-dark-world",
 		"tags": [
 			"movie",
@@ -3299,7 +3460,7 @@
 		"release_date": "2013-09-03",
 		"title": "Marvel One-Shot: Agent Carter",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 7.221,
 		"slug": "marvel-one-shot-agent-carter",
 		"tags": [
 			"movie",
@@ -3323,7 +3484,7 @@
 		],
 		"release_date": "2013-07-21",
 		"video": false,
-		"vote_average": 6.403,
+		"vote_average": 6.4,
 		"slug": "the-wolverine",
 		"tags": [
 			"list-8204860"
@@ -3572,7 +3733,7 @@
 		"release_date": "2011-10-25",
 		"title": "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.817,
 		"slug": "marvel-one-shot-a-funny-thing-happened-on-the-way-to-thors-hammer",
 		"tags": [
 			"movie",
@@ -3596,7 +3757,7 @@
 		"release_date": "2011-09-13",
 		"title": "Marvel One-Shot: The Consultant",
 		"video": false,
-		"vote_average": 6.3,
+		"vote_average": 6.33,
 		"slug": "marvel-one-shot-the-consultant",
 		"tags": [
 			"movie",
@@ -3666,7 +3827,7 @@
 		"release_date": "2011-04-21",
 		"title": "Thor",
 		"video": false,
-		"vote_average": 6.767,
+		"vote_average": 6.8,
 		"slug": "thor",
 		"tags": [
 			"movie",
@@ -3839,7 +4000,7 @@
 		],
 		"release_date": "2009-04-28",
 		"video": false,
-		"vote_average": 6.259,
+		"vote_average": 6.3,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"list-8204860"
@@ -4156,7 +4317,7 @@
 		"release_date": "2007-05-01",
 		"title": "Spider-Man 3",
 		"video": false,
-		"vote_average": 6.408,
+		"vote_average": 6.409,
 		"slug": "spider-man-3",
 		"tags": [
 			"movie",
@@ -4207,7 +4368,7 @@
 		"release_date": "2007-01-15",
 		"title": "Ghost Rider",
 		"video": false,
-		"vote_average": 5.56,
+		"vote_average": 5.559,
 		"slug": "ghost-rider",
 		"tags": [
 			"movie",
@@ -4219,7 +4380,8 @@
 		"backdrop_path": "/q0bLjLCBZGhnMcRprx2gWRGdlrp.jpg",
 		"genre_ids": [
 			16,
-			10759
+			10759,
+			10765
 		],
 		"id": 132,
 		"origin_country": [
@@ -4364,6 +4526,29 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": "/qnVL4BNPlREYq4HKl6L62hiicYE.jpg",
+		"genre_ids": [
+			28,
+			14,
+			12
+		],
+		"id": 9947,
+		"original_language": "en",
+		"original_title": "Elektra",
+		"overview": "Elektra the warrior survives a near-death experience, becomes an assassin-for-hire, and tries to protect her two latest targets, a single father and his young daughter, from a group of supernatural assassins.",
+		"poster_path": "/9Azi1GBNj3gPPwmQWAMcATg7JOl.jpg",
+		"release_date": "2005-01-13",
+		"title": "Elektra",
+		"video": false,
+		"vote_average": 5.043,
+		"slug": "elektra",
+		"tags": [
+			"movie",
+			"company-19551"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/55885wQeb8XISRccwnfVJ7DDJFM.jpg",
 		"genre_ids": [
 			28,
@@ -4474,7 +4659,7 @@
 		"release_date": "2003-06-19",
 		"title": "Hulk",
 		"video": false,
-		"vote_average": 5.54,
+		"vote_average": 5.541,
 		"slug": "hulk",
 		"tags": [
 			"movie",
@@ -4701,7 +4886,7 @@
 		"release_date": "1998-05-26",
 		"title": "Nick Fury: Agent of S.H.I.E.L.D.",
 		"video": false,
-		"vote_average": 4.453,
+		"vote_average": 4.5,
 		"slug": "nick-fury-agent-of-shield",
 		"tags": [
 			"movie",
@@ -5002,7 +5187,7 @@
 		],
 		"release_date": "1986-08-01",
 		"video": false,
-		"vote_average": 5.396,
+		"vote_average": 5.4,
 		"slug": "howard-the-duck",
 		"tags": [
 			"list-8204859"
@@ -5074,7 +5259,7 @@
 		],
 		"release_date": "1979-11-23",
 		"video": false,
-		"vote_average": 3.644,
+		"vote_average": 3.6,
 		"slug": "captain-america-ii-death-too-soon",
 		"tags": [
 			"list-8204862"
@@ -5145,7 +5330,7 @@
 		],
 		"release_date": "1979-01-19",
 		"video": false,
-		"vote_average": 3.863,
+		"vote_average": 3.9,
 		"slug": "captain-america",
 		"tags": [
 			"list-8204862"
@@ -5195,7 +5380,7 @@
 		],
 		"release_date": "1978-09-06",
 		"video": false,
-		"vote_average": 5.962,
+		"vote_average": 6,
 		"slug": "dr-strange",
 		"tags": [
 			"list-8204862"
@@ -5282,7 +5467,7 @@
 		"original_language": "en",
 		"original_title": "The Return of the Incredible Hulk",
 		"overview": "On the run and presumed dead by the authorities, David Banner, using the name 'Benton', continues in his efforts to find a cure. He accidentally finds himself in the middle of a plot to kill a young, crippled girl so her unscrupulous relatives can inherit the family fortune.",
-		"poster_path": "/txaGDIztTcqU1RvtntIwXM8kHac.jpg",
+		"poster_path": "/nVPk7Fnjgo872PH6U6LaH1QP7qM.jpg",
 		"media_type": "movie",
 		"genre_ids": [
 			10770,
@@ -5465,7 +5650,7 @@
 		],
 		"release_date": "1944-02-05",
 		"video": false,
-		"vote_average": 5.611,
+		"vote_average": 5.6,
 		"slug": "captain-america",
 		"tags": [
 			"list-8204862"
