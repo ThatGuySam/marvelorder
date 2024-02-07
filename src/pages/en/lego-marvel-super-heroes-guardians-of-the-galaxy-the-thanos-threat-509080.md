@@ -26,7 +26,7 @@ type: movie
     "release_date": "2017-12-09",
     "title": "LEGO Marvel Super Heroes: Guardians of the Galaxy - The Thanos Threat",
     "video": false,
-    "vote_average": 6.817,
+    "vote_average": 6.755,
     "slug": "lego-marvel-super-heroes-guardians-of-the-galaxy-the-thanos-threat",
     "tags": [
         "movie",

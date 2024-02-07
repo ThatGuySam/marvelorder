@@ -230,8 +230,7 @@
 		"backdrop_path": null,
 		"genre_ids": [
 			16,
-			10759,
-			10764
+			10759
 		],
 		"id": 241388,
 		"origin_country": [
@@ -590,7 +589,7 @@
 		"original_language": "en",
 		"original_title": "Captain America: Brave New World",
 		"overview": "A sequel to Marvel Studios' The Falcon and the Winter Soldier and follows Sam Wilson as the new Captain America.",
-		"poster_path": "/jNWaUMmnQ26fiz2B6tIn0aC9fO0.jpg",
+		"poster_path": "/ghkjPyaPGMfDufOa4D2A51DFGWr.jpg",
 		"release_date": "2025-02-12",
 		"title": "Captain America: Brave New World",
 		"video": false,
@@ -664,7 +663,7 @@
 		"release_date": "2024-02-07",
 		"title": "Marvel Studios Assembled: The Making of The Marvels",
 		"video": false,
-		"vote_average": 0,
+		"vote_average": 4,
 		"slug": "marvel-studios-assembled-the-making-of-the-marvels",
 		"tags": [
 			"movie",
@@ -685,7 +684,7 @@
 		"release_date": "2024-01-31",
 		"title": "Marvel Studios Assembled: The Making of Echo",
 		"video": false,
-		"vote_average": 6,
+		"vote_average": 5.375,
 		"slug": "marvel-studios-assembled-the-making-of-echo",
 		"tags": [
 			"movie",
@@ -710,7 +709,7 @@
 		"poster_path": "/4m2kop1q6OLnOz7MWZmdzZbSNkh.jpg",
 		"first_air_date": "2024-01-09",
 		"name": "Echo",
-		"vote_average": 6.3,
+		"vote_average": 6.255,
 		"title": "Echo",
 		"slug": "echo",
 		"tags": [
@@ -734,6 +733,29 @@
 		"video": false,
 		"vote_average": 7.2,
 		"slug": "marvel-studios-assembled-the-making-of-loki-season-2",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/8ELzhNZCmZbLi20IIXIXwz16ibJ.jpg",
+		"genre_ids": [
+			878,
+			12,
+			28
+		],
+		"id": 609681,
+		"original_language": "en",
+		"original_title": "The Marvels",
+		"overview": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
+		"poster_path": "/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
+		"release_date": "2023-11-08",
+		"title": "The Marvels",
+		"video": false,
+		"vote_average": 6.4,
+		"slug": "the-marvels",
 		"tags": [
 			"movie",
 			"company-420"
@@ -820,7 +842,7 @@
 		"poster_path": "/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg",
 		"first_air_date": "2023-06-21",
 		"name": "Secret Invasion",
-		"vote_average": 6.919,
+		"vote_average": 6.915,
 		"title": "Secret Invasion",
 		"slug": "secret-invasion",
 		"tags": [
@@ -851,6 +873,53 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": "/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg",
+		"genre_ids": [
+			16,
+			28,
+			12,
+			878
+		],
+		"id": 569094,
+		"original_language": "en",
+		"original_title": "Spider-Man: Across the Spider-Verse",
+		"overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+		"poster_path": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+		"release_date": "2023-05-31",
+		"title": "Spider-Man: Across the Spider-Verse",
+		"video": false,
+		"vote_average": 8.377,
+		"slug": "spider-man-across-the-spider-verse",
+		"tags": [
+			"movie",
+			"company-7505"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
+		"genre_ids": [
+			878,
+			12,
+			28
+		],
+		"id": 447365,
+		"original_language": "en",
+		"original_title": "Guardians of the Galaxy Vol. 3",
+		"overview": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+		"poster_path": "/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+		"release_date": "2023-05-03",
+		"title": "Guardians of the Galaxy Vol. 3",
+		"video": false,
+		"vote_average": 7.985,
+		"slug": "guardians-of-the-galaxy-vol-3",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/kiEVP28wnShAA3Gu6SkCSkOpnFt.jpg",
 		"genre_ids": [
 			99
@@ -870,6 +939,29 @@
 		"slug": "voices-rising-the-music-of-wakanda-forever",
 		"tags": [
 			"tv",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/m8JTwHFwX7I7JY5fPe4SjqejWag.jpg",
+		"genre_ids": [
+			28,
+			12,
+			878
+		],
+		"id": 640146,
+		"original_language": "en",
+		"original_title": "Ant-Man and the Wasp: Quantumania",
+		"overview": "Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope's parents Janet van Dyne and Hank Pym, and Scott's daughter Cassie Lang, find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought possible.",
+		"poster_path": "/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
+		"release_date": "2023-02-15",
+		"title": "Ant-Man and the Wasp: Quantumania",
+		"video": false,
+		"vote_average": 6.371,
+		"slug": "ant-man-and-the-wasp-quantumania",
+		"tags": [
+			"movie",
 			"company-420"
 		]
 	},
@@ -935,7 +1027,7 @@
 		"release_date": "2022-11-25",
 		"title": "The Guardians of the Galaxy Holiday Special",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 7.188,
 		"slug": "the-guardians-of-the-galaxy-holiday-special",
 		"tags": [
 			"movie",
@@ -958,7 +1050,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7.148,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -1000,7 +1092,7 @@
 		"release_date": "2022-11-03",
 		"title": "Marvel Studios Assembled: The Making of She-Hulk: Attorney at Law",
 		"video": false,
-		"vote_average": 6.9,
+		"vote_average": 6.875,
 		"slug": "marvel-studios-assembled-the-making-of-she-hulk-attorney-at-law",
 		"tags": [
 			"movie",
@@ -1023,7 +1115,7 @@
 		"release_date": "2022-09-25",
 		"title": "Werewolf by Night",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 7.01,
 		"slug": "werewolf-by-night",
 		"tags": [
 			"movie",
@@ -1068,7 +1160,7 @@
 		"poster_path": "/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
 		"first_air_date": "2022-08-18",
 		"name": "She-Hulk: Attorney at Law",
-		"vote_average": 6.317,
+		"vote_average": 6.315,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
 		"tags": [
@@ -1282,7 +1374,7 @@
 		"release_date": "2022-07-06",
 		"title": "Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 6.483,
+		"vote_average": 6.484,
 		"slug": "thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -1307,7 +1399,7 @@
 		"poster_path": "/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
 		"first_air_date": "2022-06-08",
 		"name": "Ms. Marvel",
-		"vote_average": 6.514,
+		"vote_average": 6.509,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
 		"tags": [
@@ -1350,8 +1442,31 @@
 		"release_date": "2022-05-25",
 		"title": "Marvel Studios Assembled: The Making of Moon Knight",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.191,
 		"slug": "marvel-studios-assembled-the-making-of-moon-knight",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/gUNRlH66yNDH3NQblYMIwgZXJ2u.jpg",
+		"genre_ids": [
+			14,
+			28,
+			12
+		],
+		"id": 453395,
+		"original_language": "en",
+		"original_title": "Doctor Strange in the Multiverse of Madness",
+		"overview": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
+		"poster_path": "/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+		"release_date": "2022-05-04",
+		"title": "Doctor Strange in the Multiverse of Madness",
+		"video": false,
+		"vote_average": 7.3,
+		"slug": "doctor-strange-in-the-multiverse-of-madness",
 		"tags": [
 			"movie",
 			"company-420"
@@ -1375,7 +1490,7 @@
 		"poster_path": "/vKDUmKO6F9bSKKyHhg7YGbgcEeF.jpg",
 		"first_air_date": "2022-03-30",
 		"name": "Moon Knight",
-		"vote_average": 7.75,
+		"vote_average": 7.748,
 		"title": "Moon Knight",
 		"slug": "moon-knight",
 		"tags": [
@@ -1399,7 +1514,7 @@
 		"release_date": "2022-03-30",
 		"title": "Morbius",
 		"video": false,
-		"vote_average": 6.07,
+		"vote_average": 6.069,
 		"slug": "morbius",
 		"tags": [
 			"movie",
@@ -1441,8 +1556,31 @@
 		"release_date": "2022-02-09",
 		"title": "Marvel Studios Assembled: The Making of Hawkeye",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7.036,
 		"slug": "marvel-studios-assembled-the-making-of-hawkeye",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
+		"genre_ids": [
+			28,
+			12,
+			878
+		],
+		"id": 634649,
+		"original_language": "en",
+		"original_title": "Spider-Man: No Way Home",
+		"overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+		"poster_path": "/5weKu49pzJCt06OPpjvT80efnQj.jpg",
+		"release_date": "2021-12-15",
+		"title": "Spider-Man: No Way Home",
+		"video": false,
+		"vote_average": 8,
+		"slug": "spider-man-no-way-home",
 		"tags": [
 			"movie",
 			"company-420"
@@ -1522,6 +1660,52 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": "/c6H7Z4u73ir3cIoCteuhJh7UCAR.jpg",
+		"genre_ids": [
+			878,
+			28,
+			12
+		],
+		"id": 524434,
+		"original_language": "en",
+		"original_title": "Eternals",
+		"overview": "The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants.",
+		"poster_path": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+		"release_date": "2021-11-03",
+		"title": "Eternals",
+		"video": false,
+		"vote_average": 6.9,
+		"slug": "eternals",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/cinER0ESG0eJ49kXlExM0MEWGxW.jpg",
+		"genre_ids": [
+			28,
+			12,
+			14
+		],
+		"id": 566525,
+		"original_language": "en",
+		"original_title": "Shang-Chi and the Legend of the Ten Rings",
+		"overview": "Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.",
+		"poster_path": "/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg",
+		"release_date": "2021-09-01",
+		"title": "Shang-Chi and the Legend of the Ten Rings",
+		"video": false,
+		"vote_average": 7.6,
+		"slug": "shang-chi-and-the-legend-of-the-ten-rings",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/xuCHkaxkkm9pPum1SByC0dhvR2U.jpg",
 		"genre_ids": [
 			16,
@@ -1538,7 +1722,7 @@
 		"poster_path": "/lztz5XBMG1x6Y5ubz7CxfPFsAcW.jpg",
 		"first_air_date": "2021-08-11",
 		"name": "What If...?",
-		"vote_average": 8.2,
+		"vote_average": 8.173,
 		"title": "What If...?",
 		"slug": "what-if",
 		"tags": [
@@ -1687,7 +1871,7 @@
 		"poster_path": "/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
 		"first_air_date": "2021-03-19",
 		"name": "The Falcon and the Winter Soldier",
-		"vote_average": 7.7,
+		"vote_average": 7.671,
 		"title": "The Falcon and the Winter Soldier",
 		"slug": "the-falcon-and-the-winter-soldier",
 		"tags": [
@@ -1862,7 +2046,7 @@
 		],
 		"release_date": "2020-04-02",
 		"video": false,
-		"vote_average": 6.126,
+		"vote_average": 6.125,
 		"slug": "the-new-mutants",
 		"tags": [
 			"list-8204860"
@@ -1972,7 +2156,7 @@
 		"release_date": "2019-06-28",
 		"title": "Spider-Man: Far From Home",
 		"video": false,
-		"vote_average": 7.4,
+		"vote_average": 7.437,
 		"slug": "spider-man-far-from-home",
 		"tags": [
 			"movie",
@@ -2001,6 +2185,29 @@
 		"slug": "dark-phoenix",
 		"tags": [
 			"list-8204860"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+		"genre_ids": [
+			12,
+			878,
+			28
+		],
+		"id": 299534,
+		"original_language": "en",
+		"original_title": "Avengers: Endgame",
+		"overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+		"poster_path": "/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+		"release_date": "2019-04-24",
+		"title": "Avengers: Endgame",
+		"video": false,
+		"vote_average": 8.258,
+		"slug": "avengers-endgame",
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -2068,7 +2275,7 @@
 		"release_date": "2019-01-16",
 		"title": "Marvel Rising: Chasing Ghosts",
 		"video": false,
-		"vote_average": 6.869,
+		"vote_average": 6.814,
 		"slug": "marvel-rising-chasing-ghosts",
 		"tags": [
 			"movie",
@@ -2093,7 +2300,7 @@
 		],
 		"release_date": "2018-12-11",
 		"video": false,
-		"vote_average": 7.133,
+		"vote_average": 7.131,
 		"slug": "once-upon-a-deadpool",
 		"tags": [
 			"list-8204860"
@@ -2117,7 +2324,7 @@
 		],
 		"release_date": "2018-12-06",
 		"video": false,
-		"vote_average": 8.405,
+		"vote_average": 8.4,
 		"slug": "spider-man-into-the-spider-verse",
 		"tags": [
 			"list-8204859"
@@ -2138,7 +2345,7 @@
 		"release_date": "2018-09-28",
 		"title": "Venom",
 		"video": false,
-		"vote_average": 6.825,
+		"vote_average": 6.826,
 		"slug": "venom",
 		"tags": [
 			"movie",
@@ -2161,7 +2368,7 @@
 		"release_date": "2018-07-04",
 		"title": "Ant-Man and the Wasp",
 		"video": false,
-		"vote_average": 6.9,
+		"vote_average": 6.942,
 		"slug": "ant-man-and-the-wasp",
 		"tags": [
 			"movie",
@@ -2323,7 +2530,7 @@
 		"release_date": "2017-12-09",
 		"title": "LEGO Marvel Super Heroes: Guardians of the Galaxy - The Thanos Threat",
 		"video": false,
-		"vote_average": 6.817,
+		"vote_average": 6.755,
 		"slug": "lego-marvel-super-heroes-guardians-of-the-galaxy-the-thanos-threat",
 		"tags": [
 			"movie",
@@ -2427,7 +2634,7 @@
 		"release_date": "2017-10-02",
 		"title": "Thor: Ragnarok",
 		"video": false,
-		"vote_average": 7.6,
+		"vote_average": 7.594,
 		"slug": "thor-ragnarok",
 		"tags": [
 			"movie",
@@ -2478,12 +2685,36 @@
 		"poster_path": "/49XzINhH4LFsgz7cx6TOPcHUJUL.jpg",
 		"first_air_date": "2017-08-18",
 		"name": "Marvel's The Defenders",
-		"vote_average": 7.076,
+		"vote_average": 7.075,
 		"title": "Marvel's The Defenders",
 		"slug": "marvels-the-defenders",
 		"tags": [
 			"tv",
 			"company-38679"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/fn4n6uOYcB6Uh89nbNPoU2w80RV.jpg",
+		"genre_ids": [
+			28,
+			12,
+			878,
+			18
+		],
+		"id": 315635,
+		"original_language": "en",
+		"original_title": "Spider-Man: Homecoming",
+		"overview": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
+		"poster_path": "/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+		"release_date": "2017-07-05",
+		"title": "Spider-Man: Homecoming",
+		"video": false,
+		"vote_average": 7.3,
+		"slug": "spider-man-homecoming",
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -2806,6 +3037,29 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": "/wdwcOBMkt3zmPQuEMxB3FUtMio2.jpg",
+		"genre_ids": [
+			12,
+			28,
+			878
+		],
+		"id": 271110,
+		"original_language": "en",
+		"original_title": "Captain America: Civil War",
+		"overview": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+		"poster_path": "/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg",
+		"release_date": "2016-04-27",
+		"title": "Captain America: Civil War",
+		"video": false,
+		"vote_average": 7.441,
+		"slug": "captain-america-civil-war",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/en971MEXui9diirXlogOrPKmsEn.jpg",
 		"id": 293660,
 		"title": "Deadpool",
@@ -2841,7 +3095,7 @@
 		"release_date": "2016-01-19",
 		"title": "Marvel's Captain America: 75 Heroic Years",
 		"video": false,
-		"vote_average": 6.7,
+		"vote_average": 6.606,
 		"slug": "marvels-captain-america-75-heroic-years",
 		"tags": [
 			"movie",
@@ -2889,7 +3143,7 @@
 		"release_date": "2015-08-05",
 		"title": "Fantastic Four",
 		"video": false,
-		"vote_average": 4.417,
+		"vote_average": 4.418,
 		"slug": "fantastic-four",
 		"tags": [
 			"movie",
@@ -2914,6 +3168,29 @@
 		"video": false,
 		"vote_average": 7.079,
 		"slug": "ant-man",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/6YwkGolwdOMNpbTOmLjoehlVWs5.jpg",
+		"genre_ids": [
+			28,
+			12,
+			878
+		],
+		"id": 99861,
+		"original_language": "en",
+		"original_title": "Avengers: Age of Ultron",
+		"overview": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
+		"poster_path": "/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+		"release_date": "2015-04-22",
+		"title": "Avengers: Age of Ultron",
+		"video": false,
+		"vote_average": 7.273,
+		"slug": "avengers-age-of-ultron",
 		"tags": [
 			"movie",
 			"company-420"
@@ -3029,7 +3306,7 @@
 		"poster_path": "/7kqIsjjDMZA5GRMH5VCdQYZJqc6.jpg",
 		"first_air_date": "2015-01-06",
 		"name": "Marvel's Agent Carter",
-		"vote_average": 7.53,
+		"vote_average": 7.5,
 		"title": "Marvel's Agent Carter",
 		"slug": "marvels-agent-carter",
 		"tags": [
@@ -3116,7 +3393,7 @@
 		"release_date": "2014-07-30",
 		"title": "Guardians of the Galaxy",
 		"video": false,
-		"vote_average": 7.9,
+		"vote_average": 7.907,
 		"slug": "guardians-of-the-galaxy",
 		"tags": [
 			"movie",
@@ -3140,7 +3417,7 @@
 		],
 		"release_date": "2014-05-15",
 		"video": false,
-		"vote_average": 7.524,
+		"vote_average": 7.5,
 		"slug": "x-men-days-of-future-past",
 		"tags": [
 			"list-8204860"
@@ -3208,7 +3485,7 @@
 		"release_date": "2014-04-16",
 		"title": "The Amazing Spider-Man 2",
 		"video": false,
-		"vote_average": 6.505,
+		"vote_average": 6.5,
 		"slug": "the-amazing-spider-man-2",
 		"tags": [
 			"movie",
@@ -3303,7 +3580,7 @@
 		"release_date": "2014-02-04",
 		"title": "Marvel One-Shot: All Hail the King",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.751,
 		"slug": "marvel-one-shot-all-hail-the-king",
 		"tags": [
 			"movie",
@@ -3389,7 +3666,7 @@
 		"release_date": "2013-10-30",
 		"title": "Thor: The Dark World",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.532,
 		"slug": "thor-the-dark-world",
 		"tags": [
 			"movie",
@@ -3414,7 +3691,7 @@
 		"poster_path": "/gHUCCMy1vvj58tzE3dZqeC9SXus.jpg",
 		"first_air_date": "2013-09-24",
 		"name": "Marvel's Agents of S.H.I.E.L.D.",
-		"vote_average": 7.5,
+		"vote_average": 7.485,
 		"title": "Marvel's Agents of S.H.I.E.L.D.",
 		"slug": "marvels-agents-of-shield",
 		"tags": [
@@ -3460,7 +3737,7 @@
 		"release_date": "2013-09-03",
 		"title": "Marvel One-Shot: Agent Carter",
 		"video": false,
-		"vote_average": 7.221,
+		"vote_average": 7.215,
 		"slug": "marvel-one-shot-agent-carter",
 		"tags": [
 			"movie",
@@ -3484,7 +3761,7 @@
 		],
 		"release_date": "2013-07-21",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.404,
 		"slug": "the-wolverine",
 		"tags": [
 			"list-8204860"
@@ -3652,6 +3929,29 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": "/sxskOU71CO8LaNX2LOtjYFUtKv7.jpg",
+		"genre_ids": [
+			28,
+			12,
+			878
+		],
+		"id": 1930,
+		"original_language": "en",
+		"original_title": "The Amazing Spider-Man",
+		"overview": "Peter Parker is an outcast high schooler abandoned by his parents as a boy, leaving him to be raised by his Uncle Ben and Aunt May. Like most teenagers, Peter is trying to figure out who he is and how he got to be the person he is today. As Peter discovers a mysterious briefcase that belonged to his father, he begins a quest to understand his parents' disappearance – leading him directly to Oscorp and the lab of Dr. Curt Connors, his father's former partner. As Spider-Man is set on a collision course with Connors' alter ego, The Lizard, Peter will make life-altering choices to use his powers and shape his destiny to become a hero.",
+		"poster_path": "/jIfkQNARYyERqRAq1p1c8xgePp4.jpg",
+		"release_date": "2012-06-23",
+		"title": "The Amazing Spider-Man",
+		"video": false,
+		"vote_average": 6.7,
+		"slug": "the-amazing-spider-man",
+		"tags": [
+			"movie",
+			"company-7505"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/vOOUjVaJLWdZJvnvipABQ8hYQNS.jpg",
 		"genre_ids": [
 			16
@@ -3672,6 +3972,29 @@
 		"tags": [
 			"tv",
 			"company-7505"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+		"genre_ids": [
+			878,
+			28,
+			12
+		],
+		"id": 24428,
+		"original_language": "en",
+		"original_title": "The Avengers",
+		"overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+		"poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+		"release_date": "2012-04-25",
+		"title": "The Avengers",
+		"video": false,
+		"vote_average": 7.712,
+		"slug": "the-avengers",
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -3733,7 +4056,7 @@
 		"release_date": "2011-10-25",
 		"title": "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer",
 		"video": false,
-		"vote_average": 6.817,
+		"vote_average": 6.811,
 		"slug": "marvel-one-shot-a-funny-thing-happened-on-the-way-to-thors-hammer",
 		"tags": [
 			"movie",
@@ -3757,7 +4080,7 @@
 		"release_date": "2011-09-13",
 		"title": "Marvel One-Shot: The Consultant",
 		"video": false,
-		"vote_average": 6.33,
+		"vote_average": 6.329,
 		"slug": "marvel-one-shot-the-consultant",
 		"tags": [
 			"movie",
@@ -3827,7 +4150,7 @@
 		"release_date": "2011-04-21",
 		"title": "Thor",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.767,
 		"slug": "thor",
 		"tags": [
 			"movie",
@@ -3911,6 +4234,30 @@
 			"list-8204859"
 		],
 		"media_type": "tv"
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/7lmBufEG7P7Y1HClYK3gCxYrkgS.jpg",
+		"genre_ids": [
+			12,
+			28,
+			878
+		],
+		"id": 10138,
+		"original_language": "en",
+		"original_title": "Iron Man 2",
+		"overview": "With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his side, must forge new alliances – and confront powerful enemies.",
+		"poster_path": "/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
+		"release_date": "2010-04-28",
+		"title": "Iron Man 2",
+		"video": false,
+		"vote_average": 6.838,
+		"slug": "iron-man-2",
+		"tags": [
+			"movie",
+			"company-7505",
+			"company-420"
+		]
 	},
 	{
 		"adult": false,
@@ -4000,7 +4347,7 @@
 		],
 		"release_date": "2009-04-28",
 		"video": false,
-		"vote_average": 6.3,
+		"vote_average": 6.259,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"list-8204860"
@@ -4174,7 +4521,7 @@
 		"release_date": "2008-06-12",
 		"title": "The Incredible Hulk",
 		"video": false,
-		"vote_average": 6.207,
+		"vote_average": 6.208,
 		"slug": "the-incredible-hulk",
 		"tags": [
 			"movie",
@@ -4317,7 +4664,7 @@
 		"release_date": "2007-05-01",
 		"title": "Spider-Man 3",
 		"video": false,
-		"vote_average": 6.409,
+		"vote_average": 6.4,
 		"slug": "spider-man-3",
 		"tags": [
 			"movie",
@@ -4540,7 +4887,7 @@
 		"release_date": "2005-01-13",
 		"title": "Elektra",
 		"video": false,
-		"vote_average": 5.043,
+		"vote_average": 5.042,
 		"slug": "elektra",
 		"tags": [
 			"movie",
@@ -4586,7 +4933,7 @@
 		"release_date": "2004-06-25",
 		"title": "Spider-Man 2",
 		"video": false,
-		"vote_average": 7.266,
+		"vote_average": 7.267,
 		"slug": "spider-man-2",
 		"tags": [
 			"movie",
@@ -4609,7 +4956,7 @@
 		"release_date": "2004-04-15",
 		"title": "The Punisher",
 		"video": false,
-		"vote_average": 6.337,
+		"vote_average": 6.338,
 		"slug": "the-punisher",
 		"tags": [
 			"movie",
@@ -4728,7 +5075,7 @@
 		"release_date": "2002-05-01",
 		"title": "Spider-Man",
 		"video": false,
-		"vote_average": 7.289,
+		"vote_average": 7.3,
 		"slug": "spider-man",
 		"tags": [
 			"movie",
@@ -5259,7 +5606,7 @@
 		],
 		"release_date": "1979-11-23",
 		"video": false,
-		"vote_average": 3.6,
+		"vote_average": 3.783,
 		"slug": "captain-america-ii-death-too-soon",
 		"tags": [
 			"list-8204862"
@@ -5330,7 +5677,7 @@
 		],
 		"release_date": "1979-01-19",
 		"video": false,
-		"vote_average": 3.9,
+		"vote_average": 3.96,
 		"slug": "captain-america",
 		"tags": [
 			"list-8204862"

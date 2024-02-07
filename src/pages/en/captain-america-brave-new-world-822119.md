@@ -25,7 +25,7 @@ tags:
     "original_language": "en",
     "original_title": "Captain America: Brave New World",
     "overview": "A sequel to Marvel Studios' The Falcon and the Winter Soldier and follows Sam Wilson as the new Captain America.",
-    "poster_path": "/jNWaUMmnQ26fiz2B6tIn0aC9fO0.jpg",
+    "poster_path": "/ghkjPyaPGMfDufOa4D2A51DFGWr.jpg",
     "release_date": "2025-02-12",
     "title": "Captain America: Brave New World",
     "video": false,
