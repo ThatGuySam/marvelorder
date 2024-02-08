@@ -71,6 +71,7 @@ This is the *most* official list for the Marvel Chronologically, aka by the time
 - <kbd>45</kbd> - [Ant-Man and the Wasp: Quantumania](https://marvelorder.com/en/ant-man-and-the-wasp-quantumania-640146) - 🎬 Movie - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/ant-man-and-the-wasp-quantumania-640146.md)
 - <kbd>46</kbd> - [Guardians of the Galaxy Vol. 3](https://marvelorder.com/en/guardians-of-the-galaxy-vol-3-447365) - 🎬 Movie - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/guardians-of-the-galaxy-vol-3-447365.md)
 - <kbd>47</kbd> - [Secret Invasion](https://marvelorder.com/en/secret-invasion-114472) - 📺 Series - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/secret-invasion-114472.md)
+- <kbd>48</kbd> - [The Marvels](https://marvelorder.com/en/the-marvels-609681) - 🎬 Movie - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/the-marvels-609681.md)
 
 <!-- end-in-universe-list -->
 
