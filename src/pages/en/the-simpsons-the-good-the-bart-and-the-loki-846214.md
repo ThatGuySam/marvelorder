@@ -48,7 +48,7 @@ mcuTimelineOrder: 471
     "release_date": "2021-07-07",
     "title": "The Simpsons: The Good, the Bart, and the Loki",
     "video": false,
-    "vote_average": 7.305,
+    "vote_average": 7.3,
     "slug": "the-simpsons-the-good-the-bart-and-the-loki",
     "tags": [
         "movie",

@@ -12,11 +12,11 @@ type: movie
 ```json
 {
     "adult": false,
-    "backdrop_path": "/dwl7raDGUHMaLlENxtE7h1qSH4h.jpg",
+    "backdrop_path": "/rx6FXL5Pu2FQC3HrowNQrdqojnM.jpg",
     "genre_ids": [
+        878,
         28,
-        14,
-        878
+        12
     ],
     "id": 634492,
     "original_language": "en",
