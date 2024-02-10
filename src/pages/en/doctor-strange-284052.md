@@ -17,7 +17,7 @@ mcuTimelineOrder: 375
 ```json
 {
     "adult": false,
-    "backdrop_path": "/aL53oMdZKZRJRH8txH07DLuleF9.jpg",
+    "backdrop_path": "/kkoiH8ZWxJ9WSAjOadGtuHUQxbm.jpg",
     "genre_ids": [
         28,
         12,
@@ -31,7 +31,7 @@ mcuTimelineOrder: 375
     "release_date": "2016-10-25",
     "title": "Doctor Strange",
     "video": false,
-    "vote_average": 7.425,
+    "vote_average": 7.4,
     "slug": "doctor-strange",
     "tags": [
         "movie",

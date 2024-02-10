@@ -10,7 +10,7 @@ logo_on_black: >-
   /.netlify/functions/fanart/marvel-one-shot-a-funny-thing-happened-on-the-way-to-thors-h-53a438986236d.webp
 watchLinks:
   amazon: none
-mcuTimelineOrder: 36
+mcuTimelineOrder: 35
 ---
 ## TMDB Data
 ```json

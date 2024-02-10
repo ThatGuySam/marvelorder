@@ -206,12 +206,6 @@
     },
     {
       "TYPE": "ONE SHOT",
-      "TITLE": "The Consultant",
-      "RELEASE_DATE": "2011-09-13T04:00:00.000Z",
-      "NOTES": ""
-    },
-    {
-      "TYPE": "ONE SHOT",
       "TITLE": "A Funny Thing Happened On The Way To Thor’s Hammer",
       "RELEASE_DATE": "2011-10-25T04:00:00.000Z",
       "NOTES": ""
@@ -220,6 +214,12 @@
       "TYPE": "MOVIE",
       "TITLE": "Thor",
       "RELEASE_DATE": "2011-05-06T04:00:00.000Z",
+      "NOTES": ""
+    },
+    {
+      "TYPE": "ONE SHOT",
+      "TITLE": "The Consultant",
+      "RELEASE_DATE": "2011-09-13T04:00:00.000Z",
       "NOTES": ""
     },
     {

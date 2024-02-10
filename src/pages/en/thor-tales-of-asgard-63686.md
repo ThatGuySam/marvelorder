@@ -10,7 +10,7 @@ description: >-
   deadly, and Thor must now prove himself worthy of the destiny he covets by
   saving Asgard itself.
 layout: ../../layouts/MainLayout.astro
-mcuTimelineOrder: 36
+mcuTimelineOrder: 35
 logo_on_black: /.netlify/functions/tmdb-image/1ic3ktivx7wpjBM9bR0k4xi3aZi.webp
 ---
 ## TMDB Data
