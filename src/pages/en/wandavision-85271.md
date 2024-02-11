@@ -32,7 +32,7 @@ mcuTimelineOrder: 514
     "poster_path": "/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
     "first_air_date": "2021-01-15",
     "name": "WandaVision",
-    "vote_average": 8.249,
+    "vote_average": 8.248,
     "title": "WandaVision",
     "slug": "wandavision",
     "tags": [
