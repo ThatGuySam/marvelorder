@@ -26,7 +26,7 @@ mcuTimelineOrder: 598
     "release_date": "2022-11-09",
     "title": "Black Panther: Wakanda Forever",
     "video": false,
-    "vote_average": 7.148,
+    "vote_average": 7.146,
     "slug": "black-panther-wakanda-forever",
     "tags": [
         "movie",

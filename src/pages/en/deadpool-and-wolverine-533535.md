@@ -27,17 +27,17 @@ media_type: movie
 ```json
 {
     "adult": false,
-    "backdrop_path": "/mbY234XwMwEofAdX8yddNcK82wi.jpg",
+    "backdrop_path": "/nbq3LfgLXnL5ixZ1Q74jTJmhmTS.jpg",
     "genre_ids": [
         28,
-        12,
-        35
+        35,
+        878
     ],
     "id": 533535,
     "original_language": "en",
     "original_title": "Deadpool & Wolverine",
     "overview": "Third entry in the \"Deadpool\" franchise. Plot TBA.",
-    "poster_path": "/3e9RToA9tGMl1T994T9T8zLW3CU.jpg",
+    "poster_path": "/uxBHXaoOvAwy4NpPpP7nNx2rXYQ.jpg",
     "release_date": "2024-07-24",
     "title": "Deadpool & Wolverine",
     "video": false,

@@ -31,7 +31,7 @@ mcuTimelineOrder: 70
     "release_date": "2014-07-30",
     "title": "Guardians of the Galaxy",
     "video": false,
-    "vote_average": 7.907,
+    "vote_average": 7.9,
     "slug": "guardians-of-the-galaxy",
     "tags": [
         "movie",
