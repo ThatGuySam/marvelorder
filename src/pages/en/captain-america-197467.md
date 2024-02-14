@@ -29,6 +29,8 @@ watchLinks:
     "overview": "An artist, Steve Rogers, is nearly murdered by spies, looking for his late father's national secrets. He is saved during surgery when a secret formula is injected into him; this serum not only heals him but also gives him fantastic strength and lightning reflexes.  To help him solve the mystery behind his father’s murder and bring those guilty to justice, a government agency equips him with a special motorcycle loaded with gadgets and an indestructible shield. Now armed, he battles against the nation's enemies as the Sentinel of Liberty, Captain America.",
     "poster_path": "/gNGq4u0cymxZqGADZrx7AWrSB5m.jpg",
     "media_type": "movie",
+    "runtime": 97,
+    "revenue": 0,
     "genre_ids": [
         28,
         12,

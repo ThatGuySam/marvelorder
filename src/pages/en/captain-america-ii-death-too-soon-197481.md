@@ -29,6 +29,8 @@ watchLinks:
     "overview": "Crimefighting Captain America rights more wrongs by doing battle with a fanatical terrorist who uses his deadly drug that causes accelerated aging to finance his world revolution.",
     "poster_path": "/pocmh0P8Ddf5w33pP3Vuqm0JRP9.jpg",
     "media_type": "movie",
+    "runtime": 88,
+    "revenue": 0,
     "genre_ids": [
         28,
         18,

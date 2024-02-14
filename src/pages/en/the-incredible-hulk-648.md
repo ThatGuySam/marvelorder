@@ -23,6 +23,7 @@ watchLinks:
     "overview": "During an experiment gone bad, radiation turns a scientist into a raging green behemoth whenever he becomes agitated. Unable to control his transformations, David Banner searches for a cure as he crosses the country, fugitive-style, with a dogged tabloid reporter on his trail.",
     "poster_path": "/8q7uFuNuMWTWfcpnCpBuZa3KZXx.jpg",
     "media_type": "tv",
+    "runtime": null,
     "genre_ids": [
         10765,
         10759,

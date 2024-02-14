@@ -21,6 +21,8 @@ watchLinks:
     "overview": "Spider-Man goes to China to help an official accused of World War II treachery.  Two episodes of the TV series \"Spider Man\" edited together and released as a feature.",
     "poster_path": "/wBmtFmSikG5u08FdGLRsF0Py59V.jpg",
     "media_type": "movie",
+    "runtime": 92,
+    "revenue": 0,
     "genre_ids": [
         28,
         12,

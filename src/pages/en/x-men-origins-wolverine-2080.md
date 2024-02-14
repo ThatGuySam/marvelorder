@@ -23,6 +23,8 @@ watchLinks:
     "overview": "After seeking to live a normal life, Logan sets out to avenge the death of his girlfriend by undergoing the mutant Weapon X program and becoming Wolverine.",
     "poster_path": "/yj8LbTju1p7CUJg7US2unSBk33s.jpg",
     "media_type": "movie",
+    "runtime": 107,
+    "revenue": 373062864,
     "genre_ids": [
         12,
         28,

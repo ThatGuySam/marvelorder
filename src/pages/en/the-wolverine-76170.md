@@ -22,6 +22,8 @@ watchLinks:
     "overview": "Wolverine faces his ultimate nemesis - and tests of his physical, emotional, and mortal limits - in a life-changing voyage to modern-day Japan.",
     "poster_path": "/xNi8daRmN4XY8rXHd4rwLbJf1cU.jpg",
     "media_type": "movie",
+    "runtime": 126,
+    "revenue": 415440673,
     "genre_ids": [
         28,
         878,

@@ -25,6 +25,8 @@ watchLinks:
     "overview": "Before Charles Xavier and Erik Lensherr took the names Professor X and Magneto, they were two young men discovering their powers for the first time. Before they were arch-enemies, they were closest of friends, working together with other mutants (some familiar, some new), to stop the greatest threat the world has ever known.",
     "poster_path": "/b9r6lsLuzBONdSokQ3O2JiVmy0C.jpg",
     "media_type": "movie",
+    "runtime": 132,
+    "revenue": 353624124,
     "genre_ids": [
         28,
         878,

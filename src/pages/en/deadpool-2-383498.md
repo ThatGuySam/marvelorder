@@ -22,6 +22,8 @@ watchLinks:
     "overview": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
     "poster_path": "/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
     "media_type": "movie",
+    "runtime": 120,
+    "revenue": 785896632,
     "genre_ids": [
         28,
         35,

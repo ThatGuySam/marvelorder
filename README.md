@@ -79,7 +79,6 @@ This is the *most* official list for the Marvel Chronologically, aka by the time
 ## Upcoming
 <!-- start-upcoming-list -->
 
-- February 14, 2024 - [Madame Web](https://marvelorder.com/en/madame-web-634492) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/madame-web-634492.md)
 - March 27, 2024 - [Spider-Man: Beyond the Spider-Verse](https://marvelorder.com/en/spider-man-beyond-the-spider-verse-911916) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/spider-man-beyond-the-spider-verse-911916.md)
 - April 1, 2024 - [Daredevil: Born Again](https://marvelorder.com/en/daredevil-born-again-202555) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/daredevil-born-again-202555.md)
 - July 24, 2024 - [Deadpool 3](https://marvelorder.com/en/deadpool-3-533535) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/deadpool-3-533535.md)

@@ -31,6 +31,8 @@ backdrop_path: /vrb9b26WDZto8vmUnDMgZZ1T9hS.jpg
     "overview": "On the run again, Dr. David Banner is jailed for assault after interrupting a mugging. Blind attorney Matt Murdock enlists Banner's help in locating the muggers because he believes they work for his longtime foe, Fisk, the head of an international crime network. But David, afraid of public exposure, breaks out of jail as the Hulk. Tracking David down, Murdock reveals his own secret: His blindness came from a radioactive spill, and after developing his other senses so incredibly, he has become the amazingly athletic crime fighter called Daredevil. Fisk must now face off against Daredevil and the Incredible Hulk!",
     "poster_path": "/jaaeLvonWry3TdTXaGSu2VveNEG.jpg",
     "media_type": "movie",
+    "runtime": 100,
+    "revenue": 0,
     "genre_ids": [
         12,
         14,

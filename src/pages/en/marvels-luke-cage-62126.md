@@ -29,10 +29,10 @@ mcuTimelineOrder: 139
     "original_language": "en",
     "original_name": "Marvel's Luke Cage",
     "overview": "Given superstrength and durability by a sabotaged experiment, a wrongly accused man escapes prison to become a superhero for hire.",
-    "poster_path": "/quTfV803fGaSADzTeEqCbIZnt9d.jpg",
+    "poster_path": "/6WUGpRS1ne0dwbhT8iPWGLxwHfS.jpg",
     "first_air_date": "2016-09-30",
     "name": "Marvel's Luke Cage",
-    "vote_average": 6.948,
+    "vote_average": 6.9,
     "title": "Marvel's Luke Cage",
     "slug": "marvels-luke-cage",
     "tags": [

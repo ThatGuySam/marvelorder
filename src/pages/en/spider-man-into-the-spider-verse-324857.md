@@ -24,6 +24,8 @@ backdrop_path: /x2IqsMlpbOhS8zIUJfyl1yO4gHF.jpg
     "overview": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
     "poster_path": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
     "media_type": "movie",
+    "runtime": 117,
+    "revenue": 384298736,
     "genre_ids": [
         28,
         12,
@@ -32,7 +34,7 @@ backdrop_path: /x2IqsMlpbOhS8zIUJfyl1yO4gHF.jpg
     ],
     "release_date": "2018-12-06",
     "video": false,
-    "vote_average": 8.405,
+    "vote_average": 8.406,
     "slug": "spider-man-into-the-spider-verse",
     "tags": [
         "list-8204859"

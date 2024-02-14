@@ -42,7 +42,8 @@ watchLinks:
         "company-420",
         "list-8204860"
     ],
-    "media_type": "tv"
+    "media_type": "tv",
+    "runtime": null
 }
 
 ```

@@ -27,6 +27,7 @@ vote_average: 7.1
     "overview": "Follow the exploits of motorcycle racer turned super hero Takuya Yamashiro, as he slings and swings, battling the evil Iron Cross Army along the way. No, it's not the Spiderman most fans are used to, but it's fun, frantic and FREE.",
     "poster_path": "/vlSuwzyt3Hyq5OSFpvJDYnYDN1a.jpg",
     "media_type": "tv",
+    "runtime": null,
     "genre_ids": [
         10759,
         10765

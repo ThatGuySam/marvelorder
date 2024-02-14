@@ -25,6 +25,8 @@ watchLinks:
     "overview": "When dosed with cosmic rays, four intrepid astronauts are given incredible powers. They decide to form a superhero group called the Fantastic Four to fight their arch-enemy, Dr. Doom.",
     "poster_path": "/5M4BxKlR6GMNsLxKmeCm4Q5051Z.jpg",
     "media_type": "movie",
+    "runtime": 90,
+    "revenue": 0,
     "genre_ids": [
         28,
         878,

@@ -25,6 +25,7 @@ tags:
     "overview": "This cartoon series, characterized by extremely limited animation, features five of the most popular super-powered heroes from Marvel Comics: the Incredible Hulk, the Mighty Thor, Captain America, Iron Man, and the Sub-Mariner.",
     "poster_path": "/sUcupSGQRxDfQxr3tcb4KodOXmm.jpg",
     "media_type": "tv",
+    "runtime": null,
     "genre_ids": [
         16,
         10759,

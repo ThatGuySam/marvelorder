@@ -21,6 +21,7 @@ watchLinks:
     "overview": "The first live-action TV series based on the popular comic book.",
     "poster_path": "/kUTCJhSnH3Dt0KVzcQp8DnbmsjN.jpg",
     "media_type": "tv",
+    "runtime": null,
     "genre_ids": [
         10765,
         10759

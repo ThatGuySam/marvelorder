@@ -23,6 +23,8 @@ watchLinks:
     "overview": "After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.",
     "poster_path": "/2mtQwJKVKQrZgTz49Dizb25eOQQ.jpg",
     "media_type": "movie",
+    "runtime": 144,
+    "revenue": 543934787,
     "genre_ids": [
         28,
         12,

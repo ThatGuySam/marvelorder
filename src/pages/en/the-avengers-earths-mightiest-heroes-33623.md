@@ -43,7 +43,8 @@ tags:
         "company-7505",
         "list-8204859"
     ],
-    "media_type": "tv"
+    "media_type": "tv",
+    "runtime": null
 }
 
 ```

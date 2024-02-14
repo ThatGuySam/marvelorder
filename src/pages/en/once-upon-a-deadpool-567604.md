@@ -24,6 +24,8 @@ watchLinks:
     "overview": "A kidnapped Fred Savage is forced to endure Deadpool's PG-13 rendition of Deadpool 2 as a Princess Bride-esque story that's full of magic, wonder & zero F's.",
     "poster_path": "/5Ka49BWWyKMXr93YMbH5wLN7aAM.jpg",
     "media_type": "movie",
+    "runtime": 118,
+    "revenue": 51349833,
     "genre_ids": [
         35,
         28,

@@ -21,6 +21,8 @@ watchLinks:
     "overview": "Deadpool sees an opportunity to save the day, but it doesn't go entirely as planned.",
     "poster_path": "/wlKU9yB0Q8nfPMakBcSBT0JGS7.jpg",
     "media_type": "movie",
+    "runtime": 4,
+    "revenue": 0,
     "genre_ids": [
         28,
         35,

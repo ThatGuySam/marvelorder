@@ -23,6 +23,7 @@ logo_on_black: /.netlify/functions/fanart/powers-2014-5503f9406a26a.webp
     "overview": "Two homicide detectives, Christian Walker and Deena Pilgrim, are assigned to investigate cases involving people with superhuman abilities, referred to as “Powers.” Set amidst today’s paparazzi culture, Powers asks the questions, what if the world was full of superheroes who aren't actually heroic at all? What if all that power was just one more excuse for mischief, mayhem, murder, and endorsement deals?",
     "poster_path": "/7imMR8ySLCPG3LsNlGej8GGtXBg.jpg",
     "media_type": "tv",
+    "runtime": null,
     "genre_ids": [
         18,
         10765

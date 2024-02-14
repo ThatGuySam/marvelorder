@@ -30,14 +30,16 @@ watchLinks:
     "release_date": "2006-05-24",
     "title": "X-Men: The Last Stand",
     "video": false,
-    "vote_average": 6.406,
+    "vote_average": 6.407,
     "slug": "x-men-the-last-stand",
     "tags": [
         "movie",
         "company-7505",
         "list-8204860"
     ],
-    "media_type": "movie"
+    "media_type": "movie",
+    "runtime": 104,
+    "revenue": 459359555
 }
 
 ```

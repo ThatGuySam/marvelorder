@@ -26,6 +26,8 @@ tags:
     "overview": "Dr. David Banner meets a former student, who has a magical hammer that summons Thor, a Norse god who is prevented from entering Valhalla. When the two superheroes stop feuding long enough to breathe, they are a team unmatched by any of their enemies.",
     "poster_path": "/dw7eBKL26HEkA89BKvNVsjx7gGL.jpg",
     "media_type": "movie",
+    "runtime": 100,
+    "revenue": 0,
     "genre_ids": [
         28,
         18,

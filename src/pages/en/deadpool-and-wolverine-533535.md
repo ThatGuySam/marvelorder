@@ -48,7 +48,9 @@ media_type: movie
         "company-420",
         "list-8204860"
     ],
-    "media_type": "movie"
+    "media_type": "movie",
+    "runtime": null,
+    "revenue": 0
 }
 
 ```
