@@ -32,7 +32,7 @@ mcuTimelineOrder: 579
     "release_date": "2022-03-30",
     "title": "Morbius",
     "video": false,
-    "vote_average": 6.069,
+    "vote_average": 6.07,
     "slug": "morbius",
     "tags": [
         "movie",

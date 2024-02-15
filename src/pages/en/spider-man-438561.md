@@ -32,7 +32,7 @@ watchLinks:
     ],
     "release_date": "1978-07-22",
     "video": false,
-    "vote_average": 6.404,
+    "vote_average": 6.4,
     "slug": "spider-man",
     "tags": [
         "list-8204862"

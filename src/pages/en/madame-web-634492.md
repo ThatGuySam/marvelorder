@@ -12,12 +12,11 @@ type: movie
 ```json
 {
     "adult": false,
-    "backdrop_path": "/rx6FXL5Pu2FQC3HrowNQrdqojnM.jpg",
+    "backdrop_path": "/uUiIGztTrfDhPdAFJpr6m4UBMAd.jpg",
     "genre_ids": [
         878,
         28,
-        12,
-        53
+        12
     ],
     "id": 634492,
     "original_language": "en",
@@ -27,7 +26,7 @@ type: movie
     "release_date": "2024-02-14",
     "title": "Madame Web",
     "video": false,
-    "vote_average": 0,
+    "vote_average": 5.889,
     "slug": "madame-web",
     "tags": [
         "movie",

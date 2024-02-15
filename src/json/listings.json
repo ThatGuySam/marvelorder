@@ -540,6 +540,28 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": "/dhWrEJNhAQ3KKeg9UzGnr43Lmi0.jpg",
+		"genre_ids": [
+			878,
+			12
+		],
+		"id": 617126,
+		"original_language": "en",
+		"original_title": "The Fantastic Four",
+		"overview": "Set in the Marvel Cinematic Universe (MCU) and based on the Marvel Comics characters of the same name.",
+		"poster_path": "/4AGuX3IMPzs3sc3dJrnpLZzGvUa.jpg",
+		"release_date": "2025-07-24",
+		"title": "The Fantastic Four",
+		"video": false,
+		"vote_average": 0,
+		"slug": "the-fantastic-four",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/vzVojqW0zF9QrXVGuj8PwhxWACD.jpg",
 		"genre_ids": [
 			28,
@@ -550,33 +572,11 @@
 		"original_title": "Thunderbolts",
 		"overview": "A world without Avengers doesn't mean there's not a group of superheroes. There is a group and they're called the Thunderbolts.",
 		"poster_path": "/dHhniU1vz1C0j27AFdcsPmq6xu.jpg",
-		"release_date": "2025-07-23",
+		"release_date": "2025-05-02",
 		"title": "Thunderbolts",
 		"video": false,
 		"vote_average": 0,
 		"slug": "thunderbolts",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/qlwBv4v6EoeN2JxGWziT2kSyoVe.jpg",
-		"genre_ids": [
-			878,
-			12
-		],
-		"id": 617126,
-		"original_language": "en",
-		"original_title": "Fantastic Four",
-		"overview": "Set in the Marvel Cinematic Universe (MCU) and based on the Marvel Comics characters of the same name.",
-		"poster_path": "/jatnqRPnxjg2Q6cFsAjmrBNhx9.jpg",
-		"release_date": "2025-04-30",
-		"title": "Fantastic Four",
-		"video": false,
-		"vote_average": 0,
-		"slug": "fantastic-four",
 		"tags": [
 			"movie",
 			"company-420"
@@ -658,6 +658,29 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": "/uUiIGztTrfDhPdAFJpr6m4UBMAd.jpg",
+		"genre_ids": [
+			878,
+			28,
+			12
+		],
+		"id": 634492,
+		"original_language": "en",
+		"original_title": "Madame Web",
+		"overview": "Forced to confront revelations about her past, paramedic Cassandra Webb forges a relationship with three young women destined for powerful futures...if they can all survive a deadly present.",
+		"poster_path": "/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg",
+		"release_date": "2024-02-14",
+		"title": "Madame Web",
+		"video": false,
+		"vote_average": 5.889,
+		"slug": "madame-web",
+		"tags": [
+			"movie",
+			"company-7505"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/ji6MRyevgzCtrtxAvKotzhagOOJ.jpg",
 		"genre_ids": [
 			99
@@ -713,10 +736,10 @@
 		"original_language": "en",
 		"original_name": "Echo",
 		"overview": "Pursued by Wilson Fisk's criminal empire, Maya's journey brings her home and she must confront her own family and legacy.",
-		"poster_path": "/4m2kop1q6OLnOz7MWZmdzZbSNkh.jpg",
+		"poster_path": "/vFyJH630cF68LohVYjQW49074Sy.jpg",
 		"first_air_date": "2024-01-09",
 		"name": "Echo",
-		"vote_average": 6.264,
+		"vote_average": 6.278,
 		"title": "Echo",
 		"slug": "echo",
 		"tags": [
@@ -747,7 +770,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/criPrxkTggCra1jch49jsiSeXo1.jpg",
+		"backdrop_path": "/c4apcripPlnlnRcPODgAijCvPul.jpg",
 		"genre_ids": [
 			878,
 			12,
@@ -761,7 +784,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.291,
+		"vote_average": 6.287,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -849,7 +872,7 @@
 		"poster_path": "/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg",
 		"first_air_date": "2023-06-21",
 		"name": "Secret Invasion",
-		"vote_average": 6.899,
+		"vote_average": 6.898,
 		"title": "Secret Invasion",
 		"slug": "secret-invasion",
 		"tags": [
@@ -895,7 +918,7 @@
 		"release_date": "2023-05-31",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
-		"vote_average": 8.378,
+		"vote_average": 8.379,
 		"slug": "spider-man-across-the-spider-verse",
 		"tags": [
 			"movie",
@@ -965,7 +988,7 @@
 		"release_date": "2023-02-15",
 		"title": "Ant-Man and the Wasp: Quantumania",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.37,
 		"slug": "ant-man-and-the-wasp-quantumania",
 		"tags": [
 			"movie",
@@ -1167,7 +1190,7 @@
 		"poster_path": "/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
 		"first_air_date": "2022-08-18",
 		"name": "She-Hulk: Attorney at Law",
-		"vote_average": 6.31,
+		"vote_average": 6.308,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
 		"tags": [
@@ -1195,7 +1218,7 @@
 		"poster_path": "/eqKNlMgG6pE1tbvTcD86NDNKlru.jpg",
 		"first_air_date": "2022-08-10",
 		"name": "I Am Groot",
-		"vote_average": 7.147,
+		"vote_average": 7.128,
 		"title": "I Am Groot",
 		"slug": "i-am-groot",
 		"tags": [
@@ -1220,7 +1243,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot's First Steps",
 		"video": false,
-		"vote_average": 7.022,
+		"vote_average": 7.014,
 		"slug": "groots-first-steps",
 		"tags": [
 			"movie",
@@ -1244,7 +1267,7 @@
 		"release_date": "2022-08-10",
 		"title": "The Little Guy",
 		"video": false,
-		"vote_average": 7.309,
+		"vote_average": 7.308,
 		"slug": "the-little-guy",
 		"tags": [
 			"movie",
@@ -1268,7 +1291,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot's Pursuit",
 		"video": false,
-		"vote_average": 7.107,
+		"vote_average": 7.098,
 		"slug": "groots-pursuit",
 		"tags": [
 			"movie",
@@ -1292,7 +1315,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot Takes a Bath",
 		"video": false,
-		"vote_average": 7.105,
+		"vote_average": 7.098,
 		"slug": "groot-takes-a-bath",
 		"tags": [
 			"movie",
@@ -1337,7 +1360,7 @@
 		"release_date": "2022-07-18",
 		"title": "Magnum Opus",
 		"video": false,
-		"vote_average": 7.296,
+		"vote_average": 7.286,
 		"slug": "magnum-opus",
 		"tags": [
 			"movie",
@@ -1458,7 +1481,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/jhXwGdyj2f5ZxCYZBKfBNcGBbWx.jpg",
+		"backdrop_path": "/gUNRlH66yNDH3NQblYMIwgZXJ2u.jpg",
 		"genre_ids": [
 			14,
 			28,
@@ -1521,7 +1544,7 @@
 		"release_date": "2022-03-30",
 		"title": "Morbius",
 		"video": false,
-		"vote_average": 6.069,
+		"vote_average": 6.07,
 		"slug": "morbius",
 		"tags": [
 			"movie",
@@ -1681,7 +1704,7 @@
 		"release_date": "2021-11-03",
 		"title": "Eternals",
 		"video": false,
-		"vote_average": 6.896,
+		"vote_average": 6.895,
 		"slug": "eternals",
 		"tags": [
 			"movie",
@@ -1780,7 +1803,7 @@
 		"release_date": "2021-07-07",
 		"title": "Black Widow",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.272,
 		"slug": "black-widow",
 		"tags": [
 			"movie",
@@ -1827,7 +1850,7 @@
 		"poster_path": "/voHUmluYmKyleFkTu3lOXQG702u.jpg",
 		"first_air_date": "2021-06-09",
 		"name": "Loki",
-		"vote_average": 8.179,
+		"vote_average": 8.18,
 		"title": "Loki",
 		"slug": "loki",
 		"tags": [
@@ -1879,7 +1902,7 @@
 		"poster_path": "/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
 		"first_air_date": "2021-03-19",
 		"name": "The Falcon and the Winter Soldier",
-		"vote_average": 7.67,
+		"vote_average": 7.7,
 		"title": "The Falcon and the Winter Soldier",
 		"slug": "the-falcon-and-the-winter-soldier",
 		"tags": [
@@ -2166,7 +2189,7 @@
 		"release_date": "2019-06-28",
 		"title": "Spider-Man: Far From Home",
 		"video": false,
-		"vote_average": 7.436,
+		"vote_average": 7.4,
 		"slug": "spider-man-far-from-home",
 		"tags": [
 			"movie",
@@ -2193,7 +2216,7 @@
 		],
 		"release_date": "2019-06-05",
 		"video": false,
-		"vote_average": 5.983,
+		"vote_average": 5.982,
 		"slug": "dark-phoenix",
 		"tags": [
 			"list-8204860"
@@ -2215,7 +2238,7 @@
 		"release_date": "2019-04-24",
 		"title": "Avengers: Endgame",
 		"video": false,
-		"vote_average": 8.3,
+		"vote_average": 8.258,
 		"slug": "avengers-endgame",
 		"tags": [
 			"movie",
@@ -2361,7 +2384,7 @@
 		"release_date": "2018-09-28",
 		"title": "Venom",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.825,
 		"slug": "venom",
 		"tags": [
 			"movie",
@@ -2409,7 +2432,7 @@
 		"poster_path": "/pYnRJuBPEqZO1o4fcxBTgmKNHfy.jpg",
 		"first_air_date": "2018-06-07",
 		"name": "Marvel's Cloak & Dagger",
-		"vote_average": 7.24,
+		"vote_average": 7.2,
 		"title": "Marvel's Cloak & Dagger",
 		"slug": "marvels-cloak-and-dagger",
 		"tags": [
@@ -2752,7 +2775,7 @@
 		"release_date": "2017-04-19",
 		"title": "Guardians of the Galaxy Vol. 2",
 		"video": false,
-		"vote_average": 7.6,
+		"vote_average": 7.621,
 		"slug": "guardians-of-the-galaxy-vol-2",
 		"tags": [
 			"movie",
@@ -2879,7 +2902,7 @@
 		"release_date": "2017-02-14",
 		"title": "Team Thor: Part 2",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 6.978,
 		"slug": "team-thor-part-2",
 		"tags": [
 			"movie",
@@ -3076,7 +3099,7 @@
 		"release_date": "2016-04-27",
 		"title": "Captain America: Civil War",
 		"video": false,
-		"vote_average": 7.441,
+		"vote_average": 7.4,
 		"slug": "captain-america-civil-war",
 		"tags": [
 			"movie",
@@ -3166,7 +3189,7 @@
 		"original_language": "en",
 		"original_title": "Fantastic Four",
 		"overview": "Four young outsiders teleport to a dangerous universe, which alters their physical form in shocking ways. Their lives irrevocably upended, the team must learn to harness their daunting new abilities and work together to save Earth from a former friend turned enemy.",
-		"poster_path": "/oeMpEsjmiT9PEJbRM1Fm7TZ1dE0.jpg",
+		"poster_path": "/4QBDAZ8nBfZrplxMaxP7RoR6HXe.jpg",
 		"release_date": "2015-08-05",
 		"title": "Fantastic Four",
 		"video": false,
@@ -3216,7 +3239,7 @@
 		"release_date": "2015-04-22",
 		"title": "Avengers: Age of Ultron",
 		"video": false,
-		"vote_average": 7.273,
+		"vote_average": 7.3,
 		"slug": "avengers-age-of-ultron",
 		"tags": [
 			"movie",
@@ -3241,7 +3264,7 @@
 		"poster_path": "/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
 		"first_air_date": "2015-04-10",
 		"name": "Marvel's Daredevil",
-		"vote_average": 8.165,
+		"vote_average": 8.2,
 		"title": "Marvel's Daredevil",
 		"slug": "marvels-daredevil",
 		"tags": [
@@ -3421,7 +3444,7 @@
 		"release_date": "2014-07-30",
 		"title": "Guardians of the Galaxy",
 		"video": false,
-		"vote_average": 7.907,
+		"vote_average": 7.9,
 		"slug": "guardians-of-the-galaxy",
 		"tags": [
 			"movie",
@@ -3515,7 +3538,7 @@
 		"release_date": "2014-04-16",
 		"title": "The Amazing Spider-Man 2",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.505,
 		"slug": "the-amazing-spider-man-2",
 		"tags": [
 			"movie",
@@ -3564,7 +3587,7 @@
 		"release_date": "2014-03-20",
 		"title": "Captain America: The Winter Soldier",
 		"video": false,
-		"vote_average": 7.668,
+		"vote_average": 7.7,
 		"slug": "captain-america-the-winter-soldier",
 		"tags": [
 			"movie",
@@ -3610,7 +3633,7 @@
 		"release_date": "2014-02-04",
 		"title": "Marvel One-Shot: All Hail the King",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.75,
 		"slug": "marvel-one-shot-all-hail-the-king",
 		"tags": [
 			"movie",
@@ -3767,7 +3790,7 @@
 		"release_date": "2013-09-03",
 		"title": "Marvel One-Shot: Agent Carter",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 7.215,
 		"slug": "marvel-one-shot-agent-carter",
 		"tags": [
 			"movie",
@@ -4387,7 +4410,7 @@
 		],
 		"release_date": "2009-04-28",
 		"video": false,
-		"vote_average": 6.259,
+		"vote_average": 6.26,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"list-8204860"
@@ -4656,7 +4679,7 @@
 		"original_language": "en",
 		"original_title": "Fantastic Four: Rise of the Silver Surfer",
 		"overview": "The Fantastic Four return to the big screen as a new and all powerful enemy threatens the Earth. The seemingly unstoppable 'Silver Surfer', but all is not what it seems and there are old and new enemies that pose a greater threat than the intrepid superheroes realize.",
-		"poster_path": "/1rxTraSO45jbvTrCeSvJ6RmOu1b.jpg",
+		"poster_path": "/f3ldtPF7SESMcyAIyIJHBLlBBkr.jpg",
 		"release_date": "2007-06-13",
 		"title": "Fantastic Four: Rise of the Silver Surfer",
 		"video": false,
@@ -4885,7 +4908,7 @@
 		"release_date": "2005-06-29",
 		"title": "Fantastic Four",
 		"video": false,
-		"vote_average": 5.781,
+		"vote_average": 5.8,
 		"slug": "fantastic-four",
 		"tags": [
 			"movie",
@@ -4963,6 +4986,27 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": "/s0dJIDBLiN1IAjFisxKi9PBQnYW.jpg",
+		"genre_ids": [
+			99
+		],
+		"id": 1244755,
+		"original_language": "en",
+		"original_title": "8 Arms to Hold You",
+		"overview": "An \"Ock-umentary\" exploring the character of Doc Ock and the way he as well as his tentacles were brought to life on the silver screen.",
+		"poster_path": "/AmUUD1SDWh8slviwBxMTymmbyyJ.jpg",
+		"release_date": "2004-11-30",
+		"title": "8 Arms to Hold You",
+		"video": false,
+		"vote_average": 0,
+		"slug": "8-arms-to-hold-you",
+		"tags": [
+			"movie",
+			"company-7505"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/aqaSgTT6jiAdx9aJ4xUI4G2MEXe.jpg",
 		"genre_ids": [
 			28,
@@ -4977,7 +5021,7 @@
 		"release_date": "2004-06-25",
 		"title": "Spider-Man 2",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.266,
 		"slug": "spider-man-2",
 		"tags": [
 			"movie",
@@ -5177,7 +5221,7 @@
 		"poster_path": "/At5aZIKkN8zHTAXOnQR9D3b7usW.jpg",
 		"first_air_date": "2000-11-04",
 		"name": "X-Men: Evolution",
-		"vote_average": 7.925,
+		"vote_average": 7.9,
 		"title": "X-Men: Evolution",
 		"slug": "x-men-evolution",
 		"tags": [
@@ -5457,7 +5501,7 @@
 		"original_language": "en",
 		"original_title": "The Fantastic Four",
 		"overview": "When dosed with cosmic rays, four intrepid astronauts are given incredible powers. They decide to form a superhero group called the Fantastic Four to fight their arch-enemy, Dr. Doom.",
-		"poster_path": "/5M4BxKlR6GMNsLxKmeCm4Q5051Z.jpg",
+		"poster_path": "/5Pv3CqMKxoKo9052aWrvFAM7kfK.jpg",
 		"media_type": "movie",
 		"runtime": 90,
 		"revenue": 0,
@@ -5833,7 +5877,7 @@
 		],
 		"release_date": "1978-07-22",
 		"video": false,
-		"vote_average": 6.404,
+		"vote_average": 6.4,
 		"slug": "spider-man",
 		"tags": [
 			"list-8204862"
@@ -5846,7 +5890,7 @@
 		"name": "Spider-Man",
 		"original_language": "ja",
 		"original_name": "スパイダーマン",
-		"overview": "Follow the exploits of motorcycle racer turned super hero Takuya Yamashiro, as he slings and swings, battling the evil Iron Cross Army along the way. No, it's not the Spiderman most fans are used to, but it's fun, frantic and FREE.",
+		"overview": "Follow the exploits of motorcycle racer turned super hero Takuya Yamashiro, as he slings and swings, battling the evil Iron Cross Army along the way. No, it's not the Spider-Man most fans are used to, but it's fun, frantic and FREE.",
 		"poster_path": "/vlSuwzyt3Hyq5OSFpvJDYnYDN1a.jpg",
 		"media_type": "tv",
 		"runtime": null,
