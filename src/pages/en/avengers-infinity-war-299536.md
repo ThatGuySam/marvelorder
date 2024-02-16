@@ -37,7 +37,7 @@ tags:
     "release_date": "2018-04-25",
     "title": "Avengers: Infinity War",
     "video": false,
-    "vote_average": 8.251,
+    "vote_average": 8.25,
     "slug": "avengers-infinity-war",
     "tags": [
         "movie",

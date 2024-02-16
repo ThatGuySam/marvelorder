@@ -8,7 +8,7 @@ layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/tmdb-image/ySkya7tPCuT1a4gsewyNzRi9cli.webp
 backdrop_path: /8CO2liwAiP31ZY5We2bildsjGh8.jpg
-mcuTimelineOrder: 632
+mcuTimelineOrder: 633
 ---
 ## TMDB Data
 ```json
@@ -30,7 +30,7 @@ mcuTimelineOrder: 632
     "poster_path": "/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg",
     "first_air_date": "2023-06-21",
     "name": "Secret Invasion",
-    "vote_average": 6.898,
+    "vote_average": 6.895,
     "title": "Secret Invasion",
     "slug": "secret-invasion",
     "tags": [

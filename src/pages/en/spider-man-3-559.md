@@ -13,7 +13,7 @@ logo_on_black: >-
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B000UU4NE4?tag=marvelorder-20&linkCode=osi&th=1&psc=1
-mcuTimelineOrder: 545
+mcuTimelineOrder: 546
 ---
 ## TMDB Data
 ```json
@@ -33,7 +33,7 @@ mcuTimelineOrder: 545
     "release_date": "2007-05-01",
     "title": "Spider-Man 3",
     "video": false,
-    "vote_average": 6.4,
+    "vote_average": 6.409,
     "slug": "spider-man-3",
     "tags": [
         "movie",

@@ -34,7 +34,7 @@ tags:
     "poster_path": "/lztz5XBMG1x6Y5ubz7CxfPFsAcW.jpg",
     "first_air_date": "2021-08-11",
     "name": "What If...?",
-    "vote_average": 8.168,
+    "vote_average": 8.167,
     "title": "What If...?",
     "slug": "what-if",
     "tags": [
