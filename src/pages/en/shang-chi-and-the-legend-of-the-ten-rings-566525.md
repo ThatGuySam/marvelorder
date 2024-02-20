@@ -16,7 +16,7 @@ mcuTimelineOrder: 524
 ```json
 {
     "adult": false,
-    "backdrop_path": "/cinER0ESG0eJ49kXlExM0MEWGxW.jpg",
+    "backdrop_path": "/zxWAv1A34kdYslBi4ekMDtgIGUt.jpg",
     "genre_ids": [
         28,
         12,
