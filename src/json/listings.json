@@ -506,30 +506,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
-			28,
-			878,
-			12,
-			53
-		],
-		"id": 912649,
-		"original_language": "en",
-		"original_title": "Venom 3",
-		"overview": "The third entry in the Venom trilogy confirmed to be in development by Amy Pascal.",
-		"poster_path": "/kV6ceSPLK1f8cIjvqOmvnmBEMbD.jpg",
-		"release_date": "2024-11-06",
-		"title": "Venom 3",
-		"video": false,
-		"vote_average": 0,
-		"slug": "venom-3",
-		"tags": [
-			"movie",
-			"company-7505"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": "/nbq3LfgLXnL5ixZ1Q74jTJmhmTS.jpg",
 		"genre_ids": [
 			28,
@@ -557,7 +533,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/uUiIGztTrfDhPdAFJpr6m4UBMAd.jpg",
+		"backdrop_path": "/haCm6h324vysBmtXxSQ9twHasYJ.jpg",
 		"genre_ids": [
 			14,
 			28,
@@ -638,7 +614,7 @@
 		"poster_path": "/vFyJH630cF68LohVYjQW49074Sy.jpg",
 		"first_air_date": "2024-01-09",
 		"name": "Echo",
-		"vote_average": 6.28,
+		"vote_average": 6.295,
 		"title": "Echo",
 		"slug": "echo",
 		"tags": [
@@ -683,7 +659,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.271,
+		"vote_average": 6.265,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -771,7 +747,7 @@
 		"poster_path": "/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg",
 		"first_air_date": "2023-06-21",
 		"name": "Secret Invasion",
-		"vote_average": 6.871,
+		"vote_average": 6.869,
 		"title": "Secret Invasion",
 		"slug": "secret-invasion",
 		"tags": [
@@ -817,7 +793,7 @@
 		"release_date": "2023-05-31",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
-		"vote_average": 8.382,
+		"vote_average": 8.381,
 		"slug": "spider-man-across-the-spider-verse",
 		"tags": [
 			"movie",
@@ -887,7 +863,7 @@
 		"release_date": "2023-02-15",
 		"title": "Ant-Man and the Wasp: Quantumania",
 		"video": false,
-		"vote_average": 6.366,
+		"vote_average": 6.367,
 		"slug": "ant-man-and-the-wasp-quantumania",
 		"tags": [
 			"movie",
@@ -956,7 +932,7 @@
 		"release_date": "2022-11-25",
 		"title": "The Guardians of the Galaxy Holiday Special",
 		"video": false,
-		"vote_average": 7.188,
+		"vote_average": 7.2,
 		"slug": "the-guardians-of-the-galaxy-holiday-special",
 		"tags": [
 			"movie",
@@ -1044,7 +1020,7 @@
 		"release_date": "2022-09-25",
 		"title": "Werewolf by Night",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 7.007,
 		"slug": "werewolf-by-night",
 		"tags": [
 			"movie",
@@ -1442,7 +1418,7 @@
 		"poster_path": "/vKDUmKO6F9bSKKyHhg7YGbgcEeF.jpg",
 		"first_air_date": "2022-03-30",
 		"name": "Moon Knight",
-		"vote_average": 7.749,
+		"vote_average": 7.7,
 		"title": "Moon Knight",
 		"slug": "moon-knight",
 		"tags": [
@@ -1533,7 +1509,7 @@
 		"poster_path": "/ct5pNE5dDHryHLDnxyZPYcqO1sz.jpg",
 		"first_air_date": "2021-11-24",
 		"name": "Hawkeye",
-		"vote_average": 7.91,
+		"vote_average": 7.9,
 		"title": "Hawkeye",
 		"slug": "hawkeye",
 		"tags": [
@@ -1603,7 +1579,7 @@
 		"release_date": "2021-11-03",
 		"title": "Eternals",
 		"video": false,
-		"vote_average": 6.894,
+		"vote_average": 6.9,
 		"slug": "eternals",
 		"tags": [
 			"movie",
@@ -1649,7 +1625,7 @@
 		"original_language": "en",
 		"original_name": "What If...?",
 		"overview": "Taking inspiration from the comic books of the same name, each episode of this animated anthology series questions, revisits and twists classic Marvel Cinematic moments.",
-		"poster_path": "/lztz5XBMG1x6Y5ubz7CxfPFsAcW.jpg",
+		"poster_path": "/rWg4Jk7NwVEz2BtU1aKKDoDJPeB.jpg",
 		"first_air_date": "2021-08-11",
 		"name": "What If...?",
 		"vote_average": 8.166,
@@ -1703,7 +1679,7 @@
 		"release_date": "2021-07-07",
 		"title": "Black Widow",
 		"video": false,
-		"vote_average": 7.268,
+		"vote_average": 7.3,
 		"slug": "black-widow",
 		"tags": [
 			"movie",
@@ -1779,7 +1755,7 @@
 		"poster_path": "/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
 		"first_air_date": "2021-03-19",
 		"name": "The Falcon and the Winter Soldier",
-		"vote_average": 7.67,
+		"vote_average": 7.7,
 		"title": "The Falcon and the Winter Soldier",
 		"slug": "the-falcon-and-the-winter-soldier",
 		"tags": [
@@ -1956,7 +1932,7 @@
 		],
 		"release_date": "2020-04-02",
 		"video": false,
-		"vote_average": 6.124,
+		"vote_average": 6.126,
 		"slug": "the-new-mutants",
 		"tags": [
 			"list-8204860"
@@ -2115,7 +2091,7 @@
 		"release_date": "2019-04-24",
 		"title": "Avengers: Endgame",
 		"video": false,
-		"vote_average": 8.258,
+		"vote_average": 8.257,
 		"slug": "avengers-endgame",
 		"tags": [
 			"movie",
@@ -2163,7 +2139,7 @@
 		"release_date": "2019-03-06",
 		"title": "Captain Marvel",
 		"video": false,
-		"vote_average": 6.828,
+		"vote_average": 6.829,
 		"slug": "captain-marvel",
 		"tags": [
 			"movie",
@@ -2284,7 +2260,7 @@
 		"release_date": "2018-07-04",
 		"title": "Ant-Man and the Wasp",
 		"video": false,
-		"vote_average": 6.9,
+		"vote_average": 6.942,
 		"slug": "ant-man-and-the-wasp",
 		"tags": [
 			"movie",
@@ -2359,7 +2335,7 @@
 		],
 		"release_date": "2018-05-10",
 		"video": false,
-		"vote_average": 7.5,
+		"vote_average": 7.488,
 		"slug": "deadpool-2",
 		"tags": [
 			"list-8204860"
@@ -2381,7 +2357,7 @@
 		"release_date": "2018-04-25",
 		"title": "Avengers: Infinity War",
 		"video": false,
-		"vote_average": 8.25,
+		"vote_average": 8.2,
 		"slug": "avengers-infinity-war",
 		"tags": [
 			"movie",
@@ -2526,7 +2502,7 @@
 		"poster_path": "/nshCqszjTNuqhrB53vrSqWO18sE.jpg",
 		"first_air_date": "2017-10-02",
 		"name": "The Gifted",
-		"vote_average": 7.662,
+		"vote_average": 7.661,
 		"title": "The Gifted",
 		"slug": "the-gifted",
 		"tags": [
@@ -2553,7 +2529,7 @@
 		"release_date": "2017-10-02",
 		"title": "Thor: Ragnarok",
 		"video": false,
-		"vote_average": 7.594,
+		"vote_average": 7.595,
 		"slug": "thor-ragnarok",
 		"tags": [
 			"movie",
@@ -2629,7 +2605,7 @@
 		"release_date": "2017-07-05",
 		"title": "Spider-Man: Homecoming",
 		"video": false,
-		"vote_average": 7.339,
+		"vote_average": 7.34,
 		"slug": "spider-man-homecoming",
 		"tags": [
 			"movie",
@@ -2804,7 +2780,7 @@
 		"poster_path": "/d6T86JYMW4sSLRmNfdtFilvugOv.jpg",
 		"first_air_date": "2017-02-08",
 		"name": "Legion",
-		"vote_average": 7.558,
+		"vote_average": 7.559,
 		"title": "Legion",
 		"slug": "legion",
 		"tags": [
@@ -2878,7 +2854,7 @@
 		"release_date": "2016-10-25",
 		"title": "Doctor Strange",
 		"video": false,
-		"vote_average": 7.425,
+		"vote_average": 7.4,
 		"slug": "doctor-strange",
 		"tags": [
 			"movie",
@@ -3070,7 +3046,7 @@
 		"release_date": "2015-08-05",
 		"title": "Fantastic Four",
 		"video": false,
-		"vote_average": 4.418,
+		"vote_average": 4.4,
 		"slug": "fantastic-four",
 		"tags": [
 			"movie",
@@ -3093,7 +3069,7 @@
 		"release_date": "2015-07-14",
 		"title": "Ant-Man",
 		"video": false,
-		"vote_average": 7.08,
+		"vote_average": 7.1,
 		"slug": "ant-man",
 		"tags": [
 			"movie",
@@ -3141,7 +3117,7 @@
 		"poster_path": "/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
 		"first_air_date": "2015-04-10",
 		"name": "Marvel's Daredevil",
-		"vote_average": 8.2,
+		"vote_average": 8.166,
 		"title": "Marvel's Daredevil",
 		"slug": "marvels-daredevil",
 		"tags": [
@@ -3321,7 +3297,7 @@
 		"release_date": "2014-07-30",
 		"title": "Guardians of the Galaxy",
 		"video": false,
-		"vote_average": 7.907,
+		"vote_average": 7.908,
 		"slug": "guardians-of-the-galaxy",
 		"tags": [
 			"movie",
@@ -3596,7 +3572,7 @@
 		"release_date": "2013-10-30",
 		"title": "Thor: The Dark World",
 		"video": false,
-		"vote_average": 6.531,
+		"vote_average": 6.53,
 		"slug": "thor-the-dark-world",
 		"tags": [
 			"movie",
@@ -4087,7 +4063,7 @@
 		"release_date": "2011-04-21",
 		"title": "Thor",
 		"video": false,
-		"vote_average": 6.767,
+		"vote_average": 6.8,
 		"slug": "thor",
 		"tags": [
 			"movie",
@@ -4313,7 +4289,7 @@
 		"poster_path": "/uwMIL8PR1jHpHQksIq7kzdeqg2A.jpg",
 		"first_air_date": "2009-04-24",
 		"name": "Iron Man: Armored Adventures",
-		"vote_average": 7.179,
+		"vote_average": 7.2,
 		"title": "Iron Man: Armored Adventures",
 		"slug": "iron-man-armored-adventures",
 		"tags": [
@@ -5413,7 +5389,7 @@
 			10759
 		],
 		"first_air_date": "1992-10-31",
-		"vote_average": 8.182,
+		"vote_average": 8.183,
 		"origin_country": [
 			"US"
 		],
@@ -5431,7 +5407,7 @@
 		"original_language": "en",
 		"original_title": "The Death of the Incredible Hulk",
 		"overview": "During the critical experiment that would rid David Banner of the Hulk,a spy sabotages the laboratory. Banner falls in love with the spy, Jasmin, who performs missions only because her sister is being held hostage by Jasmin's superiors. Banner and Jasmin try to escape from the enemy agents to rebuild their lives together, but the Hulk is never far from them.",
-		"poster_path": "/mvKi4iBTzc32whrwvXXO2fEiRZL.jpg",
+		"poster_path": "/6q6CviMLR97ssODmKhxgyxQuoYp.jpg",
 		"media_type": "movie",
 		"runtime": 95,
 		"revenue": 0,
@@ -5522,7 +5498,7 @@
 		],
 		"release_date": "1986-08-01",
 		"video": false,
-		"vote_average": 5.391,
+		"vote_average": 5.39,
 		"slug": "howard-the-duck",
 		"tags": [
 			"list-8204859"
@@ -5841,29 +5817,31 @@
 	{
 		"adult": false,
 		"backdrop_path": "/vl2lLJcbbnTcvWH6ZfHlXuLxIaP.jpg",
-		"id": 648,
-		"name": "The Incredible Hulk",
-		"original_language": "en",
-		"original_name": "The Incredible Hulk",
-		"overview": "During an experiment gone bad, radiation turns a scientist into a raging green behemoth whenever he becomes agitated. Unable to control his transformations, David Banner searches for a cure as he crosses the country, fugitive-style, with a dogged tabloid reporter on his trail.",
-		"poster_path": "/8q7uFuNuMWTWfcpnCpBuZa3KZXx.jpg",
-		"media_type": "tv",
-		"runtime": null,
 		"genre_ids": [
 			10765,
 			10759,
 			18
 		],
-		"first_air_date": "1977-11-04",
-		"vote_average": 7.2,
+		"id": 648,
 		"origin_country": [
 			"US"
 		],
+		"original_language": "en",
+		"original_name": "The Incredible Hulk",
+		"overview": "During an experiment gone bad, radiation turns a scientist into a raging green behemoth whenever he becomes agitated. Unable to control his transformations, David Banner searches for a cure as he crosses the country, fugitive-style, with a dogged tabloid reporter on his trail.",
+		"poster_path": "/8q7uFuNuMWTWfcpnCpBuZa3KZXx.jpg",
+		"first_air_date": "1977-11-04",
+		"name": "The Incredible Hulk",
+		"vote_average": 7.2,
 		"title": "The Incredible Hulk",
 		"slug": "the-incredible-hulk",
 		"tags": [
+			"tv",
+			"company-420",
 			"list-8204862"
-		]
+		],
+		"media_type": "tv",
+		"runtime": null
 	},
 	{
 		"adult": false,

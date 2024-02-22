@@ -31,7 +31,7 @@ tags:
     "original_language": "en",
     "original_name": "What If...?",
     "overview": "Taking inspiration from the comic books of the same name, each episode of this animated anthology series questions, revisits and twists classic Marvel Cinematic moments.",
-    "poster_path": "/lztz5XBMG1x6Y5ubz7CxfPFsAcW.jpg",
+    "poster_path": "/rWg4Jk7NwVEz2BtU1aKKDoDJPeB.jpg",
     "first_air_date": "2021-08-11",
     "name": "What If...?",
     "vote_average": 8.166,
