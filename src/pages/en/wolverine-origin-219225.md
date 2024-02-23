@@ -36,7 +36,7 @@ type: movie
     "release_date": "2013-07-09",
     "title": "Wolverine: Origin",
     "video": false,
-    "vote_average": 6.5,
+    "vote_average": 6.25,
     "slug": "wolverine-origin",
     "tags": [
         "movie",
