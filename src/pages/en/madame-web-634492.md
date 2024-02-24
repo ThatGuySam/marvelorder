@@ -26,7 +26,7 @@ type: movie
     "release_date": "2024-02-14",
     "title": "Madame Web",
     "video": false,
-    "vote_average": 5.307,
+    "vote_average": 5.3,
     "slug": "madame-web",
     "tags": [
         "movie",
