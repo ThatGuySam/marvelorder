@@ -31,7 +31,7 @@ mcuTimelineOrder: 524
     "release_date": "2021-09-01",
     "title": "Shang-Chi and the Legend of the Ten Rings",
     "video": false,
-    "vote_average": 7.567,
+    "vote_average": 7.566,
     "slug": "shang-chi-and-the-legend-of-the-ten-rings",
     "tags": [
         "movie",

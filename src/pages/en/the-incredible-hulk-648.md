@@ -31,7 +31,7 @@ watchLinks:
     "poster_path": "/8q7uFuNuMWTWfcpnCpBuZa3KZXx.jpg",
     "first_air_date": "1977-11-04",
     "name": "The Incredible Hulk",
-    "vote_average": 7.206,
+    "vote_average": 7.2,
     "title": "The Incredible Hulk",
     "slug": "the-incredible-hulk",
     "tags": [

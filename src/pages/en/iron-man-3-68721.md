@@ -31,7 +31,7 @@ mcuTimelineOrder: 41
     "release_date": "2013-04-18",
     "title": "Iron Man 3",
     "video": false,
-    "vote_average": 6.9,
+    "vote_average": 6.927,
     "slug": "iron-man-3",
     "tags": [
         "movie",
