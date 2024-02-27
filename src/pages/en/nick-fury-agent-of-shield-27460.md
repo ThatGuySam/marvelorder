@@ -19,7 +19,7 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/m4QcUdzeCMEfs01FqLwrskoPXGL.jpg",
+    "backdrop_path": "/4mVVwbrdyPoT6BTf9H5YpJ8kCYJ.jpg",
     "genre_ids": [
         878,
         28,
@@ -33,7 +33,7 @@ watchLinks:
     "release_date": "1998-05-26",
     "title": "Nick Fury: Agent of S.H.I.E.L.D.",
     "video": false,
-    "vote_average": 4.453,
+    "vote_average": 4.5,
     "slug": "nick-fury-agent-of-shield",
     "tags": [
         "movie",
