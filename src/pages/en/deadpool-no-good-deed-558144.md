@@ -30,7 +30,7 @@ watchLinks:
     ],
     "release_date": "2017-03-03",
     "video": false,
-    "vote_average": 7.145,
+    "vote_average": 7.152,
     "slug": "deadpool-no-good-deed",
     "tags": [
         "list-8204860"
