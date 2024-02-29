@@ -547,7 +547,7 @@
 		"release_date": "2024-02-14",
 		"title": "Madame Web",
 		"video": false,
-		"vote_average": 5.4,
+		"vote_average": 5.389,
 		"slug": "madame-web",
 		"tags": [
 			"movie",
@@ -645,7 +645,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/87D4mubwJryrSxcS8pF8YxT6aSI.jpg",
+		"backdrop_path": "/feSiISwgEpVzR1v3zv2n2AU4ANJ.jpg",
 		"genre_ids": [
 			878,
 			12,
@@ -659,7 +659,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.255,
+		"vote_average": 6.261,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -793,7 +793,7 @@
 		"release_date": "2023-05-31",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
-		"vote_average": 8.383,
+		"vote_average": 8.384,
 		"slug": "spider-man-across-the-spider-verse",
 		"tags": [
 			"movie",
@@ -863,7 +863,7 @@
 		"release_date": "2023-02-15",
 		"title": "Ant-Man and the Wasp: Quantumania",
 		"video": false,
-		"vote_average": 6.365,
+		"vote_average": 6.364,
 		"slug": "ant-man-and-the-wasp-quantumania",
 		"tags": [
 			"movie",
@@ -955,7 +955,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 7.146,
+		"vote_average": 7.144,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -1093,7 +1093,7 @@
 		"poster_path": "/eqKNlMgG6pE1tbvTcD86NDNKlru.jpg",
 		"first_air_date": "2022-08-10",
 		"name": "I Am Groot",
-		"vote_average": 7.127,
+		"vote_average": 7.1,
 		"title": "I Am Groot",
 		"slug": "i-am-groot",
 		"tags": [
@@ -1118,7 +1118,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot's First Steps",
 		"video": false,
-		"vote_average": 7.014,
+		"vote_average": 7.024,
 		"slug": "groots-first-steps",
 		"tags": [
 			"movie",
@@ -1142,7 +1142,7 @@
 		"release_date": "2022-08-10",
 		"title": "The Little Guy",
 		"video": false,
-		"vote_average": 7.308,
+		"vote_average": 7.319,
 		"slug": "the-little-guy",
 		"tags": [
 			"movie",
@@ -1166,7 +1166,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot's Pursuit",
 		"video": false,
-		"vote_average": 7.098,
+		"vote_average": 7.11,
 		"slug": "groots-pursuit",
 		"tags": [
 			"movie",
@@ -1190,7 +1190,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot Takes a Bath",
 		"video": false,
-		"vote_average": 7.098,
+		"vote_average": 7.107,
 		"slug": "groot-takes-a-bath",
 		"tags": [
 			"movie",
@@ -1235,7 +1235,7 @@
 		"release_date": "2022-07-18",
 		"title": "Magnum Opus",
 		"video": false,
-		"vote_average": 7.286,
+		"vote_average": 7.297,
 		"slug": "magnum-opus",
 		"tags": [
 			"movie",
@@ -1279,7 +1279,7 @@
 		"release_date": "2022-07-06",
 		"title": "Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 6.477,
+		"vote_average": 6.478,
 		"slug": "thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -1304,7 +1304,7 @@
 		"poster_path": "/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
 		"first_air_date": "2022-06-08",
 		"name": "Ms. Marvel",
-		"vote_average": 6.502,
+		"vote_average": 6.504,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
 		"tags": [
@@ -1395,7 +1395,7 @@
 		"poster_path": "/vKDUmKO6F9bSKKyHhg7YGbgcEeF.jpg",
 		"first_air_date": "2022-03-30",
 		"name": "Moon Knight",
-		"vote_average": 7.749,
+		"vote_average": 7.7,
 		"title": "Moon Knight",
 		"slug": "moon-knight",
 		"tags": [
@@ -1605,7 +1605,7 @@
 		"poster_path": "/rWg4Jk7NwVEz2BtU1aKKDoDJPeB.jpg",
 		"first_air_date": "2021-08-11",
 		"name": "What If...?",
-		"vote_average": 8.166,
+		"vote_average": 8.2,
 		"title": "What If...?",
 		"slug": "what-if",
 		"tags": [
@@ -1680,7 +1680,7 @@
 		"poster_path": "/voHUmluYmKyleFkTu3lOXQG702u.jpg",
 		"first_air_date": "2021-06-09",
 		"name": "Loki",
-		"vote_average": 8.179,
+		"vote_average": 8.2,
 		"title": "Loki",
 		"slug": "loki",
 		"tags": [
@@ -1707,7 +1707,7 @@
 		"poster_path": "/dOOFAtzsRQ641p2NL4s4nyThJSO.jpg",
 		"first_air_date": "2021-05-21",
 		"name": "Marvel's M.O.D.O.K.",
-		"vote_average": 6.742,
+		"vote_average": 6.7,
 		"title": "Marvel's M.O.D.O.K.",
 		"slug": "marvels-modok",
 		"tags": [
@@ -1732,7 +1732,7 @@
 		"poster_path": "/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
 		"first_air_date": "2021-03-19",
 		"name": "The Falcon and the Winter Soldier",
-		"vote_average": 7.668,
+		"vote_average": 7.7,
 		"title": "The Falcon and the Winter Soldier",
 		"slug": "the-falcon-and-the-winter-soldier",
 		"tags": [
@@ -1778,7 +1778,7 @@
 		"release_date": "2021-02-12",
 		"title": "Marvel's Behind the Mask",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7.08,
 		"slug": "marvels-behind-the-mask",
 		"tags": [
 			"movie",
@@ -1803,7 +1803,7 @@
 		"poster_path": "/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
 		"first_air_date": "2021-01-15",
 		"name": "WandaVision",
-		"vote_average": 8.247,
+		"vote_average": 8.2,
 		"title": "WandaVision",
 		"slug": "wandavision",
 		"tags": [
@@ -1909,7 +1909,7 @@
 		],
 		"release_date": "2020-04-02",
 		"video": false,
-		"vote_average": 6.123,
+		"vote_average": 6.122,
 		"slug": "the-new-mutants",
 		"tags": [
 			"list-8204860"
@@ -2046,7 +2046,7 @@
 		],
 		"release_date": "2019-06-05",
 		"video": false,
-		"vote_average": 5.983,
+		"vote_average": 5.982,
 		"slug": "dark-phoenix",
 		"tags": [
 			"list-8204860"
@@ -2068,7 +2068,7 @@
 		"release_date": "2019-04-24",
 		"title": "Avengers: Endgame",
 		"video": false,
-		"vote_average": 8.257,
+		"vote_average": 8.258,
 		"slug": "avengers-endgame",
 		"tags": [
 			"movie",
@@ -2237,7 +2237,7 @@
 		"release_date": "2018-07-04",
 		"title": "Ant-Man and the Wasp",
 		"video": false,
-		"vote_average": 6.942,
+		"vote_average": 6.9,
 		"slug": "ant-man-and-the-wasp",
 		"tags": [
 			"movie",
@@ -2262,7 +2262,7 @@
 		"poster_path": "/pYnRJuBPEqZO1o4fcxBTgmKNHfy.jpg",
 		"first_air_date": "2018-06-07",
 		"name": "Marvel's Cloak & Dagger",
-		"vote_average": 7.238,
+		"vote_average": 7.2,
 		"title": "Marvel's Cloak & Dagger",
 		"slug": "marvels-cloak-and-dagger",
 		"tags": [
@@ -2312,7 +2312,7 @@
 		],
 		"release_date": "2018-05-10",
 		"video": false,
-		"vote_average": 7.489,
+		"vote_average": 7.488,
 		"slug": "deadpool-2",
 		"tags": [
 			"list-8204860"
@@ -2334,7 +2334,7 @@
 		"release_date": "2018-04-25",
 		"title": "Avengers: Infinity War",
 		"video": false,
-		"vote_average": 8.249,
+		"vote_average": 8.2,
 		"slug": "avengers-infinity-war",
 		"tags": [
 			"movie",
@@ -2710,7 +2710,7 @@
 		],
 		"release_date": "2017-02-28",
 		"video": false,
-		"vote_average": 7.819,
+		"vote_average": 7.8,
 		"slug": "logan",
 		"tags": [
 			"list-8204860"
@@ -3046,7 +3046,7 @@
 		"release_date": "2015-07-14",
 		"title": "Ant-Man",
 		"video": false,
-		"vote_average": 7.08,
+		"vote_average": 7.1,
 		"slug": "ant-man",
 		"tags": [
 			"movie",
@@ -3417,7 +3417,7 @@
 		"release_date": "2014-03-20",
 		"title": "Captain America: The Winter Soldier",
 		"video": false,
-		"vote_average": 7.668,
+		"vote_average": 7.7,
 		"slug": "captain-america-the-winter-soldier",
 		"tags": [
 			"movie",
@@ -3439,7 +3439,7 @@
 		"release_date": "2014-03-18",
 		"title": "Marvel Studios: Assembling a Universe",
 		"video": false,
-		"vote_average": 6.9,
+		"vote_average": 6.868,
 		"slug": "marvel-studios-assembling-a-universe",
 		"tags": [
 			"movie",
@@ -3924,7 +3924,7 @@
 		"release_date": "2011-12-10",
 		"title": "Ghost Rider: Spirit of Vengeance",
 		"video": false,
-		"vote_average": 5.008,
+		"vote_average": 5,
 		"slug": "ghost-rider-spirit-of-vengeance",
 		"tags": [
 			"movie",
@@ -3993,7 +3993,7 @@
 		"release_date": "2011-07-22",
 		"title": "Captain America: The First Avenger",
 		"video": false,
-		"vote_average": 6.999,
+		"vote_average": 7,
 		"slug": "captain-america-the-first-avenger",
 		"tags": [
 			"movie",
@@ -4020,7 +4020,7 @@
 		],
 		"release_date": "2011-06-01",
 		"video": false,
-		"vote_average": 7.298,
+		"vote_average": 7.3,
 		"slug": "x-men-first-class",
 		"tags": [
 			"list-8204860"
@@ -4117,7 +4117,7 @@
 		"poster_path": "/8MwwAuDy6dc1GbiBUZdvWtQczqR.jpg",
 		"first_air_date": "2010-10-20",
 		"name": "The Avengers: Earth's Mightiest Heroes",
-		"vote_average": 8.2,
+		"vote_average": 8.158,
 		"title": "The Avengers: Earth's Mightiest Heroes",
 		"slug": "the-avengers-earths-mightiest-heroes",
 		"tags": [
@@ -4242,7 +4242,7 @@
 		],
 		"release_date": "2009-04-28",
 		"video": false,
-		"vote_average": 6.3,
+		"vote_average": 6.261,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"list-8204860"
@@ -4416,7 +4416,7 @@
 		"release_date": "2008-06-12",
 		"title": "The Incredible Hulk",
 		"video": false,
-		"vote_average": 6.209,
+		"vote_average": 6.2,
 		"slug": "the-incredible-hulk",
 		"tags": [
 			"movie",
@@ -4440,7 +4440,7 @@
 		"release_date": "2008-04-30",
 		"title": "Iron Man",
 		"video": false,
-		"vote_average": 7.643,
+		"vote_average": 7.6,
 		"slug": "iron-man",
 		"tags": [
 			"movie",
@@ -4898,16 +4898,16 @@
 		],
 		"original_language": "en",
 		"original_name": "Spider-Man: The New Animated Series",
-		"overview": "Spider-Man: The New Animated Series is an American animated series based on the Marvel comic book superhero character Spider-Man, which ran for one season, 13 episodes, starting on July 11, 2003. It is a loose continuation of 2002's Spider-Man film directed by Sam Raimi. The show was made using computer generated imagery rendered in cel shading and was broadcast on MTV, and YTV. Eight months later after the series finale, episodes aired in reruns on ABC Family as part of the Jetix television programming block. The series featured a far more mature version of the character than typically seen on television for any animated comic book adaptation. Throughout the series, characters are clearly killed, rather than the usual ambiguous disappearance, and several characters are strongly implied to have had sex.",
+		"overview": "Bitten by an irradiated spider, teenager Peter Parker gains arachnid-like powers that make him both a hero to those in need and a vigilante wanted by the police.",
 		"poster_path": "/v3UfqXCAxAcI7oUO4zwtk1T9G3n.jpg",
 		"first_air_date": "2003-07-11",
 		"name": "Spider-Man: The New Animated Series",
-		"vote_average": 7.125,
+		"vote_average": 7.1,
 		"title": "Spider-Man: The New Animated Series",
 		"slug": "spider-man-the-new-animated-series",
 		"tags": [
 			"tv",
-			"company-7505"
+			"company-19551"
 		]
 	},
 	{
@@ -5394,7 +5394,7 @@
 			10759
 		],
 		"first_air_date": "1992-10-31",
-		"vote_average": 8.2,
+		"vote_average": 8.184,
 		"origin_country": [
 			"US"
 		],

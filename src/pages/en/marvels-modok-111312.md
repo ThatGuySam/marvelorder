@@ -36,7 +36,7 @@ watchLinks:
     "poster_path": "/dOOFAtzsRQ641p2NL4s4nyThJSO.jpg",
     "first_air_date": "2021-05-21",
     "name": "Marvel's M.O.D.O.K.",
-    "vote_average": 6.742,
+    "vote_average": 6.7,
     "title": "Marvel's M.O.D.O.K.",
     "slug": "marvels-modok",
     "tags": [

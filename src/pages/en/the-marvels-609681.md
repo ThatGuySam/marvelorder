@@ -10,7 +10,7 @@ logo_on_black: /.netlify/functions/tmdb-image/bnz17wOkp9O0c9JADOncEx0Q1sJ.webp
 ```json
 {
     "adult": false,
-    "backdrop_path": "/87D4mubwJryrSxcS8pF8YxT6aSI.jpg",
+    "backdrop_path": "/feSiISwgEpVzR1v3zv2n2AU4ANJ.jpg",
     "genre_ids": [
         878,
         12,
@@ -24,7 +24,7 @@ logo_on_black: /.netlify/functions/tmdb-image/bnz17wOkp9O0c9JADOncEx0Q1sJ.webp
     "release_date": "2023-11-08",
     "title": "The Marvels",
     "video": false,
-    "vote_average": 6.255,
+    "vote_average": 6.261,
     "slug": "the-marvels",
     "tags": [
         "movie",
