@@ -31,7 +31,7 @@ watchLinks:
     "release_date": "2004-04-15",
     "title": "The Punisher",
     "video": false,
-    "vote_average": 6.343,
+    "vote_average": 6.3,
     "slug": "the-punisher",
     "tags": [
         "movie",
