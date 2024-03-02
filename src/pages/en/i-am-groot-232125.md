@@ -51,7 +51,7 @@ tags:
     "poster_path": "/eqKNlMgG6pE1tbvTcD86NDNKlru.jpg",
     "first_air_date": "2022-08-10",
     "name": "I Am Groot",
-    "vote_average": 7.1,
+    "vote_average": 7.14,
     "title": "I Am Groot",
     "slug": "i-am-groot",
     "tags": [

@@ -30,7 +30,7 @@ watchLinks:
     ],
     "release_date": "2012-07-16",
     "video": false,
-    "vote_average": 7.1,
+    "vote_average": 7.062,
     "slug": "the-punisher-dirty-laundry",
     "tags": [
         "list-8204859"
