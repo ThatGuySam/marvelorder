@@ -14,7 +14,6 @@ type: movie
     "adult": false,
     "backdrop_path": "/uUiIGztTrfDhPdAFJpr6m4UBMAd.jpg",
     "genre_ids": [
-        14,
         28,
         878
     ],
@@ -26,7 +25,7 @@ type: movie
     "release_date": "2024-02-14",
     "title": "Madame Web",
     "video": false,
-    "vote_average": 5.377,
+    "vote_average": 5.309,
     "slug": "madame-web",
     "tags": [
         "movie",

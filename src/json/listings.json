@@ -4,7 +4,6 @@
 		"backdrop_path": "/3Wh6RYyoqBHkjugcfVrypjH8qQv.jpg",
 		"genre_ids": [
 			10759,
-			18,
 			10765
 		],
 		"id": 114471,
@@ -514,7 +513,6 @@
 		"adult": false,
 		"backdrop_path": "/uUiIGztTrfDhPdAFJpr6m4UBMAd.jpg",
 		"genre_ids": [
-			14,
 			28,
 			878
 		],
@@ -526,7 +524,7 @@
 		"release_date": "2024-02-14",
 		"title": "Madame Web",
 		"video": false,
-		"vote_average": 5.377,
+		"vote_average": 5.309,
 		"slug": "madame-web",
 		"tags": [
 			"movie",
@@ -593,7 +591,7 @@
 		"poster_path": "/vFyJH630cF68LohVYjQW49074Sy.jpg",
 		"first_air_date": "2024-01-09",
 		"name": "Echo",
-		"vote_average": 6.305,
+		"vote_average": 6.3,
 		"title": "Echo",
 		"slug": "echo",
 		"tags": [
@@ -615,7 +613,7 @@
 		"release_date": "2023-11-22",
 		"title": "Marvel Studios Assembled: The Making of Loki Season 2",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 7.208,
 		"slug": "marvel-studios-assembled-the-making-of-loki-season-2",
 		"tags": [
 			"movie",
@@ -638,7 +636,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.249,
+		"vote_average": 6.243,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -795,7 +793,7 @@
 		"release_date": "2023-05-03",
 		"title": "Guardians of the Galaxy Vol. 3",
 		"video": false,
-		"vote_average": 7.979,
+		"vote_average": 7.978,
 		"slug": "guardians-of-the-galaxy-vol-3",
 		"tags": [
 			"movie",
@@ -1015,7 +1013,7 @@
 		"id": 1015595,
 		"original_language": "en",
 		"original_title": "Marvel Studios Assembled: The Making of Thor: Love and Thunder",
-		"overview": "Settle in with the likes of Taika Waititi, Chris Hemsworth, Natalie Portman, Christian Bale, and Tessa Thompson, and as they divulge the secrets behind the creation of Thor: Love and Thunder. Through in-depth interviews with cast and crew, along with raw, unseen footage from the set and beyond, ASSEMBLED pulls back the curtain on the God of Thunder’s fourth feature film.",
+		"overview": "Settle in with the likes of Taika Waititi, Chris Hemsworth, Natalie Portman, Christian Bale, and Tessa Thompson, and as they divulge the secrets behind the creation of Thor: Love and Thunder. Through in-depth interviews with cast and crew, along with raw, unseen footage from the set and beyond, this documentary special pulls back the curtain on the God of Thunder’s fourth feature film.",
 		"poster_path": "/eb7GP3cttApzilOOM52L129Eaaj.jpg",
 		"release_date": "2022-09-08",
 		"title": "Marvel Studios Assembled: The Making of Thor: Love and Thunder",
@@ -1214,7 +1212,7 @@
 		"release_date": "2022-07-18",
 		"title": "Magnum Opus",
 		"video": false,
-		"vote_average": 7.297,
+		"vote_average": 7.316,
 		"slug": "magnum-opus",
 		"tags": [
 			"movie",
@@ -1283,7 +1281,7 @@
 		"poster_path": "/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
 		"first_air_date": "2022-06-08",
 		"name": "Ms. Marvel",
-		"vote_average": 6.506,
+		"vote_average": 6.501,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
 		"tags": [
@@ -1326,7 +1324,7 @@
 		"release_date": "2022-05-25",
 		"title": "Marvel Studios Assembled: The Making of Moon Knight",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 7.181,
 		"slug": "marvel-studios-assembled-the-making-of-moon-knight",
 		"tags": [
 			"movie",
@@ -1349,7 +1347,7 @@
 		"release_date": "2022-05-04",
 		"title": "Doctor Strange in the Multiverse of Madness",
 		"video": false,
-		"vote_average": 7.321,
+		"vote_average": 7.32,
 		"slug": "doctor-strange-in-the-multiverse-of-madness",
 		"tags": [
 			"movie",
@@ -1374,7 +1372,7 @@
 		"poster_path": "/vKDUmKO6F9bSKKyHhg7YGbgcEeF.jpg",
 		"first_air_date": "2022-03-30",
 		"name": "Moon Knight",
-		"vote_average": 7.747,
+		"vote_average": 7.746,
 		"title": "Moon Knight",
 		"slug": "moon-knight",
 		"tags": [
@@ -1559,7 +1557,7 @@
 		"release_date": "2021-09-01",
 		"title": "Shang-Chi and the Legend of the Ten Rings",
 		"video": false,
-		"vote_average": 7.563,
+		"vote_average": 7.564,
 		"slug": "shang-chi-and-the-legend-of-the-ten-rings",
 		"tags": [
 			"movie",
@@ -1584,7 +1582,7 @@
 		"poster_path": "/rWg4Jk7NwVEz2BtU1aKKDoDJPeB.jpg",
 		"first_air_date": "2021-08-11",
 		"name": "What If...?",
-		"vote_average": 8.2,
+		"vote_average": 8.168,
 		"title": "What If...?",
 		"slug": "what-if",
 		"tags": [
@@ -1635,7 +1633,7 @@
 		"release_date": "2021-07-07",
 		"title": "Black Widow",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.266,
 		"slug": "black-widow",
 		"tags": [
 			"movie",
@@ -1782,7 +1780,7 @@
 		"poster_path": "/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
 		"first_air_date": "2021-01-15",
 		"name": "WandaVision",
-		"vote_average": 8.247,
+		"vote_average": 8.2,
 		"title": "WandaVision",
 		"slug": "wandavision",
 		"tags": [
@@ -1998,7 +1996,7 @@
 		"release_date": "2019-06-28",
 		"title": "Spider-Man: Far From Home",
 		"video": false,
-		"vote_average": 7.436,
+		"vote_average": 7.437,
 		"slug": "spider-man-far-from-home",
 		"tags": [
 			"movie",
@@ -2095,7 +2093,7 @@
 		"release_date": "2019-03-06",
 		"title": "Captain Marvel",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.829,
 		"slug": "captain-marvel",
 		"tags": [
 			"movie",
@@ -2458,7 +2456,7 @@
 		"poster_path": "/nshCqszjTNuqhrB53vrSqWO18sE.jpg",
 		"first_air_date": "2017-10-02",
 		"name": "The Gifted",
-		"vote_average": 7.659,
+		"vote_average": 7.657,
 		"title": "The Gifted",
 		"slug": "the-gifted",
 		"tags": [
@@ -2810,7 +2808,7 @@
 		"release_date": "2016-10-25",
 		"title": "Doctor Strange",
 		"video": false,
-		"vote_average": 7.424,
+		"vote_average": 7.4,
 		"slug": "doctor-strange",
 		"tags": [
 			"movie",
@@ -2836,7 +2834,7 @@
 		"poster_path": "/6WUGpRS1ne0dwbhT8iPWGLxwHfS.jpg",
 		"first_air_date": "2016-09-30",
 		"name": "Marvel's Luke Cage",
-		"vote_average": 6.948,
+		"vote_average": 6.949,
 		"title": "Marvel's Luke Cage",
 		"slug": "marvels-luke-cage",
 		"tags": [
@@ -2886,7 +2884,7 @@
 		],
 		"release_date": "2016-05-18",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.512,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"list-8204860"
@@ -3002,7 +3000,7 @@
 		"release_date": "2015-08-05",
 		"title": "Fantastic Four",
 		"video": false,
-		"vote_average": 4.4,
+		"vote_average": 4.418,
 		"slug": "fantastic-four",
 		"tags": [
 			"movie",
@@ -3048,7 +3046,7 @@
 		"release_date": "2015-04-22",
 		"title": "Avengers: Age of Ultron",
 		"video": false,
-		"vote_average": 7.273,
+		"vote_average": 7.3,
 		"slug": "avengers-age-of-ultron",
 		"tags": [
 			"movie",
@@ -3279,7 +3277,7 @@
 		],
 		"release_date": "2014-05-15",
 		"video": false,
-		"vote_average": 7.5,
+		"vote_average": 7.526,
 		"slug": "x-men-days-of-future-past",
 		"tags": [
 			"list-8204860"
@@ -3553,7 +3551,7 @@
 		"poster_path": "/gHUCCMy1vvj58tzE3dZqeC9SXus.jpg",
 		"first_air_date": "2013-09-24",
 		"name": "Marvel's Agents of S.H.I.E.L.D.",
-		"vote_average": 7.488,
+		"vote_average": 7.489,
 		"title": "Marvel's Agents of S.H.I.E.L.D.",
 		"slug": "marvels-agents-of-shield",
 		"tags": [
@@ -3903,7 +3901,7 @@
 		"release_date": "2011-12-10",
 		"title": "Ghost Rider: Spirit of Vengeance",
 		"video": false,
-		"vote_average": 5,
+		"vote_average": 5.008,
 		"slug": "ghost-rider-spirit-of-vengeance",
 		"tags": [
 			"movie",
@@ -3999,7 +3997,7 @@
 		],
 		"release_date": "2011-06-01",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.299,
 		"slug": "x-men-first-class",
 		"tags": [
 			"list-8204860"
@@ -4021,7 +4019,7 @@
 		"release_date": "2011-04-21",
 		"title": "Thor",
 		"video": false,
-		"vote_average": 6.767,
+		"vote_average": 6.8,
 		"slug": "thor",
 		"tags": [
 			"movie",
@@ -4123,7 +4121,7 @@
 		"release_date": "2010-04-28",
 		"title": "Iron Man 2",
 		"video": false,
-		"vote_average": 6.838,
+		"vote_average": 6.839,
 		"slug": "iron-man-2",
 		"tags": [
 			"movie",
@@ -4494,7 +4492,7 @@
 		"release_date": "2007-06-13",
 		"title": "Fantastic Four: Rise of the Silver Surfer",
 		"video": false,
-		"vote_average": 5.6,
+		"vote_average": 5.602,
 		"slug": "fantastic-four-rise-of-the-silver-surfer",
 		"tags": [
 			"movie",
@@ -4719,7 +4717,7 @@
 		"release_date": "2005-06-29",
 		"title": "Fantastic Four",
 		"video": false,
-		"vote_average": 5.8,
+		"vote_average": 5.783,
 		"slug": "fantastic-four",
 		"tags": [
 			"movie",
@@ -4832,7 +4830,7 @@
 		"release_date": "2004-06-25",
 		"title": "Spider-Man 2",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.267,
 		"slug": "spider-man-2",
 		"tags": [
 			"movie",
@@ -4855,7 +4853,7 @@
 		"release_date": "2004-04-15",
 		"title": "The Punisher",
 		"video": false,
-		"vote_average": 6.345,
+		"vote_average": 6.346,
 		"slug": "the-punisher",
 		"tags": [
 			"movie",
@@ -4924,7 +4922,7 @@
 		"original_language": "en",
 		"original_title": "X2",
 		"overview": "Professor Charles Xavier and his team of genetically gifted superheroes face a rising tide of anti-mutant sentiment led by Col. William Stryker. Storm, Wolverine and Jean Grey must join their usual nemeses—Magneto and Mystique—to unhinge Stryker's scheme to exterminate all mutants.",
-		"poster_path": "/bWMw0FMsY8DICgrQnrTSWbzEgtr.jpg",
+		"poster_path": "/r3i3rMSHneAp9uQNZA4I04y9S4p.jpg",
 		"release_date": "2003-04-27",
 		"title": "X2",
 		"video": false,
