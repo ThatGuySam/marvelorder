@@ -37,7 +37,7 @@ media_type: movie
     "original_language": "en",
     "original_title": "Deadpool & Wolverine",
     "overview": "Third entry in the \"Deadpool\" franchise. Plot TBA.",
-    "poster_path": "/uxBHXaoOvAwy4NpPpP7nNx2rXYQ.jpg",
+    "poster_path": "/6u8X5Ce5TNJ5IbPq5LmuCprzSsD.jpg",
     "release_date": "2024-07-24",
     "title": "Deadpool & Wolverine",
     "video": false,

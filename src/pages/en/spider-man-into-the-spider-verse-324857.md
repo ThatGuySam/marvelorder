@@ -27,9 +27,9 @@ backdrop_path: /x2IqsMlpbOhS8zIUJfyl1yO4gHF.jpg
     "runtime": 117,
     "revenue": 384298736,
     "genre_ids": [
+        16,
         28,
         12,
-        16,
         878
     ],
     "release_date": "2018-12-06",
