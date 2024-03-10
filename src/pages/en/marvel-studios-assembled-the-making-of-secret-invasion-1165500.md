@@ -35,8 +35,7 @@ tags:
     "adult": false,
     "backdrop_path": "/phHZMvFlj5A03gzp7bhmQl8BInz.jpg",
     "genre_ids": [
-        99,
-        10770
+        99
     ],
     "id": 1165500,
     "original_language": "en",

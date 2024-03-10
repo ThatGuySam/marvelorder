@@ -34,7 +34,7 @@ mcuTimelineOrder: 631
     "release_date": "2023-02-15",
     "title": "Ant-Man and the Wasp: Quantumania",
     "video": false,
-    "vote_average": 6.362,
+    "vote_average": 6.361,
     "slug": "ant-man-and-the-wasp-quantumania",
     "tags": [
         "movie",
