@@ -19,28 +19,29 @@ watchLinks:
 {
     "adult": false,
     "backdrop_path": "/cjRUhKyt2Jo3V1KNzc5tpPNfccG.jpg",
-    "id": 320288,
-    "title": "Dark Phoenix",
-    "original_language": "en",
-    "original_title": "Dark Phoenix",
-    "overview": "The X-Men face their most formidable and powerful foe when one of their own, Jean Grey, starts to spiral out of control. During a rescue mission in outer space, Jean is nearly killed when she's hit by a mysterious cosmic force. Once she returns home, this force not only makes her infinitely more powerful, but far more unstable. The X-Men must now band together to save her soul and battle aliens that want to use Grey's new abilities to rule the galaxy.",
-    "poster_path": "/kZv92eTc0Gg3mKxqjjDAM73z9cy.jpg",
-    "media_type": "movie",
-    "runtime": 114,
-    "revenue": 252442974,
     "genre_ids": [
-        14,
         878,
         28,
         12
     ],
+    "id": 320288,
+    "original_language": "en",
+    "original_title": "Dark Phoenix",
+    "overview": "The X-Men face their most formidable and powerful foe when one of their own, Jean Grey, starts to spiral out of control. During a rescue mission in outer space, Jean is nearly killed when she's hit by a mysterious cosmic force. Once she returns home, this force not only makes her infinitely more powerful, but far more unstable. The X-Men must now band together to save her soul and battle aliens that want to use Grey's new abilities to rule the galaxy.",
+    "poster_path": "/kZv92eTc0Gg3mKxqjjDAM73z9cy.jpg",
     "release_date": "2019-06-05",
+    "title": "Dark Phoenix",
     "video": false,
     "vote_average": 5.983,
     "slug": "dark-phoenix",
     "tags": [
+        "movie",
+        "company-7505",
         "list-8204860"
-    ]
+    ],
+    "media_type": "movie",
+    "runtime": 114,
+    "revenue": 252442974
 }
 
 ```

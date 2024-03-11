@@ -15,7 +15,13 @@ type: movie
     "backdrop_path": "/zAepSrO99owYwQqi0QG2AS0dHXw.jpg",
     "genre_ids": [
         28,
-        878
+        878,
+        14,
+        18,
+        80,
+        9648,
+        53,
+        12
     ],
     "id": 634492,
     "original_language": "en",
