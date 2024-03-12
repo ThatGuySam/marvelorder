@@ -14,7 +14,7 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/uPvWJbO9tIL7tnhcoCRweBPteTe.jpg",
+    "backdrop_path": "/jTupUx9wdoIKe8BFoP5Z1xzEtno.jpg",
     "genre_ids": [
         16,
         10759,
@@ -30,7 +30,7 @@ watchLinks:
     "poster_path": "/mBJTL4CRSoNkAQRmfwbiLTtviuW.jpg",
     "first_air_date": "1998-02-07",
     "name": "Silver Surfer",
-    "vote_average": 7.167,
+    "vote_average": 7.2,
     "title": "Silver Surfer",
     "slug": "silver-surfer",
     "tags": [
