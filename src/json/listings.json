@@ -26,7 +26,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/wPnapuJNdWe27IAE5z2Hieo4Yh.jpg",
+		"backdrop_path": "/c8sVQO9BYzc1jRgSXHWeN1bRzOI.jpg",
 		"genre_ids": [
 			35,
 			10765
@@ -36,14 +36,14 @@
 			"US"
 		],
 		"original_language": "en",
-		"original_name": "Agatha: Darkhold Diaries",
+		"original_name": "Agatha",
 		"overview": "Follow Agatha Harkness before and after her appearance in WandaVision.",
 		"poster_path": "/xqNzV5x1XdqqNPhvk5naKmsM9Vj.jpg",
 		"first_air_date": "",
-		"name": "Agatha: Darkhold Diaries",
+		"name": "Agatha",
 		"vote_average": 0,
-		"title": "Agatha: Darkhold Diaries",
-		"slug": "agatha-darkhold-diaries",
+		"title": "Agatha",
+		"slug": "agatha",
 		"tags": [
 			"tv",
 			"company-420"
@@ -511,34 +511,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/zAepSrO99owYwQqi0QG2AS0dHXw.jpg",
-		"genre_ids": [
-			28,
-			878,
-			14,
-			18,
-			80,
-			9648,
-			53,
-			12
-		],
-		"id": 634492,
-		"original_language": "en",
-		"original_title": "Madame Web",
-		"overview": "Forced to confront revelations about her past, paramedic Cassandra Webb forges a relationship with three young women destined for powerful futures...if they can all survive a deadly present.",
-		"poster_path": "/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg",
-		"release_date": "2024-02-14",
-		"title": "Madame Web",
-		"video": false,
-		"vote_average": 5.3,
-		"slug": "madame-web",
-		"tags": [
-			"movie",
-			"company-7505"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": "/ji6MRyevgzCtrtxAvKotzhagOOJ.jpg",
 		"genre_ids": [
 			99
@@ -597,7 +569,7 @@
 		"poster_path": "/vFyJH630cF68LohVYjQW49074Sy.jpg",
 		"first_air_date": "2024-01-09",
 		"name": "Echo",
-		"vote_average": 6.304,
+		"vote_average": 6.289,
 		"title": "Echo",
 		"slug": "echo",
 		"tags": [
@@ -642,7 +614,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.219,
+		"vote_average": 6.214,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -705,7 +677,7 @@
 		"release_date": "2023-07-19",
 		"title": "Marvel Studios Assembled: The Making of Ant-Man and the Wasp: Quantumania",
 		"video": false,
-		"vote_average": 6.1,
+		"vote_average": 6.367,
 		"slug": "marvel-studios-assembled-the-making-of-ant-man-and-the-wasp-quantumania",
 		"tags": [
 			"movie",
@@ -776,7 +748,7 @@
 		"release_date": "2023-05-31",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
-		"vote_average": 8.4,
+		"vote_average": 8.378,
 		"slug": "spider-man-across-the-spider-verse",
 		"tags": [
 			"movie",
@@ -846,7 +818,7 @@
 		"release_date": "2023-02-15",
 		"title": "Ant-Man and the Wasp: Quantumania",
 		"video": false,
-		"vote_average": 6.358,
+		"vote_average": 6.356,
 		"slug": "ant-man-and-the-wasp-quantumania",
 		"tags": [
 			"movie",
@@ -938,7 +910,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7.142,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -1262,7 +1234,7 @@
 		"release_date": "2022-07-06",
 		"title": "Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 6.477,
+		"vote_average": 6.475,
 		"slug": "thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -1287,7 +1259,7 @@
 		"poster_path": "/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
 		"first_air_date": "2022-06-08",
 		"name": "Ms. Marvel",
-		"vote_average": 6.506,
+		"vote_average": 6.507,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
 		"tags": [
@@ -1552,8 +1524,7 @@
 		"genre_ids": [
 			28,
 			12,
-			14,
-			878
+			14
 		],
 		"id": 566525,
 		"original_language": "en",
@@ -1563,7 +1534,7 @@
 		"release_date": "2021-09-01",
 		"title": "Shang-Chi and the Legend of the Ten Rings",
 		"video": false,
-		"vote_average": 7.563,
+		"vote_average": 7.6,
 		"slug": "shang-chi-and-the-legend-of-the-ten-rings",
 		"tags": [
 			"movie",
@@ -1588,7 +1559,7 @@
 		"poster_path": "/rWg4Jk7NwVEz2BtU1aKKDoDJPeB.jpg",
 		"first_air_date": "2021-08-11",
 		"name": "What If...?",
-		"vote_average": 8.2,
+		"vote_average": 8.168,
 		"title": "What If...?",
 		"slug": "what-if",
 		"tags": [
@@ -1639,7 +1610,7 @@
 		"release_date": "2021-07-07",
 		"title": "Black Widow",
 		"video": false,
-		"vote_average": 7.264,
+		"vote_average": 7.263,
 		"slug": "black-widow",
 		"tags": [
 			"movie",
@@ -1663,7 +1634,7 @@
 		"poster_path": "/voHUmluYmKyleFkTu3lOXQG702u.jpg",
 		"first_air_date": "2021-06-09",
 		"name": "Loki",
-		"vote_average": 8.2,
+		"vote_average": 8.18,
 		"title": "Loki",
 		"slug": "loki",
 		"tags": [
@@ -1892,7 +1863,7 @@
 		],
 		"release_date": "2020-04-02",
 		"video": false,
-		"vote_average": 6.118,
+		"vote_average": 6.117,
 		"slug": "the-new-mutants",
 		"tags": [
 			"list-8204860"
@@ -2025,7 +1996,7 @@
 		"release_date": "2019-06-05",
 		"title": "Dark Phoenix",
 		"video": false,
-		"vote_average": 6,
+		"vote_average": 5.983,
 		"slug": "dark-phoenix",
 		"tags": [
 			"movie",
@@ -2052,7 +2023,7 @@
 		"release_date": "2019-04-24",
 		"title": "Avengers: Endgame",
 		"video": false,
-		"vote_average": 8.3,
+		"vote_average": 8.257,
 		"slug": "avengers-endgame",
 		"tags": [
 			"movie",
@@ -2221,7 +2192,7 @@
 		"release_date": "2018-07-04",
 		"title": "Ant-Man and the Wasp",
 		"video": false,
-		"vote_average": 6.942,
+		"vote_average": 6.941,
 		"slug": "ant-man-and-the-wasp",
 		"tags": [
 			"movie",
@@ -2252,6 +2223,29 @@
 		"tags": [
 			"tv",
 			"company-38679"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/96ANeIgnKUqrBNlG2ZdesuOsony.jpg",
+		"genre_ids": [
+			16,
+			14,
+			10751
+		],
+		"id": 528222,
+		"original_language": "en",
+		"original_title": "LEGO Marvel Super Heroes: Black Panther - Trouble in Wakanda",
+		"overview": "After speaking at the Wakanda Embassy, Black Panther fights Thanos and fends him off with the help of fellow Avengers Captain America, Thor, Iron Man, Hulk, and Black Widow. After regaining conscious, Thanos is approached by Erik Killmonger and Ulysses Klaue in a plot where they will obtain the Vibranium in Wakanda to empower Thanos. When Black Panther discovers this plot, he must work with Shuri, Okoye, and the Avengers to defeat them.",
+		"poster_path": "/auiRFbbnMhnclaIMNGcQg0Uba8Y.jpg",
+		"release_date": "2018-06-04",
+		"title": "LEGO Marvel Super Heroes: Black Panther - Trouble in Wakanda",
+		"video": false,
+		"vote_average": 5.991,
+		"slug": "lego-marvel-super-heroes-black-panther-trouble-in-wakanda",
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -2339,7 +2333,7 @@
 		"release_date": "2018-02-13",
 		"title": "Black Panther",
 		"video": false,
-		"vote_average": 7.387,
+		"vote_average": 7.386,
 		"slug": "black-panther",
 		"tags": [
 			"movie",
@@ -2414,7 +2408,7 @@
 		"poster_path": "/tM6xqRKXoloH9UchaJEyyRE9O1w.jpg",
 		"first_air_date": "2017-11-17",
 		"name": "Marvel's The Punisher",
-		"vote_average": 8.115,
+		"vote_average": 8.114,
 		"title": "Marvel's The Punisher",
 		"slug": "marvels-the-punisher",
 		"tags": [
@@ -2543,7 +2537,7 @@
 		"release_date": "2017-07-05",
 		"title": "Spider-Man: Homecoming",
 		"video": false,
-		"vote_average": 7.338,
+		"vote_average": 7.3,
 		"slug": "spider-man-homecoming",
 		"tags": [
 			"movie",
@@ -2591,7 +2585,7 @@
 		"poster_path": "/4l6KD9HhtD6nCDEfg10Lp6C6zah.jpg",
 		"first_air_date": "2017-03-17",
 		"name": "Marvel's Iron Fist",
-		"vote_average": 6.537,
+		"vote_average": 6.535,
 		"title": "Marvel's Iron Fist",
 		"slug": "marvels-iron-fist",
 		"tags": [
@@ -2818,7 +2812,7 @@
 		"poster_path": "/6WUGpRS1ne0dwbhT8iPWGLxwHfS.jpg",
 		"first_air_date": "2016-09-30",
 		"name": "Marvel's Luke Cage",
-		"vote_average": 6.944,
+		"vote_average": 6.943,
 		"title": "Marvel's Luke Cage",
 		"slug": "marvels-luke-cage",
 		"tags": [
@@ -2868,7 +2862,7 @@
 		],
 		"release_date": "2016-05-18",
 		"video": false,
-		"vote_average": 6.512,
+		"vote_average": 6.511,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"list-8204860"
@@ -3007,7 +3001,7 @@
 		"release_date": "2015-07-14",
 		"title": "Ant-Man",
 		"video": false,
-		"vote_average": 7.08,
+		"vote_average": 7.079,
 		"slug": "ant-man",
 		"tags": [
 			"movie",
@@ -3535,7 +3529,7 @@
 		"poster_path": "/gHUCCMy1vvj58tzE3dZqeC9SXus.jpg",
 		"first_air_date": "2013-09-24",
 		"name": "Marvel's Agents of S.H.I.E.L.D.",
-		"vote_average": 7.491,
+		"vote_average": 7.492,
 		"title": "Marvel's Agents of S.H.I.E.L.D.",
 		"slug": "marvels-agents-of-shield",
 		"tags": [
@@ -3702,7 +3696,7 @@
 		"release_date": "2013-04-18",
 		"title": "Iron Man 3",
 		"video": false,
-		"vote_average": 6.928,
+		"vote_average": 6.927,
 		"slug": "iron-man-3",
 		"tags": [
 			"movie",
@@ -3794,7 +3788,7 @@
 		"release_date": "2012-06-23",
 		"title": "The Amazing Spider-Man",
 		"video": false,
-		"vote_average": 6.697,
+		"vote_average": 6.7,
 		"slug": "the-amazing-spider-man",
 		"tags": [
 			"movie",
@@ -3885,7 +3879,7 @@
 		"release_date": "2011-12-10",
 		"title": "Ghost Rider: Spirit of Vengeance",
 		"video": false,
-		"vote_average": 5.01,
+		"vote_average": 5.009,
 		"slug": "ghost-rider-spirit-of-vengeance",
 		"tags": [
 			"movie",
@@ -3981,7 +3975,7 @@
 		],
 		"release_date": "2011-06-01",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.299,
 		"slug": "x-men-first-class",
 		"tags": [
 			"list-8204860"
@@ -4003,7 +3997,7 @@
 		"release_date": "2011-04-21",
 		"title": "Thor",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.766,
 		"slug": "thor",
 		"tags": [
 			"movie",
@@ -4255,7 +4249,7 @@
 		"release_date": "2009-01-27",
 		"title": "Hulk vs. Wolverine",
 		"video": false,
-		"vote_average": 7.108,
+		"vote_average": 7.1,
 		"slug": "hulk-vs-wolverine",
 		"tags": [
 			"movie",
@@ -4279,7 +4273,7 @@
 		"release_date": "2009-01-27",
 		"title": "Hulk vs. Thor",
 		"video": false,
-		"vote_average": 6.805,
+		"vote_average": 6.8,
 		"slug": "hulk-vs-thor",
 		"tags": [
 			"movie",
@@ -4328,7 +4322,7 @@
 		"release_date": "2008-12-05",
 		"title": "Punisher: War Zone",
 		"video": false,
-		"vote_average": 5.819,
+		"vote_average": 5.821,
 		"slug": "punisher-war-zone",
 		"tags": [
 			"movie",
@@ -4377,7 +4371,7 @@
 		"release_date": "2008-06-12",
 		"title": "The Incredible Hulk",
 		"video": false,
-		"vote_average": 6.208,
+		"vote_average": 6.207,
 		"slug": "the-incredible-hulk",
 		"tags": [
 			"movie",
@@ -4520,7 +4514,7 @@
 		"release_date": "2007-05-01",
 		"title": "Spider-Man 3",
 		"video": false,
-		"vote_average": 6.41,
+		"vote_average": 6.411,
 		"slug": "spider-man-3",
 		"tags": [
 			"movie",
@@ -4674,7 +4668,7 @@
 		"release_date": "2006-05-24",
 		"title": "X-Men: The Last Stand",
 		"video": false,
-		"vote_average": 6.409,
+		"vote_average": 6.4,
 		"slug": "x-men-the-last-stand",
 		"tags": [
 			"movie",
@@ -4747,7 +4741,7 @@
 		"release_date": "2005-01-13",
 		"title": "Elektra",
 		"video": false,
-		"vote_average": 5.044,
+		"vote_average": 5.043,
 		"slug": "elektra",
 		"tags": [
 			"movie",
@@ -4770,7 +4764,7 @@
 		"release_date": "2004-12-08",
 		"title": "Blade: Trinity",
 		"video": false,
-		"vote_average": 5.857,
+		"vote_average": 5.856,
 		"slug": "blade-trinity",
 		"tags": [
 			"movie",
@@ -4814,7 +4808,7 @@
 		"release_date": "2004-06-25",
 		"title": "Spider-Man 2",
 		"video": false,
-		"vote_average": 7.267,
+		"vote_average": 7.268,
 		"slug": "spider-man-2",
 		"tags": [
 			"movie",
@@ -4837,7 +4831,7 @@
 		"release_date": "2004-04-15",
 		"title": "The Punisher",
 		"video": false,
-		"vote_average": 6.346,
+		"vote_average": 6.345,
 		"slug": "the-punisher",
 		"tags": [
 			"movie",
@@ -4863,7 +4857,7 @@
 		"poster_path": "/v3UfqXCAxAcI7oUO4zwtk1T9G3n.jpg",
 		"first_air_date": "2003-07-11",
 		"name": "Spider-Man: The New Animated Series",
-		"vote_average": 7.1,
+		"vote_average": 7.124,
 		"title": "Spider-Man: The New Animated Series",
 		"slug": "spider-man-the-new-animated-series",
 		"tags": [
@@ -4887,7 +4881,7 @@
 		"release_date": "2003-06-19",
 		"title": "Hulk",
 		"video": false,
-		"vote_average": 5.544,
+		"vote_average": 5.543,
 		"slug": "hulk",
 		"tags": [
 			"movie",
@@ -4910,7 +4904,7 @@
 		"release_date": "2003-04-27",
 		"title": "X2",
 		"video": false,
-		"vote_average": 7.03,
+		"vote_average": 7.029,
 		"slug": "x2",
 		"tags": [
 			"movie",
@@ -5044,7 +5038,7 @@
 		],
 		"release_date": "2000-07-13",
 		"video": false,
-		"vote_average": 7.001,
+		"vote_average": 7,
 		"slug": "x-men",
 		"tags": [
 			"list-8204860"
@@ -5097,7 +5091,7 @@
 		"poster_path": "/fvmC5QzQwkI5ZNJauE4xpF24PTB.jpg",
 		"first_air_date": "1999-10-02",
 		"name": "Spider-Man Unlimited",
-		"vote_average": 7.4,
+		"vote_average": 7.421,
 		"title": "Spider-Man Unlimited",
 		"slug": "spider-man-unlimited",
 		"tags": [
@@ -5249,7 +5243,7 @@
 			10759
 		],
 		"first_air_date": "1994-11-19",
-		"vote_average": 8.275,
+		"vote_average": 8.3,
 		"origin_country": [
 			"US"
 		],
@@ -5797,7 +5791,7 @@
 			18
 		],
 		"first_air_date": "1977-11-04",
-		"vote_average": 7.2,
+		"vote_average": 7.214,
 		"origin_country": [
 			"US"
 		],
