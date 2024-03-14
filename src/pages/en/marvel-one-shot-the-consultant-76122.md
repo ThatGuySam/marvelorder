@@ -31,7 +31,7 @@ watchLinks:
     "release_date": "2011-09-13",
     "title": "Marvel One-Shot: The Consultant",
     "video": false,
-    "vote_average": 6.331,
+    "vote_average": 6.3,
     "slug": "marvel-one-shot-the-consultant",
     "tags": [
         "movie",
