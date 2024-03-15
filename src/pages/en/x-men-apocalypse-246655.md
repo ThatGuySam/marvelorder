@@ -33,7 +33,7 @@ watchLinks:
     ],
     "release_date": "2016-05-18",
     "video": false,
-    "vote_average": 6.511,
+    "vote_average": 6.512,
     "slug": "x-men-apocalypse",
     "tags": [
         "list-8204860"
