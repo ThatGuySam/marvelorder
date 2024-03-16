@@ -484,6 +484,30 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			28,
+			878,
+			12,
+			53
+		],
+		"id": 912649,
+		"original_language": "en",
+		"original_title": "Venom: The Last Dance",
+		"overview": "The third entry in the Venom trilogy confirmed to be in development by Amy Pascal.",
+		"poster_path": "/kV6ceSPLK1f8cIjvqOmvnmBEMbD.jpg",
+		"release_date": "2024-10-23",
+		"title": "Venom: The Last Dance",
+		"video": false,
+		"vote_average": 0,
+		"slug": "venom-the-last-dance",
+		"tags": [
+			"movie",
+			"company-7505"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/nbq3LfgLXnL5ixZ1Q74jTJmhmTS.jpg",
 		"genre_ids": [
 			28,
@@ -614,7 +638,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.212,
+		"vote_average": 6.213,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -748,7 +772,7 @@
 		"release_date": "2023-05-31",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
-		"vote_average": 8.377,
+		"vote_average": 8.379,
 		"slug": "spider-man-across-the-spider-verse",
 		"tags": [
 			"movie",
@@ -771,7 +795,7 @@
 		"release_date": "2023-05-03",
 		"title": "Guardians of the Galaxy Vol. 3",
 		"video": false,
-		"vote_average": 7.979,
+		"vote_average": 7.978,
 		"slug": "guardians-of-the-galaxy-vol-3",
 		"tags": [
 			"movie",
@@ -818,7 +842,7 @@
 		"release_date": "2023-02-15",
 		"title": "Ant-Man and the Wasp: Quantumania",
 		"video": false,
-		"vote_average": 6.357,
+		"vote_average": 6.358,
 		"slug": "ant-man-and-the-wasp-quantumania",
 		"tags": [
 			"movie",
@@ -1234,7 +1258,7 @@
 		"release_date": "2022-07-06",
 		"title": "Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.476,
 		"slug": "thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -1259,7 +1283,7 @@
 		"poster_path": "/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
 		"first_air_date": "2022-06-08",
 		"name": "Ms. Marvel",
-		"vote_average": 6.5,
+		"vote_average": 6.506,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
 		"tags": [
@@ -1325,7 +1349,7 @@
 		"release_date": "2022-05-04",
 		"title": "Doctor Strange in the Multiverse of Madness",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.319,
 		"slug": "doctor-strange-in-the-multiverse-of-madness",
 		"tags": [
 			"movie",
@@ -1350,7 +1374,7 @@
 		"poster_path": "/vKDUmKO6F9bSKKyHhg7YGbgcEeF.jpg",
 		"first_air_date": "2022-03-30",
 		"name": "Moon Knight",
-		"vote_average": 7.7,
+		"vote_average": 7.746,
 		"title": "Moon Knight",
 		"slug": "moon-knight",
 		"tags": [
@@ -1416,7 +1440,7 @@
 		"release_date": "2021-12-15",
 		"title": "Spider-Man: No Way Home",
 		"video": false,
-		"vote_average": 7.974,
+		"vote_average": 7.973,
 		"slug": "spider-man-no-way-home",
 		"tags": [
 			"movie",
@@ -1610,7 +1634,7 @@
 		"release_date": "2021-07-07",
 		"title": "Black Widow",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.263,
 		"slug": "black-widow",
 		"tags": [
 			"movie",
@@ -1809,7 +1833,7 @@
 		"poster_path": "/8fPIcaRIZgsoBcgA5yAm3GNz61M.jpg",
 		"first_air_date": "2020-10-16",
 		"name": "Helstrom",
-		"vote_average": 6.705,
+		"vote_average": 6.7,
 		"title": "Helstrom",
 		"slug": "helstrom",
 		"tags": [
@@ -1863,7 +1887,7 @@
 		],
 		"release_date": "2020-04-02",
 		"video": false,
-		"vote_average": 6.118,
+		"vote_average": 6.1,
 		"slug": "the-new-mutants",
 		"tags": [
 			"list-8204860"
@@ -1996,7 +2020,7 @@
 		"release_date": "2019-06-05",
 		"title": "Dark Phoenix",
 		"video": false,
-		"vote_average": 5.983,
+		"vote_average": 6,
 		"slug": "dark-phoenix",
 		"tags": [
 			"movie",
@@ -2023,7 +2047,7 @@
 		"release_date": "2019-04-24",
 		"title": "Avengers: Endgame",
 		"video": false,
-		"vote_average": 8.257,
+		"vote_average": 8.256,
 		"slug": "avengers-endgame",
 		"tags": [
 			"movie",
@@ -2071,7 +2095,7 @@
 		"release_date": "2019-03-06",
 		"title": "Captain Marvel",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.829,
 		"slug": "captain-marvel",
 		"tags": [
 			"movie",
@@ -2122,7 +2146,7 @@
 		],
 		"release_date": "2018-12-11",
 		"video": false,
-		"vote_average": 7.13,
+		"vote_average": 7.1,
 		"slug": "once-upon-a-deadpool",
 		"tags": [
 			"list-8204860"
@@ -2148,7 +2172,7 @@
 		],
 		"release_date": "2018-12-06",
 		"video": false,
-		"vote_average": 8.405,
+		"vote_average": 8.4,
 		"slug": "spider-man-into-the-spider-verse",
 		"tags": [
 			"list-8204859"
@@ -2192,7 +2216,7 @@
 		"release_date": "2018-07-04",
 		"title": "Ant-Man and the Wasp",
 		"video": false,
-		"vote_average": 6.9,
+		"vote_average": 6.942,
 		"slug": "ant-man-and-the-wasp",
 		"tags": [
 			"movie",
@@ -2333,7 +2357,7 @@
 		"release_date": "2018-02-13",
 		"title": "Black Panther",
 		"video": false,
-		"vote_average": 7.387,
+		"vote_average": 7.386,
 		"slug": "black-panther",
 		"tags": [
 			"movie",
@@ -2382,7 +2406,7 @@
 		"poster_path": "/zceMrfO17AQkeWJZNra4O90s1vE.jpg",
 		"first_air_date": "2017-11-21",
 		"name": "Marvel's Runaways",
-		"vote_average": 7.436,
+		"vote_average": 7.4,
 		"title": "Marvel's Runaways",
 		"slug": "marvels-runaways",
 		"tags": [
@@ -2408,7 +2432,7 @@
 		"poster_path": "/tM6xqRKXoloH9UchaJEyyRE9O1w.jpg",
 		"first_air_date": "2017-11-17",
 		"name": "Marvel's The Punisher",
-		"vote_average": 8.114,
+		"vote_average": 8.1,
 		"title": "Marvel's The Punisher",
 		"slug": "marvels-the-punisher",
 		"tags": [
@@ -2560,7 +2584,7 @@
 		"release_date": "2017-04-19",
 		"title": "Guardians of the Galaxy Vol. 2",
 		"video": false,
-		"vote_average": 7.6,
+		"vote_average": 7.621,
 		"slug": "guardians-of-the-galaxy-vol-2",
 		"tags": [
 			"movie",
@@ -2585,7 +2609,7 @@
 		"poster_path": "/4l6KD9HhtD6nCDEfg10Lp6C6zah.jpg",
 		"first_air_date": "2017-03-17",
 		"name": "Marvel's Iron Fist",
-		"vote_average": 6.535,
+		"vote_average": 6.5,
 		"title": "Marvel's Iron Fist",
 		"slug": "marvels-iron-fist",
 		"tags": [
@@ -2665,7 +2689,7 @@
 		],
 		"release_date": "2017-02-28",
 		"video": false,
-		"vote_average": 7.819,
+		"vote_average": 7.8,
 		"slug": "logan",
 		"tags": [
 			"list-8204860"
@@ -2786,7 +2810,7 @@
 		"release_date": "2016-10-25",
 		"title": "Doctor Strange",
 		"video": false,
-		"vote_average": 7.4,
+		"vote_average": 7.424,
 		"slug": "doctor-strange",
 		"tags": [
 			"movie",
@@ -2812,7 +2836,7 @@
 		"poster_path": "/6WUGpRS1ne0dwbhT8iPWGLxwHfS.jpg",
 		"first_air_date": "2016-09-30",
 		"name": "Marvel's Luke Cage",
-		"vote_average": 6.943,
+		"vote_average": 6.9,
 		"title": "Marvel's Luke Cage",
 		"slug": "marvels-luke-cage",
 		"tags": [
@@ -2910,7 +2934,7 @@
 		],
 		"release_date": "2016-02-09",
 		"video": false,
-		"vote_average": 7.61,
+		"vote_average": 7.609,
 		"slug": "deadpool",
 		"tags": [
 			"list-8204860"
@@ -2954,7 +2978,7 @@
 		"poster_path": "/lwPFyjxAZY6NqHxywgY00Y4MFBx.jpg",
 		"first_air_date": "2015-11-20",
 		"name": "Marvel's Jessica Jones",
-		"vote_average": 7.505,
+		"vote_average": 7.5,
 		"title": "Marvel's Jessica Jones",
 		"slug": "marvels-jessica-jones",
 		"tags": [
@@ -3049,7 +3073,7 @@
 		"poster_path": "/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
 		"first_air_date": "2015-04-10",
 		"name": "Marvel's Daredevil",
-		"vote_average": 8.165,
+		"vote_average": 8.2,
 		"title": "Marvel's Daredevil",
 		"slug": "marvels-daredevil",
 		"tags": [
@@ -3142,7 +3166,7 @@
 		"poster_path": "/fe79VYyLp5ZBstpJ4oukpuUT3B.jpg",
 		"first_air_date": "2015-01-06",
 		"name": "Marvel's Agent Carter",
-		"vote_average": 7.527,
+		"vote_average": 7.5,
 		"title": "Marvel's Agent Carter",
 		"slug": "marvels-agent-carter",
 		"tags": [
@@ -3229,7 +3253,7 @@
 		"release_date": "2014-07-30",
 		"title": "Guardians of the Galaxy",
 		"video": false,
-		"vote_average": 7.9,
+		"vote_average": 7.907,
 		"slug": "guardians-of-the-galaxy",
 		"tags": [
 			"movie",
@@ -3309,29 +3333,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/hDvqcbZhq9ux0euxYxCP9N6m1Rh.jpg",
-		"genre_ids": [
-			28,
-			12,
-			878
-		],
-		"id": 102382,
-		"original_language": "en",
-		"original_title": "The Amazing Spider-Man 2",
-		"overview": "For Peter Parker, life is busy. Between taking out the bad guys as Spider-Man and spending time with the person he loves, Gwen Stacy, high school graduation cannot come quickly enough. Peter has not forgotten about the promise he made to Gwen’s father to protect her by staying away, but that is a promise he cannot keep. Things will change for Peter when a new villain, Electro, emerges, an old friend, Harry Osborn, returns, and Peter uncovers new clues about his past.",
-		"poster_path": "/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg",
-		"release_date": "2014-04-16",
-		"title": "The Amazing Spider-Man 2",
-		"video": false,
-		"vote_average": 6.5,
-		"slug": "the-amazing-spider-man-2",
-		"tags": [
-			"movie",
-			"company-7505"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": "/gVnxTA3FT4G2M2j6wyAZkWpRKn5.jpg",
 		"genre_ids": [
 			16,
@@ -3372,7 +3373,7 @@
 		"release_date": "2014-03-20",
 		"title": "Captain America: The Winter Soldier",
 		"video": false,
-		"vote_average": 7.7,
+		"vote_average": 7.667,
 		"slug": "captain-america-the-winter-soldier",
 		"tags": [
 			"movie",
@@ -3504,7 +3505,7 @@
 		"release_date": "2013-10-30",
 		"title": "Thor: The Dark World",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.53,
 		"slug": "thor-the-dark-world",
 		"tags": [
 			"movie",
@@ -3529,7 +3530,7 @@
 		"poster_path": "/gHUCCMy1vvj58tzE3dZqeC9SXus.jpg",
 		"first_air_date": "2013-09-24",
 		"name": "Marvel's Agents of S.H.I.E.L.D.",
-		"vote_average": 7.493,
+		"vote_average": 7.5,
 		"title": "Marvel's Agents of S.H.I.E.L.D.",
 		"slug": "marvels-agents-of-shield",
 		"tags": [
@@ -3575,7 +3576,7 @@
 		"release_date": "2013-09-03",
 		"title": "Marvel One-Shot: Agent Carter",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 7.221,
 		"slug": "marvel-one-shot-agent-carter",
 		"tags": [
 			"movie",
@@ -3585,29 +3586,27 @@
 	{
 		"adult": false,
 		"backdrop_path": "/tqPRfJsrCtX5BvtAP4Bahwhq2dU.jpg",
+		"id": 76170,
+		"title": "The Wolverine",
+		"original_language": "en",
+		"original_title": "The Wolverine",
+		"overview": "Wolverine faces his ultimate nemesis - and tests of his physical, emotional, and mortal limits - in a life-changing voyage to modern-day Japan.",
+		"poster_path": "/xNi8daRmN4XY8rXHd4rwLbJf1cU.jpg",
+		"media_type": "movie",
+		"runtime": 126,
+		"revenue": 415440673,
 		"genre_ids": [
 			28,
 			878,
 			12
 		],
-		"id": 76170,
-		"original_language": "en",
-		"original_title": "The Wolverine",
-		"overview": "Wolverine faces his ultimate nemesis - and tests of his physical, emotional, and mortal limits - in a life-changing voyage to modern-day Japan.",
-		"poster_path": "/xNi8daRmN4XY8rXHd4rwLbJf1cU.jpg",
 		"release_date": "2013-07-21",
-		"title": "The Wolverine",
 		"video": false,
 		"vote_average": 6.408,
 		"slug": "the-wolverine",
 		"tags": [
-			"movie",
-			"company-7505",
 			"list-8204860"
-		],
-		"media_type": "movie",
-		"runtime": 126,
-		"revenue": 415440673
+		]
 	},
 	{
 		"adult": false,
@@ -3835,7 +3834,7 @@
 		"release_date": "2012-04-25",
 		"title": "The Avengers",
 		"video": false,
-		"vote_average": 7.7,
+		"vote_average": 7.713,
 		"slug": "the-avengers",
 		"tags": [
 			"movie",
@@ -3861,29 +3860,6 @@
 		"tags": [
 			"movie",
 			"company-11106"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/61l2TNmJMjEXcznDTWHVC1oBpZC.jpg",
-		"genre_ids": [
-			28,
-			14,
-			53
-		],
-		"id": 71676,
-		"original_language": "en",
-		"original_title": "Ghost Rider: Spirit of Vengeance",
-		"overview": "When the devil resurfaces with aims to take over the world in human form, Johnny Blaze reluctantly comes out of hiding to transform into the flame-spewing supernatural hero Ghost Rider -- and rescue a 10-year-old boy from an unsavory end.",
-		"poster_path": "/fDtIZXLNreDHk3mOskJYABrQNOQ.jpg",
-		"release_date": "2011-12-10",
-		"title": "Ghost Rider: Spirit of Vengeance",
-		"video": false,
-		"vote_average": 5.009,
-		"slug": "ghost-rider-spirit-of-vengeance",
-		"tags": [
-			"movie",
-			"company-7505"
 		]
 	},
 	{
@@ -3948,7 +3924,7 @@
 		"release_date": "2011-07-22",
 		"title": "Captain America: The First Avenger",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 6.999,
 		"slug": "captain-america-the-first-avenger",
 		"tags": [
 			"movie",
@@ -4395,7 +4371,7 @@
 		"release_date": "2008-06-12",
 		"title": "The Incredible Hulk",
 		"video": false,
-		"vote_average": 6.2,
+		"vote_average": 6.207,
 		"slug": "the-incredible-hulk",
 		"tags": [
 			"movie",
@@ -4591,7 +4567,7 @@
 		"release_date": "2007-01-15",
 		"title": "Ghost Rider",
 		"video": false,
-		"vote_average": 5.6,
+		"vote_average": 5.563,
 		"slug": "ghost-rider",
 		"tags": [
 			"movie",
@@ -4678,30 +4654,28 @@
 	{
 		"adult": false,
 		"backdrop_path": "/sBl1n4Oi2wX81EtXIb8NsPqJf3W.jpg",
+		"id": 36668,
+		"title": "X-Men: The Last Stand",
+		"original_language": "en",
+		"original_title": "X-Men: The Last Stand",
+		"overview": "When a cure is found to treat mutations, lines are drawn amongst the X-Men—led by Professor Charles Xavier—and the Brotherhood, a band of powerful mutants organised under Xavier's former ally, Magneto.",
+		"poster_path": "/a2xicU8DpKtRizOHjQLC1JyCSRS.jpg",
+		"media_type": "movie",
+		"runtime": 104,
+		"revenue": 459359555,
 		"genre_ids": [
 			12,
 			28,
 			878,
 			53
 		],
-		"id": 36668,
-		"original_language": "en",
-		"original_title": "X-Men: The Last Stand",
-		"overview": "When a cure is found to treat mutations, lines are drawn amongst the X-Men—led by Professor Charles Xavier—and the Brotherhood, a band of powerful mutants organised under Xavier's former ally, Magneto.",
-		"poster_path": "/a2xicU8DpKtRizOHjQLC1JyCSRS.jpg",
 		"release_date": "2006-05-24",
-		"title": "X-Men: The Last Stand",
 		"video": false,
-		"vote_average": 6.408,
+		"vote_average": 6.409,
 		"slug": "x-men-the-last-stand",
 		"tags": [
-			"movie",
-			"company-7505",
 			"list-8204860"
-		],
-		"media_type": "movie",
-		"runtime": 104,
-		"revenue": 459359555
+		]
 	},
 	{
 		"adult": false,
@@ -4765,7 +4739,7 @@
 		"release_date": "2005-01-13",
 		"title": "Elektra",
 		"video": false,
-		"vote_average": 5.043,
+		"vote_average": 5.044,
 		"slug": "elektra",
 		"tags": [
 			"movie",
@@ -4788,7 +4762,7 @@
 		"release_date": "2004-12-08",
 		"title": "Blade: Trinity",
 		"video": false,
-		"vote_average": 5.858,
+		"vote_average": 5.857,
 		"slug": "blade-trinity",
 		"tags": [
 			"movie",
@@ -4832,7 +4806,7 @@
 		"release_date": "2004-06-25",
 		"title": "Spider-Man 2",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.267,
 		"slug": "spider-man-2",
 		"tags": [
 			"movie",
@@ -4928,7 +4902,7 @@
 		"release_date": "2003-04-27",
 		"title": "X2",
 		"video": false,
-		"vote_average": 7.029,
+		"vote_average": 7.03,
 		"slug": "x2",
 		"tags": [
 			"movie",
@@ -4954,7 +4928,7 @@
 		"release_date": "2003-02-14",
 		"title": "Daredevil",
 		"video": false,
-		"vote_average": 5.258,
+		"vote_average": 5.259,
 		"slug": "daredevil",
 		"tags": [
 			"movie",
@@ -4976,7 +4950,7 @@
 		"release_date": "2002-05-01",
 		"title": "Spider-Man",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.291,
 		"slug": "spider-man",
 		"tags": [
 			"movie",
@@ -5062,7 +5036,7 @@
 		],
 		"release_date": "2000-07-13",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 7.001,
 		"slug": "x-men",
 		"tags": [
 			"list-8204860"
@@ -5972,7 +5946,7 @@
 		],
 		"release_date": "1944-02-05",
 		"video": false,
-		"vote_average": 5.6,
+		"vote_average": 5.482,
 		"slug": "captain-america",
 		"tags": [
 			"list-8204862"
