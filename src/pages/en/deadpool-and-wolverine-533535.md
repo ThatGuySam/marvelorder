@@ -49,7 +49,7 @@ media_type: movie
         "list-8204860"
     ],
     "media_type": "movie",
-    "runtime": null,
+    "runtime": 125,
     "revenue": 0
 }
 

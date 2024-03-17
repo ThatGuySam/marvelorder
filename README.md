@@ -84,6 +84,7 @@ This is the *most* official list for the Marvel Chronologically, aka by the time
 - July 24, 2024 - [Deadpool 3](https://marvelorder.com/en/deadpool-3-533535) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/deadpool-3-533535.md)
 - July 24, 2024 - [Deadpool & Wolverine](https://marvelorder.com/en/deadpool-and-wolverine-533535) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/deadpool-and-wolverine-533535.md)
 - August 28, 2024 - [Kraven the Hunter](https://marvelorder.com/en/kraven-the-hunter-539972) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/kraven-the-hunter-539972.md)
+- October 23, 2024 - [Venom: The Last Dance](https://marvelorder.com/en/venom-the-last-dance-912649) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/venom-the-last-dance-912649.md)
 - October 27, 2024 - [The Lego Movie 3: A Powerpuff Adventure](https://marvelorder.com/en/the-lego-movie-3-a-powerpuff-adventure-1197028) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/the-lego-movie-3-a-powerpuff-adventure-1197028.md)
 - November 6, 2024 - [Venom 3](https://marvelorder.com/en/venom-3-912649) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/venom-3-912649.md)
 - February 12, 2025 - [Captain America: Brave New World](https://marvelorder.com/en/captain-america-brave-new-world-822119) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/captain-america-brave-new-world-822119.md)
