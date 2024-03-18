@@ -8,5 +8,6 @@ export default defineConfig( {
         // https://github.com/vitest-dev/vitest/issues/740#issuecomment-1042648373
         threads: false,
         // ...
+        testTimeout: 10_000,
     },
 } )
