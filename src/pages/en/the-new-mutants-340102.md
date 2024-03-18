@@ -17,6 +17,15 @@ watchLinks:
 {
     "adult": false,
     "backdrop_path": "/eCIvqa3QVCx6H09bdeOS8Al2Sqy.jpg",
+    "id": 340102,
+    "title": "The New Mutants",
+    "original_language": "en",
+    "original_title": "The New Mutants",
+    "overview": "Five young mutants, just discovering their abilities while held in a secret facility against their will, fight to escape their past sins and save themselves.",
+    "poster_path": "/xZNw9xxtwbEf25NYoz52KdbXHPM.jpg",
+    "media_type": "movie",
+    "runtime": 94,
+    "revenue": 49169594,
     "genre_ids": [
         878,
         27,
@@ -24,16 +33,9 @@ watchLinks:
         9648,
         12
     ],
-    "id": 340102,
-    "media_type": "movie",
-    "original_language": "en",
-    "original_title": "The New Mutants",
-    "overview": "Five young mutants, just discovering their abilities while held in a secret facility against their will, fight to escape their past sins and save themselves.",
-    "poster_path": "/wI95esQmT9F8eC1wchoRm2ua2HX.jpg",
     "release_date": "2020-04-02",
-    "title": "The New Mutants",
     "video": false,
-    "vote_average": 6.2,
+    "vote_average": 6.118,
     "slug": "the-new-mutants",
     "tags": [
         "list-8204860"

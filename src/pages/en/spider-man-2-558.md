@@ -15,17 +15,17 @@ logo_on_black: >-
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B000I9YV2Q?tag=marvelorder-20&linkCode=osi&th=1&psc=1
-mcuTimelineOrder: 507
+mcuTimelineOrder: 545
 ---
 ## TMDB Data
 ```json
 {
     "adult": false,
-    "backdrop_path": "/6al048Lat3eLVQOuKtc9h6Tu94d.jpg",
+    "backdrop_path": "/ouMBIALAOq0rpoB8b2RydUevRu1.jpg",
     "genre_ids": [
         28,
         12,
-        14
+        878
     ],
     "id": 558,
     "original_language": "en",
@@ -35,7 +35,7 @@ mcuTimelineOrder: 507
     "release_date": "2004-06-25",
     "title": "Spider-Man 2",
     "video": false,
-    "vote_average": 7.3,
+    "vote_average": 7.268,
     "slug": "spider-man-2",
     "tags": [
         "movie",

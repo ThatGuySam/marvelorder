@@ -28,11 +28,13 @@ tags:
 {
     "adult": false,
     "backdrop_path": null,
-    "genre_ids": [],
+    "genre_ids": [
+        28
+    ],
     "id": 1062465,
     "original_language": "en",
     "original_title": "Hypno-Hustler",
-    "overview": "Comic book movie centered on the villainous Spider-Man character, Hypno-Hustler.",
+    "overview": "Hypno-Hustler is an upcoming superhero film based on the Marvel Comics character of the same name.",
     "poster_path": null,
     "release_date": "",
     "title": "Hypno-Hustler",

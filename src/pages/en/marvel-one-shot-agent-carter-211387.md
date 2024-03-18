@@ -15,7 +15,7 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/jvm3kwALwfmVcj3stddZzKRQNrN.jpg",
+    "backdrop_path": "/kv8KDbi2I4F4MNBbBMCR4LDqP6H.jpg",
     "genre_ids": [
         28,
         12,
@@ -30,7 +30,7 @@ watchLinks:
     "release_date": "2013-09-03",
     "title": "Marvel One-Shot: Agent Carter",
     "video": false,
-    "vote_average": 7.2,
+    "vote_average": 7.221,
     "slug": "marvel-one-shot-agent-carter",
     "tags": [
         "movie",

@@ -20,10 +20,9 @@ watchLinks:
     "adult": false,
     "backdrop_path": "/7ff2FyFmskEFfmXHkxuqVr47DiG.jpg",
     "genre_ids": [
+        878,
         12,
-        14,
-        28,
-        53
+        28
     ],
     "id": 1979,
     "original_language": "en",
@@ -33,7 +32,7 @@ watchLinks:
     "release_date": "2007-06-13",
     "title": "Fantastic Four: Rise of the Silver Surfer",
     "video": false,
-    "vote_average": 5.6,
+    "vote_average": 5.601,
     "slug": "fantastic-four-rise-of-the-silver-surfer",
     "tags": [
         "movie",

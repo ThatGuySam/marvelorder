@@ -37,7 +37,7 @@ watchLinks:
     "release_date": "1979-07-21",
     "title": "Battle Fever J: The Movie",
     "video": false,
-    "vote_average": 6.4,
+    "vote_average": 6.3,
     "slug": "battle-fever-j-the-movie",
     "tags": [
         "movie",

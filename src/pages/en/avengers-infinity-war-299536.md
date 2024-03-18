@@ -15,7 +15,7 @@ logo_on_black: /.netlify/functions/fanart/avengers-infinity-war---part-i-5a4eae6
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B07CKNQGLN?tag=marvelorder-20&linkCode=osi&th=1&psc=1
-mcuTimelineOrder: 424
+mcuTimelineOrder: 434
 tags:
   - has-thor
 ---
@@ -37,7 +37,7 @@ tags:
     "release_date": "2018-04-25",
     "title": "Avengers: Infinity War",
     "video": false,
-    "vote_average": 8.3,
+    "vote_average": 8.248,
     "slug": "avengers-infinity-war",
     "tags": [
         "movie",

@@ -13,7 +13,7 @@ logo_on_black: /.netlify/functions/tmdb-image/3EM7YdUjcOWOV8rZoYUAGtrVzyc.webp
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B09BSD5GGK?tag=marvelorder-20&linkCode=osi&th=1&psc=1
-mcuTimelineOrder: 215
+mcuTimelineOrder: 234
 ---
 ## TMDB Data
 ```json
@@ -33,7 +33,7 @@ mcuTimelineOrder: 215
     "release_date": "2021-07-07",
     "title": "Black Widow",
     "video": false,
-    "vote_average": 7.3,
+    "vote_average": 7.263,
     "slug": "black-widow",
     "tags": [
         "movie",

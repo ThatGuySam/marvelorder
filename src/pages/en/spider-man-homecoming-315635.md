@@ -12,7 +12,7 @@ logo_on_black: /.netlify/functions/tmdb-image/sU5ltHiXFBB2daTrBL3BFc9w8Hr.webp
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B073HL8JW4?tag=marvelorder-20&linkCode=osi&th=1&psc=1
-mcuTimelineOrder: 244
+mcuTimelineOrder: 254
 ---
 ## TMDB Data
 ```json
@@ -33,7 +33,7 @@ mcuTimelineOrder: 244
     "release_date": "2017-07-05",
     "title": "Spider-Man: Homecoming",
     "video": false,
-    "vote_average": 7.3,
+    "vote_average": 7.338,
     "slug": "spider-man-homecoming",
     "tags": [
         "movie",

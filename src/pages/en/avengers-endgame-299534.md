@@ -13,7 +13,7 @@ logo_on_black: /.netlify/functions/fanart/avengers-infinity-war---part-ii-5c0c46
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B07R21NC3J?tag=marvelorder-20&linkCode=osi&th=1&psc=1
-mcuTimelineOrder: 456
+mcuTimelineOrder: 466
 tags:
   - has-thor
 ---
@@ -35,7 +35,7 @@ tags:
     "release_date": "2019-04-24",
     "title": "Avengers: Endgame",
     "video": false,
-    "vote_average": 8.3,
+    "vote_average": 8.256,
     "slug": "avengers-endgame",
     "tags": [
         "movie",

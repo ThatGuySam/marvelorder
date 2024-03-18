@@ -12,7 +12,7 @@ logo_on_black: /.netlify/functions/tmdb-image/wjKbFUkniQltWnjPS1nCfAN1Rb3.webp
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B09SJ3BYZ4?tag=marvelorder-20&linkCode=osi&th=1&psc=1
-mcuTimelineOrder: 542
+mcuTimelineOrder: 580
 ---
 ## TMDB Data
 ```json
@@ -32,14 +32,11 @@ mcuTimelineOrder: 542
     "release_date": "2022-03-30",
     "title": "Morbius",
     "video": false,
-    "vote_average": 6.4,
+    "vote_average": 6.07,
     "slug": "morbius",
-    "type": "movie",
-    "companies": [
-        {
-            "name": "Marvel Entertainment",
-            "id": "7505"
-        }
+    "tags": [
+        "movie",
+        "company-7505"
     ]
 }
 

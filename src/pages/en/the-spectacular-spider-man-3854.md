@@ -18,14 +18,15 @@ watchLinks:
 ## TMDB Data
 ```json
 {
-    "backdrop_path": "/6rzoUOEkOVxB6EXHp0EgeNd4tke.jpg",
-    "first_air_date": "2008-03-08",
+    "adult": false,
+    "backdrop_path": "/s1GAT7wagWtC5TJ5HU0WTIxYBwR.jpg",
     "genre_ids": [
         10759,
-        16
+        16,
+        10762,
+        10751
     ],
     "id": 3854,
-    "name": "The Spectacular Spider-Man",
     "origin_country": [
         "US"
     ],
@@ -33,7 +34,9 @@ watchLinks:
     "original_name": "The Spectacular Spider-Man",
     "overview": "Having spent the summer engaging common criminals with his new-found powers, not so typical 16-year-old Peter Parker must conceal his secret identity and battle super-villains in the real world as he enters his junior year of high school.",
     "poster_path": "/dCNxOhXT7c4lqYuRpdM3m8s9XDp.jpg",
-    "vote_average": 8.6,
+    "first_air_date": "2008-03-08",
+    "name": "The Spectacular Spider-Man",
+    "vote_average": 8.594,
     "title": "The Spectacular Spider-Man",
     "slug": "the-spectacular-spider-man",
     "tags": [

@@ -10,13 +10,13 @@ type: movie
 logo_on_black: /.netlify/functions/tmdb-image/fpwAkeawcsUWPl34Gomy1SajOTw.webp
 watchLinks:
   amazon: 'https://amzn.to/3nbCKA0'
-mcuTimelineOrder: 548
+mcuTimelineOrder: 586
 ---
 ## TMDB Data
 ```json
 {
     "adult": false,
-    "backdrop_path": "/iKUwhA4DUxMcNKu5lLSbDFwwilk.jpg",
+    "backdrop_path": "/gUNRlH66yNDH3NQblYMIwgZXJ2u.jpg",
     "genre_ids": [
         14,
         28,
@@ -30,7 +30,7 @@ mcuTimelineOrder: 548
     "release_date": "2022-05-04",
     "title": "Doctor Strange in the Multiverse of Madness",
     "video": false,
-    "vote_average": 7.4,
+    "vote_average": 7.318,
     "slug": "doctor-strange-in-the-multiverse-of-madness",
     "tags": [
         "movie",

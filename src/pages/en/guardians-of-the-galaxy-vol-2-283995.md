@@ -10,13 +10,13 @@ logo_on_black: /.netlify/functions/tmdb-image/ct5a6qPoZLQG7VjLuf2WOUheEZP.webp
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B0716DT6G3?tag=marvelorder-20&linkCode=osi&th=1&psc=1
-mcuTimelineOrder: 71
+mcuTimelineOrder: 72
 ---
 ## TMDB Data
 ```json
 {
     "adult": false,
-    "backdrop_path": "/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+    "backdrop_path": "/n3gb8oqP9BeRCUsCmZVaT5eltPH.jpg",
     "genre_ids": [
         878,
         12,
@@ -30,7 +30,7 @@ mcuTimelineOrder: 71
     "release_date": "2017-04-19",
     "title": "Guardians of the Galaxy Vol. 2",
     "video": false,
-    "vote_average": 7.6,
+    "vote_average": 7.621,
     "slug": "guardians-of-the-galaxy-vol-2",
     "tags": [
         "movie",

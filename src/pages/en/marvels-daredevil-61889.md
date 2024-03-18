@@ -11,28 +11,29 @@ logo_on_black: >-
   /.netlify/functions/tmdb-image/ojZQWLfaN16Ix0a3BKoKB0VyCZ6.webp?crop.top=0.3&crop.bottom=0.3
 watchLinks:
   amazon: none
-mcuTimelineOrder: 72
+mcuTimelineOrder: 82
 ---
 ## TMDB Data
 ```json
 {
-    "backdrop_path": "/2PrYnQR8YPei5vCVRwJXnwMqMyR.jpg",
-    "first_air_date": "2015-04-10",
+    "adult": false,
+    "backdrop_path": "/qsnXwGS7KBbX4JLqHvICngtR8qg.jpg",
     "genre_ids": [
         80,
         18,
         10759
     ],
     "id": 61889,
-    "name": "Marvel's Daredevil",
     "origin_country": [
         "US"
     ],
     "original_language": "en",
     "original_name": "Marvel's Daredevil",
     "overview": "Lawyer-by-day Matt Murdock uses his heightened senses from being blinded as a young boy to fight crime at night on the streets of Hell’s Kitchen as Daredevil.",
-    "poster_path": "/p7oImOiZAUF4DCreZuE11hWJRyA.jpg",
-    "vote_average": 8.2,
+    "poster_path": "/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
+    "first_air_date": "2015-04-10",
+    "name": "Marvel's Daredevil",
+    "vote_average": 8.165,
     "title": "Marvel's Daredevil",
     "slug": "marvels-daredevil",
     "tags": [

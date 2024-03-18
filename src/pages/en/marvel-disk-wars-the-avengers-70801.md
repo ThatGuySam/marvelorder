@@ -13,15 +13,14 @@ watchLinks:
 ## TMDB Data
 ```json
 {
+    "adult": false,
     "backdrop_path": "/gVnxTA3FT4G2M2j6wyAZkWpRKn5.jpg",
-    "first_air_date": "2014-04-02",
     "genre_ids": [
         16,
         10759,
         10765
     ],
     "id": 70801,
-    "name": "Marvel Disk Wars: The Avengers",
     "origin_country": [
         "JP"
     ],
@@ -29,7 +28,9 @@ watchLinks:
     "original_name": "ディスク・ウォーズ:アベンジャーズ",
     "overview": "A group of teenagers join forces with the Avengers, Earth's mightiest heroes, to fight against the tyrannical Loki and his mighty empire.",
     "poster_path": "/6wQAZaWSvBJOIIt68cqmC0KJjeE.jpg",
-    "vote_average": 6.5,
+    "first_air_date": "2014-04-02",
+    "name": "Marvel Disk Wars: The Avengers",
+    "vote_average": 6.4,
     "title": "Marvel Disk Wars: The Avengers",
     "slug": "marvel-disk-wars-the-avengers",
     "tags": [

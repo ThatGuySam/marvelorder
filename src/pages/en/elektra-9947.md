@@ -21,7 +21,7 @@ watchLinks:
     "genre_ids": [
         28,
         14,
-        878
+        12
     ],
     "id": 9947,
     "original_language": "en",
@@ -31,7 +31,7 @@ watchLinks:
     "release_date": "2005-01-13",
     "title": "Elektra",
     "video": false,
-    "vote_average": 5,
+    "vote_average": 5.044,
     "slug": "elektra",
     "tags": [
         "movie",

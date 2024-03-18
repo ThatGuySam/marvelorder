@@ -23,6 +23,7 @@ logo_on_black: /.netlify/functions/tmdb-image/gRNB6GsKrI410Nvsbur3Rf0Ixnr.webp
     "original_title": "El Muerto",
     "overview": "A wrestler gains super strength thanks to a mystical mask that is passed down throughout his family.",
     "poster_path": "/gRNB6GsKrI410Nvsbur3Rf0Ixnr.jpg",
+    "release_date": "",
     "title": "El Muerto",
     "video": false,
     "vote_average": 0,

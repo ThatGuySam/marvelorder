@@ -41,11 +41,11 @@ tags:
     "original_language": "en",
     "original_title": "Director by Night",
     "overview": "Acclaimed composer Michael Giacchino made his directorial debut with Marvel Studios' Special Presentation \"Werewolf by Night.\" This behind-the-scenes special explores Giacchino's vision, style and approach to bringing the chilling story to life, as well as offering an insider's look at the between-the-scenes making of \"Werewolf by Night.\"",
-    "poster_path": "/3LbfLOMJ0MTXghP1JrUrZ1s7A0o.jpg",
+    "poster_path": "/hmaM75vvcYPd9HdiSvF683UedZS.jpg",
     "release_date": "2022-11-04",
     "title": "Director by Night",
     "video": false,
-    "vote_average": 6.3,
+    "vote_average": 6.219,
     "slug": "director-by-night",
     "tags": [
         "movie",

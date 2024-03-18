@@ -16,7 +16,7 @@ logo_on_black: /.netlify/functions/fanart/black-panther-579698eae2bd2.webp
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B07CSKDGFF?tag=marvelorder-20&linkCode=osi&th=1&psc=1
-mcuTimelineOrder: 220
+mcuTimelineOrder: 239
 ---
 ## TMDB Data
 ```json
@@ -36,7 +36,7 @@ mcuTimelineOrder: 220
     "release_date": "2018-02-13",
     "title": "Black Panther",
     "video": false,
-    "vote_average": 7.4,
+    "vote_average": 7.386,
     "slug": "black-panther",
     "tags": [
         "movie",

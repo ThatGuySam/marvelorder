@@ -12,21 +12,26 @@ type: movie
 ```json
 {
     "adult": false,
-    "backdrop_path": null,
+    "backdrop_path": "/zAepSrO99owYwQqi0QG2AS0dHXw.jpg",
     "genre_ids": [
         28,
+        878,
         14,
-        878
+        18,
+        80,
+        9648,
+        53,
+        12
     ],
     "id": 634492,
     "original_language": "en",
     "original_title": "Madame Web",
-    "overview": "Madame Web is a clairvoyant whose psychic abilities allow her to see within the spider world itself. This is the story of how she came to be.",
-    "poster_path": null,
+    "overview": "Forced to confront revelations about her past, paramedic Cassandra Webb forges a relationship with three young women destined for powerful futures...if they can all survive a deadly present.",
+    "poster_path": "/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg",
     "release_date": "2024-02-14",
     "title": "Madame Web",
     "video": false,
-    "vote_average": 0,
+    "vote_average": 5.3,
     "slug": "madame-web",
     "tags": [
         "movie",

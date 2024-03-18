@@ -33,7 +33,7 @@ watchLinks:
     "release_date": "1981-07-27",
     "title": "Monster of Frankenstein",
     "video": false,
-    "vote_average": 5.8,
+    "vote_average": 6,
     "slug": "monster-of-frankenstein",
     "tags": [
         "movie",

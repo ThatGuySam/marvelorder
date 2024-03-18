@@ -13,7 +13,7 @@ logo_on_black: >-
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B076XWTHP8?tag=marvelorder-20&linkCode=osi&th=1&psc=1
-mcuTimelineOrder: 374
+mcuTimelineOrder: 384
 tags:
   - has-thor
 ---
@@ -35,7 +35,7 @@ tags:
     "release_date": "2017-10-02",
     "title": "Thor: Ragnarok",
     "video": false,
-    "vote_average": 7.6,
+    "vote_average": 7.593,
     "slug": "thor-ragnarok",
     "tags": [
         "movie",

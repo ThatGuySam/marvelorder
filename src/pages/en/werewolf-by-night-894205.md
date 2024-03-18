@@ -13,7 +13,7 @@ overview: >-
 tags:
   - movie
   - company-420
-mcuTimelineOrder: 584
+mcuTimelineOrder: 627
 ---
 ## TMDB Data
 ```json
@@ -33,7 +33,7 @@ mcuTimelineOrder: 584
     "release_date": "2022-09-25",
     "title": "Werewolf by Night",
     "video": false,
-    "vote_average": 7,
+    "vote_average": 7.008,
     "slug": "werewolf-by-night",
     "tags": [
         "movie",

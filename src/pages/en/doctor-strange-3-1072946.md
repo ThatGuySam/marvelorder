@@ -23,7 +23,9 @@ tags:
 {
     "adult": false,
     "backdrop_path": null,
-    "genre_ids": [],
+    "genre_ids": [
+        14
+    ],
     "id": 1072946,
     "original_language": "en",
     "original_title": "Doctor Strange 3",

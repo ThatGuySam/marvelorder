@@ -10,7 +10,7 @@ logo_on_black: /.netlify/functions/tmdb-image/fa6aYdjF083UV2w6V7hOAjwaqi4.webp
 ```json
 {
     "adult": false,
-    "backdrop_path": "/mbY234XwMwEofAdX8yddNcK82wi.jpg",
+    "backdrop_path": "/c8vGaFuWkYetS1GY02CfSg88oaI.jpg",
     "genre_ids": [
         28,
         12,
@@ -19,9 +19,9 @@ logo_on_black: /.netlify/functions/tmdb-image/fa6aYdjF083UV2w6V7hOAjwaqi4.webp
     "id": 533535,
     "original_language": "en",
     "original_title": "Deadpool 3",
-    "overview": "The third installment in the Deadpool franchise.",
-    "poster_path": "/4gdqWCVvidYR0pOHuVOqFundbUG.jpg",
-    "release_date": "2024-04-30",
+    "overview": "Third entry in the \"Deadpool\" franchise. Plot TBA.",
+    "poster_path": "/3e9RToA9tGMl1T994T9T8zLW3CU.jpg",
+    "release_date": "2024-07-24",
     "title": "Deadpool 3",
     "video": false,
     "vote_average": 0,

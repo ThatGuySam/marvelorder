@@ -23,7 +23,7 @@ type: movie
     "release_date": "2019-11-12",
     "title": "Marvel Studios: Expanding the Universe",
     "video": false,
-    "vote_average": 5.7,
+    "vote_average": 5.87,
     "slug": "marvel-studios-expanding-the-universe",
     "tags": [
         "movie",

@@ -16,22 +16,24 @@ watchLinks:
 ## TMDB Data
 ```json
 {
-    "backdrop_path": "/uAE8hCBui1INPWMwkrJcTJGxbD0.jpg",
-    "first_air_date": "2017-02-08",
+    "adult": false,
+    "backdrop_path": "/87eP7ITTrOWvkA4EqCuoRdyjzLy.jpg",
     "genre_ids": [
         10759,
-        10765
+        10765,
+        18
     ],
     "id": 67195,
-    "name": "Legion",
     "origin_country": [
         "US"
     ],
     "original_language": "en",
     "original_name": "Legion",
     "overview": "David Haller, AKA Legion, is a troubled young man who may be more than human. Diagnosed as schizophrenic, David has been in and out of psychiatric hospitals for years. But after a strange encounter with a fellow patient, he’s confronted with the possibility that the voices he hears and the visions he sees might be real.",
-    "poster_path": "/4WLMWQgH3eXNP1aGrAuwlSiIx5j.jpg",
-    "vote_average": 7.6,
+    "poster_path": "/d6T86JYMW4sSLRmNfdtFilvugOv.jpg",
+    "first_air_date": "2017-02-08",
+    "name": "Legion",
+    "vote_average": 7.5,
     "title": "Legion",
     "slug": "legion",
     "tags": [

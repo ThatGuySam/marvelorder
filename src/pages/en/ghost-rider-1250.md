@@ -19,7 +19,7 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/1dlXEyAxdysMCRvq9lgIr6Jds9H.jpg",
+    "backdrop_path": "/7zS58YPAw002RNejOF1vNB3XHbW.jpg",
     "genre_ids": [
         53,
         28,
@@ -33,7 +33,7 @@ watchLinks:
     "release_date": "2007-01-15",
     "title": "Ghost Rider",
     "video": false,
-    "vote_average": 5.5,
+    "vote_average": 5.562,
     "slug": "ghost-rider",
     "tags": [
         "movie",

@@ -18,7 +18,7 @@ mcuTimelineOrder: 24
 ```json
 {
     "adult": false,
-    "backdrop_path": "/k5V2cbDZvYIu6BKIK0Q0KGyAUDB.jpg",
+    "backdrop_path": "/qAzYK4YPSWDc7aa4R43LcwRIAyb.jpg",
     "genre_ids": [
         28,
         12,
@@ -32,7 +32,7 @@ mcuTimelineOrder: 24
     "release_date": "2019-03-06",
     "title": "Captain Marvel",
     "video": false,
-    "vote_average": 6.8,
+    "vote_average": 6.829,
     "slug": "captain-marvel",
     "tags": [
         "movie",

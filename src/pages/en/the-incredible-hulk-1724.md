@@ -32,10 +32,11 @@ mcuTimelineOrder: 33
     "release_date": "2008-06-12",
     "title": "The Incredible Hulk",
     "video": false,
-    "vote_average": 6.2,
+    "vote_average": 6.207,
     "slug": "the-incredible-hulk",
     "tags": [
         "movie",
+        "company-7505",
         "company-420"
     ]
 }

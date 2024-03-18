@@ -16,22 +16,24 @@ watchLinks:
 {
     "adult": false,
     "backdrop_path": "/2ex2beZ4ssMeOduLD0ILzXKCiep.jpg",
+    "id": 246655,
+    "title": "X-Men: Apocalypse",
+    "original_language": "en",
+    "original_title": "X-Men: Apocalypse",
+    "overview": "After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.",
+    "poster_path": "/2mtQwJKVKQrZgTz49Dizb25eOQQ.jpg",
+    "media_type": "movie",
+    "runtime": 144,
+    "revenue": 543934787,
     "genre_ids": [
         28,
         12,
         878,
         14
     ],
-    "id": 246655,
-    "media_type": "movie",
-    "original_language": "en",
-    "original_title": "X-Men: Apocalypse",
-    "overview": "After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.",
-    "poster_path": "/2mtQwJKVKQrZgTz49Dizb25eOQQ.jpg",
     "release_date": "2016-05-18",
-    "title": "X-Men: Apocalypse",
     "video": false,
-    "vote_average": 6.5,
+    "vote_average": 6.512,
     "slug": "x-men-apocalypse",
     "tags": [
         "list-8204860"

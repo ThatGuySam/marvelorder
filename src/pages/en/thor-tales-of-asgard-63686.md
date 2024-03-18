@@ -10,7 +10,7 @@ description: >-
   deadly, and Thor must now prove himself worthy of the destiny he covets by
   saving Asgard itself.
 layout: ../../layouts/MainLayout.astro
-mcuTimelineOrder: 36
+mcuTimelineOrder: 35
 logo_on_black: /.netlify/functions/tmdb-image/1ic3ktivx7wpjBM9bR0k4xi3aZi.webp
 ---
 ## TMDB Data
@@ -31,7 +31,7 @@ logo_on_black: /.netlify/functions/tmdb-image/1ic3ktivx7wpjBM9bR0k4xi3aZi.webp
     "release_date": "2011-05-16",
     "title": "Thor: Tales of Asgard",
     "video": false,
-    "vote_average": 6.3,
+    "vote_average": 6.4,
     "slug": "thor-tales-of-asgard",
     "tags": [
         "movie",

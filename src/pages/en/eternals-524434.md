@@ -12,7 +12,7 @@ logo_on_black: /.netlify/functions/tmdb-image/uRc0RTpUszMFakhXouZzK1clLsb.webp
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B09P4K9BVK?tag=marvelorder-20&linkCode=osi&th=1&psc=1
-mcuTimelineOrder: 459
+mcuTimelineOrder: 469
 ---
 ## TMDB Data
 ```json
@@ -32,7 +32,7 @@ mcuTimelineOrder: 459
     "release_date": "2021-11-03",
     "title": "Eternals",
     "video": false,
-    "vote_average": 6.9,
+    "vote_average": 6.888,
     "slug": "eternals",
     "tags": [
         "movie",

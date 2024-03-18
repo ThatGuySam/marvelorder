@@ -18,10 +18,9 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/463aGxN198nLz3sTDYzjSxufyAo.jpg",
+    "backdrop_path": "/tSEs9JVrlG6W3s26pgIpDxAFdfI.jpg",
     "genre_ids": [
         28,
-        12,
         14,
         878
     ],
@@ -33,7 +32,7 @@ watchLinks:
     "release_date": "2005-06-29",
     "title": "Fantastic Four",
     "video": false,
-    "vote_average": 5.8,
+    "vote_average": 5.783,
     "slug": "fantastic-four",
     "tags": [
         "movie",

@@ -20,7 +20,7 @@ mcuTimelineOrder: 0
 ```json
 {
     "adult": false,
-    "backdrop_path": "/4NWWpT0jiMUak8r6jfpvG4eBgFU.jpg",
+    "backdrop_path": "/yFuKvT4Vm3sKHdFY4eG6I4ldAnn.jpg",
     "genre_ids": [
         28,
         12,
@@ -34,10 +34,11 @@ mcuTimelineOrder: 0
     "release_date": "2011-07-22",
     "title": "Captain America: The First Avenger",
     "video": false,
-    "vote_average": 7,
+    "vote_average": 6.999,
     "slug": "captain-america-the-first-avenger",
     "tags": [
         "movie",
+        "company-7505",
         "company-420"
     ]
 }

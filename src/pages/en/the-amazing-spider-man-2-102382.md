@@ -15,17 +15,17 @@ logo_on_black: /.netlify/functions/fanart/the-amazing-spider-man-2-519c7fd6a53e3
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B00JPNZPCG?tag=marvelorder-20&linkCode=osi&th=1&psc=1
-mcuTimelineOrder: 510
+mcuTimelineOrder: 548
 ---
 ## TMDB Data
 ```json
 {
     "adult": false,
-    "backdrop_path": "/k0hlAzTryCYX1O1LyC6P8tAa8s0.jpg",
+    "backdrop_path": "/hDvqcbZhq9ux0euxYxCP9N6m1Rh.jpg",
     "genre_ids": [
         28,
         12,
-        14
+        878
     ],
     "id": 102382,
     "original_language": "en",

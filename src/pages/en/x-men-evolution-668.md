@@ -15,16 +15,16 @@ watchLinks:
 ## TMDB Data
 ```json
 {
+    "adult": false,
     "backdrop_path": "/ypjekzMRMvdrx4PRA7v1DNyCmTR.jpg",
-    "first_air_date": "2000-11-04",
     "genre_ids": [
         10762,
         16,
         10765,
-        10759
+        10759,
+        18
     ],
     "id": 668,
-    "name": "X-Men: Evolution",
     "origin_country": [
         "US"
     ],
@@ -32,7 +32,9 @@ watchLinks:
     "original_name": "X-Men: Evolution",
     "overview": "Teenagers Cyclops, Jean Grey, Rogue, Nightcrawler, Shadowcat, and Spike fight for a world that fears and hates them.",
     "poster_path": "/At5aZIKkN8zHTAXOnQR9D3b7usW.jpg",
-    "vote_average": 8,
+    "first_air_date": "2000-11-04",
+    "name": "X-Men: Evolution",
+    "vote_average": 7.924,
     "title": "X-Men: Evolution",
     "slug": "x-men-evolution",
     "tags": [
@@ -40,7 +42,8 @@ watchLinks:
         "company-420",
         "list-8204860"
     ],
-    "media_type": "tv"
+    "media_type": "tv",
+    "runtime": null
 }
 
 ```

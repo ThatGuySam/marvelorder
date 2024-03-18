@@ -28,7 +28,7 @@ type: movie
     "release_date": "2019-12-20",
     "title": "Celebrating Marvel's Stan Lee",
     "video": false,
-    "vote_average": 7.3,
+    "vote_average": 7.313,
     "slug": "celebrating-marvels-stan-lee",
     "tags": [
         "movie",

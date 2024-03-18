@@ -14,7 +14,7 @@ logo_on_black: /.netlify/functions/fanart/the-avengers-2-51eca0725c412.webp
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B07FYX2MT3?tag=marvelorder-20&linkCode=osi&th=1&psc=1
-mcuTimelineOrder: 117
+mcuTimelineOrder: 127
 tags:
   - has-thor
 ---
@@ -36,7 +36,7 @@ tags:
     "release_date": "2015-04-22",
     "title": "Avengers: Age of Ultron",
     "video": false,
-    "vote_average": 7.3,
+    "vote_average": 7.273,
     "slug": "avengers-age-of-ultron",
     "tags": [
         "movie",

@@ -13,7 +13,7 @@ logo_on_black: >-
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B01EXR6C8Y?tag=marvelorder-20&linkCode=osi&th=1&psc=1
-mcuTimelineOrder: 214
+mcuTimelineOrder: 233
 ---
 ## TMDB Data
 ```json
@@ -33,7 +33,7 @@ mcuTimelineOrder: 214
     "release_date": "2016-04-27",
     "title": "Captain America: Civil War",
     "video": false,
-    "vote_average": 7.4,
+    "vote_average": 7.441,
     "slug": "captain-america-civil-war",
     "tags": [
         "movie",

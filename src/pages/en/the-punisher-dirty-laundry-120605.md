@@ -14,21 +14,23 @@ watchLinks:
 {
     "adult": false,
     "backdrop_path": "/7mUdchgDrSZsw6T8sJgwZvNsWiP.jpg",
+    "id": 120605,
+    "title": "The Punisher: Dirty Laundry",
+    "original_language": "en",
+    "original_title": "The Punisher: Dirty Laundry",
+    "overview": "In a bad neighborhood, on his way to a laundromat to do his laundry, Frank Castle witnesses a ruthless street gang harassing several people.",
+    "poster_path": "/5o5uPBWe0pYj7nHmE7V8yoNlLQb.jpg",
+    "media_type": "movie",
+    "runtime": 11,
+    "revenue": 0,
     "genre_ids": [
         18,
         28,
         53
     ],
-    "id": 120605,
-    "media_type": "movie",
-    "original_language": "en",
-    "original_title": "The Punisher: Dirty Laundry",
-    "overview": "In a bad neighborhood, on his way to a laundromat to do his laundry, Frank Castle witnesses a ruthless street gang harassing several people.",
-    "poster_path": "/5o5uPBWe0pYj7nHmE7V8yoNlLQb.jpg",
     "release_date": "2012-07-16",
-    "title": "The Punisher: Dirty Laundry",
     "video": false,
-    "vote_average": 7,
+    "vote_average": 7.043,
     "slug": "the-punisher-dirty-laundry",
     "tags": [
         "list-8204859"

@@ -14,7 +14,7 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/ojdR6xR1rBnDvjXgcgwHnes6qXU.jpg",
+    "backdrop_path": "/fgZWez3fbQ9Dija8Ka4IGShNk6M.jpg",
     "genre_ids": [
         16,
         28,
@@ -30,7 +30,7 @@ watchLinks:
     "release_date": "2019-03-19",
     "title": "Spider-Ham: Caught in a Ham",
     "video": false,
-    "vote_average": 7,
+    "vote_average": 6.9,
     "slug": "spider-ham-caught-in-a-ham",
     "tags": [
         "movie",

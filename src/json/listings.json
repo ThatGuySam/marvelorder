@@ -1,13 +1,12 @@
 [
 	{
+		"adult": false,
 		"backdrop_path": "/3Wh6RYyoqBHkjugcfVrypjH8qQv.jpg",
 		"genre_ids": [
 			10759,
-			18,
 			10765
 		],
 		"id": 114471,
-		"name": "Ironheart",
 		"origin_country": [
 			"US"
 		],
@@ -15,6 +14,8 @@
 		"original_name": "Ironheart",
 		"overview": "Genius inventor Riri Williams creates the most advanced suit of armor since Iron Man and becomes Ironheart.",
 		"poster_path": "/ha1kackPwP1BLtyibzuv5hABiDk.jpg",
+		"first_air_date": "",
+		"name": "Ironheart",
 		"vote_average": 0,
 		"title": "Ironheart",
 		"slug": "ironheart",
@@ -24,131 +25,37 @@
 		]
 	},
 	{
-		"backdrop_path": null,
+		"adult": false,
+		"backdrop_path": "/c8sVQO9BYzc1jRgSXHWeN1bRzOI.jpg",
 		"genre_ids": [
-			10759,
-			18,
+			35,
 			10765
 		],
-		"id": 117985,
-		"name": "Untitled Wakanda Series",
-		"origin_country": [
-			"US"
-		],
-		"original_language": "en",
-		"original_name": "Untitled Wakanda Series",
-		"overview": "Upcoming Marvel Cinematic Universe series set in the Kingdom of Wakanda.",
-		"poster_path": null,
-		"vote_average": 0,
-		"title": "Untitled Wakanda Series",
-		"slug": "untitled-wakanda-series",
-		"tags": [
-			"tv",
-			"company-420"
-		]
-	},
-	{
-		"backdrop_path": "/wPnapuJNdWe27IAE5z2Hieo4Yh.jpg",
-		"genre_ids": [
-			10765,
-			10759,
-			35
-		],
 		"id": 138501,
-		"name": "Agatha: Coven of Chaos",
 		"origin_country": [
 			"US"
 		],
 		"original_language": "en",
-		"original_name": "Agatha: Coven of Chaos",
+		"original_name": "Agatha",
 		"overview": "Follow Agatha Harkness before and after her appearance in WandaVision.",
-		"poster_path": "/A4JyrpPCsw57E0JHcZK7TDPVPqP.jpg",
-		"vote_average": 0,
-		"title": "Agatha: Coven of Chaos",
-		"slug": "agatha-coven-of-chaos",
-		"tags": [
-			"tv",
-			"company-420"
-		]
-	},
-	{
-		"backdrop_path": "/nSJZ1fuINwSVAx3x9ZEk11SUoaW.jpg",
-		"genre_ids": [
-			16,
-			10759
-		],
-		"id": 138502,
-		"name": "X-Men '97",
-		"origin_country": [
-			"US"
-		],
-		"original_language": "en",
-		"original_name": "X-Men '97",
-		"overview": "An animated series from Marvel Studios that explores new stories in the iconic ‘90s timeline of the original series.",
-		"poster_path": "/kZhODsClYVftvqwwZB7nPcuA1km.jpg",
-		"vote_average": 0,
-		"title": "X-Men '97",
-		"slug": "x-men-97",
-		"tags": [
-			"tv",
-			"company-420"
-		]
-	},
-	{
-		"backdrop_path": null,
-		"genre_ids": [
-			16,
-			10759
-		],
-		"id": 138503,
-		"name": "Spider-Man: Freshman Year",
-		"origin_country": [
-			"US"
-		],
-		"original_language": "en",
-		"original_name": "Spider-Man: Freshman Year",
-		"overview": "Follow Peter Parker on his way to becoming Spider-Man, with a journey unlike any we've ever seen.",
-		"poster_path": "/7ecqjxf49CaTsqQFIUd1iceoXZB.jpg",
-		"vote_average": 0,
-		"title": "Spider-Man: Freshman Year",
-		"slug": "spider-man-freshman-year",
-		"tags": [
-			"tv",
-			"company-420"
-		]
-	},
-	{
-		"backdrop_path": null,
-		"genre_ids": [
-			16,
-			10765,
-			10759
-		],
-		"id": 138505,
-		"name": "Marvel Zombies",
-		"origin_country": [
-			"US"
-		],
-		"original_language": "en",
-		"original_name": "Marvel Zombies",
-		"overview": "The Marvel Universe is reimagined as a new generation of heroes battle against an ever-spreading zombie scourge.",
-		"poster_path": "/vK2ZJlnurjxajVXGxy6KMeHJuW8.jpg",
-		"vote_average": 0,
-		"title": "Marvel Zombies",
-		"slug": "marvel-zombies",
-		"tags": [
-			"tv",
-			"company-420"
-		]
-	},
-	{
-		"backdrop_path": null,
+		"poster_path": "/xqNzV5x1XdqqNPhvk5naKmsM9Vj.jpg",
 		"first_air_date": "",
+		"name": "Agatha",
+		"vote_average": 0,
+		"title": "Agatha",
+		"slug": "agatha",
+		"tags": [
+			"tv",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
 		"genre_ids": [
 			35
 		],
 		"id": 198178,
-		"name": "Wonder Man",
 		"origin_country": [
 			"US"
 		],
@@ -156,6 +63,8 @@
 		"original_name": "Wonder Man",
 		"overview": "Follows Simon Williams, also known in Marvel Comics as Wonder Man. Described as a Hollywood satire.",
 		"poster_path": null,
+		"first_air_date": "",
+		"name": "Wonder Man",
 		"vote_average": 0,
 		"title": "Wonder Man",
 		"slug": "wonder-man",
@@ -165,6 +74,7 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/5NGuM3zv8KjFg7k0FBZ0UdeLFGv.jpg",
 		"genre_ids": [
 			18,
@@ -172,14 +82,15 @@
 			10759
 		],
 		"id": 202555,
-		"name": "Daredevil: Born Again",
 		"origin_country": [
 			"US"
 		],
 		"original_language": "en",
 		"original_name": "Daredevil: Born Again",
-		"overview": "An upcoming Disney+ series featuring Matt Murdock aka Daredevil in the Marvel Cinematic Universe.",
+		"overview": "An upcoming Disney+ series that is a continuation of Daredevil (2015-2018) and Echo (2024) starring Charlie Cox as Matt Murdock.",
 		"poster_path": "/t2MKhbLkSlMduIukClOXFMK9LhP.jpg",
+		"first_air_date": "",
+		"name": "Daredevil: Born Again",
 		"vote_average": 0,
 		"title": "Daredevil: Born Again",
 		"slug": "daredevil-born-again",
@@ -189,11 +100,12 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": null,
-		"first_air_date": "",
-		"genre_ids": [],
+		"genre_ids": [
+			10765
+		],
 		"id": 213375,
-		"name": "Vision Quest",
 		"origin_country": [
 			"US"
 		],
@@ -201,6 +113,8 @@
 		"original_name": "Vision Quest",
 		"overview": "After the events of \"WandaVision\", the Vision tries to regain his identity.",
 		"poster_path": null,
+		"first_air_date": "",
+		"name": "Vision Quest",
 		"vote_average": 0,
 		"title": "Vision Quest",
 		"slug": "vision-quest",
@@ -210,12 +124,12 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": null,
 		"genre_ids": [
 			10765
 		],
 		"id": 220577,
-		"name": "Nova",
 		"origin_country": [
 			"US"
 		],
@@ -223,6 +137,8 @@
 		"original_name": "Nova",
 		"overview": "A series from Marvel Studios adapting the Marvel Comics superhero Nova.",
 		"poster_path": null,
+		"first_air_date": "",
+		"name": "Nova",
 		"vote_average": 0,
 		"title": "Nova",
 		"slug": "nova",
@@ -266,6 +182,7 @@
 		"original_title": "Untitled Shang-Chi Sequel",
 		"overview": "Sequel to the 2021 film “Shang-Chi and the Legend of the Ten Rings”.",
 		"poster_path": "/ruUz3vhYuq3011WzSNM0SlgaVzh.jpg",
+		"release_date": "",
 		"title": "Untitled Shang-Chi Sequel",
 		"video": false,
 		"vote_average": 0,
@@ -288,6 +205,7 @@
 		"original_title": "El Muerto",
 		"overview": "A wrestler gains super strength thanks to a mystical mask that is passed down throughout his family.",
 		"poster_path": "/gRNB6GsKrI410Nvsbur3Rf0Ixnr.jpg",
+		"release_date": "",
 		"title": "El Muerto",
 		"video": false,
 		"vote_average": 0,
@@ -301,13 +219,16 @@
 		"adult": false,
 		"backdrop_path": null,
 		"genre_ids": [
-			28
+			878,
+			28,
+			12
 		],
 		"id": 969681,
 		"original_language": "en",
 		"original_title": "Spider-Man 4",
-		"overview": "The next installment of the MCU Spider-Man franchise: a sequel to \"Spider-Man: No Way Home\". Plot unknown.",
+		"overview": "The next installment of the MCU Spider-Man franchise: a sequel to \"Spider-Man: No Way Home\" and the first in a possible new trilogy. Plot unknown.",
 		"poster_path": null,
+		"release_date": "",
 		"title": "Spider-Man 4",
 		"video": false,
 		"vote_average": 0,
@@ -329,6 +250,7 @@
 		"original_title": "Armor Wars",
 		"overview": "James Rhodes aka War Machine faces the consequences of Tony Stark's worst fear coming true: what happens when his tech falls into the wrong hands?",
 		"poster_path": "/vDbzi8eM710THVCwjfqVU8a5E3g.jpg",
+		"release_date": "",
 		"title": "Armor Wars",
 		"video": false,
 		"vote_average": 0,
@@ -360,11 +282,13 @@
 	{
 		"adult": false,
 		"backdrop_path": null,
-		"genre_ids": [],
+		"genre_ids": [
+			28
+		],
 		"id": 1062465,
 		"original_language": "en",
 		"original_title": "Hypno-Hustler",
-		"overview": "Comic book movie centered on the villainous Spider-Man character, Hypno-Hustler.",
+		"overview": "Hypno-Hustler is an upcoming superhero film based on the Marvel Comics character of the same name.",
 		"poster_path": null,
 		"release_date": "",
 		"title": "Hypno-Hustler",
@@ -379,7 +303,9 @@
 	{
 		"adult": false,
 		"backdrop_path": null,
-		"genre_ids": [],
+		"genre_ids": [
+			14
+		],
 		"id": 1072946,
 		"original_language": "en",
 		"original_title": "Doctor Strange 3",
@@ -399,18 +325,19 @@
 		"adult": false,
 		"backdrop_path": null,
 		"genre_ids": [
-			10770
+			878,
+			14
 		],
-		"id": 1101411,
+		"id": 1196551,
 		"original_language": "en",
-		"original_title": "Untitled Sentry Special",
-		"overview": "A Marvel Studios Special Presentation adapting the Marvel Comics superhero Sentry.",
+		"original_title": "Thor 5",
+		"overview": "Rumored fifth installment in Marvel Studios’ Thor franchise.",
 		"poster_path": null,
 		"release_date": "",
-		"title": "Untitled Sentry Special",
+		"title": "Thor 5",
 		"video": false,
 		"vote_average": 0,
-		"slug": "untitled-sentry-special",
+		"slug": "thor-5",
 		"tags": [
 			"movie",
 			"company-420"
@@ -420,7 +347,6 @@
 		"adult": false,
 		"backdrop_path": "/jqFC2WjYF07hx2X7cs0XmY9jBX6.jpg",
 		"genre_ids": [
-			28,
 			878
 		],
 		"id": 1003598,
@@ -428,7 +354,7 @@
 		"original_title": "Avengers: Secret Wars",
 		"overview": "An upcoming film in the Marvel Cinematic Universe's sixth Phase and the finale of The Multiverse Saga. Plot unknown.",
 		"poster_path": "/8chwENebfUEJzZ7sMUA0nOgiCKk.jpg",
-		"release_date": "2027-05-07",
+		"release_date": "2027-05-06",
 		"title": "Avengers: Secret Wars",
 		"video": false,
 		"vote_average": 0,
@@ -438,55 +364,34 @@
 			"company-420",
 			"list-8204859"
 		],
-		"media_type": "movie"
+		"media_type": "movie",
+		"runtime": null,
+		"revenue": 0
 	},
 	{
 		"adult": false,
 		"backdrop_path": "/uR952NrgispGuyqIdUbkR24vE0u.jpg",
 		"genre_ids": [
-			28,
-			878,
-			12
+			878
 		],
 		"id": 1003596,
 		"original_language": "en",
-		"original_title": "Avengers: The Kang Dynasty",
+		"original_title": "Avengers 5",
 		"overview": "An upcoming film in the Marvel Cinematic Universe's sixth Phase and part of The Multiverse Saga. Plot unknown.",
-		"poster_path": "/utZTb3VBrH0zR77BcISU67pHuAx.jpg",
+		"poster_path": "/lfE1GkxqoNaGqajRDCTYw5erBSo.jpg",
 		"release_date": "2026-04-29",
-		"title": "Avengers: The Kang Dynasty",
+		"title": "Avengers 5",
 		"video": false,
 		"vote_average": 0,
-		"slug": "avengers-the-kang-dynasty",
+		"slug": "avengers-5",
 		"tags": [
 			"movie",
 			"company-420",
 			"list-8204859"
 		],
-		"media_type": "movie"
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/qlwBv4v6EoeN2JxGWziT2kSyoVe.jpg",
-		"genre_ids": [
-			878,
-			28,
-			14
-		],
-		"id": 617126,
-		"original_language": "en",
-		"original_title": "Fantastic Four",
-		"overview": "Set in the Marvel Cinematic Universe (MCU) and based on the Marvel Comics characters of the same name.",
-		"poster_path": "/jatnqRPnxjg2Q6cFsAjmrBNhx9.jpg",
-		"release_date": "2025-04-30",
-		"title": "Fantastic Four",
-		"video": false,
-		"vote_average": 0,
-		"slug": "fantastic-four",
-		"tags": [
-			"movie",
-			"company-420"
-		]
+		"media_type": "movie",
+		"runtime": null,
+		"revenue": 0
 	},
 	{
 		"adult": false,
@@ -499,11 +404,33 @@
 		"original_title": "Blade",
 		"overview": "A film set in the Marvel Cinematic Universe (MCU) based on the Marvel Comics character of the same name.",
 		"poster_path": "/fKqA4rgVJwrM7Gb3tQ9TGHnu8Tr.jpg",
-		"release_date": "2025-02-12",
+		"release_date": "2025-11-05",
 		"title": "Blade",
 		"video": false,
 		"vote_average": 0,
 		"slug": "blade",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/pwCZP8QjiQRvz15MGxQckW0wl3a.jpg",
+		"genre_ids": [
+			878,
+			12
+		],
+		"id": 617126,
+		"original_language": "en",
+		"original_title": "The Fantastic Four",
+		"overview": "Set in the Marvel Cinematic Universe (MCU) and based on the Marvel Comics characters of the same name.",
+		"poster_path": "/4AGuX3IMPzs3sc3dJrnpLZzGvUa.jpg",
+		"release_date": "2025-07-24",
+		"title": "The Fantastic Four",
+		"video": false,
+		"vote_average": 0,
+		"slug": "the-fantastic-four",
 		"tags": [
 			"movie",
 			"company-420"
@@ -520,8 +447,8 @@
 		"original_language": "en",
 		"original_title": "Thunderbolts",
 		"overview": "A world without Avengers doesn't mean there's not a group of superheroes. There is a group and they're called the Thunderbolts.",
-		"poster_path": "/dHhniU1vz1C0j27AFdcsPmq6xu.jpg",
-		"release_date": "2024-12-18",
+		"poster_path": "/9pKEuYSgEoQQwwngJXgeNOnJjr.jpg",
+		"release_date": "2025-05-01",
 		"title": "Thunderbolts",
 		"video": false,
 		"vote_average": 0,
@@ -544,7 +471,7 @@
 		"original_title": "Captain America: Brave New World",
 		"overview": "A sequel to Marvel Studios' The Falcon and the Winter Soldier and follows Sam Wilson as the new Captain America.",
 		"poster_path": "/ghkjPyaPGMfDufOa4D2A51DFGWr.jpg",
-		"release_date": "2024-07-24",
+		"release_date": "2025-02-12",
 		"title": "Captain America: Brave New World",
 		"video": false,
 		"vote_average": 0,
@@ -556,94 +483,92 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
-			878,
-			28,
-			12,
-			53
-		],
-		"id": 912649,
-		"original_language": "en",
-		"original_title": "Venom 3",
-		"overview": "The third entry in the Venom trilogy confirmed to be in development by Amy Pascal.",
-		"poster_path": null,
-		"release_date": "2024-07-12",
-		"title": "Venom 3",
-		"video": false,
-		"vote_average": 0,
-		"slug": "venom-3",
-		"tags": [
-			"movie",
-			"company-7505"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/mbY234XwMwEofAdX8yddNcK82wi.jpg",
+		"backdrop_path": "/nbq3LfgLXnL5ixZ1Q74jTJmhmTS.jpg",
 		"genre_ids": [
 			28,
-			12,
-			35
+			35,
+			878
 		],
 		"id": 533535,
 		"original_language": "en",
-		"original_title": "Deadpool 3",
-		"overview": "The third installment in the Deadpool franchise.",
-		"poster_path": "/4gdqWCVvidYR0pOHuVOqFundbUG.jpg",
-		"release_date": "2024-04-30",
-		"title": "Deadpool 3",
+		"original_title": "Deadpool & Wolverine",
+		"overview": "Third entry in the \"Deadpool\" franchise. Plot TBA.",
+		"poster_path": "/uxBHXaoOvAwy4NpPpP7nNx2rXYQ.jpg",
+		"release_date": "2024-07-24",
+		"title": "Deadpool & Wolverine",
 		"video": false,
 		"vote_average": 0,
-		"slug": "deadpool-3",
+		"slug": "deadpool-and-wolverine",
 		"tags": [
 			"movie",
 			"company-420",
 			"list-8204860"
 		],
-		"media_type": "movie"
+		"media_type": "movie",
+		"runtime": 125,
+		"revenue": 0
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
+		"backdrop_path": "/ji6MRyevgzCtrtxAvKotzhagOOJ.jpg",
 		"genre_ids": [
-			28,
-			14,
-			878
+			99
 		],
-		"id": 634492,
+		"id": 1235525,
 		"original_language": "en",
-		"original_title": "Madame Web",
-		"overview": "Madame Web is a clairvoyant whose psychic abilities allow her to see within the spider world itself. This is the story of how she came to be.",
-		"poster_path": null,
-		"release_date": "2024-02-14",
-		"title": "Madame Web",
+		"original_title": "Marvel Studios Assembled: The Making of The Marvels",
+		"overview": "Take an intergalactic trip with the cast and crew of \"The Marvels\" as they tell their experiences making this weird and wonderful film. Step into all the departments of production and discover how they created complex fight scenes, countless alien life forms, and some of the most elaborate sets ever. From dance parties to kitten days, the cast and crew had an unforgettable time making the movie.",
+		"poster_path": "/9sFICxo3xVJRbTCwvLwGbOShJGP.jpg",
+		"release_date": "2024-02-07",
+		"title": "Marvel Studios Assembled: The Making of The Marvels",
 		"video": false,
-		"vote_average": 0,
-		"slug": "madame-web",
+		"vote_average": 5.1,
+		"slug": "marvel-studios-assembled-the-making-of-the-marvels",
 		"tags": [
 			"movie",
-			"company-7505"
+			"company-420"
 		]
 	},
 	{
-		"backdrop_path": "/z1ORktzKYzEUifGn9iIKeL4T1TG.jpg",
-		"first_air_date": "2023-11-29",
+		"adult": false,
+		"backdrop_path": "/dlHzNpFMlZwSR9Cw8XVPAiAKul5.jpg",
 		"genre_ids": [
-			10759,
+			99
+		],
+		"id": 1220337,
+		"original_language": "en",
+		"original_title": "Marvel Studios Assembled: The Making of Echo",
+		"overview": "Join us on a revealing journey behind-the-scenes of Maya Lopez’s own groundbreaking series. Witness how the production took unprecedented steps to portray the deaf experience, and Native American culture truthfully. Spend time with powerhouse actor Vincent D’Onofrio as he brings the Kingpin to monstrous life once again. All this and more waits to be discovered in \"Assembled: The Making of Echo.\"",
+		"poster_path": "/q19Po6BjP93r4gaPyWO0lGdErAT.jpg",
+		"release_date": "2024-01-31",
+		"title": "Marvel Studios Assembled: The Making of Echo",
+		"video": false,
+		"vote_average": 5.4,
+		"slug": "marvel-studios-assembled-the-making-of-echo",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/u3ySnWqSjM3jedYgJZTR7RWRDDm.jpg",
+		"genre_ids": [
 			18,
-			80
+			80,
+			10759
 		],
 		"id": 122226,
-		"name": "Echo",
 		"origin_country": [
 			"US"
 		],
 		"original_language": "en",
 		"original_name": "Echo",
-		"overview": "After her ruthless behavior in New York City catches up with her in her hometown, Maya Lopez must face her past, reconnect with her Native American roots and embrace the meaning of family and community if she ever hopes to move forward.",
-		"poster_path": "/3bv5Dv3YmQfzg5ckQMwzCUQ89hU.jpg",
-		"vote_average": 0,
+		"overview": "Pursued by Wilson Fisk's criminal empire, Maya's journey brings her home and she must confront her own family and legacy.",
+		"poster_path": "/vFyJH630cF68LohVYjQW49074Sy.jpg",
+		"first_air_date": "2024-01-09",
+		"name": "Echo",
+		"vote_average": 6.283,
 		"title": "Echo",
 		"slug": "echo",
 		"tags": [
@@ -653,21 +578,42 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/u2C8hDXDc6wmgSKIT5sxarNKulY.jpg",
+		"backdrop_path": "/q8OCAKDfdgm4oQAITaEG7czomyI.jpg",
 		"genre_ids": [
-			28,
+			99
+		],
+		"id": 1192825,
+		"original_language": "en",
+		"original_title": "Marvel Studios Assembled: The Making of Loki Season 2",
+		"overview": "Through candid interviews with the creative minds behind the show, and exclusive on-set footage, discover how the talented team that powered \"Loki: Season 2\" raised the stakes for this latest MCU adventure. Witness imaginative costumes, elaborate environments, and far-out variants come to life, meet new allies and foes, and time-slip across the Multiverse.",
+		"poster_path": "/l4dAm09HoxB5Dbm8IqDfrAKyMkS.jpg",
+		"release_date": "2023-11-22",
+		"title": "Marvel Studios Assembled: The Making of Loki Season 2",
+		"video": false,
+		"vote_average": 7.2,
+		"slug": "marvel-studios-assembled-the-making-of-loki-season-2",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/feSiISwgEpVzR1v3zv2n2AU4ANJ.jpg",
+		"genre_ids": [
+			878,
 			12,
-			878
+			28
 		],
 		"id": 609681,
 		"original_language": "en",
 		"original_title": "The Marvels",
 		"overview": "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
-		"poster_path": "/3Wt72AVKhWBwVgurzdKvDmyKQGj.jpg",
+		"poster_path": "/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 0,
+		"vote_average": 6.209,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -675,28 +621,44 @@
 		]
 	},
 	{
-		"backdrop_path": "/bAnHzJ6AMhOhnV3C0kTxkpCqpgM.jpg",
-		"first_air_date": "2023-09-06",
+		"adult": false,
+		"backdrop_path": "/phHZMvFlj5A03gzp7bhmQl8BInz.jpg",
 		"genre_ids": [
-			16,
-			35,
-			10751,
-			10765
+			99
 		],
-		"id": 232125,
-		"name": "I Am Groot",
-		"origin_country": [
-			"US"
-		],
+		"id": 1165500,
 		"original_language": "en",
-		"original_name": "I Am Groot",
-		"overview": "There’s no guarding the galaxy from this mischievous toddler! Get ready as Baby Groot takes center stage in his very own collection of shorts, exploring his glory days growing up and getting into trouble among the stars.",
-		"poster_path": "/3QfQYECgu6DX5UUWCBvv1Fl0BAJ.jpg",
-		"vote_average": 0,
-		"title": "I Am Groot",
-		"slug": "i-am-groot",
+		"original_title": "Marvel Studios Assembled: The Making of Secret Invasion",
+		"overview": "Through in-depth interviews with cast and crew, and exclusive behind-the-scenes footage, Assembled uncovers how Marvel Studios’ “Secret Invasion” was born. Witness what it took to conjure the world of the show, and spend time with Samuel L. Jackson as he dons the patch once again to engage in the most baffling battle of Nick Fury’s career.",
+		"poster_path": "/8YDNwj9gsAQlcHQALPtjJipoGx8.jpg",
+		"release_date": "2023-09-20",
+		"title": "Marvel Studios Assembled: The Making of Secret Invasion",
+		"video": false,
+		"vote_average": 4.9,
+		"slug": "marvel-studios-assembled-the-making-of-secret-invasion",
 		"tags": [
-			"tv",
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/7SgsIAwZRx2CW5uAgIQDwrw3KpA.jpg",
+		"genre_ids": [
+			99
+		],
+		"id": 1165487,
+		"original_language": "en",
+		"original_title": "Marvel Studios Assembled: The Making of the Guardians of the Galaxy Vol. 3",
+		"overview": "Join visionary director James Gunn and superstars such as Chris Pratt and Zoe Saldaña as they recount how “Guardians of the Galaxy Vol. 3” was conceived, shaped, and delivered to the world. And stand alongside the cast and crew in the emotional final moments of the shoot as they bid farewell to each other, and close this chapter in the saga of Peter Quill and his loveable band of misfit-warriors.",
+		"poster_path": "/w9rY9CT7pI3pl6ATcAS7bXrIDc5.jpg",
+		"release_date": "2023-09-13",
+		"title": "Marvel Studios Assembled: The Making of the Guardians of the Galaxy Vol. 3",
+		"video": false,
+		"vote_average": 6.7,
+		"slug": "marvel-studios-assembled-the-making-of-the-guardians-of-the-galaxy-vol-3",
+		"tags": [
+			"movie",
 			"company-420"
 		]
 	},
@@ -714,7 +676,7 @@
 		"release_date": "2023-07-19",
 		"title": "Marvel Studios Assembled: The Making of Ant-Man and the Wasp: Quantumania",
 		"video": false,
-		"vote_average": 5.8,
+		"vote_average": 6.367,
 		"slug": "marvel-studios-assembled-the-making-of-ant-man-and-the-wasp-quantumania",
 		"tags": [
 			"movie",
@@ -722,15 +684,14 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/57clBMPX25NNO6nmDw3TV3zQaQE.jpg",
-		"first_air_date": "2023-06-21",
 		"genre_ids": [
 			18,
 			10765,
 			10759
 		],
 		"id": 114472,
-		"name": "Secret Invasion",
 		"origin_country": [
 			"US"
 		],
@@ -738,7 +699,9 @@
 		"original_name": "Secret Invasion",
 		"overview": "Nick Fury and Talos discover a faction of shapeshifting Skrulls who have been infiltrating Earth for years.",
 		"poster_path": "/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg",
-		"vote_average": 7.2,
+		"first_air_date": "2023-06-21",
+		"name": "Secret Invasion",
+		"vote_average": 6.86,
 		"title": "Secret Invasion",
 		"slug": "secret-invasion",
 		"tags": [
@@ -760,11 +723,35 @@
 		"release_date": "2023-06-16",
 		"title": "Stan Lee",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.049,
 		"slug": "stan-lee",
 		"tags": [
 			"movie",
 			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/9xfDWXAUbFXQK585JvByT5pEAhe.jpg",
+		"genre_ids": [
+			16,
+			28,
+			12,
+			878
+		],
+		"id": 569094,
+		"original_language": "en",
+		"original_title": "Spider-Man: Across the Spider-Verse",
+		"overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+		"poster_path": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+		"release_date": "2023-05-31",
+		"title": "Spider-Man: Across the Spider-Verse",
+		"video": false,
+		"vote_average": 8.377,
+		"slug": "spider-man-across-the-spider-verse",
+		"tags": [
+			"movie",
+			"company-7505"
 		]
 	},
 	{
@@ -783,7 +770,7 @@
 		"release_date": "2023-05-03",
 		"title": "Guardians of the Galaxy Vol. 3",
 		"video": false,
-		"vote_average": 8.1,
+		"vote_average": 7.977,
 		"slug": "guardians-of-the-galaxy-vol-3",
 		"tags": [
 			"movie",
@@ -791,13 +778,12 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/kiEVP28wnShAA3Gu6SkCSkOpnFt.jpg",
-		"first_air_date": "2023-02-28",
 		"genre_ids": [
 			99
 		],
 		"id": 218437,
-		"name": "Voices Rising: The Music of Wakanda Forever",
 		"origin_country": [
 			"US"
 		],
@@ -805,7 +791,9 @@
 		"original_name": "Voices Rising: The Music of Wakanda Forever",
 		"overview": "A documentary series focusing on the music from Marvel Studios’ Black Panther: Wakanda Forever. The show centers on the songs and score from the movie and features interview with director Ryan Coogler, composer Ludwig Göransson, among others.",
 		"poster_path": "/tD0z0ONzplsO7JLkDk1cMTWR1Rd.jpg",
-		"vote_average": 5.8,
+		"first_air_date": "2023-02-28",
+		"name": "Voices Rising: The Music of Wakanda Forever",
+		"vote_average": 5,
 		"title": "Voices Rising: The Music of Wakanda Forever",
 		"slug": "voices-rising-the-music-of-wakanda-forever",
 		"tags": [
@@ -829,7 +817,7 @@
 		"release_date": "2023-02-15",
 		"title": "Ant-Man and the Wasp: Quantumania",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.359,
 		"slug": "ant-man-and-the-wasp-quantumania",
 		"tags": [
 			"movie",
@@ -850,7 +838,7 @@
 		"release_date": "2023-02-08",
 		"title": "Marvel Studios Assembled: The Making of Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 6.9,
+		"vote_average": 6.8,
 		"slug": "marvel-studios-assembled-the-making-of-black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -858,13 +846,12 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/sFGq4neyU2EQh0BcuEumc5RVdpp.jpg",
-		"first_air_date": "2023-01-18",
 		"genre_ids": [
 			18
 		],
 		"id": 212423,
-		"name": "Marvel Lucha Libre Edition: El origen de la máscara",
 		"origin_country": [
 			"AR",
 			"MX"
@@ -873,6 +860,8 @@
 		"original_name": "Marvel Lucha Libre Edition: El origen de la máscara",
 		"overview": "The new series was revealed during the pre-shot of AAA’s event, TripleMania XXX: CDMX, where the first trailer was shown. This new series features wrestling matches, but with wrestlers in outfits that are inspired by Marvel Super Heroes.",
 		"poster_path": "/lrSxTzfVZMig68bbX85za2gpxGb.jpg",
+		"first_air_date": "2023-01-18",
+		"name": "Marvel Lucha Libre Edition: El origen de la máscara",
 		"vote_average": 5.8,
 		"title": "Marvel Lucha Libre Edition: El origen de la máscara",
 		"slug": "marvel-lucha-libre-edition-el-origen-de-la-mascara",
@@ -897,7 +886,7 @@
 		"release_date": "2022-11-25",
 		"title": "The Guardians of the Galaxy Holiday Special",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 7.188,
 		"slug": "the-guardians-of-the-galaxy-holiday-special",
 		"tags": [
 			"movie",
@@ -920,7 +909,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 7.142,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -937,11 +926,11 @@
 		"original_language": "en",
 		"original_title": "Director by Night",
 		"overview": "Acclaimed composer Michael Giacchino made his directorial debut with Marvel Studios' Special Presentation \"Werewolf by Night.\" This behind-the-scenes special explores Giacchino's vision, style and approach to bringing the chilling story to life, as well as offering an insider's look at the between-the-scenes making of \"Werewolf by Night.\"",
-		"poster_path": "/3LbfLOMJ0MTXghP1JrUrZ1s7A0o.jpg",
+		"poster_path": "/hmaM75vvcYPd9HdiSvF683UedZS.jpg",
 		"release_date": "2022-11-04",
 		"title": "Director by Night",
 		"video": false,
-		"vote_average": 6.3,
+		"vote_average": 6.219,
 		"slug": "director-by-night",
 		"tags": [
 			"movie",
@@ -962,7 +951,7 @@
 		"release_date": "2022-11-03",
 		"title": "Marvel Studios Assembled: The Making of She-Hulk: Attorney at Law",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 6.9,
 		"slug": "marvel-studios-assembled-the-making-of-she-hulk-attorney-at-law",
 		"tags": [
 			"movie",
@@ -985,7 +974,7 @@
 		"release_date": "2022-09-25",
 		"title": "Werewolf by Night",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 7.008,
 		"slug": "werewolf-by-night",
 		"tags": [
 			"movie",
@@ -1001,12 +990,12 @@
 		"id": 1015595,
 		"original_language": "en",
 		"original_title": "Marvel Studios Assembled: The Making of Thor: Love and Thunder",
-		"overview": "Settle in with the likes of Taika Waititi, Chris Hemsworth, Natalie Portman, Christian Bale, and Tessa Thompson, and as they divulge the secrets behind the creation of Thor: Love and Thunder. Through in-depth interviews with cast and crew, along with raw, unseen footage from the set and beyond, ASSEMBLED pulls back the curtain on the God of Thunder’s fourth feature film.",
+		"overview": "Settle in with the likes of Taika Waititi, Chris Hemsworth, Natalie Portman, Christian Bale, and Tessa Thompson, and as they divulge the secrets behind the creation of Thor: Love and Thunder. Through in-depth interviews with cast and crew, along with raw, unseen footage from the set and beyond, this documentary special pulls back the curtain on the God of Thunder’s fourth feature film.",
 		"poster_path": "/eb7GP3cttApzilOOM52L129Eaaj.jpg",
 		"release_date": "2022-09-08",
 		"title": "Marvel Studios Assembled: The Making of Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 7,
 		"slug": "marvel-studios-assembled-the-making-of-thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -1014,14 +1003,13 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/eljErfkQUcFUgQkI4I1soZcH8MW.jpg",
-		"first_air_date": "2022-08-18",
 		"genre_ids": [
 			35,
 			10765
 		],
 		"id": 92783,
-		"name": "She-Hulk: Attorney at Law",
 		"origin_country": [
 			"US"
 		],
@@ -1029,7 +1017,9 @@
 		"original_name": "She-Hulk: Attorney at Law",
 		"overview": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered hulk.",
 		"poster_path": "/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
-		"vote_average": 6.4,
+		"first_air_date": "2022-08-18",
+		"name": "She-Hulk: Attorney at Law",
+		"vote_average": 6.3,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
 		"tags": [
@@ -1039,7 +1029,35 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/AugA6wCoS1yCMOwcd7HcOExjSkt.jpg",
+		"backdrop_path": "/bAnHzJ6AMhOhnV3C0kTxkpCqpgM.jpg",
+		"genre_ids": [
+			16,
+			35,
+			10751,
+			10765,
+			10762
+		],
+		"id": 232125,
+		"origin_country": [
+			"US"
+		],
+		"original_language": "en",
+		"original_name": "I Am Groot",
+		"overview": "There’s no guarding the galaxy from this mischievous toddler! Get ready as Baby Groot takes center stage in his very own collection of shorts, exploring his glory days growing up and getting into trouble among the stars.",
+		"poster_path": "/eqKNlMgG6pE1tbvTcD86NDNKlru.jpg",
+		"first_air_date": "2022-08-10",
+		"name": "I Am Groot",
+		"vote_average": 7.146,
+		"title": "I Am Groot",
+		"slug": "i-am-groot",
+		"tags": [
+			"tv",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/9bColKVEAaWfmOLiLZoUhdYfevy.jpg",
 		"genre_ids": [
 			16,
 			10751,
@@ -1054,7 +1072,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot's First Steps",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 7.039,
 		"slug": "groots-first-steps",
 		"tags": [
 			"movie",
@@ -1078,7 +1096,7 @@
 		"release_date": "2022-08-10",
 		"title": "The Little Guy",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.334,
 		"slug": "the-little-guy",
 		"tags": [
 			"movie",
@@ -1102,7 +1120,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot's Pursuit",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7.134,
 		"slug": "groots-pursuit",
 		"tags": [
 			"movie",
@@ -1126,7 +1144,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot Takes a Bath",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7.129,
 		"slug": "groot-takes-a-bath",
 		"tags": [
 			"movie",
@@ -1147,7 +1165,7 @@
 		"release_date": "2022-08-03",
 		"title": "Marvel Studios Assembled: The Making of Ms. Marvel",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 7.1,
 		"slug": "marvel-studios-assembled-the-making-of-ms-marvel",
 		"tags": [
 			"movie",
@@ -1171,7 +1189,7 @@
 		"release_date": "2022-07-18",
 		"title": "Magnum Opus",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.327,
 		"slug": "magnum-opus",
 		"tags": [
 			"movie",
@@ -1192,7 +1210,7 @@
 		"release_date": "2022-07-08",
 		"title": "Marvel Studios Assembled: The Making of Doctor Strange in the Multiverse of Madness",
 		"video": false,
-		"vote_average": 7.6,
+		"vote_average": 7.1,
 		"slug": "marvel-studios-assembled-the-making-of-doctor-strange-in-the-multiverse-of-madness",
 		"tags": [
 			"movie",
@@ -1215,7 +1233,7 @@
 		"release_date": "2022-07-06",
 		"title": "Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.474,
 		"slug": "thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -1223,15 +1241,14 @@
 		]
 	},
 	{
-		"backdrop_path": "/8JSZxdCjS1T4ua3nKCycxE7am4E.jpg",
-		"first_air_date": "2022-06-08",
+		"adult": false,
+		"backdrop_path": "/rlCRM7U5g2hcU1O8ylGcqsMYHIP.jpg",
 		"genre_ids": [
 			10765,
 			10759,
 			35
 		],
 		"id": 92782,
-		"name": "Ms. Marvel",
 		"origin_country": [
 			"US"
 		],
@@ -1239,7 +1256,9 @@
 		"original_name": "Ms. Marvel",
 		"overview": "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school — that is, until she gets superpowers like the heroes she’s always looked up to. Life is easier with superpowers, right?",
 		"poster_path": "/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
-		"vote_average": 6.6,
+		"first_air_date": "2022-06-08",
+		"name": "Ms. Marvel",
+		"vote_average": 6.507,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
 		"tags": [
@@ -1261,7 +1280,7 @@
 		"release_date": "2022-06-01",
 		"title": "A Fan's Guide to Ms. Marvel",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7.06,
 		"slug": "a-fans-guide-to-ms-marvel",
 		"tags": [
 			"movie",
@@ -1282,7 +1301,7 @@
 		"release_date": "2022-05-25",
 		"title": "Marvel Studios Assembled: The Making of Moon Knight",
 		"video": false,
-		"vote_average": 7.4,
+		"vote_average": 7.181,
 		"slug": "marvel-studios-assembled-the-making-of-moon-knight",
 		"tags": [
 			"movie",
@@ -1291,7 +1310,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/iKUwhA4DUxMcNKu5lLSbDFwwilk.jpg",
+		"backdrop_path": "/gUNRlH66yNDH3NQblYMIwgZXJ2u.jpg",
 		"genre_ids": [
 			14,
 			28,
@@ -1305,7 +1324,7 @@
 		"release_date": "2022-05-04",
 		"title": "Doctor Strange in the Multiverse of Madness",
 		"video": false,
-		"vote_average": 7.4,
+		"vote_average": 7.318,
 		"slug": "doctor-strange-in-the-multiverse-of-madness",
 		"tags": [
 			"movie",
@@ -1313,15 +1332,14 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/iux1vKPT7Vw1AzetZb4Jz6wfYsm.jpg",
-		"first_air_date": "2022-03-30",
 		"genre_ids": [
 			10759,
 			10765,
 			9648
 		],
 		"id": 92749,
-		"name": "Moon Knight",
 		"origin_country": [
 			"US"
 		],
@@ -1329,7 +1347,9 @@
 		"original_name": "Moon Knight",
 		"overview": "When Steven Grant, a mild-mannered gift-shop employee, becomes plagued with blackouts and memories of another life, he discovers he has dissociative identity disorder and shares a body with mercenary Marc Spector. As Steven/Marc’s enemies converge upon them, they must navigate their complex identities while thrust into a deadly mystery among the powerful gods of Egypt.",
 		"poster_path": "/vKDUmKO6F9bSKKyHhg7YGbgcEeF.jpg",
-		"vote_average": 7.8,
+		"first_air_date": "2022-03-30",
+		"name": "Moon Knight",
+		"vote_average": 7.747,
 		"title": "Moon Knight",
 		"slug": "moon-knight",
 		"tags": [
@@ -1339,7 +1359,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/gBh15609apMzMgcafijKNBxdeTS.jpg",
+		"backdrop_path": "/imkqp2S4ZXEGczb59ciF6IYVwnW.jpg",
 		"genre_ids": [
 			99
 		],
@@ -1351,7 +1371,7 @@
 		"release_date": "2022-02-16",
 		"title": "Marvel Studios Assembled: The Making of Eternals",
 		"video": false,
-		"vote_average": 7.4,
+		"vote_average": 7.3,
 		"slug": "marvel-studios-assembled-the-making-of-eternals",
 		"tags": [
 			"movie",
@@ -1372,7 +1392,7 @@
 		"release_date": "2022-02-09",
 		"title": "Marvel Studios Assembled: The Making of Hawkeye",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7,
 		"slug": "marvel-studios-assembled-the-making-of-hawkeye",
 		"tags": [
 			"movie",
@@ -1395,7 +1415,7 @@
 		"release_date": "2021-12-15",
 		"title": "Spider-Man: No Way Home",
 		"video": false,
-		"vote_average": 8,
+		"vote_average": 7.973,
 		"slug": "spider-man-no-way-home",
 		"tags": [
 			"movie",
@@ -1403,23 +1423,24 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/1R68vl3d5s86JsS2NPjl8UoMqIS.jpg",
-		"first_air_date": "2021-11-24",
 		"genre_ids": [
 			18,
 			35,
 			10759
 		],
 		"id": 88329,
-		"name": "Hawkeye",
 		"origin_country": [
 			"US"
 		],
 		"original_language": "en",
 		"original_name": "Hawkeye",
 		"overview": "Former Avenger Clint Barton has a seemingly simple mission: get back to his family for Christmas. Possible? Maybe with the help of Kate Bishop, a 22-year-old archer with dreams of becoming a superhero. The two are forced to work together when a presence from Barton’s past threatens to derail far more than the festive spirit.",
-		"poster_path": "/uQdAET8dl403BIVktl5gjtzXRDT.jpg",
-		"vote_average": 8,
+		"poster_path": "/ct5pNE5dDHryHLDnxyZPYcqO1sz.jpg",
+		"first_air_date": "2021-11-24",
+		"name": "Hawkeye",
+		"vote_average": 7.903,
 		"title": "Hawkeye",
 		"slug": "hawkeye",
 		"tags": [
@@ -1428,14 +1449,13 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/yT5ZZ3kOtCzJJVLKKp2YCNrOKrh.jpg",
-		"first_air_date": "2021-11-17",
 		"genre_ids": [
 			16,
 			10759
 		],
 		"id": 133903,
-		"name": "Marvel's Hit-Monkey",
 		"origin_country": [
 			"US"
 		],
@@ -1443,7 +1463,9 @@
 		"original_name": "Marvel's Hit-Monkey",
 		"overview": "A Japanese snow macaque's clan meets a stranded hitman, Bryce, and nurses him back to health. But when Bryce bites the dust, it's up to the titular simian (guided by Bryce's ghost) to follow in his assassin footsteps and seek vengeance.",
 		"poster_path": "/1aK7hApRSDUv8xxDQXyQil7qBjN.jpg",
-		"vote_average": 8,
+		"first_air_date": "2021-11-17",
+		"name": "Marvel's Hit-Monkey",
+		"vote_average": 7.754,
 		"title": "Marvel's Hit-Monkey",
 		"slug": "marvels-hit-monkey",
 		"tags": [
@@ -1465,7 +1487,7 @@
 		"release_date": "2021-11-12",
 		"title": "Marvel Studios' 2021 Disney+ Day Special",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.808,
 		"slug": "marvel-studios-2021-disney-day-special",
 		"tags": [
 			"movie",
@@ -1488,34 +1510,11 @@
 		"release_date": "2021-11-03",
 		"title": "Eternals",
 		"video": false,
-		"vote_average": 6.9,
+		"vote_average": 6.888,
 		"slug": "eternals",
 		"tags": [
 			"movie",
 			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/vIgyYkXkg6NC2whRbYjBD7eb3Er.jpg",
-		"genre_ids": [
-			878,
-			28,
-			12
-		],
-		"id": 580489,
-		"original_language": "en",
-		"original_title": "Venom: Let There Be Carnage",
-		"overview": "After finding a host body in investigative reporter Eddie Brock, the alien symbiote must face a new enemy, Carnage, the alter ego of serial killer Cletus Kasady.",
-		"poster_path": "/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg",
-		"release_date": "2021-09-30",
-		"title": "Venom: Let There Be Carnage",
-		"video": false,
-		"vote_average": 6.8,
-		"slug": "venom-let-there-be-carnage",
-		"tags": [
-			"movie",
-			"company-7505"
 		]
 	},
 	{
@@ -1530,11 +1529,11 @@
 		"original_language": "en",
 		"original_title": "Shang-Chi and the Legend of the Ten Rings",
 		"overview": "Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.",
-		"poster_path": "/d08HqqeBQSwN8i8MEvpsZ8Cb438.jpg",
+		"poster_path": "/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg",
 		"release_date": "2021-09-01",
 		"title": "Shang-Chi and the Legend of the Ten Rings",
 		"video": false,
-		"vote_average": 7.6,
+		"vote_average": 7.563,
 		"slug": "shang-chi-and-the-legend-of-the-ten-rings",
 		"tags": [
 			"movie",
@@ -1542,23 +1541,24 @@
 		]
 	},
 	{
-		"backdrop_path": "/4N6zEMfZ57zNEQcM8gWeERFupMv.jpg",
-		"first_air_date": "2021-08-11",
+		"adult": false,
+		"backdrop_path": "/xuCHkaxkkm9pPum1SByC0dhvR2U.jpg",
 		"genre_ids": [
 			16,
 			10759,
 			10765
 		],
 		"id": 91363,
-		"name": "What If...?",
 		"origin_country": [
 			"US"
 		],
 		"original_language": "en",
 		"original_name": "What If...?",
-		"overview": "Taking inspiration from the comic books of the same name, each episode explores a pivotal moment from the Marvel Cinematic Universe and turns it on its head, leading the audience into uncharted territory.",
-		"poster_path": "/lztz5XBMG1x6Y5ubz7CxfPFsAcW.jpg",
-		"vote_average": 8.2,
+		"overview": "Taking inspiration from the comic books of the same name, each episode of this animated anthology series questions, revisits and twists classic Marvel Cinematic moments.",
+		"poster_path": "/rWg4Jk7NwVEz2BtU1aKKDoDJPeB.jpg",
+		"first_air_date": "2021-08-11",
+		"name": "What If...?",
+		"vote_average": 8.172,
 		"title": "What If...?",
 		"slug": "what-if",
 		"tags": [
@@ -1567,14 +1567,14 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/7CvmnHAVxhDbYE7jPp0PbKunqqs.jpg",
-		"first_air_date": "2021-08-06",
 		"genre_ids": [
 			10762,
-			16
+			16,
+			35
 		],
 		"id": 127635,
-		"name": "Marvel's Spidey and His Amazing Friends",
 		"origin_country": [
 			"US"
 		],
@@ -1582,11 +1582,14 @@
 		"original_name": "Marvel's Spidey and His Amazing Friends",
 		"overview": "Follow Peter Parker, Gwen Stacy and Miles Morales and their adventures as the young heroes team up with Hulk, Ms. Marvel and Black Panther to defeat foes like Rhino, Doc Ock and Green Goblin and learn that teamwork is the best way to save the day.",
 		"poster_path": "/etO5jDS5WgR4Y1lTyXhQcilJ6u2.jpg",
-		"vote_average": 7.4,
+		"first_air_date": "2021-08-06",
+		"name": "Marvel's Spidey and His Amazing Friends",
+		"vote_average": 7.3,
 		"title": "Marvel's Spidey and His Amazing Friends",
 		"slug": "marvels-spidey-and-his-amazing-friends",
 		"tags": [
 			"tv",
+			"company-7505",
 			"company-420"
 		]
 	},
@@ -1606,7 +1609,7 @@
 		"release_date": "2021-07-07",
 		"title": "Black Widow",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.263,
 		"slug": "black-widow",
 		"tags": [
 			"movie",
@@ -1615,44 +1618,22 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/708m7sERbCF4S4yclm1nK6tHtve.jpg",
-		"genre_ids": [
-			16,
-			35,
-			10751
-		],
-		"id": 846214,
-		"original_language": "en",
-		"original_title": "The Simpsons: The Good, the Bart, and the Loki",
-		"overview": "Loki is banished from Asgard once again and must face his toughest opponents yet: the Simpsons and Springfield’s mightiest heroes. The God of Mischief teams up with Bart Simpson in the ultimate crossover event paying tribute to the Marvel Cinematic Universe of superheroes and villains.",
-		"poster_path": "/rtMdtzywcAGOrF6t8fbxJBqpdcq.jpg",
-		"release_date": "2021-07-07",
-		"title": "The Simpsons: The Good, the Bart, and the Loki",
-		"video": false,
-		"vote_average": 7.3,
-		"slug": "the-simpsons-the-good-the-bart-and-the-loki",
-		"tags": [
-			"movie",
-			"company-38679"
-		]
-	},
-	{
-		"backdrop_path": "/rzGcehSDAon8Y1zV2TGQkKM76Y6.jpg",
-		"first_air_date": "2021-06-09",
+		"backdrop_path": "/q3jHCb4dMfYF6ojikKuHd6LscxC.jpg",
 		"genre_ids": [
 			18,
 			10765
 		],
 		"id": 84958,
-		"name": "Loki",
 		"origin_country": [
 			"US"
 		],
 		"original_language": "en",
 		"original_name": "Loki",
 		"overview": "After stealing the Tesseract during the events of “Avengers: Endgame,” an alternate version of Loki is brought to the mysterious Time Variance Authority, a bureaucratic organization that exists outside of time and space and monitors the timeline. They give Loki a choice: face being erased from existence due to being a “time variant” or help fix the timeline and stop a greater threat.",
-		"poster_path": "/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg",
-		"vote_average": 8.2,
+		"poster_path": "/voHUmluYmKyleFkTu3lOXQG702u.jpg",
+		"first_air_date": "2021-06-09",
+		"name": "Loki",
+		"vote_average": 8.179,
 		"title": "Loki",
 		"slug": "loki",
 		"tags": [
@@ -1661,8 +1642,8 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/zFOn9MgW1oSGyc8HKUAI3bV8NPc.jpg",
-		"first_air_date": "2021-05-21",
 		"genre_ids": [
 			35,
 			16,
@@ -1670,7 +1651,6 @@
 			10765
 		],
 		"id": 111312,
-		"name": "Marvel's M.O.D.O.K.",
 		"origin_country": [
 			"US"
 		],
@@ -1678,7 +1658,9 @@
 		"original_name": "Marvel's M.O.D.O.K.",
 		"overview": "The megalomaniacal supervillain M.O.D.O.K. has long pursued his dream of one day conquering the world. But after years of setbacks and failures fighting the Earth’s mightiest heroes, M.O.D.O.K. has run his evil organization A.I.M. into the ground. Ousted as A.I.M.’s leader, while also dealing with his crumbling marriage and family life, the Mental Organism Designed Only for Killing is set to confront his greatest challenge yet: a midlife crisis!",
 		"poster_path": "/dOOFAtzsRQ641p2NL4s4nyThJSO.jpg",
-		"vote_average": 6.8,
+		"first_air_date": "2021-05-21",
+		"name": "Marvel's M.O.D.O.K.",
+		"vote_average": 6.761,
 		"title": "Marvel's M.O.D.O.K.",
 		"slug": "marvels-modok",
 		"tags": [
@@ -1687,14 +1669,13 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/aTjbqMONy77fHJrIYu14g1F0d5h.jpg",
-		"first_air_date": "2021-03-19",
 		"genre_ids": [
 			10759,
 			18
 		],
 		"id": 88396,
-		"name": "The Falcon and the Winter Soldier",
 		"origin_country": [
 			"US"
 		],
@@ -1702,7 +1683,9 @@
 		"original_name": "The Falcon and the Winter Soldier",
 		"overview": "Following the events of “Avengers: Endgame”, the Falcon, Sam Wilson and the Winter Soldier, Bucky Barnes team up in a global adventure that tests their abilities, and their patience.",
 		"poster_path": "/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
-		"vote_average": 7.7,
+		"first_air_date": "2021-03-19",
+		"name": "The Falcon and the Winter Soldier",
+		"vote_average": 7.667,
 		"title": "The Falcon and the Winter Soldier",
 		"slug": "the-falcon-and-the-winter-soldier",
 		"tags": [
@@ -1711,13 +1694,12 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/bltNf2ajBm3wkfiF5Lglw7DS0vk.jpg",
-		"first_air_date": "2021-03-12",
 		"genre_ids": [
 			99
 		],
 		"id": 118924,
-		"name": "Marvel Studios Assembled",
 		"origin_country": [
 			"US"
 		],
@@ -1725,7 +1707,9 @@
 		"original_name": "Marvel Studios Assembled",
 		"overview": "Go behind the scenes of the shows and movies of the Marvel Cinematic Universe, following the filmmakers, cast and crew, and Marvel heroes every step of the way.",
 		"poster_path": "/v2BHRwtQVkt5fssLdo5MpFgHJPY.jpg",
-		"vote_average": 7.4,
+		"first_air_date": "2021-03-12",
+		"name": "Marvel Studios Assembled",
+		"vote_average": 7.2,
 		"title": "Marvel Studios Assembled",
 		"slug": "marvel-studios-assembled",
 		"tags": [
@@ -1747,7 +1731,7 @@
 		"release_date": "2021-02-12",
 		"title": "Marvel's Behind the Mask",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7.08,
 		"slug": "marvels-behind-the-mask",
 		"tags": [
 			"movie",
@@ -1755,23 +1739,24 @@
 		]
 	},
 	{
-		"backdrop_path": "/33j33midGw49BBxiqlNZeZ6PZ0O.jpg",
-		"first_air_date": "2021-01-15",
+		"adult": false,
+		"backdrop_path": "/lOr9NKxh4vMweufMOUDJjJhCRHW.jpg",
 		"genre_ids": [
 			10765,
 			9648,
 			18
 		],
 		"id": 85271,
-		"name": "WandaVision",
 		"origin_country": [
 			"US"
 		],
 		"original_language": "en",
 		"original_name": "WandaVision",
 		"overview": "Wanda Maximoff and Vision—two super-powered beings living idealized suburban lives—begin to suspect that everything is not as it seems.",
-		"poster_path": "/frobUz2X5Pc8OiVZU8Oo5K3NKMM.jpg",
-		"vote_average": 8.3,
+		"poster_path": "/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
+		"first_air_date": "2021-01-15",
+		"name": "WandaVision",
+		"vote_average": 8.245,
 		"title": "WandaVision",
 		"slug": "wandavision",
 		"tags": [
@@ -1780,15 +1765,14 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/wAEWZm2pSopAbqE5dQWE0ET8aR5.jpg",
-		"first_air_date": "2021-01-08",
 		"genre_ids": [
 			99,
 			10759,
 			10765
 		],
 		"id": 114695,
-		"name": "Marvel Studios Legends",
 		"origin_country": [
 			"US"
 		],
@@ -1796,7 +1780,9 @@
 		"original_name": "Marvel Studios Legends",
 		"overview": "Revisit the epic heroes, villains and moments from across the MCU in preparation for the stories still to come. Each dynamic segment feeds directly into the upcoming series — setting the stage for future events. This series weaves together the many threads that constitute the unparalleled Marvel Cinematic Universe.",
 		"poster_path": "/EpDuYIK81YtCUT3gH2JDpyj8Qk.jpg",
-		"vote_average": 7.4,
+		"first_air_date": "2021-01-08",
+		"name": "Marvel Studios Legends",
+		"vote_average": 7.393,
 		"title": "Marvel Studios Legends",
 		"slug": "marvel-studios-legends",
 		"tags": [
@@ -1805,15 +1791,14 @@
 		]
 	},
 	{
-		"backdrop_path": "/22q9jvuQ6wGBOpr4JPMmTq7WcKd.jpg",
-		"first_air_date": "2020-10-16",
+		"adult": false,
+		"backdrop_path": "/qCReQONjNVaW4QFN2V5vCOzPvex.jpg",
 		"genre_ids": [
 			10759,
 			10765,
 			18
 		],
 		"id": 88987,
-		"name": "Helstrom",
 		"origin_country": [
 			"US"
 		],
@@ -1821,7 +1806,9 @@
 		"original_name": "Helstrom",
 		"overview": "Daimon and Ana Helstrom are the son and daughter of a mysterious and powerful serial killer. The siblings have a complicated dynamic as they track down the terrorizing worst of humanity — each with their attitude and skills.",
 		"poster_path": "/8fPIcaRIZgsoBcgA5yAm3GNz61M.jpg",
-		"vote_average": 6.8,
+		"first_air_date": "2020-10-16",
+		"name": "Helstrom",
+		"vote_average": 6.7,
 		"title": "Helstrom",
 		"slug": "helstrom",
 		"tags": [
@@ -1830,14 +1817,13 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/uQ74RD6wRLE3qOWU8Wie6ouzKaA.jpg",
-		"first_air_date": "2020-06-17",
 		"genre_ids": [
 			16,
 			10759
 		],
 		"id": 113903,
-		"name": "Marvel Battleworld: Mystery of the Thanostones",
 		"origin_country": [
 			"US"
 		],
@@ -1845,6 +1831,8 @@
 		"original_name": "Marvel Battleworld: Mystery of the Thanostones",
 		"overview": "Can Iron Man and this rag-tag group - Captain Marvel, Spider-Ham, Groot, and Throg - figure out what the Mad Titan Thanos wants and why they've been brought to this strange, new world?",
 		"poster_path": "/wu7VuEO9eRCtul31pV8MvWwAxyI.jpg",
+		"first_air_date": "2020-06-17",
+		"name": "Marvel Battleworld: Mystery of the Thanostones",
 		"vote_average": 5,
 		"title": "Marvel Battleworld: Mystery of the Thanostones",
 		"slug": "marvel-battleworld-mystery-of-the-thanostones",
@@ -1856,6 +1844,15 @@
 	{
 		"adult": false,
 		"backdrop_path": "/eCIvqa3QVCx6H09bdeOS8Al2Sqy.jpg",
+		"id": 340102,
+		"title": "The New Mutants",
+		"original_language": "en",
+		"original_title": "The New Mutants",
+		"overview": "Five young mutants, just discovering their abilities while held in a secret facility against their will, fight to escape their past sins and save themselves.",
+		"poster_path": "/xZNw9xxtwbEf25NYoz52KdbXHPM.jpg",
+		"media_type": "movie",
+		"runtime": 94,
+		"revenue": 49169594,
 		"genre_ids": [
 			878,
 			27,
@@ -1863,16 +1860,9 @@
 			9648,
 			12
 		],
-		"id": 340102,
-		"media_type": "movie",
-		"original_language": "en",
-		"original_title": "The New Mutants",
-		"overview": "Five young mutants, just discovering their abilities while held in a secret facility against their will, fight to escape their past sins and save themselves.",
-		"poster_path": "/wI95esQmT9F8eC1wchoRm2ua2HX.jpg",
 		"release_date": "2020-04-02",
-		"title": "The New Mutants",
 		"video": false,
-		"vote_average": 6.2,
+		"vote_average": 6.118,
 		"slug": "the-new-mutants",
 		"tags": [
 			"list-8204860"
@@ -1893,7 +1883,7 @@
 		"release_date": "2019-12-20",
 		"title": "Celebrating Marvel's Stan Lee",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.313,
 		"slug": "celebrating-marvels-stan-lee",
 		"tags": [
 			"movie",
@@ -1914,7 +1904,7 @@
 		"release_date": "2019-11-12",
 		"title": "Marvel Studios: Expanding the Universe",
 		"video": false,
-		"vote_average": 5.7,
+		"vote_average": 5.87,
 		"slug": "marvel-studios-expanding-the-universe",
 		"tags": [
 			"movie",
@@ -1933,7 +1923,7 @@
 		"original_language": "en",
 		"original_title": "Peter's To-Do List",
 		"overview": "On the eve of his departure to Europe, Peter Parker tells Ned Leeds that he has several things to do before they leave.",
-		"poster_path": "/ohnN1gVREFJXJJv35BaBHladKoA.jpg",
+		"poster_path": "/2LoW0WMYHwhxXQr1wz6xCVRiX9.jpg",
 		"release_date": "2019-09-17",
 		"title": "Peter's To-Do List",
 		"video": false,
@@ -1945,11 +1935,10 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": null,
-		"first_air_date": "2019-08-14",
 		"genre_ids": [],
 		"id": 225735,
-		"name": "Marvel Ultimate Comics: Absolute Carnage",
 		"origin_country": [
 			"US"
 		],
@@ -1957,6 +1946,8 @@
 		"original_name": "Marvel Ultimate Comics: Absolute Carnage",
 		"overview": "Norman Osborn’s compulsion to destroy Spider-Man led to him joining with the Carnage symbiote to become the Red Goblin! But when he was defeated & the symbiote was violently ripped from him, it broke his psyche & made him believe he was Cletus Kasady",
 		"poster_path": null,
+		"first_air_date": "2019-08-14",
+		"name": "Marvel Ultimate Comics: Absolute Carnage",
 		"vote_average": 0,
 		"title": "Marvel Ultimate Comics: Absolute Carnage",
 		"slug": "marvel-ultimate-comics-absolute-carnage",
@@ -1981,7 +1972,7 @@
 		"release_date": "2019-06-28",
 		"title": "Spider-Man: Far From Home",
 		"video": false,
-		"vote_average": 7.5,
+		"vote_average": 7.435,
 		"slug": "spider-man-far-from-home",
 		"tags": [
 			"movie",
@@ -1992,25 +1983,28 @@
 		"adult": false,
 		"backdrop_path": "/cjRUhKyt2Jo3V1KNzc5tpPNfccG.jpg",
 		"genre_ids": [
-			14,
 			878,
 			28,
 			12
 		],
 		"id": 320288,
-		"media_type": "movie",
 		"original_language": "en",
 		"original_title": "Dark Phoenix",
 		"overview": "The X-Men face their most formidable and powerful foe when one of their own, Jean Grey, starts to spiral out of control. During a rescue mission in outer space, Jean is nearly killed when she's hit by a mysterious cosmic force. Once she returns home, this force not only makes her infinitely more powerful, but far more unstable. The X-Men must now band together to save her soul and battle aliens that want to use Grey's new abilities to rule the galaxy.",
-		"poster_path": "/kZv92eTc0Gg3mKxqjjDAM73z9cy.jpg",
+		"poster_path": "/gUGhbJVZAOBAf5Zg6OHF6JWrABf.jpg",
 		"release_date": "2019-06-05",
 		"title": "Dark Phoenix",
 		"video": false,
-		"vote_average": 6,
+		"vote_average": 5.982,
 		"slug": "dark-phoenix",
 		"tags": [
+			"movie",
+			"company-7505",
 			"list-8204860"
-		]
+		],
+		"media_type": "movie",
+		"runtime": 114,
+		"revenue": 252442974
 	},
 	{
 		"adult": false,
@@ -2028,7 +2022,7 @@
 		"release_date": "2019-04-24",
 		"title": "Avengers: Endgame",
 		"video": false,
-		"vote_average": 8.3,
+		"vote_average": 8.256,
 		"slug": "avengers-endgame",
 		"tags": [
 			"movie",
@@ -2037,7 +2031,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/ojdR6xR1rBnDvjXgcgwHnes6qXU.jpg",
+		"backdrop_path": "/fgZWez3fbQ9Dija8Ka4IGShNk6M.jpg",
 		"genre_ids": [
 			16,
 			28,
@@ -2053,7 +2047,7 @@
 		"release_date": "2019-03-19",
 		"title": "Spider-Ham: Caught in a Ham",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 6.9,
 		"slug": "spider-ham-caught-in-a-ham",
 		"tags": [
 			"movie",
@@ -2062,7 +2056,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/k5V2cbDZvYIu6BKIK0Q0KGyAUDB.jpg",
+		"backdrop_path": "/qAzYK4YPSWDc7aa4R43LcwRIAyb.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -2076,7 +2070,7 @@
 		"release_date": "2019-03-06",
 		"title": "Captain Marvel",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.829,
 		"slug": "captain-marvel",
 		"tags": [
 			"movie",
@@ -2100,7 +2094,7 @@
 		"release_date": "2019-01-16",
 		"title": "Marvel Rising: Chasing Ghosts",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 6.8,
 		"slug": "marvel-rising-chasing-ghosts",
 		"tags": [
 			"movie",
@@ -2111,19 +2105,21 @@
 	{
 		"adult": false,
 		"backdrop_path": "/5ZSwZPKgcTJJwhxjbOHeoBTVaKh.jpg",
+		"id": 567604,
+		"title": "Once Upon a Deadpool",
+		"original_language": "en",
+		"original_title": "Once Upon a Deadpool",
+		"overview": "A kidnapped Fred Savage is forced to endure Deadpool's PG-13 rendition of Deadpool 2 as a Princess Bride-esque story that's full of magic, wonder & zero F's.",
+		"poster_path": "/5Ka49BWWyKMXr93YMbH5wLN7aAM.jpg",
+		"media_type": "movie",
+		"runtime": 118,
+		"revenue": 51349833,
 		"genre_ids": [
 			35,
 			28,
 			12
 		],
-		"id": 567604,
-		"media_type": "movie",
-		"original_language": "en",
-		"original_title": "Once Upon a Deadpool",
-		"overview": "A kidnapped Fred Savage is forced to endure Deadpool's PG-13 rendition of Deadpool 2 as a Princess Bride-esque story that's full of magic, wonder & zero F's.",
-		"poster_path": "/5Ka49BWWyKMXr93YMbH5wLN7aAM.jpg",
 		"release_date": "2018-12-11",
-		"title": "Once Upon a Deadpool",
 		"video": false,
 		"vote_average": 7.1,
 		"slug": "once-upon-a-deadpool",
@@ -2134,22 +2130,24 @@
 	{
 		"adult": false,
 		"backdrop_path": "/qGQf2OHIkoh89K8XeKQzhxczf96.jpg",
-		"genre_ids": [
-			28,
-			12,
-			16,
-			878
-		],
 		"id": 324857,
-		"media_type": "movie",
+		"title": "Spider-Man: Into the Spider-Verse",
 		"original_language": "en",
 		"original_title": "Spider-Man: Into the Spider-Verse",
 		"overview": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
 		"poster_path": "/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+		"media_type": "movie",
+		"runtime": 117,
+		"revenue": 384298736,
+		"genre_ids": [
+			16,
+			28,
+			12,
+			878
+		],
 		"release_date": "2018-12-06",
-		"title": "Spider-Man: Into the Spider-Verse",
 		"video": false,
-		"vote_average": 8.4,
+		"vote_average": 8.405,
 		"slug": "spider-man-into-the-spider-verse",
 		"tags": [
 			"list-8204859"
@@ -2170,7 +2168,7 @@
 		"release_date": "2018-09-28",
 		"title": "Venom",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.826,
 		"slug": "venom",
 		"tags": [
 			"movie",
@@ -2189,11 +2187,11 @@
 		"original_language": "en",
 		"original_title": "Ant-Man and the Wasp",
 		"overview": "Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.",
-		"poster_path": "/2mnK5VtjzYRWvQB1zLhZWtAJwzk.jpg",
+		"poster_path": "/cFQEO687n1K6umXbInzocxcnAQz.jpg",
 		"release_date": "2018-07-04",
 		"title": "Ant-Man and the Wasp",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 6.942,
 		"slug": "ant-man-and-the-wasp",
 		"tags": [
 			"movie",
@@ -2201,15 +2199,14 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/4amkATUf2mh5QL9OQ3WmHQqx9wk.jpg",
-		"first_air_date": "2018-06-07",
 		"genre_ids": [
 			10759,
 			18,
 			10765
 		],
 		"id": 66190,
-		"name": "Marvel's Cloak & Dagger",
 		"origin_country": [
 			"US"
 		],
@@ -2217,7 +2214,9 @@
 		"original_name": "Marvel's Cloak & Dagger",
 		"overview": "Two teenagers from very different backgrounds awaken to newly acquired superpowers which mysteriously link them to one another.",
 		"poster_path": "/pYnRJuBPEqZO1o4fcxBTgmKNHfy.jpg",
-		"vote_average": 7.3,
+		"first_air_date": "2018-06-07",
+		"name": "Marvel's Cloak & Dagger",
+		"vote_average": 7.2,
 		"title": "Marvel's Cloak & Dagger",
 		"slug": "marvels-cloak-and-dagger",
 		"tags": [
@@ -2237,11 +2236,11 @@
 		"original_language": "en",
 		"original_title": "LEGO Marvel Super Heroes: Black Panther - Trouble in Wakanda",
 		"overview": "After speaking at the Wakanda Embassy, Black Panther fights Thanos and fends him off with the help of fellow Avengers Captain America, Thor, Iron Man, Hulk, and Black Widow. After regaining conscious, Thanos is approached by Erik Killmonger and Ulysses Klaue in a plot where they will obtain the Vibranium in Wakanda to empower Thanos. When Black Panther discovers this plot, he must work with Shuri, Okoye, and the Avengers to defeat them.",
-		"poster_path": "/2t6V87sYjESrtBj9flbHWhZKtAp.jpg",
+		"poster_path": "/auiRFbbnMhnclaIMNGcQg0Uba8Y.jpg",
 		"release_date": "2018-06-04",
 		"title": "LEGO Marvel Super Heroes: Black Panther - Trouble in Wakanda",
 		"video": false,
-		"vote_average": 6,
+		"vote_average": 5.991,
 		"slug": "lego-marvel-super-heroes-black-panther-trouble-in-wakanda",
 		"tags": [
 			"movie",
@@ -2251,21 +2250,23 @@
 	{
 		"adult": false,
 		"backdrop_path": "/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+		"id": 383498,
+		"title": "Deadpool 2",
+		"original_language": "en",
+		"original_title": "Deadpool 2",
+		"overview": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
+		"poster_path": "/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+		"media_type": "movie",
+		"runtime": 120,
+		"revenue": 785896632,
 		"genre_ids": [
 			28,
 			35,
 			12
 		],
-		"id": 383498,
-		"media_type": "movie",
-		"original_language": "en",
-		"original_title": "Deadpool 2",
-		"overview": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
-		"poster_path": "/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
 		"release_date": "2018-05-10",
-		"title": "Deadpool 2",
 		"video": false,
-		"vote_average": 7.5,
+		"vote_average": 7.488,
 		"slug": "deadpool-2",
 		"tags": [
 			"list-8204860"
@@ -2287,7 +2288,7 @@
 		"release_date": "2018-04-25",
 		"title": "Avengers: Infinity War",
 		"video": false,
-		"vote_average": 8.3,
+		"vote_average": 8.248,
 		"slug": "avengers-infinity-war",
 		"tags": [
 			"movie",
@@ -2296,7 +2297,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/wL56346BF1eMElIGtqWLiILcfbU.jpg",
+		"backdrop_path": "/bZtu0UE0afN3jrkoUSJP8eO9yU.jpg",
 		"genre_ids": [
 			35
 		],
@@ -2304,11 +2305,11 @@
 		"original_language": "en",
 		"original_title": "Team Darryl",
 		"overview": "Fresh off being unseated as the ruler of Sakaar, the Grandmaster makes his way to Earth to start a new life. It's been over a year since Thor left Australia and Darryl has been struggling to pay his rent. Now Darryl needs a new roommate to help make the monthly payments. Unfortunately for Darryl, the Grandmaster was the only one who answered Darryl's \"Roommate Needed\" ad and with no viable options, the Grandmaster moves in.",
-		"poster_path": "/axlLFvTfV4W8zbWby7H4vf1vMPq.jpg",
+		"poster_path": "/edroTAeTEM9ILyAnumA0ALxRSne.jpg",
 		"release_date": "2018-02-20",
 		"title": "Team Darryl",
 		"video": false,
-		"vote_average": 6.2,
+		"vote_average": 6.154,
 		"slug": "team-darryl",
 		"tags": [
 			"movie",
@@ -2331,7 +2332,7 @@
 		"release_date": "2018-02-13",
 		"title": "Black Panther",
 		"video": false,
-		"vote_average": 7.4,
+		"vote_average": 7.386,
 		"slug": "black-panther",
 		"tags": [
 			"movie",
@@ -2354,7 +2355,7 @@
 		"release_date": "2017-12-09",
 		"title": "LEGO Marvel Super Heroes: Guardians of the Galaxy - The Thanos Threat",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 6.759,
 		"slug": "lego-marvel-super-heroes-guardians-of-the-galaxy-the-thanos-threat",
 		"tags": [
 			"movie",
@@ -2362,8 +2363,8 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/7PYAUaJzzUVxS4xiJHFe338vJd1.jpg",
-		"first_air_date": "2017-11-21",
 		"genre_ids": [
 			10759,
 			80,
@@ -2371,7 +2372,6 @@
 			10765
 		],
 		"id": 67466,
-		"name": "Marvel's Runaways",
 		"origin_country": [
 			"US"
 		],
@@ -2379,7 +2379,9 @@
 		"original_name": "Marvel's Runaways",
 		"overview": "Every teenager thinks their parents are evil. What if you found out they actually were? Six diverse teenagers who can barely stand each other must unite against a common foe – their parents.",
 		"poster_path": "/zceMrfO17AQkeWJZNra4O90s1vE.jpg",
-		"vote_average": 7.5,
+		"first_air_date": "2017-11-21",
+		"name": "Marvel's Runaways",
+		"vote_average": 7.4,
 		"title": "Marvel's Runaways",
 		"slug": "marvels-runaways",
 		"tags": [
@@ -2388,15 +2390,14 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/j5aOOtsJinQtyRaqiB12TTRHdeX.jpg",
-		"first_air_date": "2017-11-17",
 		"genre_ids": [
 			10759,
 			80,
 			18
 		],
 		"id": 67178,
-		"name": "Marvel's The Punisher",
 		"origin_country": [
 			"US"
 		],
@@ -2404,6 +2405,8 @@
 		"original_name": "Marvel's The Punisher",
 		"overview": "A former Marine out to punish the criminals responsible for his family's murder finds himself ensnared in a military conspiracy.",
 		"poster_path": "/tM6xqRKXoloH9UchaJEyyRE9O1w.jpg",
+		"first_air_date": "2017-11-17",
+		"name": "Marvel's The Punisher",
 		"vote_average": 8.1,
 		"title": "Marvel's The Punisher",
 		"slug": "marvels-the-punisher",
@@ -2413,15 +2416,14 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/18inwHlpKnK9mt02wFBJoIVKXI.jpg",
-		"first_air_date": "2017-10-02",
 		"genre_ids": [
 			10765,
 			10759,
 			18
 		],
 		"id": 69629,
-		"name": "The Gifted",
 		"origin_country": [
 			"US"
 		],
@@ -2429,6 +2431,8 @@
 		"original_name": "The Gifted",
 		"overview": "A suburban couple's ordinary lives are rocked by the sudden discovery that their children possess mutant powers. Forced to go on the run from a hostile government, the family joins up with an underground network of mutants and must fight to survive.",
 		"poster_path": "/nshCqszjTNuqhrB53vrSqWO18sE.jpg",
+		"first_air_date": "2017-10-02",
+		"name": "The Gifted",
 		"vote_average": 7.7,
 		"title": "The Gifted",
 		"slug": "the-gifted",
@@ -2437,7 +2441,8 @@
 			"company-38679",
 			"list-8204860"
 		],
-		"media_type": "tv"
+		"media_type": "tv",
+		"runtime": null
 	},
 	{
 		"adult": false,
@@ -2455,7 +2460,7 @@
 		"release_date": "2017-10-02",
 		"title": "Thor: Ragnarok",
 		"video": false,
-		"vote_average": 7.6,
+		"vote_average": 7.593,
 		"slug": "thor-ragnarok",
 		"tags": [
 			"movie",
@@ -2463,15 +2468,14 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/9GNdPoCSzWYeo2eYKFVLvzcG6Wg.jpg",
-		"first_air_date": "2017-09-29",
 		"genre_ids": [
 			18,
 			10765,
 			10759
 		],
 		"id": 68716,
-		"name": "Marvel's Inhumans",
 		"origin_country": [
 			"US"
 		],
@@ -2479,6 +2483,8 @@
 		"original_name": "Marvel's Inhumans",
 		"overview": "After the Royal Family of Inhumans is splintered by a military coup, they barely escape to Hawaii where their surprising interactions with the lush world and humanity around them may prove to not only save them, but Earth itself.",
 		"poster_path": "/zKfGip55oJ9tdzhyd9ayGyFFhuo.jpg",
+		"first_air_date": "2017-09-29",
+		"name": "Marvel's Inhumans",
 		"vote_average": 6,
 		"title": "Marvel's Inhumans",
 		"slug": "marvels-inhumans",
@@ -2488,15 +2494,14 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/72jj9y2Ejeub0mycZvkrPfT59sW.jpg",
-		"first_air_date": "2017-08-18",
 		"genre_ids": [
 			10765,
 			10759,
 			80
 		],
 		"id": 62285,
-		"name": "Marvel's The Defenders",
 		"origin_country": [
 			"US"
 		],
@@ -2504,6 +2509,8 @@
 		"original_name": "Marvel's The Defenders",
 		"overview": "Daredevil, Jessica Jones, Luke Cage and Iron Fist join forces to take on common enemies as a sinister conspiracy threatens New York City.",
 		"poster_path": "/49XzINhH4LFsgz7cx6TOPcHUJUL.jpg",
+		"first_air_date": "2017-08-18",
+		"name": "Marvel's The Defenders",
 		"vote_average": 7.1,
 		"title": "Marvel's The Defenders",
 		"slug": "marvels-the-defenders",
@@ -2529,7 +2536,7 @@
 		"release_date": "2017-07-05",
 		"title": "Spider-Man: Homecoming",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.338,
 		"slug": "spider-man-homecoming",
 		"tags": [
 			"movie",
@@ -2538,7 +2545,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+		"backdrop_path": "/n3gb8oqP9BeRCUsCmZVaT5eltPH.jpg",
 		"genre_ids": [
 			878,
 			12,
@@ -2552,7 +2559,7 @@
 		"release_date": "2017-04-19",
 		"title": "Guardians of the Galaxy Vol. 2",
 		"video": false,
-		"vote_average": 7.6,
+		"vote_average": 7.621,
 		"slug": "guardians-of-the-galaxy-vol-2",
 		"tags": [
 			"movie",
@@ -2560,15 +2567,14 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/xHCfWGlxwbtMeeOnTvxUCZRGnkk.jpg",
-		"first_air_date": "2017-03-17",
 		"genre_ids": [
 			10759,
 			18,
 			10765
 		],
 		"id": 62127,
-		"name": "Marvel's Iron Fist",
 		"origin_country": [
 			"US"
 		],
@@ -2576,6 +2582,8 @@
 		"original_name": "Marvel's Iron Fist",
 		"overview": "Danny Rand resurfaces 15 years after being presumed dead. Now, with the power of the Iron Fist, he seeks to reclaim his past and fulfill his destiny.",
 		"poster_path": "/4l6KD9HhtD6nCDEfg10Lp6C6zah.jpg",
+		"first_air_date": "2017-03-17",
+		"name": "Marvel's Iron Fist",
 		"vote_average": 6.5,
 		"title": "Marvel's Iron Fist",
 		"slug": "marvels-iron-fist",
@@ -2585,8 +2593,8 @@
 		]
 	},
 	{
-		"backdrop_path": "/x1FKNrbePCKPIQhvW6PywcT1uw0.jpg",
-		"first_air_date": "2017-03-14",
+		"adult": false,
+		"backdrop_path": "/jLuoxdI4S6JxOdlQYg57JLwDuEK.jpg",
 		"genre_ids": [
 			10762,
 			16,
@@ -2595,7 +2603,6 @@
 			35
 		],
 		"id": 70784,
-		"name": "Marvel's Rocket & Groot",
 		"origin_country": [
 			"US"
 		],
@@ -2603,7 +2610,9 @@
 		"original_name": "Marvel's Rocket & Groot",
 		"overview": "Before becoming Guardians of the Galaxy, Rocket and Groot were bounty hunters trying to get a ship.",
 		"poster_path": "/7FHJr40MPFwtHrOyOD9buQDoVcs.jpg",
-		"vote_average": 7,
+		"first_air_date": "2017-03-10",
+		"name": "Marvel's Rocket & Groot",
+		"vote_average": 6.976,
 		"title": "Marvel's Rocket & Groot",
 		"slug": "marvels-rocket-and-groot",
 		"tags": [
@@ -2613,22 +2622,24 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
+		"backdrop_path": "/gsljBGOjBkbuNt3gvIDXQWnudn.jpg",
+		"id": 558144,
+		"title": "Deadpool: No Good Deed",
+		"original_language": "en",
+		"original_title": "Deadpool: No Good Deed",
+		"overview": "Deadpool sees an opportunity to save the day, but it doesn't go entirely as planned.",
+		"poster_path": "/wlKU9yB0Q8nfPMakBcSBT0JGS7.jpg",
+		"media_type": "movie",
+		"runtime": 4,
+		"revenue": 0,
 		"genre_ids": [
 			28,
 			35,
 			80
 		],
-		"id": 558144,
-		"media_type": "movie",
-		"original_language": "en",
-		"original_title": "Deadpool: No Good Deed",
-		"overview": "Deadpool sees an opportunity to save the day, but it doesn't go entirely as planned.",
-		"poster_path": "/7p1v2CMnEd0Hb3eFi0iEA6kDAMU.jpg",
 		"release_date": "2017-03-03",
-		"title": "Deadpool: No Good Deed",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7.153,
 		"slug": "deadpool-no-good-deed",
 		"tags": [
 			"list-8204860"
@@ -2637,21 +2648,23 @@
 	{
 		"adult": false,
 		"backdrop_path": "/9X7YweCJw3q8Mcf6GadxReFEksM.jpg",
+		"id": 263115,
+		"title": "Logan",
+		"original_language": "en",
+		"original_title": "Logan",
+		"overview": "In the near future, a weary Logan cares for an ailing Professor X in a hideout on the Mexican border. But Logan's attempts to hide from the world and his legacy are upended when a young mutant arrives, pursued by dark forces.",
+		"poster_path": "/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+		"media_type": "movie",
+		"runtime": 137,
+		"revenue": 619021436,
 		"genre_ids": [
 			28,
 			18,
 			878
 		],
-		"id": 263115,
-		"media_type": "movie",
-		"original_language": "en",
-		"original_title": "Logan",
-		"overview": "In the near future, a weary Logan cares for an ailing Professor X in a hideout on the Mexican border. But Logan's attempts to hide from the world and his legacy are upended when a young mutant arrives, pursued by dark forces.",
-		"poster_path": "/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
 		"release_date": "2017-02-28",
-		"title": "Logan",
 		"video": false,
-		"vote_average": 7.8,
+		"vote_average": 7.818,
 		"slug": "logan",
 		"tags": [
 			"list-8204860"
@@ -2669,7 +2682,7 @@
 		"original_language": "en",
 		"original_title": "Team Thor: Part 2",
 		"overview": "A continuation of the documentary spoof of what Thor and his roommate Darryl were up to during the events of \"Captain America: Civil War\". While Cap and Iron Man duke it out, Thor tries to pay Darryl his rent in Asgardian coins.",
-		"poster_path": "/2jmP71A5Un0jDNqBesDPQSN8hjJ.jpg",
+		"poster_path": "/9Vt1OLu3BrKy1IQFK3QyzpR1LVm.jpg",
 		"release_date": "2017-02-14",
 		"title": "Team Thor: Part 2",
 		"video": false,
@@ -2681,22 +2694,24 @@
 		]
 	},
 	{
-		"backdrop_path": "/uAE8hCBui1INPWMwkrJcTJGxbD0.jpg",
-		"first_air_date": "2017-02-08",
+		"adult": false,
+		"backdrop_path": "/87eP7ITTrOWvkA4EqCuoRdyjzLy.jpg",
 		"genre_ids": [
 			10759,
-			10765
+			10765,
+			18
 		],
 		"id": 67195,
-		"name": "Legion",
 		"origin_country": [
 			"US"
 		],
 		"original_language": "en",
 		"original_name": "Legion",
 		"overview": "David Haller, AKA Legion, is a troubled young man who may be more than human. Diagnosed as schizophrenic, David has been in and out of psychiatric hospitals for years. But after a strange encounter with a fellow patient, he’s confronted with the possibility that the voices he hears and the visions he sees might be real.",
-		"poster_path": "/4WLMWQgH3eXNP1aGrAuwlSiIx5j.jpg",
-		"vote_average": 7.6,
+		"poster_path": "/d6T86JYMW4sSLRmNfdtFilvugOv.jpg",
+		"first_air_date": "2017-02-08",
+		"name": "Legion",
+		"vote_average": 7.5,
 		"title": "Legion",
 		"slug": "legion",
 		"tags": [
@@ -2705,15 +2720,14 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/42jCFhJyYt8GhE3WAOkzK3rZABt.jpg",
-		"first_air_date": "2016-12-13",
 		"genre_ids": [
 			10765,
 			10759,
 			18
 		],
 		"id": 69088,
-		"name": "Marvel's Agents of S.H.I.E.L.D.: Slingshot",
 		"origin_country": [
 			"US"
 		],
@@ -2721,6 +2735,8 @@
 		"original_name": "Marvel's Agents of S.H.I.E.L.D.: Slingshot",
 		"overview": "Elena \"Yo-Yo\" Rodriguez, an Inhuman with the ability to move at super-speed, is required to sign the Sokovia Accords. However, the restrictions of the Accords are in direct conflict with a personal mission she's desperate to fulfill, one that will test her abilities and will include tense encounters with S.H.I.E.L.D. team members.",
 		"poster_path": "/bwJej7WdmGRMCMyuDlotwAqVX7S.jpg",
+		"first_air_date": "2016-12-13",
+		"name": "Marvel's Agents of S.H.I.E.L.D.: Slingshot",
 		"vote_average": 7.1,
 		"title": "Marvel's Agents of S.H.I.E.L.D.: Slingshot",
 		"slug": "marvels-agents-of-shield-slingshot",
@@ -2730,13 +2746,12 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/AnMW7fcDFtQcrKe2x7SF17OrdXp.jpg",
-		"first_air_date": "2016-11-04",
 		"genre_ids": [
 			16
 		],
 		"id": 112193,
-		"name": "Marvel's Ultimate Comics",
 		"origin_country": [
 			"US"
 		],
@@ -2744,6 +2759,8 @@
 		"original_name": "Marvel's Ultimate Comics",
 		"overview": "After Spider-Man stops some crooks from robbing a Stark Enterprises facility, Iron Man decides to pay him back with some on the job training. His plan goes awry when D-List villain Batroc the Leaper returns with new powers. Black Panther gets a visit from Everett K. Ross to discuss security for a possible international summit in Wakanda. The visit is unexpectedly interrupted by super-villain, Ghost.",
 		"poster_path": "/6ObO02dL4QbzMuhnW3jU3XYkuAq.jpg",
+		"first_air_date": "2016-11-04",
+		"name": "Marvel's Ultimate Comics",
 		"vote_average": 6.2,
 		"title": "Marvel's Ultimate Comics",
 		"slug": "marvels-ultimate-comics",
@@ -2754,7 +2771,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/qUv51IFUvVRAP2379ThmA3eLJx6.jpg",
+		"backdrop_path": "/3zvZ699gMW2RhWc0GisIukzq0Ls.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -2768,7 +2785,7 @@
 		"release_date": "2016-10-25",
 		"title": "Doctor Strange",
 		"video": false,
-		"vote_average": 7.4,
+		"vote_average": 7.424,
 		"slug": "doctor-strange",
 		"tags": [
 			"movie",
@@ -2776,8 +2793,8 @@
 		]
 	},
 	{
-		"backdrop_path": "/p4YxnvdMWsC5Kx8UIs5DwVy7u2F.jpg",
-		"first_air_date": "2016-09-30",
+		"adult": false,
+		"backdrop_path": "/9VNvlBE0IVFBuybIAA6BlOVMtCv.jpg",
 		"genre_ids": [
 			18,
 			10765,
@@ -2785,15 +2802,16 @@
 			80
 		],
 		"id": 62126,
-		"name": "Marvel's Luke Cage",
 		"origin_country": [
 			"US"
 		],
 		"original_language": "en",
 		"original_name": "Marvel's Luke Cage",
 		"overview": "Given superstrength and durability by a sabotaged experiment, a wrongly accused man escapes prison to become a superhero for hire.",
-		"poster_path": "/quTfV803fGaSADzTeEqCbIZnt9d.jpg",
-		"vote_average": 7,
+		"poster_path": "/6WUGpRS1ne0dwbhT8iPWGLxwHfS.jpg",
+		"first_air_date": "2016-09-30",
+		"name": "Marvel's Luke Cage",
+		"vote_average": 6.9,
 		"title": "Marvel's Luke Cage",
 		"slug": "marvels-luke-cage",
 		"tags": [
@@ -2803,7 +2821,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/yq1Zr8mCVd0jWpoLO4u9RiUB8K7.jpg",
+		"backdrop_path": "/cU0NFIVj11wo2ERNsb6pBeefqgV.jpg",
 		"genre_ids": [
 			35,
 			878
@@ -2816,7 +2834,7 @@
 		"release_date": "2016-08-28",
 		"title": "Team Thor",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.284,
 		"slug": "team-thor",
 		"tags": [
 			"movie",
@@ -2826,22 +2844,24 @@
 	{
 		"adult": false,
 		"backdrop_path": "/2ex2beZ4ssMeOduLD0ILzXKCiep.jpg",
+		"id": 246655,
+		"title": "X-Men: Apocalypse",
+		"original_language": "en",
+		"original_title": "X-Men: Apocalypse",
+		"overview": "After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.",
+		"poster_path": "/2mtQwJKVKQrZgTz49Dizb25eOQQ.jpg",
+		"media_type": "movie",
+		"runtime": 144,
+		"revenue": 543934787,
 		"genre_ids": [
 			28,
 			12,
 			878,
 			14
 		],
-		"id": 246655,
-		"media_type": "movie",
-		"original_language": "en",
-		"original_title": "X-Men: Apocalypse",
-		"overview": "After the re-emergence of the world's first mutant, world-destroyer Apocalypse, the X-Men must unite to defeat his extinction level plan.",
-		"poster_path": "/2mtQwJKVKQrZgTz49Dizb25eOQQ.jpg",
 		"release_date": "2016-05-18",
-		"title": "X-Men: Apocalypse",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.512,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"list-8204860"
@@ -2863,7 +2883,7 @@
 		"release_date": "2016-04-27",
 		"title": "Captain America: Civil War",
 		"video": false,
-		"vote_average": 7.4,
+		"vote_average": 7.441,
 		"slug": "captain-america-civil-war",
 		"tags": [
 			"movie",
@@ -2873,19 +2893,21 @@
 	{
 		"adult": false,
 		"backdrop_path": "/en971MEXui9diirXlogOrPKmsEn.jpg",
+		"id": 293660,
+		"title": "Deadpool",
+		"original_language": "en",
+		"original_title": "Deadpool",
+		"overview": "The origin story of former Special Forces operative turned mercenary Wade Wilson, who, after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+		"poster_path": "/fSRb7vyIP8rQpL0I47P3qUsEKX3.jpg",
+		"media_type": "movie",
+		"runtime": 108,
+		"revenue": 782837347,
 		"genre_ids": [
 			28,
 			12,
 			35
 		],
-		"id": 293660,
-		"media_type": "movie",
-		"original_language": "en",
-		"original_title": "Deadpool",
-		"overview": "The origin story of former Special Forces operative turned mercenary Wade Wilson, who, after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
-		"poster_path": "/fSRb7vyIP8rQpL0I47P3qUsEKX3.jpg",
 		"release_date": "2016-02-09",
-		"title": "Deadpool",
 		"video": false,
 		"vote_average": 7.6,
 		"slug": "deadpool",
@@ -2907,7 +2929,7 @@
 		"release_date": "2016-01-19",
 		"title": "Marvel's Captain America: 75 Heroic Years",
 		"video": false,
-		"vote_average": 6.7,
+		"vote_average": 6.606,
 		"slug": "marvels-captain-america-75-heroic-years",
 		"tags": [
 			"movie",
@@ -2915,21 +2937,22 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/fjEOQhzZk2Or7VYUBeMx5ZIwU95.jpg",
-		"first_air_date": "2015-11-20",
 		"genre_ids": [
 			10765,
 			18
 		],
 		"id": 38472,
-		"name": "Marvel's Jessica Jones",
 		"origin_country": [
 			"US"
 		],
 		"original_language": "en",
 		"original_name": "Marvel's Jessica Jones",
 		"overview": "After a tragic ending to her short-lived super hero stint, Jessica Jones is rebuilding her personal life and career as a detective who gets pulled into cases involving people with extraordinary abilities in New York City.",
-		"poster_path": "/oxnWofiE9fHOgUfs9NJa6nG6NTR.jpg",
+		"poster_path": "/lwPFyjxAZY6NqHxywgY00Y4MFBx.jpg",
+		"first_air_date": "2015-11-20",
+		"name": "Marvel's Jessica Jones",
 		"vote_average": 7.5,
 		"title": "Marvel's Jessica Jones",
 		"slug": "marvels-jessica-jones",
@@ -2950,11 +2973,11 @@
 		"original_language": "en",
 		"original_title": "Fantastic Four",
 		"overview": "Four young outsiders teleport to a dangerous universe, which alters their physical form in shocking ways. Their lives irrevocably upended, the team must learn to harness their daunting new abilities and work together to save Earth from a former friend turned enemy.",
-		"poster_path": "/oeMpEsjmiT9PEJbRM1Fm7TZ1dE0.jpg",
+		"poster_path": "/4QBDAZ8nBfZrplxMaxP7RoR6HXe.jpg",
 		"release_date": "2015-08-05",
 		"title": "Fantastic Four",
 		"video": false,
-		"vote_average": 4.4,
+		"vote_average": 4.417,
 		"slug": "fantastic-four",
 		"tags": [
 			"movie",
@@ -2963,7 +2986,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/a7sAqMKv5tkAdMzFfIhPqIBmQ9g.jpg",
+		"backdrop_path": "/1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg",
 		"genre_ids": [
 			878,
 			28,
@@ -2973,11 +2996,11 @@
 		"original_language": "en",
 		"original_title": "Ant-Man",
 		"overview": "Armed with the astonishing ability to shrink in scale but increase in strength, master thief Scott Lang must embrace his inner-hero and help his mentor, Doctor Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats. Against seemingly insurmountable obstacles, Pym and Lang must plan and pull off a heist that will save the world.",
-		"poster_path": "/8YxOIPrabqkQCOKKbuxaz9IcqhO.jpg",
+		"poster_path": "/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg",
 		"release_date": "2015-07-14",
 		"title": "Ant-Man",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7.079,
 		"slug": "ant-man",
 		"tags": [
 			"movie",
@@ -3000,7 +3023,7 @@
 		"release_date": "2015-04-22",
 		"title": "Avengers: Age of Ultron",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.273,
 		"slug": "avengers-age-of-ultron",
 		"tags": [
 			"movie",
@@ -3008,23 +3031,24 @@
 		]
 	},
 	{
-		"backdrop_path": "/2PrYnQR8YPei5vCVRwJXnwMqMyR.jpg",
-		"first_air_date": "2015-04-10",
+		"adult": false,
+		"backdrop_path": "/qsnXwGS7KBbX4JLqHvICngtR8qg.jpg",
 		"genre_ids": [
 			80,
 			18,
 			10759
 		],
 		"id": 61889,
-		"name": "Marvel's Daredevil",
 		"origin_country": [
 			"US"
 		],
 		"original_language": "en",
 		"original_name": "Marvel's Daredevil",
 		"overview": "Lawyer-by-day Matt Murdock uses his heightened senses from being blinded as a young boy to fight crime at night on the streets of Hell’s Kitchen as Daredevil.",
-		"poster_path": "/p7oImOiZAUF4DCreZuE11hWJRyA.jpg",
-		"vote_average": 8.2,
+		"poster_path": "/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
+		"first_air_date": "2015-04-10",
+		"name": "Marvel's Daredevil",
+		"vote_average": 8.165,
 		"title": "Marvel's Daredevil",
 		"slug": "marvels-daredevil",
 		"tags": [
@@ -3055,17 +3079,17 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/cqMQrHXR8FT24DdVzQm24LxxVPy.jpg",
+		"backdrop_path": "/9gjNQBrPLtgQAvGH2BxcNhQFaoe.jpg",
 		"genre_ids": [
 			99
 		],
 		"id": 331205,
 		"original_language": "en",
-		"original_title": "Marvel & ESPN Films Present: 1 of 1: Genesis",
+		"original_title": "Marvel & ESPN Films Present: 1 of 1 - Genesis",
 		"overview": "This documentary explores the connections between elite athletes and Marvel superheros such as Spider Man, Black Widow and Captain America.",
 		"poster_path": null,
 		"release_date": "2015-03-17",
-		"title": "Marvel & ESPN Films Present: 1 of 1: Genesis",
+		"title": "Marvel & ESPN Films Present: 1 of 1 - Genesis",
 		"video": false,
 		"vote_average": 5.7,
 		"slug": "marvel-and-espn-films-present-1-of-1-genesis",
@@ -3075,23 +3099,25 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/wsviXEJ210JPoFQuHYGH9X4yt2B.jpg",
-		"first_air_date": "2015-03-10",
-		"genre_ids": [
-			18,
-			10765
-		],
 		"id": 42531,
-		"media_type": "tv",
 		"name": "Powers",
-		"origin_country": [
-			"US"
-		],
 		"original_language": "en",
 		"original_name": "Powers",
 		"overview": "Two homicide detectives, Christian Walker and Deena Pilgrim, are assigned to investigate cases involving people with superhuman abilities, referred to as “Powers.” Set amidst today’s paparazzi culture, Powers asks the questions, what if the world was full of superheroes who aren't actually heroic at all? What if all that power was just one more excuse for mischief, mayhem, murder, and endorsement deals?",
 		"poster_path": "/7imMR8ySLCPG3LsNlGej8GGtXBg.jpg",
-		"vote_average": 6.8,
+		"media_type": "tv",
+		"runtime": null,
+		"genre_ids": [
+			18,
+			10765
+		],
+		"first_air_date": "2015-03-10",
+		"vote_average": 6.784,
+		"origin_country": [
+			"US"
+		],
 		"title": "Powers",
 		"slug": "powers",
 		"tags": [
@@ -3099,22 +3125,23 @@
 		]
 	},
 	{
-		"backdrop_path": "/MaQ7hbNsiJ30p14UgRdEnXDGMH.jpg",
-		"first_air_date": "2015-01-06",
+		"adult": false,
+		"backdrop_path": "/ryksnIn006p7lsd83L9Za20TePv.jpg",
 		"genre_ids": [
 			18,
 			10765
 		],
 		"id": 61550,
-		"name": "Marvel's Agent Carter",
 		"origin_country": [
 			"US"
 		],
 		"original_language": "en",
 		"original_name": "Marvel's Agent Carter",
 		"overview": "It's 1946, and peace has dealt Peggy Carter a serious blow as she finds herself marginalized when the men return home from fighting abroad. Working for the covert SSR (Strategic Scientific Reserve), Peggy must balance doing administrative work and going on secret missions for Howard Stark all while trying to navigate life as a single woman in America, in the wake of losing the love of her life - Steve Rogers.",
-		"poster_path": "/yUV0l4Kzned4zZmOw4LpzZkGrG8.jpg",
-		"vote_average": 7.5,
+		"poster_path": "/fe79VYyLp5ZBstpJ4oukpuUT3B.jpg",
+		"first_air_date": "2015-01-06",
+		"name": "Marvel's Agent Carter",
+		"vote_average": 7.528,
 		"title": "Marvel's Agent Carter",
 		"slug": "marvels-agent-carter",
 		"tags": [
@@ -3130,17 +3157,17 @@
 		],
 		"id": 299969,
 		"original_language": "en",
-		"original_title": "Marvel: 75 Years, From Pulp to Pop!",
+		"original_title": "Marvel: 75 Years, from Pulp to Pop!",
 		"overview": "In celebration of the publisher's 75th anniversary, the hour-long special will take a detailed look at the company's journey from fledgling comics publisher to multi-media juggernaut. Hosted by Emily VanCamp (S.H.I.E.L.D. Agent Sharon Carter), the documentary-style feature will include interviews with comic book icons, pop culture authorities, and Hollywood stars.  The special also promises an \"extraordinary peek into Marvel's future!\" Might Marvel release the first official footage from next year's Avengers: Age of Ultron or Ant-Man? If they do, you'll know about it here.",
 		"poster_path": "/biud0bsRfQryGBfcTXN2ep6ODwM.jpg",
 		"release_date": "2014-11-04",
-		"title": "Marvel: 75 Years, From Pulp to Pop!",
+		"title": "Marvel: 75 Years, from Pulp to Pop!",
 		"video": false,
 		"vote_average": 6.8,
 		"slug": "marvel-75-years-from-pulp-to-pop",
 		"tags": [
 			"movie",
-			"company-420"
+			"company-7505"
 		]
 	},
 	{
@@ -3201,7 +3228,7 @@
 		"release_date": "2014-07-30",
 		"title": "Guardians of the Galaxy",
 		"video": false,
-		"vote_average": 7.9,
+		"vote_average": 7.908,
 		"slug": "guardians-of-the-galaxy",
 		"tags": [
 			"movie",
@@ -3210,36 +3237,37 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/6RZZNx2irPBou7JyFGwOIoioPYK.jpg",
+		"backdrop_path": "/fctQU5MoXgJ5pNMljFzlEFXwfSu.jpg",
+		"id": 127585,
+		"title": "X-Men: Days of Future Past",
+		"original_language": "en",
+		"original_title": "X-Men: Days of Future Past",
+		"overview": "The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past – to save our future.",
+		"poster_path": "/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
+		"media_type": "movie",
+		"runtime": 132,
+		"revenue": 747862775,
 		"genre_ids": [
 			28,
 			12,
 			878
 		],
-		"id": 127585,
-		"media_type": "movie",
-		"original_language": "en",
-		"original_title": "X-Men: Days of Future Past",
-		"overview": "The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past – to save our future.",
-		"poster_path": "/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
 		"release_date": "2014-05-15",
-		"title": "X-Men: Days of Future Past",
 		"video": false,
-		"vote_average": 7.5,
+		"vote_average": 7.525,
 		"slug": "x-men-days-of-future-past",
 		"tags": [
 			"list-8204860"
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/4aHe75itnz5pkwFuACmih0yelYK.jpg",
-		"first_air_date": "2014-05-13",
 		"genre_ids": [
 			10759,
 			16
 		],
 		"id": 130805,
-		"name": "Marvel Knights: Wolverine Weapon X: Tomorrow Dies Today",
 		"origin_country": [
 			"US"
 		],
@@ -3247,6 +3275,8 @@
 		"original_name": "Marvel Knights: Wolverine Weapon X: Tomorrow Dies Today",
 		"overview": "It’s the debut of an all-new, all-different Deathlok. Killer cyborgs have come from the future to kill the heroes of today, while Wolverine embarks on an international pub crawl with a certain recently reborn Sentinel of Liberty. Beer and bullets galore!",
 		"poster_path": "/p8c8NjgScKlGqQOqgZhWCw0bpYR.jpg",
+		"first_air_date": "2014-05-13",
+		"name": "Marvel Knights: Wolverine Weapon X: Tomorrow Dies Today",
 		"vote_average": 6,
 		"title": "Marvel Knights: Wolverine Weapon X: Tomorrow Dies Today",
 		"slug": "marvel-knights-wolverine-weapon-x-tomorrow-dies-today",
@@ -3278,37 +3308,13 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/k0hlAzTryCYX1O1LyC6P8tAa8s0.jpg",
-		"genre_ids": [
-			28,
-			12,
-			14
-		],
-		"id": 102382,
-		"original_language": "en",
-		"original_title": "The Amazing Spider-Man 2",
-		"overview": "For Peter Parker, life is busy. Between taking out the bad guys as Spider-Man and spending time with the person he loves, Gwen Stacy, high school graduation cannot come quickly enough. Peter has not forgotten about the promise he made to Gwen’s father to protect her by staying away, but that is a promise he cannot keep. Things will change for Peter when a new villain, Electro, emerges, an old friend, Harry Osborn, returns, and Peter uncovers new clues about his past.",
-		"poster_path": "/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg",
-		"release_date": "2014-04-16",
-		"title": "The Amazing Spider-Man 2",
-		"video": false,
-		"vote_average": 6.5,
-		"slug": "the-amazing-spider-man-2",
-		"tags": [
-			"movie",
-			"company-7505"
-		]
-	},
-	{
 		"backdrop_path": "/gVnxTA3FT4G2M2j6wyAZkWpRKn5.jpg",
-		"first_air_date": "2014-04-02",
 		"genre_ids": [
 			16,
 			10759,
 			10765
 		],
 		"id": 70801,
-		"name": "Marvel Disk Wars: The Avengers",
 		"origin_country": [
 			"JP"
 		],
@@ -3316,7 +3322,9 @@
 		"original_name": "ディスク・ウォーズ:アベンジャーズ",
 		"overview": "A group of teenagers join forces with the Avengers, Earth's mightiest heroes, to fight against the tyrannical Loki and his mighty empire.",
 		"poster_path": "/6wQAZaWSvBJOIIt68cqmC0KJjeE.jpg",
-		"vote_average": 6.5,
+		"first_air_date": "2014-04-02",
+		"name": "Marvel Disk Wars: The Avengers",
+		"vote_average": 6.4,
 		"title": "Marvel Disk Wars: The Avengers",
 		"slug": "marvel-disk-wars-the-avengers",
 		"tags": [
@@ -3340,7 +3348,7 @@
 		"release_date": "2014-03-20",
 		"title": "Captain America: The Winter Soldier",
 		"video": false,
-		"vote_average": 7.7,
+		"vote_average": 7.667,
 		"slug": "captain-america-the-winter-soldier",
 		"tags": [
 			"movie",
@@ -3349,7 +3357,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/czHz1DWWE0bcffXybT7u1wNshSx.jpg",
+		"backdrop_path": "/2l9yXhNtLC5SHa81m3MtLfpoXTr.jpg",
 		"genre_ids": [
 			99,
 			10770
@@ -3386,7 +3394,7 @@
 		"release_date": "2014-02-04",
 		"title": "Marvel One-Shot: All Hail the King",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.7,
 		"slug": "marvel-one-shot-all-hail-the-king",
 		"tags": [
 			"movie",
@@ -3428,7 +3436,7 @@
 		"release_date": "2013-12-03",
 		"title": "The Wolverine: Path of a Ronin",
 		"video": false,
-		"vote_average": 6.6,
+		"vote_average": 6.905,
 		"slug": "the-wolverine-path-of-a-ronin",
 		"tags": [
 			"movie",
@@ -3468,11 +3476,11 @@
 		"original_language": "en",
 		"original_title": "Thor: The Dark World",
 		"overview": "Thor fights to restore order across the cosmos… but an ancient race led by the vengeful Malekith returns to plunge the universe back into darkness. Faced with an enemy that even Odin and Asgard cannot withstand, Thor must embark on his most perilous and personal journey yet, one that will reunite him with Jane Foster and force him to sacrifice everything to save us all.",
-		"poster_path": "/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg",
+		"poster_path": "/wD6g4EcmR6R3VNbuBmNOVq2qWrM.jpg",
 		"release_date": "2013-10-30",
 		"title": "Thor: The Dark World",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.53,
 		"slug": "thor-the-dark-world",
 		"tags": [
 			"movie",
@@ -3480,15 +3488,14 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/80BRASQnT9KT7BkFeEI0EdeRIF3.jpg",
-		"first_air_date": "2013-09-24",
 		"genre_ids": [
 			18,
 			10765,
 			10759
 		],
 		"id": 1403,
-		"name": "Marvel's Agents of S.H.I.E.L.D.",
 		"origin_country": [
 			"US"
 		],
@@ -3496,13 +3503,14 @@
 		"original_name": "Marvel's Agents of S.H.I.E.L.D.",
 		"overview": "Agent Phil Coulson of S.H.I.E.L.D. (Strategic Homeland Intervention, Enforcement and Logistics Division) puts together a team of agents to investigate the new, the strange and the unknown around the globe, protecting the ordinary from the extraordinary.",
 		"poster_path": "/gHUCCMy1vvj58tzE3dZqeC9SXus.jpg",
-		"vote_average": 7.5,
+		"first_air_date": "2013-09-24",
+		"name": "Marvel's Agents of S.H.I.E.L.D.",
+		"vote_average": 7.493,
 		"title": "Marvel's Agents of S.H.I.E.L.D.",
 		"slug": "marvels-agents-of-shield",
 		"tags": [
 			"tv",
-			"company-38679",
-			"company-7505"
+			"company-38679"
 		]
 	},
 	{
@@ -3528,7 +3536,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/jvm3kwALwfmVcj3stddZzKRQNrN.jpg",
+		"backdrop_path": "/kv8KDbi2I4F4MNBbBMCR4LDqP6H.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -3543,7 +3551,7 @@
 		"release_date": "2013-09-03",
 		"title": "Marvel One-Shot: Agent Carter",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 7.221,
 		"slug": "marvel-one-shot-agent-carter",
 		"tags": [
 			"movie",
@@ -3553,20 +3561,21 @@
 	{
 		"adult": false,
 		"backdrop_path": "/tqPRfJsrCtX5BvtAP4Bahwhq2dU.jpg",
-		"genre_ids": [
-			28,
-			878,
-			12,
-			14
-		],
 		"id": 76170,
-		"media_type": "movie",
+		"title": "The Wolverine",
 		"original_language": "en",
 		"original_title": "The Wolverine",
 		"overview": "Wolverine faces his ultimate nemesis - and tests of his physical, emotional, and mortal limits - in a life-changing voyage to modern-day Japan.",
 		"poster_path": "/xNi8daRmN4XY8rXHd4rwLbJf1cU.jpg",
-		"release_date": "2013-07-23",
-		"title": "The Wolverine",
+		"media_type": "movie",
+		"runtime": 126,
+		"revenue": 415440673,
+		"genre_ids": [
+			28,
+			878,
+			12
+		],
+		"release_date": "2013-07-21",
 		"video": false,
 		"vote_average": 6.4,
 		"slug": "the-wolverine",
@@ -3590,7 +3599,7 @@
 		"release_date": "2013-07-09",
 		"title": "Wolverine: Origin",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.538,
 		"slug": "wolverine-origin",
 		"tags": [
 			"movie",
@@ -3598,24 +3607,26 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/zRu0L0eB500AmBh2ZPFceMXbPml.jpg",
-		"first_air_date": "2013-05-26",
+		"id": 59427,
+		"name": "Marvel's Avengers",
+		"original_language": "en",
+		"original_name": "Marvel's Avengers",
+		"overview": "The further adventures of the Marvel Universe's mightiest general membership superhero team. With an all-star roster consisting of Iron Man, Captain America, Thor, Hulk, Hawkeye, Falcon and, occasionally--when she feels like it and only when she feels like it--Black Widow, the Avengers are a team in the truest sense. The Avengers save the world from the biggest threats imaginable--threats no single super hero could withstand.",
+		"poster_path": "/vchDkX1DtqTy3bIDJ7YqmSbX965.jpg",
+		"media_type": "tv",
+		"runtime": null,
 		"genre_ids": [
 			10759,
 			16,
 			10765
 		],
-		"id": 59427,
-		"media_type": "tv",
-		"name": "Marvel's Avengers",
+		"first_air_date": "2013-05-26",
+		"vote_average": 7.592,
 		"origin_country": [
 			"US"
 		],
-		"original_language": "en",
-		"original_name": "Marvel's Avengers",
-		"overview": "The further adventures of the Marvel Universe's mightiest general membership superhero team. With an all-star roster consisting of Iron Man, Captain America, Thor, Hulk, Hawkeye, Falcon and, occasionally--when she feels like it and only when she feels like it--Black Widow, the Avengers are a team in the truest sense. The Avengers save the world from the biggest threats imaginable--threats no single super hero could withstand.",
-		"poster_path": "/vchDkX1DtqTy3bIDJ7YqmSbX965.jpg",
-		"vote_average": 7.6,
 		"title": "Marvel's Avengers",
 		"slug": "marvels-avengers",
 		"tags": [
@@ -3636,7 +3647,7 @@
 		"release_date": "2013-04-23",
 		"title": "Inhumans",
 		"video": false,
-		"vote_average": 6.7,
+		"vote_average": 6,
 		"slug": "inhumans",
 		"tags": [
 			"movie",
@@ -3659,7 +3670,7 @@
 		"release_date": "2013-04-18",
 		"title": "Iron Man 3",
 		"video": false,
-		"vote_average": 6.9,
+		"vote_average": 6.927,
 		"slug": "iron-man-3",
 		"tags": [
 			"movie",
@@ -3682,7 +3693,7 @@
 		"release_date": "2012-09-13",
 		"title": "Marvel One-Shot: Item 47",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.449,
 		"slug": "marvel-one-shot-item-47",
 		"tags": [
 			"movie",
@@ -3713,21 +3724,23 @@
 	{
 		"adult": false,
 		"backdrop_path": "/7mUdchgDrSZsw6T8sJgwZvNsWiP.jpg",
+		"id": 120605,
+		"title": "The Punisher: Dirty Laundry",
+		"original_language": "en",
+		"original_title": "The Punisher: Dirty Laundry",
+		"overview": "In a bad neighborhood, on his way to a laundromat to do his laundry, Frank Castle witnesses a ruthless street gang harassing several people.",
+		"poster_path": "/5o5uPBWe0pYj7nHmE7V8yoNlLQb.jpg",
+		"media_type": "movie",
+		"runtime": 11,
+		"revenue": 0,
 		"genre_ids": [
 			18,
 			28,
 			53
 		],
-		"id": 120605,
-		"media_type": "movie",
-		"original_language": "en",
-		"original_title": "The Punisher: Dirty Laundry",
-		"overview": "In a bad neighborhood, on his way to a laundromat to do his laundry, Frank Castle witnesses a ruthless street gang harassing several people.",
-		"poster_path": "/5o5uPBWe0pYj7nHmE7V8yoNlLQb.jpg",
 		"release_date": "2012-07-16",
-		"title": "The Punisher: Dirty Laundry",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 7.043,
 		"slug": "the-punisher-dirty-laundry",
 		"tags": [
 			"list-8204859"
@@ -3735,11 +3748,11 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/u1hxf2Co5pm3SJzqFbVyMA8v2N0.jpg",
+		"backdrop_path": "/sxskOU71CO8LaNX2LOtjYFUtKv7.jpg",
 		"genre_ids": [
 			28,
 			12,
-			14
+			878
 		],
 		"id": 1930,
 		"original_language": "en",
@@ -3749,7 +3762,7 @@
 		"release_date": "2012-06-23",
 		"title": "The Amazing Spider-Man",
 		"video": false,
-		"vote_average": 6.7,
+		"vote_average": 6.697,
 		"slug": "the-amazing-spider-man",
 		"tags": [
 			"movie",
@@ -3757,13 +3770,12 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/vOOUjVaJLWdZJvnvipABQ8hYQNS.jpg",
-		"first_air_date": "2012-05-05",
 		"genre_ids": [
 			16
 		],
 		"id": 103396,
-		"name": "Fury Files",
 		"origin_country": [
 			"US"
 		],
@@ -3771,6 +3783,8 @@
 		"original_name": "Fury Files",
 		"overview": "The mysterious Fury gives viewers top-secret access to S.H.I.E.L.D. intel on key Marvel heroes and villains by bringing together a mix of animation and motion comic art.",
 		"poster_path": "/fEpnfXuukOOkZTbJh6qylrdahbu.jpg",
+		"first_air_date": "2012-05-05",
+		"name": "Fury Files",
 		"vote_average": 5.5,
 		"title": "Fury Files",
 		"slug": "fury-files",
@@ -3795,7 +3809,7 @@
 		"release_date": "2012-04-25",
 		"title": "The Avengers",
 		"video": false,
-		"vote_average": 7.7,
+		"vote_average": 7.713,
 		"slug": "the-avengers",
 		"tags": [
 			"movie",
@@ -3821,29 +3835,6 @@
 		"tags": [
 			"movie",
 			"company-11106"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/aHc765LRg5d5DtoS4LKiGEROWrq.jpg",
-		"genre_ids": [
-			28,
-			14,
-			53
-		],
-		"id": 71676,
-		"original_language": "en",
-		"original_title": "Ghost Rider: Spirit of Vengeance",
-		"overview": "When the devil resurfaces with aims to take over the world in human form, Johnny Blaze reluctantly comes out of hiding to transform into the flame-spewing supernatural hero Ghost Rider -- and rescue a 10-year-old boy from an unsavory end.",
-		"poster_path": "/3nTr3jGCFs3wBjifokRHp3xJgP5.jpg",
-		"release_date": "2011-12-10",
-		"title": "Ghost Rider: Spirit of Vengeance",
-		"video": false,
-		"vote_average": 5,
-		"slug": "ghost-rider-spirit-of-vengeance",
-		"tags": [
-			"movie",
-			"company-7505"
 		]
 	},
 	{
@@ -3894,7 +3885,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/4NWWpT0jiMUak8r6jfpvG4eBgFU.jpg",
+		"backdrop_path": "/yFuKvT4Vm3sKHdFY4eG6I4ldAnn.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -3908,31 +3899,34 @@
 		"release_date": "2011-07-22",
 		"title": "Captain America: The First Avenger",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 6.999,
 		"slug": "captain-america-the-first-avenger",
 		"tags": [
 			"movie",
+			"company-7505",
 			"company-420"
 		]
 	},
 	{
 		"adult": false,
 		"backdrop_path": "/bMiOfPhplZu1Lql3hGTRV087QA.jpg",
+		"id": 49538,
+		"title": "X-Men: First Class",
+		"original_language": "en",
+		"original_title": "X-Men: First Class",
+		"overview": "Before Charles Xavier and Erik Lensherr took the names Professor X and Magneto, they were two young men discovering their powers for the first time. Before they were arch-enemies, they were closest of friends, working together with other mutants (some familiar, some new), to stop the greatest threat the world has ever known.",
+		"poster_path": "/b9r6lsLuzBONdSokQ3O2JiVmy0C.jpg",
+		"media_type": "movie",
+		"runtime": 132,
+		"revenue": 353624124,
 		"genre_ids": [
 			28,
 			878,
 			12
 		],
-		"id": 49538,
-		"media_type": "movie",
-		"original_language": "en",
-		"original_title": "X-Men: First Class",
-		"overview": "Before Charles Xavier and Erik Lensherr took the names Professor X and Magneto, they were two young men discovering their powers for the first time. Before they were arch-enemies, they were closest of friends, working together with other mutants (some familiar, some new), to stop the greatest threat the world has ever known.",
-		"poster_path": "/vUvlOY575rztBuJV3a0dbHW5MQR.jpg",
 		"release_date": "2011-06-01",
-		"title": "X-Men: First Class",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.298,
 		"slug": "x-men-first-class",
 		"tags": [
 			"list-8204860"
@@ -3940,30 +3934,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/sYtby8VBJnEBG6X9dH3CVIgzQO2.jpg",
-		"genre_ids": [
-			12,
-			16,
-			28
-		],
-		"id": 63686,
-		"original_language": "en",
-		"original_title": "Thor: Tales of Asgard",
-		"overview": "Hungry for adventure, Thor secretly embarks on the journey of a lifetime, joined by his loyal brother Loki, whose budding sorcery equips him with just enough magic to conjure up trouble, along with the Warriors Three - a band of boastful travelers reluctant to set sail on any adventure that might actually be dangerous. But what starts out as a harmless treasure hunt quickly turns deadly, and Thor must now prove himself worthy of the destiny he covets by saving Asgard itself.",
-		"poster_path": "/nM2rBqEMrAFiNFHXKWOhUgdKK45.jpg",
-		"release_date": "2011-05-16",
-		"title": "Thor: Tales of Asgard",
-		"video": false,
-		"vote_average": 6.3,
-		"slug": "thor-tales-of-asgard",
-		"tags": [
-			"movie",
-			"company-7505"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/1wOu8rdvPxU1ObHi20VcRhfNpbo.jpg",
+		"backdrop_path": "/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg",
 		"genre_ids": [
 			12,
 			14,
@@ -3977,21 +3948,21 @@
 		"release_date": "2011-04-21",
 		"title": "Thor",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.766,
 		"slug": "thor",
 		"tags": [
 			"movie",
+			"company-7505",
 			"company-420"
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/t12TuJxUYOjUhYxujR3ZWe2vQ7p.jpg",
-		"first_air_date": "2011-03-28",
 		"genre_ids": [
 			16
 		],
 		"id": 61753,
-		"name": "Thor & Loki: Blood Brothers",
 		"origin_country": [
 			"US"
 		],
@@ -3999,7 +3970,9 @@
 		"original_name": "Thor & Loki: Blood Brothers",
 		"overview": "Inspired by the acclaimed graphic novel from Robert Rodi and Esad Ribic, Marvel Knights Animation's \"Thor & Loki: Blood Brothers\" takes a powerful look inside the minds of Thor & Loki, brothers in the mythical land of Asgard and seemingly forever enemies. But just why does Loki hate his brother Thor? And could it be that this master of mischief isn’t really the villain he’s been branded? Loki's insatiable lust for power and his feud with Thor take on new meaning in this resonant epic.",
 		"poster_path": "/tvd33sRfEEf4fBlyqxTI62wY9qF.jpg",
-		"vote_average": 7,
+		"first_air_date": "2011-03-28",
+		"name": "Thor & Loki: Blood Brothers",
+		"vote_average": 6.5,
 		"title": "Thor & Loki: Blood Brothers",
 		"slug": "thor-and-loki-blood-brothers",
 		"tags": [
@@ -4008,13 +3981,12 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/znw6gXnby8fWRR74ZnXqtsfyJvR.jpg",
-		"first_air_date": "2010-11-30",
 		"genre_ids": [
 			16
 		],
 		"id": 77362,
-		"name": "Iron Man: Extremis",
 		"origin_country": [
 			"US"
 		],
@@ -4022,6 +3994,8 @@
 		"original_name": "Iron Man: Extremis",
 		"overview": "An experimental serum called Extremis gets stolen, and Iron Man rockets into action. The ensuing battles test Stark's spirit and Iron Man's power.",
 		"poster_path": "/w10ClxT6uqnyxJZiMAx2ty9GkWu.jpg",
+		"first_air_date": "2010-11-30",
+		"name": "Iron Man: Extremis",
 		"vote_average": 6.3,
 		"title": "Iron Man: Extremis",
 		"slug": "iron-man-extremis",
@@ -4031,8 +4005,8 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/vgPDKfOerEyF260CvozVEWj9T8n.jpg",
-		"first_air_date": "2010-10-20",
 		"genre_ids": [
 			10759,
 			16,
@@ -4040,15 +4014,16 @@
 			10751
 		],
 		"id": 33623,
-		"name": "The Avengers: Earth's Mightiest Heroes",
 		"origin_country": [
 			"US"
 		],
 		"original_language": "en",
 		"original_name": "The Avengers: Earth's Mightiest Heroes",
 		"overview": "When the powers of a single hero are not enough to save the world, the world’s greatest heroes—Iron Man, Thor, Captain America, The Hulk, Ant-Man/Giant Man and Wasp—assemble to form the Avengers.",
-		"poster_path": "/eyUeOUefufuBCeih3lOi2NkFD9r.jpg",
-		"vote_average": 8.2,
+		"poster_path": "/8MwwAuDy6dc1GbiBUZdvWtQczqR.jpg",
+		"first_air_date": "2010-10-20",
+		"name": "The Avengers: Earth's Mightiest Heroes",
+		"vote_average": 8.148,
 		"title": "The Avengers: Earth's Mightiest Heroes",
 		"slug": "the-avengers-earths-mightiest-heroes",
 		"tags": [
@@ -4056,32 +4031,12 @@
 			"company-7505",
 			"list-8204859"
 		],
-		"media_type": "tv"
+		"media_type": "tv",
+		"runtime": null
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
-			16
-		],
-		"id": 256361,
-		"original_language": "en",
-		"original_title": "Astonishing X-Men: Gifted",
-		"overview": "Cyclops and Emma Frost re-form the X-Men with the express purpose of \"astonishing\" the world. But when breaking news regarding a cure to the mutant gene unexpectedly hits the airwaves, will it derail their new plans before they even get started?",
-		"poster_path": "/48MJRUJY3Yf5jyMLbJFAFmQkAdz.jpg",
-		"release_date": "2010-09-28",
-		"title": "Astonishing X-Men: Gifted",
-		"video": false,
-		"vote_average": 6.8,
-		"slug": "astonishing-x-men-gifted",
-		"tags": [
-			"movie",
-			"company-11106"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/jesRqfL9v6HNnowe795xjmuKUXl.jpg",
+		"backdrop_path": "/7lmBufEG7P7Y1HClYK3gCxYrkgS.jpg",
 		"genre_ids": [
 			12,
 			28,
@@ -4095,11 +4050,36 @@
 		"release_date": "2010-04-28",
 		"title": "Iron Man 2",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.839,
 		"slug": "iron-man-2",
 		"tags": [
 			"movie",
+			"company-7505",
 			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			10765
+		],
+		"id": 248934,
+		"origin_country": [
+			"US"
+		],
+		"original_language": "en",
+		"original_name": "Stark Expo Shorts",
+		"overview": "Stark Expo Shorts is a series of short videos released by Stark Industries to promote the Stark Expo, an event showcasing the latest technological advancements. The series consists of five episodes, each lasting approximately 1 minute, and was first aired on March 30, 2010",
+		"poster_path": null,
+		"first_air_date": "2010-03-31",
+		"name": "Stark Expo Shorts",
+		"vote_average": 0,
+		"title": "Stark Expo Shorts",
+		"slug": "stark-expo-shorts",
+		"tags": [
+			"tv",
+			"company-7505"
 		]
 	},
 	{
@@ -4124,14 +4104,13 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/j2Tx0A3A7j1ctIOf7ZLSMlC8Z40.jpg",
-		"first_air_date": "2010-01-16",
 		"genre_ids": [
 			10759,
 			16
 		],
 		"id": 19757,
-		"name": "Black Panther",
 		"origin_country": [
 			"AU"
 		],
@@ -4139,6 +4118,8 @@
 		"original_name": "Black Panther",
 		"overview": "Deep in the heart of Africa lies Wakanda, an advanced and unconquerable civilization. A family of warrior kings possessing superior speed, strength and agility has governed this mysterious nation as long as time itself. The latest in this famed line is young King T’Challa, the great hero known worldwide as the Black Panther. Now, outsiders once again threaten to invade and plunder Wakanda.",
 		"poster_path": "/op1gn2mK4ohZfhpKj92KEbwvc9C.jpg",
+		"first_air_date": "2010-01-16",
+		"name": "Black Panther",
 		"vote_average": 6.8,
 		"title": "Black Panther",
 		"slug": "black-panther",
@@ -4148,14 +4129,13 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/sH1RoZI7226e7B3tfRC7cRJBUDy.jpg",
-		"first_air_date": "2009-08-18",
 		"genre_ids": [
 			16,
 			10759
 		],
 		"id": 77269,
-		"name": "Marvel Knights: Spider-Woman, Agent of S.W.O.R.D.",
 		"origin_country": [
 			"US"
 		],
@@ -4163,7 +4143,9 @@
 		"original_name": "Marvel Knights: Spider-Woman, Agent of S.W.O.R.D.",
 		"overview": "Feeling like the most hated person on Earth after the events of Secret Invasion, Jessica Drew aka Spider-Woman is approached by a mysterious stranger to join S.W.O.R.D. (Sentient World Observation and Response Department), a counter-terrorism and intelligence agency for extraterrestrial threats.",
 		"poster_path": "/93pxdXPT8RC2pArLU3iQPGyQkAX.jpg",
-		"vote_average": 5.8,
+		"first_air_date": "2009-08-18",
+		"name": "Marvel Knights: Spider-Woman, Agent of S.W.O.R.D.",
+		"vote_average": 5.525,
 		"title": "Marvel Knights: Spider-Woman, Agent of S.W.O.R.D.",
 		"slug": "marvel-knights-spider-woman-agent-of-sword",
 		"tags": [
@@ -4174,72 +4156,49 @@
 	{
 		"adult": false,
 		"backdrop_path": "/wvqdJLVh0mSblly7UnYFPEk04Wd.jpg",
-		"genre_ids": [
-			12,
-			28,
-			53,
-			878
-		],
 		"id": 2080,
-		"media_type": "movie",
+		"title": "X-Men Origins: Wolverine",
 		"original_language": "en",
 		"original_title": "X-Men Origins: Wolverine",
 		"overview": "After seeking to live a normal life, Logan sets out to avenge the death of his girlfriend by undergoing the mutant Weapon X program and becoming Wolverine.",
 		"poster_path": "/yj8LbTju1p7CUJg7US2unSBk33s.jpg",
+		"media_type": "movie",
+		"runtime": 107,
+		"revenue": 373062864,
+		"genre_ids": [
+			12,
+			28,
+			878
+		],
 		"release_date": "2009-04-28",
-		"title": "X-Men Origins: Wolverine",
 		"video": false,
-		"vote_average": 6.3,
+		"vote_average": 6.263,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"list-8204860"
 		]
 	},
 	{
-		"backdrop_path": null,
-		"first_air_date": "2009-04-28",
-		"genre_ids": [
-			10765
-		],
-		"id": 216720,
-		"name": "Brazilian Wolverine",
-		"origin_country": [
-			"BR",
-			"IN",
-			"PT",
-			"GB",
-			"US"
-		],
-		"original_language": "pt",
-		"original_name": "Wolverine Brasileiro",
-		"overview": "This television series about the brazilian performer Marcos Greick, who plays the Wolverine in CULTZONE Interview talk-show in the YTB.",
-		"poster_path": "/siKP5HS8BZO41a6GXH9aki52DNn.jpg",
-		"vote_average": 0,
-		"title": "Brazilian Wolverine",
-		"slug": "brazilian-wolverine",
-		"tags": [
-			"tv",
-			"company-7505"
-		]
-	},
-	{
+		"adult": false,
 		"backdrop_path": "/geoJ7FkV4NXAhZ7pYNCOWGYEBLV.jpg",
-		"first_air_date": "2009-04-24",
 		"genre_ids": [
 			16,
 			10759,
-			10765
+			10765,
+			10751
 		],
 		"id": 7330,
-		"name": "Iron Man: Armored Adventures",
 		"origin_country": [
-			"US"
+			"US",
+			"CA"
 		],
 		"original_language": "en",
 		"original_name": "Iron Man: Armored Adventures",
 		"overview": "Iron Man: Armored Adventures is a 3D CGI cartoon series based on the Marvel Comics superhero Iron Man. It debuted in the USA on the Nicktoons on April 24, 2009, and has already begun airing on Canadian network Teletoon. Iron Man: Armored Adventures aired on Nickelodeon on July 4, 2009 until September 12, 2009. The series is story edited by showrunner Christopher Yost, who also worked on Wolverine and the X-Men, and numerous other Marvel Animation projects. The television show is not related to the 2007 animated film The Invincible Iron Man; It has a different voice cast, but some story elements are similar and the show uses the same musical score as the film in some instances. It is the first Iron Man television series since Iron Man from 1994–1996, and started airing after the success of the live action Iron Man film.\n\nThe series follows the adventures of teenage child prodigy Tony Stark and his alter ego of Iron Man. As Iron Man, he uses his technological inventions to fight various similarly technologically advanced threats. His friends, James \"Rhodey\" Rhodes and Pepper Potts help him on his courageous, and dangerous adventures.",
 		"poster_path": "/uwMIL8PR1jHpHQksIq7kzdeqg2A.jpg",
-		"vote_average": 7.5,
+		"first_air_date": "2009-04-24",
+		"name": "Iron Man: Armored Adventures",
+		"vote_average": 7.2,
 		"title": "Iron Man: Armored Adventures",
 		"slug": "iron-man-armored-adventures",
 		"tags": [
@@ -4248,8 +4207,57 @@
 		]
 	},
 	{
+		"adult": false,
+		"backdrop_path": "/wS3ofKrgeSWR85TSvWCqo3hWvSf.jpg",
+		"genre_ids": [
+			16,
+			28,
+			878,
+			12,
+			14
+		],
+		"id": 15257,
+		"original_language": "en",
+		"original_title": "Hulk vs. Wolverine",
+		"overview": "Department H sends in Wolverine to track down a mysterious beast known by the US Military as the Hulk, who is rampaging across the Canadian wilderness. Surveying the extent of the damage to a destroyed town, Wolverine notices a toxic scent as well as the smell of gunpowder. He is then deployed to the wilderness to resume tracking the creature.",
+		"poster_path": "/p8PZfkrCuXanfYr3k6xAS6WzN8Y.jpg",
+		"release_date": "2009-01-27",
+		"title": "Hulk vs. Wolverine",
+		"video": false,
+		"vote_average": 7.1,
+		"slug": "hulk-vs-wolverine",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/1y6dEBTOzCyJRetN9fOtS0H7Vnx.jpg",
+		"genre_ids": [
+			28,
+			16,
+			14,
+			878
+		],
+		"id": 101907,
+		"original_language": "en",
+		"original_title": "Hulk vs. Thor",
+		"overview": "For ages, Odin has protected his kingdom of Asgard. But every winter, the All-Father must rest and regain his strength for one week. During this time, all of Asgard's foes (including trolls, giants, dark elves, and demons) try to claim the realm for their own, but they are always stopped by Odin's son, the mighty Thor, albeit with the loss of many brave Asgardian warriors. Loki, god of mischief, has kidnapped Dr. Bruce Banner and brought him to Asgard with the help of Amora, once Thor's lover, now the supervillain known as the Enchantress. Loki makes Banner angry and he changes into the Hulk. The Enchantress then casts a spell over the Hulk which separates Banner from his monstrous alter-ego and grants Loki control over the Hulk's body.",
+		"poster_path": "/4NS7L9xtGEOsZA0gnqdQBI7QiXu.jpg",
+		"release_date": "2009-01-27",
+		"title": "Hulk vs. Thor",
+		"video": false,
+		"vote_average": 6.8,
+		"slug": "hulk-vs-thor",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/uPbpYFYXlUdTDEmfoubKNfdEZZx.jpg",
-		"first_air_date": "2009-01-23",
 		"genre_ids": [
 			16,
 			10759,
@@ -4257,7 +4265,6 @@
 			10765
 		],
 		"id": 6549,
-		"name": "Wolverine and the X-Men",
 		"origin_country": [
 			"US"
 		],
@@ -4265,7 +4272,9 @@
 		"original_name": "Wolverine and the X-Men",
 		"overview": "Wolverine and the X-Men must join together again to not only battle the increasingly powerful Mutant Response Division, but also to prevent a catastrophic future that Xavier has warned Wolverine must never come to pass.",
 		"poster_path": "/oSeJ2nESB77iC6SLo4qcqoadjdt.jpg",
-		"vote_average": 7.6,
+		"first_air_date": "2009-01-23",
+		"name": "Wolverine and the X-Men",
+		"vote_average": 7.546,
 		"title": "Wolverine and the X-Men",
 		"slug": "wolverine-and-the-x-men",
 		"tags": [
@@ -4288,11 +4297,37 @@
 		"release_date": "2008-12-05",
 		"title": "Punisher: War Zone",
 		"video": false,
-		"vote_average": 5.8,
+		"vote_average": 5.82,
 		"slug": "punisher-war-zone",
 		"tags": [
 			"movie",
-			"company-11106"
+			"company-11106",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/8N91uYwrr1uepEKbmym1tgfXlzS.jpg",
+		"genre_ids": [
+			16,
+			10751,
+			28,
+			12,
+			878
+		],
+		"id": 14613,
+		"original_language": "en",
+		"original_title": "Next Avengers: Heroes of Tomorrow",
+		"overview": "The children of the Avengers hone their powers and go head to head with the very enemy responsible for their parents' demise.",
+		"poster_path": "/fpG1NDbcLV2a7c8X7LC4FPISBT7.jpg",
+		"release_date": "2008-09-02",
+		"title": "Next Avengers: Heroes of Tomorrow",
+		"video": false,
+		"vote_average": 6.9,
+		"slug": "next-avengers-heroes-of-tomorrow",
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -4311,10 +4346,11 @@
 		"release_date": "2008-06-12",
 		"title": "The Incredible Hulk",
 		"video": false,
-		"vote_average": 6.2,
+		"vote_average": 6.207,
 		"slug": "the-incredible-hulk",
 		"tags": [
 			"movie",
+			"company-7505",
 			"company-420"
 		]
 	},
@@ -4334,22 +4370,24 @@
 		"release_date": "2008-04-30",
 		"title": "Iron Man",
 		"video": false,
-		"vote_average": 7.6,
+		"vote_average": 7.642,
 		"slug": "iron-man",
 		"tags": [
 			"movie",
+			"company-7505",
 			"company-420"
 		]
 	},
 	{
-		"backdrop_path": "/6rzoUOEkOVxB6EXHp0EgeNd4tke.jpg",
-		"first_air_date": "2008-03-08",
+		"adult": false,
+		"backdrop_path": "/s1GAT7wagWtC5TJ5HU0WTIxYBwR.jpg",
 		"genre_ids": [
 			10759,
-			16
+			16,
+			10762,
+			10751
 		],
 		"id": 3854,
-		"name": "The Spectacular Spider-Man",
 		"origin_country": [
 			"US"
 		],
@@ -4357,7 +4395,9 @@
 		"original_name": "The Spectacular Spider-Man",
 		"overview": "Having spent the summer engaging common criminals with his new-found powers, not so typical 16-year-old Peter Parker must conceal his secret identity and battle super-villains in the real world as he enters his junior year of high school.",
 		"poster_path": "/dCNxOhXT7c4lqYuRpdM3m8s9XDp.jpg",
-		"vote_average": 8.6,
+		"first_air_date": "2008-03-08",
+		"name": "The Spectacular Spider-Man",
+		"vote_average": 8.594,
 		"title": "The Spectacular Spider-Man",
 		"slug": "the-spectacular-spider-man",
 		"tags": [
@@ -4367,12 +4407,35 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": "/vy3uI3PCQWVnoW7OrKzB65Ba02c.jpg",
+		"genre_ids": [
+			28,
+			16,
+			14,
+			878
+		],
+		"id": 14830,
+		"original_language": "en",
+		"original_title": "Doctor Strange",
+		"overview": "Dr. Stephen Strange embarks on a wondrous journey to the heights of a Tibetan mountain, where he seeks healing at the feet of the mysterious Ancient One.",
+		"poster_path": "/7ygcpWXsWmEc83j7zE8P0lvC0Q.jpg",
+		"release_date": "2007-08-14",
+		"title": "Doctor Strange",
+		"video": false,
+		"vote_average": 6.8,
+		"slug": "doctor-strange",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/7ff2FyFmskEFfmXHkxuqVr47DiG.jpg",
 		"genre_ids": [
+			878,
 			12,
-			14,
-			28,
-			53
+			28
 		],
 		"id": 1979,
 		"original_language": "en",
@@ -4382,7 +4445,7 @@
 		"release_date": "2007-06-13",
 		"title": "Fantastic Four: Rise of the Silver Surfer",
 		"video": false,
-		"vote_average": 5.6,
+		"vote_average": 5.601,
 		"slug": "fantastic-four-rise-of-the-silver-surfer",
 		"tags": [
 			"movie",
@@ -4414,9 +4477,9 @@
 		"adult": false,
 		"backdrop_path": "/w1oD1MzHjnBJc5snKupIQaSBLIh.jpg",
 		"genre_ids": [
-			14,
 			28,
-			12
+			12,
+			878
 		],
 		"id": 559,
 		"original_language": "en",
@@ -4426,7 +4489,7 @@
 		"release_date": "2007-05-01",
 		"title": "Spider-Man 3",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.412,
 		"slug": "spider-man-3",
 		"tags": [
 			"movie",
@@ -4435,7 +4498,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/oUi2pvNbHCUiEFSqawp5dJdQNMK.jpg",
+		"backdrop_path": "/rhyJbGkOsJB9W1cOkjbzTShwOUP.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -4451,18 +4514,21 @@
 		"release_date": "2007-01-23",
 		"title": "The Invincible Iron Man",
 		"video": false,
-		"vote_average": 6.1,
+		"vote_average": 6.138,
 		"slug": "the-invincible-iron-man",
 		"tags": [
 			"movie",
 			"company-7505",
+			"company-420",
 			"list-8204859"
 		],
-		"media_type": "movie"
+		"media_type": "movie",
+		"runtime": 83,
+		"revenue": 0
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/1dlXEyAxdysMCRvq9lgIr6Jds9H.jpg",
+		"backdrop_path": "/7zS58YPAw002RNejOF1vNB3XHbW.jpg",
 		"genre_ids": [
 			53,
 			28,
@@ -4476,7 +4542,7 @@
 		"release_date": "2007-01-15",
 		"title": "Ghost Rider",
 		"video": false,
-		"vote_average": 5.5,
+		"vote_average": 5.562,
 		"slug": "ghost-rider",
 		"tags": [
 			"movie",
@@ -4484,14 +4550,14 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/q0bLjLCBZGhnMcRprx2gWRGdlrp.jpg",
-		"first_air_date": "2006-09-02",
 		"genre_ids": [
 			16,
-			10759
+			10759,
+			10765
 		],
 		"id": 132,
-		"name": "Fantastic Four: World's Greatest Heroes",
 		"origin_country": [
 			"US"
 		],
@@ -4499,7 +4565,9 @@
 		"original_name": "Fantastic Four: World's Greatest Heroes",
 		"overview": "Mister Fantastic, the Invisible Woman, the Human Torch, and Thing battle some of their greatest foes, including Doctor Doom, Ronan the Accuser, the Multiple Man, and Mole Man.",
 		"poster_path": "/zCtCW0JlbMpzfQDAX1bO1o1KLi.jpg",
-		"vote_average": 7.6,
+		"first_air_date": "2006-09-02",
+		"name": "Fantastic Four: World's Greatest Heroes",
+		"vote_average": 7.4,
 		"title": "Fantastic Four: World's Greatest Heroes",
 		"slug": "fantastic-four-worlds-greatest-heroes",
 		"tags": [
@@ -4518,22 +4586,22 @@
 		],
 		"id": 14611,
 		"original_language": "en",
-		"original_title": "Ultimate Avengers 2: Rise of the Panther",
+		"original_title": "Ultimate Avengers 2",
 		"overview": "Mysterious Wakanda lies in the darkest heart of Africa, unknown to most of the world. An isolated land hidden behind closed borders, fiercely protected by its young king: Black Panther. But when brutal alien invaders attack, the threat leaves Black Panther with no option but to go against the sacred decrees of his people and ask for help from outsiders.",
 		"poster_path": "/h1PKqtjuTifmTU0EqM4W0Br2pHX.jpg",
 		"release_date": "2006-08-08",
-		"title": "Ultimate Avengers 2: Rise of the Panther",
+		"title": "Ultimate Avengers 2",
 		"video": false,
 		"vote_average": 6.7,
-		"slug": "ultimate-avengers-2-rise-of-the-panther",
+		"slug": "ultimate-avengers-2",
 		"tags": [
 			"movie",
-			"company-19551"
+			"company-420"
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/aZkUbLPcPoLKRxu4T7i2RnL3y3n.jpg",
-		"first_air_date": "2006-06-28",
 		"genre_ids": [
 			10759,
 			10765,
@@ -4541,7 +4609,6 @@
 			9648
 		],
 		"id": 4619,
-		"name": "Blade: The Series",
 		"origin_country": [
 			"US"
 		],
@@ -4549,7 +4616,9 @@
 		"original_name": "Blade: The Series",
 		"overview": "Blade is a half-man, half-vampire who employs his extraordinary powers in a crusade to save mankind from the demonic creatures who walk the night. Set in Detroit, Blade investigates the vampire house of Chthon. Along the way he forms an uneasy alliance with Krista Starr, a former military veteran who becomes entrenched in the world of vampires while investigating the murder of her twin brother.",
 		"poster_path": "/xthJ8MoYaJROntPHaI5mUrXd4Qs.jpg",
-		"vote_average": 6.7,
+		"first_air_date": "2006-06-28",
+		"name": "Blade: The Series",
+		"vote_average": 6.661,
 		"title": "Blade: The Series",
 		"slug": "blade-the-series",
 		"tags": [
@@ -4559,23 +4628,25 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/ImsfbmLmUKvjGr1pBcg5P3SFNs.jpg",
+		"backdrop_path": "/sBl1n4Oi2wX81EtXIb8NsPqJf3W.jpg",
+		"id": 36668,
+		"title": "X-Men: The Last Stand",
+		"original_language": "en",
+		"original_title": "X-Men: The Last Stand",
+		"overview": "When a cure is found to treat mutations, lines are drawn amongst the X-Men—led by Professor Charles Xavier—and the Brotherhood, a band of powerful mutants organised under Xavier's former ally, Magneto.",
+		"poster_path": "/a2xicU8DpKtRizOHjQLC1JyCSRS.jpg",
+		"media_type": "movie",
+		"runtime": 104,
+		"revenue": 459359555,
 		"genre_ids": [
 			12,
 			28,
 			878,
 			53
 		],
-		"id": 36668,
-		"media_type": "movie",
-		"original_language": "en",
-		"original_title": "X-Men: The Last Stand",
-		"overview": "When a cure is found to treat mutations, lines are drawn amongst the X-Men—led by Professor Charles Xavier—and the Brotherhood, a band of powerful mutants organised under Xavier's former ally, Magneto.",
-		"poster_path": "/sNSvwqiNXjEvDSeQFsJAGPEP7Gl.jpg",
 		"release_date": "2006-05-24",
-		"title": "X-Men: The Last Stand",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.409,
 		"slug": "x-men-the-last-stand",
 		"tags": [
 			"list-8204860"
@@ -4583,10 +4654,9 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/463aGxN198nLz3sTDYzjSxufyAo.jpg",
+		"backdrop_path": "/tSEs9JVrlG6W3s26pgIpDxAFdfI.jpg",
 		"genre_ids": [
 			28,
-			12,
 			14,
 			878
 		],
@@ -4598,7 +4668,7 @@
 		"release_date": "2005-06-29",
 		"title": "Fantastic Four",
 		"video": false,
-		"vote_average": 5.8,
+		"vote_average": 5.783,
 		"slug": "fantastic-four",
 		"tags": [
 			"movie",
@@ -4621,7 +4691,7 @@
 		"release_date": "2005-04-21",
 		"title": "Man-Thing",
 		"video": false,
-		"vote_average": 4.2,
+		"vote_average": 4.302,
 		"slug": "man-thing",
 		"tags": [
 			"movie",
@@ -4634,7 +4704,7 @@
 		"genre_ids": [
 			28,
 			14,
-			878
+			12
 		],
 		"id": 9947,
 		"original_language": "en",
@@ -4644,7 +4714,7 @@
 		"release_date": "2005-01-13",
 		"title": "Elektra",
 		"video": false,
-		"vote_average": 5,
+		"vote_average": 5.044,
 		"slug": "elektra",
 		"tags": [
 			"movie",
@@ -4663,11 +4733,11 @@
 		"original_language": "en",
 		"original_title": "Blade: Trinity",
 		"overview": "For years, Blade has fought against the vampires in the cover of the night. But now, after falling into the crosshairs of the FBI, he is forced out into the daylight, where he is driven to join forces with a clan of human vampire hunters he never knew existed—The Nightstalkers. Together with Abigail and Hannibal, two deftly trained Nightstalkers, Blade follows a trail of blood to the ancient creature that is also hunting him—the original vampire, Dracula.",
-		"poster_path": "/rodqqX8NLe3cdcgBMc4CFTPidTy.jpg",
+		"poster_path": "/6f7iXvPOnf83MaLB1JmPzUor1rr.jpg",
 		"release_date": "2004-12-08",
 		"title": "Blade: Trinity",
 		"video": false,
-		"vote_average": 5.9,
+		"vote_average": 5.856,
 		"slug": "blade-trinity",
 		"tags": [
 			"movie",
@@ -4676,11 +4746,32 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/6al048Lat3eLVQOuKtc9h6Tu94d.jpg",
+		"backdrop_path": "/s0dJIDBLiN1IAjFisxKi9PBQnYW.jpg",
+		"genre_ids": [
+			99
+		],
+		"id": 1244755,
+		"original_language": "en",
+		"original_title": "8 Arms to Hold You",
+		"overview": "An \"Ock-umentary\" exploring the character of Doc Ock and the way he as well as his tentacles were brought to life on the silver screen.",
+		"poster_path": "/AmUUD1SDWh8slviwBxMTymmbyyJ.jpg",
+		"release_date": "2004-11-30",
+		"title": "8 Arms to Hold You",
+		"video": false,
+		"vote_average": 0,
+		"slug": "8-arms-to-hold-you",
+		"tags": [
+			"movie",
+			"company-7505"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/ouMBIALAOq0rpoB8b2RydUevRu1.jpg",
 		"genre_ids": [
 			28,
 			12,
-			14
+			878
 		],
 		"id": 558,
 		"original_language": "en",
@@ -4690,7 +4781,7 @@
 		"release_date": "2004-06-25",
 		"title": "Spider-Man 2",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.268,
 		"slug": "spider-man-2",
 		"tags": [
 			"movie",
@@ -4713,7 +4804,7 @@
 		"release_date": "2004-04-15",
 		"title": "The Punisher",
 		"video": false,
-		"vote_average": 6.3,
+		"vote_average": 6.344,
 		"slug": "the-punisher",
 		"tags": [
 			"movie",
@@ -4721,34 +4812,35 @@
 		]
 	},
 	{
-		"backdrop_path": "/mAxvl6V3st40soXyF4VADSFQUWE.jpg",
-		"first_air_date": "2003-07-11",
+		"adult": false,
+		"backdrop_path": "/zw3IQw3bQp90XaN8IYM84wtjC6Y.jpg",
 		"genre_ids": [
 			16,
 			10759,
 			10765
 		],
 		"id": 1664,
-		"name": "Spider-Man: The New Animated Series",
 		"origin_country": [
 			"CA",
 			"US"
 		],
 		"original_language": "en",
 		"original_name": "Spider-Man: The New Animated Series",
-		"overview": "Spider-Man: The New Animated Series is an American animated series based on the Marvel comic book superhero character Spider-Man, which ran for one season, 13 episodes, starting on July 11, 2003. It is a loose continuation of 2002's Spider-Man film directed by Sam Raimi. The show was made using computer generated imagery rendered in cel shading and was broadcast on MTV, and YTV. Eight months later after the series finale, episodes aired in reruns on ABC Family as part of the Jetix television programming block. The series featured a far more mature version of the character than typically seen on television for any animated comic book adaptation. Throughout the series, characters are clearly killed, rather than the usual ambiguous disappearance, and several characters are strongly implied to have had sex.",
-		"poster_path": "/z4CRC612QrGrC1kLtDm8ykLeIrs.jpg",
-		"vote_average": 7.1,
+		"overview": "Bitten by an irradiated spider, teenager Peter Parker gains arachnid-like powers that make him both a hero to those in need and a vigilante wanted by the police.",
+		"poster_path": "/v3UfqXCAxAcI7oUO4zwtk1T9G3n.jpg",
+		"first_air_date": "2003-07-11",
+		"name": "Spider-Man: The New Animated Series",
+		"vote_average": 7.13,
 		"title": "Spider-Man: The New Animated Series",
 		"slug": "spider-man-the-new-animated-series",
 		"tags": [
 			"tv",
-			"company-7505"
+			"company-19551"
 		]
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/kYd1ZMWvG9K2Jeop3XWXcTpJ2dB.jpg",
+		"backdrop_path": "/8vQBXqDbb30qNpBcNYwTesSg75.jpg",
 		"genre_ids": [
 			878,
 			12,
@@ -4762,7 +4854,7 @@
 		"release_date": "2003-06-19",
 		"title": "Hulk",
 		"video": false,
-		"vote_average": 5.5,
+		"vote_average": 5.544,
 		"slug": "hulk",
 		"tags": [
 			"movie",
@@ -4771,26 +4863,30 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/loixNIKBURXfPcND4noz7E8FqCS.jpg",
+		"backdrop_path": "/s8ftvFvafWWEhApISamHx32bx6h.jpg",
 		"genre_ids": [
 			12,
 			28,
 			878
 		],
 		"id": 36658,
-		"media_type": "movie",
 		"original_language": "en",
 		"original_title": "X2",
 		"overview": "Professor Charles Xavier and his team of genetically gifted superheroes face a rising tide of anti-mutant sentiment led by Col. William Stryker. Storm, Wolverine and Jean Grey must join their usual nemeses—Magneto and Mystique—to unhinge Stryker's scheme to exterminate all mutants.",
-		"poster_path": "/pwQo1ehiPBqAbiVqD6rfNM8GCFE.jpg",
+		"poster_path": "/r3i3rMSHneAp9uQNZA4I04y9S4p.jpg",
 		"release_date": "2003-04-27",
 		"title": "X2",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 7.029,
 		"slug": "x2",
 		"tags": [
+			"movie",
+			"company-19551",
 			"list-8204860"
-		]
+		],
+		"media_type": "movie",
+		"runtime": 133,
+		"revenue": 407711549
 	},
 	{
 		"adult": false,
@@ -4807,7 +4903,7 @@
 		"release_date": "2003-02-14",
 		"title": "Daredevil",
 		"video": false,
-		"vote_average": 5.3,
+		"vote_average": 5.258,
 		"slug": "daredevil",
 		"tags": [
 			"movie",
@@ -4818,8 +4914,8 @@
 		"adult": false,
 		"backdrop_path": "/jHxCeXnSchAuwHnmVatTgqMYdX8.jpg",
 		"genre_ids": [
-			14,
-			28
+			28,
+			878
 		],
 		"id": 557,
 		"original_language": "en",
@@ -4829,7 +4925,7 @@
 		"release_date": "2002-05-01",
 		"title": "Spider-Man",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.291,
 		"slug": "spider-man",
 		"tags": [
 			"movie",
@@ -4837,63 +4933,45 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/A2BqbbSs9E4emekdxdvWzLK6lpx.jpg",
-		"first_air_date": "2001-10-06",
 		"genre_ids": [
 			10765,
 			10759,
 			9648
 		],
 		"id": 1449,
-		"media_type": "tv",
-		"name": "Mutant X",
 		"origin_country": [
-			"CA",
 			"US"
 		],
 		"original_language": "en",
 		"original_name": "Mutant X",
 		"overview": "Mutant X is a science fiction television series that debuted on October 6, 2001. The show was created by Avi Arad, and it centers around Mutant X, a team of \"New Mutants\" who possess extraordinary powers as a result of genetic engineering. The members of Mutant X were used as test subjects in a series of covert government experiments. The mission of Mutant X is to seek out and protect their fellow New Mutants. The series was filmed in Toronto, Ontario, Canada.\n\nEven though the series had high ratings and was meant to be renewed for a fourth season, it was abruptly canceled in 2004 after the dismantling of Fireworks Entertainment, one of the show's production companies, ending the show on a cliffhanger.",
 		"poster_path": "/yiKg027jdpkSsguVBI9WqliNWez.jpg",
-		"vote_average": 6.6,
+		"first_air_date": "2001-10-06",
+		"name": "Mutant X",
+		"vote_average": 6.532,
 		"title": "Mutant X",
 		"slug": "mutant-x",
 		"tags": [
+			"tv",
+			"company-420",
 			"list-8204860"
-		]
+		],
+		"media_type": "tv",
+		"runtime": null
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/chn9jBtOC65JlOd4IObtNjwX3UK.jpg",
-		"genre_ids": [
-			99
-		],
-		"id": 447399,
-		"original_language": "en",
-		"original_title": "X-Men: The Mutant Watch",
-		"overview": "While Senator Kelly addresses a senate committee about the supposed mutant menace, we learn about the making of the movie, X-Men.",
-		"poster_path": "/4FwbuT0NJwcHGRqRc3kpTjgj0jS.jpg",
-		"release_date": "2001-08-11",
-		"title": "X-Men: The Mutant Watch",
-		"video": false,
-		"vote_average": 7,
-		"slug": "x-men-the-mutant-watch",
-		"tags": [
-			"movie",
-			"company-7505"
-		]
-	},
-	{
 		"backdrop_path": "/ypjekzMRMvdrx4PRA7v1DNyCmTR.jpg",
-		"first_air_date": "2000-11-04",
 		"genre_ids": [
 			10762,
 			16,
 			10765,
-			10759
+			10759,
+			18
 		],
 		"id": 668,
-		"name": "X-Men: Evolution",
 		"origin_country": [
 			"US"
 		],
@@ -4901,7 +4979,9 @@
 		"original_name": "X-Men: Evolution",
 		"overview": "Teenagers Cyclops, Jean Grey, Rogue, Nightcrawler, Shadowcat, and Spike fight for a world that fears and hates them.",
 		"poster_path": "/At5aZIKkN8zHTAXOnQR9D3b7usW.jpg",
-		"vote_average": 8,
+		"first_air_date": "2000-11-04",
+		"name": "X-Men: Evolution",
+		"vote_average": 7.924,
 		"title": "X-Men: Evolution",
 		"slug": "x-men-evolution",
 		"tags": [
@@ -4909,24 +4989,27 @@
 			"company-420",
 			"list-8204860"
 		],
-		"media_type": "tv"
+		"media_type": "tv",
+		"runtime": null
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/yGxMIIDSUvaXUjjJuIYZi40Jt3J.jpg",
+		"backdrop_path": "/a6MwSrIKmMjs5b8os7eEgQk05yx.jpg",
+		"id": 36657,
+		"title": "X-Men",
+		"original_language": "en",
+		"original_title": "X-Men",
+		"overview": "Two mutants, Rogue and Wolverine, come to a private academy for their kind whose resident superhero team, the X-Men, must oppose a terrorist organization with similar powers.",
+		"poster_path": "/bRDAc4GogyS9ci3ow7UnInOcriN.jpg",
+		"media_type": "movie",
+		"runtime": 104,
+		"revenue": 296339527,
 		"genre_ids": [
 			12,
 			28,
 			878
 		],
-		"id": 36657,
-		"media_type": "movie",
-		"original_language": "en",
-		"original_title": "X-Men",
-		"overview": "Two mutants, Rogue and Wolverine, come to a private academy for their kind whose resident superhero team, the X-Men, must oppose a terrorist organization with similar powers.",
-		"poster_path": "/bRDAc4GogyS9ci3ow7UnInOcriN.jpg",
 		"release_date": "2000-07-13",
-		"title": "X-Men",
 		"video": false,
 		"vote_average": 7,
 		"slug": "x-men",
@@ -4935,13 +5018,14 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/44TJgVKPto88kOF2R036dgkjJms.jpg",
-		"first_air_date": "1999-10-30",
 		"genre_ids": [
-			16
+			16,
+			10759,
+			10765
 		],
 		"id": 1300,
-		"name": "The Avengers: United They Stand",
 		"origin_country": [
 			"US"
 		],
@@ -4949,7 +5033,9 @@
 		"original_name": "The Avengers: United They Stand",
 		"overview": "When the planet is threatened by Super Villains, time traveling conquerors, alien invaders, mythical monsters or mad robots bent on the total destruction of humanity, when the forces of evil are so overwhelming that no single hero has the power to save the world, when there is no hope left…the AVENGERS ASSEMBLE!",
 		"poster_path": "/p2SrnKTQjLRXBCcTZtYkTZCwLpp.jpg",
-		"vote_average": 5.9,
+		"first_air_date": "1999-10-30",
+		"name": "The Avengers: United They Stand",
+		"vote_average": 5.8,
 		"title": "The Avengers: United They Stand",
 		"slug": "the-avengers-united-they-stand",
 		"tags": [
@@ -4957,17 +5043,18 @@
 			"company-19551",
 			"list-8204859"
 		],
-		"media_type": "tv"
+		"media_type": "tv",
+		"runtime": null
 	},
 	{
-		"backdrop_path": "/3WRvDj6od3V6PB90LXFthFLBJmL.jpg",
-		"first_air_date": "1999-10-02",
+		"adult": false,
+		"backdrop_path": "/6CPSftO0ZsMOS9JxhxEwsSQfLmt.jpg",
 		"genre_ids": [
 			16,
-			10759
+			10759,
+			10765
 		],
 		"id": 10079,
-		"name": "Spider-Man Unlimited",
 		"origin_country": [
 			"US"
 		],
@@ -4975,7 +5062,9 @@
 		"original_name": "Spider-Man Unlimited",
 		"overview": "Spider-Man travels to Counter-Earth to rescue a Terran shuttle crew trapped there and discovers a tyrannical & warped version of his world.",
 		"poster_path": "/fvmC5QzQwkI5ZNJauE4xpF24PTB.jpg",
-		"vote_average": 7.4,
+		"first_air_date": "1999-10-02",
+		"name": "Spider-Man Unlimited",
+		"vote_average": 7.421,
 		"title": "Spider-Man Unlimited",
 		"slug": "spider-man-unlimited",
 		"tags": [
@@ -4985,7 +5074,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/m4QcUdzeCMEfs01FqLwrskoPXGL.jpg",
+		"backdrop_path": "/4mVVwbrdyPoT6BTf9H5YpJ8kCYJ.jpg",
 		"genre_ids": [
 			878,
 			28,
@@ -4999,7 +5088,7 @@
 		"release_date": "1998-05-26",
 		"title": "Nick Fury: Agent of S.H.I.E.L.D.",
 		"video": false,
-		"vote_average": 4.5,
+		"vote_average": 4.453,
 		"slug": "nick-fury-agent-of-shield",
 		"tags": [
 			"movie",
@@ -5007,15 +5096,14 @@
 		]
 	},
 	{
-		"backdrop_path": "/776tRQ2c0JNrRjZahgpEdXtjSD9.jpg",
-		"first_air_date": "1998-02-07",
+		"adult": false,
+		"backdrop_path": "/jTupUx9wdoIKe8BFoP5Z1xzEtno.jpg",
 		"genre_ids": [
 			16,
 			10759,
 			10765
 		],
 		"id": 1130,
-		"name": "Silver Surfer",
 		"origin_country": [
 			"US"
 		],
@@ -5023,7 +5111,9 @@
 		"original_name": "Silver Surfer",
 		"overview": "The adventures of the cosmic wanderer as he seeks his lost home after rebelling from his master.",
 		"poster_path": "/mBJTL4CRSoNkAQRmfwbiLTtviuW.jpg",
-		"vote_average": 7.4,
+		"first_air_date": "1998-02-07",
+		"name": "Silver Surfer",
+		"vote_average": 7.2,
 		"title": "Silver Surfer",
 		"slug": "silver-surfer",
 		"tags": [
@@ -5033,22 +5123,24 @@
 		]
 	},
 	{
-		"backdrop_path": "/1gKj16OEeFxr3f0GFpE0jbYy4PS.jpg",
-		"first_air_date": "1997-09-20",
-		"genre_ids": [
-			10759
-		],
+		"adult": false,
+		"backdrop_path": "/38UpV8o9cbXtj4gwZrCHSVb9che.jpg",
 		"id": 13084,
-		"media_type": "tv",
 		"name": "Night Man",
-		"origin_country": [
-			"US"
-		],
 		"original_language": "en",
 		"original_name": "Night Man",
 		"overview": "Night Man is an American action/adventure/sci-fi series that aired in syndication from September 15, 1997 to May 17, 1999. The series is loosely based on a comic book published by Malibu Comics and was created by Steve Englehart and developed for television by Glen A. Larson.\n\nIt stars Matt McColm as the title character, a superhero whose real name was Johnny Domino, a saxophonist. Englehart would write three episodes of the series. Night Man is also one of the few series to cross over with characters from Larson's previous series: in the episode \"Manimal\", Johnny allies with Professor Jonathan Chase, the star of the short-lived 1980s' series Manimal.",
 		"poster_path": "/d5rE9WSSsRTuvfjRb9dOpnIMAOJ.jpg",
-		"vote_average": 6.4,
+		"media_type": "tv",
+		"runtime": null,
+		"genre_ids": [
+			10759
+		],
+		"first_air_date": "1997-09-20",
+		"vote_average": 6.2,
+		"origin_country": [
+			"US"
+		],
 		"title": "Night Man",
 		"slug": "night-man",
 		"tags": [
@@ -5057,23 +5149,51 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": "/2BvGyFBjDMNIZ5ojlhHpQLwWFxU.jpg",
+		"genre_ids": [
+			16,
+			10759,
+			18
+		],
+		"id": 6332,
+		"origin_country": [
+			"US"
+		],
+		"original_language": "en",
+		"original_name": "The Incredible Hulk",
+		"overview": "When research scientist Bruce Banner is blasted with a gamma ray bomb during an experiment gone wrong, he develops a dangerous alter ego -- a mean, green monster known as the Incredible Hulk -- who emerges when he gets angry.",
+		"poster_path": "/wa60s9NSvrH87NFCArmobnIyNnh.jpg",
+		"first_air_date": "1996-09-08",
+		"name": "The Incredible Hulk",
+		"vote_average": 6,
+		"title": "The Incredible Hulk",
+		"slug": "the-incredible-hulk",
+		"tags": [
+			"tv",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/tbZO6k6JXMAhCv9NLXS1lGYxxiy.jpg",
+		"id": 26623,
+		"title": "Generation X",
+		"original_language": "en",
+		"original_title": "Generation X",
+		"overview": "A group of young mutants--humans with a genetic variation that gives them superpowers and makes them feared by the population at large--begin training at a school for heroes. Their studies are interrupted when they must rescue one of their number from a mad scientist who can enter others' dreams.",
+		"poster_path": "/wqkTCfznNXtYO9UnnxComqhhHRP.jpg",
+		"media_type": "movie",
+		"runtime": 87,
+		"revenue": 0,
 		"genre_ids": [
 			10770,
 			28,
 			14,
 			878
 		],
-		"id": 26623,
-		"media_type": "movie",
-		"original_language": "en",
-		"original_title": "Generation X",
-		"overview": "A group of young mutants--humans with a genetic variation that gives them superpowers and makes them feared by the population at large--begin training at a school for heroes. Their studies are interrupted when they must rescue one of their number from a mad scientist who can enter others' dreams.",
-		"poster_path": "/wqkTCfznNXtYO9UnnxComqhhHRP.jpg",
-		"release_date": "1996-12-20",
-		"title": "Generation X",
+		"release_date": "1996-02-20",
 		"video": false,
-		"vote_average": 3.9,
+		"vote_average": 3.933,
 		"slug": "generation-x",
 		"tags": [
 			"list-8204860",
@@ -5081,23 +5201,25 @@
 		]
 	},
 	{
-		"backdrop_path": "/4QNBIgt5fwgNCN3OSU6BTFv0NGR.jpg",
-		"first_air_date": "1994-11-19",
+		"adult": false,
+		"backdrop_path": "/fFWdqlnBVNMLDneYUeQLFuPBq4Z.jpg",
+		"id": 888,
+		"name": "Spider-Man",
+		"original_language": "en",
+		"original_name": "Spider-Man",
+		"overview": "Bitten by a radioactive spider, Peter Parker develops spider-like superpowers. He uses these to fight crime while trying to balance it with the struggles of his personal life.",
+		"poster_path": "/m78QRL6puLJ9pXSQ8XMd3dVKOOW.jpg",
+		"media_type": "tv",
+		"runtime": null,
 		"genre_ids": [
 			16,
 			10759
 		],
-		"id": 888,
-		"media_type": "tv",
-		"name": "Spider-Man",
+		"first_air_date": "1994-11-19",
+		"vote_average": 8.268,
 		"origin_country": [
 			"US"
 		],
-		"original_language": "en",
-		"original_name": "Spider-Man",
-		"overview": "Bitten by a radioactive spider, Peter Parker develops spider-like superpowers. He uses these to fight crime while trying to balance it with the struggles of his personal life.",
-		"poster_path": "/peN9aqevr0edVoctVKGZDWFdTRl.jpg",
-		"vote_average": 8.3,
 		"title": "Spider-Man",
 		"slug": "spider-man",
 		"tags": [
@@ -5105,15 +5227,14 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/mYKYwihv940xGyDt2XckkBryNnP.jpg",
-		"first_air_date": "1994-09-24",
 		"genre_ids": [
 			10759,
 			16,
 			10762
 		],
 		"id": 2901,
-		"name": "Fantastic Four",
 		"origin_country": [
 			"US"
 		],
@@ -5121,7 +5242,9 @@
 		"original_name": "Fantastic Four",
 		"overview": "When Reed Richards, Sue and Johnny Storm and pilot Ben Grimm take a premature space flight on a new shuttle, they find themselves massively bombarded with cosmic radiation. Barely managing to re-enter and land safely, the quartet find themselves forever transformed with superpowers. Deciding to use these new powers to help people, they form the Fantastic Four, a superhero team dedicated to the protection of Earth from menaces like the Latverian King Dr. Doom and Galactus, the planet consumer.",
 		"poster_path": "/faLwKXaDaVnE3E8EGAhzsmKfGeQ.jpg",
-		"vote_average": 6.5,
+		"first_air_date": "1994-09-24",
+		"name": "Fantastic Four",
+		"vote_average": 6.365,
 		"title": "Fantastic Four",
 		"slug": "fantastic-four",
 		"tags": [
@@ -5130,24 +5253,26 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/ijOzFQw37jjfZdG1zproCkO6oue.jpg",
-		"first_air_date": "1994-09-24",
+		"id": 3097,
+		"name": "Iron Man",
+		"original_language": "en",
+		"original_name": "Iron Man",
+		"overview": "Industrialist Tony Stark leads a private team of superheroes as Iron Man against the forces of evil.",
+		"poster_path": "/nTQWWH6CFtl37x1nPx8HRwbwvGn.jpg",
+		"media_type": "tv",
+		"runtime": null,
 		"genre_ids": [
 			16,
 			10759,
 			10765
 		],
-		"id": 3097,
-		"media_type": "tv",
-		"name": "Iron Man",
+		"first_air_date": "1994-09-24",
+		"vote_average": 6.5,
 		"origin_country": [
 			"US"
 		],
-		"original_language": "en",
-		"original_name": "Iron Man",
-		"overview": "Industrialist Tony Stark leads a private team of superheroes as Iron Man against the forces of evil.",
-		"poster_path": "/nTQWWH6CFtl37x1nPx8HRwbwvGn.jpg",
-		"vote_average": 6.7,
 		"title": "Iron Man",
 		"slug": "iron-man",
 		"tags": [
@@ -5157,19 +5282,21 @@
 	{
 		"adult": false,
 		"backdrop_path": "/wQNYzjQKSZZ1eDJ0w1O62HPFDfN.jpg",
+		"id": 22059,
+		"title": "The Fantastic Four",
+		"original_language": "en",
+		"original_title": "The Fantastic Four",
+		"overview": "When dosed with cosmic rays, four intrepid astronauts are given incredible powers. They decide to form a superhero group called the Fantastic Four to fight their arch-enemy, Dr. Doom.",
+		"poster_path": "/5Pv3CqMKxoKo9052aWrvFAM7kfK.jpg",
+		"media_type": "movie",
+		"runtime": 90,
+		"revenue": 0,
 		"genre_ids": [
 			28,
 			878,
 			12
 		],
-		"id": 22059,
-		"media_type": "movie",
-		"original_language": "en",
-		"original_title": "The Fantastic Four",
-		"overview": "When dosed with cosmic rays, four intrepid astronauts are given incredible powers. They decide to form a superhero group called the Fantastic Four to fight their arch-enemy, Dr. Doom.",
-		"poster_path": "/2jJoV3Lze514jOAPagF4Fkp5Cl8.jpg",
 		"release_date": "1994-05-31",
-		"title": "The Fantastic Four",
 		"video": false,
 		"vote_average": 4.4,
 		"slug": "the-fantastic-four",
@@ -5178,25 +5305,27 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/5CPuNvSueKbCmltTzLAe8AiYS3u.jpg",
-		"first_air_date": "1992-10-31",
+		"id": 4574,
+		"name": "X-Men",
+		"original_language": "en",
+		"original_name": "X-Men",
+		"overview": "The X-Men are an elite team of mutants, genetically gifted human beings with superpowers, sworn to fight for mutant rights against hostile Government agencies, whilst at the same time protecting mankind from mutant supremacist Magneto who seeks to destroy the human race in return for the atrocities committed against mutant kind.",
+		"poster_path": "/jRGOY8KvL7hHrJcfKfXe99C4pc5.jpg",
+		"media_type": "tv",
+		"runtime": null,
 		"genre_ids": [
 			10762,
 			10765,
 			16,
 			10759
 		],
-		"id": 4574,
-		"media_type": "tv",
-		"name": "X-Men",
+		"first_air_date": "1992-10-31",
+		"vote_average": 8.183,
 		"origin_country": [
 			"US"
 		],
-		"original_language": "en",
-		"original_name": "X-Men",
-		"overview": "The X-Men are an elite team of mutants, genetically gifted human beings with superpowers, sworn to fight for mutant rights against hostile Government agencies, whilst at the same time protecting mankind from mutant supremacist Magneto who seeks to destroy the human race in return for the atrocities committed against mutant kind.",
-		"poster_path": "/jRGOY8KvL7hHrJcfKfXe99C4pc5.jpg",
-		"vote_average": 8.2,
 		"title": "X-Men",
 		"slug": "x-men",
 		"tags": [
@@ -5205,47 +5334,25 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/GfYVmaRWrNzOfyuoCvtFquaPLW.jpg",
-		"genre_ids": [
-			28,
-			12,
-			878,
-			10752
-		],
-		"id": 13995,
-		"original_language": "en",
-		"original_title": "Captain America",
-		"overview": "During World War II, a brave, patriotic American Soldier undergoes experiments to become a new supersoldier, \"Captain America\". Racing to Germany to sabotage the rockets of Nazi baddie \"Red Skull\", Captain America winds up frozen until the 1990s. He reawakens to find that the Red Skull has changed identities and is now planning to kidnap the President of the United States.",
-		"poster_path": "/vdHrLFfHcJX9nlvUfG3LK2a2hq4.jpg",
-		"release_date": "1990-12-14",
-		"title": "Captain America",
-		"video": false,
-		"vote_average": 4.5,
-		"slug": "captain-america",
-		"tags": [
-			"movie",
-			"company-7505"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": "/vNz1LTGnXY9YPqdTEnK7FbRYD7w.jpg",
+		"id": 19593,
+		"title": "The Death of the Incredible Hulk",
+		"original_language": "en",
+		"original_title": "The Death of the Incredible Hulk",
+		"overview": "During the critical experiment that would rid David Banner of the Hulk,a spy sabotages the laboratory. Banner falls in love with the spy, Jasmin, who performs missions only because her sister is being held hostage by Jasmin's superiors. Banner and Jasmin try to escape from the enemy agents to rebuild their lives together, but the Hulk is never far from them.",
+		"poster_path": "/6q6CviMLR97ssODmKhxgyxQuoYp.jpg",
+		"media_type": "movie",
+		"runtime": 95,
+		"revenue": 0,
 		"genre_ids": [
 			28,
 			18,
 			878,
 			10770
 		],
-		"id": 19593,
-		"media_type": "movie",
-		"original_language": "en",
-		"original_title": "The Death of the Incredible Hulk",
-		"overview": "During the critical experiment that would rid David Banner of the Hulk,a spy sabotages the laboratory. Banner falls in love with the spy, Jasmin, who performs missions only because her sister is being held hostage by Jasmin's superiors. Banner and Jasmin try to escape from the enemy agents to rebuild their lives together, but the Hulk is never far from them.",
-		"poster_path": "/6q6CviMLR97ssODmKhxgyxQuoYp.jpg",
 		"release_date": "1990-02-18",
-		"title": "The Death of the Incredible Hulk",
 		"video": false,
-		"vote_average": 4.9,
+		"vote_average": 5.067,
 		"slug": "the-death-of-the-incredible-hulk",
 		"tags": [
 			"list-8204862"
@@ -5253,29 +5360,16 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/tFmrdnfXM0p6ihMTFpptYOKEfSl.jpg",
-		"genre_ids": [
-			28,
-			53
-		],
-		"id": 8867,
-		"original_language": "en",
-		"original_title": "The Punisher",
-		"overview": "The avenging angel of Marvel Comics fame comes brilliantly to life in this searing action-adventure thriller! Dolph Lundgren stars as Frank Castle, a veteran cop who loses his entire family to a mafia car bomb. His ex-partner believes Castle survived the blast and became the Punisher, living in the sewers and exacting vigilante violence against mob bosses throughout the city. When the populace is caught in the midst of a gang war that he caused, Castle must again emerge from the shadows and save the innocent.",
-		"poster_path": "/94uI2GcM1Za0dJVUSSuyI8gvQgX.jpg",
-		"release_date": "1989-10-05",
-		"title": "The Punisher",
-		"video": false,
-		"vote_average": 5.7,
-		"slug": "the-punisher",
-		"tags": [
-			"movie",
-			"company-7505"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": "/vrb9b26WDZto8vmUnDMgZZ1T9hS.jpg",
+		"id": 26883,
+		"title": "The Trial of the Incredible Hulk",
+		"original_language": "en",
+		"original_title": "The Trial of the Incredible Hulk",
+		"overview": "On the run again, Dr. David Banner is jailed for assault after interrupting a mugging. Blind attorney Matt Murdock enlists Banner's help in locating the muggers because he believes they work for his longtime foe, Fisk, the head of an international crime network. But David, afraid of public exposure, breaks out of jail as the Hulk. Tracking David down, Murdock reveals his own secret: His blindness came from a radioactive spill, and after developing his other senses so incredibly, he has become the amazingly athletic crime fighter called Daredevil. Fisk must now face off against Daredevil and the Incredible Hulk!",
+		"poster_path": "/jaaeLvonWry3TdTXaGSu2VveNEG.jpg",
+		"media_type": "movie",
+		"runtime": 100,
+		"revenue": 0,
 		"genre_ids": [
 			12,
 			14,
@@ -5284,16 +5378,9 @@
 			878,
 			10770
 		],
-		"id": 26883,
-		"media_type": "movie",
-		"original_language": "en",
-		"original_title": "The Trial of the Incredible Hulk",
-		"overview": "On the run again, Dr. David Banner is jailed for assault after interrupting a mugging. Blind attorney Matt Murdock enlists Banner's help in locating the muggers because he believes they work for his longtime foe, Fisk, the head of an international crime network. But David, afraid of public exposure, breaks out of jail as the Hulk. Tracking David down, Murdock reveals his own secret: His blindness came from a radioactive spill, and after developing his other senses so incredibly, he has become the amazingly athletic crime fighter called Daredevil. Fisk must now face off against Daredevil and the Incredible Hulk!",
-		"poster_path": "/jaaeLvonWry3TdTXaGSu2VveNEG.jpg",
 		"release_date": "1989-05-07",
-		"title": "The Trial of the Incredible Hulk",
 		"video": false,
-		"vote_average": 6.3,
+		"vote_average": 6.319,
 		"slug": "the-trial-of-the-incredible-hulk",
 		"tags": [
 			"list-8204862"
@@ -5302,22 +5389,24 @@
 	{
 		"adult": false,
 		"backdrop_path": "/bRlsLlie6DXLAnHBg8IwfOAN87z.jpg",
+		"id": 26881,
+		"title": "The Incredible Hulk Returns",
+		"original_language": "en",
+		"original_title": "The Incredible Hulk Returns",
+		"overview": "Dr. David Banner meets a former student, who has a magical hammer that summons Thor, a Norse god who is prevented from entering Valhalla. When the two superheroes stop feuding long enough to breathe, they are a team unmatched by any of their enemies.",
+		"poster_path": "/dw7eBKL26HEkA89BKvNVsjx7gGL.jpg",
+		"media_type": "movie",
+		"runtime": 100,
+		"revenue": 0,
 		"genre_ids": [
 			28,
 			18,
 			12,
 			10770
 		],
-		"id": 26881,
-		"media_type": "movie",
-		"original_language": "en",
-		"original_title": "The Incredible Hulk Returns",
-		"overview": "Dr. David Banner meets a former student, who has a magical hammer that summons Thor, a Norse god who is prevented from entering Valhalla. When the two superheroes stop feuding long enough to breathe, they are a team unmatched by any of their enemies.",
-		"poster_path": "/dw7eBKL26HEkA89BKvNVsjx7gGL.jpg",
 		"release_date": "1988-05-22",
-		"title": "The Incredible Hulk Returns",
 		"video": false,
-		"vote_average": 6.1,
+		"vote_average": 6.038,
 		"slug": "the-incredible-hulk-returns",
 		"tags": [
 			"list-8204862"
@@ -5325,55 +5414,41 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/t3wX0hMH0esnx4SZEbugYCnCoMl.jpg",
+		"backdrop_path": "/3KQe8Vzma7ZAYE25mJjgIG4Gj5e.jpg",
+		"id": 10658,
+		"title": "Howard the Duck",
+		"original_language": "en",
+		"original_title": "Howard the Duck",
+		"overview": "A scientific experiment unknowingly brings extraterrestrial life forms to the Earth through a laser beam. First is the cigar smoking drake Howard from the duck's planet. A few kids try to keep him from the greedy scientists and help him back to his planet. But then a much less friendly being arrives through the beam...",
+		"poster_path": "/eU0dWo8PJgsSAZFbcyHiUpuLSyW.jpg",
+		"media_type": "movie",
+		"runtime": 110,
+		"revenue": 38000000,
 		"genre_ids": [
 			35,
 			14,
 			878
 		],
-		"id": 10658,
-		"original_language": "en",
-		"original_title": "Howard the Duck",
-		"overview": "A scientific experiment unknowingly brings extraterrestrial life forms to the Earth through a laser beam. First is the cigar smoking drake Howard from the duck's planet. A few kids try to keep him from the greedy scientists and help him back to his planet. But then a much less friendly being arrives through the beam...",
-		"poster_path": "/eU0dWo8PJgsSAZFbcyHiUpuLSyW.jpg",
 		"release_date": "1986-08-01",
-		"title": "Howard the Duck",
 		"video": false,
-		"vote_average": 5.4,
+		"vote_average": 5.392,
 		"slug": "howard-the-duck",
 		"tags": [
-			"movie",
-			"company-7505",
 			"list-8204859"
-		],
-		"media_type": "movie"
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/vfmVqMqnsgKZw2Bi0RirBR9FUhZ.jpg",
-		"genre_ids": [
-			27,
-			16,
-			10770
-		],
-		"id": 3066,
-		"original_language": "ja",
-		"original_title": "恐怖伝説　怪奇！フランケンシュタイン",
-		"overview": "The film centers around the life of Victor Frankenstein. After creating the monster together with his partner Zuckel, the monster attacks the assistant and falls from a cliff. Assuming the monster is dead, Victor returns to his wife Elizabeth and daughter Emily. A police inspector named Bellbeau investigates some mysterious mutilations killings, and Victor is blackmailed by his former assistant, who lost an eye in his fight with the monster.",
-		"poster_path": "/m8kaTsSKu3OqmcqK5xpcEYwEM5u.jpg",
-		"release_date": "1981-07-27",
-		"title": "Monster of Frankenstein",
-		"video": false,
-		"vote_average": 5.8,
-		"slug": "monster-of-frankenstein",
-		"tags": [
-			"movie",
-			"company-7505"
 		]
 	},
 	{
 		"adult": false,
 		"backdrop_path": "/tyyUgKhC07R8uEUaGIdVhS12eZH.jpg",
+		"id": 225938,
+		"title": "Spider-Man: The Dragon's Challenge",
+		"original_language": "en",
+		"original_title": "Spider-Man: The Dragon's Challenge",
+		"overview": "Spider-Man goes to China to help an official accused of World War II treachery.  Two episodes of the TV series \"Spider Man\" edited together and released as a feature.",
+		"poster_path": "/wBmtFmSikG5u08FdGLRsF0Py59V.jpg",
+		"media_type": "movie",
+		"runtime": 92,
+		"revenue": 0,
 		"genre_ids": [
 			28,
 			12,
@@ -5381,16 +5456,9 @@
 			14,
 			10770
 		],
-		"id": 225938,
-		"media_type": "movie",
-		"original_language": "en",
-		"original_title": "Spider-Man: The Dragon's Challenge",
-		"overview": "Spider-Man goes to China to help an official accused of World War II treachery.  Two episodes of the TV series \"Spider Man\" edited together and released as a feature.",
-		"poster_path": "/wBmtFmSikG5u08FdGLRsF0Py59V.jpg",
-		"release_date": "1981-06-25",
-		"title": "Spider-Man: The Dragon's Challenge",
+		"release_date": "1981-05-09",
 		"video": false,
-		"vote_average": 5,
+		"vote_average": 5.244,
 		"slug": "spider-man-the-dragons-challenge",
 		"tags": [
 			"list-8204862"
@@ -5398,23 +5466,50 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": "/nPg1MZNfowinzf5qJ7YF1hsB7EV.jpg",
+		"id": 79989,
+		"title": "Bride of the Incredible Hulk",
+		"original_language": "en",
+		"original_title": "Bride of the Incredible Hulk",
+		"overview": "David and Carolyn marry in Hawaii and continue to work to find a cure for both their afflictions in a race against time.",
+		"poster_path": "/3apbGlabEmgR1jEgJgqg7FUMqCz.jpg",
+		"media_type": "movie",
+		"runtime": 95,
+		"revenue": 0,
+		"genre_ids": [
+			878,
+			28,
+			18
+		],
+		"release_date": "1980-01-30",
+		"video": false,
+		"vote_average": 6.9,
+		"slug": "bride-of-the-incredible-hulk",
+		"tags": [
+			"list-8204862"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/911CxMNSN8EycQSnTcaIXC7DBx0.jpg",
+		"id": 197481,
+		"title": "Captain America II: Death Too Soon",
+		"original_language": "en",
+		"original_title": "Captain America II: Death Too Soon",
+		"overview": "Crimefighting Captain America rights more wrongs by doing battle with a fanatical terrorist who uses his deadly drug that causes accelerated aging to finance his world revolution.",
+		"poster_path": "/pocmh0P8Ddf5w33pP3Vuqm0JRP9.jpg",
+		"media_type": "movie",
+		"runtime": 88,
+		"revenue": 0,
 		"genre_ids": [
 			28,
 			18,
 			878,
 			10770
 		],
-		"id": 197481,
-		"media_type": "movie",
-		"original_language": "en",
-		"original_title": "Captain America II: Death Too Soon",
-		"overview": "Crimefighting Captain America rights more wrongs by doing battle with a fanatical terrorist who uses his deadly drug that causes accelerated aging to finance his world revolution.",
-		"poster_path": "/pocmh0P8Ddf5w33pP3Vuqm0JRP9.jpg",
 		"release_date": "1979-11-23",
-		"title": "Captain America II: Death Too Soon",
 		"video": false,
-		"vote_average": 3.7,
+		"vote_average": 3.783,
 		"slug": "captain-america-ii-death-too-soon",
 		"tags": [
 			"list-8204862"
@@ -5436,7 +5531,7 @@
 		"release_date": "1979-07-21",
 		"title": "Battle Fever J: The Movie",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.3,
 		"slug": "battle-fever-j-the-movie",
 		"tags": [
 			"movie",
@@ -5445,23 +5540,51 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/l2vddRxLkQGLRXR8OLdC0M3oKQ6.jpg",
+		"backdrop_path": "/eTGbkHzD8VijGgmXDjQze9eceUO.jpg",
+		"id": 65294,
+		"title": "The Incredible Hulk",
+		"original_language": "en",
+		"original_title": "The Incredible Hulk",
+		"overview": "An accidental overdose of gamma radiation causes a mutation in scientist David Banner's DNA: now whenever he becomes angry, he metamorphoses into a seven-foot-tall, 330-pound, mindless muscular green creature.",
+		"poster_path": "/eMdysVpG2i3PzydIqkY4jt2YUZ8.jpg",
+		"media_type": "movie",
+		"runtime": 95,
+		"revenue": 0,
 		"genre_ids": [
 			28,
 			12,
 			878,
 			10770
 		],
+		"release_date": "1979-06-13",
+		"video": false,
+		"vote_average": 6.4,
+		"slug": "the-incredible-hulk",
+		"tags": [
+			"list-8204862"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/l2vddRxLkQGLRXR8OLdC0M3oKQ6.jpg",
 		"id": 197467,
-		"media_type": "movie",
+		"title": "Captain America",
 		"original_language": "en",
 		"original_title": "Captain America",
 		"overview": "An artist, Steve Rogers, is nearly murdered by spies, looking for his late father's national secrets. He is saved during surgery when a secret formula is injected into him; this serum not only heals him but also gives him fantastic strength and lightning reflexes.  To help him solve the mystery behind his father’s murder and bring those guilty to justice, a government agency equips him with a special motorcycle loaded with gadgets and an indestructible shield. Now armed, he battles against the nation's enemies as the Sentinel of Liberty, Captain America.",
 		"poster_path": "/gNGq4u0cymxZqGADZrx7AWrSB5m.jpg",
+		"media_type": "movie",
+		"runtime": 97,
+		"revenue": 0,
+		"genre_ids": [
+			28,
+			12,
+			878,
+			10770
+		],
 		"release_date": "1979-01-19",
-		"title": "Captain America",
 		"video": false,
-		"vote_average": 3.9,
+		"vote_average": 4.055,
 		"slug": "captain-america",
 		"tags": [
 			"list-8204862"
@@ -5470,6 +5593,15 @@
 	{
 		"adult": false,
 		"backdrop_path": "/aKEINUeg3y324PxOwZfwM0uWmk7.jpg",
+		"id": 225925,
+		"title": "Spider-Man Strikes Back",
+		"original_language": "en",
+		"original_title": "Spider-Man Strikes Back",
+		"overview": "At the New York State University, one of Peter Parker's tutors has accidentally given three students all the materials they need to create an atomic bomb. While Peter Parker tries to find out what's happened, the police suspect him of the crime, and Peter has to deal with an attractive journalist determined to get an interview with Spider-Man. Then dastardly millionaire Mr. White shows up, and will stop at nothing to get his hands on the atomic bomb. Spider-Man must defeat this scheming villain and stop him blowing up the World Trade Centre.",
+		"poster_path": "/mwRss4cA5m4fH6izoTwwPfF3ZOU.jpg",
+		"media_type": "movie",
+		"runtime": 90,
+		"revenue": 0,
 		"genre_ids": [
 			28,
 			12,
@@ -5477,16 +5609,9 @@
 			14,
 			10770
 		],
-		"id": 225925,
-		"media_type": "movie",
-		"original_language": "en",
-		"original_title": "Spider-Man Strikes Back",
-		"overview": "At the New York State University, one of Peter Parker's tutors has accidentally given three students all the materials they need to create an atomic bomb. While Peter Parker tries to find out what's happened, the police suspect him of the crime, and Peter has to deal with an attractive journalist determined to get an interview with Spider-Man. Then dastardly millionaire Mr. White shows up, and will stop at nothing to get his hands on the atomic bomb. Spider-Man must defeat this scheming villain and stop him blowing up the World Trade Centre.",
-		"poster_path": "/mwRss4cA5m4fH6izoTwwPfF3ZOU.jpg",
 		"release_date": "1978-12-21",
-		"title": "Spider-Man Strikes Back",
 		"video": false,
-		"vote_average": 5.5,
+		"vote_average": 5.58,
 		"slug": "spider-man-strikes-back",
 		"tags": [
 			"list-8204862"
@@ -5494,31 +5619,16 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/nPg1MZNfowinzf5qJ7YF1hsB7EV.jpg",
-		"genre_ids": [
-			878,
-			28,
-			18,
-			10770
-		],
-		"id": 79989,
-		"media_type": "movie",
-		"original_language": "en",
-		"original_title": "Bride of the Incredible Hulk",
-		"overview": "David and Carolyn marry in Hawaii and continue to work to find a cure for both their afflictions in a race against time.",
-		"poster_path": "/3apbGlabEmgR1jEgJgqg7FUMqCz.jpg",
-		"release_date": "1978-09-22",
-		"title": "Bride of the Incredible Hulk",
-		"video": false,
-		"vote_average": 6.9,
-		"slug": "bride-of-the-incredible-hulk",
-		"tags": [
-			"list-8204862"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": "/kw4GhCZP5NeMVsfPol6HcX9JEeQ.jpg",
+		"id": 50468,
+		"title": "Dr. Strange",
+		"original_language": "en",
+		"original_title": "Dr. Strange",
+		"overview": "A psychiatrist becomes the new Sorcerer Supreme of the Earth in order to battle an evil Sorceress from the past.",
+		"poster_path": "/hEyHVgBE28Jl13h2Qpbr3LH77sP.jpg",
+		"media_type": "movie",
+		"runtime": 93,
+		"revenue": 0,
 		"genre_ids": [
 			10770,
 			28,
@@ -5526,16 +5636,9 @@
 			14,
 			878
 		],
-		"id": 50468,
-		"media_type": "movie",
-		"original_language": "en",
-		"original_title": "Dr. Strange",
-		"overview": "A psychiatrist becomes the new Sorcerer Supreme of the Earth in order to battle an evil Sorceress from the past.",
-		"poster_path": "/hEyHVgBE28Jl13h2Qpbr3LH77sP.jpg",
 		"release_date": "1978-09-06",
-		"title": "Dr. Strange",
 		"video": false,
-		"vote_average": 6,
+		"vote_average": 5.963,
 		"slug": "dr-strange",
 		"tags": [
 			"list-8204862"
@@ -5544,70 +5647,74 @@
 	{
 		"adult": false,
 		"backdrop_path": "/bVVSy18oVLZJTyFy2WsKIrsGHYZ.jpg",
+		"id": 438561,
+		"title": "Japanese Spiderman: Episode 0",
+		"original_language": "ja",
+		"original_title": "スパイダーマン",
+		"overview": "The Iron Cross Army are sabotaging oil-tankers with the help of their monster, the Sea-Devil, a semi-mechanical anthropomorphic swordfish with an ability to shoot torpedoes from its mouth. Spiderman employs the help of the interpol agent Juzo Mamiya to help him stop the Iron Cross Army.",
+		"poster_path": "/hi98SQoZgxBMHmWsbhxyh5tNQcB.jpg",
+		"media_type": "movie",
+		"runtime": 24,
+		"revenue": 0,
 		"genre_ids": [
 			28,
 			12,
 			878
 		],
-		"id": 438561,
-		"media_type": "movie",
-		"original_language": "ja",
-		"original_title": "スパイダーマン",
-		"overview": "The Iron Cross Army are sabotaging oil-tankers with the help of their monster, the Sea-Devil, a semi-mechanical anthropomorphic swordfish with an ability to shoot torpedoes from its mouth. Spiderman employs the help of the interpol agent Juzo Mamiya to help him stop the Iron Cross Army.",
-		"poster_path": "/hi98SQoZgxBMHmWsbhxyh5tNQcB.jpg",
 		"release_date": "1978-07-22",
-		"title": "Spider-Man",
 		"video": false,
-		"vote_average": 5.9,
-		"slug": "spider-man",
+		"vote_average": 6.4,
+		"slug": "japanese-spiderman-episode-0",
 		"tags": [
 			"list-8204862"
 		]
 	},
 	{
-		"backdrop_path": "/6DcEZ5j99JlKr4NlQQto9z6Dyl9.jpg",
-		"first_air_date": "1978-05-17",
+		"adult": false,
+		"backdrop_path": "/9SE5E2g5DVBN9T3EIEYPhwdsZPr.jpg",
+		"id": 2640,
+		"name": "Japanese Spiderman",
+		"original_language": "ja",
+		"original_name": "スパイダーマン",
+		"overview": "Follow the exploits of motorcycle racer turned super hero Takuya Yamashiro, as he slings and swings, battling the evil Iron Cross Army along the way.",
+		"poster_path": "/vlSuwzyt3Hyq5OSFpvJDYnYDN1a.jpg",
+		"media_type": "tv",
+		"runtime": null,
 		"genre_ids": [
 			10759,
 			10765
 		],
-		"id": 2640,
-		"name": "Spider-Man",
+		"first_air_date": "1978-05-17",
+		"vote_average": 7.3,
 		"origin_country": [
 			"JP"
 		],
-		"original_language": "ja",
-		"original_name": "スパイダーマン",
-		"overview": "Follow the exploits of motorcycle racer turned super hero Takuya Yamashiro, as he slings and swings, battling the evil Iron Cross Army along the way. No, it's not the Spiderman most fans are used to, but it's fun, frantic and FREE.",
-		"poster_path": "/38AVLCBEoQKJWMyzt9jkxqeefGb.jpg",
-		"vote_average": 7.2,
-		"title": "Spider-Man",
-		"slug": "spider-man",
+		"title": "Japanese Spiderman",
+		"slug": "japanese-spiderman",
 		"tags": [
-			"tv",
-			"company-7505",
 			"list-8204862"
-		],
-		"media_type": "tv"
+		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/49VI6PxMo3swVqq0VLELEQ2fpks.jpg",
-		"first_air_date": "1978-04-05",
-		"genre_ids": [
-			10765,
-			10759
-		],
 		"id": 4552,
-		"media_type": "tv",
 		"name": "The Amazing Spider-Man",
-		"origin_country": [
-			"US"
-		],
 		"original_language": "en",
 		"original_name": "The Amazing Spider-Man",
 		"overview": "The first live-action TV series based on the popular comic book.",
 		"poster_path": "/kUTCJhSnH3Dt0KVzcQp8DnbmsjN.jpg",
-		"vote_average": 6,
+		"media_type": "tv",
+		"runtime": null,
+		"genre_ids": [
+			10765,
+			10759
+		],
+		"first_air_date": "1978-04-05",
+		"vote_average": 5.938,
+		"origin_country": [
+			"US"
+		],
 		"title": "The Amazing Spider-Man",
 		"slug": "the-amazing-spider-man",
 		"tags": [
@@ -5617,20 +5724,22 @@
 	{
 		"adult": false,
 		"backdrop_path": "/s91xFnu3HU9WOdnVGxQmi6zPXtr.jpg",
+		"id": 166890,
+		"title": "The Return of the Incredible Hulk",
+		"original_language": "en",
+		"original_title": "The Return of the Incredible Hulk",
+		"overview": "On the run and presumed dead by the authorities, David Banner, using the name 'Benton', continues in his efforts to find a cure. He accidentally finds himself in the middle of a plot to kill a young, crippled girl so her unscrupulous relatives can inherit the family fortune.",
+		"poster_path": "/nVPk7Fnjgo872PH6U6LaH1QP7qM.jpg",
+		"media_type": "movie",
+		"runtime": 95,
+		"revenue": 0,
 		"genre_ids": [
 			10770,
 			28,
 			18,
 			878
 		],
-		"id": 166890,
-		"media_type": "movie",
-		"original_language": "en",
-		"original_title": "The Return of the Incredible Hulk",
-		"overview": "On the run and presumed dead by the authorities, David Banner, using the name 'Benton', continues in his efforts to find a cure. He accidentally finds himself in the middle of a plot to kill a young, crippled girl so her unscrupulous relatives can inherit the family fortune.",
-		"poster_path": "/txaGDIztTcqU1RvtntIwXM8kHac.jpg",
 		"release_date": "1977-11-27",
-		"title": "The Return of the Incredible Hulk",
 		"video": false,
 		"vote_average": 5.8,
 		"slug": "the-return-of-the-incredible-hulk",
@@ -5639,48 +5748,27 @@
 		]
 	},
 	{
-		"backdrop_path": "/ldtJ6vUo8heez1HVD91Flpg7F5W.jpg",
-		"first_air_date": "1977-11-04",
+		"adult": false,
+		"backdrop_path": "/vl2lLJcbbnTcvWH6ZfHlXuLxIaP.jpg",
+		"id": 648,
+		"name": "The Incredible Hulk",
+		"original_language": "en",
+		"original_name": "The Incredible Hulk",
+		"overview": "During an experiment gone bad, radiation turns a scientist into a raging green behemoth whenever he becomes agitated. Unable to control his transformations, David Banner searches for a cure as he crosses the country, fugitive-style, with a dogged tabloid reporter on his trail.",
+		"poster_path": "/8q7uFuNuMWTWfcpnCpBuZa3KZXx.jpg",
+		"media_type": "tv",
+		"runtime": null,
 		"genre_ids": [
 			10765,
 			10759,
 			18
 		],
-		"id": 648,
-		"media_type": "tv",
-		"name": "The Incredible Hulk",
+		"first_air_date": "1977-11-04",
+		"vote_average": 7.214,
 		"origin_country": [
 			"US"
 		],
-		"original_language": "en",
-		"original_name": "The Incredible Hulk",
-		"overview": "During an experiment gone bad, radiation turns a scientist into a raging green behemoth whenever he becomes agitated. Unable to control his transformations, David Banner searches for a cure as he crosses the country, fugitive-style, with a dogged tabloid reporter on his trail.",
-		"poster_path": "/8q7uFuNuMWTWfcpnCpBuZa3KZXx.jpg",
-		"vote_average": 7.2,
 		"title": "The Incredible Hulk",
-		"slug": "the-incredible-hulk",
-		"tags": [
-			"list-8204862"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/eTGbkHzD8VijGgmXDjQze9eceUO.jpg",
-		"genre_ids": [
-			28,
-			12,
-			878
-		],
-		"id": 65294,
-		"media_type": "movie",
-		"original_language": "en",
-		"original_title": "The Incredible Hulk",
-		"overview": "An accidental overdose of gamma radiation causes a mutation in scientist David Banner's DNA: now whenever he becomes angry, he metamorphoses into a seven-foot-tall, 330-pound, mindless muscular green creature.",
-		"poster_path": "/eMdysVpG2i3PzydIqkY4jt2YUZ8.jpg",
-		"release_date": "1977-11-04",
-		"title": "The Incredible Hulk",
-		"video": false,
-		"vote_average": 6.3,
 		"slug": "the-incredible-hulk",
 		"tags": [
 			"list-8204862"
@@ -5689,40 +5777,44 @@
 	{
 		"adult": false,
 		"backdrop_path": "/zlpZzccypkAYFZIyYLQcchl90ZC.jpg",
+		"id": 225914,
+		"title": "Spider-Man",
+		"original_language": "en",
+		"original_title": "Spider-Man",
+		"overview": "When an extortionist threatens to force a multi-suicide unless a huge ransom is paid, only Peter Parker can stop him with his new powers as Spider-Man.",
+		"poster_path": "/jNxRHZ2cxVkNRtxgHuCtv7GY4JP.jpg",
+		"media_type": "movie",
+		"runtime": 92,
+		"revenue": 0,
 		"genre_ids": [
 			878,
 			28,
 			80,
 			10770
 		],
-		"id": 225914,
-		"media_type": "movie",
-		"original_language": "en",
-		"original_title": "Spider-Man",
-		"overview": "When an extortionist threatens to force a multi-suicide unless a huge ransom is paid, only Peter Parker can stop him with his new powers as Spider-Man.",
-		"poster_path": "/jNxRHZ2cxVkNRtxgHuCtv7GY4JP.jpg",
 		"release_date": "1977-09-14",
-		"title": "Spider-Man",
 		"video": false,
-		"vote_average": 5.8,
+		"vote_average": 6.07,
 		"slug": "spider-man",
 		"tags": [
 			"list-8204862"
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": null,
-		"first_air_date": "1974-10-21",
-		"genre_ids": [],
 		"id": 15178,
-		"media_type": "tv",
 		"name": "Spidey Super Stories",
-		"origin_country": [],
 		"original_language": "en",
 		"original_name": "Spidey Super Stories",
 		"overview": "A live-action, recurring skit on the PBS children's television series The Electric Company. Episodes featured the Marvel Comics character Spider-Man, provided to the Children's Television Workshop free of charge, and was played by puppeteer and dancer Danny Seagren.\n\nStories involved the masked superhero foiling mischievous characters who were involved in petty criminal activities. The cast of The Electric Company played the roles of the various characters in each story, with another serving as narrator. In many of these sketches, viewers were addressed as \"true believers.\"\n\nUnlike other live-action and cartoon productions of Spider-Man, this version of the web-slinging hero did not speak out loud, instead communicating only with word balloons, in order to encourage young viewers to practice their reading skills because he was drawn without a mouth. He also never appeared out of his costume as Peter Parker and, given the series' budget limitations, used his web-shooters sparingly.",
 		"poster_path": "/cSHETWKC1JPQ3cNmpMCx9vMPoBs.jpg",
+		"media_type": "tv",
+		"runtime": null,
+		"genre_ids": [],
+		"first_air_date": "1974-10-21",
 		"vote_average": 0,
+		"origin_country": [],
 		"title": "Spidey Super Stories",
 		"slug": "spidey-super-stories",
 		"tags": [
@@ -5730,23 +5822,24 @@
 		]
 	},
 	{
-		"backdrop_path": "/1bgzyCmDxChY74CeQD9SydZ6Vzl.jpg",
-		"first_air_date": "1967-09-09",
+		"adult": false,
+		"backdrop_path": "/fVL0nCyOhdBaeX4KdfNaeqM9hlm.jpg",
 		"genre_ids": [
 			10762,
 			16,
 			10759
 		],
 		"id": 1482,
-		"name": "Spider-Man",
 		"origin_country": [
 			"CA",
 			"US"
 		],
 		"original_language": "en",
 		"original_name": "Spider-Man",
-		"overview": "Spider-Man is an animated television series that ran from September 9, 1967 to June 14, 1970. It was jointly produced in Canada and the United States and was the first animated adaptation of the Spider-Man comic book series, created by writer Stan Lee and artist Steve Ditko. It first aired on the ABC television network in the United States but went into syndication at the start of the third season. Grantray-Lawrence Animation produced the first season. Seasons 2 and 3 were crafted by producer Ralph Bakshi in New York City. In Canada, it is currently airing on Teletoon Retro. An internet meme, commonly known as 1960s Spiderman, regarding the series has received an overwhelming amount of popularity. The meme consists of a screenshot taken at a random part of the series and adding an inappropriate and/or witty text. Since the death of Max Ferguson on March 7 2013, there are only three surviving members from the cast. Those three being Paul Soles the voice of Spider-Man, Chris Wiggins the voice of Mysterio and Carl Banas the voice of the Scorpion.",
+		"overview": "Spider-Man was an animated television series that ran from September 9, 1967 to June 14, 1970. It was jointly produced in Canada and the United States and was the first animated adaptation of the Spider-Man comic book series, created by writer Stan Lee and artist Steve Ditko. It first aired on the ABC television network in the United States but went into syndication at the start of the third season. Grantray-Lawrence Animation produced the first season. Seasons 2 and 3 were crafted by producer Ralph Bakshi in New York City. An internet meme, commonly known as 1960s Spiderman, regarding the series has received an overwhelming amount of popularity. The meme consists of a screenshot taken at a random part of the series and adding inappropriate and/or witty text.",
 		"poster_path": "/y85QOYMhcZsEfHbrntBv5SZXH1w.jpg",
+		"first_air_date": "1967-09-09",
+		"name": "Spider-Man",
 		"vote_average": 7.7,
 		"title": "Spider-Man",
 		"slug": "spider-man",
@@ -5756,14 +5849,13 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/jMUPejkcMQdm3bygnm8q5uWJV6q.jpg",
-		"first_air_date": "1967-09-09",
 		"genre_ids": [
 			16,
 			10759
 		],
 		"id": 1651,
-		"name": "Fantastic Four",
 		"origin_country": [
 			"US"
 		],
@@ -5771,7 +5863,9 @@
 		"original_name": "Fantastic Four",
 		"overview": "The first animated series based on Marvel's comic book series Fantastic Four.",
 		"poster_path": "/o2jhtGqOR3UAWg4wIBu21Ub4ecP.jpg",
-		"vote_average": 7.3,
+		"first_air_date": "1967-09-09",
+		"name": "Fantastic Four",
+		"vote_average": 7.205,
 		"title": "Fantastic Four",
 		"slug": "fantastic-four",
 		"tags": [
@@ -5780,26 +5874,28 @@
 		]
 	},
 	{
+		"adult": false,
 		"backdrop_path": "/vhbMTE6UVbIoyiD262wRYwFiNBa.jpg",
-		"first_air_date": "1966-09-05",
+		"id": 2164,
+		"name": "The Marvel Super Heroes",
+		"original_language": "en",
+		"original_name": "The Marvel Super Heroes",
+		"overview": "This cartoon series, characterized by extremely limited animation, features five of the most popular super-powered heroes from Marvel Comics: the Incredible Hulk, the Mighty Thor, Captain America, Iron Man, and the Sub-Mariner.",
+		"poster_path": "/hP7vDGvsejTGPVnEd7bL1rn7o8h.jpg",
+		"media_type": "tv",
+		"runtime": null,
 		"genre_ids": [
 			16,
 			10759,
 			10765,
 			10762
 		],
-		"id": 2164,
-		"media_type": "tv",
-		"name": "The Marvel Super Heroes",
+		"first_air_date": "1966-09-05",
+		"vote_average": 6,
 		"origin_country": [
 			"CA",
 			"US"
 		],
-		"original_language": "en",
-		"original_name": "The Marvel Super Heroes",
-		"overview": "This cartoon series, characterized by extremely limited animation, features five of the most popular super-powered heroes from Marvel Comics: the Incredible Hulk, the Mighty Thor, Captain America, Iron Man, and the Sub-Mariner.",
-		"poster_path": "/sUcupSGQRxDfQxr3tcb4KodOXmm.jpg",
-		"vote_average": 8.4,
 		"title": "The Marvel Super Heroes",
 		"slug": "the-marvel-super-heroes",
 		"tags": [
@@ -5809,21 +5905,23 @@
 	{
 		"adult": false,
 		"backdrop_path": "/hKVwvPUwMXcVqTJXOkPXUTQ7GMU.jpg",
+		"id": 106355,
+		"title": "Captain America",
+		"original_language": "en",
+		"original_title": "Captain America",
+		"overview": "Superhero Captain America battles the evil forces of the archvillain called The Scarab, who poisons his enemies and steals a secret device capable of destroying buildings by sound vibrations.",
+		"poster_path": "/b15xz96lSiH1JC7uYKofXJz0HTD.jpg",
+		"media_type": "movie",
+		"runtime": 244,
+		"revenue": 0,
 		"genre_ids": [
 			28,
 			12,
 			878
 		],
-		"id": 106355,
-		"media_type": "movie",
-		"original_language": "en",
-		"original_title": "Captain America",
-		"overview": "Superhero Captain America battles the evil forces of the archvillain called The Scarab, who poisons his enemies and steals a secret device capable of destroying buildings by sound vibrations.",
-		"poster_path": "/b15xz96lSiH1JC7uYKofXJz0HTD.jpg",
 		"release_date": "1944-02-05",
-		"title": "Captain America",
 		"video": false,
-		"vote_average": 5.6,
+		"vote_average": 5.482,
 		"slug": "captain-america",
 		"tags": [
 			"list-8204862"

@@ -11,13 +11,13 @@ logo_on_black: /.netlify/functions/fanart/doctor-strange-579c974e516ca.webp
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B01M4QJGX2?tag=marvelorder-20&linkCode=osi&th=1&psc=1
-mcuTimelineOrder: 365
+mcuTimelineOrder: 375
 ---
 ## TMDB Data
 ```json
 {
     "adult": false,
-    "backdrop_path": "/qUv51IFUvVRAP2379ThmA3eLJx6.jpg",
+    "backdrop_path": "/3zvZ699gMW2RhWc0GisIukzq0Ls.jpg",
     "genre_ids": [
         28,
         12,
@@ -31,7 +31,7 @@ mcuTimelineOrder: 365
     "release_date": "2016-10-25",
     "title": "Doctor Strange",
     "video": false,
-    "vote_average": 7.4,
+    "vote_average": 7.424,
     "slug": "doctor-strange",
     "tags": [
         "movie",

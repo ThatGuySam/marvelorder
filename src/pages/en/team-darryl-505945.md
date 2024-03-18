@@ -18,7 +18,7 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/wL56346BF1eMElIGtqWLiILcfbU.jpg",
+    "backdrop_path": "/bZtu0UE0afN3jrkoUSJP8eO9yU.jpg",
     "genre_ids": [
         35
     ],
@@ -26,11 +26,11 @@ watchLinks:
     "original_language": "en",
     "original_title": "Team Darryl",
     "overview": "Fresh off being unseated as the ruler of Sakaar, the Grandmaster makes his way to Earth to start a new life. It's been over a year since Thor left Australia and Darryl has been struggling to pay his rent. Now Darryl needs a new roommate to help make the monthly payments. Unfortunately for Darryl, the Grandmaster was the only one who answered Darryl's \"Roommate Needed\" ad and with no viable options, the Grandmaster moves in.",
-    "poster_path": "/axlLFvTfV4W8zbWby7H4vf1vMPq.jpg",
+    "poster_path": "/edroTAeTEM9ILyAnumA0ALxRSne.jpg",
     "release_date": "2018-02-20",
     "title": "Team Darryl",
     "video": false,
-    "vote_average": 6.2,
+    "vote_average": 6.154,
     "slug": "team-darryl",
     "tags": [
         "movie",
