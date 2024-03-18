@@ -464,7 +464,7 @@ class MarvelMoviesFandomTimeline {
     }
 
     get entriesByReference () {
-        const entriesByReference = {}
+        const entriesByReference: Record<string, MarvelMoviesFandomTimelineEntry[]> = {}
         let totalEntriesWithReference = 0
         let totalEntriesWithoutReference = 0
 
