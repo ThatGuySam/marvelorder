@@ -7,6 +7,7 @@ import {
     storiesGlobPattern,
 } from '~/src/config.ts'
 
+import type { Filter } from '~/src/helpers/types.ts'
 import { FilteredListings } from '~/src/helpers/listing-filters.ts'
 import {
     getAllFilters,
@@ -15,13 +16,6 @@ import {
 
 export async function getStoryFiles () {
     return await glob( storiesGlobPattern )
-}
-
-interface Filter {
-    exportName: string
-    name: string
-    slug: string
-    filter: Function
 }
 
 export function getSlugFromStoryPath ( storyPath: string ) {

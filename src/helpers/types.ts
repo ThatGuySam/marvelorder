@@ -84,6 +84,13 @@ export interface Listing {
     // ]
 }
 
+export interface Filter {
+    exportName: string
+    name: string
+    slug: string
+    filter: ( listing: Listing ) => boolean
+}
+
 // https://amp.dev/documentation/components/websites/amp-img
 export interface WebStoryImage {
     props: {
