@@ -16,6 +16,7 @@ import {
     getMissingFilterStories,
     makeFilterMarkdownContent,
 } from '~/src/helpers/node/markdown-files.ts'
+import type { Filter } from '~/src/helpers/types'
 
 const fakeListing = {
     title: faker.lorem.sentence(),
@@ -176,16 +177,18 @@ test( 'Can list all filters', () => {
 } )
 
 test( 'Can match missing story pages', () => {
-    const expectedMissingFilters = [
+    const expectedMissingFilters: Filter[] = [
         {
             exportName: 'isMarvelKnightsAnimated',
             name: 'Marvel Knights Animated',
             slug: 'marvel-knights-animated',
+            filter: () => true,
         },
         {
             exportName: 'shouldBeMissing',
             name: 'Should Be Missing',
             slug: 'missing',
+            filter: () => true,
         },
     ]
 
@@ -222,16 +225,18 @@ test( 'Can match missing story pages', () => {
         'src/pages/stories/existing.md',
     ]
 
-    const inputFilters = [
+    const inputFilters: Filter[] = [
         {
             exportName: 'isShow',
             name: 'Is Show',
             slug: 'show',
+            filter: () => true,
         },
         {
             exportName: 'shouldBeExisting',
             name: 'Should Be Existing',
             slug: 'existing',
+            filter: () => true,
         },
 
         ...expectedMissingFilters,
