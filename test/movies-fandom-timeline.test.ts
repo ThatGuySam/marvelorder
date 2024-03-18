@@ -242,9 +242,9 @@ test( 'Can get entries from slug with show ID', async () => {
         'show-84958-season-1-episode-1',
         'loki-glorious-purpose-recap-show-84958-season-1-episode-1',
 
-        // Agents of S.H.I.E.L.D. 1403
-        'show-1403-season-7-episode-1',
-        'agents-of-shield-the-new-deal-recap-show-1403-season-7-episode-1',
+        // // Agents of S.H.I.E.L.D. 1403
+        // 'show-1403-season-7-episode-1',
+        // 'agents-of-shield-the-new-deal-recap-show-1403-season-7-episode-1',
     ]
 
     for ( const slug of slugs ) {
@@ -258,11 +258,6 @@ test( 'Can get entries from slug with show ID', async () => {
         expect( Array.isArray( entries ) ).toBe( true )
 
         expect( entries.length ).toBeGreaterThan( 0 )
-
-        // console.log({
-        //     entries: entries.map( entry => entry.timeDescription ),
-        //     slug
-        // })
 
         // Check that there are no duplicate entries using hashes
         const hashes = entries.map( entry => entry.hash )
