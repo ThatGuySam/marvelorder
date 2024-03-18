@@ -398,15 +398,17 @@ export function isWongCinematicUniverse ( listing ) {
     return false
 }
 
-export function matchesFilters ( filters ) {
+type FiltersMap = Map<Function, { targetValue: Boolean }>
+
+export function matchesFilters ( rawFilters: Map<Function, { targetValue: Boolean }> | Array<[Function, Boolean]> ) {
     const filterOut = false
     const keep = true
 
     // If filters is an array
-    // then convertt it to a map
-    if ( Array.isArray( filters ) ) {
-        filters = new Map( filters )
-    }
+    // then convert it to a map
+    const filters: FiltersMap = Array.isArray( rawFilters )
+        ? new Map( rawFilters.map( ( [ filterMethod, targetValue ] ) => [ filterMethod, { targetValue } ] ) )
+        : rawFilters
 
     // console.log( 'filters', filters )
 
