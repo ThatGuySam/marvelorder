@@ -18,7 +18,7 @@ import {
     makeNewListingContents,
 } from '~/src/helpers/markdown-page.ts'
 
-import type { Listing, ListingFrontMatter } from '~/src/helpers/types.ts'
+import type { Filter, Listing, ListingFrontMatter } from '~/src/helpers/types.ts'
 
 import * as filterExports from '~/src/helpers/listing-filters.ts'
 
@@ -262,21 +262,36 @@ export async function writeMarkdownFileNode ( { path, markdownBody, pageMeta } )
     await fs.writeFile( path, markdownContent )
 }
 
-export function getAllFilters () {
-    return Object.entries( filterExports )
-        // Filter out any filters that doesn't start with 'is' or 'has'
-        .filter( ( [ filterName ] ) => filterName.startsWith( 'is' ) || filterName.startsWith( 'has' ) )
-        .map( ( [ exportName, filter ] ) => {
-            const name = capitalCase( exportName.replace( /^(is)/, '' ) )
-            const slug = makeSlug( name )
+function isFilterFn ( filter: unknown ): filter is ( listing: Listing ) => boolean {
+    return typeof filter === 'function'
+}
 
-            return {
-                exportName,
-                name,
-                slug,
-                filter,
-            }
+export function getAllFilters (): Filter[] {
+    const filters: Filter[] = []
+
+    for ( const [ exportName, filterFn ] of Object.entries( filterExports ) ) {
+        const isFilterStyleName = exportName.startsWith( 'is' ) || exportName.startsWith( 'has' )
+
+        if ( !isFilterStyleName ) {
+            continue
+        }
+
+        if ( !isFilterFn( filterFn ) ) {
+            continue
+        }
+
+        const name = capitalCase( exportName.replace( /^(is)/, '' ) )
+        const slug = makeSlug( name )
+
+        filters.push( {
+            exportName,
+            name,
+            slug,
+            filter: filterFn,
         } )
+    }
+
+    return filters
 }
 
 function findFilterFromSlug ( fromSlug = '' ) {
