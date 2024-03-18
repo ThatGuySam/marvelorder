@@ -44,6 +44,7 @@ export interface Listing {
     backdrop: TMDBImagePath
     genre_ids: Array<number>
     id: number
+    date: string
     origin_country: Array<string>
     original_language: string
     original_title?: string
