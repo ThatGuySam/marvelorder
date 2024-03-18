@@ -1,4 +1,7 @@
+import type { deepmergeCustom } from 'deepmerge-ts'
 import type { Listing } from './types.ts'
+
+type DeepMergeConfig = Parameters<typeof deepmergeCustom>[0]
 
 export function hasLogo ( listing: Listing ) {
     return listing?.logo_on_black
@@ -88,8 +91,8 @@ export function convertNullValuesForAstro ( listings: Listing[] ) {
     } )
 }
 
-export const listingMergeConfig = {
-    mergeArrays: ( values: Array<any> ) => {
+export const listingMergeConfig: DeepMergeConfig = {
+    mergeArrays: ( values ) => {
         // Use Set to merge arrays
         // so that duplicates are removed
         return Array.from( new Set( values.flat() ) )
