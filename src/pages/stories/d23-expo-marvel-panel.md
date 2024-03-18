@@ -74,9 +74,9 @@ Everything Everywhere All At Once's Ke Huy Quan will also be in Loki Season 2.
 
 
 
-## [Fantastic Four](https://marvelorder.com/en/fantastic-four-617126/)
+## [Fantastic Four](https://marvelorder.com/en/the-fantastic-four-617126/)
 
-Matt Shakman officially confirmed to direct Marvel Studios’ Fantastic Four. In theaters November 8, 2024.
+Matt Shakman officially confirmed to direct Marvel Studios’ Fantastic Four. 
 
 
 
