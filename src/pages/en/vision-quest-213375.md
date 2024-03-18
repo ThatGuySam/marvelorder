@@ -25,7 +25,6 @@ tags:
     "adult": false,
     "backdrop_path": null,
     "genre_ids": [
-        18,
         10765
     ],
     "id": 213375,

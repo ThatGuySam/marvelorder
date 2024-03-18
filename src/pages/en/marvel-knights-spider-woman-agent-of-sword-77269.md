@@ -28,7 +28,7 @@ type: tv
     "poster_path": "/93pxdXPT8RC2pArLU3iQPGyQkAX.jpg",
     "first_air_date": "2009-08-18",
     "name": "Marvel Knights: Spider-Woman, Agent of S.W.O.R.D.",
-    "vote_average": 5.763,
+    "vote_average": 5.525,
     "title": "Marvel Knights: Spider-Woman, Agent of S.W.O.R.D.",
     "slug": "marvel-knights-spider-woman-agent-of-sword",
     "tags": [
