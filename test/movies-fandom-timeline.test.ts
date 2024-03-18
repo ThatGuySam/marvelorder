@@ -11,7 +11,7 @@ import {
     getTimelineFromEntries,
 } from '~/src/helpers/node/movies-fandom-timeline.ts'
 
-let timeline
+let timeline: ReturnType<typeof getTimelineFromEntries>
 
 beforeAll( async () => {
     const timelineFromFetch = await fetchTimeline()
