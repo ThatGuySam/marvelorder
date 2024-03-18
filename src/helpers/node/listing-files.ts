@@ -141,9 +141,9 @@ export async function getUpcomingListings () {
     // Filter listings
     const upcomingListings = new FilteredListings( {
         listings: rawListings,
-        initialFilters: [
+        initialFilters: new Map( [
             [ isUpcoming, true ],
-        ],
+        ] ),
         listingsSort: 'default',
     } )
 
