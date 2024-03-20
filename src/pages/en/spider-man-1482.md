@@ -43,7 +43,7 @@ watchLinks:
     "poster_path": "/y85QOYMhcZsEfHbrntBv5SZXH1w.jpg",
     "first_air_date": "1967-09-09",
     "name": "Spider-Man",
-    "vote_average": 7.7,
+    "vote_average": 7.661,
     "title": "Spider-Man",
     "slug": "spider-man",
     "tags": [
