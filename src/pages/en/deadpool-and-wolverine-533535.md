@@ -50,7 +50,7 @@ logo_on_black: /.netlify/functions/tmdb-image/fa6aYdjF083UV2w6V7hOAjwaqi4.webp
         "list-8204860"
     ],
     "media_type": "movie",
-    "runtime": 125,
+    "runtime": null,
     "revenue": 0
 }
 

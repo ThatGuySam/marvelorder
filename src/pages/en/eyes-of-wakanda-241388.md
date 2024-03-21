@@ -31,8 +31,7 @@ tags:
     "adult": false,
     "backdrop_path": null,
     "genre_ids": [
-        16,
-        10759
+        16
     ],
     "id": 241388,
     "origin_country": [
