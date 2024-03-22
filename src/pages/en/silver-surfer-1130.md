@@ -18,7 +18,8 @@ watchLinks:
     "genre_ids": [
         16,
         10759,
-        10765
+        10765,
+        10762
     ],
     "id": 1130,
     "origin_country": [
@@ -30,7 +31,7 @@ watchLinks:
     "poster_path": "/mBJTL4CRSoNkAQRmfwbiLTtviuW.jpg",
     "first_air_date": "1998-02-07",
     "name": "Silver Surfer",
-    "vote_average": 7.2,
+    "vote_average": 7.164,
     "title": "Silver Surfer",
     "slug": "silver-surfer",
     "tags": [

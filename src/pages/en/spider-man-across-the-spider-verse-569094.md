@@ -15,7 +15,7 @@ logo_on_black: /.netlify/functions/tmdb-image/zfZuSNGKxIlWQKi4xlIhFoRrlnj.webp
 ```json
 {
     "adult": false,
-    "backdrop_path": "/9xfDWXAUbFXQK585JvByT5pEAhe.jpg",
+    "backdrop_path": "/jbthbh0KzaUWFPYvkfmXAamjI8j.jpg",
     "genre_ids": [
         16,
         28,
@@ -30,7 +30,7 @@ logo_on_black: /.netlify/functions/tmdb-image/zfZuSNGKxIlWQKi4xlIhFoRrlnj.webp
     "release_date": "2023-05-31",
     "title": "Spider-Man: Across the Spider-Verse",
     "video": false,
-    "vote_average": 8.378,
+    "vote_average": 8.4,
     "slug": "spider-man-across-the-spider-verse",
     "tags": [
         "movie",
