@@ -34,7 +34,7 @@ mcuTimelineOrder: 0
     "release_date": "2011-07-22",
     "title": "Captain America: The First Avenger",
     "video": false,
-    "vote_average": 6.998,
+    "vote_average": 7,
     "slug": "captain-america-the-first-avenger",
     "tags": [
         "movie",

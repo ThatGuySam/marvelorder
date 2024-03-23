@@ -39,7 +39,7 @@ watchLinks:
     ],
     "release_date": "1979-11-23",
     "video": false,
-    "vote_average": 3.783,
+    "vote_average": 3.8,
     "slug": "captain-america-ii-death-too-soon",
     "tags": [
         "list-8204862"

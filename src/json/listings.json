@@ -616,10 +616,10 @@
 		"original_language": "en",
 		"original_name": "X-Men '97",
 		"overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-		"poster_path": "/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg",
+		"poster_path": "/383PV0WolYYQvTriH0NfvMUA28R.jpg",
 		"first_air_date": "2024-03-20",
 		"name": "X-Men '97",
-		"vote_average": 8.875,
+		"vote_average": 8.8,
 		"title": "X-Men '97",
 		"slug": "x-men-97",
 		"tags": [
@@ -687,7 +687,7 @@
 		"poster_path": "/vFyJH630cF68LohVYjQW49074Sy.jpg",
 		"first_air_date": "2024-01-09",
 		"name": "Echo",
-		"vote_average": 6.289,
+		"vote_average": 6.281,
 		"title": "Echo",
 		"slug": "echo",
 		"tags": [
@@ -732,7 +732,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.213,
+		"vote_average": 6.212,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -866,7 +866,7 @@
 		"release_date": "2023-05-31",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
-		"vote_average": 8.4,
+		"vote_average": 8.377,
 		"slug": "spider-man-across-the-spider-verse",
 		"tags": [
 			"movie",
@@ -936,7 +936,7 @@
 		"release_date": "2023-02-15",
 		"title": "Ant-Man and the Wasp: Quantumania",
 		"video": false,
-		"vote_average": 6.358,
+		"vote_average": 6.4,
 		"slug": "ant-man-and-the-wasp-quantumania",
 		"tags": [
 			"movie",
@@ -1028,7 +1028,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 7.142,
+		"vote_average": 7.1,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -1166,7 +1166,7 @@
 		"poster_path": "/eqKNlMgG6pE1tbvTcD86NDNKlru.jpg",
 		"first_air_date": "2022-08-10",
 		"name": "I Am Groot",
-		"vote_average": 7.159,
+		"vote_average": 7.2,
 		"title": "I Am Groot",
 		"slug": "i-am-groot",
 		"tags": [
@@ -1468,7 +1468,7 @@
 		"poster_path": "/vKDUmKO6F9bSKKyHhg7YGbgcEeF.jpg",
 		"first_air_date": "2022-03-30",
 		"name": "Moon Knight",
-		"vote_average": 7.7,
+		"vote_average": 7.745,
 		"title": "Moon Knight",
 		"slug": "moon-knight",
 		"tags": [
@@ -1652,7 +1652,7 @@
 		"release_date": "2021-09-01",
 		"title": "Shang-Chi and the Legend of the Ten Rings",
 		"video": false,
-		"vote_average": 7.6,
+		"vote_average": 7.563,
 		"slug": "shang-chi-and-the-legend-of-the-ten-rings",
 		"tags": [
 			"movie",
@@ -1804,7 +1804,7 @@
 		"poster_path": "/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
 		"first_air_date": "2021-03-19",
 		"name": "The Falcon and the Winter Soldier",
-		"vote_average": 7.7,
+		"vote_average": 7.667,
 		"title": "The Falcon and the Winter Soldier",
 		"slug": "the-falcon-and-the-winter-soldier",
 		"tags": [
@@ -1875,7 +1875,7 @@
 		"poster_path": "/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
 		"first_air_date": "2021-01-15",
 		"name": "WandaVision",
-		"vote_average": 8.245,
+		"vote_average": 8.2,
 		"title": "WandaVision",
 		"slug": "wandavision",
 		"tags": [
@@ -1901,7 +1901,7 @@
 		"poster_path": "/EpDuYIK81YtCUT3gH2JDpyj8Qk.jpg",
 		"first_air_date": "2021-01-08",
 		"name": "Marvel Studios Legends",
-		"vote_average": 7.393,
+		"vote_average": 7.4,
 		"title": "Marvel Studios Legends",
 		"slug": "marvel-studios-legends",
 		"tags": [
@@ -1981,7 +1981,7 @@
 		],
 		"release_date": "2020-04-02",
 		"video": false,
-		"vote_average": 6.118,
+		"vote_average": 6.119,
 		"slug": "the-new-mutants",
 		"tags": [
 			"list-8204860"
@@ -2703,7 +2703,7 @@
 		"poster_path": "/4l6KD9HhtD6nCDEfg10Lp6C6zah.jpg",
 		"first_air_date": "2017-03-17",
 		"name": "Marvel's Iron Fist",
-		"vote_average": 6.5,
+		"vote_average": 6.537,
 		"title": "Marvel's Iron Fist",
 		"slug": "marvels-iron-fist",
 		"tags": [
@@ -2783,7 +2783,7 @@
 		],
 		"release_date": "2017-02-28",
 		"video": false,
-		"vote_average": 7.818,
+		"vote_average": 7.8,
 		"slug": "logan",
 		"tags": [
 			"list-8204860"
@@ -2904,7 +2904,7 @@
 		"release_date": "2016-10-25",
 		"title": "Doctor Strange",
 		"video": false,
-		"vote_average": 7.424,
+		"vote_average": 7.4,
 		"slug": "doctor-strange",
 		"tags": [
 			"movie",
@@ -3002,7 +3002,7 @@
 		"release_date": "2016-04-27",
 		"title": "Captain America: Civil War",
 		"video": false,
-		"vote_average": 7.4,
+		"vote_average": 7.441,
 		"slug": "captain-america-civil-war",
 		"tags": [
 			"movie",
@@ -3072,7 +3072,7 @@
 		"poster_path": "/lwPFyjxAZY6NqHxywgY00Y4MFBx.jpg",
 		"first_air_date": "2015-11-20",
 		"name": "Marvel's Jessica Jones",
-		"vote_average": 7.5,
+		"vote_average": 7.504,
 		"title": "Marvel's Jessica Jones",
 		"slug": "marvels-jessica-jones",
 		"tags": [
@@ -3670,7 +3670,7 @@
 		"release_date": "2013-09-03",
 		"title": "Marvel One-Shot: Agent Carter",
 		"video": false,
-		"vote_average": 7.221,
+		"vote_average": 7.2,
 		"slug": "marvel-one-shot-agent-carter",
 		"tags": [
 			"movie",
@@ -3696,7 +3696,7 @@
 		],
 		"release_date": "2013-07-21",
 		"video": false,
-		"vote_average": 6.407,
+		"vote_average": 6.4,
 		"slug": "the-wolverine",
 		"tags": [
 			"list-8204860"
@@ -3789,7 +3789,7 @@
 		"release_date": "2013-04-18",
 		"title": "Iron Man 3",
 		"video": false,
-		"vote_average": 6.9,
+		"vote_average": 6.928,
 		"slug": "iron-man-3",
 		"tags": [
 			"movie",
@@ -3812,7 +3812,7 @@
 		"release_date": "2012-09-13",
 		"title": "Marvel One-Shot: Item 47",
 		"video": false,
-		"vote_average": 6.449,
+		"vote_average": 6.4,
 		"slug": "marvel-one-shot-item-47",
 		"tags": [
 			"movie",
@@ -3881,7 +3881,7 @@
 		"release_date": "2012-06-23",
 		"title": "The Amazing Spider-Man",
 		"video": false,
-		"vote_average": 6.697,
+		"vote_average": 6.7,
 		"slug": "the-amazing-spider-man",
 		"tags": [
 			"movie",
@@ -3928,7 +3928,7 @@
 		"release_date": "2012-04-25",
 		"title": "The Avengers",
 		"video": false,
-		"vote_average": 7.712,
+		"vote_average": 7.7,
 		"slug": "the-avengers",
 		"tags": [
 			"movie",
@@ -4018,7 +4018,7 @@
 		"release_date": "2011-07-22",
 		"title": "Captain America: The First Avenger",
 		"video": false,
-		"vote_average": 6.998,
+		"vote_average": 7,
 		"slug": "captain-america-the-first-avenger",
 		"tags": [
 			"movie",
@@ -4291,7 +4291,7 @@
 		],
 		"release_date": "2009-04-28",
 		"video": false,
-		"vote_average": 6.264,
+		"vote_average": 6.265,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"list-8204860"
@@ -4465,7 +4465,7 @@
 		"release_date": "2008-06-12",
 		"title": "The Incredible Hulk",
 		"video": false,
-		"vote_average": 6.2,
+		"vote_average": 6.207,
 		"slug": "the-incredible-hulk",
 		"tags": [
 			"movie",
@@ -4489,7 +4489,7 @@
 		"release_date": "2008-04-30",
 		"title": "Iron Man",
 		"video": false,
-		"vote_average": 7.642,
+		"vote_average": 7.6,
 		"slug": "iron-man",
 		"tags": [
 			"movie",
@@ -4608,7 +4608,7 @@
 		"release_date": "2007-05-01",
 		"title": "Spider-Man 3",
 		"video": false,
-		"vote_average": 6.413,
+		"vote_average": 6.4,
 		"slug": "spider-man-3",
 		"tags": [
 			"movie",
@@ -4901,7 +4901,7 @@
 		"release_date": "2004-06-25",
 		"title": "Spider-Man 2",
 		"video": false,
-		"vote_average": 7.268,
+		"vote_average": 7.3,
 		"slug": "spider-man-2",
 		"tags": [
 			"movie",
@@ -5045,7 +5045,7 @@
 		"release_date": "2002-05-01",
 		"title": "Spider-Man",
 		"video": false,
-		"vote_average": 7.292,
+		"vote_average": 7.3,
 		"slug": "spider-man",
 		"tags": [
 			"movie",
@@ -5443,7 +5443,7 @@
 			10759
 		],
 		"first_air_date": "1992-10-31",
-		"vote_average": 8.189,
+		"vote_average": 8.19,
 		"origin_country": [
 			"US"
 		],
@@ -5630,7 +5630,7 @@
 		],
 		"release_date": "1979-11-23",
 		"video": false,
-		"vote_average": 3.783,
+		"vote_average": 3.8,
 		"slug": "captain-america-ii-death-too-soon",
 		"tags": [
 			"list-8204862"
@@ -5705,7 +5705,7 @@
 		],
 		"release_date": "1979-01-19",
 		"video": false,
-		"vote_average": 4.055,
+		"vote_average": 4.1,
 		"slug": "captain-america",
 		"tags": [
 			"list-8204862"
@@ -5806,7 +5806,7 @@
 			10765
 		],
 		"first_air_date": "1978-05-17",
-		"vote_average": 7.3,
+		"vote_average": 7.284,
 		"origin_country": [
 			"JP"
 		],
