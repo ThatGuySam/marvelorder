@@ -43,7 +43,7 @@ tags:
     "release_date": "2022-08-10",
     "title": "Groot's Pursuit",
     "video": false,
-    "vote_average": 7.134,
+    "vote_average": 7.13,
     "slug": "groots-pursuit",
     "tags": [
         "movie",
