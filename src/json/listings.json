@@ -471,7 +471,7 @@
 		"original_language": "en",
 		"original_title": "Avengers 5",
 		"overview": "An upcoming film in the Marvel Cinematic Universe's sixth Phase and part of The Multiverse Saga. Plot unknown.",
-		"poster_path": "/lfE1GkxqoNaGqajRDCTYw5erBSo.jpg",
+		"poster_path": "/6x1jLnQEdscoVgumzo9wVzdp9iA.jpg",
 		"release_date": "2026-04-29",
 		"title": "Avengers 5",
 		"video": false,
@@ -616,10 +616,10 @@
 		"original_language": "en",
 		"original_name": "X-Men '97",
 		"overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-		"poster_path": "/383PV0WolYYQvTriH0NfvMUA28R.jpg",
+		"poster_path": "/4KUVuewdHUx2hPzBTbgehHnWpjA.jpg",
 		"first_air_date": "2024-03-20",
 		"name": "X-Men '97",
-		"vote_average": 8.7,
+		"vote_average": 8.6,
 		"title": "X-Men '97",
 		"slug": "x-men-97",
 		"tags": [
@@ -732,7 +732,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.207,
+		"vote_average": 6.21,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -851,7 +851,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/9xfDWXAUbFXQK585JvByT5pEAhe.jpg",
+		"backdrop_path": "/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg",
 		"genre_ids": [
 			16,
 			28,
@@ -866,7 +866,7 @@
 		"release_date": "2023-05-31",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
-		"vote_average": 8.376,
+		"vote_average": 8.377,
 		"slug": "spider-man-across-the-spider-verse",
 		"tags": [
 			"movie",
@@ -1028,7 +1028,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 7.143,
+		"vote_average": 7.142,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -1468,7 +1468,7 @@
 		"poster_path": "/vKDUmKO6F9bSKKyHhg7YGbgcEeF.jpg",
 		"first_air_date": "2022-03-30",
 		"name": "Moon Knight",
-		"vote_average": 7.7,
+		"vote_average": 7.745,
 		"title": "Moon Knight",
 		"slug": "moon-knight",
 		"tags": [
@@ -1625,7 +1625,7 @@
 		"original_language": "en",
 		"original_title": "Eternals",
 		"overview": "The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind’s most ancient enemy, the Deviants.",
-		"poster_path": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+		"poster_path": "/bcCBq9N1EMo3daNIjWJ8kYvrQm6.jpg",
 		"release_date": "2021-11-03",
 		"title": "Eternals",
 		"video": false,
@@ -1981,7 +1981,7 @@
 		],
 		"release_date": "2020-04-02",
 		"video": false,
-		"vote_average": 6.119,
+		"vote_average": 6.12,
 		"slug": "the-new-mutants",
 		"tags": [
 			"list-8204860"
@@ -2114,7 +2114,7 @@
 		"release_date": "2019-06-05",
 		"title": "Dark Phoenix",
 		"video": false,
-		"vote_average": 5.982,
+		"vote_average": 5.981,
 		"slug": "dark-phoenix",
 		"tags": [
 			"movie",
@@ -2198,7 +2198,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/tMOWRvHc7sdsc7UNtK6Nfb0onWD.jpg",
+		"backdrop_path": "/Jg4SNkNlYJXOJVo2TntrA5M2Kg.jpg",
 		"genre_ids": [
 			10751,
 			16,
@@ -2240,7 +2240,7 @@
 		],
 		"release_date": "2018-12-11",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7.127,
 		"slug": "once-upon-a-deadpool",
 		"tags": [
 			"list-8204860"
@@ -2630,7 +2630,7 @@
 		"poster_path": "/49XzINhH4LFsgz7cx6TOPcHUJUL.jpg",
 		"first_air_date": "2017-08-18",
 		"name": "Marvel's The Defenders",
-		"vote_average": 7.081,
+		"vote_average": 7.078,
 		"title": "Marvel's The Defenders",
 		"slug": "marvels-the-defenders",
 		"tags": [
@@ -2678,7 +2678,7 @@
 		"release_date": "2017-04-19",
 		"title": "Guardians of the Galaxy Vol. 2",
 		"video": false,
-		"vote_average": 7.621,
+		"vote_average": 7.6,
 		"slug": "guardians-of-the-galaxy-vol-2",
 		"tags": [
 			"movie",
@@ -2830,7 +2830,7 @@
 		"poster_path": "/d6T86JYMW4sSLRmNfdtFilvugOv.jpg",
 		"first_air_date": "2017-02-08",
 		"name": "Legion",
-		"vote_average": 7.548,
+		"vote_average": 7.549,
 		"title": "Legion",
 		"slug": "legion",
 		"tags": [
@@ -2930,7 +2930,7 @@
 		"poster_path": "/6R62oGGufhsf6DiMknCi047N0b7.jpg",
 		"first_air_date": "2016-09-30",
 		"name": "Marvel's Luke Cage",
-		"vote_average": 6.9,
+		"vote_average": 6.942,
 		"title": "Marvel's Luke Cage",
 		"slug": "marvels-luke-cage",
 		"tags": [
@@ -3072,7 +3072,7 @@
 		"poster_path": "/lwPFyjxAZY6NqHxywgY00Y4MFBx.jpg",
 		"first_air_date": "2015-11-20",
 		"name": "Marvel's Jessica Jones",
-		"vote_average": 7.504,
+		"vote_average": 7.503,
 		"title": "Marvel's Jessica Jones",
 		"slug": "marvels-jessica-jones",
 		"tags": [
@@ -3167,7 +3167,7 @@
 		"poster_path": "/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
 		"first_air_date": "2015-04-10",
 		"name": "Marvel's Daredevil",
-		"vote_average": 8.165,
+		"vote_average": 8.164,
 		"title": "Marvel's Daredevil",
 		"slug": "marvels-daredevil",
 		"tags": [
@@ -3551,11 +3551,11 @@
 		"original_language": "en",
 		"original_title": "The Wolverine: Path of a Ronin",
 		"overview": "A nice exploration of the samurai-ninja aspect of the story, including its roots in the actual Marvel comic books. There are the requisite interviews with the principal cast and crew along with copious clips from the film as well as some behind the scenes footage (including a look at that supercool metallic bed that the elderly Yashida lies on in the lab in his fortress).",
-		"poster_path": "/eEaXOel4AOlG8975Uc5iHNRRxl5.jpg",
+		"poster_path": "/tjGF5yjZF57mX1P1FFhRFKzRN3B.jpg",
 		"release_date": "2013-12-03",
 		"title": "The Wolverine: Path of a Ronin",
 		"video": false,
-		"vote_average": 6.905,
+		"vote_average": 6.9,
 		"slug": "the-wolverine-path-of-a-ronin",
 		"tags": [
 			"movie",
@@ -3624,7 +3624,7 @@
 		"poster_path": "/gHUCCMy1vvj58tzE3dZqeC9SXus.jpg",
 		"first_air_date": "2013-09-24",
 		"name": "Marvel's Agents of S.H.I.E.L.D.",
-		"vote_average": 7.493,
+		"vote_average": 7.491,
 		"title": "Marvel's Agents of S.H.I.E.L.D.",
 		"slug": "marvels-agents-of-shield",
 		"tags": [
@@ -3696,7 +3696,7 @@
 		],
 		"release_date": "2013-07-21",
 		"video": false,
-		"vote_average": 6.407,
+		"vote_average": 6.406,
 		"slug": "the-wolverine",
 		"tags": [
 			"list-8204860"
@@ -4291,7 +4291,7 @@
 		],
 		"release_date": "2009-04-28",
 		"video": false,
-		"vote_average": 6.264,
+		"vote_average": 6.263,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"list-8204860"
@@ -4541,7 +4541,7 @@
 		"release_date": "2007-08-14",
 		"title": "Doctor Strange",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.785,
 		"slug": "doctor-strange",
 		"tags": [
 			"movie",
@@ -4661,7 +4661,7 @@
 		"release_date": "2007-01-15",
 		"title": "Ghost Rider",
 		"video": false,
-		"vote_average": 5.564,
+		"vote_average": 5.565,
 		"slug": "ghost-rider",
 		"tags": [
 			"movie",
@@ -4857,7 +4857,7 @@
 		"release_date": "2004-12-08",
 		"title": "Blade: Trinity",
 		"video": false,
-		"vote_average": 5.858,
+		"vote_average": 5.857,
 		"slug": "blade-trinity",
 		"tags": [
 			"movie",
@@ -4974,7 +4974,7 @@
 		"release_date": "2003-06-19",
 		"title": "Hulk",
 		"video": false,
-		"vote_average": 5.545,
+		"vote_average": 5.544,
 		"slug": "hulk",
 		"tags": [
 			"movie",
@@ -5101,7 +5101,7 @@
 		"poster_path": "/At5aZIKkN8zHTAXOnQR9D3b7usW.jpg",
 		"first_air_date": "2000-11-04",
 		"name": "X-Men: Evolution",
-		"vote_average": 7.93,
+		"vote_average": 7.923,
 		"title": "X-Men: Evolution",
 		"slug": "x-men-evolution",
 		"tags": [
@@ -5234,7 +5234,7 @@
 		"poster_path": "/mBJTL4CRSoNkAQRmfwbiLTtviuW.jpg",
 		"first_air_date": "1998-02-07",
 		"name": "Silver Surfer",
-		"vote_average": 7.164,
+		"vote_average": 7.132,
 		"title": "Silver Surfer",
 		"slug": "silver-surfer",
 		"tags": [
@@ -5337,7 +5337,7 @@
 			10759
 		],
 		"first_air_date": "1994-11-19",
-		"vote_average": 8.267,
+		"vote_average": 8.264,
 		"origin_country": [
 			"US"
 		],
@@ -5365,7 +5365,7 @@
 		"poster_path": "/faLwKXaDaVnE3E8EGAhzsmKfGeQ.jpg",
 		"first_air_date": "1994-09-24",
 		"name": "Fantastic Four",
-		"vote_average": 6.365,
+		"vote_average": 6.328,
 		"title": "Fantastic Four",
 		"slug": "fantastic-four",
 		"tags": [
@@ -5390,7 +5390,7 @@
 			10765
 		],
 		"first_air_date": "1994-09-24",
-		"vote_average": 6.5,
+		"vote_average": 6.484,
 		"origin_country": [
 			"US"
 		],
@@ -5443,7 +5443,7 @@
 			10759
 		],
 		"first_air_date": "1992-10-31",
-		"vote_average": 8.187,
+		"vote_average": 8.188,
 		"origin_country": [
 			"US"
 		],
