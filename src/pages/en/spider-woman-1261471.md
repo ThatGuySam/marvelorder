@@ -30,17 +30,17 @@ tags:
     "genre_ids": [],
     "id": 1261471,
     "original_language": "en",
-    "original_title": "Spider Woman",
+    "original_title": "Spider-Woman",
     "overview": "A spin off to the spider verse trilogy which mainly focus on the characters Gwen Stacy , Jessica Drew and Cindy Moon",
     "poster_path": null,
     "release_date": "",
-    "title": "Spider Woman",
+    "title": "Spider-Woman",
     "video": false,
     "vote_average": 0,
     "slug": "spider-woman",
     "tags": [
         "movie",
-        "company-7505"
+        "company-420"
     ]
 }
 

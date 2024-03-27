@@ -270,29 +270,6 @@
 		"adult": false,
 		"backdrop_path": null,
 		"genre_ids": [
-			28,
-			14,
-			12
-		],
-		"id": 967731,
-		"original_language": "en",
-		"original_title": "El Muerto",
-		"overview": "A wrestler gains super strength thanks to a mystical mask that is passed down throughout his family.",
-		"poster_path": "/gRNB6GsKrI410Nvsbur3Rf0Ixnr.jpg",
-		"release_date": "",
-		"title": "El Muerto",
-		"video": false,
-		"vote_average": 0,
-		"slug": "el-muerto",
-		"tags": [
-			"movie",
-			"company-7505"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
 			878,
 			28,
 			12
@@ -423,17 +400,17 @@
 		"genre_ids": [],
 		"id": 1261471,
 		"original_language": "en",
-		"original_title": "Spider Woman",
+		"original_title": "Spider-Woman",
 		"overview": "A spin off to the spider verse trilogy which mainly focus on the characters Gwen Stacy , Jessica Drew and Cindy Moon",
 		"poster_path": null,
 		"release_date": "",
-		"title": "Spider Woman",
+		"title": "Spider-Woman",
 		"video": false,
 		"vote_average": 0,
 		"slug": "spider-woman",
 		"tags": [
 			"movie",
-			"company-7505"
+			"company-420"
 		]
 	},
 	{
@@ -619,7 +596,7 @@
 		"poster_path": "/4KUVuewdHUx2hPzBTbgehHnWpjA.jpg",
 		"first_air_date": "2024-03-20",
 		"name": "X-Men '97",
-		"vote_average": 8.6,
+		"vote_average": 8.5,
 		"title": "X-Men '97",
 		"slug": "x-men-97",
 		"tags": [
@@ -687,7 +664,7 @@
 		"poster_path": "/vFyJH630cF68LohVYjQW49074Sy.jpg",
 		"first_air_date": "2024-01-09",
 		"name": "Echo",
-		"vote_average": 6.266,
+		"vote_average": 6.265,
 		"title": "Echo",
 		"slug": "echo",
 		"tags": [
@@ -732,7 +709,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.21,
+		"vote_average": 6.2,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -820,7 +797,7 @@
 		"poster_path": "/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg",
 		"first_air_date": "2023-06-21",
 		"name": "Secret Invasion",
-		"vote_average": 6.86,
+		"vote_average": 6.861,
 		"title": "Secret Invasion",
 		"slug": "secret-invasion",
 		"tags": [
@@ -866,7 +843,7 @@
 		"release_date": "2023-05-31",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
-		"vote_average": 8.377,
+		"vote_average": 8.378,
 		"slug": "spider-man-across-the-spider-verse",
 		"tags": [
 			"movie",
@@ -1028,7 +1005,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 7.142,
+		"vote_average": 7.143,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -1443,7 +1420,7 @@
 		"release_date": "2022-05-04",
 		"title": "Doctor Strange in the Multiverse of Madness",
 		"video": false,
-		"vote_average": 7.317,
+		"vote_average": 7.316,
 		"slug": "doctor-strange-in-the-multiverse-of-madness",
 		"tags": [
 			"movie",
@@ -1468,7 +1445,7 @@
 		"poster_path": "/vKDUmKO6F9bSKKyHhg7YGbgcEeF.jpg",
 		"first_air_date": "2022-03-30",
 		"name": "Moon Knight",
-		"vote_average": 7.745,
+		"vote_average": 7.7,
 		"title": "Moon Knight",
 		"slug": "moon-knight",
 		"tags": [
@@ -1559,7 +1536,7 @@
 		"poster_path": "/ct5pNE5dDHryHLDnxyZPYcqO1sz.jpg",
 		"first_air_date": "2021-11-24",
 		"name": "Hawkeye",
-		"vote_average": 7.9,
+		"vote_average": 7.904,
 		"title": "Hawkeye",
 		"slug": "hawkeye",
 		"tags": [
@@ -1838,27 +1815,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/69GY219MYBurtf8joA2okEa3x8I.jpg",
-		"genre_ids": [
-			99
-		],
-		"id": 787923,
-		"original_language": "en",
-		"original_title": "Marvel's Behind the Mask",
-		"overview": "A documentary special that explores the power of identity behind the iconic superheroes we know and love today. These legendary Marvel creations and stories have not only reflected the world outside our window – they have become a reflection of our own identities and who we truly are.",
-		"poster_path": "/p71YgDQk5sFHTqF3FBygLPmZEX5.jpg",
-		"release_date": "2021-02-12",
-		"title": "Marvel's Behind the Mask",
-		"video": false,
-		"vote_average": 7.08,
-		"slug": "marvels-behind-the-mask",
-		"tags": [
-			"movie",
-			"company-7505"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": "/1i1N0AVRb54H6ZFPDTwbo9MLxSF.jpg",
 		"genre_ids": [
 			10765,
@@ -1927,7 +1883,7 @@
 		"poster_path": "/8fPIcaRIZgsoBcgA5yAm3GNz61M.jpg",
 		"first_air_date": "2020-10-16",
 		"name": "Helstrom",
-		"vote_average": 6.7,
+		"vote_average": 6.695,
 		"title": "Helstrom",
 		"slug": "helstrom",
 		"tags": [
@@ -1985,28 +1941,6 @@
 		"slug": "the-new-mutants",
 		"tags": [
 			"list-8204860"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/3tFuJZI6B5C9hQniPqkVZaOmTbb.jpg",
-		"genre_ids": [
-			99,
-			14
-		],
-		"id": 662151,
-		"original_language": "en",
-		"original_title": "Celebrating Marvel's Stan Lee",
-		"overview": "Filmed in part in front of a live audience at The New Amsterdam Theater in New York City, this Stan Lee tribute takes viewers on an action-packed journey throughout the life of Lee and across the Marvel Universe, sharing never-before-seen interviews and archive footage with Lee himself from deep within the Marvel and ABC News archives.",
-		"poster_path": "/8qlFNCxQQOLfnqwRcHY6WMkb7tF.jpg",
-		"release_date": "2019-12-20",
-		"title": "Celebrating Marvel's Stan Lee",
-		"video": false,
-		"vote_average": 7.313,
-		"slug": "celebrating-marvels-stan-lee",
-		"tags": [
-			"movie",
-			"company-7505"
 		]
 	},
 	{
@@ -2091,7 +2025,7 @@
 		"release_date": "2019-06-28",
 		"title": "Spider-Man: Far From Home",
 		"video": false,
-		"vote_average": 7.434,
+		"vote_average": 7.433,
 		"slug": "spider-man-far-from-home",
 		"tags": [
 			"movie",
@@ -2150,31 +2084,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/fgZWez3fbQ9Dija8Ka4IGShNk6M.jpg",
-		"genre_ids": [
-			16,
-			28,
-			35,
-			10751,
-			878
-		],
-		"id": 583055,
-		"original_language": "en",
-		"original_title": "Spider-Ham: Caught in a Ham",
-		"overview": "Spider-Ham: Caught in a Ham follows Spider-Ham as he faces off against bad guys, chows down on hot dogs, and makes plenty of food-based puns.",
-		"poster_path": "/hCcuPPSGTohyg4YqPJornTwLL03.jpg",
-		"release_date": "2019-03-19",
-		"title": "Spider-Ham: Caught in a Ham",
-		"video": false,
-		"vote_average": 6.9,
-		"slug": "spider-ham-caught-in-a-ham",
-		"tags": [
-			"movie",
-			"company-7505"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": "/qAzYK4YPSWDc7aa4R43LcwRIAyb.jpg",
 		"genre_ids": [
 			28,
@@ -2194,31 +2103,6 @@
 		"tags": [
 			"movie",
 			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/Jg4SNkNlYJXOJVo2TntrA5M2Kg.jpg",
-		"genre_ids": [
-			10751,
-			16,
-			28,
-			12
-		],
-		"id": 576743,
-		"original_language": "en",
-		"original_title": "Marvel Rising: Chasing Ghosts",
-		"overview": "Hot on the trails of Sheath and Exile, Ghost-Spider teams up with the rest of the Secret Warriors to bring down the villains for good.",
-		"poster_path": "/pufQvXrrxng95dT4kYlQtXn98kK.jpg",
-		"release_date": "2019-01-16",
-		"title": "Marvel Rising: Chasing Ghosts",
-		"video": false,
-		"vote_average": 6.8,
-		"slug": "marvel-rising-chasing-ghosts",
-		"tags": [
-			"movie",
-			"company-38679",
-			"company-7505"
 		]
 	},
 	{
@@ -2345,29 +2229,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/96ANeIgnKUqrBNlG2ZdesuOsony.jpg",
-		"genre_ids": [
-			16,
-			14,
-			10751
-		],
-		"id": 528222,
-		"original_language": "en",
-		"original_title": "LEGO Marvel Super Heroes: Black Panther - Trouble in Wakanda",
-		"overview": "After speaking at the Wakanda Embassy, Black Panther fights Thanos and fends him off with the help of fellow Avengers Captain America, Thor, Iron Man, Hulk, and Black Widow. After regaining conscious, Thanos is approached by Erik Killmonger and Ulysses Klaue in a plot where they will obtain the Vibranium in Wakanda to empower Thanos. When Black Panther discovers this plot, he must work with Shuri, Okoye, and the Avengers to defeat them.",
-		"poster_path": "/auiRFbbnMhnclaIMNGcQg0Uba8Y.jpg",
-		"release_date": "2018-06-04",
-		"title": "LEGO Marvel Super Heroes: Black Panther - Trouble in Wakanda",
-		"video": false,
-		"vote_average": 5.991,
-		"slug": "lego-marvel-super-heroes-black-panther-trouble-in-wakanda",
-		"tags": [
-			"movie",
-			"company-7505"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": "/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
 		"id": 383498,
 		"title": "Deadpool 2",
@@ -2460,29 +2321,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/hkllv8JmO3UuRNKSiIfks5plhgi.jpg",
-		"genre_ids": [
-			16,
-			10751,
-			878
-		],
-		"id": 509080,
-		"original_language": "en",
-		"original_title": "LEGO Marvel Super Heroes: Guardians of the Galaxy - The Thanos Threat",
-		"overview": "The Guardians are on a mission to deliver the Build Stone to the Avengers before the Ravagers, Thanos and his underlings steal it from them.",
-		"poster_path": "/e5h1RlnQzjgEAh4s96k50S8XkKa.jpg",
-		"release_date": "2017-12-09",
-		"title": "LEGO Marvel Super Heroes: Guardians of the Galaxy - The Thanos Threat",
-		"video": false,
-		"vote_average": 6.759,
-		"slug": "lego-marvel-super-heroes-guardians-of-the-galaxy-the-thanos-threat",
-		"tags": [
-			"movie",
-			"company-7505"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": "/7PYAUaJzzUVxS4xiJHFe338vJd1.jpg",
 		"genre_ids": [
 			10759,
@@ -2552,7 +2390,7 @@
 		"poster_path": "/nshCqszjTNuqhrB53vrSqWO18sE.jpg",
 		"first_air_date": "2017-10-02",
 		"name": "The Gifted",
-		"vote_average": 7.655,
+		"vote_average": 7.652,
 		"title": "The Gifted",
 		"slug": "the-gifted",
 		"tags": [
@@ -2678,7 +2516,7 @@
 		"release_date": "2017-04-19",
 		"title": "Guardians of the Galaxy Vol. 2",
 		"video": false,
-		"vote_average": 7.6,
+		"vote_average": 7.621,
 		"slug": "guardians-of-the-galaxy-vol-2",
 		"tags": [
 			"movie",
@@ -2709,34 +2547,6 @@
 		"tags": [
 			"tv",
 			"company-38679"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/jLuoxdI4S6JxOdlQYg57JLwDuEK.jpg",
-		"genre_ids": [
-			10762,
-			16,
-			10759,
-			10765,
-			35
-		],
-		"id": 70784,
-		"origin_country": [
-			"US"
-		],
-		"original_language": "en",
-		"original_name": "Marvel's Rocket & Groot",
-		"overview": "Before becoming Guardians of the Galaxy, Rocket and Groot were bounty hunters trying to get a ship.",
-		"poster_path": "/7FHJr40MPFwtHrOyOD9buQDoVcs.jpg",
-		"first_air_date": "2017-03-10",
-		"name": "Marvel's Rocket & Groot",
-		"vote_average": 6.976,
-		"title": "Marvel's Rocket & Groot",
-		"slug": "marvels-rocket-and-groot",
-		"tags": [
-			"tv",
-			"company-7505"
 		]
 	},
 	{
@@ -2830,7 +2640,7 @@
 		"poster_path": "/d6T86JYMW4sSLRmNfdtFilvugOv.jpg",
 		"first_air_date": "2017-02-08",
 		"name": "Legion",
-		"vote_average": 7.549,
+		"vote_average": 7.551,
 		"title": "Legion",
 		"slug": "legion",
 		"tags": [
@@ -3167,7 +2977,7 @@
 		"poster_path": "/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
 		"first_air_date": "2015-04-10",
 		"name": "Marvel's Daredevil",
-		"vote_average": 8.164,
+		"vote_average": 8.2,
 		"title": "Marvel's Daredevil",
 		"slug": "marvels-daredevil",
 		"tags": [
@@ -3282,7 +3092,7 @@
 		"release_date": "2014-11-04",
 		"title": "Marvel: 75 Years, from Pulp to Pop!",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.804,
 		"slug": "marvel-75-years-from-pulp-to-pop",
 		"tags": [
 			"movie",
@@ -3308,27 +3118,6 @@
 		"tags": [
 			"movie",
 			"company-11106"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
-			99
-		],
-		"id": 441917,
-		"original_language": "en",
-		"original_title": "The Marvel Universe Expands: Marvel 75th Anniversary",
-		"overview": "A documentary about some of Marvel's most famous characters.",
-		"poster_path": "/2faGI0USP1JG9OuLdFZw1M7lwhF.jpg",
-		"release_date": "2014-08-21",
-		"title": "The Marvel Universe Expands: Marvel 75th Anniversary",
-		"video": false,
-		"vote_average": 5.3,
-		"slug": "the-marvel-universe-expands-marvel-75th-anniversary",
-		"tags": [
-			"movie",
-			"company-7505"
 		]
 	},
 	{
@@ -3493,7 +3282,6 @@
 		"slug": "marvel-studios-assembling-a-universe",
 		"tags": [
 			"movie",
-			"company-7505",
 			"company-420"
 		]
 	},
@@ -3513,7 +3301,7 @@
 		"release_date": "2014-02-04",
 		"title": "Marvel One-Shot: All Hail the King",
 		"video": false,
-		"vote_average": 6.7,
+		"vote_average": 6.746,
 		"slug": "marvel-one-shot-all-hail-the-king",
 		"tags": [
 			"movie",
@@ -3539,27 +3327,6 @@
 		"tags": [
 			"movie",
 			"company-11106"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
-			99
-		],
-		"id": 447158,
-		"original_language": "en",
-		"original_title": "The Wolverine: Path of a Ronin",
-		"overview": "A nice exploration of the samurai-ninja aspect of the story, including its roots in the actual Marvel comic books. There are the requisite interviews with the principal cast and crew along with copious clips from the film as well as some behind the scenes footage (including a look at that supercool metallic bed that the elderly Yashida lies on in the lab in his fortress).",
-		"poster_path": "/tjGF5yjZF57mX1P1FFhRFKzRN3B.jpg",
-		"release_date": "2013-12-03",
-		"title": "The Wolverine: Path of a Ronin",
-		"video": false,
-		"vote_average": 6.9,
-		"slug": "the-wolverine-path-of-a-ronin",
-		"tags": [
-			"movie",
-			"company-7505"
 		]
 	},
 	{
@@ -3670,7 +3437,7 @@
 		"release_date": "2013-09-03",
 		"title": "Marvel One-Shot: Agent Carter",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 7.221,
 		"slug": "marvel-one-shot-agent-carter",
 		"tags": [
 			"movie",
@@ -3812,7 +3579,7 @@
 		"release_date": "2012-09-13",
 		"title": "Marvel One-Shot: Item 47",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.449,
 		"slug": "marvel-one-shot-item-47",
 		"tags": [
 			"movie",
@@ -3995,7 +3762,7 @@
 		"release_date": "2011-09-13",
 		"title": "Marvel One-Shot: The Consultant",
 		"video": false,
-		"vote_average": 6.3,
+		"vote_average": 6.332,
 		"slug": "marvel-one-shot-the-consultant",
 		"tags": [
 			"movie",
@@ -4018,7 +3785,7 @@
 		"release_date": "2011-07-22",
 		"title": "Captain America: The First Avenger",
 		"video": false,
-		"vote_average": 6.999,
+		"vote_average": 7,
 		"slug": "captain-america-the-first-avenger",
 		"tags": [
 			"movie",
@@ -4045,7 +3812,7 @@
 		],
 		"release_date": "2011-06-01",
 		"video": false,
-		"vote_average": 7.298,
+		"vote_average": 7.299,
 		"slug": "x-men-first-class",
 		"tags": [
 			"list-8204860"
@@ -4169,7 +3936,7 @@
 		"release_date": "2010-04-28",
 		"title": "Iron Man 2",
 		"video": false,
-		"vote_average": 6.839,
+		"vote_average": 6.838,
 		"slug": "iron-man-2",
 		"tags": [
 			"movie",
@@ -4291,7 +4058,7 @@
 		],
 		"release_date": "2009-04-28",
 		"video": false,
-		"vote_average": 6.263,
+		"vote_average": 6.264,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"list-8204860"
@@ -4465,7 +4232,7 @@
 		"release_date": "2008-06-12",
 		"title": "The Incredible Hulk",
 		"video": false,
-		"vote_average": 6.208,
+		"vote_average": 6.207,
 		"slug": "the-incredible-hulk",
 		"tags": [
 			"movie",
@@ -4564,7 +4331,7 @@
 		"release_date": "2007-06-13",
 		"title": "Fantastic Four: Rise of the Silver Surfer",
 		"video": false,
-		"vote_average": 5.601,
+		"vote_average": 5.602,
 		"slug": "fantastic-four-rise-of-the-silver-surfer",
 		"tags": [
 			"movie",
@@ -4608,7 +4375,7 @@
 		"release_date": "2007-05-01",
 		"title": "Spider-Man 3",
 		"video": false,
-		"vote_average": 6.412,
+		"vote_average": 6.413,
 		"slug": "spider-man-3",
 		"tags": [
 			"movie",
@@ -4866,27 +4633,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/s0dJIDBLiN1IAjFisxKi9PBQnYW.jpg",
-		"genre_ids": [
-			99
-		],
-		"id": 1244755,
-		"original_language": "en",
-		"original_title": "8 Arms to Hold You",
-		"overview": "An \"Ock-umentary\" exploring the character of Doc Ock and the way he as well as his tentacles were brought to life on the silver screen.",
-		"poster_path": "/AmUUD1SDWh8slviwBxMTymmbyyJ.jpg",
-		"release_date": "2004-11-30",
-		"title": "8 Arms to Hold You",
-		"video": false,
-		"vote_average": 0,
-		"slug": "8-arms-to-hold-you",
-		"tags": [
-			"movie",
-			"company-7505"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": "/ouMBIALAOq0rpoB8b2RydUevRu1.jpg",
 		"genre_ids": [
 			28,
@@ -4924,7 +4670,7 @@
 		"release_date": "2004-04-15",
 		"title": "The Punisher",
 		"video": false,
-		"vote_average": 6.347,
+		"vote_average": 6.348,
 		"slug": "the-punisher",
 		"tags": [
 			"movie",
@@ -5023,7 +4769,7 @@
 		"release_date": "2003-02-14",
 		"title": "Daredevil",
 		"video": false,
-		"vote_average": 5.258,
+		"vote_average": 5.3,
 		"slug": "daredevil",
 		"tags": [
 			"movie",
@@ -5443,7 +5189,7 @@
 			10759
 		],
 		"first_air_date": "1992-10-31",
-		"vote_average": 8.188,
+		"vote_average": 8.2,
 		"origin_country": [
 			"US"
 		],
@@ -5634,29 +5380,6 @@
 		"slug": "captain-america-ii-death-too-soon",
 		"tags": [
 			"list-8204862"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/jEHTrcPwghiKU9hp36l3fJBUpZ8.jpg",
-		"genre_ids": [
-			28,
-			12,
-			878
-		],
-		"id": 592735,
-		"original_language": "ja",
-		"original_title": "バトルフィーバーJ THE MOVIE",
-		"overview": "Egos kidnaps the children of Information Supervisor Sakaguchi, Yoko and Kenichi. They then blackmail him into stealing the blueprints and completion status of the Battle Fever robo. Tetsuzan Shogun, who joined the Defense Department at the same time as Sakaguchi, is greatly concerned and confronts him. Sakaguchi escapes but vows to make amends. He appears at Egos factory, where they too are building a giant robo, and discloses a false timetable. When Egos orders them killed, Sakaguchi reveals dynamite strapped to his body. He backs away with his children and gets them to safety. He then returns to the factory, and blows himself up to destroy it. Unfortunately, his sacrifice is in vain, as their evil robo is already completed. But Battle Fever’s giant robo is also complete and ready to save the day!",
-		"poster_path": "/iSiD46YjoMMy0yOWImZUT6yZbWD.jpg",
-		"release_date": "1979-07-21",
-		"title": "Battle Fever J: The Movie",
-		"video": false,
-		"vote_average": 6.3,
-		"slug": "battle-fever-j-the-movie",
-		"tags": [
-			"movie",
-			"company-7505"
 		]
 	},
 	{
