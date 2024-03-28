@@ -30,7 +30,7 @@ tags:
     "release_date": "2016-01-19",
     "title": "Marvel's Captain America: 75 Heroic Years",
     "video": false,
-    "vote_average": 6.606,
+    "vote_average": 6.6,
     "slug": "marvels-captain-america-75-heroic-years",
     "tags": [
         "movie",

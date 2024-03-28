@@ -33,7 +33,7 @@ watchLinks:
     ],
     "release_date": "1944-02-05",
     "video": false,
-    "vote_average": 5.482,
+    "vote_average": 5.5,
     "slug": "captain-america",
     "tags": [
         "list-8204862"

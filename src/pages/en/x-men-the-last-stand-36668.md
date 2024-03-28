@@ -33,7 +33,7 @@ watchLinks:
     ],
     "release_date": "2006-05-24",
     "video": false,
-    "vote_average": 6.409,
+    "vote_average": 6.4,
     "slug": "x-men-the-last-stand",
     "tags": [
         "list-8204860"

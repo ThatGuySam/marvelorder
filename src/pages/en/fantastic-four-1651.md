@@ -27,7 +27,7 @@ watchLinks:
     "poster_path": "/o2jhtGqOR3UAWg4wIBu21Ub4ecP.jpg",
     "first_air_date": "1967-09-09",
     "name": "Fantastic Four",
-    "vote_average": 7.205,
+    "vote_average": 7.2,
     "title": "Fantastic Four",
     "slug": "fantastic-four",
     "tags": [
