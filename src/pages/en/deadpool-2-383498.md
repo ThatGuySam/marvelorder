@@ -15,27 +15,29 @@ watchLinks:
 {
     "adult": false,
     "backdrop_path": "/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
-    "id": 383498,
-    "title": "Deadpool 2",
-    "original_language": "en",
-    "original_title": "Deadpool 2",
-    "overview": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
-    "poster_path": "/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
-    "media_type": "movie",
-    "runtime": 120,
-    "revenue": 785896632,
     "genre_ids": [
         28,
         35,
         12
     ],
+    "id": 383498,
+    "original_language": "en",
+    "original_title": "Deadpool 2",
+    "overview": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
+    "poster_path": "/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
     "release_date": "2018-05-10",
+    "title": "Deadpool 2",
     "video": false,
     "vote_average": 7.489,
     "slug": "deadpool-2",
     "tags": [
+        "movie",
+        "company-7505",
         "list-8204860"
-    ]
+    ],
+    "media_type": "movie",
+    "runtime": 120,
+    "revenue": 785896632
 }
 
 ```

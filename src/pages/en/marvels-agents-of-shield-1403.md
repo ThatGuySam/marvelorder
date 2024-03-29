@@ -34,7 +34,7 @@ mcuTimelineOrder: 46
     "poster_path": "/gHUCCMy1vvj58tzE3dZqeC9SXus.jpg",
     "first_air_date": "2013-09-24",
     "name": "Marvel's Agents of S.H.I.E.L.D.",
-    "vote_average": 7.5,
+    "vote_average": 7.491,
     "title": "Marvel's Agents of S.H.I.E.L.D.",
     "slug": "marvels-agents-of-shield",
     "tags": [
