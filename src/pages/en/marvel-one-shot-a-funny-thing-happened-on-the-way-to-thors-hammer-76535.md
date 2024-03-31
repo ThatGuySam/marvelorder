@@ -29,7 +29,7 @@ mcuTimelineOrder: 35
     "release_date": "2011-10-25",
     "title": "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer",
     "video": false,
-    "vote_average": 6.8,
+    "vote_average": 6.811,
     "slug": "marvel-one-shot-a-funny-thing-happened-on-the-way-to-thors-hammer",
     "tags": [
         "movie",

@@ -33,7 +33,7 @@ watchLinks:
     "poster_path": "/oSeJ2nESB77iC6SLo4qcqoadjdt.jpg",
     "first_air_date": "2009-01-23",
     "name": "Wolverine and the X-Men",
-    "vote_average": 7.5,
+    "vote_average": 7.54,
     "title": "Wolverine and the X-Men",
     "slug": "wolverine-and-the-x-men",
     "tags": [

@@ -31,7 +31,6 @@ logo_on_black: /.netlify/functions/tmdb-image/fa6aYdjF083UV2w6V7hOAjwaqi4.webp
     "backdrop_path": "/nbq3LfgLXnL5ixZ1Q74jTJmhmTS.jpg",
     "genre_ids": [
         35,
-        28,
         878,
         12
     ],
