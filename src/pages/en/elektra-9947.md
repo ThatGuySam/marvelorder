@@ -17,7 +17,7 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/qnVL4BNPlREYq4HKl6L62hiicYE.jpg",
+    "backdrop_path": "/rLMQvYhl6DU6QZVNcJTbs87gVPs.jpg",
     "genre_ids": [
         28,
         14,
@@ -31,7 +31,7 @@ watchLinks:
     "release_date": "2005-01-13",
     "title": "Elektra",
     "video": false,
-    "vote_average": 5.043,
+    "vote_average": 5.045,
     "slug": "elektra",
     "tags": [
         "movie",
