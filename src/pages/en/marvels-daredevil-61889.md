@@ -33,7 +33,7 @@ mcuTimelineOrder: 82
     "poster_path": "/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
     "first_air_date": "2015-04-10",
     "name": "Marvel's Daredevil",
-    "vote_average": 8.164,
+    "vote_average": 8.165,
     "title": "Marvel's Daredevil",
     "slug": "marvels-daredevil",
     "tags": [
