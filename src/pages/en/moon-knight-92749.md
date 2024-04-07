@@ -35,7 +35,7 @@ mcuTimelineOrder: 593
     "poster_path": "/YksR65as1ppF2N48TJAh2PLamX.jpg",
     "first_air_date": "2022-03-30",
     "name": "Moon Knight",
-    "vote_average": 7.742,
+    "vote_average": 7.741,
     "title": "Moon Knight",
     "slug": "moon-knight",
     "tags": [
