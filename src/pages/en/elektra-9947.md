@@ -31,7 +31,7 @@ watchLinks:
     "release_date": "2005-01-13",
     "title": "Elektra",
     "video": false,
-    "vote_average": 5.045,
+    "vote_average": 5.046,
     "slug": "elektra",
     "tags": [
         "movie",
