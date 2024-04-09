@@ -18,7 +18,7 @@ mcuTimelineOrder: 544
 ```json
 {
     "adult": false,
-    "backdrop_path": "/jHxCeXnSchAuwHnmVatTgqMYdX8.jpg",
+    "backdrop_path": "/2PDTWfuBWQKVC7aPAqJK5UCpz08.jpg",
     "genre_ids": [
         28,
         878
@@ -31,7 +31,7 @@ mcuTimelineOrder: 544
     "release_date": "2002-05-01",
     "title": "Spider-Man",
     "video": false,
-    "vote_average": 7.293,
+    "vote_average": 7.294,
     "slug": "spider-man",
     "tags": [
         "movie",

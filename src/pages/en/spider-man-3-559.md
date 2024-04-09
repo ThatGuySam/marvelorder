@@ -19,7 +19,7 @@ mcuTimelineOrder: 546
 ```json
 {
     "adult": false,
-    "backdrop_path": "/w1oD1MzHjnBJc5snKupIQaSBLIh.jpg",
+    "backdrop_path": "/eSGBbCOX7KM3Rf8HHwK8tglklyS.jpg",
     "genre_ids": [
         28,
         12,
@@ -33,7 +33,7 @@ mcuTimelineOrder: 546
     "release_date": "2007-05-01",
     "title": "Spider-Man 3",
     "video": false,
-    "vote_average": 6.413,
+    "vote_average": 6.414,
     "slug": "spider-man-3",
     "tags": [
         "movie",

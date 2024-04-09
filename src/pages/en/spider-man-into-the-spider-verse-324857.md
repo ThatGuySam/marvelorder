@@ -16,7 +16,7 @@ backdrop_path: /x2IqsMlpbOhS8zIUJfyl1yO4gHF.jpg
 ```json
 {
     "adult": false,
-    "backdrop_path": "/qGQf2OHIkoh89K8XeKQzhxczf96.jpg",
+    "backdrop_path": "/hlCq6Qh9GVtuNcGZF4mQYluaZix.jpg",
     "id": 324857,
     "title": "Spider-Man: Into the Spider-Verse",
     "original_language": "en",
