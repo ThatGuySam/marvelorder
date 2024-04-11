@@ -41,8 +41,8 @@ watchLinks:
     ],
     "id": 7330,
     "origin_country": [
-        "US",
-        "CA"
+        "CA",
+        "US"
     ],
     "original_language": "en",
     "original_name": "Iron Man: Armored Adventures",

@@ -52,7 +52,7 @@ tags:
     ],
     "release_date": "1978-07-22",
     "video": false,
-    "vote_average": 6.4,
+    "vote_average": 6.241,
     "slug": "japanese-spiderman-episode-0",
     "tags": [
         "list-8204862"
