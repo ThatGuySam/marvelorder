@@ -12,16 +12,16 @@ watchLinks:
 ## TMDB Data
 ```json
 {
-    "adult": false,
     "backdrop_path": "/49VI6PxMo3swVqq0VLELEQ2fpks.jpg",
     "id": 4552,
-    "name": "The Amazing Spider-Man",
-    "original_language": "en",
     "original_name": "The Amazing Spider-Man",
     "overview": "The first live-action TV series based on the popular comic book.",
     "poster_path": "/kUTCJhSnH3Dt0KVzcQp8DnbmsjN.jpg",
     "media_type": "tv",
     "runtime": null,
+    "adult": false,
+    "name": "The Amazing Spider-Man",
+    "original_language": "en",
     "genre_ids": [
         10765,
         10759
