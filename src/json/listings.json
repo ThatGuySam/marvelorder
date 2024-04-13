@@ -440,6 +440,98 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			28,
+			12,
+			878
+		],
+		"id": 1273596,
+		"original_language": "en",
+		"original_title": "The Young Avengers",
+		"overview": "A ’Young Avengers’ movie is reportedly in the development at Marvel Studios.",
+		"poster_path": "/ntvJsalWKI00tfu1k7fyPBxK02h.jpg",
+		"release_date": "",
+		"title": "The Young Avengers",
+		"video": false,
+		"vote_average": 0,
+		"slug": "the-young-avengers",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			14,
+			28,
+			12
+		],
+		"id": 1273599,
+		"original_language": "en",
+		"original_title": "Doctor Strange 3",
+		"overview": "A conclusion to the Doctor Strange trilogy in the Marvel Cinematic Universe, confirmed to be in the works at Marvel Studios.",
+		"poster_path": "/f798h5ZQZIO919TJSCHGVA8wVuT.jpg",
+		"release_date": "",
+		"title": "Doctor Strange 3",
+		"video": false,
+		"vote_average": 0,
+		"slug": "doctor-strange-3",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			14,
+			28,
+			12
+		],
+		"id": 1273601,
+		"original_language": "en",
+		"original_title": "Thor 5",
+		"overview": "A new 'Thor' film is planned to begin production after 'Avengers: Secret Wars'. Taika Waititi will not return to direct.",
+		"poster_path": "/ytzdCCrNbqZQIigassFZtEC7FUd.jpg",
+		"release_date": "",
+		"title": "Thor 5",
+		"video": false,
+		"vote_average": 0,
+		"slug": "thor-5",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			14,
+			28,
+			12
+		],
+		"id": 1273602,
+		"original_language": "en",
+		"original_title": "The Scarlet Witch",
+		"overview": "A 'Scarlet Witch' solo movie is reportedly in the early works at Marvel Studios.",
+		"poster_path": "/uHnRiQUoN1cSk0DTD2QRJ5h0opI.jpg",
+		"release_date": "",
+		"title": "The Scarlet Witch",
+		"video": false,
+		"vote_average": 0,
+		"slug": "the-scarlet-witch",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/jqFC2WjYF07hx2X7cs0XmY9jBX6.jpg",
 		"genre_ids": [
 			878
@@ -542,8 +634,8 @@
 		"original_language": "en",
 		"original_title": "Thunderbolts*",
 		"overview": "A world without Avengers doesn't mean there's not a group of superheroes. There is a group and they're called the Thunderbolts.",
-		"poster_path": "/dHhniU1vz1C0j27AFdcsPmq6xu.jpg",
-		"release_date": "2025-05-01",
+		"poster_path": "/oVUZVSzvY7Ode4LzVphY2HWz4MA.jpg",
+		"release_date": "2025-04-30",
 		"title": "Thunderbolts*",
 		"video": false,
 		"vote_average": 0,
@@ -555,7 +647,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/qYvpc3qLb0LpGOBS7JOq5RxYt0x.jpg",
+		"backdrop_path": "/9oUoj3v7ZXF1UwjYdRumOPiOBCx.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -565,7 +657,7 @@
 		"original_language": "en",
 		"original_title": "Captain America: Brave New World",
 		"overview": "A sequel to Marvel Studios' The Falcon and the Winter Soldier and follows Sam Wilson as the new Captain America.",
-		"poster_path": "/ghkjPyaPGMfDufOa4D2A51DFGWr.jpg",
+		"poster_path": "/c3rh6LCeuqgjyfhif1w5a4pLoTw.jpg",
 		"release_date": "2025-02-12",
 		"title": "Captain America: Brave New World",
 		"video": false,
@@ -600,7 +692,7 @@
 			"list-8204860"
 		],
 		"media_type": "movie",
-		"runtime": null,
+		"runtime": 130,
 		"revenue": 0
 	},
 	{
@@ -621,7 +713,7 @@
 		"poster_path": "/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg",
 		"first_air_date": "2024-03-20",
 		"name": "X-Men '97",
-		"vote_average": 8.667,
+		"vote_average": 8.657,
 		"title": "X-Men '97",
 		"slug": "x-men-97",
 		"tags": [
@@ -734,7 +826,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.192,
+		"vote_average": 6.191,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -822,7 +914,7 @@
 		"poster_path": "/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg",
 		"first_air_date": "2023-06-21",
 		"name": "Secret Invasion",
-		"vote_average": 6.849,
+		"vote_average": 6.8,
 		"title": "Secret Invasion",
 		"slug": "secret-invasion",
 		"tags": [
@@ -868,7 +960,7 @@
 		"release_date": "2023-05-31",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
-		"vote_average": 8.376,
+		"vote_average": 8.4,
 		"slug": "spider-man-across-the-spider-verse",
 		"tags": [
 			"movie",
@@ -1007,7 +1099,7 @@
 		"release_date": "2022-11-25",
 		"title": "The Guardians of the Galaxy Holiday Special",
 		"video": false,
-		"vote_average": 7.18,
+		"vote_average": 7.181,
 		"slug": "the-guardians-of-the-galaxy-holiday-special",
 		"tags": [
 			"movie",
@@ -1140,7 +1232,7 @@
 		"poster_path": "/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
 		"first_air_date": "2022-08-18",
 		"name": "She-Hulk: Attorney at Law",
-		"vote_average": 6.3,
+		"vote_average": 6.293,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
 		"tags": [
@@ -1168,7 +1260,7 @@
 		"poster_path": "/eqKNlMgG6pE1tbvTcD86NDNKlru.jpg",
 		"first_air_date": "2022-08-10",
 		"name": "I Am Groot",
-		"vote_average": 7.167,
+		"vote_average": 7.164,
 		"title": "I Am Groot",
 		"slug": "i-am-groot",
 		"tags": [
@@ -1379,7 +1471,7 @@
 		"poster_path": "/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
 		"first_air_date": "2022-06-08",
 		"name": "Ms. Marvel",
-		"vote_average": 6.484,
+		"vote_average": 6.5,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
 		"tags": [
@@ -1470,7 +1562,7 @@
 		"poster_path": "/YksR65as1ppF2N48TJAh2PLamX.jpg",
 		"first_air_date": "2022-03-30",
 		"name": "Moon Knight",
-		"vote_average": 7.74,
+		"vote_average": 7.7,
 		"title": "Moon Knight",
 		"slug": "moon-knight",
 		"tags": [
@@ -1536,7 +1628,7 @@
 		"release_date": "2021-12-15",
 		"title": "Spider-Man: No Way Home",
 		"video": false,
-		"vote_average": 8,
+		"vote_average": 7.969,
 		"slug": "spider-man-no-way-home",
 		"tags": [
 			"movie",
@@ -1631,7 +1723,7 @@
 		"release_date": "2021-11-03",
 		"title": "Eternals",
 		"video": false,
-		"vote_average": 6.9,
+		"vote_average": 6.884,
 		"slug": "eternals",
 		"tags": [
 			"movie",
@@ -1654,7 +1746,7 @@
 		"release_date": "2021-09-01",
 		"title": "Shang-Chi and the Legend of the Ten Rings",
 		"video": false,
-		"vote_average": 7.6,
+		"vote_average": 7.561,
 		"slug": "shang-chi-and-the-legend-of-the-ten-rings",
 		"tags": [
 			"movie",
@@ -1679,7 +1771,7 @@
 		"poster_path": "/rWg4Jk7NwVEz2BtU1aKKDoDJPeB.jpg",
 		"first_air_date": "2021-08-11",
 		"name": "What If...?",
-		"vote_average": 8.169,
+		"vote_average": 8.168,
 		"title": "What If...?",
 		"slug": "what-if",
 		"tags": [
@@ -1730,7 +1822,7 @@
 		"release_date": "2021-07-07",
 		"title": "Black Widow",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.261,
 		"slug": "black-widow",
 		"tags": [
 			"movie",
@@ -1754,7 +1846,7 @@
 		"poster_path": "/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg",
 		"first_air_date": "2021-06-09",
 		"name": "Loki",
-		"vote_average": 8.178,
+		"vote_average": 8.2,
 		"title": "Loki",
 		"slug": "loki",
 		"tags": [
@@ -1806,7 +1898,7 @@
 		"poster_path": "/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
 		"first_air_date": "2021-03-19",
 		"name": "The Falcon and the Winter Soldier",
-		"vote_average": 7.7,
+		"vote_average": 7.665,
 		"title": "The Falcon and the Winter Soldier",
 		"slug": "the-falcon-and-the-winter-soldier",
 		"tags": [
@@ -2007,7 +2099,7 @@
 		"release_date": "2019-09-17",
 		"title": "Peter's To-Do List",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.823,
 		"slug": "peters-to-do-list",
 		"tags": [
 			"movie",
@@ -2223,7 +2315,7 @@
 		"release_date": "2018-07-04",
 		"title": "Ant-Man and the Wasp",
 		"video": false,
-		"vote_average": 6.9,
+		"vote_average": 6.942,
 		"slug": "ant-man-and-the-wasp",
 		"tags": [
 			"movie",
@@ -2343,7 +2435,7 @@
 		"release_date": "2018-02-13",
 		"title": "Black Panther",
 		"video": false,
-		"vote_average": 7.4,
+		"vote_average": 7.386,
 		"slug": "black-panther",
 		"tags": [
 			"movie",
@@ -2547,7 +2639,7 @@
 		"release_date": "2017-04-19",
 		"title": "Guardians of the Galaxy Vol. 2",
 		"video": false,
-		"vote_average": 7.6,
+		"vote_average": 7.621,
 		"slug": "guardians-of-the-galaxy-vol-2",
 		"tags": [
 			"movie",
@@ -2747,7 +2839,7 @@
 		"release_date": "2016-10-25",
 		"title": "Doctor Strange",
 		"video": false,
-		"vote_average": 7.4,
+		"vote_average": 7.423,
 		"slug": "doctor-strange",
 		"tags": [
 			"movie",
@@ -2847,7 +2939,7 @@
 		"release_date": "2016-04-27",
 		"title": "Captain America: Civil War",
 		"video": false,
-		"vote_average": 7.4,
+		"vote_average": 7.441,
 		"slug": "captain-america-civil-war",
 		"tags": [
 			"movie",
@@ -2966,7 +3058,7 @@
 		"release_date": "2015-07-14",
 		"title": "Ant-Man",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7.08,
 		"slug": "ant-man",
 		"tags": [
 			"movie",
@@ -3173,7 +3265,7 @@
 		"release_date": "2014-07-30",
 		"title": "Guardians of the Galaxy",
 		"video": false,
-		"vote_average": 7.9,
+		"vote_average": 7.908,
 		"slug": "guardians-of-the-galaxy",
 		"tags": [
 			"movie",
@@ -3196,7 +3288,7 @@
 		"release_date": "2014-05-15",
 		"title": "X-Men: Days of Future Past",
 		"video": false,
-		"vote_average": 7.525,
+		"vote_average": 7.5,
 		"slug": "x-men-days-of-future-past",
 		"tags": [
 			"movie",
@@ -3428,7 +3520,7 @@
 		"release_date": "2013-10-30",
 		"title": "Thor: The Dark World",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.53,
 		"slug": "thor-the-dark-world",
 		"tags": [
 			"movie",
@@ -4323,7 +4415,7 @@
 		"release_date": "2008-06-12",
 		"title": "The Incredible Hulk",
 		"video": false,
-		"vote_average": 6.2,
+		"vote_average": 6.208,
 		"slug": "the-incredible-hulk",
 		"tags": [
 			"movie",
@@ -4347,7 +4439,7 @@
 		"release_date": "2008-04-30",
 		"title": "Iron Man",
 		"video": false,
-		"vote_average": 7.643,
+		"vote_average": 7.6,
 		"slug": "iron-man",
 		"tags": [
 			"movie",
@@ -5176,7 +5268,7 @@
 			10759
 		],
 		"first_air_date": "1994-11-19",
-		"vote_average": 8.263,
+		"vote_average": 8.264,
 		"origin_country": [
 			"US"
 		],
@@ -5282,7 +5374,7 @@
 			10759
 		],
 		"first_air_date": "1992-10-31",
-		"vote_average": 8.197,
+		"vote_average": 8.193,
 		"origin_country": [
 			"US"
 		],
@@ -5312,7 +5404,7 @@
 		],
 		"release_date": "1990-02-18",
 		"video": false,
-		"vote_average": 5.361,
+		"vote_average": 5.369,
 		"slug": "the-death-of-the-incredible-hulk",
 		"tags": [
 			"list-8204862"
