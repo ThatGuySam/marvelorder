@@ -32,16 +32,14 @@ watchLinks:
     "release_date": "2019-06-05",
     "title": "Dark Phoenix",
     "video": false,
-    "vote_average": 5.979,
+    "vote_average": 5.98,
     "slug": "dark-phoenix",
     "tags": [
         "movie",
         "company-7505",
         "list-8204860"
     ],
-    "media_type": "movie",
-    "runtime": 114,
-    "revenue": 252442974
+    "media_type": "movie"
 }
 
 ```

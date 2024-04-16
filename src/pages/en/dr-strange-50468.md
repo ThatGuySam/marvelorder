@@ -21,8 +21,6 @@ poster_path: /5B4z5Ch5Dek8hQJ7UlIVZgWLntV.jpg
     "overview": "A psychiatrist becomes the new Sorcerer Supreme of the Earth in order to battle an evil Sorceress from the past.",
     "poster_path": "/hEyHVgBE28Jl13h2Qpbr3LH77sP.jpg",
     "media_type": "movie",
-    "runtime": 93,
-    "revenue": 0,
     "adult": false,
     "title": "Dr. Strange",
     "original_language": "en",

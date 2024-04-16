@@ -21,8 +21,6 @@ watchLinks:
     "overview": "Superhero Captain America battles the evil forces of the archvillain called The Scarab, who poisons his enemies and steals a secret device capable of destroying buildings by sound vibrations.",
     "poster_path": "/b15xz96lSiH1JC7uYKofXJz0HTD.jpg",
     "media_type": "movie",
-    "runtime": 244,
-    "revenue": 0,
     "adult": false,
     "title": "Captain America",
     "original_language": "en",

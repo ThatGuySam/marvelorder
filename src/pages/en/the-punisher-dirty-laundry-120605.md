@@ -18,8 +18,6 @@ watchLinks:
     "overview": "In a bad neighborhood, on his way to a laundromat to do his laundry, Frank Castle witnesses a ruthless street gang harassing several people.",
     "poster_path": "/5o5uPBWe0pYj7nHmE7V8yoNlLQb.jpg",
     "media_type": "movie",
-    "runtime": 11,
-    "revenue": 0,
     "adult": false,
     "title": "The Punisher: Dirty Laundry",
     "original_language": "en",

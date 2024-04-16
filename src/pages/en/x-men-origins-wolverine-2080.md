@@ -29,16 +29,14 @@ watchLinks:
     "release_date": "2009-04-28",
     "title": "X-Men Origins: Wolverine",
     "video": false,
-    "vote_average": 6.264,
+    "vote_average": 6.265,
     "slug": "x-men-origins-wolverine",
     "tags": [
         "movie",
         "company-7505",
         "list-8204860"
     ],
-    "media_type": "movie",
-    "runtime": 107,
-    "revenue": 373062864
+    "media_type": "movie"
 }
 
 ```

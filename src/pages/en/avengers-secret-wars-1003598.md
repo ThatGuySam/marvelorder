@@ -33,9 +33,7 @@ tags:
         "company-420",
         "list-8204859"
     ],
-    "media_type": "movie",
-    "runtime": null,
-    "revenue": 0
+    "media_type": "movie"
 }
 
 ```

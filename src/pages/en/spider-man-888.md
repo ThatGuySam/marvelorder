@@ -20,7 +20,6 @@ watchLinks:
     "overview": "Bitten by a radioactive spider, Peter Parker develops spider-like superpowers. He uses these to fight crime while trying to balance it with the struggles of his personal life.",
     "poster_path": "/m78QRL6puLJ9pXSQ8XMd3dVKOOW.jpg",
     "media_type": "tv",
-    "runtime": null,
     "adult": false,
     "name": "Spider-Man",
     "original_language": "en",

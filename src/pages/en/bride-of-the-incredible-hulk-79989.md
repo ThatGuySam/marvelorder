@@ -20,8 +20,6 @@ watchLinks:
     "overview": "David and Carolyn marry in Hawaii and continue to work to find a cure for both their afflictions in a race against time.",
     "poster_path": "/3apbGlabEmgR1jEgJgqg7FUMqCz.jpg",
     "media_type": "movie",
-    "runtime": 95,
-    "revenue": 0,
     "adult": false,
     "title": "Bride of the Incredible Hulk",
     "original_language": "en",

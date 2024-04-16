@@ -49,9 +49,7 @@ logo_on_black: /.netlify/functions/tmdb-image/fa6aYdjF083UV2w6V7hOAjwaqi4.webp
         "company-420",
         "list-8204860"
     ],
-    "media_type": "movie",
-    "runtime": null,
-    "revenue": 0
+    "media_type": "movie"
 }
 
 ```

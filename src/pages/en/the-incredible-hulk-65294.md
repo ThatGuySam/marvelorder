@@ -18,8 +18,6 @@ logo_on_black: /.netlify/functions/fanart/the-incredible-hulk-1982-5950c1b13ae4f
     "overview": "An accidental overdose of gamma radiation causes a mutation in scientist David Banner's DNA: now whenever he becomes angry, he metamorphoses into a seven-foot-tall, 330-pound, mindless muscular green creature.",
     "poster_path": "/eMdysVpG2i3PzydIqkY4jt2YUZ8.jpg",
     "media_type": "movie",
-    "runtime": 95,
-    "revenue": 0,
     "adult": false,
     "title": "The Incredible Hulk",
     "original_language": "en",

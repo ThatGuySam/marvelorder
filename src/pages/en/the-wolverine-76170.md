@@ -35,9 +35,7 @@ watchLinks:
         "company-7505",
         "list-8204860"
     ],
-    "media_type": "movie",
-    "runtime": 126,
-    "revenue": 415440673
+    "media_type": "movie"
 }
 
 ```

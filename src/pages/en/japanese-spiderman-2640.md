@@ -36,7 +36,6 @@ tags:
     "overview": "Follow the exploits of motorcycle racer turned super hero Takuya Yamashiro, as he slings and swings, battling the evil Iron Cross Army along the way.",
     "poster_path": "/vlSuwzyt3Hyq5OSFpvJDYnYDN1a.jpg",
     "media_type": "tv",
-    "runtime": null,
     "adult": false,
     "name": "Japanese Spiderman",
     "original_language": "ja",

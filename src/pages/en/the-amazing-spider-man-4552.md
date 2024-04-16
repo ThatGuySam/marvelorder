@@ -18,7 +18,6 @@ watchLinks:
     "overview": "The first live-action TV series based on the popular comic book.",
     "poster_path": "/kUTCJhSnH3Dt0KVzcQp8DnbmsjN.jpg",
     "media_type": "tv",
-    "runtime": null,
     "adult": false,
     "name": "The Amazing Spider-Man",
     "original_language": "en",
