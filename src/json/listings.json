@@ -572,7 +572,7 @@
 		"poster_path": "/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg",
 		"first_air_date": "2024-03-20",
 		"name": "X-Men '97",
-		"vote_average": 8.639,
+		"vote_average": 8.6,
 		"title": "X-Men '97",
 		"slug": "x-men-97",
 		"tags": [
@@ -685,7 +685,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.188,
+		"vote_average": 6.187,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -773,7 +773,7 @@
 		"poster_path": "/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg",
 		"first_air_date": "2023-06-21",
 		"name": "Secret Invasion",
-		"vote_average": 6.846,
+		"vote_average": 6.844,
 		"title": "Secret Invasion",
 		"slug": "secret-invasion",
 		"tags": [
@@ -843,7 +843,7 @@
 		"release_date": "2023-05-03",
 		"title": "Guardians of the Galaxy Vol. 3",
 		"video": false,
-		"vote_average": 8,
+		"vote_average": 7.976,
 		"slug": "guardians-of-the-galaxy-vol-3",
 		"tags": [
 			"movie",
@@ -890,7 +890,7 @@
 		"release_date": "2023-02-15",
 		"title": "Ant-Man and the Wasp: Quantumania",
 		"video": false,
-		"vote_average": 6.352,
+		"vote_average": 6.4,
 		"slug": "ant-man-and-the-wasp-quantumania",
 		"tags": [
 			"movie",
@@ -959,7 +959,7 @@
 		"release_date": "2022-11-25",
 		"title": "The Guardians of the Galaxy Holiday Special",
 		"video": false,
-		"vote_average": 7.182,
+		"vote_average": 7.183,
 		"slug": "the-guardians-of-the-galaxy-holiday-special",
 		"tags": [
 			"movie",
@@ -982,7 +982,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 7.138,
+		"vote_average": 7.1,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -1120,7 +1120,7 @@
 		"poster_path": "/eqKNlMgG6pE1tbvTcD86NDNKlru.jpg",
 		"first_air_date": "2022-08-10",
 		"name": "I Am Groot",
-		"vote_average": 7.171,
+		"vote_average": 7.166,
 		"title": "I Am Groot",
 		"slug": "i-am-groot",
 		"tags": [
@@ -1331,7 +1331,7 @@
 		"poster_path": "/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
 		"first_air_date": "2022-06-08",
 		"name": "Ms. Marvel",
-		"vote_average": 6.484,
+		"vote_average": 6.485,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
 		"tags": [
@@ -1538,7 +1538,7 @@
 		"poster_path": "/1aK7hApRSDUv8xxDQXyQil7qBjN.jpg",
 		"first_air_date": "2021-11-17",
 		"name": "Marvel's Hit-Monkey",
-		"vote_average": 7.8,
+		"vote_average": 7.765,
 		"title": "Marvel's Hit-Monkey",
 		"slug": "marvels-hit-monkey",
 		"tags": [
@@ -2050,7 +2050,7 @@
 		"release_date": "2019-04-24",
 		"title": "Avengers: Endgame",
 		"video": false,
-		"vote_average": 8.256,
+		"vote_average": 8.255,
 		"slug": "avengers-endgame",
 		"tags": [
 			"movie",
@@ -2440,7 +2440,7 @@
 		"poster_path": "/49XzINhH4LFsgz7cx6TOPcHUJUL.jpg",
 		"first_air_date": "2017-08-18",
 		"name": "Marvel's The Defenders",
-		"vote_average": 7.1,
+		"vote_average": 7.079,
 		"title": "Marvel's The Defenders",
 		"slug": "marvels-the-defenders",
 		"tags": [
@@ -2538,7 +2538,7 @@
 		],
 		"release_date": "2017-03-03",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 7.153,
 		"slug": "deadpool-no-good-deed",
 		"tags": [
 			"list-8204860"
@@ -2610,7 +2610,7 @@
 		"poster_path": "/d6T86JYMW4sSLRmNfdtFilvugOv.jpg",
 		"first_air_date": "2017-02-08",
 		"name": "Legion",
-		"vote_average": 7.6,
+		"vote_average": 7.553,
 		"title": "Legion",
 		"slug": "legion",
 		"tags": [
@@ -2757,7 +2757,7 @@
 		"release_date": "2016-05-18",
 		"title": "X-Men: Apocalypse",
 		"video": false,
-		"vote_average": 6.514,
+		"vote_average": 6.5,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"movie",
@@ -2805,7 +2805,7 @@
 		"release_date": "2016-02-09",
 		"title": "Deadpool",
 		"video": false,
-		"vote_average": 7.611,
+		"vote_average": 7.612,
 		"slug": "deadpool",
 		"tags": [
 			"movie",
@@ -2852,7 +2852,7 @@
 		"poster_path": "/lwPFyjxAZY6NqHxywgY00Y4MFBx.jpg",
 		"first_air_date": "2015-11-20",
 		"name": "Marvel's Jessica Jones",
-		"vote_average": 7.5,
+		"vote_average": 7.501,
 		"title": "Marvel's Jessica Jones",
 		"slug": "marvels-jessica-jones",
 		"tags": [
@@ -2899,7 +2899,7 @@
 		"release_date": "2015-07-14",
 		"title": "Ant-Man",
 		"video": false,
-		"vote_average": 7.08,
+		"vote_average": 7.1,
 		"slug": "ant-man",
 		"tags": [
 			"movie",
@@ -2922,7 +2922,7 @@
 		"release_date": "2015-04-22",
 		"title": "Avengers: Age of Ultron",
 		"video": false,
-		"vote_average": 7.274,
+		"vote_average": 7.3,
 		"slug": "avengers-age-of-ultron",
 		"tags": [
 			"movie",
@@ -2947,7 +2947,7 @@
 		"poster_path": "/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
 		"first_air_date": "2015-04-10",
 		"name": "Marvel's Daredevil",
-		"vote_average": 8.2,
+		"vote_average": 8.165,
 		"title": "Marvel's Daredevil",
 		"slug": "marvels-daredevil",
 		"tags": [
@@ -3064,7 +3064,7 @@
 		"poster_path": "/fe79VYyLp5ZBstpJ4oukpuUT3B.jpg",
 		"first_air_date": "2015-01-06",
 		"name": "Marvel's Agent Carter",
-		"vote_average": 7.5,
+		"vote_average": 7.531,
 		"title": "Marvel's Agent Carter",
 		"slug": "marvels-agent-carter",
 		"tags": [
@@ -3224,7 +3224,7 @@
 		"release_date": "2014-04-16",
 		"title": "The Amazing Spider-Man 2",
 		"video": false,
-		"vote_average": 6.505,
+		"vote_average": 6.506,
 		"slug": "the-amazing-spider-man-2",
 		"tags": [
 			"movie",
@@ -3273,7 +3273,7 @@
 		"release_date": "2014-03-20",
 		"title": "Captain America: The Winter Soldier",
 		"video": false,
-		"vote_average": 7.665,
+		"vote_average": 7.666,
 		"slug": "captain-america-the-winter-soldier",
 		"tags": [
 			"movie",
@@ -3408,7 +3408,7 @@
 		"poster_path": "/gHUCCMy1vvj58tzE3dZqeC9SXus.jpg",
 		"first_air_date": "2013-09-24",
 		"name": "Marvel's Agents of S.H.I.E.L.D.",
-		"vote_average": 7.489,
+		"vote_average": 7.49,
 		"title": "Marvel's Agents of S.H.I.E.L.D.",
 		"slug": "marvels-agents-of-shield",
 		"tags": [
@@ -3658,7 +3658,7 @@
 		"original_language": "en",
 		"original_title": "The Amazing Spider-Man",
 		"overview": "Peter Parker is an outcast high schooler abandoned by his parents as a boy, leaving him to be raised by his Uncle Ben and Aunt May. Like most teenagers, Peter is trying to figure out who he is and how he got to be the person he is today. As Peter discovers a mysterious briefcase that belonged to his father, he begins a quest to understand his parents' disappearance – leading him directly to Oscorp and the lab of Dr. Curt Connors, his father's former partner. As Spider-Man is set on a collision course with Connors' alter ego, The Lizard, Peter will make life-altering choices to use his powers and shape his destiny to become a hero.",
-		"poster_path": "/jIfkQNARYyERqRAq1p1c8xgePp4.jpg",
+		"poster_path": "/BgcvtsVWLQfjHD6Dr3YYgeSLYk.jpg",
 		"release_date": "2012-06-23",
 		"title": "The Amazing Spider-Man",
 		"video": false,
@@ -4206,7 +4206,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/dqPZpQy6PJINOJtld17NgIERusH.jpg",
+		"backdrop_path": "/sPDIOvqyVzPo1Xu46BAB6aSGvSF.jpg",
 		"genre_ids": [
 			28,
 			80
@@ -4411,7 +4411,7 @@
 		"release_date": "2007-05-01",
 		"title": "Spider-Man 3",
 		"video": false,
-		"vote_average": 6.414,
+		"vote_average": 6.4,
 		"slug": "spider-man-3",
 		"tags": [
 			"movie",
@@ -4704,7 +4704,7 @@
 		"release_date": "2004-04-15",
 		"title": "The Punisher",
 		"video": false,
-		"vote_average": 6.346,
+		"vote_average": 6.345,
 		"slug": "the-punisher",
 		"tags": [
 			"movie",
@@ -4754,7 +4754,7 @@
 		"release_date": "2003-06-19",
 		"title": "Hulk",
 		"video": false,
-		"vote_average": 5.5,
+		"vote_average": 5.544,
 		"slug": "hulk",
 		"tags": [
 			"movie",
@@ -5208,7 +5208,7 @@
 			10759
 		],
 		"first_air_date": "1992-10-31",
-		"vote_average": 8.195,
+		"vote_average": 8.2,
 		"origin_country": [
 			"US"
 		],
