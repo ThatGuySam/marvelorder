@@ -556,6 +556,27 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			99
+		],
+		"id": 1275606,
+		"original_language": "en",
+		"original_title": "Marvel Studios' Assembled: The Making of X-Men '97",
+		"overview": "In the early 1990s, few beyond those who journeyed into the pages of Marvel comics had ever heard of “Rogue,” “Beast,” “Gambit,” or even “Wolverine.” But that sad state of affairs changed forever when “X-Men: The Animated Series\" debuted on television and touched millions hungry for something different. The series was unlike any cartoon that had come before it, exploring themes of prejudice and social justice. The characters were super, but they were also outsiders, underdogs. Kids everywhere could relate – as well as adults. “Assembled” recalls the birth of “X-Men: The Animated Series” and its revival thirty years later as “X-Men ’97.” Spend time with the original cast members, along with new voices, as they reveal the stories behind the classic show and its uncompromising continuation.",
+		"poster_path": null,
+		"release_date": "2024-05-22",
+		"title": "Marvel Studios' Assembled: The Making of X-Men '97",
+		"video": false,
+		"vote_average": 0,
+		"slug": "marvel-studios-assembled-the-making-of-x-men-97",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/ovUbhh84qB11B5wzHd01cM07yia.jpg",
 		"genre_ids": [
 			16,
@@ -572,7 +593,7 @@
 		"poster_path": "/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg",
 		"first_air_date": "2024-03-20",
 		"name": "X-Men '97",
-		"vote_average": 8.6,
+		"vote_average": 8.649,
 		"title": "X-Men '97",
 		"slug": "x-men-97",
 		"tags": [
@@ -685,7 +706,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.187,
+		"vote_average": 6.186,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -819,7 +840,7 @@
 		"release_date": "2023-05-31",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
-		"vote_average": 8.373,
+		"vote_average": 8.4,
 		"slug": "spider-man-across-the-spider-verse",
 		"tags": [
 			"movie",
@@ -959,7 +980,7 @@
 		"release_date": "2022-11-25",
 		"title": "The Guardians of the Galaxy Holiday Special",
 		"video": false,
-		"vote_average": 7.183,
+		"vote_average": 7.181,
 		"slug": "the-guardians-of-the-galaxy-holiday-special",
 		"tags": [
 			"movie",
@@ -982,7 +1003,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7.139,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -1047,7 +1068,7 @@
 		"release_date": "2022-09-25",
 		"title": "Werewolf by Night",
 		"video": false,
-		"vote_average": 7.006,
+		"vote_average": 7.003,
 		"slug": "werewolf-by-night",
 		"tags": [
 			"movie",
@@ -1306,7 +1327,7 @@
 		"release_date": "2022-07-06",
 		"title": "Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 6.476,
+		"vote_average": 6.475,
 		"slug": "thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -1331,7 +1352,7 @@
 		"poster_path": "/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
 		"first_air_date": "2022-06-08",
 		"name": "Ms. Marvel",
-		"vote_average": 6.485,
+		"vote_average": 6.489,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
 		"tags": [
@@ -1397,7 +1418,7 @@
 		"release_date": "2022-05-04",
 		"title": "Doctor Strange in the Multiverse of Madness",
 		"video": false,
-		"vote_average": 7.312,
+		"vote_average": 7.31,
 		"slug": "doctor-strange-in-the-multiverse-of-madness",
 		"tags": [
 			"movie",
@@ -1488,7 +1509,7 @@
 		"release_date": "2021-12-15",
 		"title": "Spider-Man: No Way Home",
 		"video": false,
-		"vote_average": 7.969,
+		"vote_average": 7.968,
 		"slug": "spider-man-no-way-home",
 		"tags": [
 			"movie",
@@ -1583,7 +1604,7 @@
 		"release_date": "2021-11-03",
 		"title": "Eternals",
 		"video": false,
-		"vote_average": 6.884,
+		"vote_average": 6.883,
 		"slug": "eternals",
 		"tags": [
 			"movie",
@@ -1606,7 +1627,7 @@
 		"release_date": "2021-09-01",
 		"title": "Shang-Chi and the Legend of the Ten Rings",
 		"video": false,
-		"vote_average": 7.561,
+		"vote_average": 7.56,
 		"slug": "shang-chi-and-the-legend-of-the-ten-rings",
 		"tags": [
 			"movie",
@@ -1911,7 +1932,7 @@
 		"release_date": "2020-04-02",
 		"title": "The New Mutants",
 		"video": false,
-		"vote_average": 6.1,
+		"vote_average": 6.117,
 		"slug": "the-new-mutants",
 		"tags": [
 			"movie",
@@ -2025,7 +2046,7 @@
 		"release_date": "2019-06-05",
 		"title": "Dark Phoenix",
 		"video": false,
-		"vote_average": 5.98,
+		"vote_average": 5.979,
 		"slug": "dark-phoenix",
 		"tags": [
 			"movie",
@@ -2123,7 +2144,7 @@
 		],
 		"release_date": "2018-12-06",
 		"video": false,
-		"vote_average": 8.405,
+		"vote_average": 8.4,
 		"slug": "spider-man-into-the-spider-verse",
 		"tags": [
 			"list-8204859"
@@ -2144,7 +2165,7 @@
 		"release_date": "2018-09-28",
 		"title": "Venom",
 		"video": false,
-		"vote_average": 6.826,
+		"vote_average": 6.827,
 		"slug": "venom",
 		"tags": [
 			"movie",
@@ -2241,7 +2262,7 @@
 		"release_date": "2018-04-25",
 		"title": "Avengers: Infinity War",
 		"video": false,
-		"vote_average": 8.248,
+		"vote_average": 8.2,
 		"slug": "avengers-infinity-war",
 		"tags": [
 			"movie",
@@ -2337,7 +2358,7 @@
 		"poster_path": "/tM6xqRKXoloH9UchaJEyyRE9O1w.jpg",
 		"first_air_date": "2017-11-17",
 		"name": "Marvel's The Punisher",
-		"vote_average": 8.112,
+		"vote_average": 8.113,
 		"title": "Marvel's The Punisher",
 		"slug": "marvels-the-punisher",
 		"tags": [
@@ -2585,7 +2606,7 @@
 		"release_date": "2017-02-14",
 		"title": "Team Thor: Part 2",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 6.982,
 		"slug": "team-thor-part-2",
 		"tags": [
 			"movie",
@@ -2733,7 +2754,7 @@
 		"release_date": "2016-08-28",
 		"title": "Team Thor",
 		"video": false,
-		"vote_average": 7.285,
+		"vote_average": 7.288,
 		"slug": "team-thor",
 		"tags": [
 			"movie",
@@ -2757,7 +2778,7 @@
 		"release_date": "2016-05-18",
 		"title": "X-Men: Apocalypse",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.514,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"movie",
@@ -2947,7 +2968,7 @@
 		"poster_path": "/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
 		"first_air_date": "2015-04-10",
 		"name": "Marvel's Daredevil",
-		"vote_average": 8.165,
+		"vote_average": 8.166,
 		"title": "Marvel's Daredevil",
 		"slug": "marvels-daredevil",
 		"tags": [
@@ -3224,7 +3245,7 @@
 		"release_date": "2014-04-16",
 		"title": "The Amazing Spider-Man 2",
 		"video": false,
-		"vote_average": 6.506,
+		"vote_average": 6.505,
 		"slug": "the-amazing-spider-man-2",
 		"tags": [
 			"movie",
@@ -3273,7 +3294,7 @@
 		"release_date": "2014-03-20",
 		"title": "Captain America: The Winter Soldier",
 		"video": false,
-		"vote_average": 7.666,
+		"vote_average": 7.665,
 		"slug": "captain-america-the-winter-soldier",
 		"tags": [
 			"movie",
@@ -3318,7 +3339,7 @@
 		"release_date": "2014-02-04",
 		"title": "Marvel One-Shot: All Hail the King",
 		"video": false,
-		"vote_average": 6.747,
+		"vote_average": 6.748,
 		"slug": "marvel-one-shot-all-hail-the-king",
 		"tags": [
 			"movie",
@@ -3595,7 +3616,7 @@
 		"release_date": "2012-09-13",
 		"title": "Marvel One-Shot: Item 47",
 		"video": false,
-		"vote_average": 6.444,
+		"vote_average": 6.445,
 		"slug": "marvel-one-shot-item-47",
 		"tags": [
 			"movie",
@@ -3753,7 +3774,7 @@
 		"release_date": "2011-12-10",
 		"title": "Ghost Rider: Spirit of Vengeance",
 		"video": false,
-		"vote_average": 5,
+		"vote_average": 5.012,
 		"slug": "ghost-rider-spirit-of-vengeance",
 		"tags": [
 			"movie",
@@ -4091,7 +4112,7 @@
 		"release_date": "2009-04-28",
 		"title": "X-Men Origins: Wolverine",
 		"video": false,
-		"vote_average": 6.265,
+		"vote_average": 6.264,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"movie",
@@ -4367,7 +4388,7 @@
 		"release_date": "2007-06-13",
 		"title": "Fantastic Four: Rise of the Silver Surfer",
 		"video": false,
-		"vote_average": 5.6,
+		"vote_average": 5.602,
 		"slug": "fantastic-four-rise-of-the-silver-surfer",
 		"tags": [
 			"movie",
@@ -4411,7 +4432,7 @@
 		"release_date": "2007-05-01",
 		"title": "Spider-Man 3",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.414,
 		"slug": "spider-man-3",
 		"tags": [
 			"movie",
@@ -4564,7 +4585,7 @@
 		"release_date": "2006-05-24",
 		"title": "X-Men: The Last Stand",
 		"video": false,
-		"vote_average": 6.408,
+		"vote_average": 6.409,
 		"slug": "x-men-the-last-stand",
 		"tags": [
 			"movie",
@@ -4635,7 +4656,7 @@
 		"release_date": "2005-01-13",
 		"title": "Elektra",
 		"video": false,
-		"vote_average": 5.045,
+		"vote_average": 5.043,
 		"slug": "elektra",
 		"tags": [
 			"movie",
@@ -4658,7 +4679,7 @@
 		"release_date": "2004-12-08",
 		"title": "Blade: Trinity",
 		"video": false,
-		"vote_average": 5.9,
+		"vote_average": 5.854,
 		"slug": "blade-trinity",
 		"tags": [
 			"movie",
@@ -4681,7 +4702,7 @@
 		"release_date": "2004-06-25",
 		"title": "Spider-Man 2",
 		"video": false,
-		"vote_average": 7.271,
+		"vote_average": 7.27,
 		"slug": "spider-man-2",
 		"tags": [
 			"movie",
@@ -4801,7 +4822,7 @@
 		"release_date": "2003-02-14",
 		"title": "Daredevil",
 		"video": false,
-		"vote_average": 5.3,
+		"vote_average": 5.259,
 		"slug": "daredevil",
 		"tags": [
 			"movie",
@@ -4905,7 +4926,7 @@
 		],
 		"release_date": "2000-07-13",
 		"video": false,
-		"vote_average": 7.002,
+		"vote_average": 7.001,
 		"slug": "x-men",
 		"tags": [
 			"list-8204860"
@@ -5309,7 +5330,7 @@
 		],
 		"release_date": "1986-08-01",
 		"video": false,
-		"vote_average": 5.4,
+		"vote_average": 5.406,
 		"slug": "howard-the-duck",
 		"tags": [
 			"list-8204859"
