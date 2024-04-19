@@ -27,7 +27,7 @@ mcuTimelineOrder: 375
     "original_language": "en",
     "original_title": "Doctor Strange",
     "overview": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
-    "poster_path": "/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",
+    "poster_path": "/7WfK17BXE6szXlm4WOxfswgbdsL.jpg",
     "release_date": "2016-10-25",
     "title": "Doctor Strange",
     "video": false,
