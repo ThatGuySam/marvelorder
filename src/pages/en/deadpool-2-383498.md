@@ -28,7 +28,7 @@ watchLinks:
     "release_date": "2018-05-10",
     "title": "Deadpool 2",
     "video": false,
-    "vote_average": 7.5,
+    "vote_average": 7.488,
     "slug": "deadpool-2",
     "tags": [
         "movie",

@@ -30,7 +30,7 @@ watchLinks:
     "release_date": "2018-12-11",
     "title": "Once Upon a Deadpool",
     "video": false,
-    "vote_average": 7.131,
+    "vote_average": 7.13,
     "slug": "once-upon-a-deadpool",
     "tags": [
         "movie",
