@@ -15,7 +15,7 @@ backdrop_path: /x2IqsMlpbOhS8zIUJfyl1yO4gHF.jpg
 ## TMDB Data
 ```json
 {
-    "backdrop_path": "/hlCq6Qh9GVtuNcGZF4mQYluaZix.jpg",
+    "backdrop_path": "/qGQf2OHIkoh89K8XeKQzhxczf96.jpg",
     "id": 324857,
     "original_title": "Spider-Man: Into the Spider-Verse",
     "overview": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
