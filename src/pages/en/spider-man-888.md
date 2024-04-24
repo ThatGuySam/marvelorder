@@ -17,7 +17,7 @@ watchLinks:
     "backdrop_path": "/fFWdqlnBVNMLDneYUeQLFuPBq4Z.jpg",
     "id": 888,
     "original_name": "Spider-Man",
-    "overview": "Bitten by a radioactive spider, Peter Parker develops spider-like superpowers. He uses these to fight crime while trying to balance it with the struggles of his personal life.",
+    "overview": "Bitten by a neogenetic spider, Peter Parker develops spider-like superpowers. He uses these to fight crime while trying to balance it with the struggles of his personal life.",
     "poster_path": "/m78QRL6puLJ9pXSQ8XMd3dVKOOW.jpg",
     "media_type": "tv",
     "adult": false,
@@ -28,7 +28,7 @@ watchLinks:
         10759
     ],
     "first_air_date": "1994-11-19",
-    "vote_average": 8.267,
+    "vote_average": 8.3,
     "origin_country": [
         "US"
     ],

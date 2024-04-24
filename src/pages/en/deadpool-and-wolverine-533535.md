@@ -28,11 +28,12 @@ logo_on_black: /.netlify/functions/tmdb-image/fa6aYdjF083UV2w6V7hOAjwaqi4.webp
 ```json
 {
     "adult": false,
-    "backdrop_path": "/nbq3LfgLXnL5ixZ1Q74jTJmhmTS.jpg",
+    "backdrop_path": "/cJiZwrwHiU9edbHEDDqCsna0xtS.jpg",
     "genre_ids": [
         35,
         878,
-        12
+        12,
+        28
     ],
     "id": 533535,
     "original_language": "en",
