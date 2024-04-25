@@ -31,7 +31,7 @@ watchLinks:
     "poster_path": "/1aK7hApRSDUv8xxDQXyQil7qBjN.jpg",
     "first_air_date": "2021-11-17",
     "name": "Marvel's Hit-Monkey",
-    "vote_average": 7.767,
+    "vote_average": 7.8,
     "title": "Marvel's Hit-Monkey",
     "slug": "marvels-hit-monkey",
     "tags": [
