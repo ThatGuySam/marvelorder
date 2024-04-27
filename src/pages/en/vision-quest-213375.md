@@ -34,7 +34,7 @@ tags:
     "original_language": "en",
     "original_name": "Vision Quest",
     "overview": "After the events of \"WandaVision\", the Vision tries to regain his identity.",
-    "poster_path": "/kxmWVVqFvPIl5kntmxI37ZYzuAC.jpg",
+    "poster_path": null,
     "first_air_date": "",
     "name": "Vision Quest",
     "vote_average": 0,

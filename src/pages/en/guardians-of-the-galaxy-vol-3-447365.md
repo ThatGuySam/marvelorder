@@ -34,7 +34,7 @@ mcuTimelineOrder: 632
     "release_date": "2023-05-03",
     "title": "Guardians of the Galaxy Vol. 3",
     "video": false,
-    "vote_average": 7.975,
+    "vote_average": 7.974,
     "slug": "guardians-of-the-galaxy-vol-3",
     "tags": [
         "movie",

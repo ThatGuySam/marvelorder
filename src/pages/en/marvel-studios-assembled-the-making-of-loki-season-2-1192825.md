@@ -45,7 +45,7 @@ tags:
     "release_date": "2023-11-22",
     "title": "Marvel Studios Assembled: The Making of Loki Season 2",
     "video": false,
-    "vote_average": 7.2,
+    "vote_average": 7.385,
     "slug": "marvel-studios-assembled-the-making-of-loki-season-2",
     "tags": [
         "movie",
