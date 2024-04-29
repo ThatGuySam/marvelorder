@@ -89,7 +89,7 @@ This is the *most* official list for the Marvel Chronologically, aka by the time
 - April 29, 2026 - [Avengers 5](https://marvelorder.com/en/avengers-5-1003596) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/avengers-5-1003596.md)
 - April 29, 2026 - [Avengers: The Kang Dynasty](https://marvelorder.com/en/avengers-the-kang-dynasty-1003596) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/avengers-the-kang-dynasty-1003596.md)
 - February 12, 2027 - [Doctor Strange: Time Runs Out](https://marvelorder.com/en/doctor-strange-time-runs-out-1072946) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/doctor-strange-time-runs-out-1072946.md)
-- May 6, 2027 - [Avengers: Secret Wars](https://marvelorder.com/en/avengers-secret-wars-1003598) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/avengers-secret-wars-1003598.md)
+- May 5, 2027 - [Avengers: Secret Wars](https://marvelorder.com/en/avengers-secret-wars-1003598) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/avengers-secret-wars-1003598.md)
 
 <!-- end-upcoming-list -->
 

@@ -403,7 +403,7 @@
 		"id": 1003598,
 		"original_language": "en",
 		"original_title": "Avengers: Secret Wars",
-		"overview": "An upcoming film in the Marvel Cinematic Universe's sixth Phase and the finale of The Multiverse Saga. Plot unknown.",
+		"overview": "An upcoming film in Phase 6 of the Marvel Cinematic Universe and the finale of The Multiverse Saga. Plot TBA.",
 		"poster_path": "/8chwENebfUEJzZ7sMUA0nOgiCKk.jpg",
 		"release_date": "2027-05-05",
 		"title": "Avengers: Secret Wars",
@@ -555,7 +555,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
+		"backdrop_path": "/yU7HIeoDZrT3psDCnF4WbkJS2kQ.jpg",
 		"genre_ids": [
 			99
 		],
@@ -563,7 +563,7 @@
 		"original_language": "en",
 		"original_title": "Marvel Studios Assembled: The Making of X-Men '97",
 		"overview": "In the early 1990s, few beyond those who journeyed into the pages of Marvel comics had ever heard of “Rogue,” “Beast,” “Gambit,” or even “Wolverine.” But that sad state of affairs changed forever when “X-Men: The Animated Series\" debuted on television and touched millions hungry for something different. The series was unlike any cartoon that had come before it, exploring themes of prejudice and social justice. The characters were super, but they were also outsiders, underdogs. Kids everywhere could relate – as well as adults. “Assembled” recalls the birth of “X-Men: The Animated Series” and its revival thirty years later as “X-Men ’97.” Spend time with the original cast members, along with new voices, as they reveal the stories behind the classic show and its uncompromising continuation.",
-		"poster_path": null,
+		"poster_path": "/d9sQosnxqyXCBjoxwypOnf1aJie.jpg",
 		"release_date": "2024-05-22",
 		"title": "Marvel Studios Assembled: The Making of X-Men '97",
 		"video": false,
@@ -592,7 +592,7 @@
 		"poster_path": "/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg",
 		"first_air_date": "2024-03-20",
 		"name": "X-Men '97",
-		"vote_average": 8.727,
+		"vote_average": 8.742,
 		"title": "X-Men '97",
 		"slug": "x-men-97",
 		"tags": [
@@ -705,7 +705,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.2,
+		"vote_average": 6.176,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -793,7 +793,7 @@
 		"poster_path": "/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg",
 		"first_air_date": "2023-06-21",
 		"name": "Secret Invasion",
-		"vote_average": 6.8,
+		"vote_average": 6.837,
 		"title": "Secret Invasion",
 		"slug": "secret-invasion",
 		"tags": [
@@ -910,7 +910,7 @@
 		"release_date": "2023-02-15",
 		"title": "Ant-Man and the Wasp: Quantumania",
 		"video": false,
-		"vote_average": 6.351,
+		"vote_average": 6.4,
 		"slug": "ant-man-and-the-wasp-quantumania",
 		"tags": [
 			"movie",
@@ -979,7 +979,7 @@
 		"release_date": "2022-11-25",
 		"title": "The Guardians of the Galaxy Holiday Special",
 		"video": false,
-		"vote_average": 7.18,
+		"vote_average": 7.2,
 		"slug": "the-guardians-of-the-galaxy-holiday-special",
 		"tags": [
 			"movie",
@@ -1002,7 +1002,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 7.135,
+		"vote_average": 7.134,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -1140,7 +1140,7 @@
 		"poster_path": "/eqKNlMgG6pE1tbvTcD86NDNKlru.jpg",
 		"first_air_date": "2022-08-10",
 		"name": "I Am Groot",
-		"vote_average": 7.165,
+		"vote_average": 7.168,
 		"title": "I Am Groot",
 		"slug": "i-am-groot",
 		"tags": [
@@ -1702,7 +1702,7 @@
 		"release_date": "2021-07-07",
 		"title": "Black Widow",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.26,
 		"slug": "black-widow",
 		"tags": [
 			"movie",
@@ -2041,11 +2041,11 @@
 		"original_language": "en",
 		"original_title": "Dark Phoenix",
 		"overview": "The X-Men face their most formidable and powerful foe when one of their own, Jean Grey, starts to spiral out of control. During a rescue mission in outer space, Jean is nearly killed when she's hit by a mysterious cosmic force. Once she returns home, this force not only makes her infinitely more powerful, but far more unstable. The X-Men must now band together to save her soul and battle aliens that want to use Grey's new abilities to rule the galaxy.",
-		"poster_path": "/gUGhbJVZAOBAf5Zg6OHF6JWrABf.jpg",
+		"poster_path": "/cCTJPelKGLhALq3r51A9uMonxKj.jpg",
 		"release_date": "2019-06-05",
 		"title": "Dark Phoenix",
 		"video": false,
-		"vote_average": 5.978,
+		"vote_average": 5.977,
 		"slug": "dark-phoenix",
 		"tags": [
 			"movie",
@@ -2093,7 +2093,7 @@
 		"release_date": "2019-03-06",
 		"title": "Captain Marvel",
 		"video": false,
-		"vote_average": 6.826,
+		"vote_average": 6.825,
 		"slug": "captain-marvel",
 		"tags": [
 			"movie",
@@ -2143,7 +2143,7 @@
 		],
 		"release_date": "2018-12-06",
 		"video": false,
-		"vote_average": 8.4,
+		"vote_average": 8.405,
 		"slug": "spider-man-into-the-spider-verse",
 		"tags": [
 			"list-8204859"
@@ -2434,7 +2434,7 @@
 		"poster_path": "/zKfGip55oJ9tdzhyd9ayGyFFhuo.jpg",
 		"first_air_date": "2017-09-29",
 		"name": "Marvel's Inhumans",
-		"vote_average": 6,
+		"vote_average": 5.966,
 		"title": "Marvel's Inhumans",
 		"slug": "marvels-inhumans",
 		"tags": [
@@ -2460,7 +2460,7 @@
 		"poster_path": "/49XzINhH4LFsgz7cx6TOPcHUJUL.jpg",
 		"first_air_date": "2017-08-18",
 		"name": "Marvel's The Defenders",
-		"vote_average": 7.078,
+		"vote_average": 7.077,
 		"title": "Marvel's The Defenders",
 		"slug": "marvels-the-defenders",
 		"tags": [
@@ -2730,7 +2730,7 @@
 		"poster_path": "/6R62oGGufhsf6DiMknCi047N0b7.jpg",
 		"first_air_date": "2016-09-30",
 		"name": "Marvel's Luke Cage",
-		"vote_average": 6.9,
+		"vote_average": 6.936,
 		"title": "Marvel's Luke Cage",
 		"slug": "marvels-luke-cage",
 		"tags": [
@@ -2872,7 +2872,7 @@
 		"poster_path": "/lwPFyjxAZY6NqHxywgY00Y4MFBx.jpg",
 		"first_air_date": "2015-11-20",
 		"name": "Marvel's Jessica Jones",
-		"vote_average": 7.501,
+		"vote_average": 7.5,
 		"title": "Marvel's Jessica Jones",
 		"slug": "marvels-jessica-jones",
 		"tags": [
@@ -2896,7 +2896,7 @@
 		"release_date": "2015-08-05",
 		"title": "Fantastic Four",
 		"video": false,
-		"vote_average": 4.4,
+		"vote_average": 4.417,
 		"slug": "fantastic-four",
 		"tags": [
 			"movie",
@@ -2967,7 +2967,7 @@
 		"poster_path": "/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
 		"first_air_date": "2015-04-10",
 		"name": "Marvel's Daredevil",
-		"vote_average": 8.167,
+		"vote_average": 8.166,
 		"title": "Marvel's Daredevil",
 		"slug": "marvels-daredevil",
 		"tags": [
@@ -3293,7 +3293,7 @@
 		"release_date": "2014-03-20",
 		"title": "Captain America: The Winter Soldier",
 		"video": false,
-		"vote_average": 7.666,
+		"vote_average": 7.7,
 		"slug": "captain-america-the-winter-soldier",
 		"tags": [
 			"movie",
@@ -3428,7 +3428,7 @@
 		"poster_path": "/gHUCCMy1vvj58tzE3dZqeC9SXus.jpg",
 		"first_air_date": "2013-09-24",
 		"name": "Marvel's Agents of S.H.I.E.L.D.",
-		"vote_average": 7.5,
+		"vote_average": 7.489,
 		"title": "Marvel's Agents of S.H.I.E.L.D.",
 		"slug": "marvels-agents-of-shield",
 		"tags": [
@@ -3592,7 +3592,7 @@
 		"release_date": "2013-04-18",
 		"title": "Iron Man 3",
 		"video": false,
-		"vote_average": 6.928,
+		"vote_average": 6.927,
 		"slug": "iron-man-3",
 		"tags": [
 			"movie",
@@ -3660,7 +3660,7 @@
 		],
 		"release_date": "2012-07-16",
 		"video": false,
-		"vote_average": 7.043,
+		"vote_average": 7.046,
 		"slug": "the-punisher-dirty-laundry",
 		"tags": [
 			"list-8204859"
@@ -3773,7 +3773,7 @@
 		"release_date": "2011-12-10",
 		"title": "Ghost Rider: Spirit of Vengeance",
 		"video": false,
-		"vote_average": 5.011,
+		"vote_average": 5.01,
 		"slug": "ghost-rider-spirit-of-vengeance",
 		"tags": [
 			"movie",
@@ -3992,7 +3992,7 @@
 		"release_date": "2010-04-28",
 		"title": "Iron Man 2",
 		"video": false,
-		"vote_average": 6.84,
+		"vote_average": 6.839,
 		"slug": "iron-man-2",
 		"tags": [
 			"movie",
@@ -4111,7 +4111,7 @@
 		"release_date": "2009-04-28",
 		"title": "X-Men Origins: Wolverine",
 		"video": false,
-		"vote_average": 6.264,
+		"vote_average": 6.265,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"movie",
@@ -4166,7 +4166,7 @@
 		"release_date": "2009-01-27",
 		"title": "Hulk vs. Wolverine",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7.07,
 		"slug": "hulk-vs-wolverine",
 		"tags": [
 			"movie",
@@ -4456,7 +4456,7 @@
 		"release_date": "2007-01-23",
 		"title": "The Invincible Iron Man",
 		"video": false,
-		"vote_average": 6.115,
+		"vote_average": 6.132,
 		"slug": "the-invincible-iron-man",
 		"tags": [
 			"movie",
@@ -4724,7 +4724,7 @@
 		"release_date": "2004-04-15",
 		"title": "The Punisher",
 		"video": false,
-		"vote_average": 6.349,
+		"vote_average": 6.35,
 		"slug": "the-punisher",
 		"tags": [
 			"movie",
@@ -5127,7 +5127,7 @@
 			10759
 		],
 		"first_air_date": "1994-11-19",
-		"vote_average": 8.3,
+		"vote_average": 8.266,
 		"origin_country": [
 			"US"
 		],
@@ -5229,7 +5229,7 @@
 			10759
 		],
 		"first_air_date": "1992-10-31",
-		"vote_average": 8.2,
+		"vote_average": 8.194,
 		"origin_country": [
 			"US"
 		],
@@ -5257,7 +5257,7 @@
 		],
 		"release_date": "1990-02-18",
 		"video": false,
-		"vote_average": 5.4,
+		"vote_average": 5.442,
 		"slug": "the-death-of-the-incredible-hulk",
 		"tags": [
 			"list-8204862"
@@ -5283,7 +5283,7 @@
 		],
 		"release_date": "1989-05-07",
 		"video": false,
-		"vote_average": 6.3,
+		"vote_average": 6.306,
 		"slug": "the-trial-of-the-incredible-hulk",
 		"tags": [
 			"list-8204862"
@@ -5307,7 +5307,7 @@
 		],
 		"release_date": "1988-05-22",
 		"video": false,
-		"vote_average": 6.2,
+		"vote_average": 6.194,
 		"slug": "the-incredible-hulk-returns",
 		"tags": [
 			"list-8204862"
@@ -5569,7 +5569,7 @@
 			10759
 		],
 		"first_air_date": "1978-04-05",
-		"vote_average": 5.9,
+		"vote_average": 5.938,
 		"origin_country": [
 			"US"
 		],
@@ -5619,7 +5619,7 @@
 			18
 		],
 		"first_air_date": "1977-11-04",
-		"vote_average": 7.2,
+		"vote_average": 7.202,
 		"origin_country": [
 			"US"
 		],
@@ -5692,7 +5692,7 @@
 		"poster_path": "/y85QOYMhcZsEfHbrntBv5SZXH1w.jpg",
 		"first_air_date": "1967-09-09",
 		"name": "Spider-Man",
-		"vote_average": 7.7,
+		"vote_average": 7.661,
 		"title": "Spider-Man",
 		"slug": "spider-man",
 		"tags": [
