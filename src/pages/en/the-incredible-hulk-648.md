@@ -29,7 +29,7 @@ watchLinks:
         18
     ],
     "first_air_date": "1977-11-04",
-    "vote_average": 7.202,
+    "vote_average": 7.204,
     "origin_country": [
         "US"
     ],

@@ -35,7 +35,7 @@ mcuTimelineOrder: 1
     "poster_path": "/yUV0l4Kzned4zZmOw4LpzZkGrG8.jpg",
     "first_air_date": "2015-01-06",
     "name": "Marvel's Agent Carter",
-    "vote_average": 7.532,
+    "vote_average": 7.533,
     "title": "Marvel's Agent Carter",
     "slug": "marvels-agent-carter",
     "tags": [

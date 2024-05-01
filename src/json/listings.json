@@ -396,6 +396,25 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [],
+		"id": 1282492,
+		"original_language": "en",
+		"original_title": "Untitled X-Men Movie",
+		"overview": "Set in the Marvel Cinematic Universe (MCU) and based on the Marvel Comics characters of the same name.",
+		"poster_path": "/iHVfjWLx83QdWP6KcErNavlBkvR.jpg",
+		"release_date": "",
+		"title": "Untitled X-Men Movie",
+		"video": false,
+		"vote_average": 0,
+		"slug": "untitled-x-men-movie",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/jqFC2WjYF07hx2X7cs0XmY9jBX6.jpg",
 		"genre_ids": [
 			878
@@ -509,9 +528,8 @@
 		"adult": false,
 		"backdrop_path": "/9oUoj3v7ZXF1UwjYdRumOPiOBCx.jpg",
 		"genre_ids": [
-			28,
-			12,
-			878
+			53,
+			28
 		],
 		"id": 822119,
 		"original_language": "en",
@@ -530,7 +548,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/cJiZwrwHiU9edbHEDDqCsna0xtS.jpg",
+		"backdrop_path": "/hzr7GhCoWTeQQMKDR6LXhN8x9fs.jpg",
 		"genre_ids": [
 			35,
 			878,
@@ -592,7 +610,7 @@
 		"poster_path": "/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg",
 		"first_air_date": "2024-03-20",
 		"name": "X-Men '97",
-		"vote_average": 8.726,
+		"vote_average": 8.735,
 		"title": "X-Men '97",
 		"slug": "x-men-97",
 		"tags": [
@@ -705,7 +723,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.173,
+		"vote_average": 6.171,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -839,7 +857,7 @@
 		"release_date": "2023-05-31",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
-		"vote_average": 8.4,
+		"vote_average": 8.369,
 		"slug": "spider-man-across-the-spider-verse",
 		"tags": [
 			"movie",
@@ -863,7 +881,7 @@
 		"release_date": "2023-05-03",
 		"title": "Guardians of the Galaxy Vol. 3",
 		"video": false,
-		"vote_average": 7.973,
+		"vote_average": 7.972,
 		"slug": "guardians-of-the-galaxy-vol-3",
 		"tags": [
 			"movie",
@@ -910,7 +928,7 @@
 		"release_date": "2023-02-15",
 		"title": "Ant-Man and the Wasp: Quantumania",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.35,
 		"slug": "ant-man-and-the-wasp-quantumania",
 		"tags": [
 			"movie",
@@ -1002,7 +1020,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 7.134,
+		"vote_average": 7.133,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -1112,7 +1130,7 @@
 		"poster_path": "/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
 		"first_air_date": "2022-08-18",
 		"name": "She-Hulk: Attorney at Law",
-		"vote_average": 6.293,
+		"vote_average": 6.29,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
 		"tags": [
@@ -1326,7 +1344,7 @@
 		"release_date": "2022-07-06",
 		"title": "Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 6.471,
+		"vote_average": 6.47,
 		"slug": "thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -1442,7 +1460,7 @@
 		"poster_path": "/YksR65as1ppF2N48TJAh2PLamX.jpg",
 		"first_air_date": "2022-03-30",
 		"name": "Moon Knight",
-		"vote_average": 7.7,
+		"vote_average": 7.739,
 		"title": "Moon Knight",
 		"slug": "moon-knight",
 		"tags": [
@@ -1603,7 +1621,7 @@
 		"release_date": "2021-11-03",
 		"title": "Eternals",
 		"video": false,
-		"vote_average": 6.883,
+		"vote_average": 6.882,
 		"slug": "eternals",
 		"tags": [
 			"movie",
@@ -1626,7 +1644,7 @@
 		"release_date": "2021-09-01",
 		"title": "Shang-Chi and the Legend of the Ten Rings",
 		"video": false,
-		"vote_average": 7.56,
+		"vote_average": 7.6,
 		"slug": "shang-chi-and-the-legend-of-the-ten-rings",
 		"tags": [
 			"movie",
@@ -1880,7 +1898,7 @@
 		"poster_path": "/8fPIcaRIZgsoBcgA5yAm3GNz61M.jpg",
 		"first_air_date": "2020-10-16",
 		"name": "Helstrom",
-		"vote_average": 6.7,
+		"vote_average": 6.689,
 		"title": "Helstrom",
 		"slug": "helstrom",
 		"tags": [
@@ -2305,7 +2323,7 @@
 		"release_date": "2018-02-13",
 		"title": "Black Panther",
 		"video": false,
-		"vote_average": 7.386,
+		"vote_average": 7.385,
 		"slug": "black-panther",
 		"tags": [
 			"movie",
@@ -2460,7 +2478,7 @@
 		"poster_path": "/49XzINhH4LFsgz7cx6TOPcHUJUL.jpg",
 		"first_air_date": "2017-08-18",
 		"name": "Marvel's The Defenders",
-		"vote_average": 7.077,
+		"vote_average": 7.078,
 		"title": "Marvel's The Defenders",
 		"slug": "marvels-the-defenders",
 		"tags": [
@@ -2580,7 +2598,7 @@
 		"release_date": "2017-02-28",
 		"title": "Logan",
 		"video": false,
-		"vote_average": 7.816,
+		"vote_average": 7.817,
 		"slug": "logan",
 		"tags": [
 			"movie",
@@ -2872,7 +2890,7 @@
 		"poster_path": "/lwPFyjxAZY6NqHxywgY00Y4MFBx.jpg",
 		"first_air_date": "2015-11-20",
 		"name": "Marvel's Jessica Jones",
-		"vote_average": 7.5,
+		"vote_average": 7.501,
 		"title": "Marvel's Jessica Jones",
 		"slug": "marvels-jessica-jones",
 		"tags": [
@@ -3084,7 +3102,7 @@
 		"poster_path": "/yUV0l4Kzned4zZmOw4LpzZkGrG8.jpg",
 		"first_air_date": "2015-01-06",
 		"name": "Marvel's Agent Carter",
-		"vote_average": 7.532,
+		"vote_average": 7.533,
 		"title": "Marvel's Agent Carter",
 		"slug": "marvels-agent-carter",
 		"tags": [
@@ -3150,7 +3168,7 @@
 		"release_date": "2014-07-30",
 		"title": "Guardians of the Galaxy",
 		"video": false,
-		"vote_average": 7.907,
+		"vote_average": 7.908,
 		"slug": "guardians-of-the-galaxy",
 		"tags": [
 			"movie",
@@ -3615,7 +3633,7 @@
 		"release_date": "2012-09-13",
 		"title": "Marvel One-Shot: Item 47",
 		"video": false,
-		"vote_average": 6.445,
+		"vote_average": 6.446,
 		"slug": "marvel-one-shot-item-47",
 		"tags": [
 			"movie",
@@ -4166,7 +4184,7 @@
 		"release_date": "2009-01-27",
 		"title": "Hulk vs. Wolverine",
 		"video": false,
-		"vote_average": 7.084,
+		"vote_average": 7.097,
 		"slug": "hulk-vs-wolverine",
 		"tags": [
 			"movie",
@@ -4339,7 +4357,7 @@
 		"poster_path": "/dCNxOhXT7c4lqYuRpdM3m8s9XDp.jpg",
 		"first_air_date": "2008-03-08",
 		"name": "The Spectacular Spider-Man",
-		"vote_average": 8.6,
+		"vote_average": 8.585,
 		"title": "The Spectacular Spider-Man",
 		"slug": "the-spectacular-spider-man",
 		"tags": [
@@ -4482,7 +4500,7 @@
 		"release_date": "2007-01-15",
 		"title": "Ghost Rider",
 		"video": false,
-		"vote_average": 5.563,
+		"vote_average": 5.564,
 		"slug": "ghost-rider",
 		"tags": [
 			"movie",
@@ -4584,7 +4602,7 @@
 		"release_date": "2006-05-24",
 		"title": "X-Men: The Last Stand",
 		"video": false,
-		"vote_average": 6.409,
+		"vote_average": 6.41,
 		"slug": "x-men-the-last-stand",
 		"tags": [
 			"movie",
@@ -4678,7 +4696,7 @@
 		"release_date": "2004-12-08",
 		"title": "Blade: Trinity",
 		"video": false,
-		"vote_average": 5.856,
+		"vote_average": 5.855,
 		"slug": "blade-trinity",
 		"tags": [
 			"movie",
@@ -5127,7 +5145,7 @@
 			10759
 		],
 		"first_air_date": "1994-11-19",
-		"vote_average": 8.266,
+		"vote_average": 8.265,
 		"origin_country": [
 			"US"
 		],
@@ -5619,7 +5637,7 @@
 			18
 		],
 		"first_air_date": "1977-11-04",
-		"vote_average": 7.202,
+		"vote_average": 7.204,
 		"origin_country": [
 			"US"
 		],
@@ -5675,33 +5693,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/fVL0nCyOhdBaeX4KdfNaeqM9hlm.jpg",
-		"genre_ids": [
-			10762,
-			16,
-			10759
-		],
-		"id": 1482,
-		"origin_country": [
-			"CA",
-			"US"
-		],
-		"original_language": "en",
-		"original_name": "Spider-Man",
-		"overview": "Spider-Man was an animated television series that ran from September 9, 1967 to June 14, 1970. It was jointly produced in Canada and the United States and was the first animated adaptation of the Spider-Man comic book series, created by writer Stan Lee and artist Steve Ditko. It first aired on the ABC television network in the United States but went into syndication at the start of the third season. Grantray-Lawrence Animation produced the first season. Seasons 2 and 3 were crafted by producer Ralph Bakshi in New York City. An internet meme, commonly known as 1960s Spiderman, regarding the series has received an overwhelming amount of popularity. The meme consists of a screenshot taken at a random part of the series and adding inappropriate and/or witty text.",
-		"poster_path": "/y85QOYMhcZsEfHbrntBv5SZXH1w.jpg",
-		"first_air_date": "1967-09-09",
-		"name": "Spider-Man",
-		"vote_average": 7.661,
-		"title": "Spider-Man",
-		"slug": "spider-man",
-		"tags": [
-			"tv",
-			"company-19551"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": "/jMUPejkcMQdm3bygnm8q5uWJV6q.jpg",
 		"genre_ids": [
 			16,
@@ -5744,7 +5735,6 @@
 		"first_air_date": "1966-09-05",
 		"vote_average": 6.1,
 		"origin_country": [
-			"CA",
 			"US"
 		],
 		"title": "The Marvel Super Heroes",
