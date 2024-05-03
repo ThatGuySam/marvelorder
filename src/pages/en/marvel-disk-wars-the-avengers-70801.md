@@ -30,7 +30,7 @@ watchLinks:
     "poster_path": "/6wQAZaWSvBJOIIt68cqmC0KJjeE.jpg",
     "first_air_date": "2014-04-02",
     "name": "Marvel Disk Wars: The Avengers",
-    "vote_average": 6.4,
+    "vote_average": 6.333,
     "title": "Marvel Disk Wars: The Avengers",
     "slug": "marvel-disk-wars-the-avengers",
     "tags": [

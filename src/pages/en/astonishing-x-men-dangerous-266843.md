@@ -28,7 +28,7 @@ logo_on_black: /.netlify/functions/fanart/astonishing-x-men-dangerous-5e7124ec3c
     "release_date": "2012-04-10",
     "title": "Astonishing X-Men: Dangerous",
     "video": false,
-    "vote_average": 7.7,
+    "vote_average": 7.75,
     "slug": "astonishing-x-men-dangerous",
     "tags": [
         "movie",
