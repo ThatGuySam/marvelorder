@@ -591,7 +591,7 @@
 		"poster_path": "/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg",
 		"first_air_date": "2024-03-20",
 		"name": "X-Men '97",
-		"vote_average": 8.762,
+		"vote_average": 8.779,
 		"title": "X-Men '97",
 		"slug": "x-men-97",
 		"tags": [
@@ -704,7 +704,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.162,
+		"vote_average": 6.159,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -851,8 +851,7 @@
 		"genre_ids": [
 			878,
 			12,
-			28,
-			35
+			28
 		],
 		"id": 447365,
 		"original_language": "en",
@@ -862,7 +861,7 @@
 		"release_date": "2023-05-03",
 		"title": "Guardians of the Galaxy Vol. 3",
 		"video": false,
-		"vote_average": 7.971,
+		"vote_average": 8,
 		"slug": "guardians-of-the-galaxy-vol-3",
 		"tags": [
 			"movie",
@@ -909,7 +908,7 @@
 		"release_date": "2023-02-15",
 		"title": "Ant-Man and the Wasp: Quantumania",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.352,
 		"slug": "ant-man-and-the-wasp-quantumania",
 		"tags": [
 			"movie",
@@ -978,7 +977,7 @@
 		"release_date": "2022-11-25",
 		"title": "The Guardians of the Galaxy Holiday Special",
 		"video": false,
-		"vote_average": 7.178,
+		"vote_average": 7.175,
 		"slug": "the-guardians-of-the-galaxy-holiday-special",
 		"tags": [
 			"movie",
@@ -1066,7 +1065,7 @@
 		"release_date": "2022-09-25",
 		"title": "Werewolf by Night",
 		"video": false,
-		"vote_average": 6.998,
+		"vote_average": 7,
 		"slug": "werewolf-by-night",
 		"tags": [
 			"movie",
@@ -1139,7 +1138,7 @@
 		"poster_path": "/eqKNlMgG6pE1tbvTcD86NDNKlru.jpg",
 		"first_air_date": "2022-08-10",
 		"name": "I Am Groot",
-		"vote_average": 7.175,
+		"vote_average": 7.172,
 		"title": "I Am Groot",
 		"slug": "i-am-groot",
 		"tags": [
@@ -1350,7 +1349,7 @@
 		"poster_path": "/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
 		"first_air_date": "2022-06-08",
 		"name": "Ms. Marvel",
-		"vote_average": 6.5,
+		"vote_average": 6.488,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
 		"tags": [
@@ -1441,7 +1440,7 @@
 		"poster_path": "/YksR65as1ppF2N48TJAh2PLamX.jpg",
 		"first_air_date": "2022-03-30",
 		"name": "Moon Knight",
-		"vote_average": 7.738,
+		"vote_average": 7.739,
 		"title": "Moon Knight",
 		"slug": "moon-knight",
 		"tags": [
@@ -1602,7 +1601,7 @@
 		"release_date": "2021-11-03",
 		"title": "Eternals",
 		"video": false,
-		"vote_average": 6.882,
+		"vote_average": 6.881,
 		"slug": "eternals",
 		"tags": [
 			"movie",
@@ -1625,7 +1624,7 @@
 		"release_date": "2021-09-01",
 		"title": "Shang-Chi and the Legend of the Ten Rings",
 		"video": false,
-		"vote_average": 7.559,
+		"vote_average": 7.558,
 		"slug": "shang-chi-and-the-legend-of-the-ten-rings",
 		"tags": [
 			"movie",
@@ -1650,7 +1649,7 @@
 		"poster_path": "/rWg4Jk7NwVEz2BtU1aKKDoDJPeB.jpg",
 		"first_air_date": "2021-08-11",
 		"name": "What If...?",
-		"vote_average": 8.165,
+		"vote_average": 8.164,
 		"title": "What If...?",
 		"slug": "what-if",
 		"tags": [
@@ -1701,7 +1700,7 @@
 		"release_date": "2021-07-07",
 		"title": "Black Widow",
 		"video": false,
-		"vote_average": 7.259,
+		"vote_average": 7.258,
 		"slug": "black-widow",
 		"tags": [
 			"movie",
@@ -1777,7 +1776,7 @@
 		"poster_path": "/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
 		"first_air_date": "2021-03-19",
 		"name": "The Falcon and the Winter Soldier",
-		"vote_average": 7.664,
+		"vote_average": 7.663,
 		"title": "The Falcon and the Winter Soldier",
 		"slug": "the-falcon-and-the-winter-soldier",
 		"tags": [
@@ -2069,7 +2068,7 @@
 		"release_date": "2019-04-24",
 		"title": "Avengers: Endgame",
 		"video": false,
-		"vote_average": 8.254,
+		"vote_average": 8.255,
 		"slug": "avengers-endgame",
 		"tags": [
 			"movie",
@@ -2142,7 +2141,7 @@
 		],
 		"release_date": "2018-12-06",
 		"video": false,
-		"vote_average": 8.404,
+		"vote_average": 8.405,
 		"slug": "spider-man-into-the-spider-verse",
 		"tags": [
 			"list-8204859"
@@ -2163,7 +2162,7 @@
 		"release_date": "2018-09-28",
 		"title": "Venom",
 		"video": false,
-		"vote_average": 6.827,
+		"vote_average": 6.828,
 		"slug": "venom",
 		"tags": [
 			"movie",
@@ -2408,7 +2407,7 @@
 		"release_date": "2017-10-02",
 		"title": "Thor: Ragnarok",
 		"video": false,
-		"vote_average": 7.592,
+		"vote_average": 7.6,
 		"slug": "thor-ragnarok",
 		"tags": [
 			"movie",
@@ -2579,7 +2578,7 @@
 		"release_date": "2017-02-28",
 		"title": "Logan",
 		"video": false,
-		"vote_average": 7.817,
+		"vote_average": 7.8,
 		"slug": "logan",
 		"tags": [
 			"movie",
@@ -2776,7 +2775,7 @@
 		"release_date": "2016-05-18",
 		"title": "X-Men: Apocalypse",
 		"video": false,
-		"vote_average": 6.514,
+		"vote_average": 6.5,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"movie",
@@ -2895,7 +2894,7 @@
 		"release_date": "2015-08-05",
 		"title": "Fantastic Four",
 		"video": false,
-		"vote_average": 4.417,
+		"vote_average": 4.418,
 		"slug": "fantastic-four",
 		"tags": [
 			"movie",
@@ -2918,7 +2917,7 @@
 		"release_date": "2015-07-14",
 		"title": "Ant-Man",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7.079,
 		"slug": "ant-man",
 		"tags": [
 			"movie",
@@ -2941,7 +2940,7 @@
 		"release_date": "2015-04-22",
 		"title": "Avengers: Age of Ultron",
 		"video": false,
-		"vote_average": 7.273,
+		"vote_average": 7.272,
 		"slug": "avengers-age-of-ultron",
 		"tags": [
 			"movie",
@@ -3172,7 +3171,7 @@
 		"release_date": "2014-05-15",
 		"title": "X-Men: Days of Future Past",
 		"video": false,
-		"vote_average": 7.525,
+		"vote_average": 7.5,
 		"slug": "x-men-days-of-future-past",
 		"tags": [
 			"movie",
@@ -3496,7 +3495,7 @@
 		"release_date": "2013-07-21",
 		"title": "The Wolverine",
 		"video": false,
-		"vote_average": 6.406,
+		"vote_average": 6.4,
 		"slug": "the-wolverine",
 		"tags": [
 			"movie",
@@ -3865,7 +3864,7 @@
 		"release_date": "2011-06-01",
 		"title": "X-Men: First Class",
 		"video": false,
-		"vote_average": 7.298,
+		"vote_average": 7.3,
 		"slug": "x-men-first-class",
 		"tags": [
 			"movie",
@@ -3890,7 +3889,7 @@
 		"release_date": "2011-04-21",
 		"title": "Thor",
 		"video": false,
-		"vote_average": 6.768,
+		"vote_average": 6.769,
 		"slug": "thor",
 		"tags": [
 			"movie",
@@ -3965,7 +3964,7 @@
 		"poster_path": "/8MwwAuDy6dc1GbiBUZdvWtQczqR.jpg",
 		"first_air_date": "2010-10-20",
 		"name": "The Avengers: Earth's Mightiest Heroes",
-		"vote_average": 8.156,
+		"vote_average": 8.2,
 		"title": "The Avengers: Earth's Mightiest Heroes",
 		"slug": "the-avengers-earths-mightiest-heroes",
 		"tags": [
@@ -3991,7 +3990,7 @@
 		"release_date": "2010-04-28",
 		"title": "Iron Man 2",
 		"video": false,
-		"vote_average": 6.839,
+		"vote_average": 6.8,
 		"slug": "iron-man-2",
 		"tags": [
 			"movie",
@@ -4311,7 +4310,7 @@
 		"release_date": "2008-04-30",
 		"title": "Iron Man",
 		"video": false,
-		"vote_average": 7.6,
+		"vote_average": 7.643,
 		"slug": "iron-man",
 		"tags": [
 			"movie",
@@ -4338,7 +4337,7 @@
 		"poster_path": "/dCNxOhXT7c4lqYuRpdM3m8s9XDp.jpg",
 		"first_air_date": "2008-03-08",
 		"name": "The Spectacular Spider-Man",
-		"vote_average": 8.587,
+		"vote_average": 8.6,
 		"title": "The Spectacular Spider-Man",
 		"slug": "the-spectacular-spider-man",
 		"tags": [
@@ -4583,7 +4582,7 @@
 		"release_date": "2006-05-24",
 		"title": "X-Men: The Last Stand",
 		"video": false,
-		"vote_average": 6.409,
+		"vote_average": 6.4,
 		"slug": "x-men-the-last-stand",
 		"tags": [
 			"movie",
@@ -4654,7 +4653,7 @@
 		"release_date": "2005-01-13",
 		"title": "Elektra",
 		"video": false,
-		"vote_average": 5,
+		"vote_average": 5.042,
 		"slug": "elektra",
 		"tags": [
 			"movie",
@@ -4924,7 +4923,7 @@
 		],
 		"release_date": "2000-07-13",
 		"video": false,
-		"vote_average": 7.002,
+		"vote_average": 7,
 		"slug": "x-men",
 		"tags": [
 			"list-8204860"
@@ -5228,7 +5227,7 @@
 			10759
 		],
 		"first_air_date": "1992-10-31",
-		"vote_average": 8.196,
+		"vote_average": 8.197,
 		"origin_country": [
 			"US"
 		],
@@ -5256,7 +5255,7 @@
 		],
 		"release_date": "1990-02-18",
 		"video": false,
-		"vote_average": 5.442,
+		"vote_average": 5.448,
 		"slug": "the-death-of-the-incredible-hulk",
 		"tags": [
 			"list-8204862"
@@ -5329,7 +5328,7 @@
 		],
 		"release_date": "1986-08-01",
 		"video": false,
-		"vote_average": 5.405,
+		"vote_average": 5.4,
 		"slug": "howard-the-duck",
 		"tags": [
 			"list-8204859"
@@ -5543,7 +5542,7 @@
 			10765
 		],
 		"first_air_date": "1978-05-17",
-		"vote_average": 7.3,
+		"vote_average": 7.274,
 		"origin_country": [
 			"JP"
 		],
