@@ -51,7 +51,7 @@ tags:
     "release_date": "2006-08-08",
     "title": "Ultimate Avengers 2",
     "video": false,
-    "vote_average": 6.8,
+    "vote_average": 6.765,
     "slug": "ultimate-avengers-2",
     "tags": [
         "movie",

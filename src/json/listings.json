@@ -591,7 +591,7 @@
 		"poster_path": "/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg",
 		"first_air_date": "2024-03-20",
 		"name": "X-Men '97",
-		"vote_average": 8.779,
+		"vote_average": 8.8,
 		"title": "X-Men '97",
 		"slug": "x-men-97",
 		"tags": [
@@ -659,7 +659,7 @@
 		"poster_path": "/vFyJH630cF68LohVYjQW49074Sy.jpg",
 		"first_air_date": "2024-01-09",
 		"name": "Echo",
-		"vote_average": 6.3,
+		"vote_average": 6.295,
 		"title": "Echo",
 		"slug": "echo",
 		"tags": [
@@ -704,7 +704,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.159,
+		"vote_average": 6.157,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -838,7 +838,7 @@
 		"release_date": "2023-05-31",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
-		"vote_average": 8.4,
+		"vote_average": 8.368,
 		"slug": "spider-man-across-the-spider-verse",
 		"tags": [
 			"movie",
@@ -861,7 +861,7 @@
 		"release_date": "2023-05-03",
 		"title": "Guardians of the Galaxy Vol. 3",
 		"video": false,
-		"vote_average": 8,
+		"vote_average": 7.97,
 		"slug": "guardians-of-the-galaxy-vol-3",
 		"tags": [
 			"movie",
@@ -1000,7 +1000,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 7.132,
+		"vote_average": 7.1,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -1324,7 +1324,7 @@
 		"release_date": "2022-07-06",
 		"title": "Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.469,
 		"slug": "thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -1929,7 +1929,7 @@
 		"release_date": "2020-04-02",
 		"title": "The New Mutants",
 		"video": false,
-		"vote_average": 6.117,
+		"vote_average": 6.116,
 		"slug": "the-new-mutants",
 		"tags": [
 			"movie",
@@ -2141,7 +2141,7 @@
 		],
 		"release_date": "2018-12-06",
 		"video": false,
-		"vote_average": 8.405,
+		"vote_average": 8.404,
 		"slug": "spider-man-into-the-spider-verse",
 		"tags": [
 			"list-8204859"
@@ -2185,7 +2185,7 @@
 		"release_date": "2018-07-04",
 		"title": "Ant-Man and the Wasp",
 		"video": false,
-		"vote_average": 6.941,
+		"vote_average": 6.9,
 		"slug": "ant-man-and-the-wasp",
 		"tags": [
 			"movie",
@@ -2355,7 +2355,7 @@
 		"poster_path": "/tM6xqRKXoloH9UchaJEyyRE9O1w.jpg",
 		"first_air_date": "2017-11-17",
 		"name": "Marvel's The Punisher",
-		"vote_average": 8.116,
+		"vote_average": 8.117,
 		"title": "Marvel's The Punisher",
 		"slug": "marvels-the-punisher",
 		"tags": [
@@ -2407,7 +2407,7 @@
 		"release_date": "2017-10-02",
 		"title": "Thor: Ragnarok",
 		"video": false,
-		"vote_average": 7.6,
+		"vote_average": 7.592,
 		"slug": "thor-ragnarok",
 		"tags": [
 			"movie",
@@ -2506,7 +2506,7 @@
 		"release_date": "2017-04-19",
 		"title": "Guardians of the Galaxy Vol. 2",
 		"video": false,
-		"vote_average": 7.621,
+		"vote_average": 7.62,
 		"slug": "guardians-of-the-galaxy-vol-2",
 		"tags": [
 			"movie",
@@ -2556,7 +2556,7 @@
 		],
 		"release_date": "2017-03-03",
 		"video": false,
-		"vote_average": 7.134,
+		"vote_average": 7.1,
 		"slug": "deadpool-no-good-deed",
 		"tags": [
 			"list-8204860"
@@ -2578,7 +2578,7 @@
 		"release_date": "2017-02-28",
 		"title": "Logan",
 		"video": false,
-		"vote_average": 7.8,
+		"vote_average": 7.817,
 		"slug": "logan",
 		"tags": [
 			"movie",
@@ -2775,7 +2775,7 @@
 		"release_date": "2016-05-18",
 		"title": "X-Men: Apocalypse",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.514,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"movie",
@@ -2965,7 +2965,7 @@
 		"poster_path": "/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
 		"first_air_date": "2015-04-10",
 		"name": "Marvel's Daredevil",
-		"vote_average": 8.168,
+		"vote_average": 8.169,
 		"title": "Marvel's Daredevil",
 		"slug": "marvels-daredevil",
 		"tags": [
@@ -3171,7 +3171,7 @@
 		"release_date": "2014-05-15",
 		"title": "X-Men: Days of Future Past",
 		"video": false,
-		"vote_average": 7.5,
+		"vote_average": 7.525,
 		"slug": "x-men-days-of-future-past",
 		"tags": [
 			"movie",
@@ -3495,7 +3495,7 @@
 		"release_date": "2013-07-21",
 		"title": "The Wolverine",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.406,
 		"slug": "the-wolverine",
 		"tags": [
 			"movie",
@@ -3590,7 +3590,7 @@
 		"release_date": "2013-04-18",
 		"title": "Iron Man 3",
 		"video": false,
-		"vote_average": 6.927,
+		"vote_average": 6.928,
 		"slug": "iron-man-3",
 		"tags": [
 			"movie",
@@ -3771,7 +3771,7 @@
 		"release_date": "2011-12-10",
 		"title": "Ghost Rider: Spirit of Vengeance",
 		"video": false,
-		"vote_average": 5.01,
+		"vote_average": 5,
 		"slug": "ghost-rider-spirit-of-vengeance",
 		"tags": [
 			"movie",
@@ -3864,7 +3864,7 @@
 		"release_date": "2011-06-01",
 		"title": "X-Men: First Class",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.299,
 		"slug": "x-men-first-class",
 		"tags": [
 			"movie",
@@ -3889,7 +3889,7 @@
 		"release_date": "2011-04-21",
 		"title": "Thor",
 		"video": false,
-		"vote_average": 6.769,
+		"vote_average": 6.768,
 		"slug": "thor",
 		"tags": [
 			"movie",
@@ -3990,7 +3990,7 @@
 		"release_date": "2010-04-28",
 		"title": "Iron Man 2",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.839,
 		"slug": "iron-man-2",
 		"tags": [
 			"movie",
@@ -4480,7 +4480,7 @@
 		"release_date": "2007-01-15",
 		"title": "Ghost Rider",
 		"video": false,
-		"vote_average": 5.564,
+		"vote_average": 5.6,
 		"slug": "ghost-rider",
 		"tags": [
 			"movie",
@@ -4531,7 +4531,7 @@
 		"release_date": "2006-08-08",
 		"title": "Ultimate Avengers 2",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.765,
 		"slug": "ultimate-avengers-2",
 		"tags": [
 			"movie",
@@ -4582,7 +4582,7 @@
 		"release_date": "2006-05-24",
 		"title": "X-Men: The Last Stand",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.408,
 		"slug": "x-men-the-last-stand",
 		"tags": [
 			"movie",
@@ -4866,7 +4866,7 @@
 		"poster_path": "/yiKg027jdpkSsguVBI9WqliNWez.jpg",
 		"first_air_date": "2001-10-06",
 		"name": "Mutant X",
-		"vote_average": 6.485,
+		"vote_average": 6.52,
 		"title": "Mutant X",
 		"slug": "mutant-x",
 		"tags": [
@@ -4923,7 +4923,7 @@
 		],
 		"release_date": "2000-07-13",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 7.002,
 		"slug": "x-men",
 		"tags": [
 			"list-8204860"
@@ -5125,7 +5125,7 @@
 			10759
 		],
 		"first_air_date": "1994-11-19",
-		"vote_average": 8.267,
+		"vote_average": 8.264,
 		"origin_country": [
 			"US"
 		],
@@ -5617,7 +5617,7 @@
 			18
 		],
 		"first_air_date": "1977-11-04",
-		"vote_average": 7.204,
+		"vote_average": 7.2,
 		"origin_country": [
 			"US"
 		],
