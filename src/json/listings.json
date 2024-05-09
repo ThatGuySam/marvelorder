@@ -591,7 +591,7 @@
 		"poster_path": "/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg",
 		"first_air_date": "2024-03-20",
 		"name": "X-Men '97",
-		"vote_average": 8.8,
+		"vote_average": 8.771,
 		"title": "X-Men '97",
 		"slug": "x-men-97",
 		"tags": [
@@ -838,7 +838,7 @@
 		"release_date": "2023-05-31",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
-		"vote_average": 8.368,
+		"vote_average": 8.4,
 		"slug": "spider-man-across-the-spider-verse",
 		"tags": [
 			"movie",
@@ -1000,7 +1000,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7.13,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -1065,7 +1065,7 @@
 		"release_date": "2022-09-25",
 		"title": "Werewolf by Night",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 6.996,
 		"slug": "werewolf-by-night",
 		"tags": [
 			"movie",
@@ -1110,7 +1110,7 @@
 		"poster_path": "/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
 		"first_air_date": "2022-08-18",
 		"name": "She-Hulk: Attorney at Law",
-		"vote_average": 6.289,
+		"vote_average": 6.291,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
 		"tags": [
@@ -1324,7 +1324,7 @@
 		"release_date": "2022-07-06",
 		"title": "Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 6.469,
+		"vote_average": 6.468,
 		"slug": "thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -1349,7 +1349,7 @@
 		"poster_path": "/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
 		"first_air_date": "2022-06-08",
 		"name": "Ms. Marvel",
-		"vote_average": 6.488,
+		"vote_average": 6.489,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
 		"tags": [
@@ -1531,7 +1531,7 @@
 		"poster_path": "/ct5pNE5dDHryHLDnxyZPYcqO1sz.jpg",
 		"first_air_date": "2021-11-24",
 		"name": "Hawkeye",
-		"vote_average": 7.9,
+		"vote_average": 7.899,
 		"title": "Hawkeye",
 		"slug": "hawkeye",
 		"tags": [
@@ -1610,7 +1610,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/zxWAv1A34kdYslBi4ekMDtgIGUt.jpg",
+		"backdrop_path": "/cinER0ESG0eJ49kXlExM0MEWGxW.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -1624,7 +1624,7 @@
 		"release_date": "2021-09-01",
 		"title": "Shang-Chi and the Legend of the Ten Rings",
 		"video": false,
-		"vote_average": 7.558,
+		"vote_average": 7.6,
 		"slug": "shang-chi-and-the-legend-of-the-ten-rings",
 		"tags": [
 			"movie",
@@ -1649,7 +1649,7 @@
 		"poster_path": "/rWg4Jk7NwVEz2BtU1aKKDoDJPeB.jpg",
 		"first_air_date": "2021-08-11",
 		"name": "What If...?",
-		"vote_average": 8.164,
+		"vote_average": 8.165,
 		"title": "What If...?",
 		"slug": "what-if",
 		"tags": [
@@ -2234,7 +2234,7 @@
 		"release_date": "2018-05-10",
 		"title": "Deadpool 2",
 		"video": false,
-		"vote_average": 7.487,
+		"vote_average": 7.488,
 		"slug": "deadpool-2",
 		"tags": [
 			"movie",
@@ -2531,7 +2531,7 @@
 		"poster_path": "/4l6KD9HhtD6nCDEfg10Lp6C6zah.jpg",
 		"first_air_date": "2017-03-17",
 		"name": "Marvel's Iron Fist",
-		"vote_average": 6.535,
+		"vote_average": 6.537,
 		"title": "Marvel's Iron Fist",
 		"slug": "marvels-iron-fist",
 		"tags": [
@@ -3082,7 +3082,7 @@
 		"poster_path": "/yUV0l4Kzned4zZmOw4LpzZkGrG8.jpg",
 		"first_air_date": "2015-01-06",
 		"name": "Marvel's Agent Carter",
-		"vote_average": 7.5,
+		"vote_average": 7.534,
 		"title": "Marvel's Agent Carter",
 		"slug": "marvels-agent-carter",
 		"tags": [
@@ -3171,7 +3171,7 @@
 		"release_date": "2014-05-15",
 		"title": "X-Men: Days of Future Past",
 		"video": false,
-		"vote_average": 7.525,
+		"vote_average": 7.526,
 		"slug": "x-men-days-of-future-past",
 		"tags": [
 			"movie",
@@ -3426,7 +3426,7 @@
 		"poster_path": "/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg",
 		"first_air_date": "2013-09-24",
 		"name": "Marvel's Agents of S.H.I.E.L.D.",
-		"vote_average": 7.49,
+		"vote_average": 7.491,
 		"title": "Marvel's Agents of S.H.I.E.L.D.",
 		"slug": "marvels-agents-of-shield",
 		"tags": [
@@ -3495,7 +3495,7 @@
 		"release_date": "2013-07-21",
 		"title": "The Wolverine",
 		"video": false,
-		"vote_average": 6.406,
+		"vote_average": 6.407,
 		"slug": "the-wolverine",
 		"tags": [
 			"movie",
@@ -3727,7 +3727,7 @@
 		"release_date": "2012-04-25",
 		"title": "The Avengers",
 		"video": false,
-		"vote_average": 7.713,
+		"vote_average": 7.714,
 		"slug": "the-avengers",
 		"tags": [
 			"movie",
@@ -3864,7 +3864,7 @@
 		"release_date": "2011-06-01",
 		"title": "X-Men: First Class",
 		"video": false,
-		"vote_average": 7.299,
+		"vote_average": 7.298,
 		"slug": "x-men-first-class",
 		"tags": [
 			"movie",
@@ -3990,7 +3990,7 @@
 		"release_date": "2010-04-28",
 		"title": "Iron Man 2",
 		"video": false,
-		"vote_average": 6.839,
+		"vote_average": 6.84,
 		"slug": "iron-man-2",
 		"tags": [
 			"movie",
@@ -4795,7 +4795,7 @@
 		"release_date": "2003-04-27",
 		"title": "X2",
 		"video": false,
-		"vote_average": 7.029,
+		"vote_average": 7.03,
 		"slug": "x2",
 		"tags": [
 			"movie",
@@ -4896,7 +4896,7 @@
 		"poster_path": "/At5aZIKkN8zHTAXOnQR9D3b7usW.jpg",
 		"first_air_date": "2000-11-04",
 		"name": "X-Men: Evolution",
-		"vote_average": 7.913,
+		"vote_average": 7.918,
 		"title": "X-Men: Evolution",
 		"slug": "x-men-evolution",
 		"tags": [
