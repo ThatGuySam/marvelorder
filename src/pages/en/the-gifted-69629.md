@@ -33,7 +33,7 @@ watchLinks:
     "poster_path": "/nshCqszjTNuqhrB53vrSqWO18sE.jpg",
     "first_air_date": "2017-10-02",
     "name": "The Gifted",
-    "vote_average": 7.652,
+    "vote_average": 7.65,
     "title": "The Gifted",
     "slug": "the-gifted",
     "tags": [
