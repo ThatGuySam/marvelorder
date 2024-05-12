@@ -33,7 +33,7 @@ mcuTimelineOrder: 297
     "poster_path": "/zceMrfO17AQkeWJZNra4O90s1vE.jpg",
     "first_air_date": "2017-11-21",
     "name": "Marvel's Runaways",
-    "vote_average": 7.43,
+    "vote_average": 7.427,
     "title": "Marvel's Runaways",
     "slug": "marvels-runaways",
     "tags": [
