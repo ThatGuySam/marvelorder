@@ -47,7 +47,7 @@ tags:
     "release_date": "2024-02-07",
     "title": "Marvel Studios Assembled: The Making of The Marvels",
     "video": false,
-    "vote_average": 4.5,
+    "vote_average": 4.917,
     "slug": "marvel-studios-assembled-the-making-of-the-marvels",
     "tags": [
         "movie",
