@@ -17,7 +17,7 @@ tags:
     "adult": false,
     "backdrop_path": "/eJLTpgUAFkx165LuUoQqQGyN5Wp.jpg",
     "genre_ids": [
-        53,
+        878,
         28
     ],
     "id": 822119,

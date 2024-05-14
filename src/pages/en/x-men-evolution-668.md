@@ -34,7 +34,7 @@ watchLinks:
     "poster_path": "/At5aZIKkN8zHTAXOnQR9D3b7usW.jpg",
     "first_air_date": "2000-11-04",
     "name": "X-Men: Evolution",
-    "vote_average": 7.918,
+    "vote_average": 7.913,
     "title": "X-Men: Evolution",
     "slug": "x-men-evolution",
     "tags": [
