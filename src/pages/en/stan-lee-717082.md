@@ -23,10 +23,10 @@ tags:
     "original_title": "Stan Lee",
     "overview": "Celebrate the legacy of Stan Lee as the co-creator of such legendary characters as Fantastic Four, Iron Man, the X-Men, The Avengers, and hundreds more.",
     "poster_path": "/iWBOKF0yl7pHK9y8fqRIBqf9fOJ.jpg",
-    "release_date": "2023-06-16",
+    "release_date": "2023-06-10",
     "title": "Stan Lee",
     "video": false,
-    "vote_average": 7.048,
+    "vote_average": 7,
     "slug": "stan-lee",
     "tags": [
         "movie",

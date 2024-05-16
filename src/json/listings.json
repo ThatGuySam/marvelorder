@@ -101,7 +101,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/5NGuM3zv8KjFg7k0FBZ0UdeLFGv.jpg",
+		"backdrop_path": "/l0LKrCotAa2YNDMlmA4M1fIot90.jpg",
 		"genre_ids": [
 			18,
 			80,
@@ -350,25 +350,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [],
-		"id": 1290497,
-		"original_language": "fr",
-		"original_title": "X-Men: Days of Future Past - The Rogue Cut",
-		"overview": "",
-		"poster_path": "/fPl1E4Xw50iCWhB6v9T8rzn4oRD.jpg",
-		"release_date": "",
-		"title": "X-Men: Days of Future Past - The Rogue Cut",
-		"video": false,
-		"vote_average": 0,
-		"slug": "x-men-days-of-future-past-the-rogue-cut",
-		"tags": [
-			"movie",
-			"company-7505"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": "/jqFC2WjYF07hx2X7cs0XmY9jBX6.jpg",
 		"genre_ids": [
 			878
@@ -502,7 +483,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/fvwica2Gzd1LW9DaSr3tj3UIjNe.jpg",
+		"backdrop_path": "/wC0Xixd9uAcmzE4KlIJSvWS4Gt5.jpg",
 		"genre_ids": [
 			35,
 			10765
@@ -573,7 +554,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/iDnTAeR2WNA62XQG0ivtteDSjd5.jpg",
+		"backdrop_path": "/ovUbhh84qB11B5wzHd01cM07yia.jpg",
 		"genre_ids": [
 			16,
 			10759,
@@ -589,7 +570,7 @@
 		"poster_path": "/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg",
 		"first_air_date": "2024-03-20",
 		"name": "X-Men '97",
-		"vote_average": 8.804,
+		"vote_average": 8.831,
 		"title": "X-Men '97",
 		"slug": "x-men-97",
 		"tags": [
@@ -702,7 +683,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.147,
+		"vote_average": 6.146,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -790,7 +771,7 @@
 		"poster_path": "/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg",
 		"first_air_date": "2023-06-21",
 		"name": "Secret Invasion",
-		"vote_average": 6.822,
+		"vote_average": 6.814,
 		"title": "Secret Invasion",
 		"slug": "secret-invasion",
 		"tags": [
@@ -809,10 +790,10 @@
 		"original_title": "Stan Lee",
 		"overview": "Celebrate the legacy of Stan Lee as the co-creator of such legendary characters as Fantastic Four, Iron Man, the X-Men, The Avengers, and hundreds more.",
 		"poster_path": "/iWBOKF0yl7pHK9y8fqRIBqf9fOJ.jpg",
-		"release_date": "2023-06-16",
+		"release_date": "2023-06-10",
 		"title": "Stan Lee",
 		"video": false,
-		"vote_average": 7.048,
+		"vote_average": 7,
 		"slug": "stan-lee",
 		"tags": [
 			"movie",
@@ -836,7 +817,7 @@
 		"release_date": "2023-05-31",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
-		"vote_average": 8.4,
+		"vote_average": 8.365,
 		"slug": "spider-man-across-the-spider-verse",
 		"tags": [
 			"movie",
@@ -1136,7 +1117,7 @@
 		"poster_path": "/eqKNlMgG6pE1tbvTcD86NDNKlru.jpg",
 		"first_air_date": "2022-08-10",
 		"name": "I Am Groot",
-		"vote_average": 7.167,
+		"vote_average": 7.2,
 		"title": "I Am Groot",
 		"slug": "i-am-groot",
 		"tags": [
@@ -1322,7 +1303,7 @@
 		"release_date": "2022-07-06",
 		"title": "Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 6.467,
+		"vote_average": 6.468,
 		"slug": "thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -1529,7 +1510,7 @@
 		"poster_path": "/ct5pNE5dDHryHLDnxyZPYcqO1sz.jpg",
 		"first_air_date": "2021-11-24",
 		"name": "Hawkeye",
-		"vote_average": 7.9,
+		"vote_average": 7.898,
 		"title": "Hawkeye",
 		"slug": "hawkeye",
 		"tags": [
@@ -1647,7 +1628,7 @@
 		"poster_path": "/rWg4Jk7NwVEz2BtU1aKKDoDJPeB.jpg",
 		"first_air_date": "2021-08-11",
 		"name": "What If...?",
-		"vote_average": 8.164,
+		"vote_average": 8.2,
 		"title": "What If...?",
 		"slug": "what-if",
 		"tags": [
@@ -1927,7 +1908,7 @@
 		"release_date": "2020-04-02",
 		"title": "The New Mutants",
 		"video": false,
-		"vote_average": 6.115,
+		"vote_average": 6.112,
 		"slug": "the-new-mutants",
 		"tags": [
 			"movie",
@@ -2232,7 +2213,7 @@
 		"release_date": "2018-05-10",
 		"title": "Deadpool 2",
 		"video": false,
-		"vote_average": 7.5,
+		"vote_average": 7.488,
 		"slug": "deadpool-2",
 		"tags": [
 			"movie",
@@ -2353,7 +2334,7 @@
 		"poster_path": "/tM6xqRKXoloH9UchaJEyyRE9O1w.jpg",
 		"first_air_date": "2017-11-17",
 		"name": "Marvel's The Punisher",
-		"vote_average": 8.117,
+		"vote_average": 8.118,
 		"title": "Marvel's The Punisher",
 		"slug": "marvels-the-punisher",
 		"tags": [
@@ -2379,7 +2360,7 @@
 		"poster_path": "/nshCqszjTNuqhrB53vrSqWO18sE.jpg",
 		"first_air_date": "2017-10-02",
 		"name": "The Gifted",
-		"vote_average": 7.649,
+		"vote_average": 7.65,
 		"title": "The Gifted",
 		"slug": "the-gifted",
 		"tags": [
@@ -2405,7 +2386,7 @@
 		"release_date": "2017-10-02",
 		"title": "Thor: Ragnarok",
 		"video": false,
-		"vote_average": 7.593,
+		"vote_average": 7.6,
 		"slug": "thor-ragnarok",
 		"tags": [
 			"movie",
@@ -2430,7 +2411,7 @@
 		"poster_path": "/zKfGip55oJ9tdzhyd9ayGyFFhuo.jpg",
 		"first_air_date": "2017-09-29",
 		"name": "Marvel's Inhumans",
-		"vote_average": 5.964,
+		"vote_average": 5.958,
 		"title": "Marvel's Inhumans",
 		"slug": "marvels-inhumans",
 		"tags": [
@@ -2963,7 +2944,7 @@
 		"poster_path": "/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
 		"first_air_date": "2015-04-10",
 		"name": "Marvel's Daredevil",
-		"vote_average": 8.169,
+		"vote_average": 8.168,
 		"title": "Marvel's Daredevil",
 		"slug": "marvels-daredevil",
 		"tags": [
@@ -3493,7 +3474,7 @@
 		"release_date": "2013-07-21",
 		"title": "The Wolverine",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.407,
 		"slug": "the-wolverine",
 		"tags": [
 			"movie",
@@ -3862,7 +3843,7 @@
 		"release_date": "2011-06-01",
 		"title": "X-Men: First Class",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.299,
 		"slug": "x-men-first-class",
 		"tags": [
 			"movie",
@@ -4107,7 +4088,7 @@
 		"release_date": "2009-04-28",
 		"title": "X-Men Origins: Wolverine",
 		"video": false,
-		"vote_average": 6.3,
+		"vote_average": 6.264,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"movie",
@@ -4212,7 +4193,7 @@
 		"poster_path": "/oSeJ2nESB77iC6SLo4qcqoadjdt.jpg",
 		"first_air_date": "2009-01-23",
 		"name": "Wolverine and the X-Men",
-		"vote_average": 7.537,
+		"vote_average": 7.527,
 		"title": "Wolverine and the X-Men",
 		"slug": "wolverine-and-the-x-men",
 		"tags": [
@@ -4261,7 +4242,7 @@
 		"release_date": "2008-09-02",
 		"title": "Next Avengers: Heroes of Tomorrow",
 		"video": false,
-		"vote_average": 6.944,
+		"vote_average": 6.941,
 		"slug": "next-avengers-heroes-of-tomorrow",
 		"tags": [
 			"movie",
@@ -4284,7 +4265,7 @@
 		"release_date": "2008-06-12",
 		"title": "The Incredible Hulk",
 		"video": false,
-		"vote_average": 6.209,
+		"vote_average": 6.2,
 		"slug": "the-incredible-hulk",
 		"tags": [
 			"movie",
@@ -4335,7 +4316,7 @@
 		"poster_path": "/dCNxOhXT7c4lqYuRpdM3m8s9XDp.jpg",
 		"first_air_date": "2008-03-08",
 		"name": "The Spectacular Spider-Man",
-		"vote_average": 8.586,
+		"vote_average": 8.588,
 		"title": "The Spectacular Spider-Man",
 		"slug": "the-spectacular-spider-man",
 		"tags": [
@@ -4580,7 +4561,7 @@
 		"release_date": "2006-05-24",
 		"title": "X-Men: The Last Stand",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.409,
 		"slug": "x-men-the-last-stand",
 		"tags": [
 			"movie",
@@ -4651,7 +4632,7 @@
 		"release_date": "2005-01-13",
 		"title": "Elektra",
 		"video": false,
-		"vote_average": 5,
+		"vote_average": 5.042,
 		"slug": "elektra",
 		"tags": [
 			"movie",
@@ -4674,7 +4655,7 @@
 		"release_date": "2004-12-08",
 		"title": "Blade: Trinity",
 		"video": false,
-		"vote_average": 5.854,
+		"vote_average": 5.855,
 		"slug": "blade-trinity",
 		"tags": [
 			"movie",
@@ -4770,7 +4751,7 @@
 		"release_date": "2003-06-19",
 		"title": "Hulk",
 		"video": false,
-		"vote_average": 5.5,
+		"vote_average": 5.546,
 		"slug": "hulk",
 		"tags": [
 			"movie",
@@ -4839,7 +4820,7 @@
 		"release_date": "2002-05-01",
 		"title": "Spider-Man",
 		"video": false,
-		"vote_average": 7.295,
+		"vote_average": 7.294,
 		"slug": "spider-man",
 		"tags": [
 			"movie",
@@ -4894,7 +4875,7 @@
 		"poster_path": "/At5aZIKkN8zHTAXOnQR9D3b7usW.jpg",
 		"first_air_date": "2000-11-04",
 		"name": "X-Men: Evolution",
-		"vote_average": 7.918,
+		"vote_average": 7.9,
 		"title": "X-Men: Evolution",
 		"slug": "x-men-evolution",
 		"tags": [
@@ -5151,7 +5132,7 @@
 		"poster_path": "/faLwKXaDaVnE3E8EGAhzsmKfGeQ.jpg",
 		"first_air_date": "1994-09-24",
 		"name": "Fantastic Four",
-		"vote_average": 6.308,
+		"vote_average": 6.3,
 		"title": "Fantastic Four",
 		"slug": "fantastic-four",
 		"tags": [
