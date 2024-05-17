@@ -30,7 +30,7 @@ watchLinks:
     "release_date": "2014-05-15",
     "title": "X-Men: Days of Future Past",
     "video": false,
-    "vote_average": 7.526,
+    "vote_average": 7.5,
     "slug": "x-men-days-of-future-past",
     "tags": [
         "movie",

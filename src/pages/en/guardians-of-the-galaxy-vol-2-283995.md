@@ -30,7 +30,7 @@ mcuTimelineOrder: 72
     "release_date": "2017-04-19",
     "title": "Guardians of the Galaxy Vol. 2",
     "video": false,
-    "vote_average": 7.621,
+    "vote_average": 7.6,
     "slug": "guardians-of-the-galaxy-vol-2",
     "tags": [
         "movie",

@@ -21,7 +21,7 @@ mcuTimelineOrder: 545
 ```json
 {
     "adult": false,
-    "backdrop_path": "/zcNOyYi2KG70Nmxp1wBer9dTKaU.jpg",
+    "backdrop_path": "/faV0HuR6WnQoLrVq3r6mhjaABL9.jpg",
     "genre_ids": [
         28,
         12,
@@ -35,7 +35,7 @@ mcuTimelineOrder: 545
     "release_date": "2004-06-25",
     "title": "Spider-Man 2",
     "video": false,
-    "vote_average": 7.271,
+    "vote_average": 7.3,
     "slug": "spider-man-2",
     "tags": [
         "movie",
