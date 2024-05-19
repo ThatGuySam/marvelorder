@@ -25,10 +25,10 @@ watchLinks:
     "original_title": "Marvel One-Shot: Item 47",
     "overview": "Benny and Claire, a down-on-their-luck couple, find a discarded Chitauri weapon referred to as 'Item 47'.",
     "poster_path": "/hnSxG8clwLuAXEkp9emc8HCUcHD.jpg",
-    "release_date": "2012-09-13",
+    "release_date": "2012-08-29",
     "title": "Marvel One-Shot: Item 47",
     "video": false,
-    "vote_average": 6.446,
+    "vote_average": 6.4,
     "slug": "marvel-one-shot-item-47",
     "tags": [
         "movie",
