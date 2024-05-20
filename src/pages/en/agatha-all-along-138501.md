@@ -38,7 +38,7 @@ tags:
     "original_language": "en",
     "original_name": "Agatha All Along",
     "overview": "Follow Agatha Harkness before and after her appearance in WandaVision.",
-    "poster_path": "/aKhULuFZm6bvhmBjDMFv5J8gcnv.jpg",
+    "poster_path": "/2a6bSlg7U5ldtelPssyay4Vbl6U.jpg",
     "first_air_date": "2024-09-18",
     "name": "Agatha All Along",
     "vote_average": 0,
