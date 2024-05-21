@@ -34,7 +34,7 @@ mcuTimelineOrder: 243
     "poster_path": "/zKfGip55oJ9tdzhyd9ayGyFFhuo.jpg",
     "first_air_date": "2017-09-29",
     "name": "Marvel's Inhumans",
-    "vote_average": 5.95,
+    "vote_average": 5.953,
     "title": "Marvel's Inhumans",
     "slug": "marvels-inhumans",
     "tags": [
