@@ -28,7 +28,7 @@ watchLinks:
     "release_date": "2003-02-14",
     "title": "Daredevil",
     "video": false,
-    "vote_average": 5.26,
+    "vote_average": 5.261,
     "slug": "daredevil",
     "tags": [
         "movie",
