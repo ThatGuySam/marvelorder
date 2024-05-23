@@ -136,14 +136,14 @@
 			"US"
 		],
 		"original_language": "en",
-		"original_name": "Vision Quest",
-		"overview": "After the events of \"WandaVision\", the Vision tries to regain his identity.",
+		"original_name": "Untitled ‘Vision’ Series",
+		"overview": "After the events of \"WandaVision\", \"white\" Vision presumably explores his new purpose in life.",
 		"poster_path": null,
 		"first_air_date": "",
-		"name": "Vision Quest",
+		"name": "Untitled ‘Vision’ Series",
 		"vote_average": 0,
-		"title": "Vision Quest",
-		"slug": "vision-quest",
+		"title": "Untitled ‘Vision’ Series",
+		"slug": "untitled-vision-series",
 		"tags": [
 			"tv",
 			"company-420"
@@ -171,6 +171,21 @@
 		"tags": [
 			"tv",
 			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
+		"id": 222456,
+		"original_language": "en",
+		"original_title": "Astonishing X-Men: Torn",
+		"overview": "They're back! The chart-topping super-team of Joss Whedon and John Cassaday return for more Astonshing X-Men! If you thought their past efforts were full of shocks and surprises, hold onto your eyeballs - because you haven't seen anything yet, as things go from peculiar to just plain bizarre! Emma Frost's erratic behavior has the X-Men spinning in a non-stop downward spiral. Will an unlikely union be the final straw? After secretly lying in wait for months, the new Hellfire Club makes its move! Plus: The X-Man destined to destroy the Breakworld stands revealed! Who is it, and what will be their fate?",
+		"poster_path": "/nCI7NAqzXxSj9QApk6BAFPhbH4T.jpg",
+		"title": "Astonishing X-Men: Torn",
+		"slug": "astonishing-x-men-torn",
+		"tags": [
+			"movie",
+			"company-11106"
 		]
 	},
 	{
@@ -232,7 +247,7 @@
 		"original_language": "en",
 		"original_title": "Spider-Man 4",
 		"overview": "The next installment of the MCU Spider-Man franchise: a sequel to \"Spider-Man: No Way Home\" and the first in a possible new trilogy. Plot unknown.",
-		"poster_path": "/saBih551xRsoFHTlSFsgZYXvsZF.jpg",
+		"poster_path": null,
 		"release_date": "",
 		"title": "Spider-Man 4",
 		"video": false,
@@ -352,16 +367,15 @@
 		"adult": false,
 		"backdrop_path": null,
 		"genre_ids": [
-			878,
-			28
+			878
 		],
 		"id": 1293690,
 		"original_language": "en",
-		"original_title": "Untitled ‘X-Men’ Film",
-		"overview": "The film is still in early development with no talent or director attached and no release date set. Marvel Studios’ co-president Kevin Feige will produce.",
+		"original_title": "Untitled 'X-Men' Film",
+		"overview": "An upcoming X-Men movie produced by Marvel Studios.",
 		"poster_path": null,
 		"release_date": "",
-		"title": "Untitled ‘X-Men’ Film",
+		"title": "Untitled 'X-Men' Film",
 		"video": false,
 		"vote_average": 0,
 		"slug": "untitled-x-men-film",
@@ -539,7 +553,7 @@
 		"id": 533535,
 		"original_language": "en",
 		"original_title": "Deadpool & Wolverine",
-		"overview": "Third entry in the \"Deadpool\" franchise. Plot TBA.",
+		"overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
 		"poster_path": "/jbwYaoYWZwxtPP76AZnfYKQjCEB.jpg",
 		"release_date": "2024-07-24",
 		"title": "Deadpool & Wolverine",
@@ -555,19 +569,19 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
+		"backdrop_path": "/2o5IefGShtQ30fplXUoHcSLzY3C.jpg",
 		"genre_ids": [
 			99
 		],
 		"id": 1275606,
 		"original_language": "en",
 		"original_title": "Marvel Studios Assembled: The Making of X-Men '97",
-		"overview": "In the early 1990s, few beyond those who journeyed into the pages of Marvel comics had ever heard of \"Rogue,\" \"Beast,\" \"Gambit,\" or even \"Wolverine.\" But that sad state of affairs changed forever when \"X-Men: The Animated Series\" debuted on television and touched millions hungry for something different. The series was unlike any cartoon that had come before it, exploring themes of prejudice and social justice. The characters were super, but they were also outsiders and underdogs. Kids everywhere could relate, as well as adults. \"Assembled\" recalls the birth of \"X-Men: The Animated Series\" and its revival thirty years later as \"X-Men '97.\" Spend time with the original cast members, along with new voices, as they reveal the stories behind the classic show and its uncompromising continuation.",
-		"poster_path": "/1lHqdqVuyuQR5kMjMuGetN1Yy0b.jpg",
+		"overview": "\"Assembled\" recalls the birth of \"X-Men: The Animated Series\" and its revival thirty years later.",
+		"poster_path": "/toTO1rJsow5eQvXMotchEU1yXY4.jpg",
 		"release_date": "2024-05-22",
 		"title": "Marvel Studios Assembled: The Making of X-Men '97",
 		"video": false,
-		"vote_average": 0,
+		"vote_average": 5.3,
 		"slug": "marvel-studios-assembled-the-making-of-x-men-97",
 		"tags": [
 			"movie",
@@ -592,7 +606,7 @@
 		"poster_path": "/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg",
 		"first_air_date": "2024-03-20",
 		"name": "X-Men '97",
-		"vote_average": 8.9,
+		"vote_average": 8.834,
 		"title": "X-Men '97",
 		"slug": "x-men-97",
 		"tags": [
@@ -705,7 +719,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.148,
+		"vote_average": 6.147,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -909,7 +923,7 @@
 		"release_date": "2023-02-15",
 		"title": "Ant-Man and the Wasp: Quantumania",
 		"video": false,
-		"vote_average": 6.3,
+		"vote_average": 6.35,
 		"slug": "ant-man-and-the-wasp-quantumania",
 		"tags": [
 			"movie",
@@ -1001,7 +1015,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7.127,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -1325,7 +1339,7 @@
 		"release_date": "2022-07-06",
 		"title": "Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 6.468,
+		"vote_average": 6.467,
 		"slug": "thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -1350,7 +1364,7 @@
 		"poster_path": "/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
 		"first_air_date": "2022-06-08",
 		"name": "Ms. Marvel",
-		"vote_average": 6.48,
+		"vote_average": 6.475,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
 		"tags": [
@@ -2044,7 +2058,7 @@
 		"release_date": "2019-06-05",
 		"title": "Dark Phoenix",
 		"video": false,
-		"vote_average": 6,
+		"vote_average": 5.979,
 		"slug": "dark-phoenix",
 		"tags": [
 			"movie",
@@ -2069,7 +2083,7 @@
 		"release_date": "2019-04-24",
 		"title": "Avengers: Endgame",
 		"video": false,
-		"vote_average": 8.3,
+		"vote_average": 8.254,
 		"slug": "avengers-endgame",
 		"tags": [
 			"movie",
@@ -2142,7 +2156,7 @@
 		],
 		"release_date": "2018-12-06",
 		"video": false,
-		"vote_average": 8.403,
+		"vote_average": 8.404,
 		"slug": "spider-man-into-the-spider-verse",
 		"tags": [
 			"list-8204859"
@@ -2163,7 +2177,7 @@
 		"release_date": "2018-09-28",
 		"title": "Venom",
 		"video": false,
-		"vote_average": 6.828,
+		"vote_average": 6.8,
 		"slug": "venom",
 		"tags": [
 			"movie",
@@ -2356,7 +2370,7 @@
 		"poster_path": "/tM6xqRKXoloH9UchaJEyyRE9O1w.jpg",
 		"first_air_date": "2017-11-17",
 		"name": "Marvel's The Punisher",
-		"vote_average": 8.118,
+		"vote_average": 8.116,
 		"title": "Marvel's The Punisher",
 		"slug": "marvels-the-punisher",
 		"tags": [
@@ -2408,7 +2422,7 @@
 		"release_date": "2017-10-02",
 		"title": "Thor: Ragnarok",
 		"video": false,
-		"vote_average": 7.6,
+		"vote_average": 7.593,
 		"slug": "thor-ragnarok",
 		"tags": [
 			"movie",
@@ -2484,7 +2498,7 @@
 		"release_date": "2017-07-05",
 		"title": "Spider-Man: Homecoming",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.336,
 		"slug": "spider-man-homecoming",
 		"tags": [
 			"movie",
@@ -2626,10 +2640,10 @@
 		"original_language": "en",
 		"original_name": "Legion",
 		"overview": "David Haller, AKA Legion, is a troubled young man who may be more than human. Diagnosed as schizophrenic, David has been in and out of psychiatric hospitals for years. But after a strange encounter with a fellow patient, he’s confronted with the possibility that the voices he hears and the visions he sees might be real.",
-		"poster_path": "/d6T86JYMW4sSLRmNfdtFilvugOv.jpg",
+		"poster_path": "/l8paJlma8P3t73B4SPtFjr8nsWF.jpg",
 		"first_air_date": "2017-02-08",
 		"name": "Legion",
-		"vote_average": 7.555,
+		"vote_average": 7.6,
 		"title": "Legion",
 		"slug": "legion",
 		"tags": [
@@ -2655,7 +2669,7 @@
 		"poster_path": "/bwJej7WdmGRMCMyuDlotwAqVX7S.jpg",
 		"first_air_date": "2016-12-13",
 		"name": "Marvel's Agents of S.H.I.E.L.D.: Slingshot",
-		"vote_average": 7.175,
+		"vote_average": 7.169,
 		"title": "Marvel's Agents of S.H.I.E.L.D.: Slingshot",
 		"slug": "marvels-agents-of-shield-slingshot",
 		"tags": [
@@ -2776,7 +2790,7 @@
 		"release_date": "2016-05-18",
 		"title": "X-Men: Apocalypse",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.513,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"movie",
@@ -2918,7 +2932,7 @@
 		"release_date": "2015-07-14",
 		"title": "Ant-Man",
 		"video": false,
-		"vote_average": 7.079,
+		"vote_average": 7.1,
 		"slug": "ant-man",
 		"tags": [
 			"movie",
@@ -2966,7 +2980,7 @@
 		"poster_path": "/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
 		"first_air_date": "2015-04-10",
 		"name": "Marvel's Daredevil",
-		"vote_average": 8.167,
+		"vote_average": 8.168,
 		"title": "Marvel's Daredevil",
 		"slug": "marvels-daredevil",
 		"tags": [
@@ -3239,11 +3253,11 @@
 		"original_language": "en",
 		"original_title": "The Amazing Spider-Man 2",
 		"overview": "For Peter Parker, life is busy. Between taking out the bad guys as Spider-Man and spending time with the person he loves, Gwen Stacy, high school graduation cannot come quickly enough. Peter has not forgotten about the promise he made to Gwen’s father to protect her by staying away, but that is a promise he cannot keep. Things will change for Peter when a new villain, Electro, emerges, an old friend, Harry Osborn, returns, and Peter uncovers new clues about his past.",
-		"poster_path": "/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg",
+		"poster_path": "/i9lWHy5u7ZQC1K70xAScchXKpbF.jpg",
 		"release_date": "2014-04-16",
 		"title": "The Amazing Spider-Man 2",
 		"video": false,
-		"vote_average": 6.508,
+		"vote_average": 6.5,
 		"slug": "the-amazing-spider-man-2",
 		"tags": [
 			"movie",
@@ -3292,7 +3306,7 @@
 		"release_date": "2014-03-20",
 		"title": "Captain America: The Winter Soldier",
 		"video": false,
-		"vote_average": 7.7,
+		"vote_average": 7.665,
 		"slug": "captain-america-the-winter-soldier",
 		"tags": [
 			"movie",
@@ -3402,7 +3416,7 @@
 		"release_date": "2013-10-30",
 		"title": "Thor: The Dark World",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.529,
 		"slug": "thor-the-dark-world",
 		"tags": [
 			"movie",
@@ -3591,7 +3605,7 @@
 		"release_date": "2013-04-18",
 		"title": "Iron Man 3",
 		"video": false,
-		"vote_average": 6.9,
+		"vote_average": 6.927,
 		"slug": "iron-man-3",
 		"tags": [
 			"movie",
@@ -3619,27 +3633,6 @@
 		"tags": [
 			"movie",
 			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
-			16
-		],
-		"id": 222456,
-		"original_language": "en",
-		"original_title": "Astonishing X-Men: Torn",
-		"overview": "They're back! The chart-topping super-team of Joss Whedon and John Cassaday return for more Astonshing X-Men! If you thought their past efforts were full of shocks and surprises, hold onto your eyeballs - because you haven't seen anything yet, as things go from peculiar to just plain bizarre! Emma Frost's erratic behavior has the X-Men spinning in a non-stop downward spiral. Will an unlikely union be the final straw? After secretly lying in wait for months, the new Hellfire Club makes its move! Plus: The X-Man destined to destroy the Breakworld stands revealed! Who is it, and what will be their fate?",
-		"poster_path": "/nCI7NAqzXxSj9QApk6BAFPhbH4T.jpg",
-		"release_date": "2012-08-14",
-		"title": "Astonishing X-Men: Torn",
-		"video": false,
-		"vote_average": 8,
-		"slug": "astonishing-x-men-torn",
-		"tags": [
-			"movie",
-			"company-11106"
 		]
 	},
 	{
@@ -3681,7 +3674,7 @@
 		"release_date": "2012-06-23",
 		"title": "The Amazing Spider-Man",
 		"video": false,
-		"vote_average": 6.699,
+		"vote_average": 6.7,
 		"slug": "the-amazing-spider-man",
 		"tags": [
 			"movie",
@@ -3728,7 +3721,7 @@
 		"release_date": "2012-04-25",
 		"title": "The Avengers",
 		"video": false,
-		"vote_average": 7.7,
+		"vote_average": 7.713,
 		"slug": "the-avengers",
 		"tags": [
 			"movie",
@@ -3865,7 +3858,7 @@
 		"release_date": "2011-06-01",
 		"title": "X-Men: First Class",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.299,
 		"slug": "x-men-first-class",
 		"tags": [
 			"movie",
@@ -3991,7 +3984,7 @@
 		"release_date": "2010-04-28",
 		"title": "Iron Man 2",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.84,
 		"slug": "iron-man-2",
 		"tags": [
 			"movie",
@@ -4583,7 +4576,7 @@
 		"release_date": "2006-05-24",
 		"title": "X-Men: The Last Stand",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.41,
 		"slug": "x-men-the-last-stand",
 		"tags": [
 			"movie",
@@ -4796,7 +4789,7 @@
 		"release_date": "2003-04-27",
 		"title": "X2",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 7.03,
 		"slug": "x2",
 		"tags": [
 			"movie",
@@ -4924,7 +4917,7 @@
 		],
 		"release_date": "2000-07-13",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 7.002,
 		"slug": "x-men",
 		"tags": [
 			"list-8204860"

@@ -37,7 +37,7 @@ logo_on_black: /.netlify/functions/tmdb-image/fa6aYdjF083UV2w6V7hOAjwaqi4.webp
     "id": 533535,
     "original_language": "en",
     "original_title": "Deadpool & Wolverine",
-    "overview": "Third entry in the \"Deadpool\" franchise. Plot TBA.",
+    "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
     "poster_path": "/jbwYaoYWZwxtPP76AZnfYKQjCEB.jpg",
     "release_date": "2024-07-24",
     "title": "Deadpool & Wolverine",
