@@ -38,13 +38,13 @@ tags:
         "US"
     ],
     "original_language": "en",
-    "original_name": "Untitled ‘Vision’ Series",
+    "original_name": "Untitled Vision Series",
     "overview": "After the events of \"WandaVision\", \"white\" Vision presumably explores his new purpose in life.",
     "poster_path": null,
     "first_air_date": "",
-    "name": "Untitled ‘Vision’ Series",
+    "name": "Untitled Vision Series",
     "vote_average": 0,
-    "title": "Untitled ‘Vision’ Series",
+    "title": "Untitled Vision Series",
     "slug": "untitled-vision-series",
     "tags": [
         "tv",

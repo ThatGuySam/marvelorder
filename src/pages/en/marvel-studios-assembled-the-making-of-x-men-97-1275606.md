@@ -52,7 +52,7 @@ tags:
     "id": 1275606,
     "original_language": "en",
     "original_title": "Marvel Studios Assembled: The Making of X-Men '97",
-    "overview": "\"Assembled\" recalls the birth of \"X-Men: The Animated Series\" and its revival thirty years later.",
+    "overview": "Spend time with the original cast, along with new voices, as this behind-the-scenes special recalls the birth of \"X-Men: The Animated Series,\" and its revival thirty years later as \"X-Men '97.\"",
     "poster_path": "/toTO1rJsow5eQvXMotchEU1yXY4.jpg",
     "release_date": "2024-05-22",
     "title": "Marvel Studios Assembled: The Making of X-Men '97",

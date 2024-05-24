@@ -59,7 +59,7 @@ tags:
     "poster_path": "/zSpwgG8rP8oBhJTW3raWaj04RoH.jpg",
     "first_air_date": "2015-03-04",
     "name": "Marvel's Agents of S.H.I.E.L.D.: Double Agent",
-    "vote_average": 0,
+    "vote_average": 7,
     "title": "Marvel's Agents of S.H.I.E.L.D.: Double Agent",
     "slug": "marvels-agents-of-shield-double-agent",
     "tags": [
