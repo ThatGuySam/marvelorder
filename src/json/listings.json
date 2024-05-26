@@ -591,7 +591,7 @@
 		"poster_path": "/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg",
 		"first_air_date": "2024-03-20",
 		"name": "X-Men '97",
-		"vote_average": 8.821,
+		"vote_average": 8.816,
 		"title": "X-Men '97",
 		"slug": "x-men-97",
 		"tags": [
@@ -704,7 +704,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.144,
+		"vote_average": 6.1,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -838,7 +838,7 @@
 		"release_date": "2023-05-31",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
-		"vote_average": 8.363,
+		"vote_average": 8.4,
 		"slug": "spider-man-across-the-spider-verse",
 		"tags": [
 			"movie",
@@ -1000,7 +1000,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 7.127,
+		"vote_average": 7.126,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -1110,7 +1110,7 @@
 		"poster_path": "/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
 		"first_air_date": "2022-08-18",
 		"name": "She-Hulk: Attorney at Law",
-		"vote_average": 6.289,
+		"vote_average": 6.288,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
 		"tags": [
@@ -1138,7 +1138,7 @@
 		"poster_path": "/eqKNlMgG6pE1tbvTcD86NDNKlru.jpg",
 		"first_air_date": "2022-08-10",
 		"name": "I Am Groot",
-		"vote_average": 7.189,
+		"vote_average": 7.2,
 		"title": "I Am Groot",
 		"slug": "i-am-groot",
 		"tags": [
@@ -1349,7 +1349,7 @@
 		"poster_path": "/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
 		"first_air_date": "2022-06-08",
 		"name": "Ms. Marvel",
-		"vote_average": 6.473,
+		"vote_average": 6.471,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
 		"tags": [
@@ -1531,7 +1531,7 @@
 		"poster_path": "/ct5pNE5dDHryHLDnxyZPYcqO1sz.jpg",
 		"first_air_date": "2021-11-24",
 		"name": "Hawkeye",
-		"vote_average": 7.895,
+		"vote_average": 7.894,
 		"title": "Hawkeye",
 		"slug": "hawkeye",
 		"tags": [
@@ -1776,7 +1776,7 @@
 		"poster_path": "/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
 		"first_air_date": "2021-03-19",
 		"name": "The Falcon and the Winter Soldier",
-		"vote_average": 7.66,
+		"vote_average": 7.661,
 		"title": "The Falcon and the Winter Soldier",
 		"slug": "the-falcon-and-the-winter-soldier",
 		"tags": [
@@ -1826,7 +1826,7 @@
 		"poster_path": "/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
 		"first_air_date": "2021-01-15",
 		"name": "WandaVision",
-		"vote_average": 8.239,
+		"vote_average": 8.238,
 		"title": "WandaVision",
 		"slug": "wandavision",
 		"tags": [
@@ -1929,7 +1929,7 @@
 		"release_date": "2020-04-02",
 		"title": "The New Mutants",
 		"video": false,
-		"vote_average": 6.111,
+		"vote_average": 6.11,
 		"slug": "the-new-mutants",
 		"tags": [
 			"movie",
@@ -2020,7 +2020,7 @@
 		"release_date": "2019-06-28",
 		"title": "Spider-Man: Far From Home",
 		"video": false,
-		"vote_average": 7.429,
+		"vote_average": 7.4,
 		"slug": "spider-man-far-from-home",
 		"tags": [
 			"movie",
@@ -2043,7 +2043,7 @@
 		"release_date": "2019-06-05",
 		"title": "Dark Phoenix",
 		"video": false,
-		"vote_average": 6,
+		"vote_average": 5.978,
 		"slug": "dark-phoenix",
 		"tags": [
 			"movie",
@@ -2068,7 +2068,7 @@
 		"release_date": "2019-04-24",
 		"title": "Avengers: Endgame",
 		"video": false,
-		"vote_average": 8.254,
+		"vote_average": 8.3,
 		"slug": "avengers-endgame",
 		"tags": [
 			"movie",
@@ -2234,7 +2234,7 @@
 		"release_date": "2018-05-10",
 		"title": "Deadpool 2",
 		"video": false,
-		"vote_average": 7.488,
+		"vote_average": 7.487,
 		"slug": "deadpool-2",
 		"tags": [
 			"movie",
@@ -2259,7 +2259,7 @@
 		"release_date": "2018-04-25",
 		"title": "Avengers: Infinity War",
 		"video": false,
-		"vote_average": 8.246,
+		"vote_average": 8.247,
 		"slug": "avengers-infinity-war",
 		"tags": [
 			"movie",
@@ -2303,7 +2303,7 @@
 		"release_date": "2018-02-13",
 		"title": "Black Panther",
 		"video": false,
-		"vote_average": 7.385,
+		"vote_average": 7.384,
 		"slug": "black-panther",
 		"tags": [
 			"movie",
@@ -2407,7 +2407,7 @@
 		"release_date": "2017-10-02",
 		"title": "Thor: Ragnarok",
 		"video": false,
-		"vote_average": 7.593,
+		"vote_average": 7.592,
 		"slug": "thor-ragnarok",
 		"tags": [
 			"movie",
@@ -2506,7 +2506,7 @@
 		"release_date": "2017-04-19",
 		"title": "Guardians of the Galaxy Vol. 2",
 		"video": false,
-		"vote_average": 7.621,
+		"vote_average": 7.62,
 		"slug": "guardians-of-the-galaxy-vol-2",
 		"tags": [
 			"movie",
@@ -3401,7 +3401,7 @@
 		"release_date": "2013-10-30",
 		"title": "Thor: The Dark World",
 		"video": false,
-		"vote_average": 6.529,
+		"vote_average": 6.5,
 		"slug": "thor-the-dark-world",
 		"tags": [
 			"movie",
@@ -3543,7 +3543,7 @@
 			10765
 		],
 		"first_air_date": "2013-05-26",
-		"vote_average": 7.586,
+		"vote_average": 7.583,
 		"origin_country": [
 			"US"
 		],
@@ -3706,7 +3706,7 @@
 		"release_date": "2012-04-25",
 		"title": "The Avengers",
 		"video": false,
-		"vote_average": 7.714,
+		"vote_average": 7.713,
 		"slug": "the-avengers",
 		"tags": [
 			"movie",
@@ -3990,7 +3990,7 @@
 		"original_language": "en",
 		"original_name": "Stark Expo Shorts",
 		"overview": "Stark Expo Shorts is a series of short videos released by Stark Industries to promote the Stark Expo, an event showcasing the latest technological advancements. The series consists of five episodes, each lasting approximately 1 minute, and was first aired on March 30, 2010",
-		"poster_path": null,
+		"poster_path": "/u66rC2LWZmxJRrOceeuyv76zYe1.jpg",
 		"first_air_date": "2010-03-31",
 		"name": "Stark Expo Shorts",
 		"vote_average": 7,
@@ -4586,7 +4586,7 @@
 		"release_date": "2005-06-29",
 		"title": "Fantastic Four",
 		"video": false,
-		"vote_average": 5.782,
+		"vote_average": 5.783,
 		"slug": "fantastic-four",
 		"tags": [
 			"movie",
@@ -5004,7 +5004,7 @@
 		"poster_path": "/mBJTL4CRSoNkAQRmfwbiLTtviuW.jpg",
 		"first_air_date": "1998-02-07",
 		"name": "Silver Surfer",
-		"vote_average": 7.129,
+		"vote_average": 7.169,
 		"title": "Silver Surfer",
 		"slug": "silver-surfer",
 		"tags": [
@@ -5206,7 +5206,7 @@
 			10759
 		],
 		"first_air_date": "1992-10-31",
-		"vote_average": 8.198,
+		"vote_average": 8.199,
 		"origin_country": [
 			"US"
 		],

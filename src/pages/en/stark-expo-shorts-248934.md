@@ -44,7 +44,7 @@ tags:
     "original_language": "en",
     "original_name": "Stark Expo Shorts",
     "overview": "Stark Expo Shorts is a series of short videos released by Stark Industries to promote the Stark Expo, an event showcasing the latest technological advancements. The series consists of five episodes, each lasting approximately 1 minute, and was first aired on March 30, 2010",
-    "poster_path": null,
+    "poster_path": "/u66rC2LWZmxJRrOceeuyv76zYe1.jpg",
     "first_air_date": "2010-03-31",
     "name": "Stark Expo Shorts",
     "vote_average": 7,
