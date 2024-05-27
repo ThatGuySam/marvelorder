@@ -57,7 +57,7 @@ tags:
     "release_date": "2024-05-22",
     "title": "Marvel Studios Assembled: The Making of X-Men '97",
     "video": false,
-    "vote_average": 5.3,
+    "vote_average": 5.8,
     "slug": "marvel-studios-assembled-the-making-of-x-men-97",
     "tags": [
         "movie",
