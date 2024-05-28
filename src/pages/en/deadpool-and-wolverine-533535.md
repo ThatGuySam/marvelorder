@@ -32,7 +32,8 @@ logo_on_black: /.netlify/functions/tmdb-image/fa6aYdjF083UV2w6V7hOAjwaqi4.webp
     "genre_ids": [
         35,
         878,
-        28
+        28,
+        12
     ],
     "id": 533535,
     "original_language": "en",

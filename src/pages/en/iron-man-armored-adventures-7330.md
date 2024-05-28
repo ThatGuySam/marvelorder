@@ -50,7 +50,7 @@ watchLinks:
     "poster_path": "/uwMIL8PR1jHpHQksIq7kzdeqg2A.jpg",
     "first_air_date": "2009-04-24",
     "name": "Iron Man: Armored Adventures",
-    "vote_average": 7.2,
+    "vote_average": 7.179,
     "title": "Iron Man: Armored Adventures",
     "slug": "iron-man-armored-adventures",
     "tags": [
