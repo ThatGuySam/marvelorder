@@ -32,7 +32,7 @@ mcuTimelineOrder: 165
     "poster_path": "/pYnRJuBPEqZO1o4fcxBTgmKNHfy.jpg",
     "first_air_date": "2018-06-07",
     "name": "Marvel's Cloak & Dagger",
-    "vote_average": 7.226,
+    "vote_average": 7.224,
     "title": "Marvel's Cloak & Dagger",
     "slug": "marvels-cloak-and-dagger",
     "tags": [
