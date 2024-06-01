@@ -591,7 +591,7 @@
 		"poster_path": "/2gxb0BtvqR9abbVgmF1SaW4j1bh.jpg",
 		"first_air_date": "2024-03-20",
 		"name": "X-Men '97",
-		"vote_average": 8.759,
+		"vote_average": 8.728,
 		"title": "X-Men '97",
 		"slug": "x-men-97",
 		"tags": [
@@ -659,7 +659,7 @@
 		"poster_path": "/vFyJH630cF68LohVYjQW49074Sy.jpg",
 		"first_air_date": "2024-01-09",
 		"name": "Echo",
-		"vote_average": 6.279,
+		"vote_average": 6.296,
 		"title": "Echo",
 		"slug": "echo",
 		"tags": [
@@ -704,7 +704,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.136,
+		"vote_average": 6.137,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -1440,7 +1440,7 @@
 		"poster_path": "/YksR65as1ppF2N48TJAh2PLamX.jpg",
 		"first_air_date": "2022-03-30",
 		"name": "Moon Knight",
-		"vote_average": 7.734,
+		"vote_average": 7.732,
 		"title": "Moon Knight",
 		"slug": "moon-knight",
 		"tags": [
@@ -1502,7 +1502,7 @@
 		"original_language": "en",
 		"original_title": "Spider-Man: No Way Home",
 		"overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
-		"poster_path": "/5weKu49pzJCt06OPpjvT80efnQj.jpg",
+		"poster_path": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
 		"release_date": "2021-12-15",
 		"title": "Spider-Man: No Way Home",
 		"video": false,
@@ -1531,7 +1531,7 @@
 		"poster_path": "/ct5pNE5dDHryHLDnxyZPYcqO1sz.jpg",
 		"first_air_date": "2021-11-24",
 		"name": "Hawkeye",
-		"vote_average": 7.893,
+		"vote_average": 7.892,
 		"title": "Hawkeye",
 		"slug": "hawkeye",
 		"tags": [
@@ -1724,7 +1724,7 @@
 		"poster_path": "/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg",
 		"first_air_date": "2021-06-09",
 		"name": "Loki",
-		"vote_average": 8.178,
+		"vote_average": 8.2,
 		"title": "Loki",
 		"slug": "loki",
 		"tags": [
@@ -2020,7 +2020,7 @@
 		"release_date": "2019-06-28",
 		"title": "Spider-Man: Far From Home",
 		"video": false,
-		"vote_average": 7.428,
+		"vote_average": 7.429,
 		"slug": "spider-man-far-from-home",
 		"tags": [
 			"movie",
@@ -2043,7 +2043,7 @@
 		"release_date": "2019-06-05",
 		"title": "Dark Phoenix",
 		"video": false,
-		"vote_average": 6,
+		"vote_average": 5.977,
 		"slug": "dark-phoenix",
 		"tags": [
 			"movie",
@@ -2068,7 +2068,7 @@
 		"release_date": "2019-04-24",
 		"title": "Avengers: Endgame",
 		"video": false,
-		"vote_average": 8.254,
+		"vote_average": 8.253,
 		"slug": "avengers-endgame",
 		"tags": [
 			"movie",
@@ -2141,7 +2141,7 @@
 		],
 		"release_date": "2018-12-06",
 		"video": false,
-		"vote_average": 8.403,
+		"vote_average": 8.404,
 		"slug": "spider-man-into-the-spider-verse",
 		"tags": [
 			"list-8204859"
@@ -2185,7 +2185,7 @@
 		"release_date": "2018-07-04",
 		"title": "Ant-Man and the Wasp",
 		"video": false,
-		"vote_average": 6.941,
+		"vote_average": 6.94,
 		"slug": "ant-man-and-the-wasp",
 		"tags": [
 			"movie",
@@ -2303,7 +2303,7 @@
 		"release_date": "2018-02-13",
 		"title": "Black Panther",
 		"video": false,
-		"vote_average": 7.384,
+		"vote_average": 7.385,
 		"slug": "black-panther",
 		"tags": [
 			"movie",
@@ -2329,7 +2329,7 @@
 		"poster_path": "/zceMrfO17AQkeWJZNra4O90s1vE.jpg",
 		"first_air_date": "2017-11-21",
 		"name": "Marvel's Runaways",
-		"vote_average": 7.421,
+		"vote_average": 7.417,
 		"title": "Marvel's Runaways",
 		"slug": "marvels-runaways",
 		"tags": [
@@ -2407,7 +2407,7 @@
 		"release_date": "2017-10-02",
 		"title": "Thor: Ragnarok",
 		"video": false,
-		"vote_average": 7.592,
+		"vote_average": 7.593,
 		"slug": "thor-ragnarok",
 		"tags": [
 			"movie",
@@ -2483,7 +2483,7 @@
 		"release_date": "2017-07-05",
 		"title": "Spider-Man: Homecoming",
 		"video": false,
-		"vote_average": 7.336,
+		"vote_average": 7.337,
 		"slug": "spider-man-homecoming",
 		"tags": [
 			"movie",
@@ -2728,7 +2728,7 @@
 		"poster_path": "/6R62oGGufhsf6DiMknCi047N0b7.jpg",
 		"first_air_date": "2016-09-30",
 		"name": "Marvel's Luke Cage",
-		"vote_average": 6.933,
+		"vote_average": 6.935,
 		"title": "Marvel's Luke Cage",
 		"slug": "marvels-luke-cage",
 		"tags": [
@@ -3171,7 +3171,7 @@
 		"release_date": "2014-05-15",
 		"title": "X-Men: Days of Future Past",
 		"video": false,
-		"vote_average": 7.526,
+		"vote_average": 7.527,
 		"slug": "x-men-days-of-future-past",
 		"tags": [
 			"movie",
@@ -3843,7 +3843,7 @@
 		"release_date": "2011-06-01",
 		"title": "X-Men: First Class",
 		"video": false,
-		"vote_average": 7.298,
+		"vote_average": 7.299,
 		"slug": "x-men-first-class",
 		"tags": [
 			"movie",
@@ -3969,7 +3969,7 @@
 		"release_date": "2010-04-28",
 		"title": "Iron Man 2",
 		"video": false,
-		"vote_average": 6.84,
+		"vote_average": 6.841,
 		"slug": "iron-man-2",
 		"tags": [
 			"movie",
@@ -4127,7 +4127,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/wS3ofKrgeSWR85TSvWCqo3hWvSf.jpg",
+		"backdrop_path": "/Aack4R47Po0qtyvID374rRacuWB.jpg",
 		"genre_ids": [
 			16,
 			28,
@@ -4143,7 +4143,7 @@
 		"release_date": "2009-01-27",
 		"title": "Hulk vs. Wolverine",
 		"video": false,
-		"vote_average": 7.118,
+		"vote_average": 7.1,
 		"slug": "hulk-vs-wolverine",
 		"tags": [
 			"movie",
@@ -4408,7 +4408,7 @@
 		"release_date": "2007-05-01",
 		"title": "Spider-Man 3",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.418,
 		"slug": "spider-man-3",
 		"tags": [
 			"movie",
@@ -4459,7 +4459,7 @@
 		"release_date": "2007-01-15",
 		"title": "Ghost Rider",
 		"video": false,
-		"vote_average": 5.563,
+		"vote_average": 5.564,
 		"slug": "ghost-rider",
 		"tags": [
 			"movie",
@@ -4678,7 +4678,7 @@
 		"release_date": "2004-06-25",
 		"title": "Spider-Man 2",
 		"video": false,
-		"vote_average": 7.272,
+		"vote_average": 7.273,
 		"slug": "spider-man-2",
 		"tags": [
 			"movie",
@@ -4774,7 +4774,7 @@
 		"release_date": "2003-04-27",
 		"title": "X2",
 		"video": false,
-		"vote_average": 7.03,
+		"vote_average": 7.029,
 		"slug": "x2",
 		"tags": [
 			"movie",
@@ -5004,7 +5004,7 @@
 		"poster_path": "/mBJTL4CRSoNkAQRmfwbiLTtviuW.jpg",
 		"first_air_date": "1998-02-07",
 		"name": "Silver Surfer",
-		"vote_average": 7.192,
+		"vote_average": 7.23,
 		"title": "Silver Surfer",
 		"slug": "silver-surfer",
 		"tags": [
@@ -5307,7 +5307,7 @@
 		],
 		"release_date": "1986-08-01",
 		"video": false,
-		"vote_average": 5.4,
+		"vote_average": 5.397,
 		"slug": "howard-the-duck",
 		"tags": [
 			"list-8204859"

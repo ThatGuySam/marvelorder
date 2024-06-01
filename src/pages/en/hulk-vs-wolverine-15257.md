@@ -37,7 +37,7 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/wS3ofKrgeSWR85TSvWCqo3hWvSf.jpg",
+    "backdrop_path": "/Aack4R47Po0qtyvID374rRacuWB.jpg",
     "genre_ids": [
         16,
         28,
@@ -53,7 +53,7 @@ tags:
     "release_date": "2009-01-27",
     "title": "Hulk vs. Wolverine",
     "video": false,
-    "vote_average": 7.118,
+    "vote_average": 7.1,
     "slug": "hulk-vs-wolverine",
     "tags": [
         "movie",
