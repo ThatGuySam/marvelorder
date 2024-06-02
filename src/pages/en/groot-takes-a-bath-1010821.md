@@ -43,7 +43,7 @@ tags:
     "release_date": "2022-08-10",
     "title": "Groot Takes a Bath",
     "video": false,
-    "vote_average": 7.1,
+    "vote_average": 7.127,
     "slug": "groot-takes-a-bath",
     "tags": [
         "movie",
