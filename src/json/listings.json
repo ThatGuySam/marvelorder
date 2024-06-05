@@ -371,6 +371,30 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			28,
+			16,
+			12,
+			878
+		],
+		"id": 1300070,
+		"original_language": "en",
+		"original_title": "What If...? – An Immersive Story",
+		"overview": "You have been chosen! Step inside the limitless possibilities of Marvel Studios' What If…? universe in this immersive Disney+ Original story exclusively on Apple Vision Pro, where you’ll be recruited by The Watcher to help capture multiversal villains who had strayed from their destiny and dubbing you as the Hero of the Multiverse, being transported to different worlds. Come face-to-face with variants of your favorite characters and learn to harness the power of the Infinity Stones. But, …everything may not be all that it seems.",
+		"poster_path": null,
+		"release_date": "",
+		"title": "What If...? – An Immersive Story",
+		"video": false,
+		"vote_average": 0,
+		"slug": "what-if-an-immersive-story",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/jqFC2WjYF07hx2X7cs0XmY9jBX6.jpg",
 		"genre_ids": [
 			878
@@ -531,9 +555,9 @@
 		"adult": false,
 		"backdrop_path": "/hzr7GhCoWTeQQMKDR6LXhN8x9fs.jpg",
 		"genre_ids": [
-			35,
 			878,
-			12
+			28,
+			35
 		],
 		"id": 533535,
 		"original_language": "en",
@@ -591,7 +615,7 @@
 		"poster_path": "/2gxb0BtvqR9abbVgmF1SaW4j1bh.jpg",
 		"first_air_date": "2024-03-20",
 		"name": "X-Men '97",
-		"vote_average": 8.708,
+		"vote_average": 8.713,
 		"title": "X-Men '97",
 		"slug": "x-men-97",
 		"tags": [
@@ -659,7 +683,7 @@
 		"poster_path": "/vFyJH630cF68LohVYjQW49074Sy.jpg",
 		"first_air_date": "2024-01-09",
 		"name": "Echo",
-		"vote_average": 6.296,
+		"vote_average": 6.297,
 		"title": "Echo",
 		"slug": "echo",
 		"tags": [
@@ -704,7 +728,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.133,
+		"vote_average": 6.134,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -792,7 +816,7 @@
 		"poster_path": "/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg",
 		"first_air_date": "2023-06-21",
 		"name": "Secret Invasion",
-		"vote_average": 6.798,
+		"vote_average": 6.795,
 		"title": "Secret Invasion",
 		"slug": "secret-invasion",
 		"tags": [
@@ -838,7 +862,7 @@
 		"release_date": "2023-05-31",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
-		"vote_average": 8.363,
+		"vote_average": 8.362,
 		"slug": "spider-man-across-the-spider-verse",
 		"tags": [
 			"movie",
@@ -861,7 +885,7 @@
 		"release_date": "2023-05-03",
 		"title": "Guardians of the Galaxy Vol. 3",
 		"video": false,
-		"vote_average": 7.972,
+		"vote_average": 7.973,
 		"slug": "guardians-of-the-galaxy-vol-3",
 		"tags": [
 			"movie",
@@ -977,7 +1001,7 @@
 		"release_date": "2022-11-25",
 		"title": "The Guardians of the Galaxy Holiday Special",
 		"video": false,
-		"vote_average": 7.174,
+		"vote_average": 7.173,
 		"slug": "the-guardians-of-the-galaxy-holiday-special",
 		"tags": [
 			"movie",
@@ -1000,7 +1024,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 7.127,
+		"vote_average": 7.128,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -1138,7 +1162,7 @@
 		"poster_path": "/eqKNlMgG6pE1tbvTcD86NDNKlru.jpg",
 		"first_air_date": "2022-08-10",
 		"name": "I Am Groot",
-		"vote_average": 7.183,
+		"vote_average": 7.194,
 		"title": "I Am Groot",
 		"slug": "i-am-groot",
 		"tags": [
@@ -1601,7 +1625,7 @@
 		"release_date": "2021-11-03",
 		"title": "Eternals",
 		"video": false,
-		"vote_average": 6.879,
+		"vote_average": 6.88,
 		"slug": "eternals",
 		"tags": [
 			"movie",
@@ -1700,7 +1724,7 @@
 		"release_date": "2021-07-07",
 		"title": "Black Widow",
 		"video": false,
-		"vote_average": 7.256,
+		"vote_average": 7.255,
 		"slug": "black-widow",
 		"tags": [
 			"movie",
@@ -1751,7 +1775,7 @@
 		"poster_path": "/dOOFAtzsRQ641p2NL4s4nyThJSO.jpg",
 		"first_air_date": "2021-05-21",
 		"name": "Marvel's M.O.D.O.K.",
-		"vote_average": 6.7,
+		"vote_average": 6.686,
 		"title": "Marvel's M.O.D.O.K.",
 		"slug": "marvels-modok",
 		"tags": [
@@ -1975,7 +1999,7 @@
 		"release_date": "2019-09-17",
 		"title": "Peter's To-Do List",
 		"video": false,
-		"vote_average": 6.795,
+		"vote_average": 6.8,
 		"slug": "peters-to-do-list",
 		"tags": [
 			"movie",
@@ -2020,7 +2044,7 @@
 		"release_date": "2019-06-28",
 		"title": "Spider-Man: Far From Home",
 		"video": false,
-		"vote_average": 7.429,
+		"vote_average": 7.4,
 		"slug": "spider-man-far-from-home",
 		"tags": [
 			"movie",
@@ -2162,7 +2186,7 @@
 		"release_date": "2018-09-28",
 		"title": "Venom",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.828,
 		"slug": "venom",
 		"tags": [
 			"movie",
@@ -2234,7 +2258,7 @@
 		"release_date": "2018-05-10",
 		"title": "Deadpool 2",
 		"video": false,
-		"vote_average": 7.487,
+		"vote_average": 7.5,
 		"slug": "deadpool-2",
 		"tags": [
 			"movie",
@@ -2259,7 +2283,7 @@
 		"release_date": "2018-04-25",
 		"title": "Avengers: Infinity War",
 		"video": false,
-		"vote_average": 8.246,
+		"vote_average": 8.2,
 		"slug": "avengers-infinity-war",
 		"tags": [
 			"movie",
@@ -2303,7 +2327,7 @@
 		"release_date": "2018-02-13",
 		"title": "Black Panther",
 		"video": false,
-		"vote_average": 7.385,
+		"vote_average": 7.4,
 		"slug": "black-panther",
 		"tags": [
 			"movie",
@@ -2483,7 +2507,7 @@
 		"release_date": "2017-07-05",
 		"title": "Spider-Man: Homecoming",
 		"video": false,
-		"vote_average": 7.337,
+		"vote_average": 7.3,
 		"slug": "spider-man-homecoming",
 		"tags": [
 			"movie",
@@ -2823,7 +2847,7 @@
 		"release_date": "2016-02-09",
 		"title": "Deadpool",
 		"video": false,
-		"vote_average": 7.613,
+		"vote_average": 7.6,
 		"slug": "deadpool",
 		"tags": [
 			"movie",
@@ -2894,7 +2918,7 @@
 		"release_date": "2015-08-05",
 		"title": "Fantastic Four",
 		"video": false,
-		"vote_average": 4.4,
+		"vote_average": 4.418,
 		"slug": "fantastic-four",
 		"tags": [
 			"movie",
@@ -3171,7 +3195,7 @@
 		"release_date": "2014-05-15",
 		"title": "X-Men: Days of Future Past",
 		"video": false,
-		"vote_average": 7.5,
+		"vote_average": 7.527,
 		"slug": "x-men-days-of-future-past",
 		"tags": [
 			"movie",
@@ -3242,7 +3266,7 @@
 		"release_date": "2014-04-16",
 		"title": "The Amazing Spider-Man 2",
 		"video": false,
-		"vote_average": 6.509,
+		"vote_average": 6.5,
 		"slug": "the-amazing-spider-man-2",
 		"tags": [
 			"movie",
@@ -3366,27 +3390,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
-			16
-		],
-		"id": 916898,
-		"original_language": "en",
-		"original_title": "Astonishing X-Men: Unstoppable",
-		"overview": "The X-Men are off to protect the Earth from its destruction at the hands of the Breakworld. And when it’s all over, nothing will ever be the same!",
-		"poster_path": "/cIvtMh7G877NEKXlRP6SgPMr8bl.jpg",
-		"release_date": "2013-11-13",
-		"title": "Astonishing X-Men: Unstoppable",
-		"video": false,
-		"vote_average": 0,
-		"slug": "astonishing-x-men-unstoppable",
-		"tags": [
-			"movie",
-			"company-11106"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": "/4zTsF0RtO0av3YX1NaKDqGKPxYF.jpg",
 		"genre_ids": [
 			28,
@@ -3426,7 +3429,7 @@
 		"poster_path": "/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg",
 		"first_air_date": "2013-09-24",
 		"name": "Marvel's Agents of S.H.I.E.L.D.",
-		"vote_average": 7.488,
+		"vote_average": 7.487,
 		"title": "Marvel's Agents of S.H.I.E.L.D.",
 		"slug": "marvels-agents-of-shield",
 		"tags": [
@@ -3495,7 +3498,7 @@
 		"release_date": "2013-07-21",
 		"title": "The Wolverine",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.407,
 		"slug": "the-wolverine",
 		"tags": [
 			"movie",
@@ -3711,27 +3714,6 @@
 		"tags": [
 			"movie",
 			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
-			16
-		],
-		"id": 266843,
-		"original_language": "en",
-		"original_title": "Astonishing X-Men: Dangerous",
-		"overview": "The tragic death of a student at the Xavier Institute reveals that a powerful enemy is working from inside the mansion to destroy the X-Men, an enemy who knows all their weaknesses and can predict their every move. This new foe doesn’t want wealth, power or world domination: it only wants them dead. As the X-Men fight for their lives, they learn they’ve been deceived by one of their own . . . even if they survive, the team will never be the same.",
-		"poster_path": "/AneD1v6mN9z83hgiZvAMNk6bTpz.jpg",
-		"release_date": "2012-04-10",
-		"title": "Astonishing X-Men: Dangerous",
-		"video": false,
-		"vote_average": 7.75,
-		"slug": "astonishing-x-men-dangerous",
-		"tags": [
-			"movie",
-			"company-11106"
 		]
 	},
 	{
@@ -3993,7 +3975,7 @@
 		"poster_path": "/u66rC2LWZmxJRrOceeuyv76zYe1.jpg",
 		"first_air_date": "2010-03-31",
 		"name": "Stark Expo Shorts",
-		"vote_average": 7,
+		"vote_average": 6,
 		"title": "Stark Expo Shorts",
 		"slug": "stark-expo-shorts",
 		"tags": [
@@ -4143,7 +4125,7 @@
 		"release_date": "2009-01-27",
 		"title": "Hulk vs. Wolverine",
 		"video": false,
-		"vote_average": 7.131,
+		"vote_average": 7.1,
 		"slug": "hulk-vs-wolverine",
 		"tags": [
 			"movie",
@@ -4289,7 +4271,7 @@
 		"release_date": "2008-04-30",
 		"title": "Iron Man",
 		"video": false,
-		"vote_average": 7.6,
+		"vote_average": 7.644,
 		"slug": "iron-man",
 		"tags": [
 			"movie",
@@ -4341,7 +4323,7 @@
 		"release_date": "2007-08-14",
 		"title": "Doctor Strange",
 		"video": false,
-		"vote_average": 6.779,
+		"vote_average": 6.8,
 		"slug": "doctor-strange",
 		"tags": [
 			"movie",
@@ -4394,7 +4376,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/a6lJwBf62zCmMQMunhAKimX7Mnp.jpg",
+		"backdrop_path": "/eSGBbCOX7KM3Rf8HHwK8tglklyS.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -4459,7 +4441,7 @@
 		"release_date": "2007-01-15",
 		"title": "Ghost Rider",
 		"video": false,
-		"vote_average": 5.564,
+		"vote_average": 5.6,
 		"slug": "ghost-rider",
 		"tags": [
 			"movie",
@@ -4632,7 +4614,7 @@
 		"release_date": "2005-01-13",
 		"title": "Elektra",
 		"video": false,
-		"vote_average": 5.043,
+		"vote_average": 5,
 		"slug": "elektra",
 		"tags": [
 			"movie",
@@ -4655,7 +4637,7 @@
 		"release_date": "2004-12-08",
 		"title": "Blade: Trinity",
 		"video": false,
-		"vote_average": 5.856,
+		"vote_average": 5.9,
 		"slug": "blade-trinity",
 		"tags": [
 			"movie",
@@ -4798,7 +4780,7 @@
 		"release_date": "2003-02-14",
 		"title": "Daredevil",
 		"video": false,
-		"vote_average": 5.261,
+		"vote_average": 5.3,
 		"slug": "daredevil",
 		"tags": [
 			"movie",
@@ -4978,7 +4960,7 @@
 		"release_date": "1998-05-26",
 		"title": "Nick Fury: Agent of S.H.I.E.L.D.",
 		"video": false,
-		"vote_average": 4.55,
+		"vote_average": 4.5,
 		"slug": "nick-fury-agent-of-shield",
 		"tags": [
 			"movie",
@@ -5183,7 +5165,7 @@
 		],
 		"release_date": "1994-05-31",
 		"video": false,
-		"vote_average": 4.347,
+		"vote_average": 4.3,
 		"slug": "the-fantastic-four",
 		"tags": [
 			"list-8204862"
@@ -5206,7 +5188,7 @@
 			10759
 		],
 		"first_air_date": "1992-10-31",
-		"vote_average": 8.195,
+		"vote_average": 8.2,
 		"origin_country": [
 			"US"
 		],
@@ -5307,7 +5289,7 @@
 		],
 		"release_date": "1986-08-01",
 		"video": false,
-		"vote_average": 5.397,
+		"vote_average": 5.4,
 		"slug": "howard-the-duck",
 		"tags": [
 			"list-8204859"
@@ -5379,7 +5361,7 @@
 		],
 		"release_date": "1979-11-23",
 		"video": false,
-		"vote_average": 3.857,
+		"vote_average": 3.9,
 		"slug": "captain-america-ii-death-too-soon",
 		"tags": [
 			"list-8204862"
@@ -5427,7 +5409,7 @@
 		],
 		"release_date": "1979-01-19",
 		"video": false,
-		"vote_average": 4.023,
+		"vote_average": 4,
 		"slug": "captain-america",
 		"tags": [
 			"list-8204862"
@@ -5507,11 +5489,11 @@
 		]
 	},
 	{
-		"backdrop_path": "/9SE5E2g5DVBN9T3EIEYPhwdsZPr.jpg",
+		"backdrop_path": "/yhDHgYKaZiX8XEyWJFTOBwKaVdN.jpg",
 		"id": 2640,
 		"original_name": "スパイダーマン",
 		"overview": "Follow the exploits of motorcycle racer turned super hero Takuya Yamashiro, as he slings and swings, battling the evil Iron Cross Army along the way.",
-		"poster_path": "/vlSuwzyt3Hyq5OSFpvJDYnYDN1a.jpg",
+		"poster_path": "/38AVLCBEoQKJWMyzt9jkxqeefGb.jpg",
 		"media_type": "tv",
 		"adult": false,
 		"name": "Japanese Spiderman",
@@ -5521,7 +5503,7 @@
 			10765
 		],
 		"first_air_date": "1978-05-17",
-		"vote_average": 7.274,
+		"vote_average": 7.3,
 		"origin_country": [
 			"JP"
 		],

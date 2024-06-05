@@ -47,7 +47,7 @@ tags:
     "poster_path": "/u66rC2LWZmxJRrOceeuyv76zYe1.jpg",
     "first_air_date": "2010-03-31",
     "name": "Stark Expo Shorts",
-    "vote_average": 7,
+    "vote_average": 6,
     "title": "Stark Expo Shorts",
     "slug": "stark-expo-shorts",
     "tags": [

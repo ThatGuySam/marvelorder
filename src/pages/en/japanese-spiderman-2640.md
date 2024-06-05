@@ -30,11 +30,11 @@ tags:
 ## TMDB Data
 ```json
 {
-    "backdrop_path": "/9SE5E2g5DVBN9T3EIEYPhwdsZPr.jpg",
+    "backdrop_path": "/yhDHgYKaZiX8XEyWJFTOBwKaVdN.jpg",
     "id": 2640,
     "original_name": "スパイダーマン",
     "overview": "Follow the exploits of motorcycle racer turned super hero Takuya Yamashiro, as he slings and swings, battling the evil Iron Cross Army along the way.",
-    "poster_path": "/vlSuwzyt3Hyq5OSFpvJDYnYDN1a.jpg",
+    "poster_path": "/38AVLCBEoQKJWMyzt9jkxqeefGb.jpg",
     "media_type": "tv",
     "adult": false,
     "name": "Japanese Spiderman",
@@ -44,7 +44,7 @@ tags:
         10765
     ],
     "first_air_date": "1978-05-17",
-    "vote_average": 7.274,
+    "vote_average": 7.3,
     "origin_country": [
         "JP"
     ],

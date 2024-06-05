@@ -30,9 +30,9 @@ logo_on_black: /.netlify/functions/tmdb-image/fa6aYdjF083UV2w6V7hOAjwaqi4.webp
     "adult": false,
     "backdrop_path": "/hzr7GhCoWTeQQMKDR6LXhN8x9fs.jpg",
     "genre_ids": [
-        35,
         878,
-        12
+        28,
+        35
     ],
     "id": 533535,
     "original_language": "en",
