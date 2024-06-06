@@ -17,8 +17,8 @@ tags:
     "adult": false,
     "backdrop_path": "/ncTtBRGnohOCMKfVuu3AfzaL1xE.jpg",
     "genre_ids": [
-        878,
-        28
+        28,
+        878
     ],
     "id": 822119,
     "original_language": "en",
