@@ -34,10 +34,10 @@ logo_on_black: /.netlify/functions/tmdb-image/awXIdI6BO2hamxvjUMJTlL6fEA6.webp
     "original_language": "en",
     "original_name": "Spider-Man: The New Animated Series",
     "overview": "Bitten by an irradiated spider, teenager Peter Parker gains arachnid-like powers that make him both a hero to those in need and a vigilante wanted by the police.",
-    "poster_path": "/2b1sRCy0YKvizId8I05CkNLUOCI.jpg",
+    "poster_path": "/v3UfqXCAxAcI7oUO4zwtk1T9G3n.jpg",
     "first_air_date": "2003-07-11",
     "name": "Spider-Man: The New Animated Series",
-    "vote_average": 7.127,
+    "vote_average": 7.1,
     "title": "Spider-Man: The New Animated Series",
     "slug": "spider-man-the-new-animated-series",
     "tags": [

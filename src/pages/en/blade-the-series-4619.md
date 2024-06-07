@@ -36,7 +36,7 @@ watchLinks:
     "poster_path": "/xthJ8MoYaJROntPHaI5mUrXd4Qs.jpg",
     "first_air_date": "2006-06-28",
     "name": "Blade: The Series",
-    "vote_average": 6.521,
+    "vote_average": 6.469,
     "title": "Blade: The Series",
     "slug": "blade-the-series",
     "tags": [
