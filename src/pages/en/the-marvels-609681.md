@@ -24,7 +24,7 @@ logo_on_black: /.netlify/functions/tmdb-image/bnz17wOkp9O0c9JADOncEx0Q1sJ.webp
     "release_date": "2023-11-08",
     "title": "The Marvels",
     "video": false,
-    "vote_average": 6.1,
+    "vote_average": 6.124,
     "slug": "the-marvels",
     "tags": [
         "movie",

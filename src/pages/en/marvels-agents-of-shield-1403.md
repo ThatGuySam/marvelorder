@@ -18,7 +18,7 @@ mcuTimelineOrder: 46
 ```json
 {
     "adult": false,
-    "backdrop_path": "/80BRASQnT9KT7BkFeEI0EdeRIF3.jpg",
+    "backdrop_path": "/iWopHyAvuIDjGX10Yc3nn6UEebW.jpg",
     "genre_ids": [
         18,
         10765,
@@ -34,7 +34,7 @@ mcuTimelineOrder: 46
     "poster_path": "/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg",
     "first_air_date": "2013-09-24",
     "name": "Marvel's Agents of S.H.I.E.L.D.",
-    "vote_average": 7.485,
+    "vote_average": 7.486,
     "title": "Marvel's Agents of S.H.I.E.L.D.",
     "slug": "marvels-agents-of-shield",
     "tags": [
