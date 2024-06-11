@@ -588,10 +588,10 @@
 		"original_language": "en",
 		"original_name": "X-Men '97",
 		"overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
-		"poster_path": "/2gxb0BtvqR9abbVgmF1SaW4j1bh.jpg",
+		"poster_path": "/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg",
 		"first_air_date": "2024-03-20",
 		"name": "X-Men '97",
-		"vote_average": 8.706,
+		"vote_average": 8.7,
 		"title": "X-Men '97",
 		"slug": "x-men-97",
 		"tags": [
@@ -704,7 +704,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.1,
+		"vote_average": 6.125,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -792,7 +792,7 @@
 		"poster_path": "/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg",
 		"first_air_date": "2023-06-21",
 		"name": "Secret Invasion",
-		"vote_average": 6.791,
+		"vote_average": 6.794,
 		"title": "Secret Invasion",
 		"slug": "secret-invasion",
 		"tags": [
@@ -838,7 +838,7 @@
 		"release_date": "2023-05-31",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
-		"vote_average": 8.362,
+		"vote_average": 8.4,
 		"slug": "spider-man-across-the-spider-verse",
 		"tags": [
 			"movie",
@@ -908,7 +908,7 @@
 		"release_date": "2023-02-15",
 		"title": "Ant-Man and the Wasp: Quantumania",
 		"video": false,
-		"vote_average": 6.347,
+		"vote_average": 6.348,
 		"slug": "ant-man-and-the-wasp-quantumania",
 		"tags": [
 			"movie",
@@ -1415,7 +1415,7 @@
 		"release_date": "2022-05-04",
 		"title": "Doctor Strange in the Multiverse of Madness",
 		"video": false,
-		"vote_average": 7.302,
+		"vote_average": 7.303,
 		"slug": "doctor-strange-in-the-multiverse-of-madness",
 		"tags": [
 			"movie",
@@ -1492,7 +1492,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/NRjTMpsDwym6W7x4UCp0n5BNiV.jpg",
+		"backdrop_path": "/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -1531,7 +1531,7 @@
 		"poster_path": "/ct5pNE5dDHryHLDnxyZPYcqO1sz.jpg",
 		"first_air_date": "2021-11-24",
 		"name": "Hawkeye",
-		"vote_average": 7.888,
+		"vote_average": 7.889,
 		"title": "Hawkeye",
 		"slug": "hawkeye",
 		"tags": [
@@ -1601,7 +1601,7 @@
 		"release_date": "2021-11-03",
 		"title": "Eternals",
 		"video": false,
-		"vote_average": 6.878,
+		"vote_average": 6.879,
 		"slug": "eternals",
 		"tags": [
 			"movie",
@@ -2110,11 +2110,11 @@
 		"original_language": "en",
 		"original_title": "Once Upon a Deadpool",
 		"overview": "A kidnapped Fred Savage is forced to endure Deadpool's PG-13 rendition of Deadpool 2 as a Princess Bride-esque story that's full of magic, wonder & zero F's.",
-		"poster_path": "/5Ka49BWWyKMXr93YMbH5wLN7aAM.jpg",
+		"poster_path": "/w6Jk8BHohhoKBUcxGeSyDQGWGWc.jpg",
 		"release_date": "2018-12-11",
 		"title": "Once Upon a Deadpool",
 		"video": false,
-		"vote_average": 7.104,
+		"vote_average": 7.096,
 		"slug": "once-upon-a-deadpool",
 		"tags": [
 			"movie",
@@ -2162,7 +2162,7 @@
 		"release_date": "2018-09-28",
 		"title": "Venom",
 		"video": false,
-		"vote_average": 6.827,
+		"vote_average": 6.828,
 		"slug": "venom",
 		"tags": [
 			"movie",
@@ -2329,7 +2329,7 @@
 		"poster_path": "/zceMrfO17AQkeWJZNra4O90s1vE.jpg",
 		"first_air_date": "2017-11-21",
 		"name": "Marvel's Runaways",
-		"vote_average": 7.407,
+		"vote_average": 7.404,
 		"title": "Marvel's Runaways",
 		"slug": "marvels-runaways",
 		"tags": [
@@ -2355,7 +2355,7 @@
 		"poster_path": "/tM6xqRKXoloH9UchaJEyyRE9O1w.jpg",
 		"first_air_date": "2017-11-17",
 		"name": "Marvel's The Punisher",
-		"vote_average": 8.111,
+		"vote_average": 8.112,
 		"title": "Marvel's The Punisher",
 		"slug": "marvels-the-punisher",
 		"tags": [
@@ -2775,7 +2775,7 @@
 		"release_date": "2016-05-18",
 		"title": "X-Men: Apocalypse",
 		"video": false,
-		"vote_average": 6.513,
+		"vote_average": 6.5,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"movie",
@@ -2819,11 +2819,11 @@
 		"original_language": "en",
 		"original_title": "Deadpool",
 		"overview": "The origin story of former Special Forces operative turned mercenary Wade Wilson, who, after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
-		"poster_path": "/fSRb7vyIP8rQpL0I47P3qUsEKX3.jpg",
+		"poster_path": "/3E53WEZJqP6aM84D8CckXx4pIHw.jpg",
 		"release_date": "2016-02-09",
 		"title": "Deadpool",
 		"video": false,
-		"vote_average": 7.613,
+		"vote_average": 7.612,
 		"slug": "deadpool",
 		"tags": [
 			"movie",
@@ -2965,7 +2965,7 @@
 		"poster_path": "/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
 		"first_air_date": "2015-04-10",
 		"name": "Marvel's Daredevil",
-		"vote_average": 8.163,
+		"vote_average": 8.2,
 		"title": "Marvel's Daredevil",
 		"slug": "marvels-daredevil",
 		"tags": [
@@ -3291,7 +3291,7 @@
 		"release_date": "2014-03-20",
 		"title": "Captain America: The Winter Soldier",
 		"video": false,
-		"vote_average": 7.664,
+		"vote_average": 7.7,
 		"slug": "captain-america-the-winter-soldier",
 		"tags": [
 			"movie",
@@ -3777,7 +3777,7 @@
 		"release_date": "2011-07-22",
 		"title": "Captain America: The First Avenger",
 		"video": false,
-		"vote_average": 6.999,
+		"vote_average": 7,
 		"slug": "captain-america-the-first-avenger",
 		"tags": [
 			"movie",
@@ -4101,7 +4101,7 @@
 		"release_date": "2009-01-27",
 		"title": "Hulk vs. Wolverine",
 		"video": false,
-		"vote_average": 7.058,
+		"vote_average": 7.07,
 		"slug": "hulk-vs-wolverine",
 		"tags": [
 			"movie",
@@ -4247,7 +4247,7 @@
 		"release_date": "2008-04-30",
 		"title": "Iron Man",
 		"video": false,
-		"vote_average": 7.643,
+		"vote_average": 7.6,
 		"slug": "iron-man",
 		"tags": [
 			"movie",
@@ -4636,7 +4636,7 @@
 		"release_date": "2004-06-25",
 		"title": "Spider-Man 2",
 		"video": false,
-		"vote_average": 7.274,
+		"vote_average": 7.275,
 		"slug": "spider-man-2",
 		"tags": [
 			"movie",
@@ -4709,7 +4709,7 @@
 		"release_date": "2003-06-19",
 		"title": "Hulk",
 		"video": false,
-		"vote_average": 5.5,
+		"vote_average": 5.548,
 		"slug": "hulk",
 		"tags": [
 			"movie",
@@ -4803,7 +4803,7 @@
 		"poster_path": "/yiKg027jdpkSsguVBI9WqliNWez.jpg",
 		"first_air_date": "2001-10-06",
 		"name": "Mutant X",
-		"vote_average": 6.5,
+		"vote_average": 6.515,
 		"title": "Mutant X",
 		"slug": "mutant-x",
 		"tags": [
@@ -5040,7 +5040,7 @@
 		],
 		"release_date": "1996-02-20",
 		"video": false,
-		"vote_average": 3.9,
+		"vote_average": 3.972,
 		"slug": "generation-x",
 		"tags": [
 			"list-8204860",
@@ -5164,7 +5164,7 @@
 			10759
 		],
 		"first_air_date": "1992-10-31",
-		"vote_average": 8.194,
+		"vote_average": 8.2,
 		"origin_country": [
 			"US"
 		],
