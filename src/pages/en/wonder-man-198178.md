@@ -16,8 +16,7 @@ Other titles
     "adult": false,
     "backdrop_path": null,
     "genre_ids": [
-        35,
-        10765
+        35
     ],
     "id": 198178,
     "origin_country": [

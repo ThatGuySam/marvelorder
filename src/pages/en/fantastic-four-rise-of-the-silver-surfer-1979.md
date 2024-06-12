@@ -32,7 +32,7 @@ watchLinks:
     "release_date": "2007-06-13",
     "title": "Fantastic Four: Rise of the Silver Surfer",
     "video": false,
-    "vote_average": 5.605,
+    "vote_average": 5.604,
     "slug": "fantastic-four-rise-of-the-silver-surfer",
     "tags": [
         "movie",

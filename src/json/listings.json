@@ -78,8 +78,7 @@
 		"adult": false,
 		"backdrop_path": null,
 		"genre_ids": [
-			35,
-			10765
+			35
 		],
 		"id": 198178,
 		"origin_country": [
@@ -447,7 +446,7 @@
 		"original_language": "en",
 		"original_title": "The Fantastic Four",
 		"overview": "Set in the Marvel Cinematic Universe (MCU) and based on the Marvel Comics characters of the same name.",
-		"poster_path": "/7SgJZBRNsqMhnducsPNLZ0csFrd.jpg",
+		"poster_path": "/f0GOTglN9lVP7gUXP1tXBboonHN.jpg",
 		"release_date": "2025-07-24",
 		"title": "The Fantastic Four",
 		"video": false,
@@ -591,7 +590,7 @@
 		"poster_path": "/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg",
 		"first_air_date": "2024-03-20",
 		"name": "X-Men '97",
-		"vote_average": 8.7,
+		"vote_average": 8.713,
 		"title": "X-Men '97",
 		"slug": "x-men-97",
 		"tags": [
@@ -704,7 +703,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.125,
+		"vote_average": 6.128,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -838,7 +837,7 @@
 		"release_date": "2023-05-31",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
-		"vote_average": 8.4,
+		"vote_average": 8.362,
 		"slug": "spider-man-across-the-spider-verse",
 		"tags": [
 			"movie",
@@ -861,7 +860,7 @@
 		"release_date": "2023-05-03",
 		"title": "Guardians of the Galaxy Vol. 3",
 		"video": false,
-		"vote_average": 7.974,
+		"vote_average": 7.975,
 		"slug": "guardians-of-the-galaxy-vol-3",
 		"tags": [
 			"movie",
@@ -908,7 +907,7 @@
 		"release_date": "2023-02-15",
 		"title": "Ant-Man and the Wasp: Quantumania",
 		"video": false,
-		"vote_average": 6.348,
+		"vote_average": 6.3,
 		"slug": "ant-man-and-the-wasp-quantumania",
 		"tags": [
 			"movie",
@@ -1110,7 +1109,7 @@
 		"poster_path": "/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
 		"first_air_date": "2022-08-18",
 		"name": "She-Hulk: Attorney at Law",
-		"vote_average": 6.278,
+		"vote_average": 6.28,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
 		"tags": [
@@ -1440,7 +1439,7 @@
 		"poster_path": "/YksR65as1ppF2N48TJAh2PLamX.jpg",
 		"first_air_date": "2022-03-30",
 		"name": "Moon Knight",
-		"vote_average": 7.727,
+		"vote_average": 7.728,
 		"title": "Moon Knight",
 		"slug": "moon-knight",
 		"tags": [
@@ -1649,7 +1648,7 @@
 		"poster_path": "/rWg4Jk7NwVEz2BtU1aKKDoDJPeB.jpg",
 		"first_air_date": "2021-08-11",
 		"name": "What If...?",
-		"vote_average": 8.161,
+		"vote_average": 8.16,
 		"title": "What If...?",
 		"slug": "what-if",
 		"tags": [
@@ -2020,7 +2019,7 @@
 		"release_date": "2019-06-28",
 		"title": "Spider-Man: Far From Home",
 		"video": false,
-		"vote_average": 7.428,
+		"vote_average": 7.4,
 		"slug": "spider-man-far-from-home",
 		"tags": [
 			"movie",
@@ -2068,7 +2067,7 @@
 		"release_date": "2019-04-24",
 		"title": "Avengers: Endgame",
 		"video": false,
-		"vote_average": 8.254,
+		"vote_average": 8.253,
 		"slug": "avengers-endgame",
 		"tags": [
 			"movie",
@@ -2114,7 +2113,7 @@
 		"release_date": "2018-12-11",
 		"title": "Once Upon a Deadpool",
 		"video": false,
-		"vote_average": 7.096,
+		"vote_average": 7.097,
 		"slug": "once-upon-a-deadpool",
 		"tags": [
 			"movie",
@@ -2259,7 +2258,7 @@
 		"release_date": "2018-04-25",
 		"title": "Avengers: Infinity War",
 		"video": false,
-		"vote_average": 8.246,
+		"vote_average": 8.2,
 		"slug": "avengers-infinity-war",
 		"tags": [
 			"movie",
@@ -2556,7 +2555,7 @@
 		],
 		"release_date": "2017-03-03",
 		"video": false,
-		"vote_average": 7.137,
+		"vote_average": 7.135,
 		"slug": "deadpool-no-good-deed",
 		"tags": [
 			"list-8204860"
@@ -2702,7 +2701,7 @@
 		"release_date": "2016-10-25",
 		"title": "Doctor Strange",
 		"video": false,
-		"vote_average": 7.421,
+		"vote_average": 7.422,
 		"slug": "doctor-strange",
 		"tags": [
 			"movie",
@@ -2965,7 +2964,7 @@
 		"poster_path": "/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
 		"first_air_date": "2015-04-10",
 		"name": "Marvel's Daredevil",
-		"vote_average": 8.2,
+		"vote_average": 8.163,
 		"title": "Marvel's Daredevil",
 		"slug": "marvels-daredevil",
 		"tags": [
@@ -3291,7 +3290,7 @@
 		"release_date": "2014-03-20",
 		"title": "Captain America: The Winter Soldier",
 		"video": false,
-		"vote_average": 7.7,
+		"vote_average": 7.664,
 		"slug": "captain-america-the-winter-soldier",
 		"tags": [
 			"movie",
@@ -3638,7 +3637,7 @@
 		"release_date": "2012-06-23",
 		"title": "The Amazing Spider-Man",
 		"video": false,
-		"vote_average": 6.702,
+		"vote_average": 6.7,
 		"slug": "the-amazing-spider-man",
 		"tags": [
 			"movie",
@@ -3777,7 +3776,7 @@
 		"release_date": "2011-07-22",
 		"title": "Captain America: The First Avenger",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 6.999,
 		"slug": "captain-america-the-first-avenger",
 		"tags": [
 			"movie",
@@ -3901,7 +3900,7 @@
 		"poster_path": "/8MwwAuDy6dc1GbiBUZdvWtQczqR.jpg",
 		"first_air_date": "2010-10-20",
 		"name": "The Avengers: Earth's Mightiest Heroes",
-		"vote_average": 8.163,
+		"vote_average": 8.16,
 		"title": "The Avengers: Earth's Mightiest Heroes",
 		"slug": "the-avengers-earths-mightiest-heroes",
 		"tags": [
@@ -4042,11 +4041,11 @@
 		"original_language": "en",
 		"original_title": "X-Men Origins: Wolverine",
 		"overview": "After seeking to live a normal life, Logan sets out to avenge the death of his girlfriend by undergoing the mutant Weapon X program and becoming Wolverine.",
-		"poster_path": "/yj8LbTju1p7CUJg7US2unSBk33s.jpg",
+		"poster_path": "/sm9ioPuNZ1OXXNOLMGyRdpY8GFL.jpg",
 		"release_date": "2009-04-28",
 		"title": "X-Men Origins: Wolverine",
 		"video": false,
-		"vote_average": 6.264,
+		"vote_average": 6.3,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"movie",
@@ -4247,7 +4246,7 @@
 		"release_date": "2008-04-30",
 		"title": "Iron Man",
 		"video": false,
-		"vote_average": 7.6,
+		"vote_average": 7.643,
 		"slug": "iron-man",
 		"tags": [
 			"movie",
@@ -4322,7 +4321,7 @@
 		"release_date": "2007-06-13",
 		"title": "Fantastic Four: Rise of the Silver Surfer",
 		"video": false,
-		"vote_average": 5.605,
+		"vote_average": 5.604,
 		"slug": "fantastic-four-rise-of-the-silver-surfer",
 		"tags": [
 			"movie",
@@ -4417,7 +4416,7 @@
 		"release_date": "2007-01-15",
 		"title": "Ghost Rider",
 		"video": false,
-		"vote_average": 5.564,
+		"vote_average": 5.565,
 		"slug": "ghost-rider",
 		"tags": [
 			"movie",
@@ -4519,7 +4518,7 @@
 		"release_date": "2006-05-24",
 		"title": "X-Men: The Last Stand",
 		"video": false,
-		"vote_average": 6.409,
+		"vote_average": 6.4,
 		"slug": "x-men-the-last-stand",
 		"tags": [
 			"movie",
@@ -4732,7 +4731,7 @@
 		"release_date": "2003-04-27",
 		"title": "X2",
 		"video": false,
-		"vote_average": 7.03,
+		"vote_average": 7,
 		"slug": "x2",
 		"tags": [
 			"movie",
@@ -4860,7 +4859,7 @@
 		],
 		"release_date": "2000-07-13",
 		"video": false,
-		"vote_average": 7.002,
+		"vote_average": 7,
 		"slug": "x-men",
 		"tags": [
 			"list-8204860"
@@ -5164,7 +5163,7 @@
 			10759
 		],
 		"first_air_date": "1992-10-31",
-		"vote_average": 8.2,
+		"vote_average": 8.194,
 		"origin_country": [
 			"US"
 		],
