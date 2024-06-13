@@ -31,7 +31,7 @@ mcuTimelineOrder: 375
     "release_date": "2016-10-25",
     "title": "Doctor Strange",
     "video": false,
-    "vote_average": 7.422,
+    "vote_average": 7.421,
     "slug": "doctor-strange",
     "tags": [
         "movie",
