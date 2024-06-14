@@ -35,7 +35,7 @@ mcuTimelineOrder: 548
     "release_date": "2014-04-16",
     "title": "The Amazing Spider-Man 2",
     "video": false,
-    "vote_average": 6.508,
+    "vote_average": 6.5,
     "slug": "the-amazing-spider-man-2",
     "tags": [
         "movie",
