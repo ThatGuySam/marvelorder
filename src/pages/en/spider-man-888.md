@@ -18,7 +18,7 @@ watchLinks:
     "id": 888,
     "original_name": "Spider-Man",
     "overview": "Bitten by a neogenetic spider, Peter Parker develops spider-like superpowers. He uses these to fight crime while trying to balance it with the struggles of his personal life.",
-    "poster_path": "/peN9aqevr0edVoctVKGZDWFdTRl.jpg",
+    "poster_path": "/m78QRL6puLJ9pXSQ8XMd3dVKOOW.jpg",
     "media_type": "tv",
     "adult": false,
     "name": "Spider-Man",
