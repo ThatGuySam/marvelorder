@@ -18,7 +18,7 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/42jCFhJyYt8GhE3WAOkzK3rZABt.jpg",
+    "backdrop_path": "/pvqasfLg6ALyTV1bAlg4hkrCdVu.jpg",
     "genre_ids": [
         10765,
         10759,
@@ -34,7 +34,7 @@ watchLinks:
     "poster_path": "/bwJej7WdmGRMCMyuDlotwAqVX7S.jpg",
     "first_air_date": "2016-12-13",
     "name": "Marvel's Agents of S.H.I.E.L.D.: Slingshot",
-    "vote_average": 7.172,
+    "vote_average": 7.2,
     "title": "Marvel's Agents of S.H.I.E.L.D.: Slingshot",
     "slug": "marvels-agents-of-shield-slingshot",
     "tags": [

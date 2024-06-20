@@ -28,7 +28,7 @@ watchLinks:
     "release_date": "2012-08-29",
     "title": "Marvel One-Shot: Item 47",
     "video": false,
-    "vote_average": 6.447,
+    "vote_average": 6.448,
     "slug": "marvel-one-shot-item-47",
     "tags": [
         "movie",
