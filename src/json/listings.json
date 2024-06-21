@@ -113,7 +113,7 @@
 		"original_language": "en",
 		"original_name": "Daredevil: Born Again",
 		"overview": "An upcoming Disney+ series that is a continuation of Daredevil (2015-2018) and Echo (2024) starring Charlie Cox as Matt Murdock.",
-		"poster_path": "/d7E7Z8Q5sbT3lDGUI1RiNcqOuxj.jpg",
+		"poster_path": "/t2MKhbLkSlMduIukClOXFMK9LhP.jpg",
 		"first_air_date": "",
 		"name": "Daredevil: Born Again",
 		"vote_average": 0,
@@ -423,7 +423,7 @@
 		"id": 617127,
 		"original_language": "en",
 		"original_title": "Blade",
-		"overview": "A film set in the Marvel Cinematic Universe (MCU) based on the Marvel Comics character of the same name.",
+		"overview": "A film set in the Marvel Cinematic Universe (MCU) based on the Marvel Comics character of the same name, set in present day.",
 		"poster_path": "/fKqA4rgVJwrM7Gb3tQ9TGHnu8Tr.jpg",
 		"release_date": "2025-11-05",
 		"title": "Blade",
@@ -590,7 +590,7 @@
 		"poster_path": "/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg",
 		"first_air_date": "2024-03-20",
 		"name": "X-Men '97",
-		"vote_average": 8.724,
+		"vote_average": 8.728,
 		"title": "X-Men '97",
 		"slug": "x-men-97",
 		"tags": [
@@ -703,7 +703,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.126,
+		"vote_average": 6.1,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -837,7 +837,7 @@
 		"release_date": "2023-05-31",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
-		"vote_average": 8.4,
+		"vote_average": 8.363,
 		"slug": "spider-man-across-the-spider-verse",
 		"tags": [
 			"movie",
@@ -976,7 +976,7 @@
 		"release_date": "2022-11-25",
 		"title": "The Guardians of the Galaxy Holiday Special",
 		"video": false,
-		"vote_average": 7.17,
+		"vote_average": 7.2,
 		"slug": "the-guardians-of-the-galaxy-holiday-special",
 		"tags": [
 			"movie",
@@ -999,7 +999,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 7.124,
+		"vote_average": 7.123,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -1064,7 +1064,7 @@
 		"release_date": "2022-09-25",
 		"title": "Werewolf by Night",
 		"video": false,
-		"vote_average": 6.987,
+		"vote_average": 7,
 		"slug": "werewolf-by-night",
 		"tags": [
 			"movie",
@@ -1288,7 +1288,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/coxMHDtNRcyNmriZFCxpwqmlxjS.jpg",
+		"backdrop_path": "/2YKuCnkqOPvHV1mrxwU3RzX0QY0.jpg",
 		"genre_ids": [
 			99
 		],
@@ -1348,7 +1348,7 @@
 		"poster_path": "/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
 		"first_air_date": "2022-06-08",
 		"name": "Ms. Marvel",
-		"vote_average": 6.477,
+		"vote_average": 6.481,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
 		"tags": [
@@ -1439,7 +1439,7 @@
 		"poster_path": "/YksR65as1ppF2N48TJAh2PLamX.jpg",
 		"first_air_date": "2022-03-30",
 		"name": "Moon Knight",
-		"vote_average": 7.7,
+		"vote_average": 7.727,
 		"title": "Moon Knight",
 		"slug": "moon-knight",
 		"tags": [
@@ -1699,7 +1699,7 @@
 		"release_date": "2021-07-07",
 		"title": "Black Widow",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.253,
 		"slug": "black-widow",
 		"tags": [
 			"movie",
@@ -1723,7 +1723,7 @@
 		"poster_path": "/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg",
 		"first_air_date": "2021-06-09",
 		"name": "Loki",
-		"vote_average": 8.2,
+		"vote_average": 8.177,
 		"title": "Loki",
 		"slug": "loki",
 		"tags": [
@@ -1825,7 +1825,7 @@
 		"poster_path": "/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
 		"first_air_date": "2021-01-15",
 		"name": "WandaVision",
-		"vote_average": 8.236,
+		"vote_average": 8.2,
 		"title": "WandaVision",
 		"slug": "wandavision",
 		"tags": [
@@ -2258,7 +2258,7 @@
 		"release_date": "2018-04-25",
 		"title": "Avengers: Infinity War",
 		"video": false,
-		"vote_average": 8.2,
+		"vote_average": 8.246,
 		"slug": "avengers-infinity-war",
 		"tags": [
 			"movie",
@@ -2302,7 +2302,7 @@
 		"release_date": "2018-02-13",
 		"title": "Black Panther",
 		"video": false,
-		"vote_average": 7.4,
+		"vote_average": 7.384,
 		"slug": "black-panther",
 		"tags": [
 			"movie",
@@ -2328,7 +2328,7 @@
 		"poster_path": "/zceMrfO17AQkeWJZNra4O90s1vE.jpg",
 		"first_air_date": "2017-11-21",
 		"name": "Marvel's Runaways",
-		"vote_average": 7.404,
+		"vote_average": 7.407,
 		"title": "Marvel's Runaways",
 		"slug": "marvels-runaways",
 		"tags": [
@@ -2406,7 +2406,7 @@
 		"release_date": "2017-10-02",
 		"title": "Thor: Ragnarok",
 		"video": false,
-		"vote_average": 7.6,
+		"vote_average": 7.592,
 		"slug": "thor-ragnarok",
 		"tags": [
 			"movie",
@@ -2799,7 +2799,7 @@
 		"release_date": "2016-04-27",
 		"title": "Captain America: Civil War",
 		"video": false,
-		"vote_average": 7.442,
+		"vote_average": 7.4,
 		"slug": "captain-america-civil-war",
 		"tags": [
 			"movie",
@@ -3147,7 +3147,7 @@
 		"release_date": "2014-07-30",
 		"title": "Guardians of the Galaxy",
 		"video": false,
-		"vote_average": 7.9,
+		"vote_average": 7.908,
 		"slug": "guardians-of-the-galaxy",
 		"tags": [
 			"movie",
@@ -3241,7 +3241,7 @@
 		"release_date": "2014-04-16",
 		"title": "The Amazing Spider-Man 2",
 		"video": false,
-		"vote_average": 6.508,
+		"vote_average": 6.509,
 		"slug": "the-amazing-spider-man-2",
 		"tags": [
 			"movie",
@@ -3290,7 +3290,7 @@
 		"release_date": "2014-03-20",
 		"title": "Captain America: The Winter Soldier",
 		"video": false,
-		"vote_average": 7.664,
+		"vote_average": 7.663,
 		"slug": "captain-america-the-winter-soldier",
 		"tags": [
 			"movie",
@@ -3637,7 +3637,7 @@
 		"release_date": "2012-06-23",
 		"title": "The Amazing Spider-Man",
 		"video": false,
-		"vote_average": 6.702,
+		"vote_average": 6.7,
 		"slug": "the-amazing-spider-man",
 		"tags": [
 			"movie",
@@ -4222,7 +4222,7 @@
 		"release_date": "2008-06-12",
 		"title": "The Incredible Hulk",
 		"video": false,
-		"vote_average": 6.2,
+		"vote_average": 6.209,
 		"slug": "the-incredible-hulk",
 		"tags": [
 			"movie",
@@ -4246,7 +4246,7 @@
 		"release_date": "2008-04-30",
 		"title": "Iron Man",
 		"video": false,
-		"vote_average": 7.644,
+		"vote_average": 7.6,
 		"slug": "iron-man",
 		"tags": [
 			"movie",
@@ -4321,7 +4321,7 @@
 		"release_date": "2007-06-13",
 		"title": "Fantastic Four: Rise of the Silver Surfer",
 		"video": false,
-		"vote_average": 5.604,
+		"vote_average": 5.605,
 		"slug": "fantastic-four-rise-of-the-silver-surfer",
 		"tags": [
 			"movie",
@@ -4543,7 +4543,7 @@
 		"release_date": "2005-06-29",
 		"title": "Fantastic Four",
 		"video": false,
-		"vote_average": 5.782,
+		"vote_average": 5.8,
 		"slug": "fantastic-four",
 		"tags": [
 			"movie",
@@ -4589,7 +4589,7 @@
 		"release_date": "2005-01-13",
 		"title": "Elektra",
 		"video": false,
-		"vote_average": 5.042,
+		"vote_average": 5,
 		"slug": "elektra",
 		"tags": [
 			"movie",
@@ -4755,7 +4755,7 @@
 		"release_date": "2003-02-14",
 		"title": "Daredevil",
 		"video": false,
-		"vote_average": 5.261,
+		"vote_average": 5.3,
 		"slug": "daredevil",
 		"tags": [
 			"movie",
@@ -4935,7 +4935,7 @@
 		"release_date": "1998-05-26",
 		"title": "Nick Fury: Agent of S.H.I.E.L.D.",
 		"video": false,
-		"vote_average": 4.5,
+		"vote_average": 4.617,
 		"slug": "nick-fury-agent-of-shield",
 		"tags": [
 			"movie",
