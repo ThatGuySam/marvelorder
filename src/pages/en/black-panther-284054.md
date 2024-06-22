@@ -36,7 +36,7 @@ mcuTimelineOrder: 239
     "release_date": "2018-02-13",
     "title": "Black Panther",
     "video": false,
-    "vote_average": 7.384,
+    "vote_average": 7.4,
     "slug": "black-panther",
     "tags": [
         "movie",
