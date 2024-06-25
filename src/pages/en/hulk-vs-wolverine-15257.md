@@ -53,7 +53,7 @@ tags:
     "release_date": "2009-01-27",
     "title": "Hulk vs. Wolverine",
     "video": false,
-    "vote_average": 7.07,
+    "vote_average": 7.074,
     "slug": "hulk-vs-wolverine",
     "tags": [
         "movie",
