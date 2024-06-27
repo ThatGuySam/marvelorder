@@ -17,12 +17,12 @@ poster_path: /5B4z5Ch5Dek8hQJ7UlIVZgWLntV.jpg
 {
     "backdrop_path": "/kw4GhCZP5NeMVsfPol6HcX9JEeQ.jpg",
     "id": 50468,
+    "title": "Dr. Strange",
     "original_title": "Dr. Strange",
     "overview": "A psychiatrist becomes the new Sorcerer Supreme of the Earth in order to battle an evil Sorceress from the past.",
     "poster_path": "/hEyHVgBE28Jl13h2Qpbr3LH77sP.jpg",
     "media_type": "movie",
     "adult": false,
-    "title": "Dr. Strange",
     "original_language": "en",
     "genre_ids": [
         10770,

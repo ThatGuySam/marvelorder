@@ -19,12 +19,12 @@ tags:
 {
     "backdrop_path": "/bRlsLlie6DXLAnHBg8IwfOAN87z.jpg",
     "id": 26881,
+    "title": "The Incredible Hulk Returns",
     "original_title": "The Incredible Hulk Returns",
     "overview": "Dr. David Banner meets a former student, who has a magical hammer that summons Thor, a Norse god who is prevented from entering Valhalla. When the two superheroes stop feuding long enough to breathe, they are a team unmatched by any of their enemies.",
     "poster_path": "/dw7eBKL26HEkA89BKvNVsjx7gGL.jpg",
     "media_type": "movie",
     "adult": false,
-    "title": "The Incredible Hulk Returns",
     "original_language": "en",
     "genre_ids": [
         28,

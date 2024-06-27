@@ -16,12 +16,12 @@ watchLinks:
 {
     "backdrop_path": "/tbZO6k6JXMAhCv9NLXS1lGYxxiy.jpg",
     "id": 26623,
+    "title": "Generation X",
     "original_title": "Generation X",
     "overview": "A group of young mutants--humans with a genetic variation that gives them superpowers and makes them feared by the population at large--begin training at a school for heroes. Their studies are interrupted when they must rescue one of their number from a mad scientist who can enter others' dreams.",
     "poster_path": "/wqkTCfznNXtYO9UnnxComqhhHRP.jpg",
     "media_type": "movie",
     "adult": false,
-    "title": "Generation X",
     "original_language": "en",
     "genre_ids": [
         10770,

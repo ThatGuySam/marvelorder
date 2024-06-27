@@ -17,12 +17,12 @@ watchLinks:
 {
     "backdrop_path": "/vNz1LTGnXY9YPqdTEnK7FbRYD7w.jpg",
     "id": 19593,
+    "title": "The Death of the Incredible Hulk",
     "original_title": "The Death of the Incredible Hulk",
     "overview": "During the critical experiment that would rid David Banner of the Hulk,a spy sabotages the laboratory. Banner falls in love with the spy, Jasmin, who performs missions only because her sister is being held hostage by Jasmin's superiors. Banner and Jasmin try to escape from the enemy agents to rebuild their lives together, but the Hulk is never far from them.",
     "poster_path": "/6q6CviMLR97ssODmKhxgyxQuoYp.jpg",
     "media_type": "movie",
     "adult": false,
-    "title": "The Death of the Incredible Hulk",
     "original_language": "en",
     "genre_ids": [
         28,
