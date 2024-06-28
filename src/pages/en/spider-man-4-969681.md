@@ -36,7 +36,7 @@ tags:
     "original_language": "en",
     "original_title": "Spider-Man 4",
     "overview": "The next installment of the MCU Spider-Man franchise: a sequel to \"Spider-Man: No Way Home\" and the first in a possible new trilogy. Plot unknown.",
-    "poster_path": null,
+    "poster_path": "/lwwOJPeV0jkd5HBi7uBn6PZfe43.jpg",
     "release_date": "",
     "title": "Spider-Man 4",
     "video": false,

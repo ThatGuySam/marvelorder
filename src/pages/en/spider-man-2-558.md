@@ -15,7 +15,7 @@ logo_on_black: >-
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B000I9YV2Q?tag=marvelorder-20&linkCode=osi&th=1&psc=1
-mcuTimelineOrder: 545
+mcuTimelineOrder: 546
 ---
 ## TMDB Data
 ```json
@@ -35,7 +35,7 @@ mcuTimelineOrder: 545
     "release_date": "2004-06-25",
     "title": "Spider-Man 2",
     "video": false,
-    "vote_average": 7.276,
+    "vote_average": 7.277,
     "slug": "spider-man-2",
     "tags": [
         "movie",
