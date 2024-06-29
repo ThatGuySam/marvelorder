@@ -590,7 +590,7 @@
 		"poster_path": "/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg",
 		"first_air_date": "2024-03-20",
 		"name": "X-Men '97",
-		"vote_average": 8.736,
+		"vote_average": 8.734,
 		"title": "X-Men '97",
 		"slug": "x-men-97",
 		"tags": [
@@ -703,7 +703,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.127,
+		"vote_average": 6.126,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -791,7 +791,7 @@
 		"poster_path": "/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg",
 		"first_air_date": "2023-06-21",
 		"name": "Secret Invasion",
-		"vote_average": 6.8,
+		"vote_average": 6.783,
 		"title": "Secret Invasion",
 		"slug": "secret-invasion",
 		"tags": [
@@ -837,7 +837,7 @@
 		"release_date": "2023-05-31",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
-		"vote_average": 8.364,
+		"vote_average": 8.365,
 		"slug": "spider-man-across-the-spider-verse",
 		"tags": [
 			"movie",
@@ -860,7 +860,7 @@
 		"release_date": "2023-05-03",
 		"title": "Guardians of the Galaxy Vol. 3",
 		"video": false,
-		"vote_average": 7.976,
+		"vote_average": 7.975,
 		"slug": "guardians-of-the-galaxy-vol-3",
 		"tags": [
 			"movie",
@@ -999,7 +999,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7.122,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -1064,7 +1064,7 @@
 		"release_date": "2022-09-25",
 		"title": "Werewolf by Night",
 		"video": false,
-		"vote_average": 6.984,
+		"vote_average": 6.983,
 		"slug": "werewolf-by-night",
 		"tags": [
 			"movie",
@@ -1109,7 +1109,7 @@
 		"poster_path": "/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
 		"first_air_date": "2022-08-18",
 		"name": "She-Hulk: Attorney at Law",
-		"vote_average": 6.276,
+		"vote_average": 6.278,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
 		"tags": [
@@ -1323,7 +1323,7 @@
 		"release_date": "2022-07-06",
 		"title": "Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 6.464,
+		"vote_average": 6.463,
 		"slug": "thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -1414,7 +1414,7 @@
 		"release_date": "2022-05-04",
 		"title": "Doctor Strange in the Multiverse of Madness",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.301,
 		"slug": "doctor-strange-in-the-multiverse-of-madness",
 		"tags": [
 			"movie",
@@ -1439,7 +1439,7 @@
 		"poster_path": "/YksR65as1ppF2N48TJAh2PLamX.jpg",
 		"first_air_date": "2022-03-30",
 		"name": "Moon Knight",
-		"vote_average": 7.728,
+		"vote_average": 7.727,
 		"title": "Moon Knight",
 		"slug": "moon-knight",
 		"tags": [
@@ -1530,7 +1530,7 @@
 		"poster_path": "/ct5pNE5dDHryHLDnxyZPYcqO1sz.jpg",
 		"first_air_date": "2021-11-24",
 		"name": "Hawkeye",
-		"vote_average": 7.889,
+		"vote_average": 7.888,
 		"title": "Hawkeye",
 		"slug": "hawkeye",
 		"tags": [
@@ -2019,7 +2019,7 @@
 		"release_date": "2019-06-28",
 		"title": "Spider-Man: Far From Home",
 		"video": false,
-		"vote_average": 7.429,
+		"vote_average": 7.428,
 		"slug": "spider-man-far-from-home",
 		"tags": [
 			"movie",
@@ -2090,7 +2090,7 @@
 		"release_date": "2019-03-06",
 		"title": "Captain Marvel",
 		"video": false,
-		"vote_average": 6.819,
+		"vote_average": 6.82,
 		"slug": "captain-marvel",
 		"tags": [
 			"movie",
@@ -2354,7 +2354,7 @@
 		"poster_path": "/tM6xqRKXoloH9UchaJEyyRE9O1w.jpg",
 		"first_air_date": "2017-11-17",
 		"name": "Marvel's The Punisher",
-		"vote_average": 8.115,
+		"vote_average": 8.116,
 		"title": "Marvel's The Punisher",
 		"slug": "marvels-the-punisher",
 		"tags": [
@@ -2457,7 +2457,7 @@
 		"poster_path": "/49XzINhH4LFsgz7cx6TOPcHUJUL.jpg",
 		"first_air_date": "2017-08-18",
 		"name": "Marvel's The Defenders",
-		"vote_average": 7.071,
+		"vote_average": 7.069,
 		"title": "Marvel's The Defenders",
 		"slug": "marvels-the-defenders",
 		"tags": [
@@ -3147,7 +3147,7 @@
 		"release_date": "2014-07-30",
 		"title": "Guardians of the Galaxy",
 		"video": false,
-		"vote_average": 7.908,
+		"vote_average": 7.9,
 		"slug": "guardians-of-the-galaxy",
 		"tags": [
 			"movie",
@@ -3379,7 +3379,7 @@
 		"release_date": "2013-10-30",
 		"title": "Thor: The Dark World",
 		"video": false,
-		"vote_average": 6.527,
+		"vote_average": 6.5,
 		"slug": "thor-the-dark-world",
 		"tags": [
 			"movie",
@@ -3404,7 +3404,7 @@
 		"poster_path": "/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg",
 		"first_air_date": "2013-09-24",
 		"name": "Marvel's Agents of S.H.I.E.L.D.",
-		"vote_average": 7.5,
+		"vote_average": 7.484,
 		"title": "Marvel's Agents of S.H.I.E.L.D.",
 		"slug": "marvels-agents-of-shield",
 		"tags": [
@@ -4208,6 +4208,30 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": "/8n8wZG09yWn9vLgyg6afnkRNW94.jpg",
+		"genre_ids": [
+			28,
+			878,
+			10749,
+			18
+		],
+		"id": 1309972,
+		"original_language": "en",
+		"original_title": "The Incredible Hulk: Edward Norton Cut",
+		"overview": "Scientist Bruce Banner (Edward Norton) desperately seeks a cure for the gamma radiation that contaminated his cells and turned him into The Hulk. Cut off from his true love Betty Ross (Liv Tyler) and forced to hide from his nemesis, Gen. Thunderbolt Ross (William Hurt), Banner soon comes face-to-face with a new threat: a supremely powerful enemy known as The Abomination (Tim Roth).",
+		"poster_path": "/8JOPuQLRI1Ud8uDsPyVaNaJ0EBP.jpg",
+		"release_date": "2008-06-13",
+		"title": "The Incredible Hulk: Edward Norton Cut",
+		"video": false,
+		"vote_average": 0,
+		"slug": "the-incredible-hulk-edward-norton-cut",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/xfBnQ4mgf1jYZsscJGJjr6ce0Ar.jpg",
 		"genre_ids": [
 			878,
@@ -4273,7 +4297,7 @@
 		"poster_path": "/dCNxOhXT7c4lqYuRpdM3m8s9XDp.jpg",
 		"first_air_date": "2008-03-08",
 		"name": "The Spectacular Spider-Man",
-		"vote_average": 8.58,
+		"vote_average": 8.582,
 		"title": "The Spectacular Spider-Man",
 		"slug": "the-spectacular-spider-man",
 		"tags": [
@@ -4708,7 +4732,7 @@
 		"release_date": "2003-06-19",
 		"title": "Hulk",
 		"video": false,
-		"vote_average": 5.547,
+		"vote_average": 5.548,
 		"slug": "hulk",
 		"tags": [
 			"movie",
@@ -5140,7 +5164,7 @@
 		],
 		"release_date": "1994-05-31",
 		"video": false,
-		"vote_average": 4.357,
+		"vote_average": 4.4,
 		"slug": "the-fantastic-four",
 		"tags": [
 			"list-8204862"
@@ -5163,7 +5187,7 @@
 			10759
 		],
 		"first_air_date": "1992-10-31",
-		"vote_average": 8.193,
+		"vote_average": 8.194,
 		"origin_country": [
 			"US"
 		],
