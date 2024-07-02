@@ -113,7 +113,7 @@
 		"original_language": "en",
 		"original_name": "Daredevil: Born Again",
 		"overview": "An upcoming Disney+ series that is a continuation of Daredevil (2015-2018) and Echo (2024) starring Charlie Cox as Matt Murdock.",
-		"poster_path": "/t2MKhbLkSlMduIukClOXFMK9LhP.jpg",
+		"poster_path": "/7WvCS7HFLQtJHI7DT9CjpUirLXK.jpg",
 		"first_air_date": "",
 		"name": "Daredevil: Born Again",
 		"vote_average": 0,
@@ -481,7 +481,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/ncTtBRGnohOCMKfVuu3AfzaL1xE.jpg",
+		"backdrop_path": "/eJLTpgUAFkx165LuUoQqQGyN5Wp.jpg",
 		"genre_ids": [
 			28,
 			878
@@ -565,7 +565,7 @@
 		"release_date": "2024-05-21",
 		"title": "Marvel Studios Assembled: The Making of X-Men '97",
 		"video": false,
-		"vote_average": 5.6,
+		"vote_average": 5.786,
 		"slug": "marvel-studios-assembled-the-making-of-x-men-97",
 		"tags": [
 			"movie",
@@ -791,7 +791,7 @@
 		"poster_path": "/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg",
 		"first_air_date": "2023-06-21",
 		"name": "Secret Invasion",
-		"vote_average": 6.781,
+		"vote_average": 6.78,
 		"title": "Secret Invasion",
 		"slug": "secret-invasion",
 		"tags": [
@@ -837,7 +837,7 @@
 		"release_date": "2023-05-31",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
-		"vote_average": 8.364,
+		"vote_average": 8.365,
 		"slug": "spider-man-across-the-spider-verse",
 		"tags": [
 			"movie",
@@ -907,7 +907,7 @@
 		"release_date": "2023-02-15",
 		"title": "Ant-Man and the Wasp: Quantumania",
 		"video": false,
-		"vote_average": 6.348,
+		"vote_average": 6.349,
 		"slug": "ant-man-and-the-wasp-quantumania",
 		"tags": [
 			"movie",
@@ -976,7 +976,7 @@
 		"release_date": "2022-11-25",
 		"title": "The Guardians of the Galaxy Holiday Special",
 		"video": false,
-		"vote_average": 7.17,
+		"vote_average": 7.171,
 		"slug": "the-guardians-of-the-galaxy-holiday-special",
 		"tags": [
 			"movie",
@@ -1064,7 +1064,7 @@
 		"release_date": "2022-09-25",
 		"title": "Werewolf by Night",
 		"video": false,
-		"vote_average": 6.983,
+		"vote_average": 6.984,
 		"slug": "werewolf-by-night",
 		"tags": [
 			"movie",
@@ -1648,7 +1648,7 @@
 		"poster_path": "/rWg4Jk7NwVEz2BtU1aKKDoDJPeB.jpg",
 		"first_air_date": "2021-08-11",
 		"name": "What If...?",
-		"vote_average": 8.161,
+		"vote_average": 8.162,
 		"title": "What If...?",
 		"slug": "what-if",
 		"tags": [
@@ -2233,7 +2233,7 @@
 		"release_date": "2018-05-10",
 		"title": "Deadpool 2",
 		"video": false,
-		"vote_average": 7.488,
+		"vote_average": 7.489,
 		"slug": "deadpool-2",
 		"tags": [
 			"movie",
@@ -2328,7 +2328,7 @@
 		"poster_path": "/zceMrfO17AQkeWJZNra4O90s1vE.jpg",
 		"first_air_date": "2017-11-21",
 		"name": "Marvel's Runaways",
-		"vote_average": 7.41,
+		"vote_average": 7.407,
 		"title": "Marvel's Runaways",
 		"slug": "marvels-runaways",
 		"tags": [
@@ -2354,7 +2354,7 @@
 		"poster_path": "/tM6xqRKXoloH9UchaJEyyRE9O1w.jpg",
 		"first_air_date": "2017-11-17",
 		"name": "Marvel's The Punisher",
-		"vote_average": 8.114,
+		"vote_average": 8.112,
 		"title": "Marvel's The Punisher",
 		"slug": "marvels-the-punisher",
 		"tags": [
@@ -2774,7 +2774,7 @@
 		"release_date": "2016-05-18",
 		"title": "X-Men: Apocalypse",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.514,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"movie",
@@ -2822,7 +2822,7 @@
 		"release_date": "2016-02-09",
 		"title": "Deadpool",
 		"video": false,
-		"vote_average": 7.614,
+		"vote_average": 7.615,
 		"slug": "deadpool",
 		"tags": [
 			"movie",
@@ -2869,7 +2869,7 @@
 		"poster_path": "/lwPFyjxAZY6NqHxywgY00Y4MFBx.jpg",
 		"first_air_date": "2015-11-20",
 		"name": "Marvel's Jessica Jones",
-		"vote_average": 7.501,
+		"vote_average": 7.5,
 		"title": "Marvel's Jessica Jones",
 		"slug": "marvels-jessica-jones",
 		"tags": [
@@ -3078,7 +3078,7 @@
 		"original_language": "en",
 		"original_name": "Marvel's Agent Carter",
 		"overview": "It's 1946, and peace has dealt Peggy Carter a serious blow as she finds herself marginalized when the men return home from fighting abroad. Working for the covert SSR (Strategic Scientific Reserve), Peggy must balance doing administrative work and going on secret missions for Howard Stark all while trying to navigate life as a single woman in America, in the wake of losing the love of her life - Steve Rogers.",
-		"poster_path": "/yUV0l4Kzned4zZmOw4LpzZkGrG8.jpg",
+		"poster_path": "/7kqIsjjDMZA5GRMH5VCdQYZJqc6.jpg",
 		"first_air_date": "2015-01-06",
 		"name": "Marvel's Agent Carter",
 		"vote_average": 7.5,
@@ -3450,7 +3450,7 @@
 		"release_date": "2013-09-03",
 		"title": "Marvel One-Shot: Agent Carter",
 		"video": false,
-		"vote_average": 7.226,
+		"vote_average": 7.227,
 		"slug": "marvel-one-shot-agent-carter",
 		"tags": [
 			"movie",
@@ -3637,7 +3637,7 @@
 		"release_date": "2012-06-23",
 		"title": "The Amazing Spider-Man",
 		"video": false,
-		"vote_average": 6.703,
+		"vote_average": 6.7,
 		"slug": "the-amazing-spider-man",
 		"tags": [
 			"movie",
@@ -3825,7 +3825,7 @@
 		"release_date": "2011-04-21",
 		"title": "Thor",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.769,
 		"slug": "thor",
 		"tags": [
 			"movie",
@@ -4222,7 +4222,7 @@
 		"release_date": "2008-06-12",
 		"title": "The Incredible Hulk",
 		"video": false,
-		"vote_average": 6.21,
+		"vote_average": 6.211,
 		"slug": "the-incredible-hulk",
 		"tags": [
 			"movie",
@@ -4365,7 +4365,7 @@
 		"release_date": "2007-05-01",
 		"title": "Spider-Man 3",
 		"video": false,
-		"vote_average": 6.422,
+		"vote_average": 6.423,
 		"slug": "spider-man-3",
 		"tags": [
 			"movie",
@@ -4416,7 +4416,7 @@
 		"release_date": "2007-01-15",
 		"title": "Ghost Rider",
 		"video": false,
-		"vote_average": 5.568,
+		"vote_average": 5.567,
 		"slug": "ghost-rider",
 		"tags": [
 			"movie",
@@ -4612,7 +4612,7 @@
 		"release_date": "2004-12-08",
 		"title": "Blade: Trinity",
 		"video": false,
-		"vote_average": 5.857,
+		"vote_average": 5.858,
 		"slug": "blade-trinity",
 		"tags": [
 			"movie",
@@ -4635,7 +4635,7 @@
 		"release_date": "2004-06-25",
 		"title": "Spider-Man 2",
 		"video": false,
-		"vote_average": 7.277,
+		"vote_average": 7.3,
 		"slug": "spider-man-2",
 		"tags": [
 			"movie",
@@ -4755,7 +4755,7 @@
 		"release_date": "2003-02-14",
 		"title": "Daredevil",
 		"video": false,
-		"vote_average": 5.3,
+		"vote_average": 5.261,
 		"slug": "daredevil",
 		"tags": [
 			"movie",
@@ -4859,7 +4859,7 @@
 		],
 		"release_date": "2000-07-13",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 7.002,
 		"slug": "x-men",
 		"tags": [
 			"list-8204860"
@@ -4911,7 +4911,7 @@
 		"poster_path": "/fvmC5QzQwkI5ZNJauE4xpF24PTB.jpg",
 		"first_air_date": "1999-10-02",
 		"name": "Spider-Man Unlimited",
-		"vote_average": 7.4,
+		"vote_average": 7.412,
 		"title": "Spider-Man Unlimited",
 		"slug": "spider-man-unlimited",
 		"tags": [
@@ -4961,7 +4961,7 @@
 		"poster_path": "/mBJTL4CRSoNkAQRmfwbiLTtviuW.jpg",
 		"first_air_date": "1998-02-07",
 		"name": "Silver Surfer",
-		"vote_average": 7.2,
+		"vote_average": 7.187,
 		"title": "Silver Surfer",
 		"slug": "silver-surfer",
 		"tags": [
@@ -5191,7 +5191,7 @@
 		],
 		"release_date": "1990-02-18",
 		"video": false,
-		"vote_average": 5.5,
+		"vote_average": 5.483,
 		"slug": "the-death-of-the-incredible-hulk",
 		"tags": [
 			"list-8204862"
