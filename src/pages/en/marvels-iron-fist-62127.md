@@ -31,7 +31,7 @@ mcuTimelineOrder: 206
     "poster_path": "/4l6KD9HhtD6nCDEfg10Lp6C6zah.jpg",
     "first_air_date": "2017-03-17",
     "name": "Marvel's Iron Fist",
-    "vote_average": 6.525,
+    "vote_average": 6.528,
     "title": "Marvel's Iron Fist",
     "slug": "marvels-iron-fist",
     "tags": [
