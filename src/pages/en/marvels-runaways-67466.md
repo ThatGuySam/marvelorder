@@ -19,7 +19,6 @@ mcuTimelineOrder: 297
     "backdrop_path": "/7PYAUaJzzUVxS4xiJHFe338vJd1.jpg",
     "genre_ids": [
         10759,
-        80,
         18,
         10765
     ],
@@ -33,7 +32,7 @@ mcuTimelineOrder: 297
     "poster_path": "/zceMrfO17AQkeWJZNra4O90s1vE.jpg",
     "first_air_date": "2017-11-21",
     "name": "Marvel's Runaways",
-    "vote_average": 7.406,
+    "vote_average": 7.4,
     "title": "Marvel's Runaways",
     "slug": "marvels-runaways",
     "tags": [
