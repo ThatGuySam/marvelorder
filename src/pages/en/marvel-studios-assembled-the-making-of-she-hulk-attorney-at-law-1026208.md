@@ -45,7 +45,7 @@ tags:
     "release_date": "2022-11-03",
     "title": "Marvel Studios Assembled: The Making of She-Hulk: Attorney at Law",
     "video": false,
-    "vote_average": 6.9,
+    "vote_average": 6.854,
     "slug": "marvel-studios-assembled-the-making-of-she-hulk-attorney-at-law",
     "tags": [
         "movie",
