@@ -26,10 +26,10 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/wC0Xixd9uAcmzE4KlIJSvWS4Gt5.jpg",
+    "backdrop_path": "/p0jmIjOh4BKyRrGPAIdKXMJ0cMi.jpg",
     "genre_ids": [
-        35,
-        10765
+        10765,
+        10759
     ],
     "id": 138501,
     "origin_country": [
@@ -37,8 +37,8 @@ tags:
     ],
     "original_language": "en",
     "original_name": "Agatha All Along",
-    "overview": "Follow Agatha Harkness before and after her appearance in WandaVision.",
-    "poster_path": "/2a6bSlg7U5ldtelPssyay4Vbl6U.jpg",
+    "overview": "Agatha Harkness gathers a coven of witches and sets off down, down, down the Witches’ Road.",
+    "poster_path": "/5a0z6F4npH4hiqDBKMoWcDk3CBT.jpg",
     "first_air_date": "2024-09-18",
     "name": "Agatha All Along",
     "vote_average": 0,

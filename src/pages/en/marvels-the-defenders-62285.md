@@ -31,7 +31,7 @@ mcuTimelineOrder: 219
     "poster_path": "/49XzINhH4LFsgz7cx6TOPcHUJUL.jpg",
     "first_air_date": "2017-08-18",
     "name": "Marvel's The Defenders",
-    "vote_average": 7.074,
+    "vote_average": 7.073,
     "title": "Marvel's The Defenders",
     "slug": "marvels-the-defenders",
     "tags": [
