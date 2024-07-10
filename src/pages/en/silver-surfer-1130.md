@@ -28,10 +28,10 @@ watchLinks:
     "original_language": "en",
     "original_name": "Silver Surfer",
     "overview": "The adventures of the cosmic wanderer as he seeks his lost home after rebelling from his master.",
-    "poster_path": "/mBJTL4CRSoNkAQRmfwbiLTtviuW.jpg",
+    "poster_path": "/y3avRwCpoHrsv6n2J2qDmzc2jrv.jpg",
     "first_air_date": "1998-02-07",
     "name": "Silver Surfer",
-    "vote_average": 7.187,
+    "vote_average": 7.2,
     "title": "Silver Surfer",
     "slug": "silver-surfer",
     "tags": [
