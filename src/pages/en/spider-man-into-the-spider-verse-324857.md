@@ -32,7 +32,7 @@ backdrop_path: /x2IqsMlpbOhS8zIUJfyl1yO4gHF.jpg
     ],
     "release_date": "2018-12-06",
     "video": false,
-    "vote_average": 8.405,
+    "vote_average": 8.403,
     "slug": "spider-man-into-the-spider-verse",
     "tags": [
         "list-8204859"

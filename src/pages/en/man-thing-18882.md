@@ -20,8 +20,9 @@ watchLinks:
     "backdrop_path": "/pE6vUmdiDCOgIw6hAZxnZSkIJQS.jpg",
     "genre_ids": [
         28,
-        14,
-        27
+        27,
+        12,
+        878
     ],
     "id": 18882,
     "original_language": "en",

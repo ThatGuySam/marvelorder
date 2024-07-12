@@ -31,7 +31,7 @@ watchLinks:
     "release_date": "2015-08-05",
     "title": "Fantastic Four",
     "video": false,
-    "vote_average": 4.417,
+    "vote_average": 4.4,
     "slug": "fantastic-four",
     "tags": [
         "movie",
