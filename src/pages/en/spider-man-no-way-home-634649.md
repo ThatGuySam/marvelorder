@@ -18,7 +18,7 @@ mcuTimelineOrder: 569
 ```json
 {
     "adult": false,
-    "backdrop_path": "/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
+    "backdrop_path": "/AeK2MPOpYrOOgZNfFnfwp0L8tNn.jpg",
     "genre_ids": [
         28,
         12,
@@ -32,7 +32,7 @@ mcuTimelineOrder: 569
     "release_date": "2021-12-15",
     "title": "Spider-Man: No Way Home",
     "video": false,
-    "vote_average": 7.964,
+    "vote_average": 7.963,
     "slug": "spider-man-no-way-home",
     "tags": [
         "movie",

@@ -21,7 +21,6 @@ watchLinks:
         878,
         27,
         28,
-        9648,
         12
     ],
     "id": 340102,
@@ -32,7 +31,7 @@ watchLinks:
     "release_date": "2020-04-02",
     "title": "The New Mutants",
     "video": false,
-    "vote_average": 6.113,
+    "vote_average": 6.1,
     "slug": "the-new-mutants",
     "tags": [
         "movie",

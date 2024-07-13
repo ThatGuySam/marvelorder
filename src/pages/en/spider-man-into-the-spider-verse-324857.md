@@ -15,7 +15,7 @@ backdrop_path: /x2IqsMlpbOhS8zIUJfyl1yO4gHF.jpg
 ## TMDB Data
 ```json
 {
-    "backdrop_path": "/b9YkKJcW3pPaXgMZu9uoT7v9yRB.jpg",
+    "backdrop_path": "/qGQf2OHIkoh89K8XeKQzhxczf96.jpg",
     "id": 324857,
     "title": "Spider-Man: Into the Spider-Verse",
     "original_title": "Spider-Man: Into the Spider-Verse",
