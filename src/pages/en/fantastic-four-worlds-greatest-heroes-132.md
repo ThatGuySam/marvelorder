@@ -34,7 +34,7 @@ watchLinks:
     "poster_path": "/zCtCW0JlbMpzfQDAX1bO1o1KLi.jpg",
     "first_air_date": "2006-09-02",
     "name": "Fantastic Four: World's Greatest Heroes",
-    "vote_average": 7.4,
+    "vote_average": 7.393,
     "title": "Fantastic Four: World's Greatest Heroes",
     "slug": "fantastic-four-worlds-greatest-heroes",
     "tags": [
