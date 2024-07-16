@@ -31,7 +31,7 @@ tags:
     "original_language": "en",
     "original_title": "Untitled X-Men Movie",
     "overview": "An upcoming X-Men movie produced by Marvel Studios.",
-    "poster_path": "/adjEnspN7Lxrcr3xDuDHAHOA8tV.jpg",
+    "poster_path": null,
     "release_date": "",
     "title": "Untitled X-Men Movie",
     "video": false,

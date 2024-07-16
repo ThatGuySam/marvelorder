@@ -31,7 +31,7 @@ watchLinks:
     "release_date": "2016-02-09",
     "title": "Deadpool",
     "video": false,
-    "vote_average": 7.616,
+    "vote_average": 7.615,
     "slug": "deadpool",
     "tags": [
         "movie",

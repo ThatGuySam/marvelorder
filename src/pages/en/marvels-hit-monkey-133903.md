@@ -16,7 +16,7 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/yT5ZZ3kOtCzJJVLKKp2YCNrOKrh.jpg",
+    "backdrop_path": "/sqEyRJvBVF1YphHPWCfCRNWdIMe.jpg",
     "genre_ids": [
         16,
         10759
@@ -27,11 +27,11 @@ watchLinks:
     ],
     "original_language": "en",
     "original_name": "Marvel's Hit-Monkey",
-    "overview": "A Japanese snow macaque's clan meets a stranded hitman, Bryce, and nurses him back to health. But when Bryce bites the dust, it's up to the titular simian (guided by Bryce's ghost) to follow in his assassin footsteps and seek vengeance.",
-    "poster_path": "/1aK7hApRSDUv8xxDQXyQil7qBjN.jpg",
+    "overview": "After a high-profile political assassination goes sideways, an injured hitman hides out amongst a tribe of snow monkeys in the mountains of Japan.",
+    "poster_path": "/c63jLejCDACyChWNvw8ufSOf25q.jpg",
     "first_air_date": "2021-11-17",
     "name": "Marvel's Hit-Monkey",
-    "vote_average": 7.808,
+    "vote_average": 7.8,
     "title": "Marvel's Hit-Monkey",
     "slug": "marvels-hit-monkey",
     "tags": [
