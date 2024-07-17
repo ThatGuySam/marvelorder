@@ -33,7 +33,7 @@ mcuTimelineOrder: 233
     "release_date": "2016-04-27",
     "title": "Captain America: Civil War",
     "video": false,
-    "vote_average": 7.444,
+    "vote_average": 7.443,
     "slug": "captain-america-civil-war",
     "tags": [
         "movie",
