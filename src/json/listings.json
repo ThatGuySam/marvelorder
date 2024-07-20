@@ -198,7 +198,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
+		"backdrop_path": "/fwIbk6HafoCHn4I8azgZvR78iAO.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -221,7 +221,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
+		"backdrop_path": "/vFW5NMyAwG7uBRYbWJRRJAo8uC.jpg",
 		"genre_ids": [
 			878,
 			28,
@@ -590,7 +590,7 @@
 		"poster_path": "/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg",
 		"first_air_date": "2024-03-20",
 		"name": "X-Men '97",
-		"vote_average": 8.71,
+		"vote_average": 8.711,
 		"title": "X-Men '97",
 		"slug": "x-men-97",
 		"tags": [
@@ -791,7 +791,7 @@
 		"poster_path": "/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg",
 		"first_air_date": "2023-06-21",
 		"name": "Secret Invasion",
-		"vote_average": 6.773,
+		"vote_average": 6.771,
 		"title": "Secret Invasion",
 		"slug": "secret-invasion",
 		"tags": [
@@ -888,6 +888,29 @@
 		"slug": "voices-rising-the-music-of-wakanda-forever",
 		"tags": [
 			"tv",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/m8JTwHFwX7I7JY5fPe4SjqejWag.jpg",
+		"genre_ids": [
+			28,
+			12,
+			878
+		],
+		"id": 640146,
+		"original_language": "en",
+		"original_title": "Ant-Man and the Wasp: Quantumania",
+		"overview": "Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope's parents Janet van Dyne and Hank Pym, and Scott's daughter Cassie Lang, find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought possible.",
+		"poster_path": "/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg",
+		"release_date": "2023-02-15",
+		"title": "Ant-Man and the Wasp: Quantumania",
+		"video": false,
+		"vote_average": 6.349,
+		"slug": "ant-man-and-the-wasp-quantumania",
+		"tags": [
+			"movie",
 			"company-420"
 		]
 	},
@@ -1507,7 +1530,7 @@
 		"poster_path": "/ct5pNE5dDHryHLDnxyZPYcqO1sz.jpg",
 		"first_air_date": "2021-11-24",
 		"name": "Hawkeye",
-		"vote_average": 7.889,
+		"vote_average": 7.888,
 		"title": "Hawkeye",
 		"slug": "hawkeye",
 		"tags": [
@@ -1662,6 +1685,29 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": "/keIxh0wPr2Ymj0Btjh4gW7JJ89e.jpg",
+		"genre_ids": [
+			28,
+			12,
+			878
+		],
+		"id": 497698,
+		"original_language": "en",
+		"original_title": "Black Widow",
+		"overview": "Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.",
+		"poster_path": "/kwB7d51AIcyzPOBOHLCEZJkmPhQ.jpg",
+		"release_date": "2021-07-07",
+		"title": "Black Widow",
+		"video": false,
+		"vote_average": 7.253,
+		"slug": "black-widow",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/q3jHCb4dMfYF6ojikKuHd6LscxC.jpg",
 		"genre_ids": [
 			18,
@@ -1729,7 +1775,7 @@
 		"poster_path": "/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
 		"first_air_date": "2021-03-19",
 		"name": "The Falcon and the Winter Soldier",
-		"vote_average": 7.659,
+		"vote_average": 7.7,
 		"title": "The Falcon and the Winter Soldier",
 		"slug": "the-falcon-and-the-winter-soldier",
 		"tags": [
@@ -1779,7 +1825,7 @@
 		"poster_path": "/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
 		"first_air_date": "2021-01-15",
 		"name": "WandaVision",
-		"vote_average": 8.234,
+		"vote_average": 8.2,
 		"title": "WandaVision",
 		"slug": "wandavision",
 		"tags": [
@@ -1881,7 +1927,7 @@
 		"release_date": "2020-04-02",
 		"title": "The New Mutants",
 		"video": false,
-		"vote_average": 6.111,
+		"vote_average": 6.11,
 		"slug": "the-new-mutants",
 		"tags": [
 			"movie",
@@ -2186,7 +2232,7 @@
 		"release_date": "2018-05-10",
 		"title": "Deadpool 2",
 		"video": false,
-		"vote_average": 7.49,
+		"vote_average": 7.5,
 		"slug": "deadpool-2",
 		"tags": [
 			"movie",
@@ -2211,7 +2257,7 @@
 		"release_date": "2018-04-25",
 		"title": "Avengers: Infinity War",
 		"video": false,
-		"vote_average": 8.247,
+		"vote_average": 8.246,
 		"slug": "avengers-infinity-war",
 		"tags": [
 			"movie",
@@ -2751,7 +2797,7 @@
 		"release_date": "2016-04-27",
 		"title": "Captain America: Civil War",
 		"video": false,
-		"vote_average": 7.443,
+		"vote_average": 7.444,
 		"slug": "captain-america-civil-war",
 		"tags": [
 			"movie",
@@ -2850,6 +2896,29 @@
 		"tags": [
 			"movie",
 			"company-7505"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg",
+		"genre_ids": [
+			878,
+			28,
+			12
+		],
+		"id": 102899,
+		"original_language": "en",
+		"original_title": "Ant-Man",
+		"overview": "Armed with the astonishing ability to shrink in scale but increase in strength, master thief Scott Lang must embrace his inner-hero and help his mentor, Doctor Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats. Against seemingly insurmountable obstacles, Pym and Lang must plan and pull off a heist that will save the world.",
+		"poster_path": "/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg",
+		"release_date": "2015-07-14",
+		"title": "Ant-Man",
+		"video": false,
+		"vote_average": 7.078,
+		"slug": "ant-man",
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -3283,7 +3352,7 @@
 		"release_date": "2013-10-30",
 		"title": "Thor: The Dark World",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.528,
 		"slug": "thor-the-dark-world",
 		"tags": [
 			"movie",
@@ -3377,7 +3446,7 @@
 		"release_date": "2013-07-21",
 		"title": "The Wolverine",
 		"video": false,
-		"vote_average": 6.411,
+		"vote_average": 6.41,
 		"slug": "the-wolverine",
 		"tags": [
 			"movie",
@@ -3729,7 +3798,7 @@
 		"release_date": "2011-04-21",
 		"title": "Thor",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.769,
 		"slug": "thor",
 		"tags": [
 			"movie",
@@ -3949,7 +4018,7 @@
 		"release_date": "2009-04-28",
 		"title": "X-Men Origins: Wolverine",
 		"video": false,
-		"vote_average": 6.269,
+		"vote_average": 6.268,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"movie",
@@ -4225,7 +4294,7 @@
 		"release_date": "2007-06-13",
 		"title": "Fantastic Four: Rise of the Silver Surfer",
 		"video": false,
-		"vote_average": 5.6,
+		"vote_average": 5.605,
 		"slug": "fantastic-four-rise-of-the-silver-surfer",
 		"tags": [
 			"movie",
@@ -4447,7 +4516,7 @@
 		"release_date": "2005-06-29",
 		"title": "Fantastic Four",
 		"video": false,
-		"vote_average": 5.782,
+		"vote_average": 5.783,
 		"slug": "fantastic-four",
 		"tags": [
 			"movie",
@@ -4517,7 +4586,7 @@
 		"release_date": "2004-12-08",
 		"title": "Blade: Trinity",
 		"video": false,
-		"vote_average": 5.857,
+		"vote_average": 5.9,
 		"slug": "blade-trinity",
 		"tags": [
 			"movie",
@@ -4540,7 +4609,7 @@
 		"release_date": "2004-06-25",
 		"title": "Spider-Man 2",
 		"video": false,
-		"vote_average": 7.279,
+		"vote_average": 7.3,
 		"slug": "spider-man-2",
 		"tags": [
 			"movie",
@@ -5486,7 +5555,7 @@
 		],
 		"release_date": "1977-09-14",
 		"video": false,
-		"vote_average": 6.2,
+		"vote_average": 6.211,
 		"slug": "spider-man",
 		"tags": [
 			"list-8204862"
