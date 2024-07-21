@@ -30,7 +30,7 @@ mcuTimelineOrder: 634
     "poster_path": "/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg",
     "first_air_date": "2023-06-21",
     "name": "Secret Invasion",
-    "vote_average": 6.771,
+    "vote_average": 6.77,
     "title": "Secret Invasion",
     "slug": "secret-invasion",
     "tags": [

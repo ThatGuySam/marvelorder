@@ -33,7 +33,7 @@ watchLinks:
     ],
     "release_date": "1986-08-01",
     "video": false,
-    "vote_average": 5.391,
+    "vote_average": 5.389,
     "slug": "howard-the-duck",
     "tags": [
         "list-8204859"

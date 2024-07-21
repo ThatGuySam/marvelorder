@@ -44,7 +44,7 @@ tags:
         10765
     ],
     "first_air_date": "1978-05-17",
-    "vote_average": 7.239,
+    "vote_average": 7.263,
     "origin_country": [
         "JP"
     ],
