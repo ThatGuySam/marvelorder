@@ -35,7 +35,7 @@ mcuTimelineOrder: 629
     "release_date": "2022-11-25",
     "title": "The Guardians of the Galaxy Holiday Special",
     "video": false,
-    "vote_average": 7.2,
+    "vote_average": 7.172,
     "slug": "the-guardians-of-the-galaxy-holiday-special",
     "tags": [
         "movie",

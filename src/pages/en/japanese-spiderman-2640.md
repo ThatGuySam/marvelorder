@@ -30,7 +30,7 @@ tags:
 ## TMDB Data
 ```json
 {
-    "backdrop_path": "/yhDHgYKaZiX8XEyWJFTOBwKaVdN.jpg",
+    "backdrop_path": "/lY0BBKyITxaLllWcz1OOY2Vb9Li.jpg",
     "id": 2640,
     "name": "Japanese Spiderman",
     "original_name": "スパイダーマン",
@@ -44,7 +44,7 @@ tags:
         10765
     ],
     "first_air_date": "1978-05-17",
-    "vote_average": 7.263,
+    "vote_average": 7.3,
     "origin_country": [
         "JP"
     ],
