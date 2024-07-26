@@ -198,7 +198,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/fwIbk6HafoCHn4I8azgZvR78iAO.jpg",
+		"backdrop_path": null,
 		"genre_ids": [
 			28,
 			12,
@@ -542,7 +542,7 @@
 		"release_date": "2024-07-24",
 		"title": "Deadpool & Wolverine",
 		"video": false,
-		"vote_average": 8.096,
+		"vote_average": 8.18,
 		"slug": "deadpool-and-wolverine",
 		"tags": [
 			"movie",
@@ -590,7 +590,7 @@
 		"poster_path": "/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg",
 		"first_air_date": "2024-03-20",
 		"name": "X-Men '97",
-		"vote_average": 8.691,
+		"vote_average": 8.687,
 		"title": "X-Men '97",
 		"slug": "x-men-97",
 		"tags": [
@@ -837,7 +837,7 @@
 		"release_date": "2023-05-31",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
-		"vote_average": 8.4,
+		"vote_average": 8.353,
 		"slug": "spider-man-across-the-spider-verse",
 		"tags": [
 			"movie",
@@ -907,7 +907,7 @@
 		"release_date": "2023-02-15",
 		"title": "Ant-Man and the Wasp: Quantumania",
 		"video": false,
-		"vote_average": 6.345,
+		"vote_average": 6.344,
 		"slug": "ant-man-and-the-wasp-quantumania",
 		"tags": [
 			"movie",
@@ -976,7 +976,7 @@
 		"release_date": "2022-11-25",
 		"title": "The Guardians of the Galaxy Holiday Special",
 		"video": false,
-		"vote_average": 7.17,
+		"vote_average": 7.2,
 		"slug": "the-guardians-of-the-galaxy-holiday-special",
 		"tags": [
 			"movie",
@@ -1109,7 +1109,7 @@
 		"poster_path": "/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
 		"first_air_date": "2022-08-18",
 		"name": "She-Hulk: Attorney at Law",
-		"vote_average": 6.274,
+		"vote_average": 6.271,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
 		"tags": [
@@ -1600,7 +1600,7 @@
 		"release_date": "2021-11-03",
 		"title": "Eternals",
 		"video": false,
-		"vote_average": 6.873,
+		"vote_average": 6.872,
 		"slug": "eternals",
 		"tags": [
 			"movie",
@@ -1623,7 +1623,7 @@
 		"release_date": "2021-09-01",
 		"title": "Shang-Chi and the Legend of the Ten Rings",
 		"video": false,
-		"vote_average": 7.6,
+		"vote_average": 7.553,
 		"slug": "shang-chi-and-the-legend-of-the-ten-rings",
 		"tags": [
 			"movie",
@@ -2112,7 +2112,7 @@
 		"release_date": "2018-12-11",
 		"title": "Once Upon a Deadpool",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7.081,
 		"slug": "once-upon-a-deadpool",
 		"tags": [
 			"movie",
@@ -2183,7 +2183,7 @@
 		"release_date": "2018-07-04",
 		"title": "Ant-Man and the Wasp",
 		"video": false,
-		"vote_average": 6.938,
+		"vote_average": 6.937,
 		"slug": "ant-man-and-the-wasp",
 		"tags": [
 			"movie",
@@ -2208,7 +2208,7 @@
 		"poster_path": "/pYnRJuBPEqZO1o4fcxBTgmKNHfy.jpg",
 		"first_air_date": "2018-06-07",
 		"name": "Marvel's Cloak & Dagger",
-		"vote_average": 7.2,
+		"vote_average": 7.224,
 		"title": "Marvel's Cloak & Dagger",
 		"slug": "marvels-cloak-and-dagger",
 		"tags": [
@@ -2232,7 +2232,7 @@
 		"release_date": "2018-05-10",
 		"title": "Deadpool 2",
 		"video": false,
-		"vote_average": 7.491,
+		"vote_average": 7.49,
 		"slug": "deadpool-2",
 		"tags": [
 			"movie",
@@ -2326,7 +2326,7 @@
 		"poster_path": "/zceMrfO17AQkeWJZNra4O90s1vE.jpg",
 		"first_air_date": "2017-11-21",
 		"name": "Marvel's Runaways",
-		"vote_average": 7.395,
+		"vote_average": 7.4,
 		"title": "Marvel's Runaways",
 		"slug": "marvels-runaways",
 		"tags": [
@@ -2378,7 +2378,7 @@
 		"poster_path": "/nshCqszjTNuqhrB53vrSqWO18sE.jpg",
 		"first_air_date": "2017-10-02",
 		"name": "The Gifted",
-		"vote_average": 7.643,
+		"vote_average": 7.645,
 		"title": "The Gifted",
 		"slug": "the-gifted",
 		"tags": [
@@ -2404,7 +2404,7 @@
 		"release_date": "2017-10-02",
 		"title": "Thor: Ragnarok",
 		"video": false,
-		"vote_average": 7.593,
+		"vote_average": 7.594,
 		"slug": "thor-ragnarok",
 		"tags": [
 			"movie",
@@ -2455,7 +2455,7 @@
 		"poster_path": "/49XzINhH4LFsgz7cx6TOPcHUJUL.jpg",
 		"first_air_date": "2017-08-18",
 		"name": "Marvel's The Defenders",
-		"vote_average": 7.075,
+		"vote_average": 7.074,
 		"title": "Marvel's The Defenders",
 		"slug": "marvels-the-defenders",
 		"tags": [
@@ -2553,7 +2553,7 @@
 		],
 		"release_date": "2017-03-03",
 		"video": false,
-		"vote_average": 7.144,
+		"vote_average": 7.146,
 		"slug": "deadpool-no-good-deed",
 		"tags": [
 			"list-8204860"
@@ -2651,7 +2651,7 @@
 		"poster_path": "/bwJej7WdmGRMCMyuDlotwAqVX7S.jpg",
 		"first_air_date": "2016-12-13",
 		"name": "Marvel's Agents of S.H.I.E.L.D.: Slingshot",
-		"vote_average": 7.198,
+		"vote_average": 7.192,
 		"title": "Marvel's Agents of S.H.I.E.L.D.: Slingshot",
 		"slug": "marvels-agents-of-shield-slingshot",
 		"tags": [
@@ -2816,11 +2816,11 @@
 		"original_language": "en",
 		"original_title": "Deadpool",
 		"overview": "The origin story of former Special Forces operative turned mercenary Wade Wilson, who, after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
-		"poster_path": "/fSRb7vyIP8rQpL0I47P3qUsEKX3.jpg",
+		"poster_path": "/3E53WEZJqP6aM84D8CckXx4pIHw.jpg",
 		"release_date": "2016-02-09",
 		"title": "Deadpool",
 		"video": false,
-		"vote_average": 7.616,
+		"vote_average": 7.617,
 		"slug": "deadpool",
 		"tags": [
 			"movie",
@@ -2914,7 +2914,7 @@
 		"release_date": "2015-07-14",
 		"title": "Ant-Man",
 		"video": false,
-		"vote_average": 7.078,
+		"vote_average": 7.1,
 		"slug": "ant-man",
 		"tags": [
 			"movie",
@@ -2962,7 +2962,7 @@
 		"poster_path": "/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
 		"first_air_date": "2015-04-10",
 		"name": "Marvel's Daredevil",
-		"vote_average": 8.162,
+		"vote_average": 8.161,
 		"title": "Marvel's Daredevil",
 		"slug": "marvels-daredevil",
 		"tags": [
@@ -3054,7 +3054,7 @@
 		"poster_path": "/7kqIsjjDMZA5GRMH5VCdQYZJqc6.jpg",
 		"first_air_date": "2015-01-06",
 		"name": "Marvel's Agent Carter",
-		"vote_average": 7.535,
+		"vote_average": 7.534,
 		"title": "Marvel's Agent Carter",
 		"slug": "marvels-agent-carter",
 		"tags": [
@@ -3377,7 +3377,7 @@
 		"poster_path": "/xjm6uVktPuKXNILwjLXwVG5d5BU.jpg",
 		"first_air_date": "2013-09-24",
 		"name": "Marvel's Agents of S.H.I.E.L.D.",
-		"vote_average": 7.483,
+		"vote_average": 7.482,
 		"title": "Marvel's Agents of S.H.I.E.L.D.",
 		"slug": "marvels-agents-of-shield",
 		"tags": [
@@ -4073,7 +4073,7 @@
 		"release_date": "2009-01-27",
 		"title": "Hulk vs. Wolverine",
 		"video": false,
-		"vote_average": 7.088,
+		"vote_average": 7.1,
 		"slug": "hulk-vs-wolverine",
 		"tags": [
 			"movie",
@@ -4195,7 +4195,7 @@
 		"release_date": "2008-06-12",
 		"title": "The Incredible Hulk",
 		"video": false,
-		"vote_average": 6.212,
+		"vote_average": 6.211,
 		"slug": "the-incredible-hulk",
 		"tags": [
 			"movie",
@@ -4338,7 +4338,7 @@
 		"release_date": "2007-05-01",
 		"title": "Spider-Man 3",
 		"video": false,
-		"vote_average": 6.426,
+		"vote_average": 6.425,
 		"slug": "spider-man-3",
 		"tags": [
 			"movie",
@@ -4347,7 +4347,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/w4ZNZC0ncypkYVlaLNlAbdJHni2.jpg",
+		"backdrop_path": "/x6gi2yn51sjRBMt6xeVTPVGFeSB.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -4363,7 +4363,7 @@
 		"release_date": "2007-01-23",
 		"title": "The Invincible Iron Man",
 		"video": false,
-		"vote_average": 6.131,
+		"vote_average": 6.1,
 		"slug": "the-invincible-iron-man",
 		"tags": [
 			"movie",
@@ -4540,7 +4540,7 @@
 		"release_date": "2005-04-21",
 		"title": "Man-Thing",
 		"video": false,
-		"vote_average": 4.3,
+		"vote_average": 4.284,
 		"slug": "man-thing",
 		"tags": [
 			"movie",
@@ -4632,7 +4632,7 @@
 		"release_date": "2004-04-15",
 		"title": "The Punisher",
 		"video": false,
-		"vote_average": 6.348,
+		"vote_average": 6.349,
 		"slug": "the-punisher",
 		"tags": [
 			"movie",
@@ -4658,7 +4658,7 @@
 		"poster_path": "/v3UfqXCAxAcI7oUO4zwtk1T9G3n.jpg",
 		"first_air_date": "2003-07-11",
 		"name": "Spider-Man: The New Animated Series",
-		"vote_average": 7.1,
+		"vote_average": 7.136,
 		"title": "Spider-Man: The New Animated Series",
 		"slug": "spider-man-the-new-animated-series",
 		"tags": [
@@ -4682,7 +4682,7 @@
 		"release_date": "2003-06-19",
 		"title": "Hulk",
 		"video": false,
-		"vote_average": 5.549,
+		"vote_average": 5.547,
 		"slug": "hulk",
 		"tags": [
 			"movie",
@@ -4705,7 +4705,7 @@
 		"release_date": "2003-04-27",
 		"title": "X2",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 7.031,
 		"slug": "x2",
 		"tags": [
 			"movie",
@@ -4729,7 +4729,7 @@
 		"release_date": "2003-02-14",
 		"title": "Daredevil",
 		"video": false,
-		"vote_average": 5.26,
+		"vote_average": 5.259,
 		"slug": "daredevil",
 		"tags": [
 			"movie",
@@ -4885,7 +4885,7 @@
 		"poster_path": "/fvmC5QzQwkI5ZNJauE4xpF24PTB.jpg",
 		"first_air_date": "1999-10-02",
 		"name": "Spider-Man Unlimited",
-		"vote_average": 7.424,
+		"vote_average": 7.436,
 		"title": "Spider-Man Unlimited",
 		"slug": "spider-man-unlimited",
 		"tags": [
@@ -5035,7 +5035,7 @@
 			10759
 		],
 		"first_air_date": "1994-11-19",
-		"vote_average": 8.269,
+		"vote_average": 8.271,
 		"origin_country": [
 			"US"
 		],
