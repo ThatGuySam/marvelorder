@@ -47,11 +47,11 @@ tags:
     "original_language": "en",
     "original_title": "Ultimate Avengers 2",
     "overview": "Mysterious Wakanda lies in the darkest heart of Africa, unknown to most of the world. An isolated land hidden behind closed borders, fiercely protected by its young king: Black Panther. But when brutal alien invaders attack, the threat leaves Black Panther with no option but to go against the sacred decrees of his people and ask for help from outsiders.",
-    "poster_path": "/h1PKqtjuTifmTU0EqM4W0Br2pHX.jpg",
+    "poster_path": "/2bfVNvLKWaxFh1LiOKlvxgiHOXn.jpg",
     "release_date": "2006-08-08",
     "title": "Ultimate Avengers 2",
     "video": false,
-    "vote_average": 6.769,
+    "vote_average": 6.8,
     "slug": "ultimate-avengers-2",
     "tags": [
         "movie",
