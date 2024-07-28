@@ -528,7 +528,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/dvBCdCohwWbsP5qAaglOXagDMtk.jpg",
+		"backdrop_path": "/9l1eZiJHmhr5jIlthMdJN5WYoff.jpg",
 		"genre_ids": [
 			878,
 			28,
@@ -542,7 +542,7 @@
 		"release_date": "2024-07-24",
 		"title": "Deadpool & Wolverine",
 		"video": false,
-		"vote_average": 8.148,
+		"vote_average": 8.1,
 		"slug": "deadpool-and-wolverine",
 		"tags": [
 			"movie",
@@ -590,7 +590,7 @@
 		"poster_path": "/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg",
 		"first_air_date": "2024-03-20",
 		"name": "X-Men '97",
-		"vote_average": 8.688,
+		"vote_average": 8.686,
 		"title": "X-Men '97",
 		"slug": "x-men-97",
 		"tags": [
@@ -703,7 +703,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.115,
+		"vote_average": 6.117,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -837,7 +837,7 @@
 		"release_date": "2023-05-31",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
-		"vote_average": 8.353,
+		"vote_average": 8.352,
 		"slug": "spider-man-across-the-spider-verse",
 		"tags": [
 			"movie",
@@ -860,7 +860,7 @@
 		"release_date": "2023-05-03",
 		"title": "Guardians of the Galaxy Vol. 3",
 		"video": false,
-		"vote_average": 8,
+		"vote_average": 7.972,
 		"slug": "guardians-of-the-galaxy-vol-3",
 		"tags": [
 			"movie",
@@ -907,7 +907,7 @@
 		"release_date": "2023-02-15",
 		"title": "Ant-Man and the Wasp: Quantumania",
 		"video": false,
-		"vote_average": 6.3,
+		"vote_average": 6.343,
 		"slug": "ant-man-and-the-wasp-quantumania",
 		"tags": [
 			"movie",
@@ -976,7 +976,7 @@
 		"release_date": "2022-11-25",
 		"title": "The Guardians of the Galaxy Holiday Special",
 		"video": false,
-		"vote_average": 7.17,
+		"vote_average": 7.2,
 		"slug": "the-guardians-of-the-galaxy-holiday-special",
 		"tags": [
 			"movie",
@@ -999,7 +999,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7.115,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -1064,7 +1064,7 @@
 		"release_date": "2022-09-25",
 		"title": "Werewolf by Night",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 6.992,
 		"slug": "werewolf-by-night",
 		"tags": [
 			"movie",
@@ -1669,7 +1669,7 @@
 		"poster_path": "/rWg4Jk7NwVEz2BtU1aKKDoDJPeB.jpg",
 		"first_air_date": "2021-08-11",
 		"name": "What If...?",
-		"vote_average": 8.157,
+		"vote_average": 8.2,
 		"title": "What If...?",
 		"slug": "what-if",
 		"tags": [
@@ -1744,7 +1744,7 @@
 		"poster_path": "/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg",
 		"first_air_date": "2021-06-09",
 		"name": "Loki",
-		"vote_average": 8.181,
+		"vote_average": 8.2,
 		"title": "Loki",
 		"slug": "loki",
 		"tags": [
@@ -1846,7 +1846,7 @@
 		"poster_path": "/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
 		"first_air_date": "2021-01-15",
 		"name": "WandaVision",
-		"vote_average": 8.234,
+		"vote_average": 8.233,
 		"title": "WandaVision",
 		"slug": "wandavision",
 		"tags": [
@@ -1948,7 +1948,7 @@
 		"release_date": "2020-04-02",
 		"title": "The New Mutants",
 		"video": false,
-		"vote_average": 6.111,
+		"vote_average": 6.112,
 		"slug": "the-new-mutants",
 		"tags": [
 			"movie",
@@ -2062,7 +2062,7 @@
 		"release_date": "2019-06-05",
 		"title": "Dark Phoenix",
 		"video": false,
-		"vote_average": 6,
+		"vote_average": 5.98,
 		"slug": "dark-phoenix",
 		"tags": [
 			"movie",
@@ -2110,7 +2110,7 @@
 		"release_date": "2019-03-06",
 		"title": "Captain Marvel",
 		"video": false,
-		"vote_average": 6.819,
+		"vote_average": 6.82,
 		"slug": "captain-marvel",
 		"tags": [
 			"movie",
@@ -2133,7 +2133,7 @@
 		"release_date": "2018-12-11",
 		"title": "Once Upon a Deadpool",
 		"video": false,
-		"vote_average": 7.08,
+		"vote_average": 7.088,
 		"slug": "once-upon-a-deadpool",
 		"tags": [
 			"movie",
@@ -2181,7 +2181,7 @@
 		"release_date": "2018-09-28",
 		"title": "Venom",
 		"video": false,
-		"vote_average": 6.828,
+		"vote_average": 6.829,
 		"slug": "venom",
 		"tags": [
 			"movie",
@@ -2204,7 +2204,7 @@
 		"release_date": "2018-07-04",
 		"title": "Ant-Man and the Wasp",
 		"video": false,
-		"vote_average": 6.937,
+		"vote_average": 6.938,
 		"slug": "ant-man-and-the-wasp",
 		"tags": [
 			"movie",
@@ -2253,7 +2253,7 @@
 		"release_date": "2018-05-10",
 		"title": "Deadpool 2",
 		"video": false,
-		"vote_average": 7.5,
+		"vote_average": 7.491,
 		"slug": "deadpool-2",
 		"tags": [
 			"movie",
@@ -2373,7 +2373,7 @@
 		"poster_path": "/tM6xqRKXoloH9UchaJEyyRE9O1w.jpg",
 		"first_air_date": "2017-11-17",
 		"name": "Marvel's The Punisher",
-		"vote_average": 8.113,
+		"vote_average": 8.114,
 		"title": "Marvel's The Punisher",
 		"slug": "marvels-the-punisher",
 		"tags": [
@@ -2574,7 +2574,7 @@
 		],
 		"release_date": "2017-03-03",
 		"video": false,
-		"vote_average": 7.146,
+		"vote_average": 7.147,
 		"slug": "deadpool-no-good-deed",
 		"tags": [
 			"list-8204860"
@@ -2596,7 +2596,7 @@
 		"release_date": "2017-02-28",
 		"title": "Logan",
 		"video": false,
-		"vote_average": 7.8,
+		"vote_average": 7.819,
 		"slug": "logan",
 		"tags": [
 			"movie",
@@ -2841,7 +2841,7 @@
 		"release_date": "2016-02-09",
 		"title": "Deadpool",
 		"video": false,
-		"vote_average": 7.617,
+		"vote_average": 7.618,
 		"slug": "deadpool",
 		"tags": [
 			"movie",
@@ -2983,7 +2983,7 @@
 		"poster_path": "/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
 		"first_air_date": "2015-04-10",
 		"name": "Marvel's Daredevil",
-		"vote_average": 8.161,
+		"vote_average": 8.2,
 		"title": "Marvel's Daredevil",
 		"slug": "marvels-daredevil",
 		"tags": [
@@ -3097,7 +3097,7 @@
 		"release_date": "2014-11-04",
 		"title": "Marvel: 75 Years, from Pulp to Pop!",
 		"video": false,
-		"vote_average": 6.821,
+		"vote_average": 6.866,
 		"slug": "marvel-75-years-from-pulp-to-pop",
 		"tags": [
 			"movie",
@@ -3164,7 +3164,7 @@
 		"release_date": "2014-05-15",
 		"title": "X-Men: Days of Future Past",
 		"video": false,
-		"vote_average": 7.5,
+		"vote_average": 7.529,
 		"slug": "x-men-days-of-future-past",
 		"tags": [
 			"movie",
@@ -3284,7 +3284,7 @@
 		"release_date": "2014-03-20",
 		"title": "Captain America: The Winter Soldier",
 		"video": false,
-		"vote_average": 7.664,
+		"vote_average": 7.7,
 		"slug": "captain-america-the-winter-soldier",
 		"tags": [
 			"movie",
@@ -3467,7 +3467,7 @@
 		"release_date": "2013-07-21",
 		"title": "The Wolverine",
 		"video": false,
-		"vote_average": 6.411,
+		"vote_average": 6.412,
 		"slug": "the-wolverine",
 		"tags": [
 			"movie",
@@ -3631,7 +3631,7 @@
 		"release_date": "2012-06-23",
 		"title": "The Amazing Spider-Man",
 		"video": false,
-		"vote_average": 6.704,
+		"vote_average": 6.7,
 		"slug": "the-amazing-spider-man",
 		"tags": [
 			"movie",
@@ -3747,7 +3747,7 @@
 		"release_date": "2011-09-13",
 		"title": "Marvel One-Shot: The Consultant",
 		"video": false,
-		"vote_average": 6.34,
+		"vote_average": 6.339,
 		"slug": "marvel-one-shot-the-consultant",
 		"tags": [
 			"movie",
@@ -3920,7 +3920,7 @@
 		"release_date": "2010-04-28",
 		"title": "Iron Man 2",
 		"video": false,
-		"vote_average": 6.841,
+		"vote_average": 6.842,
 		"slug": "iron-man-2",
 		"tags": [
 			"movie",
@@ -4216,7 +4216,7 @@
 		"release_date": "2008-06-12",
 		"title": "The Incredible Hulk",
 		"video": false,
-		"vote_average": 6.2,
+		"vote_average": 6.211,
 		"slug": "the-incredible-hulk",
 		"tags": [
 			"movie",
@@ -4315,7 +4315,7 @@
 		"release_date": "2007-06-13",
 		"title": "Fantastic Four: Rise of the Silver Surfer",
 		"video": false,
-		"vote_average": 5.604,
+		"vote_average": 5.6,
 		"slug": "fantastic-four-rise-of-the-silver-surfer",
 		"tags": [
 			"movie",
@@ -4512,7 +4512,7 @@
 		"release_date": "2006-05-24",
 		"title": "X-Men: The Last Stand",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.41,
 		"slug": "x-men-the-last-stand",
 		"tags": [
 			"movie",
@@ -4537,7 +4537,7 @@
 		"release_date": "2005-06-29",
 		"title": "Fantastic Four",
 		"video": false,
-		"vote_average": 5.783,
+		"vote_average": 5.8,
 		"slug": "fantastic-four",
 		"tags": [
 			"movie",
@@ -4630,7 +4630,7 @@
 		"release_date": "2004-06-25",
 		"title": "Spider-Man 2",
 		"video": false,
-		"vote_average": 7.28,
+		"vote_average": 7.3,
 		"slug": "spider-man-2",
 		"tags": [
 			"movie",
@@ -4653,7 +4653,7 @@
 		"release_date": "2004-04-15",
 		"title": "The Punisher",
 		"video": false,
-		"vote_average": 6.349,
+		"vote_average": 6.35,
 		"slug": "the-punisher",
 		"tags": [
 			"movie",
@@ -4772,7 +4772,7 @@
 		"release_date": "2002-05-01",
 		"title": "Spider-Man",
 		"video": false,
-		"vote_average": 7.297,
+		"vote_average": 7.3,
 		"slug": "spider-man",
 		"tags": [
 			"movie",
@@ -4827,7 +4827,7 @@
 		"poster_path": "/At5aZIKkN8zHTAXOnQR9D3b7usW.jpg",
 		"first_air_date": "2000-11-04",
 		"name": "X-Men: Evolution",
-		"vote_average": 7.916,
+		"vote_average": 7.918,
 		"title": "X-Men: Evolution",
 		"slug": "x-men-evolution",
 		"tags": [
@@ -4854,7 +4854,7 @@
 		],
 		"release_date": "2000-07-13",
 		"video": false,
-		"vote_average": 7.003,
+		"vote_average": 7.002,
 		"slug": "x-men",
 		"tags": [
 			"list-8204860"
@@ -4930,7 +4930,7 @@
 		"release_date": "1998-05-26",
 		"title": "Nick Fury: Agent of S.H.I.E.L.D.",
 		"video": false,
-		"vote_average": 4.6,
+		"vote_average": 4.566,
 		"slug": "nick-fury-agent-of-shield",
 		"tags": [
 			"movie",
@@ -5158,7 +5158,7 @@
 			10759
 		],
 		"first_air_date": "1992-10-31",
-		"vote_average": 8.2,
+		"vote_average": 8.192,
 		"origin_country": [
 			"US"
 		],
