@@ -19,7 +19,7 @@ logo_on_black: /.netlify/functions/tmdb-image/dHhniU1vz1C0j27AFdcsPmq6xu.webp
     "id": 986056,
     "original_language": "en",
     "original_title": "Thunderbolts*",
-    "overview": "A group of misfit villains from the MCU are given a chance to redeem themselves. ",
+    "overview": "An irreverent team-up featuring depressed assassin Yelena Belova alongside the MCU’s least anticipated band of misfits.",
     "poster_path": "/oVUZVSzvY7Ode4LzVphY2HWz4MA.jpg",
     "release_date": "2025-04-30",
     "title": "Thunderbolts*",

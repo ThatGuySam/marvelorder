@@ -28,11 +28,11 @@ logo_on_black: /.netlify/functions/tmdb-image/fa6aYdjF083UV2w6V7hOAjwaqi4.webp
 ```json
 {
     "adult": false,
-    "backdrop_path": "/9l1eZiJHmhr5jIlthMdJN5WYoff.jpg",
+    "backdrop_path": "/dvBCdCohwWbsP5qAaglOXagDMtk.jpg",
     "genre_ids": [
-        878,
         28,
-        35
+        35,
+        878
     ],
     "id": 533535,
     "original_language": "en",
@@ -42,7 +42,7 @@ logo_on_black: /.netlify/functions/tmdb-image/fa6aYdjF083UV2w6V7hOAjwaqi4.webp
     "release_date": "2024-07-24",
     "title": "Deadpool & Wolverine",
     "video": false,
-    "vote_average": 8.1,
+    "vote_average": 8.078,
     "slug": "deadpool-and-wolverine",
     "tags": [
         "movie",
