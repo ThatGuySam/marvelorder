@@ -34,7 +34,7 @@ watchLinks:
     "release_date": "2004-12-08",
     "title": "Blade: Trinity",
     "video": false,
-    "vote_average": 5.857,
+    "vote_average": 5.859,
     "slug": "blade-trinity",
     "tags": [
         "movie",

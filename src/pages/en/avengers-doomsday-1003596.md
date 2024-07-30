@@ -29,7 +29,7 @@ media_type: movie
 ```json
 {
     "adult": false,
-    "backdrop_path": "/qnSnc2b3hBtgyYW9JxDf9XNKVGL.jpg",
+    "backdrop_path": "/mtSZjwZxtPn8oMPliyMiatQLbGv.jpg",
     "genre_ids": [
         878
     ],
