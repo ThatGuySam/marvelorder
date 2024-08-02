@@ -12,7 +12,7 @@ watchLinks:
 ## TMDB Data
 ```json
 {
-    "backdrop_path": "/gsljBGOjBkbuNt3gvIDXQWnudn.jpg",
+    "backdrop_path": "/sUELHitVw5U0tOJg0x34wY7eTuh.jpg",
     "id": 558144,
     "title": "Deadpool: No Good Deed",
     "original_title": "Deadpool: No Good Deed",

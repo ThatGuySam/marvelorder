@@ -19,7 +19,7 @@ mcuTimelineOrder: 234
 ```json
 {
     "adult": false,
-    "backdrop_path": "/6azpBJGcLx9SKif8h9VMnflBfa.jpg",
+    "backdrop_path": "/dq18nCTTLpy9PmtzZI6Y2yAgdw5.jpg",
     "genre_ids": [
         28,
         12,
@@ -33,7 +33,7 @@ mcuTimelineOrder: 234
     "release_date": "2021-07-07",
     "title": "Black Widow",
     "video": false,
-    "vote_average": 7.2,
+    "vote_average": 7.249,
     "slug": "black-widow",
     "tags": [
         "movie",
