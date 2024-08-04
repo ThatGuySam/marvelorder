@@ -18,7 +18,7 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/Ak7eD2BSLhO3RmK4ObYsMd7oPsk.jpg",
+    "backdrop_path": "/cjRUhKyt2Jo3V1KNzc5tpPNfccG.jpg",
     "genre_ids": [
         878,
         28,
@@ -32,7 +32,7 @@ watchLinks:
     "release_date": "2019-06-05",
     "title": "Dark Phoenix",
     "video": false,
-    "vote_average": 6,
+    "vote_average": 5.981,
     "slug": "dark-phoenix",
     "tags": [
         "movie",

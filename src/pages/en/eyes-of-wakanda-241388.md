@@ -40,7 +40,7 @@ tags:
     "original_language": "en",
     "original_name": "Eyes of Wakanda",
     "overview": "Throughout Wakandan history, brave warriors have been tasked to travel the world retrieving dangerous vibranium artifacts. This is their story.",
-    "poster_path": "/zsBZ4i0cP0FPP751huFHJBmrPVN.jpg",
+    "poster_path": null,
     "first_air_date": "",
     "name": "Eyes of Wakanda",
     "vote_average": 0,
