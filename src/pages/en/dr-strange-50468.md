@@ -15,7 +15,7 @@ poster_path: /5B4z5Ch5Dek8hQJ7UlIVZgWLntV.jpg
 ## TMDB Data
 ```json
 {
-    "backdrop_path": "/kw4GhCZP5NeMVsfPol6HcX9JEeQ.jpg",
+    "backdrop_path": "/6iEel19duDJBH2DMCnywJ19LW8X.jpg",
     "id": 50468,
     "title": "Dr. Strange",
     "original_title": "Dr. Strange",
@@ -33,7 +33,7 @@ poster_path: /5B4z5Ch5Dek8hQJ7UlIVZgWLntV.jpg
     ],
     "release_date": "1978-09-06",
     "video": false,
-    "vote_average": 5.9,
+    "vote_average": 5.884,
     "slug": "dr-strange",
     "tags": [
         "list-8204862"
