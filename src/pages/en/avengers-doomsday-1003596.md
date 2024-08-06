@@ -29,7 +29,7 @@ media_type: movie
 ```json
 {
     "adult": false,
-    "backdrop_path": "/mtSZjwZxtPn8oMPliyMiatQLbGv.jpg",
+    "backdrop_path": "/vrncuH8IDqQ5M47XPk19yxY8o1b.jpg",
     "genre_ids": [
         878
     ],
@@ -37,7 +37,7 @@ media_type: movie
     "original_language": "en",
     "original_title": "Avengers: Doomsday",
     "overview": "An upcoming film in the MCU’s sixth Phase and part of The Multiverse Saga. Plot unknown.",
-    "poster_path": "/9W7pGZc0iWvyYd4Du5I1pUmNceg.jpg",
+    "poster_path": "/3GsSSzjqgeM3Hao1hdgY4TaI4gg.jpg",
     "release_date": "2026-04-29",
     "title": "Avengers: Doomsday",
     "video": false,
