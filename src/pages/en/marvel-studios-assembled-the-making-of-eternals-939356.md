@@ -45,7 +45,7 @@ tags:
     "release_date": "2022-02-16",
     "title": "Marvel Studios Assembled: The Making of Eternals",
     "video": false,
-    "vote_average": 7.27,
+    "vote_average": 7.3,
     "slug": "marvel-studios-assembled-the-making-of-eternals",
     "tags": [
         "movie",
