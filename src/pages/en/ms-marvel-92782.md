@@ -19,7 +19,7 @@ mcuTimelineOrder: 624
 ```json
 {
     "adult": false,
-    "backdrop_path": "/rlCRM7U5g2hcU1O8ylGcqsMYHIP.jpg",
+    "backdrop_path": "/mfcLUWASJghU8MTNK38eYktfE83.jpg",
     "genre_ids": [
         10765,
         10759,
@@ -35,7 +35,7 @@ mcuTimelineOrder: 624
     "poster_path": "/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
     "first_air_date": "2022-06-08",
     "name": "Ms. Marvel",
-    "vote_average": 6.47,
+    "vote_average": 6.5,
     "title": "Ms. Marvel",
     "slug": "ms-marvel",
     "tags": [
