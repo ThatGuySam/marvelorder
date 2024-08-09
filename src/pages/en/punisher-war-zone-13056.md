@@ -30,11 +30,11 @@ watchLinks:
     "original_language": "en",
     "original_title": "Punisher: War Zone",
     "overview": "Waging his one-man war on the world of organized crime, ruthless vigilante-hero Frank Castle sets his sights on overeager mob boss Billy Russoti. After Russoti is left horribly disfigured by Castle, he sets out for vengeance under his new alias: Jigsaw. With the \"Punisher Task Force\" hot on his trail and the FBI unable to take Jigsaw in, Frank must stand up to the formidable army that Jigsaw has recruited before more of his evil deeds go unpunished.",
-    "poster_path": "/qp6RpE3MTSjUu9km96NzldykWki.jpg",
+    "poster_path": "/gxIaSGGGemqtMeEjUnGJNjj7u1p.jpg",
     "release_date": "2008-12-05",
     "title": "Punisher: War Zone",
     "video": false,
-    "vote_average": 5.814,
+    "vote_average": 5.813,
     "slug": "punisher-war-zone",
     "tags": [
         "movie",
