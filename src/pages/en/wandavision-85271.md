@@ -16,7 +16,7 @@ mcuTimelineOrder: 523
 ```json
 {
     "adult": false,
-    "backdrop_path": "/fFChYJySyn5N7EwyH4Z18k1bmeN.jpg",
+    "backdrop_path": "/1i1N0AVRb54H6ZFPDTwbo9MLxSF.jpg",
     "genre_ids": [
         10765,
         9648,
@@ -32,7 +32,7 @@ mcuTimelineOrder: 523
     "poster_path": "/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
     "first_air_date": "2021-01-15",
     "name": "WandaVision",
-    "vote_average": 8.233,
+    "vote_average": 8.2,
     "title": "WandaVision",
     "slug": "wandavision",
     "tags": [
