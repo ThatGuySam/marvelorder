@@ -33,7 +33,7 @@ mcuTimelineOrder: 234
     "release_date": "2021-07-07",
     "title": "Black Widow",
     "video": false,
-    "vote_average": 7.248,
+    "vote_average": 7.247,
     "slug": "black-widow",
     "tags": [
         "movie",
