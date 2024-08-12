@@ -14,9 +14,7 @@ logo_on_black: /.netlify/functions/tmdb-image/dHhniU1vz1C0j27AFdcsPmq6xu.webp
     "backdrop_path": "/vzVojqW0zF9QrXVGuj8PwhxWACD.jpg",
     "genre_ids": [
         28,
-        12,
-        878,
-        80
+        12
     ],
     "id": 986056,
     "original_language": "en",
