@@ -14,7 +14,7 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/tqPRfJsrCtX5BvtAP4Bahwhq2dU.jpg",
+    "backdrop_path": "/7D2PgX369YYePs4m44IQvROWM42.jpg",
     "genre_ids": [
         28,
         878,
@@ -28,7 +28,7 @@ watchLinks:
     "release_date": "2013-07-21",
     "title": "The Wolverine",
     "video": false,
-    "vote_average": 6.414,
+    "vote_average": 6.4,
     "slug": "the-wolverine",
     "tags": [
         "movie",

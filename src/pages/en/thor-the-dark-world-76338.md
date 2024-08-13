@@ -35,7 +35,7 @@ tags:
     "release_date": "2013-10-30",
     "title": "Thor: The Dark World",
     "video": false,
-    "vote_average": 6.528,
+    "vote_average": 6.527,
     "slug": "thor-the-dark-world",
     "tags": [
         "movie",
