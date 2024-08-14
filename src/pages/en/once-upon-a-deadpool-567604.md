@@ -25,7 +25,7 @@ watchLinks:
     "id": 567604,
     "original_language": "en",
     "original_title": "Once Upon a Deadpool",
-    "overview": "A kidnapped Fred Savage is forced to endure Deadpool's PG-13 rendition of Deadpool 2 as a Princess Bride-esque story that's full of magic, wonder & zero F's.",
+    "overview": "A kidnapped Fred Savage is forced to endure Deadpool's PG-13 rendition of Deadpool 2, as a Princess Bride-esque story that's full of magic, wonder, and zero Fs.",
     "poster_path": "/5Ka49BWWyKMXr93YMbH5wLN7aAM.jpg",
     "release_date": "2018-12-11",
     "title": "Once Upon a Deadpool",
