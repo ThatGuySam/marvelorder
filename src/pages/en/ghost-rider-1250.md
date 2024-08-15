@@ -33,7 +33,7 @@ watchLinks:
     "release_date": "2007-01-15",
     "title": "Ghost Rider",
     "video": false,
-    "vote_average": 5.6,
+    "vote_average": 5.57,
     "slug": "ghost-rider",
     "tags": [
         "movie",
