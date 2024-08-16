@@ -23,7 +23,8 @@ mcuTimelineOrder: 640
     "genre_ids": [
         878,
         12,
-        28
+        28,
+        35
     ],
     "id": 447365,
     "original_language": "en",
@@ -33,7 +34,7 @@ mcuTimelineOrder: 640
     "release_date": "2023-05-03",
     "title": "Guardians of the Galaxy Vol. 3",
     "video": false,
-    "vote_average": 8,
+    "vote_average": 7.969,
     "slug": "guardians-of-the-galaxy-vol-3",
     "tags": [
         "movie",
