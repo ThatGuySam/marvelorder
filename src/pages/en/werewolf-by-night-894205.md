@@ -33,7 +33,7 @@ mcuTimelineOrder: 635
     "release_date": "2022-09-25",
     "title": "Werewolf by Night",
     "video": false,
-    "vote_average": 6.991,
+    "vote_average": 6.992,
     "slug": "werewolf-by-night",
     "tags": [
         "movie",
