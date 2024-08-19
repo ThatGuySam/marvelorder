@@ -542,7 +542,7 @@
 		"release_date": "2024-07-24",
 		"title": "Deadpool & Wolverine",
 		"video": false,
-		"vote_average": 7.796,
+		"vote_average": 7.784,
 		"slug": "deadpool-and-wolverine",
 		"tags": [
 			"movie",
@@ -590,7 +590,7 @@
 		"poster_path": "/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg",
 		"first_air_date": "2024-03-20",
 		"name": "X-Men '97",
-		"vote_average": 8.675,
+		"vote_average": 8.678,
 		"title": "X-Men '97",
 		"slug": "x-men-97",
 		"tags": [
@@ -791,7 +791,7 @@
 		"poster_path": "/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg",
 		"first_air_date": "2023-06-21",
 		"name": "Secret Invasion",
-		"vote_average": 6.754,
+		"vote_average": 6.753,
 		"title": "Secret Invasion",
 		"slug": "secret-invasion",
 		"tags": [
@@ -976,7 +976,7 @@
 		"release_date": "2022-11-24",
 		"title": "The Guardians of the Galaxy Holiday Special",
 		"video": false,
-		"vote_average": 7.164,
+		"vote_average": 7.162,
 		"slug": "the-guardians-of-the-galaxy-holiday-special",
 		"tags": [
 			"movie",
@@ -999,7 +999,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 7.108,
+		"vote_average": 7.109,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -1064,7 +1064,7 @@
 		"release_date": "2022-09-25",
 		"title": "Werewolf by Night",
 		"video": false,
-		"vote_average": 6.992,
+		"vote_average": 6.993,
 		"slug": "werewolf-by-night",
 		"tags": [
 			"movie",
@@ -1109,7 +1109,7 @@
 		"poster_path": "/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
 		"first_air_date": "2022-08-18",
 		"name": "She-Hulk: Attorney at Law",
-		"vote_average": 6.3,
+		"vote_average": 6.262,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
 		"tags": [
@@ -1137,7 +1137,7 @@
 		"poster_path": "/lYwFSsP4KsoRhOLhJvBFp3GEGEm.jpg",
 		"first_air_date": "2022-08-10",
 		"name": "I Am Groot",
-		"vote_average": 7.271,
+		"vote_average": 7.3,
 		"title": "I Am Groot",
 		"slug": "i-am-groot",
 		"tags": [
@@ -1162,7 +1162,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot's First Steps",
 		"video": false,
-		"vote_average": 7.032,
+		"vote_average": 7.038,
 		"slug": "groots-first-steps",
 		"tags": [
 			"movie",
@@ -1186,7 +1186,7 @@
 		"release_date": "2022-08-10",
 		"title": "The Little Guy",
 		"video": false,
-		"vote_average": 7.337,
+		"vote_average": 7.343,
 		"slug": "the-little-guy",
 		"tags": [
 			"movie",
@@ -1210,7 +1210,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot's Pursuit",
 		"video": false,
-		"vote_average": 7.143,
+		"vote_average": 7.15,
 		"slug": "groots-pursuit",
 		"tags": [
 			"movie",
@@ -1234,7 +1234,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot Takes a Bath",
 		"video": false,
-		"vote_average": 7.145,
+		"vote_average": 7.148,
 		"slug": "groot-takes-a-bath",
 		"tags": [
 			"movie",
@@ -1279,7 +1279,7 @@
 		"release_date": "2022-07-18",
 		"title": "Magnum Opus",
 		"video": false,
-		"vote_average": 7.335,
+		"vote_average": 7.339,
 		"slug": "magnum-opus",
 		"tags": [
 			"movie",
@@ -1323,7 +1323,7 @@
 		"release_date": "2022-07-06",
 		"title": "Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 6.452,
+		"vote_average": 6.451,
 		"slug": "thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -1348,7 +1348,7 @@
 		"poster_path": "/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
 		"first_air_date": "2022-06-08",
 		"name": "Ms. Marvel",
-		"vote_average": 6.462,
+		"vote_average": 6.457,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
 		"tags": [
@@ -1414,7 +1414,7 @@
 		"release_date": "2022-05-04",
 		"title": "Doctor Strange in the Multiverse of Madness",
 		"video": false,
-		"vote_average": 7.292,
+		"vote_average": 7.291,
 		"slug": "doctor-strange-in-the-multiverse-of-madness",
 		"tags": [
 			"movie",
@@ -1505,7 +1505,7 @@
 		"release_date": "2021-12-15",
 		"title": "Spider-Man: No Way Home",
 		"video": false,
-		"vote_average": 7.961,
+		"vote_average": 7.96,
 		"slug": "spider-man-no-way-home",
 		"tags": [
 			"movie",
@@ -1600,7 +1600,7 @@
 		"release_date": "2021-11-03",
 		"title": "Eternals",
 		"video": false,
-		"vote_average": 6.866,
+		"vote_average": 6.865,
 		"slug": "eternals",
 		"tags": [
 			"movie",
@@ -1623,7 +1623,7 @@
 		"release_date": "2021-09-01",
 		"title": "Shang-Chi and the Legend of the Ten Rings",
 		"video": false,
-		"vote_average": 7.551,
+		"vote_average": 7.55,
 		"slug": "shang-chi-and-the-legend-of-the-ten-rings",
 		"tags": [
 			"movie",
@@ -1648,7 +1648,7 @@
 		"poster_path": "/rWg4Jk7NwVEz2BtU1aKKDoDJPeB.jpg",
 		"first_air_date": "2021-08-11",
 		"name": "What If...?",
-		"vote_average": 8.2,
+		"vote_average": 8.156,
 		"title": "What If...?",
 		"slug": "what-if",
 		"tags": [
@@ -1927,7 +1927,7 @@
 		"release_date": "2020-04-02",
 		"title": "The New Mutants",
 		"video": false,
-		"vote_average": 6.111,
+		"vote_average": 6.11,
 		"slug": "the-new-mutants",
 		"tags": [
 			"movie",
@@ -2018,7 +2018,7 @@
 		"release_date": "2019-06-28",
 		"title": "Spider-Man: Far From Home",
 		"video": false,
-		"vote_average": 7.4,
+		"vote_average": 7.427,
 		"slug": "spider-man-far-from-home",
 		"tags": [
 			"movie",
@@ -2041,7 +2041,7 @@
 		"release_date": "2019-06-05",
 		"title": "Dark Phoenix",
 		"video": false,
-		"vote_average": 5.981,
+		"vote_average": 6,
 		"slug": "dark-phoenix",
 		"tags": [
 			"movie",
@@ -2066,7 +2066,7 @@
 		"release_date": "2019-04-24",
 		"title": "Avengers: Endgame",
 		"video": false,
-		"vote_average": 8.253,
+		"vote_average": 8.252,
 		"slug": "avengers-endgame",
 		"tags": [
 			"movie",
@@ -2138,7 +2138,7 @@
 		"release_date": "2018-12-06",
 		"title": "Spider-Man: Into the Spider-Verse",
 		"video": false,
-		"vote_average": 8.402,
+		"vote_average": 8.401,
 		"slug": "spider-man-into-the-spider-verse",
 		"tags": [
 			"movie",
@@ -2162,7 +2162,7 @@
 		"release_date": "2018-09-28",
 		"title": "Venom",
 		"video": false,
-		"vote_average": 6.827,
+		"vote_average": 6.8,
 		"slug": "venom",
 		"tags": [
 			"movie",
@@ -2280,7 +2280,7 @@
 		"release_date": "2018-02-20",
 		"title": "Team Darryl",
 		"video": false,
-		"vote_average": 6.195,
+		"vote_average": 6.187,
 		"slug": "team-darryl",
 		"tags": [
 			"movie",
@@ -2303,7 +2303,7 @@
 		"release_date": "2018-02-13",
 		"title": "Black Panther",
 		"video": false,
-		"vote_average": 7.4,
+		"vote_average": 7.384,
 		"slug": "black-panther",
 		"tags": [
 			"movie",
@@ -2354,7 +2354,7 @@
 		"poster_path": "/tM6xqRKXoloH9UchaJEyyRE9O1w.jpg",
 		"first_air_date": "2017-11-17",
 		"name": "Marvel's The Punisher",
-		"vote_average": 8.118,
+		"vote_average": 8.119,
 		"title": "Marvel's The Punisher",
 		"slug": "marvels-the-punisher",
 		"tags": [
@@ -2380,7 +2380,7 @@
 		"poster_path": "/nshCqszjTNuqhrB53vrSqWO18sE.jpg",
 		"first_air_date": "2017-10-02",
 		"name": "The Gifted",
-		"vote_average": 7.6,
+		"vote_average": 7.64,
 		"title": "The Gifted",
 		"slug": "the-gifted",
 		"tags": [
@@ -2457,7 +2457,7 @@
 		"poster_path": "/49XzINhH4LFsgz7cx6TOPcHUJUL.jpg",
 		"first_air_date": "2017-08-18",
 		"name": "Marvel's The Defenders",
-		"vote_average": 7.075,
+		"vote_average": 7.074,
 		"title": "Marvel's The Defenders",
 		"slug": "marvels-the-defenders",
 		"tags": [
@@ -2555,7 +2555,7 @@
 		],
 		"release_date": "2017-03-03",
 		"video": false,
-		"vote_average": 7.145,
+		"vote_average": 7.143,
 		"slug": "deadpool-no-good-deed",
 		"tags": [
 			"list-8204860"
@@ -2602,7 +2602,7 @@
 		"release_date": "2017-02-14",
 		"title": "Team Thor: Part 2",
 		"video": false,
-		"vote_average": 6.969,
+		"vote_average": 6.976,
 		"slug": "team-thor-part-2",
 		"tags": [
 			"movie",
@@ -2727,7 +2727,7 @@
 		"poster_path": "/6R62oGGufhsf6DiMknCi047N0b7.jpg",
 		"first_air_date": "2016-09-30",
 		"name": "Marvel's Luke Cage",
-		"vote_average": 6.941,
+		"vote_average": 6.94,
 		"title": "Marvel's Luke Cage",
 		"slug": "marvels-luke-cage",
 		"tags": [
@@ -2750,7 +2750,7 @@
 		"release_date": "2016-08-28",
 		"title": "Team Thor",
 		"video": false,
-		"vote_average": 7.284,
+		"vote_average": 7.281,
 		"slug": "team-thor",
 		"tags": [
 			"movie",
@@ -2774,7 +2774,7 @@
 		"release_date": "2016-05-18",
 		"title": "X-Men: Apocalypse",
 		"video": false,
-		"vote_average": 6.517,
+		"vote_average": 6.5,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"movie",
@@ -2893,7 +2893,7 @@
 		"release_date": "2015-08-05",
 		"title": "Fantastic Four",
 		"video": false,
-		"vote_average": 4.418,
+		"vote_average": 4.417,
 		"slug": "fantastic-four",
 		"tags": [
 			"movie",
@@ -3216,7 +3216,7 @@
 		"release_date": "2014-04-16",
 		"title": "The Amazing Spider-Man 2",
 		"video": false,
-		"vote_average": 6.51,
+		"vote_average": 6.509,
 		"slug": "the-amazing-spider-man-2",
 		"tags": [
 			"movie",
@@ -3310,7 +3310,7 @@
 		"release_date": "2014-02-04",
 		"title": "Marvel One-Shot: All Hail the King",
 		"video": false,
-		"vote_average": 6.759,
+		"vote_average": 6.758,
 		"slug": "marvel-one-shot-all-hail-the-king",
 		"tags": [
 			"movie",
@@ -3354,7 +3354,7 @@
 		"release_date": "2013-10-30",
 		"title": "Thor: The Dark World",
 		"video": false,
-		"vote_average": 6.527,
+		"vote_average": 6.526,
 		"slug": "thor-the-dark-world",
 		"tags": [
 			"movie",
@@ -3425,7 +3425,7 @@
 		"release_date": "2013-09-03",
 		"title": "Marvel One-Shot: Agent Carter",
 		"video": false,
-		"vote_average": 7.242,
+		"vote_average": 7.239,
 		"slug": "marvel-one-shot-agent-carter",
 		"tags": [
 			"movie",
@@ -3543,7 +3543,7 @@
 		"release_date": "2013-04-18",
 		"title": "Iron Man 3",
 		"video": false,
-		"vote_average": 6.93,
+		"vote_average": 6.929,
 		"slug": "iron-man-3",
 		"tags": [
 			"movie",
@@ -3566,7 +3566,7 @@
 		"release_date": "2012-08-29",
 		"title": "Marvel One-Shot: Item 47",
 		"video": false,
-		"vote_average": 6.448,
+		"vote_average": 6.445,
 		"slug": "marvel-one-shot-item-47",
 		"tags": [
 			"movie",
@@ -3704,7 +3704,7 @@
 		"release_date": "2011-10-25",
 		"title": "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer",
 		"video": false,
-		"vote_average": 6.823,
+		"vote_average": 6.819,
 		"slug": "marvel-one-shot-a-funny-thing-happened-on-the-way-to-thors-hammer",
 		"tags": [
 			"movie",
@@ -3728,7 +3728,7 @@
 		"release_date": "2011-09-13",
 		"title": "Marvel One-Shot: The Consultant",
 		"video": false,
-		"vote_average": 6.329,
+		"vote_average": 6.33,
 		"slug": "marvel-one-shot-the-consultant",
 		"tags": [
 			"movie",
@@ -3800,7 +3800,7 @@
 		"release_date": "2011-04-21",
 		"title": "Thor",
 		"video": false,
-		"vote_average": 6.77,
+		"vote_average": 6.769,
 		"slug": "thor",
 		"tags": [
 			"movie",
@@ -3875,7 +3875,7 @@
 		"poster_path": "/8MwwAuDy6dc1GbiBUZdvWtQczqR.jpg",
 		"first_air_date": "2010-10-20",
 		"name": "The Avengers: Earth's Mightiest Heroes",
-		"vote_average": 8.154,
+		"vote_average": 8.2,
 		"title": "The Avengers: Earth's Mightiest Heroes",
 		"slug": "the-avengers-earths-mightiest-heroes",
 		"tags": [
@@ -4197,7 +4197,7 @@
 		"release_date": "2008-06-12",
 		"title": "The Incredible Hulk",
 		"video": false,
-		"vote_average": 6.2,
+		"vote_average": 6.21,
 		"slug": "the-incredible-hulk",
 		"tags": [
 			"movie",
@@ -4391,7 +4391,7 @@
 		"release_date": "2007-01-15",
 		"title": "Ghost Rider",
 		"video": false,
-		"vote_average": 5.569,
+		"vote_average": 5.57,
 		"slug": "ghost-rider",
 		"tags": [
 			"movie",
@@ -4588,7 +4588,7 @@
 		"release_date": "2004-12-08",
 		"title": "Blade: Trinity",
 		"video": false,
-		"vote_average": 5.862,
+		"vote_average": 5.863,
 		"slug": "blade-trinity",
 		"tags": [
 			"movie",
@@ -4611,7 +4611,7 @@
 		"release_date": "2004-06-25",
 		"title": "Spider-Man 2",
 		"video": false,
-		"vote_average": 7.283,
+		"vote_average": 7.282,
 		"slug": "spider-man-2",
 		"tags": [
 			"movie",
@@ -4684,7 +4684,7 @@
 		"release_date": "2003-06-19",
 		"title": "Hulk",
 		"video": false,
-		"vote_average": 5.5,
+		"vote_average": 5.547,
 		"slug": "hulk",
 		"tags": [
 			"movie",
@@ -4753,7 +4753,7 @@
 		"release_date": "2002-05-01",
 		"title": "Spider-Man",
 		"video": false,
-		"vote_average": 7.298,
+		"vote_average": 7.297,
 		"slug": "spider-man",
 		"tags": [
 			"movie",
@@ -4808,7 +4808,7 @@
 		"poster_path": "/At5aZIKkN8zHTAXOnQR9D3b7usW.jpg",
 		"first_air_date": "2000-11-04",
 		"name": "X-Men: Evolution",
-		"vote_average": 7.927,
+		"vote_average": 7.93,
 		"title": "X-Men: Evolution",
 		"slug": "x-men-evolution",
 		"tags": [
@@ -4835,7 +4835,7 @@
 		],
 		"release_date": "2000-07-13",
 		"video": false,
-		"vote_average": 7.004,
+		"vote_average": 7.003,
 		"slug": "x-men",
 		"tags": [
 			"list-8204860"
@@ -4911,7 +4911,7 @@
 		"release_date": "1998-05-26",
 		"title": "Nick Fury: Agent of S.H.I.E.L.D.",
 		"video": false,
-		"vote_average": 4.6,
+		"vote_average": 4.566,
 		"slug": "nick-fury-agent-of-shield",
 		"tags": [
 			"movie",
