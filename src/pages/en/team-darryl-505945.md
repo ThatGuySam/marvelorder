@@ -30,7 +30,7 @@ watchLinks:
     "release_date": "2018-02-20",
     "title": "Team Darryl",
     "video": false,
-    "vote_average": 6.187,
+    "vote_average": 6.179,
     "slug": "team-darryl",
     "tags": [
         "movie",
