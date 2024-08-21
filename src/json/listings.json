@@ -424,7 +424,7 @@
 		"original_language": "en",
 		"original_title": "Blade",
 		"overview": "A film set in the Marvel Cinematic Universe (MCU) based on the Marvel Comics character of the same name.",
-		"poster_path": "/zRAMcAflTo7r0M4m3fabYG6IAYi.jpg",
+		"poster_path": "/fKqA4rgVJwrM7Gb3tQ9TGHnu8Tr.jpg",
 		"release_date": "2025-11-06",
 		"title": "Blade",
 		"video": false,
@@ -703,7 +703,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.094,
+		"vote_average": 6.092,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -791,7 +791,7 @@
 		"poster_path": "/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg",
 		"first_air_date": "2023-06-21",
 		"name": "Secret Invasion",
-		"vote_average": 6.8,
+		"vote_average": 6.754,
 		"title": "Secret Invasion",
 		"slug": "secret-invasion",
 		"tags": [
@@ -837,7 +837,7 @@
 		"release_date": "2023-05-31",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
-		"vote_average": 8.355,
+		"vote_average": 8.354,
 		"slug": "spider-man-across-the-spider-verse",
 		"tags": [
 			"movie",
@@ -1060,11 +1060,11 @@
 		"original_language": "en",
 		"original_title": "Werewolf by Night",
 		"overview": "On a dark and somber night, a secret cabal of monster hunters emerge from the shadows and gather at the foreboding Bloodstone Temple following the death of their leader. In a strange and macabre memorial to the leader’s life, the attendees are thrust into a mysterious and deadly competition for a powerful relic—a hunt that will ultimately bring them face to face with a dangerous monster.",
-		"poster_path": "/q843tchC7mYK76thfKr81ppx8EE.jpg",
+		"poster_path": "/mvIvNKRIJPPS7WSFarFhOAGIVnU.jpg",
 		"release_date": "2022-09-25",
 		"title": "Werewolf by Night",
 		"video": false,
-		"vote_average": 6.993,
+		"vote_average": 7,
 		"slug": "werewolf-by-night",
 		"tags": [
 			"movie",
@@ -1109,7 +1109,7 @@
 		"poster_path": "/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
 		"first_air_date": "2022-08-18",
 		"name": "She-Hulk: Attorney at Law",
-		"vote_average": 6.264,
+		"vote_average": 6.263,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
 		"tags": [
@@ -1323,7 +1323,7 @@
 		"release_date": "2022-07-06",
 		"title": "Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 6.452,
+		"vote_average": 6.45,
 		"slug": "thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -1491,7 +1491,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
+		"backdrop_path": "/zD5v1E4joAzFvmAEytt7fM3ivyT.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -1505,7 +1505,7 @@
 		"release_date": "2021-12-15",
 		"title": "Spider-Man: No Way Home",
 		"video": false,
-		"vote_average": 7.96,
+		"vote_average": 8,
 		"slug": "spider-man-no-way-home",
 		"tags": [
 			"movie",
@@ -1852,7 +1852,7 @@
 		"release_date": "2021-01-01",
 		"title": "Black Widow",
 		"video": false,
-		"vote_average": 7.245,
+		"vote_average": 7.244,
 		"slug": "black-widow",
 		"tags": [
 			"movie",
@@ -1927,7 +1927,7 @@
 		"release_date": "2020-04-02",
 		"title": "The New Mutants",
 		"video": false,
-		"vote_average": 6.1,
+		"vote_average": 6.108,
 		"slug": "the-new-mutants",
 		"tags": [
 			"movie",
@@ -2018,7 +2018,7 @@
 		"release_date": "2019-06-28",
 		"title": "Spider-Man: Far From Home",
 		"video": false,
-		"vote_average": 7.4,
+		"vote_average": 7.427,
 		"slug": "spider-man-far-from-home",
 		"tags": [
 			"movie",
@@ -2112,7 +2112,7 @@
 		"release_date": "2018-12-11",
 		"title": "Once Upon a Deadpool",
 		"video": false,
-		"vote_average": 7.088,
+		"vote_average": 7.1,
 		"slug": "once-upon-a-deadpool",
 		"tags": [
 			"movie",
@@ -2303,7 +2303,7 @@
 		"release_date": "2018-02-13",
 		"title": "Black Panther",
 		"video": false,
-		"vote_average": 7.384,
+		"vote_average": 7.4,
 		"slug": "black-panther",
 		"tags": [
 			"movie",
@@ -2354,7 +2354,7 @@
 		"poster_path": "/tM6xqRKXoloH9UchaJEyyRE9O1w.jpg",
 		"first_air_date": "2017-11-17",
 		"name": "Marvel's The Punisher",
-		"vote_average": 8.119,
+		"vote_average": 8.12,
 		"title": "Marvel's The Punisher",
 		"slug": "marvels-the-punisher",
 		"tags": [
@@ -2457,7 +2457,7 @@
 		"poster_path": "/49XzINhH4LFsgz7cx6TOPcHUJUL.jpg",
 		"first_air_date": "2017-08-18",
 		"name": "Marvel's The Defenders",
-		"vote_average": 7.074,
+		"vote_average": 7.1,
 		"title": "Marvel's The Defenders",
 		"slug": "marvels-the-defenders",
 		"tags": [
@@ -2482,7 +2482,7 @@
 		"release_date": "2017-07-05",
 		"title": "Spider-Man: Homecoming",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.337,
 		"slug": "spider-man-homecoming",
 		"tags": [
 			"movie",
@@ -3216,7 +3216,7 @@
 		"release_date": "2014-04-16",
 		"title": "The Amazing Spider-Man 2",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.509,
 		"slug": "the-amazing-spider-man-2",
 		"tags": [
 			"movie",
@@ -3265,7 +3265,7 @@
 		"release_date": "2014-03-20",
 		"title": "Captain America: The Winter Soldier",
 		"video": false,
-		"vote_average": 7.664,
+		"vote_average": 7.663,
 		"slug": "captain-america-the-winter-soldier",
 		"tags": [
 			"movie",
@@ -3448,7 +3448,7 @@
 		"release_date": "2013-07-21",
 		"title": "The Wolverine",
 		"video": false,
-		"vote_average": 6.414,
+		"vote_average": 6.4,
 		"slug": "the-wolverine",
 		"tags": [
 			"movie",
@@ -3566,7 +3566,7 @@
 		"release_date": "2012-08-29",
 		"title": "Marvel One-Shot: Item 47",
 		"video": false,
-		"vote_average": 6.445,
+		"vote_average": 6.436,
 		"slug": "marvel-one-shot-item-47",
 		"tags": [
 			"movie",
@@ -3682,7 +3682,7 @@
 		"release_date": "2011-12-10",
 		"title": "Ghost Rider: Spirit of Vengeance",
 		"video": false,
-		"vote_average": 5,
+		"vote_average": 5.006,
 		"slug": "ghost-rider-spirit-of-vengeance",
 		"tags": [
 			"movie",
@@ -3901,7 +3901,7 @@
 		"release_date": "2010-04-28",
 		"title": "Iron Man 2",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.842,
 		"slug": "iron-man-2",
 		"tags": [
 			"movie",
@@ -4075,7 +4075,7 @@
 		"release_date": "2009-01-27",
 		"title": "Hulk vs. Wolverine",
 		"video": false,
-		"vote_average": 7.091,
+		"vote_average": 7.094,
 		"slug": "hulk-vs-wolverine",
 		"tags": [
 			"movie",
@@ -4099,7 +4099,7 @@
 		"release_date": "2009-01-27",
 		"title": "Hulk vs. Thor",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.776,
 		"slug": "hulk-vs-thor",
 		"tags": [
 			"movie",
@@ -4158,7 +4158,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/6V6rhHkqYvJGlxIQ9mvZuIoY6c9.jpg",
+		"backdrop_path": "/iYY8wiLHASWDxhGWTXfqr4XOAGG.jpg",
 		"genre_ids": [
 			16,
 			10751,
@@ -4221,7 +4221,7 @@
 		"release_date": "2008-04-30",
 		"title": "Iron Man",
 		"video": false,
-		"vote_average": 7.6,
+		"vote_average": 7.645,
 		"slug": "iron-man",
 		"tags": [
 			"movie",
@@ -4427,7 +4427,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/hoJpIYgFPc75NhaSWPNUeMFPMy1.jpg",
+		"backdrop_path": "/xv77AFzMUiTuUsC5qn31jBB21An.jpg",
 		"genre_ids": [
 			12,
 			16,
@@ -4493,7 +4493,7 @@
 		"release_date": "2006-05-24",
 		"title": "X-Men: The Last Stand",
 		"video": false,
-		"vote_average": 6.409,
+		"vote_average": 6.4,
 		"slug": "x-men-the-last-stand",
 		"tags": [
 			"movie",
@@ -4611,7 +4611,7 @@
 		"release_date": "2004-06-25",
 		"title": "Spider-Man 2",
 		"video": false,
-		"vote_average": 7.282,
+		"vote_average": 7.3,
 		"slug": "spider-man-2",
 		"tags": [
 			"movie",
@@ -4808,7 +4808,7 @@
 		"poster_path": "/At5aZIKkN8zHTAXOnQR9D3b7usW.jpg",
 		"first_air_date": "2000-11-04",
 		"name": "X-Men: Evolution",
-		"vote_average": 7.93,
+		"vote_average": 7.932,
 		"title": "X-Men: Evolution",
 		"slug": "x-men-evolution",
 		"tags": [
@@ -5139,7 +5139,7 @@
 			10759
 		],
 		"first_air_date": "1992-10-31",
-		"vote_average": 8.191,
+		"vote_average": 8.19,
 		"origin_country": [
 			"US"
 		],
