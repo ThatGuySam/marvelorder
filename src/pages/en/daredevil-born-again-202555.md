@@ -25,7 +25,7 @@ type: tv
     ],
     "original_language": "en",
     "original_name": "Daredevil: Born Again",
-    "overview": "An upcoming Disney+ series that is a continuation of Daredevil (2015-2018) and Echo (2024) starring Charlie Cox as Matt Murdock.",
+    "overview": "An upcoming Disney+ series that is a continuation of Daredevil (2015-2018) and Echo (2024), starring Charlie Cox as Matt Murdock.",
     "poster_path": "/t2MKhbLkSlMduIukClOXFMK9LhP.jpg",
     "first_air_date": "",
     "name": "Daredevil: Born Again",
