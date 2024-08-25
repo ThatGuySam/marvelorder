@@ -33,7 +33,7 @@ watchLinks:
     "poster_path": "/l8paJlma8P3t73B4SPtFjr8nsWF.jpg",
     "first_air_date": "2017-02-08",
     "name": "Legion",
-    "vote_average": 7.5,
+    "vote_average": 7.543,
     "title": "Legion",
     "slug": "legion",
     "tags": [
