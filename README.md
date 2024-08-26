@@ -79,9 +79,9 @@ This is the *most* official list for the Marvel Chronologically, aka by the time
 ## Upcoming
 <!-- start-upcoming-list -->
 
-- August 28, 2024 - [Kraven the Hunter](https://marvelorder.com/en/kraven-the-hunter-539972) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/kraven-the-hunter-539972.md)
 - September 18, 2024 - [Agatha All Along](https://marvelorder.com/en/agatha-all-along-138501) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/agatha-all-along-138501.md)
 - October 23, 2024 - [Venom: The Last Dance](https://marvelorder.com/en/venom-the-last-dance-912649) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/venom-the-last-dance-912649.md)
+- December 11, 2024 - [Kraven the Hunter](https://marvelorder.com/en/kraven-the-hunter-539972) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/kraven-the-hunter-539972.md)
 - February 12, 2025 - [Captain America: Brave New World](https://marvelorder.com/en/captain-america-brave-new-world-822119) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/captain-america-brave-new-world-822119.md)
 - April 30, 2025 - [Thunderbolts](https://marvelorder.com/en/thunderbolts-986056) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/thunderbolts-986056.md)
 - July 23, 2025 - [The Fantastic Four](https://marvelorder.com/en/the-fantastic-four-617126) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/the-fantastic-four-617126.md)

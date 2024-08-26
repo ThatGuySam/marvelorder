@@ -41,7 +41,7 @@ watchLinks:
     "poster_path": "/yiKg027jdpkSsguVBI9WqliNWez.jpg",
     "first_air_date": "2001-10-06",
     "name": "Mutant X",
-    "vote_average": 6.52,
+    "vote_average": 6.505,
     "title": "Mutant X",
     "slug": "mutant-x",
     "tags": [
