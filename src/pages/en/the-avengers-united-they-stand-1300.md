@@ -34,7 +34,7 @@ watchLinks:
     "poster_path": "/p2SrnKTQjLRXBCcTZtYkTZCwLpp.jpg",
     "first_air_date": "1999-10-30",
     "name": "The Avengers: United They Stand",
-    "vote_average": 5.8,
+    "vote_average": 5.842,
     "title": "The Avengers: United They Stand",
     "slug": "the-avengers-united-they-stand",
     "tags": [

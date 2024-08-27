@@ -34,7 +34,7 @@ watchLinks:
     "release_date": "2008-12-05",
     "title": "Punisher: War Zone",
     "video": false,
-    "vote_average": 5.813,
+    "vote_average": 5.815,
     "slug": "punisher-war-zone",
     "tags": [
         "movie",
