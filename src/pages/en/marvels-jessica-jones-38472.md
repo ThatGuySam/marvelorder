@@ -28,10 +28,10 @@ mcuTimelineOrder: 95
     "original_language": "en",
     "original_name": "Marvel's Jessica Jones",
     "overview": "After a tragic ending to her short-lived super hero stint, Jessica Jones is rebuilding her personal life and career as a detective who gets pulled into cases involving people with extraordinary abilities in New York City.",
-    "poster_path": "/lwPFyjxAZY6NqHxywgY00Y4MFBx.jpg",
+    "poster_path": "/tmZ7rvyiBgs7OIAZGQHossiI4BA.jpg",
     "first_air_date": "2015-11-20",
     "name": "Marvel's Jessica Jones",
-    "vote_average": 7.506,
+    "vote_average": 7.5,
     "title": "Marvel's Jessica Jones",
     "slug": "marvels-jessica-jones",
     "tags": [

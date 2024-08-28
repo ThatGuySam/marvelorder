@@ -30,7 +30,7 @@ type: tv
     "poster_path": "/op1gn2mK4ohZfhpKj92KEbwvc9C.jpg",
     "first_air_date": "2010-01-16",
     "name": "Black Panther",
-    "vote_average": 7,
+    "vote_average": 6.895,
     "title": "Black Panther",
     "slug": "black-panther",
     "tags": [

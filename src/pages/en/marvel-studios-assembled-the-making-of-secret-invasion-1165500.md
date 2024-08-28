@@ -42,7 +42,7 @@ tags:
     "original_title": "Marvel Studios Assembled: The Making of Secret Invasion",
     "overview": "Through in-depth interviews with cast and crew, and exclusive behind-the-scenes footage, Assembled uncovers how Marvel Studios’ “Secret Invasion” was born. Witness what it took to conjure the world of the show, and spend time with Samuel L. Jackson as he dons the patch once again to engage in the most baffling battle of Nick Fury’s career.",
     "poster_path": "/8YDNwj9gsAQlcHQALPtjJipoGx8.jpg",
-    "release_date": "2023-09-20",
+    "release_date": "2023-09-19",
     "title": "Marvel Studios Assembled: The Making of Secret Invasion",
     "video": false,
     "vote_average": 4.9,

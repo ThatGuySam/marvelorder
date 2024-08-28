@@ -30,7 +30,7 @@ tags:
     "id": 1293690,
     "original_language": "en",
     "original_title": "Untitled X-Men Movie",
-    "overview": "An upcoming X-Men movie produced by Marvel Studios.",
+    "overview": "An upcoming X-Men movie produced by Marvel Studios and set in the MCU.",
     "poster_path": null,
     "release_date": "",
     "title": "Untitled X-Men Movie",

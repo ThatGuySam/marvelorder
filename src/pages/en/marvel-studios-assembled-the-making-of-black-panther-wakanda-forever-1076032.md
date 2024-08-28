@@ -42,7 +42,7 @@ tags:
     "original_title": "Marvel Studios Assembled: The Making of Black Panther: Wakanda Forever",
     "overview": "Follow the production of “Black Panther: Wakanda Forever” as the cast and crew take on the incredible challenge of remembering T’Challa with a chapter befitting the late king. Through intimate behind-the-scenes footage and interviews, watch Shuri take on the mantel of Wakanda’s hero and face a new foe from the ocean’s depths in Namor.",
     "poster_path": "/mYTPKWO7a4mHKLyksJgB8CMq9Qx.jpg",
-    "release_date": "2023-02-08",
+    "release_date": "2023-02-07",
     "title": "Marvel Studios Assembled: The Making of Black Panther: Wakanda Forever",
     "video": false,
     "vote_average": 6.8,

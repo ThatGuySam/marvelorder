@@ -31,7 +31,7 @@ tags:
     "original_title": "Doctor Strange 3",
     "overview": "Rumored sequel to Doctor Strange in the Multiverse of Madness.",
     "poster_path": null,
-    "release_date": "2027-02-12",
+    "release_date": "",
     "title": "Doctor Strange 3",
     "video": false,
     "vote_average": 0,
