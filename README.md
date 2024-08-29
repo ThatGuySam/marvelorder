@@ -87,12 +87,9 @@ This is the *most* official list for the Marvel Chronologically, aka by the time
 - July 23, 2025 - [The Fantastic Four](https://marvelorder.com/en/the-fantastic-four-617126) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/the-fantastic-four-617126.md)
 - July 23, 2025 - [The Fantastic Four: First Steps](https://marvelorder.com/en/the-fantastic-four-first-steps-617126) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/the-fantastic-four-first-steps-617126.md)
 - November 6, 2025 - [Blade](https://marvelorder.com/en/blade-617127) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/blade-617127.md)
-- February 13, 2026 - [Armor Wars](https://marvelorder.com/en/armor-wars-1030022) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/armor-wars-1030022.md)
 - April 29, 2026 - [Avengers 5](https://marvelorder.com/en/avengers-5-1003596) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/avengers-5-1003596.md)
 - April 29, 2026 - [Avengers: Doomsday](https://marvelorder.com/en/avengers-doomsday-1003596) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/avengers-doomsday-1003596.md)
 - April 29, 2026 - [Avengers: The Kang Dynasty](https://marvelorder.com/en/avengers-the-kang-dynasty-1003596) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/avengers-the-kang-dynasty-1003596.md)
-- July 24, 2026 - [Spider-Man 4](https://marvelorder.com/en/spider-man-4-969681) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/spider-man-4-969681.md)
-- September 3, 2026 - [Untitled Shang-Chi Sequel](https://marvelorder.com/en/untitled-shang-chi-sequel-912502) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/untitled-shang-chi-sequel-912502.md)
 - February 12, 2027 - [Doctor Strange: Time Runs Out](https://marvelorder.com/en/doctor-strange-time-runs-out-1072946) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/doctor-strange-time-runs-out-1072946.md)
 - May 5, 2027 - [Avengers: Secret Wars](https://marvelorder.com/en/avengers-secret-wars-1003598) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/avengers-secret-wars-1003598.md)
 

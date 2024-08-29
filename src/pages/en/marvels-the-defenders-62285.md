@@ -15,7 +15,7 @@ mcuTimelineOrder: 219
 ```json
 {
     "adult": false,
-    "backdrop_path": "/72jj9y2Ejeub0mycZvkrPfT59sW.jpg",
+    "backdrop_path": "/n4XLn0wLCxWSFaQgG6queZlFPKi.jpg",
     "genre_ids": [
         10765,
         10759,
@@ -31,7 +31,7 @@ mcuTimelineOrder: 219
     "poster_path": "/49XzINhH4LFsgz7cx6TOPcHUJUL.jpg",
     "first_air_date": "2017-08-18",
     "name": "Marvel's The Defenders",
-    "vote_average": 7.072,
+    "vote_average": 7.1,
     "title": "Marvel's The Defenders",
     "slug": "marvels-the-defenders",
     "tags": [
