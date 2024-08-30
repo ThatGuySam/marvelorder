@@ -35,7 +35,7 @@ mcuTimelineOrder: 553
     "release_date": "2004-06-25",
     "title": "Spider-Man 2",
     "video": false,
-    "vote_average": 7.3,
+    "vote_average": 7.284,
     "slug": "spider-man-2",
     "tags": [
         "movie",

@@ -467,7 +467,7 @@
 		"id": 986056,
 		"original_language": "en",
 		"original_title": "Thunderbolts*",
-		"overview": "A world without Avengers doesn't mean there's not a group of superheroes. There is a group and they're called the Thunderbolts.",
+		"overview": "A group of antiheroes are sent on a mission by the government. Based on the Marvel Comics team of the same name.",
 		"poster_path": "/oVUZVSzvY7Ode4LzVphY2HWz4MA.jpg",
 		"release_date": "2025-04-30",
 		"title": "Thunderbolts*",
@@ -565,7 +565,7 @@
 		"release_date": "2024-07-24",
 		"title": "Deadpool & Wolverine",
 		"video": false,
-		"vote_average": 7.8,
+		"vote_average": 7.763,
 		"slug": "deadpool-and-wolverine",
 		"tags": [
 			"movie",
@@ -613,7 +613,7 @@
 		"poster_path": "/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg",
 		"first_air_date": "2024-03-20",
 		"name": "X-Men '97",
-		"vote_average": 8.659,
+		"vote_average": 8.661,
 		"title": "X-Men '97",
 		"slug": "x-men-97",
 		"tags": [
@@ -681,7 +681,7 @@
 		"poster_path": "/vFyJH630cF68LohVYjQW49074Sy.jpg",
 		"first_air_date": "2024-01-09",
 		"name": "Echo",
-		"vote_average": 6.267,
+		"vote_average": 6.266,
 		"title": "Echo",
 		"slug": "echo",
 		"tags": [
@@ -814,7 +814,7 @@
 		"poster_path": "/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg",
 		"first_air_date": "2023-06-21",
 		"name": "Secret Invasion",
-		"vote_average": 6.742,
+		"vote_average": 6.745,
 		"title": "Secret Invasion",
 		"slug": "secret-invasion",
 		"tags": [
@@ -860,7 +860,7 @@
 		"release_date": "2023-05-31",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
-		"vote_average": 8.356,
+		"vote_average": 8.355,
 		"slug": "spider-man-across-the-spider-verse",
 		"tags": [
 			"movie",
@@ -930,7 +930,7 @@
 		"release_date": "2023-02-15",
 		"title": "Ant-Man and the Wasp: Quantumania",
 		"video": false,
-		"vote_average": 6.337,
+		"vote_average": 6.338,
 		"slug": "ant-man-and-the-wasp-quantumania",
 		"tags": [
 			"movie",
@@ -999,7 +999,7 @@
 		"release_date": "2022-11-24",
 		"title": "The Guardians of the Galaxy Holiday Special",
 		"video": false,
-		"vote_average": 7.162,
+		"vote_average": 7.163,
 		"slug": "the-guardians-of-the-galaxy-holiday-special",
 		"tags": [
 			"movie",
@@ -1022,7 +1022,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 7.108,
+		"vote_average": 7.107,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -1132,7 +1132,7 @@
 		"poster_path": "/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
 		"first_air_date": "2022-08-18",
 		"name": "She-Hulk: Attorney at Law",
-		"vote_average": 6.258,
+		"vote_average": 6.256,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
 		"tags": [
@@ -1160,7 +1160,7 @@
 		"poster_path": "/lYwFSsP4KsoRhOLhJvBFp3GEGEm.jpg",
 		"first_air_date": "2022-08-10",
 		"name": "I Am Groot",
-		"vote_average": 7.216,
+		"vote_average": 7.219,
 		"title": "I Am Groot",
 		"slug": "i-am-groot",
 		"tags": [
@@ -1185,7 +1185,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot's First Steps",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 7.041,
 		"slug": "groots-first-steps",
 		"tags": [
 			"movie",
@@ -1209,7 +1209,7 @@
 		"release_date": "2022-08-10",
 		"title": "The Little Guy",
 		"video": false,
-		"vote_average": 7.343,
+		"vote_average": 7.352,
 		"slug": "the-little-guy",
 		"tags": [
 			"movie",
@@ -1233,7 +1233,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot's Pursuit",
 		"video": false,
-		"vote_average": 7.15,
+		"vote_average": 7.154,
 		"slug": "groots-pursuit",
 		"tags": [
 			"movie",
@@ -1257,7 +1257,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot Takes a Bath",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7.162,
 		"slug": "groot-takes-a-bath",
 		"tags": [
 			"movie",
@@ -1302,7 +1302,7 @@
 		"release_date": "2022-07-18",
 		"title": "Magnum Opus",
 		"video": false,
-		"vote_average": 7.339,
+		"vote_average": 7.341,
 		"slug": "magnum-opus",
 		"tags": [
 			"movie",
@@ -1371,7 +1371,7 @@
 		"poster_path": "/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
 		"first_air_date": "2022-06-08",
 		"name": "Ms. Marvel",
-		"vote_average": 6.451,
+		"vote_average": 6.447,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
 		"tags": [
@@ -1462,7 +1462,7 @@
 		"poster_path": "/YksR65as1ppF2N48TJAh2PLamX.jpg",
 		"first_air_date": "2022-03-30",
 		"name": "Moon Knight",
-		"vote_average": 7.7,
+		"vote_average": 7.717,
 		"title": "Moon Knight",
 		"slug": "moon-knight",
 		"tags": [
@@ -1553,7 +1553,7 @@
 		"poster_path": "/ct5pNE5dDHryHLDnxyZPYcqO1sz.jpg",
 		"first_air_date": "2021-11-24",
 		"name": "Hawkeye",
-		"vote_average": 7.9,
+		"vote_average": 7.882,
 		"title": "Hawkeye",
 		"slug": "hawkeye",
 		"tags": [
@@ -1578,7 +1578,7 @@
 		"poster_path": "/c63jLejCDACyChWNvw8ufSOf25q.jpg",
 		"first_air_date": "2021-11-17",
 		"name": "Marvel's Hit-Monkey",
-		"vote_average": 7.831,
+		"vote_average": 7.8,
 		"title": "Marvel's Hit-Monkey",
 		"slug": "marvels-hit-monkey",
 		"tags": [
@@ -1671,7 +1671,7 @@
 		"poster_path": "/rWg4Jk7NwVEz2BtU1aKKDoDJPeB.jpg",
 		"first_air_date": "2021-08-11",
 		"name": "What If...?",
-		"vote_average": 8.153,
+		"vote_average": 8.154,
 		"title": "What If...?",
 		"slug": "what-if",
 		"tags": [
@@ -1703,27 +1703,6 @@
 		"tags": [
 			"tv",
 			"company-7505",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
-			35
-		],
-		"id": 1339827,
-		"original_language": "en",
-		"original_title": "Deadpool's Maximum Reactions: Korg and Deadpool",
-		"overview": "Deadpool and Korg react to the trailer for Free Guy.",
-		"poster_path": "/iNEK0srTmhwo9CRYzyciAuMl5y0.jpg",
-		"release_date": "2021-07-13",
-		"title": "Deadpool's Maximum Reactions: Korg and Deadpool",
-		"video": false,
-		"vote_average": 0,
-		"slug": "deadpools-maximum-reactions-korg-and-deadpool",
-		"tags": [
-			"movie",
 			"company-420"
 		]
 	},
@@ -1896,7 +1875,7 @@
 		"release_date": "2021-01-01",
 		"title": "Black Widow",
 		"video": false,
-		"vote_average": 7.243,
+		"vote_average": 7.2,
 		"slug": "black-widow",
 		"tags": [
 			"movie",
@@ -2156,7 +2135,7 @@
 		"release_date": "2018-12-11",
 		"title": "Once Upon a Deadpool",
 		"video": false,
-		"vote_average": 7.083,
+		"vote_average": 7.087,
 		"slug": "once-upon-a-deadpool",
 		"tags": [
 			"movie",
@@ -2182,7 +2161,7 @@
 		"release_date": "2018-12-06",
 		"title": "Spider-Man: Into the Spider-Verse",
 		"video": false,
-		"vote_average": 8.402,
+		"vote_average": 8.401,
 		"slug": "spider-man-into-the-spider-verse",
 		"tags": [
 			"movie",
@@ -2526,7 +2505,7 @@
 		"release_date": "2017-07-05",
 		"title": "Spider-Man: Homecoming",
 		"video": false,
-		"vote_average": 7.338,
+		"vote_average": 7.337,
 		"slug": "spider-man-homecoming",
 		"tags": [
 			"movie",
@@ -2574,7 +2553,7 @@
 		"poster_path": "/4l6KD9HhtD6nCDEfg10Lp6C6zah.jpg",
 		"first_air_date": "2017-03-17",
 		"name": "Marvel's Iron Fist",
-		"vote_average": 6.5,
+		"vote_average": 6.531,
 		"title": "Marvel's Iron Fist",
 		"slug": "marvels-iron-fist",
 		"tags": [
@@ -2644,7 +2623,7 @@
 		"release_date": "2017-02-28",
 		"title": "Logan",
 		"video": false,
-		"vote_average": 7.8,
+		"vote_average": 7.822,
 		"slug": "logan",
 		"tags": [
 			"movie",
@@ -2817,7 +2796,7 @@
 		"release_date": "2016-08-28",
 		"title": "Team Thor",
 		"video": false,
-		"vote_average": 7.272,
+		"vote_average": 7.273,
 		"slug": "team-thor",
 		"tags": [
 			"movie",
@@ -3031,7 +3010,7 @@
 		"poster_path": "/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
 		"first_air_date": "2015-04-10",
 		"name": "Marvel's Daredevil",
-		"vote_average": 8.161,
+		"vote_average": 8.16,
 		"title": "Marvel's Daredevil",
 		"slug": "marvels-daredevil",
 		"tags": [
@@ -3283,7 +3262,7 @@
 		"release_date": "2014-04-16",
 		"title": "The Amazing Spider-Man 2",
 		"video": false,
-		"vote_average": 6.509,
+		"vote_average": 6.5,
 		"slug": "the-amazing-spider-man-2",
 		"tags": [
 			"movie",
@@ -3332,7 +3311,7 @@
 		"release_date": "2014-03-20",
 		"title": "Captain America: The Winter Soldier",
 		"video": false,
-		"vote_average": 7.7,
+		"vote_average": 7.663,
 		"slug": "captain-america-the-winter-soldier",
 		"tags": [
 			"movie",
@@ -3563,7 +3542,7 @@
 			10765
 		],
 		"first_air_date": "2013-05-26",
-		"vote_average": 7.6,
+		"vote_average": 7.59,
 		"origin_country": [
 			"US"
 		],
@@ -3633,7 +3612,7 @@
 		"release_date": "2012-08-29",
 		"title": "Marvel One-Shot: Item 47",
 		"video": false,
-		"vote_average": 6.435,
+		"vote_average": 6.44,
 		"slug": "marvel-one-shot-item-47",
 		"tags": [
 			"movie",
@@ -3842,7 +3821,7 @@
 		"release_date": "2011-06-01",
 		"title": "X-Men: First Class",
 		"video": false,
-		"vote_average": 7.299,
+		"vote_average": 7.3,
 		"slug": "x-men-first-class",
 		"tags": [
 			"movie",
@@ -4111,7 +4090,7 @@
 		"release_date": "2009-04-28",
 		"title": "X-Men Origins: Wolverine",
 		"video": false,
-		"vote_average": 6.273,
+		"vote_average": 6.274,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"movie",
@@ -4288,7 +4267,7 @@
 		"release_date": "2008-06-12",
 		"title": "The Incredible Hulk",
 		"video": false,
-		"vote_average": 6.2,
+		"vote_average": 6.211,
 		"slug": "the-incredible-hulk",
 		"tags": [
 			"movie",
@@ -4584,7 +4563,7 @@
 		"release_date": "2006-05-24",
 		"title": "X-Men: The Last Stand",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.409,
 		"slug": "x-men-the-last-stand",
 		"tags": [
 			"movie",
@@ -4702,7 +4681,7 @@
 		"release_date": "2004-06-25",
 		"title": "Spider-Man 2",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.284,
 		"slug": "spider-man-2",
 		"tags": [
 			"movie",
@@ -4775,7 +4754,7 @@
 		"release_date": "2003-06-19",
 		"title": "Hulk",
 		"video": false,
-		"vote_average": 5.5,
+		"vote_average": 5.547,
 		"slug": "hulk",
 		"tags": [
 			"movie",
@@ -4798,7 +4777,7 @@
 		"release_date": "2003-04-27",
 		"title": "X2",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 7.032,
 		"slug": "x2",
 		"tags": [
 			"movie",
@@ -4822,7 +4801,7 @@
 		"release_date": "2003-02-14",
 		"title": "Daredevil",
 		"video": false,
-		"vote_average": 5.3,
+		"vote_average": 5.26,
 		"slug": "daredevil",
 		"tags": [
 			"movie",
@@ -5230,7 +5209,7 @@
 			10759
 		],
 		"first_air_date": "1992-10-31",
-		"vote_average": 8.187,
+		"vote_average": 8.188,
 		"origin_country": [
 			"US"
 		],
