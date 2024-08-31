@@ -34,7 +34,7 @@ tags:
         10765
     ],
     "first_air_date": "2013-05-26",
-    "vote_average": 7.59,
+    "vote_average": 7.584,
     "origin_country": [
         "US"
     ],

@@ -467,7 +467,7 @@
 		"id": 986056,
 		"original_language": "en",
 		"original_title": "Thunderbolts*",
-		"overview": "A group of antiheroes are sent on a mission by the government. Based on the Marvel Comics team of the same name.",
+		"overview": "A world without Avengers doesn't mean there's not a group of superheroes. There is a group and they're called the Thunderbolts.",
 		"poster_path": "/oVUZVSzvY7Ode4LzVphY2HWz4MA.jpg",
 		"release_date": "2025-04-30",
 		"title": "Thunderbolts*",
@@ -565,7 +565,7 @@
 		"release_date": "2024-07-24",
 		"title": "Deadpool & Wolverine",
 		"video": false,
-		"vote_average": 7.763,
+		"vote_average": 7.766,
 		"slug": "deadpool-and-wolverine",
 		"tags": [
 			"movie",
@@ -613,7 +613,7 @@
 		"poster_path": "/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg",
 		"first_air_date": "2024-03-20",
 		"name": "X-Men '97",
-		"vote_average": 8.661,
+		"vote_average": 8.663,
 		"title": "X-Men '97",
 		"slug": "x-men-97",
 		"tags": [
@@ -681,7 +681,7 @@
 		"poster_path": "/vFyJH630cF68LohVYjQW49074Sy.jpg",
 		"first_air_date": "2024-01-09",
 		"name": "Echo",
-		"vote_average": 6.266,
+		"vote_average": 6.263,
 		"title": "Echo",
 		"slug": "echo",
 		"tags": [
@@ -726,7 +726,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.085,
+		"vote_average": 6.084,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -814,7 +814,7 @@
 		"poster_path": "/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg",
 		"first_air_date": "2023-06-21",
 		"name": "Secret Invasion",
-		"vote_average": 6.745,
+		"vote_average": 6.744,
 		"title": "Secret Invasion",
 		"slug": "secret-invasion",
 		"tags": [
@@ -860,7 +860,7 @@
 		"release_date": "2023-05-31",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
-		"vote_average": 8.355,
+		"vote_average": 8.356,
 		"slug": "spider-man-across-the-spider-verse",
 		"tags": [
 			"movie",
@@ -883,7 +883,7 @@
 		"release_date": "2023-05-03",
 		"title": "Guardians of the Galaxy Vol. 3",
 		"video": false,
-		"vote_average": 7.971,
+		"vote_average": 7.97,
 		"slug": "guardians-of-the-galaxy-vol-3",
 		"tags": [
 			"movie",
@@ -1346,7 +1346,7 @@
 		"release_date": "2022-07-06",
 		"title": "Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 6.449,
+		"vote_average": 6.448,
 		"slug": "thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -1875,7 +1875,7 @@
 		"release_date": "2021-01-01",
 		"title": "Black Widow",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 7.242,
 		"slug": "black-widow",
 		"tags": [
 			"movie",
@@ -1950,7 +1950,7 @@
 		"release_date": "2020-04-02",
 		"title": "The New Mutants",
 		"video": false,
-		"vote_average": 6.108,
+		"vote_average": 6.109,
 		"slug": "the-new-mutants",
 		"tags": [
 			"movie",
@@ -2041,7 +2041,7 @@
 		"release_date": "2019-06-28",
 		"title": "Spider-Man: Far From Home",
 		"video": false,
-		"vote_average": 7.427,
+		"vote_average": 7.4,
 		"slug": "spider-man-far-from-home",
 		"tags": [
 			"movie",
@@ -2064,7 +2064,7 @@
 		"release_date": "2019-06-05",
 		"title": "Dark Phoenix",
 		"video": false,
-		"vote_average": 5.981,
+		"vote_average": 5.982,
 		"slug": "dark-phoenix",
 		"tags": [
 			"movie",
@@ -2403,7 +2403,7 @@
 		"poster_path": "/nshCqszjTNuqhrB53vrSqWO18sE.jpg",
 		"first_air_date": "2017-10-02",
 		"name": "The Gifted",
-		"vote_average": 7.639,
+		"vote_average": 7.637,
 		"title": "The Gifted",
 		"slug": "the-gifted",
 		"tags": [
@@ -2553,7 +2553,7 @@
 		"poster_path": "/4l6KD9HhtD6nCDEfg10Lp6C6zah.jpg",
 		"first_air_date": "2017-03-17",
 		"name": "Marvel's Iron Fist",
-		"vote_average": 6.531,
+		"vote_average": 6.53,
 		"title": "Marvel's Iron Fist",
 		"slug": "marvels-iron-fist",
 		"tags": [
@@ -2582,29 +2582,6 @@
 		"slug": "deadpool-no-good-deed",
 		"tags": [
 			"list-8204860"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/vfYpmizjejYSbPgZ5km5Ny7t2wo.jpg",
-		"genre_ids": [
-			28,
-			18,
-			878
-		],
-		"id": 1337384,
-		"original_language": "en",
-		"original_title": "Logan Noir",
-		"overview": "In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety.",
-		"poster_path": "/p1xcetd3F9uKKH8B6Vk3P1T7tot.jpg",
-		"release_date": "2017-03-02",
-		"title": "Logan Noir",
-		"video": false,
-		"vote_average": 0,
-		"slug": "logan-noir",
-		"tags": [
-			"movie",
-			"company-7505"
 		]
 	},
 	{
@@ -2673,7 +2650,7 @@
 		"poster_path": "/l8paJlma8P3t73B4SPtFjr8nsWF.jpg",
 		"first_air_date": "2017-02-08",
 		"name": "Legion",
-		"vote_average": 7.543,
+		"vote_average": 7.5,
 		"title": "Legion",
 		"slug": "legion",
 		"tags": [
@@ -2994,7 +2971,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/qsnXwGS7KBbX4JLqHvICngtR8qg.jpg",
+		"backdrop_path": "/2PrYnQR8YPei5vCVRwJXnwMqMyR.jpg",
 		"genre_ids": [
 			80,
 			18,
@@ -3010,7 +2987,7 @@
 		"poster_path": "/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
 		"first_air_date": "2015-04-10",
 		"name": "Marvel's Daredevil",
-		"vote_average": 8.16,
+		"vote_average": 8.161,
 		"title": "Marvel's Daredevil",
 		"slug": "marvels-daredevil",
 		"tags": [
@@ -3262,7 +3239,7 @@
 		"release_date": "2014-04-16",
 		"title": "The Amazing Spider-Man 2",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.509,
 		"slug": "the-amazing-spider-man-2",
 		"tags": [
 			"movie",
@@ -3400,7 +3377,7 @@
 		"release_date": "2013-10-30",
 		"title": "Thor: The Dark World",
 		"video": false,
-		"vote_average": 6.527,
+		"vote_average": 6.526,
 		"slug": "thor-the-dark-world",
 		"tags": [
 			"movie",
@@ -3542,7 +3519,7 @@
 			10765
 		],
 		"first_air_date": "2013-05-26",
-		"vote_average": 7.59,
+		"vote_average": 7.584,
 		"origin_country": [
 			"US"
 		],
@@ -3774,7 +3751,7 @@
 		"release_date": "2011-09-13",
 		"title": "Marvel One-Shot: The Consultant",
 		"video": false,
-		"vote_average": 6.331,
+		"vote_average": 6.329,
 		"slug": "marvel-one-shot-the-consultant",
 		"tags": [
 			"movie",
@@ -3921,7 +3898,7 @@
 		"poster_path": "/8MwwAuDy6dc1GbiBUZdvWtQczqR.jpg",
 		"first_air_date": "2010-10-20",
 		"name": "The Avengers: Earth's Mightiest Heroes",
-		"vote_average": 8.156,
+		"vote_average": 8.15,
 		"title": "The Avengers: Earth's Mightiest Heroes",
 		"slug": "the-avengers-earths-mightiest-heroes",
 		"tags": [
@@ -3971,7 +3948,7 @@
 		"release_date": "2010-04-28",
 		"title": "Iron Man 2",
 		"video": false,
-		"vote_average": 6.843,
+		"vote_average": 6.842,
 		"slug": "iron-man-2",
 		"tags": [
 			"movie",
@@ -4244,7 +4221,7 @@
 		"release_date": "2008-09-02",
 		"title": "Next Avengers: Heroes of Tomorrow",
 		"video": false,
-		"vote_average": 6.9,
+		"vote_average": 6.928,
 		"slug": "next-avengers-heroes-of-tomorrow",
 		"tags": [
 			"movie",
@@ -4410,7 +4387,7 @@
 		"release_date": "2007-05-01",
 		"title": "Spider-Man 3",
 		"video": false,
-		"vote_average": 6.429,
+		"vote_average": 6.4,
 		"slug": "spider-man-3",
 		"tags": [
 			"movie",
@@ -4435,7 +4412,7 @@
 		"release_date": "2007-01-23",
 		"title": "The Invincible Iron Man",
 		"video": false,
-		"vote_average": 6.129,
+		"vote_average": 6.128,
 		"slug": "the-invincible-iron-man",
 		"tags": [
 			"movie",
@@ -4512,7 +4489,7 @@
 		"release_date": "2006-08-08",
 		"title": "Ultimate Avengers 2",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.764,
 		"slug": "ultimate-avengers-2",
 		"tags": [
 			"movie",
@@ -4563,7 +4540,7 @@
 		"release_date": "2006-05-24",
 		"title": "X-Men: The Last Stand",
 		"video": false,
-		"vote_average": 6.409,
+		"vote_average": 6.41,
 		"slug": "x-men-the-last-stand",
 		"tags": [
 			"movie",
@@ -4612,7 +4589,7 @@
 		"release_date": "2005-04-21",
 		"title": "Man-Thing",
 		"video": false,
-		"vote_average": 4.3,
+		"vote_average": 4.294,
 		"slug": "man-thing",
 		"tags": [
 			"movie",
@@ -4754,7 +4731,7 @@
 		"release_date": "2003-06-19",
 		"title": "Hulk",
 		"video": false,
-		"vote_average": 5.547,
+		"vote_average": 5.548,
 		"slug": "hulk",
 		"tags": [
 			"movie",
@@ -4981,7 +4958,7 @@
 		"release_date": "1998-05-26",
 		"title": "Nick Fury: Agent of S.H.I.E.L.D.",
 		"video": false,
-		"vote_average": 4.566,
+		"vote_average": 4.56,
 		"slug": "nick-fury-agent-of-shield",
 		"tags": [
 			"movie",
@@ -5085,7 +5062,7 @@
 		],
 		"release_date": "1996-02-20",
 		"video": false,
-		"vote_average": 4.1,
+		"vote_average": 4.08,
 		"slug": "generation-x",
 		"tags": [
 			"list-8204860",
@@ -5107,7 +5084,7 @@
 			10759
 		],
 		"first_air_date": "1994-11-19",
-		"vote_average": 8.272,
+		"vote_average": 8.27,
 		"origin_country": [
 			"US"
 		],
@@ -5186,7 +5163,7 @@
 		],
 		"release_date": "1994-05-31",
 		"video": false,
-		"vote_average": 4.344,
+		"vote_average": 4.348,
 		"slug": "the-fantastic-four",
 		"tags": [
 			"list-8204862"
@@ -5237,7 +5214,7 @@
 		],
 		"release_date": "1990-02-18",
 		"video": false,
-		"vote_average": 5.462,
+		"vote_average": 5.457,
 		"slug": "the-death-of-the-incredible-hulk",
 		"tags": [
 			"list-8204862"
@@ -5263,7 +5240,7 @@
 		],
 		"release_date": "1989-05-07",
 		"video": false,
-		"vote_average": 6.303,
+		"vote_average": 6.29,
 		"slug": "the-trial-of-the-incredible-hulk",
 		"tags": [
 			"list-8204862"
@@ -5287,7 +5264,7 @@
 		],
 		"release_date": "1988-05-22",
 		"video": false,
-		"vote_average": 6.147,
+		"vote_average": 6.138,
 		"slug": "the-incredible-hulk-returns",
 		"tags": [
 			"list-8204862"
@@ -5310,7 +5287,7 @@
 		],
 		"release_date": "1986-08-01",
 		"video": false,
-		"vote_average": 5.392,
+		"vote_average": 5.393,
 		"slug": "howard-the-duck",
 		"tags": [
 			"list-8204859"
@@ -5382,7 +5359,7 @@
 		],
 		"release_date": "1979-11-23",
 		"video": false,
-		"vote_average": 3.827,
+		"vote_average": 3.83,
 		"slug": "captain-america-ii-death-too-soon",
 		"tags": [
 			"list-8204862"
@@ -5430,7 +5407,7 @@
 		],
 		"release_date": "1979-01-19",
 		"video": false,
-		"vote_average": 4,
+		"vote_average": 4.021,
 		"slug": "captain-america",
 		"tags": [
 			"list-8204862"
@@ -5480,7 +5457,7 @@
 		],
 		"release_date": "1978-09-06",
 		"video": false,
-		"vote_average": 5.9,
+		"vote_average": 5.875,
 		"slug": "dr-strange",
 		"tags": [
 			"list-8204862"
@@ -5599,7 +5576,7 @@
 			18
 		],
 		"first_air_date": "1977-11-04",
-		"vote_average": 7.2,
+		"vote_average": 7.215,
 		"origin_country": [
 			"US"
 		],
@@ -5627,7 +5604,7 @@
 		],
 		"release_date": "1977-09-14",
 		"video": false,
-		"vote_average": 6.167,
+		"vote_average": 6.16,
 		"slug": "spider-man",
 		"tags": [
 			"list-8204862"

@@ -31,7 +31,7 @@ watchLinks:
     "release_date": "2020-04-02",
     "title": "The New Mutants",
     "video": false,
-    "vote_average": 6.108,
+    "vote_average": 6.109,
     "slug": "the-new-mutants",
     "tags": [
         "movie",

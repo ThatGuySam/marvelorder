@@ -19,7 +19,7 @@ logo_on_black: /.netlify/functions/tmdb-image/dHhniU1vz1C0j27AFdcsPmq6xu.webp
     "id": 986056,
     "original_language": "en",
     "original_title": "Thunderbolts*",
-    "overview": "A group of antiheroes are sent on a mission by the government. Based on the Marvel Comics team of the same name.",
+    "overview": "A world without Avengers doesn't mean there's not a group of superheroes. There is a group and they're called the Thunderbolts.",
     "poster_path": "/oVUZVSzvY7Ode4LzVphY2HWz4MA.jpg",
     "release_date": "2025-04-30",
     "title": "Thunderbolts*",
