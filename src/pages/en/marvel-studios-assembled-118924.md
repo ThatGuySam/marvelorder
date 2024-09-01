@@ -26,7 +26,7 @@ type: tv
     "poster_path": "/v2BHRwtQVkt5fssLdo5MpFgHJPY.jpg",
     "first_air_date": "2021-03-12",
     "name": "Marvel Studios Assembled",
-    "vote_average": 7.223,
+    "vote_average": 7.186,
     "title": "Marvel Studios Assembled",
     "slug": "marvel-studios-assembled",
     "tags": [
