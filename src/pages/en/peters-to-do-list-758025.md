@@ -30,7 +30,7 @@ watchLinks:
     "release_date": "2019-09-17",
     "title": "Peter's To-Do List",
     "video": false,
-    "vote_average": 6.937,
+    "vote_average": 6.979,
     "slug": "peters-to-do-list",
     "tags": [
         "movie",
