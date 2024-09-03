@@ -37,7 +37,7 @@ logo_on_black: /.netlify/functions/tmdb-image/awXIdI6BO2hamxvjUMJTlL6fEA6.webp
     "poster_path": "/v3UfqXCAxAcI7oUO4zwtk1T9G3n.jpg",
     "first_air_date": "2003-07-11",
     "name": "Spider-Man: The New Animated Series",
-    "vote_average": 7.129,
+    "vote_average": 7.137,
     "title": "Spider-Man: The New Animated Series",
     "slug": "spider-man-the-new-animated-series",
     "tags": [

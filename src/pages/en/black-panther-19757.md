@@ -15,7 +15,7 @@ type: tv
 ```json
 {
     "adult": false,
-    "backdrop_path": "/j2Tx0A3A7j1ctIOf7ZLSMlC8Z40.jpg",
+    "backdrop_path": "/eAb7jVyJuVrTJYwcdvhLRETBCWz.jpg",
     "genre_ids": [
         10759,
         16
@@ -30,7 +30,7 @@ type: tv
     "poster_path": "/op1gn2mK4ohZfhpKj92KEbwvc9C.jpg",
     "first_air_date": "2010-01-16",
     "name": "Black Panther",
-    "vote_average": 6.895,
+    "vote_average": 6.9,
     "title": "Black Panther",
     "slug": "black-panther",
     "tags": [

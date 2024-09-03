@@ -27,7 +27,7 @@ tags:
     "release_date": "2016-08-28",
     "title": "Team Thor",
     "video": false,
-    "vote_average": 7.273,
+    "vote_average": 7.276,
     "slug": "team-thor",
     "tags": [
         "movie",
