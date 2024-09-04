@@ -26,7 +26,7 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/zkY5UAvWHZRetpqMYaI0kAdQo2n.jpg",
+    "backdrop_path": "/ymTx7ebsmBjqh47fiZnBUjIDx5K.jpg",
     "genre_ids": [
         10765,
         10759
@@ -38,7 +38,7 @@ tags:
     "original_language": "en",
     "original_name": "Agatha All Along",
     "overview": "Agatha Harkness gathers a coven of witches and sets off down, down, down The Witches' Road.",
-    "poster_path": "/5a0z6F4npH4hiqDBKMoWcDk3CBT.jpg",
+    "poster_path": "/gOcqzHwkApTWD9i5ChDK5wO5pM5.jpg",
     "first_air_date": "2024-09-18",
     "name": "Agatha All Along",
     "vote_average": 0,

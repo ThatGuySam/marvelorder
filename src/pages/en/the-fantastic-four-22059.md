@@ -16,7 +16,7 @@ watchLinks:
 ## TMDB Data
 ```json
 {
-    "backdrop_path": "/wQNYzjQKSZZ1eDJ0w1O62HPFDfN.jpg",
+    "backdrop_path": "/2uCDSV7t4qyKyENzS0mipE6CYbc.jpg",
     "id": 22059,
     "title": "The Fantastic Four",
     "original_title": "The Fantastic Four",
@@ -32,7 +32,7 @@ watchLinks:
     ],
     "release_date": "1994-05-31",
     "video": false,
-    "vote_average": 4.348,
+    "vote_average": 4.373,
     "slug": "the-fantastic-four",
     "tags": [
         "list-8204862"
