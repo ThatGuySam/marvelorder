@@ -36,7 +36,7 @@ media_type: movie
     "id": 1003596,
     "original_language": "en",
     "original_title": "Avengers: Doomsday",
-    "overview": "An upcoming film in the Marvel Cinematic Universe's (MCU) sixth Phase and part of The Multiverse Saga. Plot TBA.",
+    "overview": "An upcoming film in the Marvel Cinematic Universe's sixth Phase and part of The Multiverse Saga. Plot TBA.",
     "poster_path": "/eO6OdA4RDRWeCVlDMcsoxWYFySD.jpg",
     "release_date": "2026-04-29",
     "title": "Avengers: Doomsday",

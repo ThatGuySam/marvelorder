@@ -27,7 +27,7 @@ watchLinks:
     "release_date": "2014-03-18",
     "title": "Marvel Studios: Assembling a Universe",
     "video": false,
-    "vote_average": 6.877,
+    "vote_average": 6.9,
     "slug": "marvel-studios-assembling-a-universe",
     "tags": [
         "movie",

@@ -18,7 +18,7 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/61l2TNmJMjEXcznDTWHVC1oBpZC.jpg",
+    "backdrop_path": "/z7qtrSn5iZrwKFE1sYPr597HweG.jpg",
     "genre_ids": [
         28,
         14,
@@ -28,11 +28,11 @@ watchLinks:
     "original_language": "en",
     "original_title": "Ghost Rider: Spirit of Vengeance",
     "overview": "When the devil resurfaces with aims to take over the world in human form, Johnny Blaze reluctantly comes out of hiding to transform into the flame-spewing supernatural hero Ghost Rider -- and rescue a 10-year-old boy from an unsavory end.",
-    "poster_path": "/fDtIZXLNreDHk3mOskJYABrQNOQ.jpg",
+    "poster_path": "/fUJOWsjjE8u1r4YOLYe1RLYy7bm.jpg",
     "release_date": "2011-12-10",
     "title": "Ghost Rider: Spirit of Vengeance",
     "video": false,
-    "vote_average": 5.009,
+    "vote_average": 5,
     "slug": "ghost-rider-spirit-of-vengeance",
     "tags": [
         "movie",
