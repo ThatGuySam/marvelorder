@@ -36,7 +36,7 @@ tags:
     "release_date": "2015-04-22",
     "title": "Avengers: Age of Ultron",
     "video": false,
-    "vote_average": 7.3,
+    "vote_average": 7.275,
     "slug": "avengers-age-of-ultron",
     "tags": [
         "movie",
