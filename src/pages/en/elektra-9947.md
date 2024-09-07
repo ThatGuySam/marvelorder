@@ -27,11 +27,11 @@ watchLinks:
     "original_language": "en",
     "original_title": "Elektra",
     "overview": "Elektra the warrior survives a near-death experience, becomes an assassin-for-hire, and tries to protect her two latest targets, a single father and his young daughter, from a group of supernatural assassins.",
-    "poster_path": "/9Azi1GBNj3gPPwmQWAMcATg7JOl.jpg",
+    "poster_path": "/gC6s6NKHneSrOKyQZnUMb443RKU.jpg",
     "release_date": "2005-01-13",
     "title": "Elektra",
     "video": false,
-    "vote_average": 5.044,
+    "vote_average": 5,
     "slug": "elektra",
     "tags": [
         "movie",
