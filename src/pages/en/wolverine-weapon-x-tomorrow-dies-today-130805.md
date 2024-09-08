@@ -1,0 +1,61 @@
+---
+title: 'Wolverine Weapon X: Tomorrow Dies Today'
+slug: wolverine-weapon-x-tomorrow-dies-today
+description: >-
+  It’s the debut of an all-new, all-different Deathlok. Killer cyborgs have come
+  from the future to kill the heroes of today, while Wolverine embarks on an
+  international pub crawl with a certain recently reborn Sentinel of Liberty.
+  Beer and bullets galore!
+layout: ../../layouts/MainLayout.astro
+adult: false
+backdrop_path: /4aHe75itnz5pkwFuACmih0yelYK.jpg
+genre_ids:
+  - 10759
+  - 16
+id: 130805
+origin_country:
+  - US
+original_language: en
+original_name: 'Wolverine Weapon X: Tomorrow Dies Today'
+overview: >-
+  It’s the debut of an all-new, all-different Deathlok. Killer cyborgs have come
+  from the future to kill the heroes of today, while Wolverine embarks on an
+  international pub crawl with a certain recently reborn Sentinel of Liberty.
+  Beer and bullets galore!
+poster_path: /p8c8NjgScKlGqQOqgZhWCw0bpYR.jpg
+first_air_date: '2014-05-13'
+name: 'Wolverine Weapon X: Tomorrow Dies Today'
+vote_average: 6
+tags:
+  - tv
+  - company-11106
+---
+## TMDB Data
+```json
+{
+    "adult": false,
+    "backdrop_path": "/4aHe75itnz5pkwFuACmih0yelYK.jpg",
+    "genre_ids": [
+        10759,
+        16
+    ],
+    "id": 130805,
+    "origin_country": [
+        "US"
+    ],
+    "original_language": "en",
+    "original_name": "Wolverine Weapon X: Tomorrow Dies Today",
+    "overview": "It’s the debut of an all-new, all-different Deathlok. Killer cyborgs have come from the future to kill the heroes of today, while Wolverine embarks on an international pub crawl with a certain recently reborn Sentinel of Liberty. Beer and bullets galore!",
+    "poster_path": "/p8c8NjgScKlGqQOqgZhWCw0bpYR.jpg",
+    "first_air_date": "2014-05-13",
+    "name": "Wolverine Weapon X: Tomorrow Dies Today",
+    "vote_average": 6,
+    "title": "Wolverine Weapon X: Tomorrow Dies Today",
+    "slug": "wolverine-weapon-x-tomorrow-dies-today",
+    "tags": [
+        "tv",
+        "company-11106"
+    ]
+}
+
+```

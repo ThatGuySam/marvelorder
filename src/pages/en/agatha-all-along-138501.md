@@ -38,7 +38,7 @@ tags:
     "original_language": "en",
     "original_name": "Agatha All Along",
     "overview": "Agatha Harkness gathers a coven of witches and sets off down, down, down The Witches' Road.",
-    "poster_path": "/1tfCj5h0FEQ5xg8hzVjQgcuGlgN.jpg",
+    "poster_path": "/7PMuIQbCmbIt9Ces800mD5Bav8X.jpg",
     "first_air_date": "2024-09-18",
     "name": "Agatha All Along",
     "vote_average": 0,
