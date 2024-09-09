@@ -3344,6 +3344,32 @@
     "primeReferenceTitle": ""
   },
   {
+    "hash": "fe6e99f5-04f9-592f-8b08-fc3320a13ddc",
+    "timeDescription": "1951 A.D.",
+    "timeDescriptionParts": {
+      "primary": "1951 A.D.",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Fight in Goyang - HYDRA unleased the Winter Soldier during the Korean conflict. Isaiah Bradley was sent to hunt down the Winter Soldier and the pair clashed although both ultimately survived.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/James_Barnes",
+        "text": "Winter Soldier",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Isaiah_Bradley",
+        "text": "Isaiah Bradley",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
+  },
+  {
     "hash": "0ed4b153-e0a8-538e-b546-f236812edf79",
     "timeDescription": "1953 A.D.",
     "timeDescriptionParts": {

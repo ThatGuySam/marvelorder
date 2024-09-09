@@ -529,7 +529,8 @@
 		"backdrop_path": "/tYLXJW1sZQU09VWY1BhSVPKGIwc.jpg",
 		"genre_ids": [
 			10765,
-			10759
+			10759,
+			9648
 		],
 		"id": 138501,
 		"origin_country": [
@@ -537,7 +538,7 @@
 		],
 		"original_language": "en",
 		"original_name": "Agatha All Along",
-		"overview": "Agatha Harkness gathers a coven of witches and sets off down, down, down The Witches' Road.",
+		"overview": "The infamous witch Agatha Harkness finds herself down and out of power after the suspicious goth Teen helps her break free from a distorted spell. Her interest is piqued when he begs her to take him on the legendary Witches’ Road, a magical gauntlet of trials that, if survived, rewards a witch with what they’re missing. Together, Agatha and this mysterious Teen pull together a desperate coven and set off down, down, down The Witches' Road.",
 		"poster_path": "/7PMuIQbCmbIt9Ces800mD5Bav8X.jpg",
 		"first_air_date": "2024-09-18",
 		"name": "Agatha All Along",
@@ -565,7 +566,7 @@
 		"release_date": "2024-07-24",
 		"title": "Deadpool & Wolverine",
 		"video": false,
-		"vote_average": 7.754,
+		"vote_average": 7.7,
 		"slug": "deadpool-and-wolverine",
 		"tags": [
 			"movie",
@@ -883,7 +884,7 @@
 		"release_date": "2023-05-03",
 		"title": "Guardians of the Galaxy Vol. 3",
 		"video": false,
-		"vote_average": 7.968,
+		"vote_average": 8,
 		"slug": "guardians-of-the-galaxy-vol-3",
 		"tags": [
 			"movie",
@@ -999,7 +1000,7 @@
 		"release_date": "2022-11-24",
 		"title": "The Guardians of the Galaxy Holiday Special",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 7.157,
 		"slug": "the-guardians-of-the-galaxy-holiday-special",
 		"tags": [
 			"movie",
@@ -1022,7 +1023,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 7.109,
+		"vote_average": 7.108,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -1132,7 +1133,7 @@
 		"poster_path": "/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
 		"first_air_date": "2022-08-18",
 		"name": "She-Hulk: Attorney at Law",
-		"vote_average": 6.253,
+		"vote_average": 6.251,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
 		"tags": [
@@ -1160,7 +1161,7 @@
 		"poster_path": "/lYwFSsP4KsoRhOLhJvBFp3GEGEm.jpg",
 		"first_air_date": "2022-08-10",
 		"name": "I Am Groot",
-		"vote_average": 7.237,
+		"vote_average": 7.225,
 		"title": "I Am Groot",
 		"slug": "i-am-groot",
 		"tags": [
@@ -1185,7 +1186,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot's First Steps",
 		"video": false,
-		"vote_average": 7.041,
+		"vote_average": 7.038,
 		"slug": "groots-first-steps",
 		"tags": [
 			"movie",
@@ -1209,7 +1210,7 @@
 		"release_date": "2022-08-10",
 		"title": "The Little Guy",
 		"video": false,
-		"vote_average": 7.352,
+		"vote_average": 7.351,
 		"slug": "the-little-guy",
 		"tags": [
 			"movie",
@@ -1233,7 +1234,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot's Pursuit",
 		"video": false,
-		"vote_average": 7.154,
+		"vote_average": 7.153,
 		"slug": "groots-pursuit",
 		"tags": [
 			"movie",
@@ -1302,7 +1303,7 @@
 		"release_date": "2022-07-18",
 		"title": "Magnum Opus",
 		"video": false,
-		"vote_average": 7.341,
+		"vote_average": 7.344,
 		"slug": "magnum-opus",
 		"tags": [
 			"movie",
@@ -1371,7 +1372,7 @@
 		"poster_path": "/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
 		"first_air_date": "2022-06-08",
 		"name": "Ms. Marvel",
-		"vote_average": 6.447,
+		"vote_average": 6.441,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
 		"tags": [
@@ -1437,7 +1438,7 @@
 		"release_date": "2022-05-04",
 		"title": "Doctor Strange in the Multiverse of Madness",
 		"video": false,
-		"vote_average": 7.291,
+		"vote_average": 7.29,
 		"slug": "doctor-strange-in-the-multiverse-of-madness",
 		"tags": [
 			"movie",
@@ -1462,7 +1463,7 @@
 		"poster_path": "/YksR65as1ppF2N48TJAh2PLamX.jpg",
 		"first_air_date": "2022-03-30",
 		"name": "Moon Knight",
-		"vote_average": 7.718,
+		"vote_average": 7.717,
 		"title": "Moon Knight",
 		"slug": "moon-knight",
 		"tags": [
@@ -1553,7 +1554,7 @@
 		"poster_path": "/ct5pNE5dDHryHLDnxyZPYcqO1sz.jpg",
 		"first_air_date": "2021-11-24",
 		"name": "Hawkeye",
-		"vote_average": 7.88,
+		"vote_average": 7.879,
 		"title": "Hawkeye",
 		"slug": "hawkeye",
 		"tags": [
@@ -1671,7 +1672,7 @@
 		"poster_path": "/rWg4Jk7NwVEz2BtU1aKKDoDJPeB.jpg",
 		"first_air_date": "2021-08-11",
 		"name": "What If...?",
-		"vote_average": 8.154,
+		"vote_average": 8.153,
 		"title": "What If...?",
 		"slug": "what-if",
 		"tags": [
@@ -1775,7 +1776,7 @@
 		"poster_path": "/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
 		"first_air_date": "2021-03-19",
 		"name": "The Falcon and the Winter Soldier",
-		"vote_average": 7.655,
+		"vote_average": 7.654,
 		"title": "The Falcon and the Winter Soldier",
 		"slug": "the-falcon-and-the-winter-soldier",
 		"tags": [
@@ -2064,7 +2065,7 @@
 		"release_date": "2019-06-05",
 		"title": "Dark Phoenix",
 		"video": false,
-		"vote_average": 5.982,
+		"vote_average": 5.983,
 		"slug": "dark-phoenix",
 		"tags": [
 			"movie",
@@ -2326,7 +2327,7 @@
 		"release_date": "2018-02-13",
 		"title": "Black Panther",
 		"video": false,
-		"vote_average": 7.384,
+		"vote_average": 7.385,
 		"slug": "black-panther",
 		"tags": [
 			"movie",
@@ -2377,7 +2378,7 @@
 		"poster_path": "/tM6xqRKXoloH9UchaJEyyRE9O1w.jpg",
 		"first_air_date": "2017-11-17",
 		"name": "Marvel's The Punisher",
-		"vote_average": 8.121,
+		"vote_average": 8.12,
 		"title": "Marvel's The Punisher",
 		"slug": "marvels-the-punisher",
 		"tags": [
@@ -2528,7 +2529,7 @@
 		"release_date": "2017-04-19",
 		"title": "Guardians of the Galaxy Vol. 2",
 		"video": false,
-		"vote_average": 7.619,
+		"vote_average": 7.6,
 		"slug": "guardians-of-the-galaxy-vol-2",
 		"tags": [
 			"movie",
@@ -2600,7 +2601,7 @@
 		"release_date": "2017-02-28",
 		"title": "Logan",
 		"video": false,
-		"vote_average": 7.821,
+		"vote_average": 7.822,
 		"slug": "logan",
 		"tags": [
 			"movie",
@@ -2916,7 +2917,7 @@
 		"release_date": "2015-08-05",
 		"title": "Fantastic Four",
 		"video": false,
-		"vote_average": 4.417,
+		"vote_average": 4.4,
 		"slug": "fantastic-four",
 		"tags": [
 			"movie",
@@ -3145,7 +3146,7 @@
 		"release_date": "2014-07-30",
 		"title": "Guardians of the Galaxy",
 		"video": false,
-		"vote_average": 7.907,
+		"vote_average": 7.9,
 		"slug": "guardians-of-the-galaxy",
 		"tags": [
 			"movie",
@@ -3239,7 +3240,7 @@
 		"release_date": "2014-04-16",
 		"title": "The Amazing Spider-Man 2",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.51,
 		"slug": "the-amazing-spider-man-2",
 		"tags": [
 			"movie",
@@ -3288,7 +3289,7 @@
 		"release_date": "2014-03-20",
 		"title": "Captain America: The Winter Soldier",
 		"video": false,
-		"vote_average": 7.664,
+		"vote_average": 7.663,
 		"slug": "captain-america-the-winter-soldier",
 		"tags": [
 			"movie",
@@ -3448,7 +3449,7 @@
 		"release_date": "2013-09-03",
 		"title": "Marvel One-Shot: Agent Carter",
 		"video": false,
-		"vote_average": 7.246,
+		"vote_average": 7.2,
 		"slug": "marvel-one-shot-agent-carter",
 		"tags": [
 			"movie",
@@ -3589,7 +3590,7 @@
 		"release_date": "2012-08-29",
 		"title": "Marvel One-Shot: Item 47",
 		"video": false,
-		"vote_average": 6.449,
+		"vote_average": 6.4,
 		"slug": "marvel-one-shot-item-47",
 		"tags": [
 			"movie",
@@ -3705,7 +3706,7 @@
 		"release_date": "2011-12-10",
 		"title": "Ghost Rider: Spirit of Vengeance",
 		"video": false,
-		"vote_average": 5.009,
+		"vote_average": 5,
 		"slug": "ghost-rider-spirit-of-vengeance",
 		"tags": [
 			"movie",
@@ -3898,7 +3899,7 @@
 		"poster_path": "/8MwwAuDy6dc1GbiBUZdvWtQczqR.jpg",
 		"first_air_date": "2010-10-20",
 		"name": "The Avengers: Earth's Mightiest Heroes",
-		"vote_average": 8.139,
+		"vote_average": 8.142,
 		"title": "The Avengers: Earth's Mightiest Heroes",
 		"slug": "the-avengers-earths-mightiest-heroes",
 		"tags": [
@@ -3999,6 +4000,29 @@
 		"slug": "black-panther",
 		"tags": [
 			"tv",
+			"company-11106"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/hrLfq4Bn5H3EFp69sb6dNepaqkq.jpg",
+		"genre_ids": [
+			16,
+			28,
+			878
+		],
+		"id": 1300595,
+		"original_language": "en",
+		"original_title": "Astonishing X-Men: Gifted",
+		"overview": "Cyclops and Emma Frost re-form the X-Men to \"astonish\" the world. But when breaking news regarding a cure to the mutant gene unexpectedly hits the airwaves, will it derail their new plans?",
+		"poster_path": "/aF45xg3EuQntD2nMNYem94aMfea.jpg",
+		"release_date": "2009-10-27",
+		"title": "Astonishing X-Men: Gifted",
+		"video": false,
+		"vote_average": 8,
+		"slug": "astonishing-x-men-gifted",
+		"tags": [
+			"movie",
 			"company-11106"
 		]
 	},
@@ -4148,7 +4172,7 @@
 		"poster_path": "/oSeJ2nESB77iC6SLo4qcqoadjdt.jpg",
 		"first_air_date": "2009-01-23",
 		"name": "Wolverine and the X-Men",
-		"vote_average": 7.529,
+		"vote_average": 7.504,
 		"title": "Wolverine and the X-Men",
 		"slug": "wolverine-and-the-x-men",
 		"tags": [
@@ -4363,7 +4387,7 @@
 		"release_date": "2007-05-01",
 		"title": "Spider-Man 3",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.429,
 		"slug": "spider-man-3",
 		"tags": [
 			"movie",
@@ -4588,7 +4612,7 @@
 		"release_date": "2005-01-13",
 		"title": "Elektra",
 		"video": false,
-		"vote_average": 5,
+		"vote_average": 5.044,
 		"slug": "elektra",
 		"tags": [
 			"movie",
@@ -4611,7 +4635,7 @@
 		"release_date": "2004-12-08",
 		"title": "Blade: Trinity",
 		"video": false,
-		"vote_average": 5.9,
+		"vote_average": 5.865,
 		"slug": "blade-trinity",
 		"tags": [
 			"movie",
@@ -4634,7 +4658,7 @@
 		"release_date": "2004-06-25",
 		"title": "Spider-Man 2",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.284,
 		"slug": "spider-man-2",
 		"tags": [
 			"movie",
@@ -4683,7 +4707,7 @@
 		"poster_path": "/v3UfqXCAxAcI7oUO4zwtk1T9G3n.jpg",
 		"first_air_date": "2003-07-11",
 		"name": "Spider-Man: The New Animated Series",
-		"vote_average": 7.134,
+		"vote_average": 7.1,
 		"title": "Spider-Man: The New Animated Series",
 		"slug": "spider-man-the-new-animated-series",
 		"tags": [
@@ -4754,7 +4778,7 @@
 		"release_date": "2003-02-14",
 		"title": "Daredevil",
 		"video": false,
-		"vote_average": 5.263,
+		"vote_average": 5.264,
 		"slug": "daredevil",
 		"tags": [
 			"movie",
@@ -4960,7 +4984,7 @@
 		"poster_path": "/y3avRwCpoHrsv6n2J2qDmzc2jrv.jpg",
 		"first_air_date": "1998-02-07",
 		"name": "Silver Surfer",
-		"vote_average": 7.154,
+		"vote_average": 7.19,
 		"title": "Silver Surfer",
 		"slug": "silver-surfer",
 		"tags": [
@@ -5552,7 +5576,7 @@
 			18
 		],
 		"first_air_date": "1977-11-04",
-		"vote_average": 7.214,
+		"vote_average": 7.2,
 		"origin_country": [
 			"US"
 		],

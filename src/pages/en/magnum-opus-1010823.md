@@ -43,7 +43,7 @@ tags:
     "release_date": "2022-07-18",
     "title": "Magnum Opus",
     "video": false,
-    "vote_average": 7.341,
+    "vote_average": 7.344,
     "slug": "magnum-opus",
     "tags": [
         "movie",
