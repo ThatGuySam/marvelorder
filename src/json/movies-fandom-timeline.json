@@ -3421,14 +3421,35 @@
     "primeReferenceTitle": ""
   },
   {
-    "hash": "6d56778d-2a34-54bb-abc6-35cae33bb59c",
+    "hash": "525110b0-b758-5710-a6a0-08dc16536106",
+    "timeDescription": "1950s-60s",
+    "timeDescriptionParts": {
+      "primary": "1950s-60s",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Throughout the 1950s and 60s, HYDRA uses the Winter Soldier and its network of adherents to expand its influence and shape global events.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/James_Barnes",
+        "text": "Winter Soldier",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
+  },
+  {
+    "hash": "fda54ba0-1cf2-5a2c-83f9-33588ac9b1ec",
     "timeDescription": "1963",
     "timeDescriptionParts": {
       "primary": "1963",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "Anton Vanko begins work with Howard Stark in developing Arc Reactor technology.",
+    "textContent": "Soviet physicist Anton Vanko defects to the United States and works with Howard Stark in developing Arc Reactor technology.",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [

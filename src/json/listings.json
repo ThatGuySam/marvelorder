@@ -252,7 +252,7 @@
 		"original_language": "en",
 		"original_title": "Spider-Man 4",
 		"overview": "The next installment of the MCU Spider-Man franchise: a sequel to \"Spider-Man: No Way Home\" and the first in a possible new trilogy. Plot unknown.",
-		"poster_path": "/7GFXLWDYQiT6SSXK2tps4SI99ff.jpg",
+		"poster_path": null,
 		"release_date": "",
 		"title": "Spider-Man 4",
 		"video": false,
@@ -566,7 +566,7 @@
 		"release_date": "2024-07-24",
 		"title": "Deadpool & Wolverine",
 		"video": false,
-		"vote_average": 7.7,
+		"vote_average": 7.742,
 		"slug": "deadpool-and-wolverine",
 		"tags": [
 			"movie",
@@ -614,7 +614,7 @@
 		"poster_path": "/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg",
 		"first_air_date": "2024-03-20",
 		"name": "X-Men '97",
-		"vote_average": 8.615,
+		"vote_average": 8.614,
 		"title": "X-Men '97",
 		"slug": "x-men-97",
 		"tags": [
@@ -727,7 +727,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.075,
+		"vote_average": 6.08,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -861,7 +861,7 @@
 		"release_date": "2023-05-31",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
-		"vote_average": 8.356,
+		"vote_average": 8.357,
 		"slug": "spider-man-across-the-spider-verse",
 		"tags": [
 			"movie",
@@ -931,7 +931,7 @@
 		"release_date": "2023-02-15",
 		"title": "Ant-Man and the Wasp: Quantumania",
 		"video": false,
-		"vote_average": 6.336,
+		"vote_average": 6.335,
 		"slug": "ant-man-and-the-wasp-quantumania",
 		"tags": [
 			"movie",
@@ -1000,7 +1000,7 @@
 		"release_date": "2022-11-24",
 		"title": "The Guardians of the Galaxy Holiday Special",
 		"video": false,
-		"vote_average": 7.157,
+		"vote_average": 7.162,
 		"slug": "the-guardians-of-the-galaxy-holiday-special",
 		"tags": [
 			"movie",
@@ -1023,7 +1023,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 7.108,
+		"vote_average": 7.109,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -1529,7 +1529,7 @@
 		"release_date": "2021-12-15",
 		"title": "Spider-Man: No Way Home",
 		"video": false,
-		"vote_average": 7.961,
+		"vote_average": 7.96,
 		"slug": "spider-man-no-way-home",
 		"tags": [
 			"movie",
@@ -1624,7 +1624,7 @@
 		"release_date": "2021-11-03",
 		"title": "Eternals",
 		"video": false,
-		"vote_average": 6.862,
+		"vote_average": 6.861,
 		"slug": "eternals",
 		"tags": [
 			"movie",
@@ -1724,7 +1724,7 @@
 		"poster_path": "/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg",
 		"first_air_date": "2021-06-09",
 		"name": "Loki",
-		"vote_average": 8.179,
+		"vote_average": 8.2,
 		"title": "Loki",
 		"slug": "loki",
 		"tags": [
@@ -2065,7 +2065,7 @@
 		"release_date": "2019-06-05",
 		"title": "Dark Phoenix",
 		"video": false,
-		"vote_average": 5.983,
+		"vote_average": 6,
 		"slug": "dark-phoenix",
 		"tags": [
 			"movie",
@@ -2186,7 +2186,7 @@
 		"release_date": "2018-09-28",
 		"title": "Venom",
 		"video": false,
-		"vote_average": 6.827,
+		"vote_average": 6.8,
 		"slug": "venom",
 		"tags": [
 			"movie",
@@ -2529,7 +2529,7 @@
 		"release_date": "2017-04-19",
 		"title": "Guardians of the Galaxy Vol. 2",
 		"video": false,
-		"vote_average": 7.6,
+		"vote_average": 7.619,
 		"slug": "guardians-of-the-galaxy-vol-2",
 		"tags": [
 			"movie",
@@ -2601,7 +2601,7 @@
 		"release_date": "2017-02-28",
 		"title": "Logan",
 		"video": false,
-		"vote_average": 7.822,
+		"vote_average": 7.8,
 		"slug": "logan",
 		"tags": [
 			"movie",
@@ -2798,7 +2798,7 @@
 		"release_date": "2016-05-18",
 		"title": "X-Men: Apocalypse",
 		"video": false,
-		"vote_average": 6.518,
+		"vote_average": 6.519,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"movie",
@@ -2988,7 +2988,7 @@
 		"poster_path": "/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
 		"first_air_date": "2015-04-10",
 		"name": "Marvel's Daredevil",
-		"vote_average": 8.161,
+		"vote_average": 8.16,
 		"title": "Marvel's Daredevil",
 		"slug": "marvels-daredevil",
 		"tags": [
@@ -3146,7 +3146,7 @@
 		"release_date": "2014-07-30",
 		"title": "Guardians of the Galaxy",
 		"video": false,
-		"vote_average": 7.9,
+		"vote_average": 7.907,
 		"slug": "guardians-of-the-galaxy",
 		"tags": [
 			"movie",
@@ -3403,7 +3403,7 @@
 		"poster_path": "/cXiETfFK1BTLest5fhTLfDLRdL6.jpg",
 		"first_air_date": "2013-09-24",
 		"name": "Marvel's Agents of S.H.I.E.L.D.",
-		"vote_average": 7.49,
+		"vote_average": 7.488,
 		"title": "Marvel's Agents of S.H.I.E.L.D.",
 		"slug": "marvels-agents-of-shield",
 		"tags": [
@@ -3472,7 +3472,7 @@
 		"release_date": "2013-07-21",
 		"title": "The Wolverine",
 		"video": false,
-		"vote_average": 6.415,
+		"vote_average": 6.4,
 		"slug": "the-wolverine",
 		"tags": [
 			"movie",
@@ -4067,7 +4067,7 @@
 		"release_date": "2009-04-28",
 		"title": "X-Men Origins: Wolverine",
 		"video": false,
-		"vote_average": 6.274,
+		"vote_average": 6.275,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"movie",
@@ -4295,7 +4295,7 @@
 		"poster_path": "/dCNxOhXT7c4lqYuRpdM3m8s9XDp.jpg",
 		"first_air_date": "2008-03-08",
 		"name": "The Spectacular Spider-Man",
-		"vote_average": 8.574,
+		"vote_average": 8.573,
 		"title": "The Spectacular Spider-Man",
 		"slug": "the-spectacular-spider-man",
 		"tags": [
@@ -4343,7 +4343,7 @@
 		"release_date": "2007-06-13",
 		"title": "Fantastic Four: Rise of the Silver Surfer",
 		"video": false,
-		"vote_average": 5.607,
+		"vote_average": 5.6,
 		"slug": "fantastic-four-rise-of-the-silver-surfer",
 		"tags": [
 			"movie",
@@ -4438,7 +4438,7 @@
 		"release_date": "2007-01-15",
 		"title": "Ghost Rider",
 		"video": false,
-		"vote_average": 5.572,
+		"vote_average": 5.6,
 		"slug": "ghost-rider",
 		"tags": [
 			"movie",
@@ -4540,7 +4540,7 @@
 		"release_date": "2006-05-24",
 		"title": "X-Men: The Last Stand",
 		"video": false,
-		"vote_average": 6.411,
+		"vote_average": 6.41,
 		"slug": "x-men-the-last-stand",
 		"tags": [
 			"movie",
@@ -4612,7 +4612,7 @@
 		"release_date": "2005-01-13",
 		"title": "Elektra",
 		"video": false,
-		"vote_average": 5.044,
+		"vote_average": 5,
 		"slug": "elektra",
 		"tags": [
 			"movie",
@@ -4778,7 +4778,7 @@
 		"release_date": "2003-02-14",
 		"title": "Daredevil",
 		"video": false,
-		"vote_average": 5.264,
+		"vote_average": 5.263,
 		"slug": "daredevil",
 		"tags": [
 			"movie",
@@ -5186,7 +5186,7 @@
 			10759
 		],
 		"first_air_date": "1992-10-31",
-		"vote_average": 8.19,
+		"vote_average": 8.2,
 		"origin_country": [
 			"US"
 		],
@@ -5264,7 +5264,7 @@
 		],
 		"release_date": "1988-05-22",
 		"video": false,
-		"vote_average": 6.138,
+		"vote_average": 6.167,
 		"slug": "the-incredible-hulk-returns",
 		"tags": [
 			"list-8204862"
@@ -5287,7 +5287,7 @@
 		],
 		"release_date": "1986-08-01",
 		"video": false,
-		"vote_average": 5.4,
+		"vote_average": 5.391,
 		"slug": "howard-the-duck",
 		"tags": [
 			"list-8204859"
