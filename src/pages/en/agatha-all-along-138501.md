@@ -26,7 +26,7 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/tYLXJW1sZQU09VWY1BhSVPKGIwc.jpg",
+    "backdrop_path": "/ymTx7ebsmBjqh47fiZnBUjIDx5K.jpg",
     "genre_ids": [
         10765,
         10759,
@@ -38,7 +38,7 @@ tags:
     ],
     "original_language": "en",
     "original_name": "Agatha All Along",
-    "overview": "The infamous witch Agatha Harkness finds herself down and out of power after the suspicious goth Teen helps her break free from a distorted spell. Her interest is piqued when he begs her to take him on the legendary Witches’ Road, a magical gauntlet of trials that, if survived, rewards a witch with what they’re missing. Together, Agatha and this mysterious Teen pull together a desperate coven and set off down, down, down The Witches' Road.",
+    "overview": "Agatha Harkness gathers a coven of witches and sets off down, down, down The Witches' Road.",
     "poster_path": "/7PMuIQbCmbIt9Ces800mD5Bav8X.jpg",
     "first_air_date": "2024-09-18",
     "name": "Agatha All Along",

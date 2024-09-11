@@ -32,7 +32,7 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": null,
+    "backdrop_path": "/fwaq9nJkKl62Wur8PLIP2YzDnB2.jpg",
     "genre_ids": [],
     "id": 225735,
     "origin_country": [

@@ -30,7 +30,7 @@ watchLinks:
     "release_date": "2016-05-18",
     "title": "X-Men: Apocalypse",
     "video": false,
-    "vote_average": 6.519,
+    "vote_average": 6.518,
     "slug": "x-men-apocalypse",
     "tags": [
         "movie",
