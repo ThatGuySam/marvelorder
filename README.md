@@ -86,6 +86,7 @@ This is the *most* official list for the Marvel Chronologically, aka by the time
 - April 30, 2025 - [Thunderbolts](https://marvelorder.com/en/thunderbolts-986056) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/thunderbolts-986056.md)
 - July 23, 2025 - [The Fantastic Four](https://marvelorder.com/en/the-fantastic-four-617126) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/the-fantastic-four-617126.md)
 - July 23, 2025 - [The Fantastic Four: First Steps](https://marvelorder.com/en/the-fantastic-four-first-steps-617126) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/the-fantastic-four-first-steps-617126.md)
+- November 7, 2025 - [Blade](https://marvelorder.com/en/blade-617127) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/blade-617127.md)
 - April 29, 2026 - [Avengers 5](https://marvelorder.com/en/avengers-5-1003596) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/avengers-5-1003596.md)
 - April 29, 2026 - [Avengers: Doomsday](https://marvelorder.com/en/avengers-doomsday-1003596) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/avengers-doomsday-1003596.md)
 - April 29, 2026 - [Avengers: The Kang Dynasty](https://marvelorder.com/en/avengers-the-kang-dynasty-1003596) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/avengers-the-kang-dynasty-1003596.md)
