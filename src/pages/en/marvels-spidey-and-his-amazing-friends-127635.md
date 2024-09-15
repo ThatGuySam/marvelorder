@@ -30,7 +30,7 @@ type: tv
     "poster_path": "/etO5jDS5WgR4Y1lTyXhQcilJ6u2.jpg",
     "first_air_date": "2021-08-06",
     "name": "Marvel's Spidey and His Amazing Friends",
-    "vote_average": 7.3,
+    "vote_average": 7.323,
     "title": "Marvel's Spidey and His Amazing Friends",
     "slug": "marvels-spidey-and-his-amazing-friends",
     "tags": [

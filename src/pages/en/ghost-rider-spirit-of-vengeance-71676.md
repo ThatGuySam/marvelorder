@@ -32,7 +32,7 @@ watchLinks:
     "release_date": "2011-12-10",
     "title": "Ghost Rider: Spirit of Vengeance",
     "video": false,
-    "vote_average": 5.01,
+    "vote_average": 5.012,
     "slug": "ghost-rider-spirit-of-vengeance",
     "tags": [
         "movie",
