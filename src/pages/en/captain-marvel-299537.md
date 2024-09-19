@@ -32,7 +32,7 @@ mcuTimelineOrder: 24
     "release_date": "2019-03-06",
     "title": "Captain Marvel",
     "video": false,
-    "vote_average": 6.816,
+    "vote_average": 6.815,
     "slug": "captain-marvel",
     "tags": [
         "movie",

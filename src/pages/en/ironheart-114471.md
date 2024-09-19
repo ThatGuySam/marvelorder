@@ -25,7 +25,7 @@ logo_on_black: /.netlify/functions/tmdb-image/ha1kackPwP1BLtyibzuv5hABiDk.webp
     ],
     "original_language": "en",
     "original_name": "Ironheart",
-    "overview": "Genius inventor Riri Williams creates the most advanced suit of armor since Iron Man and becomes Ironheart.",
+    "overview": "Charming teenage super genius Riri Williams returns from MIT to her hometown of Chicago in her iron suit and begins to unravel threads that bring danger and adventure right to her doorstep.",
     "poster_path": "/ha1kackPwP1BLtyibzuv5hABiDk.jpg",
     "first_air_date": "",
     "name": "Ironheart",
