@@ -28,7 +28,7 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/5qfAg7HVX1ZUZCObYCisSI3yz0h.jpg",
+    "backdrop_path": "/pwCZP8QjiQRvz15MGxQckW0wl3a.jpg",
     "genre_ids": [
         878,
         12
@@ -37,7 +37,7 @@ tags:
     "original_language": "en",
     "original_title": "The Fantastic Four: First Steps",
     "overview": "Set in the Marvel Cinematic Universe (MCU) and based on the Marvel Comics characters of the same name.",
-    "poster_path": "/zOiVyH3hJ4e7rEUBLGuinhOonh1.jpg",
+    "poster_path": "/sMKUqSj3qrq86cOdP23pSqpUIC3.jpg",
     "release_date": "2025-07-23",
     "title": "The Fantastic Four: First Steps",
     "video": false,
