@@ -446,7 +446,7 @@
 		"original_language": "en",
 		"original_title": "The Fantastic Four: First Steps",
 		"overview": "Set in the Marvel Cinematic Universe (MCU) and based on the Marvel Comics characters of the same name.",
-		"poster_path": "/sMKUqSj3qrq86cOdP23pSqpUIC3.jpg",
+		"poster_path": "/zOiVyH3hJ4e7rEUBLGuinhOonh1.jpg",
 		"release_date": "2025-07-23",
 		"title": "The Fantastic Four: First Steps",
 		"video": false,
@@ -459,7 +459,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/vzVojqW0zF9QrXVGuj8PwhxWACD.jpg",
+		"backdrop_path": "/AattHPZa4SThTzQ24hKdeX10xZt.jpg",
 		"genre_ids": [
 			28,
 			12
@@ -468,7 +468,7 @@
 		"original_language": "en",
 		"original_title": "Thunderbolts*",
 		"overview": "A world without Avengers doesn't mean there's not a group of superheroes. There is a group and they're called the Thunderbolts.",
-		"poster_path": "/oVUZVSzvY7Ode4LzVphY2HWz4MA.jpg",
+		"poster_path": "/wsPrYDjF3V7SkbkMRzGs4dodcX3.jpg",
 		"release_date": "2025-04-30",
 		"title": "Thunderbolts*",
 		"video": false,
@@ -530,7 +530,8 @@
 		"genre_ids": [
 			10765,
 			9648,
-			10759
+			10759,
+			35
 		],
 		"id": 138501,
 		"origin_country": [
@@ -542,7 +543,7 @@
 		"poster_path": "/1tfCj5h0FEQ5xg8hzVjQgcuGlgN.jpg",
 		"first_air_date": "2024-09-18",
 		"name": "Agatha All Along",
-		"vote_average": 7.2,
+		"vote_average": 7.34,
 		"title": "Agatha All Along",
 		"slug": "agatha-all-along",
 		"tags": [
@@ -552,7 +553,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/yDHYTfA3R0jFYba16jBB1ef8oIt.jpg",
+		"backdrop_path": "/9l1eZiJHmhr5jIlthMdJN5WYoff.jpg",
 		"genre_ids": [
 			28,
 			35,
@@ -566,7 +567,7 @@
 		"release_date": "2024-07-24",
 		"title": "Deadpool & Wolverine",
 		"video": false,
-		"vote_average": 7.682,
+		"vote_average": 7.679,
 		"slug": "deadpool-and-wolverine",
 		"tags": [
 			"movie",
@@ -815,7 +816,7 @@
 		"poster_path": "/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg",
 		"first_air_date": "2023-06-21",
 		"name": "Secret Invasion",
-		"vote_average": 6.737,
+		"vote_average": 6.736,
 		"title": "Secret Invasion",
 		"slug": "secret-invasion",
 		"tags": [
@@ -884,7 +885,7 @@
 		"release_date": "2023-05-03",
 		"title": "Guardians of the Galaxy Vol. 3",
 		"video": false,
-		"vote_average": 8,
+		"vote_average": 7.969,
 		"slug": "guardians-of-the-galaxy-vol-3",
 		"tags": [
 			"movie",
@@ -1133,7 +1134,7 @@
 		"poster_path": "/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
 		"first_air_date": "2022-08-18",
 		"name": "She-Hulk: Attorney at Law",
-		"vote_average": 6.246,
+		"vote_average": 6.245,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
 		"tags": [
@@ -1347,7 +1348,7 @@
 		"release_date": "2022-07-06",
 		"title": "Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 6.446,
+		"vote_average": 6.447,
 		"slug": "thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -1438,7 +1439,7 @@
 		"release_date": "2022-05-04",
 		"title": "Doctor Strange in the Multiverse of Madness",
 		"video": false,
-		"vote_average": 7.287,
+		"vote_average": 7.288,
 		"slug": "doctor-strange-in-the-multiverse-of-madness",
 		"tags": [
 			"movie",
@@ -1800,7 +1801,7 @@
 		"poster_path": "/v2BHRwtQVkt5fssLdo5MpFgHJPY.jpg",
 		"first_air_date": "2021-03-12",
 		"name": "Marvel Studios Assembled",
-		"vote_average": 7.209,
+		"vote_average": 7.2,
 		"title": "Marvel Studios Assembled",
 		"slug": "marvel-studios-assembled",
 		"tags": [
@@ -2209,7 +2210,7 @@
 		"release_date": "2018-07-04",
 		"title": "Ant-Man and the Wasp",
 		"video": false,
-		"vote_average": 6.9,
+		"vote_average": 6.932,
 		"slug": "ant-man-and-the-wasp",
 		"tags": [
 			"movie",
@@ -2378,7 +2379,7 @@
 		"poster_path": "/tM6xqRKXoloH9UchaJEyyRE9O1w.jpg",
 		"first_air_date": "2017-11-17",
 		"name": "Marvel's The Punisher",
-		"vote_average": 8.121,
+		"vote_average": 8.12,
 		"title": "Marvel's The Punisher",
 		"slug": "marvels-the-punisher",
 		"tags": [
@@ -2481,7 +2482,7 @@
 		"poster_path": "/49XzINhH4LFsgz7cx6TOPcHUJUL.jpg",
 		"first_air_date": "2017-08-18",
 		"name": "Marvel's The Defenders",
-		"vote_average": 7.1,
+		"vote_average": 7.073,
 		"title": "Marvel's The Defenders",
 		"slug": "marvels-the-defenders",
 		"tags": [
@@ -2554,7 +2555,7 @@
 		"poster_path": "/4l6KD9HhtD6nCDEfg10Lp6C6zah.jpg",
 		"first_air_date": "2017-03-17",
 		"name": "Marvel's Iron Fist",
-		"vote_average": 6.531,
+		"vote_average": 6.53,
 		"title": "Marvel's Iron Fist",
 		"slug": "marvels-iron-fist",
 		"tags": [
@@ -2751,7 +2752,7 @@
 		"poster_path": "/6R62oGGufhsf6DiMknCi047N0b7.jpg",
 		"first_air_date": "2016-09-30",
 		"name": "Marvel's Luke Cage",
-		"vote_average": 6.9,
+		"vote_average": 6.937,
 		"title": "Marvel's Luke Cage",
 		"slug": "marvels-luke-cage",
 		"tags": [
@@ -2846,7 +2847,7 @@
 		"release_date": "2016-02-09",
 		"title": "Deadpool",
 		"video": false,
-		"vote_average": 7.6,
+		"vote_average": 7.621,
 		"slug": "deadpool",
 		"tags": [
 			"movie",
@@ -2949,7 +2950,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/6YwkGolwdOMNpbTOmLjoehlVWs5.jpg",
+		"backdrop_path": "/xnqust9Li4oxfhXD5kcPi3UC8i4.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -2988,7 +2989,7 @@
 		"poster_path": "/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
 		"first_air_date": "2015-04-10",
 		"name": "Marvel's Daredevil",
-		"vote_average": 8.162,
+		"vote_average": 8.161,
 		"title": "Marvel's Daredevil",
 		"slug": "marvels-daredevil",
 		"tags": [
@@ -3169,7 +3170,7 @@
 		"release_date": "2014-05-15",
 		"title": "X-Men: Days of Future Past",
 		"video": false,
-		"vote_average": 7.533,
+		"vote_average": 7.5,
 		"slug": "x-men-days-of-future-past",
 		"tags": [
 			"movie",
@@ -3567,7 +3568,7 @@
 		"release_date": "2013-04-18",
 		"title": "Iron Man 3",
 		"video": false,
-		"vote_average": 6.9,
+		"vote_average": 6.929,
 		"slug": "iron-man-3",
 		"tags": [
 			"movie",
@@ -3706,7 +3707,7 @@
 		"release_date": "2011-12-10",
 		"title": "Ghost Rider: Spirit of Vengeance",
 		"video": false,
-		"vote_average": 5.013,
+		"vote_average": 5,
 		"slug": "ghost-rider-spirit-of-vengeance",
 		"tags": [
 			"movie",
@@ -4146,7 +4147,7 @@
 		"release_date": "2009-01-27",
 		"title": "Hulk vs. Thor",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.792,
 		"slug": "hulk-vs-thor",
 		"tags": [
 			"movie",
@@ -4438,7 +4439,7 @@
 		"release_date": "2007-01-15",
 		"title": "Ghost Rider",
 		"video": false,
-		"vote_average": 5.6,
+		"vote_average": 5.575,
 		"slug": "ghost-rider",
 		"tags": [
 			"movie",
@@ -4540,7 +4541,7 @@
 		"release_date": "2006-05-24",
 		"title": "X-Men: The Last Stand",
 		"video": false,
-		"vote_average": 6.41,
+		"vote_average": 6.4,
 		"slug": "x-men-the-last-stand",
 		"tags": [
 			"movie",
@@ -4561,11 +4562,11 @@
 		"original_language": "en",
 		"original_title": "Fantastic Four",
 		"overview": "During a space voyage, four scientists are altered by cosmic rays: Reed Richards gains the ability to stretch his body; Sue Storm can become invisible; Johnny Storm controls fire; and Ben Grimm is turned into a super-strong … thing. Together, these \"Fantastic Four\" must now thwart the evil plans of Dr. Doom and save the world from certain destruction.",
-		"poster_path": "/4YMcYEFS8sFuW3soP1HVmgR3cSm.jpg",
+		"poster_path": "/8HLQLILZLhDQWO6JDpvY6XJLH75.jpg",
 		"release_date": "2005-06-29",
 		"title": "Fantastic Four",
 		"video": false,
-		"vote_average": 5.787,
+		"vote_average": 5.786,
 		"slug": "fantastic-four",
 		"tags": [
 			"movie",
@@ -4612,7 +4613,7 @@
 		"release_date": "2005-01-13",
 		"title": "Elektra",
 		"video": false,
-		"vote_average": 5,
+		"vote_average": 5.044,
 		"slug": "elektra",
 		"tags": [
 			"movie",
@@ -4635,7 +4636,7 @@
 		"release_date": "2004-12-08",
 		"title": "Blade: Trinity",
 		"video": false,
-		"vote_average": 5.864,
+		"vote_average": 5.9,
 		"slug": "blade-trinity",
 		"tags": [
 			"movie",
@@ -4800,7 +4801,7 @@
 		"release_date": "2002-05-01",
 		"title": "Spider-Man",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.301,
 		"slug": "spider-man",
 		"tags": [
 			"movie",

@@ -11,7 +11,7 @@ logo_on_black: /.netlify/functions/tmdb-image/dHhniU1vz1C0j27AFdcsPmq6xu.webp
 ```json
 {
     "adult": false,
-    "backdrop_path": "/vzVojqW0zF9QrXVGuj8PwhxWACD.jpg",
+    "backdrop_path": "/AattHPZa4SThTzQ24hKdeX10xZt.jpg",
     "genre_ids": [
         28,
         12
@@ -20,7 +20,7 @@ logo_on_black: /.netlify/functions/tmdb-image/dHhniU1vz1C0j27AFdcsPmq6xu.webp
     "original_language": "en",
     "original_title": "Thunderbolts*",
     "overview": "A world without Avengers doesn't mean there's not a group of superheroes. There is a group and they're called the Thunderbolts.",
-    "poster_path": "/oVUZVSzvY7Ode4LzVphY2HWz4MA.jpg",
+    "poster_path": "/wsPrYDjF3V7SkbkMRzGs4dodcX3.jpg",
     "release_date": "2025-04-30",
     "title": "Thunderbolts*",
     "video": false,

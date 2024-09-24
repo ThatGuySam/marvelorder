@@ -61,7 +61,7 @@ tags:
     "release_date": "2009-01-27",
     "title": "Hulk vs. Thor",
     "video": false,
-    "vote_average": 6.8,
+    "vote_average": 6.792,
     "slug": "hulk-vs-thor",
     "tags": [
         "movie",
