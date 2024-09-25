@@ -437,7 +437,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/pwCZP8QjiQRvz15MGxQckW0wl3a.jpg",
+		"backdrop_path": "/5qfAg7HVX1ZUZCObYCisSI3yz0h.jpg",
 		"genre_ids": [
 			878,
 			12
@@ -459,7 +459,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/AattHPZa4SThTzQ24hKdeX10xZt.jpg",
+		"backdrop_path": "/4sqtzRcMdCznTOjER9qXTgOtrua.jpg",
 		"genre_ids": [
 			28,
 			12
@@ -467,7 +467,7 @@
 		"id": 986056,
 		"original_language": "en",
 		"original_title": "Thunderbolts*",
-		"overview": "A world without Avengers doesn't mean there's not a group of superheroes. There is a group and they're called the Thunderbolts.",
+		"overview": "Depressed assassin Yelena Belova teams up alongside the MCU's least anticipated band of misfits.",
 		"poster_path": "/wsPrYDjF3V7SkbkMRzGs4dodcX3.jpg",
 		"release_date": "2025-04-30",
 		"title": "Thunderbolts*",
@@ -530,7 +530,6 @@
 		"genre_ids": [
 			10765,
 			9648,
-			10759,
 			35
 		],
 		"id": 138501,
@@ -540,10 +539,10 @@
 		"original_language": "en",
 		"original_name": "Agatha All Along",
 		"overview": "Agatha Harkness gathers a coven of witches and sets off down, down, down The Witches' Road.",
-		"poster_path": "/1tfCj5h0FEQ5xg8hzVjQgcuGlgN.jpg",
+		"poster_path": "/gOcqzHwkApTWD9i5ChDK5wO5pM5.jpg",
 		"first_air_date": "2024-09-18",
 		"name": "Agatha All Along",
-		"vote_average": 7.34,
+		"vote_average": 7.372,
 		"title": "Agatha All Along",
 		"slug": "agatha-all-along",
 		"tags": [
@@ -567,7 +566,7 @@
 		"release_date": "2024-07-24",
 		"title": "Deadpool & Wolverine",
 		"video": false,
-		"vote_average": 7.679,
+		"vote_average": 7.7,
 		"slug": "deadpool-and-wolverine",
 		"tags": [
 			"movie",
@@ -615,7 +614,7 @@
 		"poster_path": "/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg",
 		"first_air_date": "2024-03-20",
 		"name": "X-Men '97",
-		"vote_average": 8.614,
+		"vote_average": 8.617,
 		"title": "X-Men '97",
 		"slug": "x-men-97",
 		"tags": [
@@ -932,7 +931,7 @@
 		"release_date": "2023-02-15",
 		"title": "Ant-Man and the Wasp: Quantumania",
 		"video": false,
-		"vote_average": 6.329,
+		"vote_average": 6.328,
 		"slug": "ant-man-and-the-wasp-quantumania",
 		"tags": [
 			"movie",
@@ -1024,7 +1023,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 7.105,
+		"vote_average": 7.104,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -1134,7 +1133,7 @@
 		"poster_path": "/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
 		"first_air_date": "2022-08-18",
 		"name": "She-Hulk: Attorney at Law",
-		"vote_average": 6.245,
+		"vote_average": 6.243,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
 		"tags": [
@@ -1530,7 +1529,7 @@
 		"release_date": "2021-12-15",
 		"title": "Spider-Man: No Way Home",
 		"video": false,
-		"vote_average": 7.96,
+		"vote_average": 8,
 		"slug": "spider-man-no-way-home",
 		"tags": [
 			"movie",
@@ -1648,7 +1647,7 @@
 		"release_date": "2021-09-01",
 		"title": "Shang-Chi and the Legend of the Ten Rings",
 		"video": false,
-		"vote_average": 7.549,
+		"vote_average": 7.55,
 		"slug": "shang-chi-and-the-legend-of-the-ten-rings",
 		"tags": [
 			"movie",
@@ -1827,7 +1826,7 @@
 		"poster_path": "/glKDfE6btIRcVB5zrjspRIs4r52.jpg",
 		"first_air_date": "2021-01-15",
 		"name": "WandaVision",
-		"vote_average": 8.231,
+		"vote_average": 8.2,
 		"title": "WandaVision",
 		"slug": "wandavision",
 		"tags": [
@@ -1952,7 +1951,7 @@
 		"release_date": "2020-04-02",
 		"title": "The New Mutants",
 		"video": false,
-		"vote_average": 6.1,
+		"vote_average": 6.108,
 		"slug": "the-new-mutants",
 		"tags": [
 			"movie",
@@ -2066,7 +2065,7 @@
 		"release_date": "2019-06-05",
 		"title": "Dark Phoenix",
 		"video": false,
-		"vote_average": 5.984,
+		"vote_average": 5.983,
 		"slug": "dark-phoenix",
 		"tags": [
 			"movie",
@@ -2091,7 +2090,7 @@
 		"release_date": "2019-04-24",
 		"title": "Avengers: Endgame",
 		"video": false,
-		"vote_average": 8.251,
+		"vote_average": 8.252,
 		"slug": "avengers-endgame",
 		"tags": [
 			"movie",
@@ -2137,7 +2136,7 @@
 		"release_date": "2018-12-11",
 		"title": "Once Upon a Deadpool",
 		"video": false,
-		"vote_average": 7.093,
+		"vote_average": 7.097,
 		"slug": "once-upon-a-deadpool",
 		"tags": [
 			"movie",
@@ -2187,7 +2186,7 @@
 		"release_date": "2018-09-28",
 		"title": "Venom",
 		"video": false,
-		"vote_average": 6.827,
+		"vote_average": 6.828,
 		"slug": "venom",
 		"tags": [
 			"movie",
@@ -2259,7 +2258,7 @@
 		"release_date": "2018-05-10",
 		"title": "Deadpool 2",
 		"video": false,
-		"vote_average": 7.491,
+		"vote_average": 7.492,
 		"slug": "deadpool-2",
 		"tags": [
 			"movie",
@@ -2284,7 +2283,7 @@
 		"release_date": "2018-04-25",
 		"title": "Avengers: Infinity War",
 		"video": false,
-		"vote_average": 8.245,
+		"vote_average": 8.2,
 		"slug": "avengers-infinity-war",
 		"tags": [
 			"movie",
@@ -2405,7 +2404,7 @@
 		"poster_path": "/nshCqszjTNuqhrB53vrSqWO18sE.jpg",
 		"first_air_date": "2017-10-02",
 		"name": "The Gifted",
-		"vote_average": 7.633,
+		"vote_average": 7.6,
 		"title": "The Gifted",
 		"slug": "the-gifted",
 		"tags": [
@@ -2580,7 +2579,7 @@
 		],
 		"release_date": "2017-03-03",
 		"video": false,
-		"vote_average": 7.144,
+		"vote_average": 7.142,
 		"slug": "deadpool-no-good-deed",
 		"tags": [
 			"list-8204860"
@@ -2726,7 +2725,7 @@
 		"release_date": "2016-10-25",
 		"title": "Doctor Strange",
 		"video": false,
-		"vote_average": 7.425,
+		"vote_average": 7.424,
 		"slug": "doctor-strange",
 		"tags": [
 			"movie",
@@ -2918,7 +2917,7 @@
 		"release_date": "2015-08-05",
 		"title": "Fantastic Four",
 		"video": false,
-		"vote_average": 4.418,
+		"vote_average": 4.417,
 		"slug": "fantastic-four",
 		"tags": [
 			"movie",
@@ -3170,7 +3169,7 @@
 		"release_date": "2014-05-15",
 		"title": "X-Men: Days of Future Past",
 		"video": false,
-		"vote_average": 7.5,
+		"vote_average": 7.533,
 		"slug": "x-men-days-of-future-past",
 		"tags": [
 			"movie",
@@ -3473,7 +3472,7 @@
 		"release_date": "2013-07-21",
 		"title": "The Wolverine",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.415,
 		"slug": "the-wolverine",
 		"tags": [
 			"movie",
@@ -3521,7 +3520,7 @@
 			10765
 		],
 		"first_air_date": "2013-05-26",
-		"vote_average": 7.6,
+		"vote_average": 7.582,
 		"origin_country": [
 			"US"
 		],
@@ -3637,7 +3636,7 @@
 		"release_date": "2012-06-23",
 		"title": "The Amazing Spider-Man",
 		"video": false,
-		"vote_average": 6.706,
+		"vote_average": 6.705,
 		"slug": "the-amazing-spider-man",
 		"tags": [
 			"movie",
@@ -4068,7 +4067,7 @@
 		"release_date": "2009-04-28",
 		"title": "X-Men Origins: Wolverine",
 		"video": false,
-		"vote_average": 6.275,
+		"vote_average": 6.274,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"movie",
@@ -4344,7 +4343,7 @@
 		"release_date": "2007-06-13",
 		"title": "Fantastic Four: Rise of the Silver Surfer",
 		"video": false,
-		"vote_average": 5.607,
+		"vote_average": 5.608,
 		"slug": "fantastic-four-rise-of-the-silver-surfer",
 		"tags": [
 			"movie",
@@ -4541,7 +4540,7 @@
 		"release_date": "2006-05-24",
 		"title": "X-Men: The Last Stand",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.41,
 		"slug": "x-men-the-last-stand",
 		"tags": [
 			"movie",
@@ -4613,7 +4612,7 @@
 		"release_date": "2005-01-13",
 		"title": "Elektra",
 		"video": false,
-		"vote_average": 5.044,
+		"vote_average": 5.043,
 		"slug": "elektra",
 		"tags": [
 			"movie",
@@ -4636,7 +4635,7 @@
 		"release_date": "2004-12-08",
 		"title": "Blade: Trinity",
 		"video": false,
-		"vote_average": 5.9,
+		"vote_average": 5.864,
 		"slug": "blade-trinity",
 		"tags": [
 			"movie",
@@ -4732,7 +4731,7 @@
 		"release_date": "2003-06-19",
 		"title": "Hulk",
 		"video": false,
-		"vote_average": 5.551,
+		"vote_average": 5.55,
 		"slug": "hulk",
 		"tags": [
 			"movie",
@@ -4883,7 +4882,7 @@
 		],
 		"release_date": "2000-07-13",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 7.004,
 		"slug": "x-men",
 		"tags": [
 			"list-8204860"
