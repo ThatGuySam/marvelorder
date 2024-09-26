@@ -11,7 +11,7 @@ logo_on_black: /.netlify/functions/tmdb-image/dHhniU1vz1C0j27AFdcsPmq6xu.webp
 ```json
 {
     "adult": false,
-    "backdrop_path": "/4sqtzRcMdCznTOjER9qXTgOtrua.jpg",
+    "backdrop_path": "/fS3OVEfYkW1BNRydu1GZrfdbqvu.jpg",
     "genre_ids": [
         28,
         12
@@ -20,7 +20,7 @@ logo_on_black: /.netlify/functions/tmdb-image/dHhniU1vz1C0j27AFdcsPmq6xu.webp
     "original_language": "en",
     "original_title": "Thunderbolts*",
     "overview": "Depressed assassin Yelena Belova teams up alongside the MCU's least anticipated band of misfits.",
-    "poster_path": "/wsPrYDjF3V7SkbkMRzGs4dodcX3.jpg",
+    "poster_path": "/hQYEA4Ty1RlxsToWMYLE2RzSc0N.jpg",
     "release_date": "2025-04-30",
     "title": "Thunderbolts*",
     "video": false,
