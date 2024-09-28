@@ -20,7 +20,8 @@ backdrop_path: /3WRvDj6od3V6PB90LXFthFLBJmL.jpg
     "genre_ids": [
         16,
         10759,
-        10765
+        10765,
+        10762
     ],
     "id": 10079,
     "origin_country": [
@@ -32,7 +33,7 @@ backdrop_path: /3WRvDj6od3V6PB90LXFthFLBJmL.jpg
     "poster_path": "/fvmC5QzQwkI5ZNJauE4xpF24PTB.jpg",
     "first_air_date": "1999-10-02",
     "name": "Spider-Man Unlimited",
-    "vote_average": 7.444,
+    "vote_average": 7.4,
     "title": "Spider-Man Unlimited",
     "slug": "spider-man-unlimited",
     "tags": [

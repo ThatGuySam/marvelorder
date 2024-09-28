@@ -542,7 +542,7 @@
 		"poster_path": "/gOcqzHwkApTWD9i5ChDK5wO5pM5.jpg",
 		"first_air_date": "2024-09-18",
 		"name": "Agatha All Along",
-		"vote_average": 7.358,
+		"vote_average": 7.48,
 		"title": "Agatha All Along",
 		"slug": "agatha-all-along",
 		"tags": [
@@ -566,7 +566,7 @@
 		"release_date": "2024-07-24",
 		"title": "Deadpool & Wolverine",
 		"video": false,
-		"vote_average": 7.7,
+		"vote_average": 7.679,
 		"slug": "deadpool-and-wolverine",
 		"tags": [
 			"movie",
@@ -837,7 +837,7 @@
 		"release_date": "2023-06-10",
 		"title": "Stan Lee",
 		"video": false,
-		"vote_average": 7.173,
+		"vote_average": 7.178,
 		"slug": "stan-lee",
 		"tags": [
 			"movie",
@@ -861,7 +861,7 @@
 		"release_date": "2023-05-31",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
-		"vote_average": 8.4,
+		"vote_average": 8.358,
 		"slug": "spider-man-across-the-spider-verse",
 		"tags": [
 			"movie",
@@ -1000,7 +1000,7 @@
 		"release_date": "2022-11-24",
 		"title": "The Guardians of the Galaxy Holiday Special",
 		"video": false,
-		"vote_average": 7.159,
+		"vote_average": 7.157,
 		"slug": "the-guardians-of-the-galaxy-holiday-special",
 		"tags": [
 			"movie",
@@ -1161,7 +1161,7 @@
 		"poster_path": "/lYwFSsP4KsoRhOLhJvBFp3GEGEm.jpg",
 		"first_air_date": "2022-08-10",
 		"name": "I Am Groot",
-		"vote_average": 7.198,
+		"vote_average": 7.194,
 		"title": "I Am Groot",
 		"slug": "i-am-groot",
 		"tags": [
@@ -1347,7 +1347,7 @@
 		"release_date": "2022-07-06",
 		"title": "Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 6.447,
+		"vote_average": 6.4,
 		"slug": "thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -1529,7 +1529,7 @@
 		"release_date": "2021-12-15",
 		"title": "Spider-Man: No Way Home",
 		"video": false,
-		"vote_average": 7.96,
+		"vote_average": 8,
 		"slug": "spider-man-no-way-home",
 		"tags": [
 			"movie",
@@ -1554,7 +1554,7 @@
 		"poster_path": "/ct5pNE5dDHryHLDnxyZPYcqO1sz.jpg",
 		"first_air_date": "2021-11-24",
 		"name": "Hawkeye",
-		"vote_average": 7.878,
+		"vote_average": 7.9,
 		"title": "Hawkeye",
 		"slug": "hawkeye",
 		"tags": [
@@ -1624,7 +1624,7 @@
 		"release_date": "2021-11-03",
 		"title": "Eternals",
 		"video": false,
-		"vote_average": 6.9,
+		"vote_average": 6.859,
 		"slug": "eternals",
 		"tags": [
 			"movie",
@@ -2090,7 +2090,7 @@
 		"release_date": "2019-04-24",
 		"title": "Avengers: Endgame",
 		"video": false,
-		"vote_average": 8.252,
+		"vote_average": 8.251,
 		"slug": "avengers-endgame",
 		"tags": [
 			"movie",
@@ -2136,7 +2136,7 @@
 		"release_date": "2018-12-11",
 		"title": "Once Upon a Deadpool",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7.102,
 		"slug": "once-upon-a-deadpool",
 		"tags": [
 			"movie",
@@ -2258,7 +2258,7 @@
 		"release_date": "2018-05-10",
 		"title": "Deadpool 2",
 		"video": false,
-		"vote_average": 7.492,
+		"vote_average": 7.493,
 		"slug": "deadpool-2",
 		"tags": [
 			"movie",
@@ -2506,7 +2506,7 @@
 		"release_date": "2017-07-05",
 		"title": "Spider-Man: Homecoming",
 		"video": false,
-		"vote_average": 7.337,
+		"vote_average": 7.3,
 		"slug": "spider-man-homecoming",
 		"tags": [
 			"movie",
@@ -2579,7 +2579,7 @@
 		],
 		"release_date": "2017-03-03",
 		"video": false,
-		"vote_average": 7.152,
+		"vote_average": 7.157,
 		"slug": "deadpool-no-good-deed",
 		"tags": [
 			"list-8204860"
@@ -3080,7 +3080,7 @@
 		"poster_path": "/7kqIsjjDMZA5GRMH5VCdQYZJqc6.jpg",
 		"first_air_date": "2015-01-06",
 		"name": "Marvel's Agent Carter",
-		"vote_average": 7.539,
+		"vote_average": 7.538,
 		"title": "Marvel's Agent Carter",
 		"slug": "marvels-agent-carter",
 		"tags": [
@@ -3334,7 +3334,7 @@
 		"release_date": "2014-02-04",
 		"title": "Marvel One-Shot: All Hail the King",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.759,
 		"slug": "marvel-one-shot-all-hail-the-king",
 		"tags": [
 			"movie",
@@ -3449,7 +3449,7 @@
 		"release_date": "2013-09-03",
 		"title": "Marvel One-Shot: Agent Carter",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 7.249,
 		"slug": "marvel-one-shot-agent-carter",
 		"tags": [
 			"movie",
@@ -3590,7 +3590,7 @@
 		"release_date": "2012-08-29",
 		"title": "Marvel One-Shot: Item 47",
 		"video": false,
-		"vote_average": 6.45,
+		"vote_average": 6.449,
 		"slug": "marvel-one-shot-item-47",
 		"tags": [
 			"movie",
@@ -3752,7 +3752,7 @@
 		"release_date": "2011-09-13",
 		"title": "Marvel One-Shot: The Consultant",
 		"video": false,
-		"vote_average": 6.336,
+		"vote_average": 6.332,
 		"slug": "marvel-one-shot-the-consultant",
 		"tags": [
 			"movie",
@@ -4515,7 +4515,7 @@
 		"poster_path": "/xthJ8MoYaJROntPHaI5mUrXd4Qs.jpg",
 		"first_air_date": "2006-06-28",
 		"name": "Blade: The Series",
-		"vote_average": 6.611,
+		"vote_average": 6.586,
 		"title": "Blade: The Series",
 		"slug": "blade-the-series",
 		"tags": [
@@ -4540,7 +4540,7 @@
 		"release_date": "2006-05-24",
 		"title": "X-Men: The Last Stand",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.411,
 		"slug": "x-men-the-last-stand",
 		"tags": [
 			"movie",
@@ -4635,7 +4635,7 @@
 		"release_date": "2004-12-08",
 		"title": "Blade: Trinity",
 		"video": false,
-		"vote_average": 5.9,
+		"vote_average": 5.864,
 		"slug": "blade-trinity",
 		"tags": [
 			"movie",
@@ -4825,7 +4825,7 @@
 		"poster_path": "/yiKg027jdpkSsguVBI9WqliNWez.jpg",
 		"first_air_date": "2001-10-06",
 		"name": "Mutant X",
-		"vote_average": 6.505,
+		"vote_average": 6.49,
 		"title": "Mutant X",
 		"slug": "mutant-x",
 		"tags": [
@@ -4922,7 +4922,8 @@
 		"genre_ids": [
 			16,
 			10759,
-			10765
+			10765,
+			10762
 		],
 		"id": 10079,
 		"origin_country": [
@@ -4934,7 +4935,7 @@
 		"poster_path": "/fvmC5QzQwkI5ZNJauE4xpF24PTB.jpg",
 		"first_air_date": "1999-10-02",
 		"name": "Spider-Man Unlimited",
-		"vote_average": 7.444,
+		"vote_average": 7.4,
 		"title": "Spider-Man Unlimited",
 		"slug": "spider-man-unlimited",
 		"tags": [
