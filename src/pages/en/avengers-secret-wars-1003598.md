@@ -16,7 +16,9 @@ tags:
     "adult": false,
     "backdrop_path": "/h0rLRgh21cQS2Mrou9fEcZQuaku.jpg",
     "genre_ids": [
-        878
+        878,
+        28,
+        12
     ],
     "id": 1003598,
     "original_language": "en",
