@@ -3443,9 +3443,9 @@
   },
   {
     "hash": "fda54ba0-1cf2-5a2c-83f9-33588ac9b1ec",
-    "timeDescription": "1963",
+    "timeDescription": "1963 A.D.",
     "timeDescriptionParts": {
-      "primary": "1963",
+      "primary": "1963 A.D.",
       "secondary": "",
       "tertiary": ""
     },
@@ -3484,9 +3484,9 @@
   },
   {
     "hash": "6f66ad72-674a-5774-a034-e93b43a3afeb",
-    "timeDescription": "1964",
+    "timeDescription": "1964 A.D.",
     "timeDescriptionParts": {
-      "primary": "1964",
+      "primary": "1964 A.D.",
       "secondary": "",
       "tertiary": ""
     },
@@ -3505,9 +3505,9 @@
   },
   {
     "hash": "f9db0a73-e3d2-5cf1-abd9-7a4c9d4de1d4",
-    "timeDescription": "1967",
+    "timeDescription": "1967 A.D.",
     "timeDescriptionParts": {
-      "primary": "1967",
+      "primary": "1967 A.D.",
       "secondary": "",
       "tertiary": ""
     },
@@ -3541,9 +3541,9 @@
   },
   {
     "hash": "850c5e51-45a6-51bf-8614-f6915c402a2d",
-    "timeDescription": "1969",
+    "timeDescription": "1969 A.D.",
     "timeDescriptionParts": {
-      "primary": "1969",
+      "primary": "1969 A.D.",
       "secondary": "",
       "tertiary": ""
     },
@@ -3562,9 +3562,9 @@
   },
   {
     "hash": "f90ea58d-0637-52c7-917f-54eb409e9f03",
-    "timeDescription": "1969",
+    "timeDescription": "1969 A.D.",
     "timeDescriptionParts": {
-      "primary": "1969",
+      "primary": "1969 A.D.",
       "secondary": "",
       "tertiary": ""
     },
@@ -3617,27 +3617,6 @@
       {
         "href": "/wiki/Emil_Blonsky",
         "text": "Emil Blonsky",
-        "referenceType": "unknown"
-      }
-    ],
-    "primeReferenceIndex": -1,
-    "primeReferenceTitle": ""
-  },
-  {
-    "hash": "bcf8042a-9e30-5ea6-a83f-8a4bec9a14bf",
-    "timeDescription": "1970s",
-    "timeDescriptionParts": {
-      "primary": "1970s",
-      "secondary": "",
-      "tertiary": ""
-    },
-    "textContent": "Tony Stark is born in Manhattan, New York.",
-    "timeline": "Marvel Cinematic Universe",
-    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
-    "referenceLinks": [
-      {
-        "href": "/wiki/Anthony_Stark",
-        "text": "Tony Stark",
         "referenceType": "unknown"
       }
     ],
@@ -3905,14 +3884,119 @@
     "primeReferenceTitle": "Ant-Man Prelude"
   },
   {
-    "hash": "7f6b880b-fec1-576c-a2d0-d56057bbf852",
-    "timeDescription": "1972",
+    "hash": "bba9320e-f674-5f5f-b0f0-bb4da28dfb74",
+    "timeDescription": "1970 A.D.",
     "timeDescriptionParts": {
-      "primary": "1972",
+      "primary": "1970 A.D.",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "Arnim Zola dies, though his mind continued to live in cyberspace, from which he was able to provide easy passage into the agency for HYDRA sleeper agents that either managed to escape justice during the war or were corrupted from within.",
+    "textContent": "Camp Lehigh was once again on the vanguard of global security innovation. S.H.I.E.L.D. Director Peggy Carter focused on field work. Howard Stark worked there frequently whilst preparing for the birth of his first child. Dr. Hank Pym experimented with particles that could manipulate size and density. The Tesseract was stored there for study and safekeeping. Arnim Zola also worked on site but was secretly rebuilding HYDRA.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Camp_Lehigh",
+        "text": "Camp Lehigh",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
+  },
+  {
+    "hash": "bcf8042a-9e30-5ea6-a83f-8a4bec9a14bf",
+    "timeDescription": "1970 A.D. May 29th",
+    "timeDescriptionParts": {
+      "primary": "1970 A.D.",
+      "secondary": "",
+      "tertiary": "May 29th"
+    },
+    "textContent": "Tony Stark is born in Manhattan, New York.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Anthony_Stark",
+        "text": "Tony Stark",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
+  },
+  {
+    "hash": "bcf8042a-9e30-5ea6-a83f-8a4bec9a14bf",
+    "timeDescription": "1970 A.D. May 29th",
+    "timeDescriptionParts": {
+      "primary": "1970 A.D.",
+      "secondary": "",
+      "tertiary": "May 29th"
+    },
+    "textContent": "Tony Stark is born in Manhattan, New York.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Anthony_Stark",
+        "text": "Tony Stark",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
+  },
+  {
+    "hash": "69c46edc-d398-53d6-8aa4-663379cd0ce1",
+    "timeDescription": "1971 A.D. November 24th",
+    "timeDescriptionParts": {
+      "primary": "1971 A.D.",
+      "secondary": "",
+      "tertiary": "November 24th"
+    },
+    "textContent": "Loki Odinson lost a bet with his brother, Thor. In the guise of \"D.B. Cooper\", he hijacked a Boeing 727 mid-flight by claiming to have a bomb. He secured a $200,000 ransom and parachuted away before being drawn back to Asgard by the Bifrost.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Loki_Laufeyson",
+        "text": "Loki Odinson",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
+  },
+  {
+    "hash": "69c46edc-d398-53d6-8aa4-663379cd0ce1",
+    "timeDescription": "1971 A.D. November 24th",
+    "timeDescriptionParts": {
+      "primary": "1971 A.D.",
+      "secondary": "",
+      "tertiary": "November 24th"
+    },
+    "textContent": "Loki Odinson lost a bet with his brother, Thor. In the guise of \"D.B. Cooper\", he hijacked a Boeing 727 mid-flight by claiming to have a bomb. He secured a $200,000 ransom and parachuted away before being drawn back to Asgard by the Bifrost.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Loki_Laufeyson",
+        "text": "Loki Odinson",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
+  },
+  {
+    "hash": "a2abc002-6e61-5341-8060-6f275817d6c8",
+    "timeDescription": "1972 A.D.",
+    "timeDescriptionParts": {
+      "primary": "1972 A.D.",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Arnim Zola received a terminal diagnosis and died, though his mind continued to live on in 200,000 feet of databanks, from which he was able to provide easy passage into the agency for HYDRA sleeper agents that either managed to escape justice during the war or were corrupted from within. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -3926,138 +4010,119 @@
     "primeReferenceTitle": "Captain America: The Winter Soldier"
   },
   {
-    "hash": "4c54a5d4-ac2f-5245-b0d4-89331a746913",
-    "timeDescription": "1973 December",
+    "hash": "d34e333a-1848-5f05-bde1-1a8a21339957",
+    "timeDescription": "1973 A.D. September 15th",
     "timeDescriptionParts": {
-      "primary": "1973",
+      "primary": "1973 A.D.",
       "secondary": "",
-      "tertiary": "December"
+      "tertiary": "September 15th"
     },
-    "textContent": "8th",
-    "timeline": "Marvel Cinematic Universe",
-    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
-    "referenceLinks": [],
-    "primeReferenceIndex": -1,
-    "primeReferenceTitle": ""
-  },
-  {
-    "hash": "4c54a5d4-ac2f-5245-b0d4-89331a746913",
-    "timeDescription": "1973 December",
-    "timeDescriptionParts": {
-      "primary": "1973",
-      "secondary": "",
-      "tertiary": "December"
-    },
-    "textContent": "8th",
-    "timeline": "Marvel Cinematic Universe",
-    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
-    "referenceLinks": [],
-    "primeReferenceIndex": -1,
-    "primeReferenceTitle": ""
-  },
-  {
-    "hash": "feb2c8fc-2a40-5d21-b18c-759bfce9a084",
-    "timeDescription": "1973 December",
-    "timeDescriptionParts": {
-      "primary": "1973",
-      "secondary": "",
-      "tertiary": "December"
-    },
-    "textContent": "Jasper Sitwell is born in Norfolk, VA.",
+    "textContent": "Howard Stark prepared the last of his World Expos. He uncovered the atomic structure for a new kind of energy-creating element but is unable to replicate it. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
-      {
-        "href": "/wiki/Captain_America:_The_Winter_Soldier",
-        "text": "Captain America: The Winter Soldier",
-        "referenceType": "unknown"
-      }
-    ],
-    "primeReferenceIndex": 0,
-    "primeReferenceTitle": "Captain America: The Winter Soldier"
-  },
-  {
-    "hash": "fa3ca507-d22c-57a0-a9c7-1f2289791754",
-    "timeDescription": "1974",
-    "timeDescriptionParts": {
-      "primary": "1974",
-      "secondary": "",
-      "tertiary": ""
-    },
-    "textContent": "Howard Stark hides the secret to perfecting the Arc Reactor in layouts of the Stark Expo for Tony to find and records a video promoting the Stark Expo.",
-    "timeline": "Marvel Cinematic Universe",
-    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
-    "referenceLinks": [
-      {
-        "href": "/wiki/Howard_Stark",
-        "text": "Howard Stark",
-        "referenceType": "unknown"
-      },
-      {
-        "href": "/wiki/Arc_Reactor",
-        "text": "Arc Reactor",
-        "referenceType": "unknown"
-      },
-      {
-        "href": "/wiki/Stark_Expo",
-        "text": "Stark Expo",
-        "referenceType": "unknown"
-      },
       {
         "href": "/wiki/Iron_Man_2",
         "text": "Iron Man 2",
         "referenceType": "unknown"
       }
     ],
-    "primeReferenceIndex": 3,
+    "primeReferenceIndex": 0,
     "primeReferenceTitle": "Iron Man 2"
   },
   {
-    "hash": "d3878879-03f5-5159-92bf-56a17c9354be",
-    "timeDescription": "1980s",
+    "hash": "d34e333a-1848-5f05-bde1-1a8a21339957",
+    "timeDescription": "1973 A.D. September 15th",
     "timeDescriptionParts": {
-      "primary": "1980s",
+      "primary": "1973 A.D.",
       "secondary": "",
-      "tertiary": ""
+      "tertiary": "September 15th"
     },
-    "textContent": "Hope van Dyne is born.",
+    "textContent": "Howard Stark prepared the last of his World Expos. He uncovered the atomic structure for a new kind of energy-creating element but is unable to replicate it. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
       {
-        "href": "/wiki/Hope_van_Dyne",
-        "text": "Hope van Dyne",
+        "href": "/wiki/Iron_Man_2",
+        "text": "Iron Man 2",
         "referenceType": "unknown"
       }
     ],
-    "primeReferenceIndex": -1,
-    "primeReferenceTitle": ""
+    "primeReferenceIndex": 0,
+    "primeReferenceTitle": "Iron Man 2"
   },
   {
-    "hash": "4a25c77b-8bf9-5aaf-8be6-7dd2f47279f6",
-    "timeDescription": "1980s",
+    "hash": "3f192a80-c9d2-5428-bde2-14afc97d9a8a",
+    "timeDescription": "1973 A.D. December 8th",
     "timeDescriptionParts": {
-      "primary": "1980s",
+      "primary": "1973 A.D.",
       "secondary": "",
-      "tertiary": ""
+      "tertiary": "December 8th"
     },
-    "textContent": "Ego visited Earth to plant one of his seeds in the woods of Missouri. He met human Meredith Quill and awed her almost instantly, under the guise of a \"spaceman\". Ego and Meredith had conceived a child who had inherit Ego's Celestial DNA, becoming the first successful offspring of Ego's to do so. Ego then realized that he was genuinely falling in love with Meredith and that it would put him off-task to stay on Earth with her instead of forwarding his plans to conquer the galaxy. Because of this, he deliberately, yet reluctantly, caused a cancer inside Meredith's genes.",
+    "textContent": "Jasper Sitwell was born in Norfolk, VA. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
       {
-        "href": "/wiki/Ego",
-        "text": "Ego",
+        "href": "/wiki/Captain_America:_The_Winter_Soldier",
+        "text": "Captain America: The Winter Soldier",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 0,
+    "primeReferenceTitle": "Captain America: The Winter Soldier"
+  },
+  {
+    "hash": "3f192a80-c9d2-5428-bde2-14afc97d9a8a",
+    "timeDescription": "1973 A.D. December 8th",
+    "timeDescriptionParts": {
+      "primary": "1973 A.D.",
+      "secondary": "",
+      "tertiary": "December 8th"
+    },
+    "textContent": "Jasper Sitwell was born in Norfolk, VA. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Captain_America:_The_Winter_Soldier",
+        "text": "Captain America: The Winter Soldier",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 0,
+    "primeReferenceTitle": "Captain America: The Winter Soldier"
+  },
+  {
+    "hash": "aa4606e7-451d-555d-b504-21561f7d9baf",
+    "timeDescription": "Mid-1970s",
+    "timeDescriptionParts": {
+      "primary": "Mid-1970s",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Karun Patel becomes the assistant to Kingo. Patel noticed that the Bollywood actor never aged. Kingo stayed in the limelight by rebranding himself every generation as the new descendant in an acting dynasty. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Karun_Patel",
+        "text": "Karun Patel",
         "referenceType": "unknown"
       },
       {
-        "href": "/wiki/Meredith_Quill",
-        "text": "Meredith Quill",
+        "href": "/wiki/Kingo",
+        "text": "Kingo",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Eternals_(film)",
+        "text": "Eternals",
         "referenceType": "unknown"
       }
     ],
-    "primeReferenceIndex": -1,
-    "primeReferenceTitle": ""
+    "primeReferenceIndex": 2,
+    "primeReferenceTitle": "Eternals"
   },
   {
     "hash": "cd9785c0-9a82-5105-8502-d73b8d919a92",
@@ -4139,9 +4204,9 @@
   },
   {
     "hash": "c144e224-921a-5e03-b46b-92c1663c9f54",
-    "timeDescription": "1982",
+    "timeDescription": "1980s",
     "timeDescriptionParts": {
-      "primary": "1982",
+      "primary": "1980s",
       "secondary": "",
       "tertiary": ""
     },
@@ -4159,12 +4224,90 @@
     "primeReferenceTitle": ""
   },
   {
-    "hash": "2c14d00e-bdf3-5a18-b15c-e7f65a9ff145",
-    "timeDescription": "1984",
+    "hash": "288ea4db-9784-5c09-9ae8-3a94ff9da072",
+    "timeDescription": "1980s",
     "timeDescriptionParts": {
-      "primary": "1984",
+      "primary": "1980s",
       "secondary": "",
       "tertiary": ""
+    },
+    "textContent": "After spending decades wrongfully imprisoned, Isaiah Bradley gained his freedom. A sympathetic nurse helped him to fake his own death so he could escape and live off grid in Baltimore.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Isaiah_Bradley",
+        "text": "Isaiah Bradley",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Baltimore",
+        "text": "Baltimore",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
+  },
+  {
+    "hash": "d3878879-03f5-5159-92bf-56a17c9354be",
+    "timeDescription": "1980 A.D.",
+    "timeDescriptionParts": {
+      "primary": "1980 A.D.",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Hope van Dyne is born.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Hope_van_Dyne",
+        "text": "Hope van Dyne",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
+  },
+  {
+    "hash": "32ab805c-7205-5c4e-b48b-6cc5f4d63d9d",
+    "timeDescription": "1980 A.D.",
+    "timeDescriptionParts": {
+      "primary": "1980 A.D.",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Ego visited Earth to plant one of his seeds in the woods of Missouri. He met human Meredith Quill and awed her almost instantly, under the guise of a \"spaceman\". Ego and Meredith had conceived a child who had inherit Ego's Celestial DNA, becoming the first successful offspring of Ego's to do so. Ego then realized that he was genuinely falling in love with Meredith and that it would put him off-task to stay on Earth with her instead of forwarding his plans to conquer the galaxy. Because of this, he implanted a tumor in her head that would eventually kill her. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Ego",
+        "text": "Ego",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Meredith_Quill",
+        "text": "Meredith Quill",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Guardians_of_the_Galaxy_Vol._2",
+        "text": "Guardians of the Galaxy Vol. 2",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 2,
+    "primeReferenceTitle": "Guardians of the Galaxy Vol. 2"
+  },
+  {
+    "hash": "2c14d00e-bdf3-5a18-b15c-e7f65a9ff145",
+    "timeDescription": "1984 A.D. December 3rd",
+    "timeDescriptionParts": {
+      "primary": "1984 A.D.",
+      "secondary": "",
+      "tertiary": "December 3rd"
     },
     "textContent": "Natalia Romanoff is born in Russia.",
     "timeline": "Marvel Cinematic Universe",
@@ -4180,14 +4323,61 @@
     "primeReferenceTitle": ""
   },
   {
-    "hash": "0c236150-1aee-5d32-9e1c-0868cfef24a5",
-    "timeDescription": "1987",
+    "hash": "2c14d00e-bdf3-5a18-b15c-e7f65a9ff145",
+    "timeDescription": "1984 A.D. December 3rd",
     "timeDescriptionParts": {
-      "primary": "1987",
+      "primary": "1984 A.D.",
+      "secondary": "",
+      "tertiary": "December 3rd"
+    },
+    "textContent": "Natalia Romanoff is born in Russia.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Natalia_Romanoff",
+        "text": "Natalia Romanoff",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
+  },
+  {
+    "hash": "e7b52927-d08d-5d30-8713-11c52991fb6f",
+    "timeDescription": "1985-86",
+    "timeDescriptionParts": {
+      "primary": "1985-86",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "Janet van Dyne goes subatomic to defuse a Soviet missile and is assumed dead.",
+    "textContent": "Trevor Slattery was cast as the lead in a Cold War crime series Caged Heat as a Russian cop with anger problems in Los Angeles. The network rejected the pilot and the series never aired. Meanwhile, back in England, Slattery's mother died. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Trevor_Slattery",
+        "text": "Trevor Slattery",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Marvel_One-Shot:_All_Hail_the_King",
+        "text": "Marvel One-Shot: All Hail the King",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ": All Hail the King"
+  },
+  {
+    "hash": "04aac1b7-46ec-5fde-8107-f2485ab884e6",
+    "timeDescription": "1987 A.D.",
+    "timeDescriptionParts": {
+      "primary": "1987 A.D.",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Janet van Dyne goes subatomic to defuse a Soviet missile and was assumed dead. In reality she was lost in the dimension known as the Quantum Realm. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -4197,23 +4387,28 @@
         "referenceType": "unknown"
       },
       {
+        "href": "/wiki/Quantum_Realm",
+        "text": "Quantum Realm",
+        "referenceType": "unknown"
+      },
+      {
         "href": "/wiki/Ant-Man_(film)",
         "text": "Ant-Man",
         "referenceType": "unknown"
       }
     ],
-    "primeReferenceIndex": 1,
+    "primeReferenceIndex": 2,
     "primeReferenceTitle": "Ant-Man"
   },
   {
     "hash": "fa509833-1a47-5770-bd49-92d8dcb8100f",
-    "timeDescription": "1987 March 9th",
+    "timeDescription": "1987 A.D. March 9th",
     "timeDescriptionParts": {
-      "primary": "1987",
-      "secondary": "March",
-      "tertiary": "9th"
+      "primary": "1987 A.D.",
+      "secondary": "",
+      "tertiary": "March 9th"
     },
-    "textContent": "Marc Spector was born.",
+    "textContent": "Marc Spector was born. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -4238,13 +4433,13 @@
   },
   {
     "hash": "fa509833-1a47-5770-bd49-92d8dcb8100f",
-    "timeDescription": "1987 March 9th",
+    "timeDescription": "1987 A.D. March 9th",
     "timeDescriptionParts": {
-      "primary": "1987",
-      "secondary": "March",
-      "tertiary": "9th"
+      "primary": "1987 A.D.",
+      "secondary": "",
+      "tertiary": "March 9th"
     },
-    "textContent": "Marc Spector was born.",
+    "textContent": "Marc Spector was born. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -4268,14 +4463,14 @@
     "primeReferenceTitle": "Moon Knight"
   },
   {
-    "hash": "49e2ceea-4c7f-5733-b0fb-6216ca950f1e",
-    "timeDescription": "1988",
+    "hash": "221c493c-b5fe-555f-9efb-537948f520ae",
+    "timeDescription": "1988 A.D.",
     "timeDescriptionParts": {
-      "primary": "1988",
+      "primary": "1988 A.D.",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "Meredith Quill dies.",
+    "textContent": "Meredith Quill died. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -4294,14 +4489,14 @@
     "primeReferenceTitle": "Guardians of the Galaxy"
   },
   {
-    "hash": "04cbe8c9-afb8-59c7-be17-5001f05e660c",
-    "timeDescription": "1988",
+    "hash": "180f24d3-71d0-5b84-bd65-56c70fd31e72",
+    "timeDescription": "1988 A.D.",
     "timeDescriptionParts": {
-      "primary": "1988",
+      "primary": "1988 A.D.",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "Ego had hired The Ravagers led by Yondu Udonta to bring his son to him.",
+    "textContent": "Ego hired The Ravagers led by Yondu Udonta to bring his son to him.",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -4320,14 +4515,14 @@
     "primeReferenceTitle": ""
   },
   {
-    "hash": "9e433ed9-d8fd-5c5c-80b3-3a256d983f57",
-    "timeDescription": "1988",
+    "hash": "349f8c1c-8d4c-51e6-a8d6-3610709b7211",
+    "timeDescription": "1988 A.D.",
     "timeDescriptionParts": {
-      "primary": "1988",
+      "primary": "1988 A.D.",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "The Ravagers abduct Peter Quill, however, Yondu knew of the horrific fate that awaits Peter, Yondu kept him as his adoptive son and trained him to be a Ravager.",
+    "textContent": "The Ravagers abducted Peter Quill, however, Yondu knew of the horrific fate that awaited Peter and kept him as his adoptive son and trained him to be a Ravager. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -4344,6 +4539,78 @@
     ],
     "primeReferenceIndex": 1,
     "primeReferenceTitle": "Guardians of the Galaxy"
+  },
+  {
+    "hash": "2b3fb774-ee38-5d92-922c-0ccb562442c1",
+    "timeDescription": "Late 1980s",
+    "timeDescriptionParts": {
+      "primary": "Late 1980s",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Elihas Starr, Hank Pym and Bill Foster work together for S.H.I.E.L.D., conducting quantum research. Foster explored an enlargement process as part of Project Goliath, growing to a record of 21 feet high. A clash between Starr and Pym led to Starr's ousting. Starr continued to experiment in a lab in Argentina. An explosion of quantum energy killed Starr and his wife and disrupted their daughter Ava's molecular stability, allowing her to pass through solid objects. Foster offered child care and support. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Elihas_Starr",
+        "text": "Elihas Starr",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Henry_Pym",
+        "text": "Hank Pym",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/William_Foster",
+        "text": "Bill Foster",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Ava_Starr",
+        "text": "Ava",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Ant-Man_and_the_Wasp",
+        "text": "Ant-Man and the Wasp",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 4,
+    "primeReferenceTitle": "Ant-Man and the Wasp"
+  },
+  {
+    "hash": "c41204c8-4b7f-5f18-bf03-a9997f078f71",
+    "timeDescription": "Late 1980s",
+    "timeDescriptionParts": {
+      "primary": "Late 1980s",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "At the height of the Kree-Skrull war, Mar-Vell defected from the Kree and helped a group of Skrull refugees escape to Earth. Mar-Vell assumed the identity of Wendy Lawson and joined Project Pegasus so she could access the Tesseract and develop a light-speed engine. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Mar-Vell",
+        "text": "Mar-Vell",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Project_Potential_Energy_Group_Alternate_Sources_United_States",
+        "text": "Project Pegasus",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Captain_Marvel_(film)",
+        "text": "Captain Marvel",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 2,
+    "primeReferenceTitle": "Captain Marvel"
   },
   {
     "hash": "8c7f8547-c415-59e7-bca1-7924908bd849",
