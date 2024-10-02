@@ -4614,13 +4614,13 @@
   },
   {
     "hash": "8c7f8547-c415-59e7-bca1-7924908bd849",
-    "timeDescription": "1989",
+    "timeDescription": "1989 A.D.",
     "timeDescriptionParts": {
-      "primary": "1989",
+      "primary": "1989 A.D.",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "Pietro and Wanda are born to Olek and Iryna Maximoff.",
+    "textContent": "Pietro and Wanda are born to Olek and Iryna Maximoff. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -4654,14 +4654,14 @@
     "primeReferenceTitle": "WandaVision"
   },
   {
-    "hash": "be74ca4f-a073-5b56-93dc-803654442ed3",
-    "timeDescription": "1989",
+    "hash": "1468452e-89fd-53aa-bb14-03f5ed7873c9",
+    "timeDescription": "1989 A.D.",
     "timeDescriptionParts": {
-      "primary": "1989",
+      "primary": "1989 A.D.",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "Hank Pym leaves S.H.I.E.L.D. in an attempt to protect his Pym Particles from ever being used by anyone other than himself.",
+    "textContent": "Hank Pym left S.H.I.E.L.D. in an attempt to protect his Pym Particles from ever being used by anyone other than himself. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -4690,10 +4690,77 @@
     "primeReferenceTitle": "Ant-Man"
   },
   {
-    "hash": "ed6e57fd-71aa-56a7-a21d-de0b560e3ebf",
-    "timeDescription": "1990-1991",
+    "hash": "9f3c740e-1fa7-51f0-89c5-6aa4aab85f0e",
+    "timeDescription": "1989 A.D.",
     "timeDescriptionParts": {
-      "primary": "1990-1991",
+      "primary": "1989 A.D.",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Carol Danvers was selected to pilot the Asis. Yon-Rogg shot down the craft mid-flight. Danvers destroyed the engine's core but her body absorbed a column of energy from the explosion and became empowered. Yon-Rogg killed Mar-Vell and took Carol back to Hala to study. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Carol_Danvers",
+        "text": "Carol Danvers",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Asis",
+        "text": "Asis",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Yon-Rogg",
+        "text": "Yon-Rogg",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Hala",
+        "text": "Hala",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Captain_Marvel_(film)",
+        "text": "Captain Marvel",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 4,
+    "primeReferenceTitle": "Captain Marvel"
+  },
+  {
+    "hash": "5f55f30a-8405-5120-ae7e-2d8816729c12",
+    "timeDescription": "1989 A.D.",
+    "timeDescriptionParts": {
+      "primary": "1989 A.D.",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Carol's memories a detached from her consciousness so she has amnesia. Nursed back to health on Hala, she joined Starforce under the name \"Vers\". ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Starforce",
+        "text": "Starforce",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Captain_Marvel_(film)",
+        "text": "Captain Marvel",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 1,
+    "primeReferenceTitle": "Captain Marvel"
+  },
+  {
+    "hash": "ed6e57fd-71aa-56a7-a21d-de0b560e3ebf",
+    "timeDescription": "Early 1990s",
+    "timeDescriptionParts": {
+      "primary": "Early 1990s",
       "secondary": "",
       "tertiary": ""
     },
@@ -4702,7 +4769,7 @@
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
       {
-        "href": "/wiki/Matthew_Murdock_(The_Defenders_Saga)",
+        "href": "/wiki/Matthew_Murdock",
         "text": "Matt Murdock",
         "referenceType": "unknown"
       },
@@ -4727,9 +4794,9 @@
   },
   {
     "hash": "7eb0540f-9707-5c17-8b05-f4089e5973ff",
-    "timeDescription": "1990-1991",
+    "timeDescription": "Early 1990s",
     "timeDescriptionParts": {
-      "primary": "1990-1991",
+      "primary": "Early 1990s",
       "secondary": "",
       "tertiary": ""
     },
@@ -4753,9 +4820,9 @@
   },
   {
     "hash": "385225b9-2c2c-5e36-ad29-dfbd7f18479f",
-    "timeDescription": "1990-1991",
+    "timeDescription": "Early 1990s",
     "timeDescriptionParts": {
-      "primary": "1990-1991",
+      "primary": "Early 1990s",
       "secondary": "",
       "tertiary": ""
     },
@@ -4779,9 +4846,9 @@
   },
   {
     "hash": "bbefe4fc-93c6-56b8-a459-90fca6e16315",
-    "timeDescription": "1990-1991",
+    "timeDescription": "Early 1990s",
     "timeDescriptionParts": {
-      "primary": "1990-1991",
+      "primary": "Early 1990s",
       "secondary": "",
       "tertiary": ""
     },
@@ -4820,9 +4887,9 @@
   },
   {
     "hash": "de35a8f7-b361-5166-9e69-cbd2d25cd7aa",
-    "timeDescription": "1990-1991",
+    "timeDescription": "Early 1990s",
     "timeDescriptionParts": {
-      "primary": "1990-1991",
+      "primary": "Early 1990s",
       "secondary": "",
       "tertiary": ""
     },
@@ -4846,9 +4913,9 @@
   },
   {
     "hash": "cb5bf88c-7915-5cee-b39c-4617513055d0",
-    "timeDescription": "1990-1991",
+    "timeDescription": "Early 1990s",
     "timeDescriptionParts": {
-      "primary": "1990-1991",
+      "primary": "Early 1990s",
       "secondary": "",
       "tertiary": ""
     },
@@ -4872,9 +4939,9 @@
   },
   {
     "hash": "97520162-cb3f-5e64-8fb6-c7f7771e51b9",
-    "timeDescription": "1990-1991",
+    "timeDescription": "Early 1990s",
     "timeDescriptionParts": {
-      "primary": "1990-1991",
+      "primary": "Early 1990s",
       "secondary": "",
       "tertiary": ""
     },
@@ -4898,9 +4965,9 @@
   },
   {
     "hash": "dac73fe3-66fd-575f-aead-9eca57ce1d78",
-    "timeDescription": "1990-1991",
+    "timeDescription": "Early 1990s",
     "timeDescriptionParts": {
-      "primary": "1990-1991",
+      "primary": "Early 1990s",
       "secondary": "",
       "tertiary": ""
     },
@@ -4923,20 +4990,30 @@
     "primeReferenceTitle": "Daredevil"
   },
   {
-    "hash": "e727e7a2-e014-5406-bc09-007072f8417c",
-    "timeDescription": "1990-1991",
+    "hash": "aaa394d6-3eb3-5c8f-8603-c60459f2e707",
+    "timeDescription": "1991 A.D. December 16th",
     "timeDescriptionParts": {
-      "primary": "1990-1991",
+      "primary": "1991 A.D.",
       "secondary": "",
-      "tertiary": ""
+      "tertiary": "December 16th"
     },
-    "textContent": "Howard Stark and his wife are killed by HYDRA using the Winter Soldier. Their deaths were publicly reported as a car accident.",
+    "textContent": "Howard and Maria Stark were assassinated by the Winter Soldier. The Winter Soldier acquired five samples of Super Soldier Serum from the vehicle. HYDRA uses these to create more unstoppable assassins. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
       {
         "href": "/wiki/Howard_Stark",
-        "text": "Howard Stark",
+        "text": "Howard",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Maria_Stark",
+        "text": "Maria Stark",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/James_Barnes",
+        "text": "Winter Soldier",
         "referenceType": "unknown"
       },
       {
@@ -4965,18 +5042,74 @@
         "referenceType": "unknown"
       }
     ],
-    "primeReferenceIndex": 1,
+    "primeReferenceIndex": 3,
     "primeReferenceTitle": "Iron Man"
   },
   {
-    "hash": "6373e39f-fb40-5306-95b0-1a4efbd98e5c",
-    "timeDescription": "1990-1991",
+    "hash": "aaa394d6-3eb3-5c8f-8603-c60459f2e707",
+    "timeDescription": "1991 A.D. December 16th",
     "timeDescriptionParts": {
-      "primary": "1990-1991",
+      "primary": "1991 A.D.",
+      "secondary": "",
+      "tertiary": "December 16th"
+    },
+    "textContent": "Howard and Maria Stark were assassinated by the Winter Soldier. The Winter Soldier acquired five samples of Super Soldier Serum from the vehicle. HYDRA uses these to create more unstoppable assassins. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Howard_Stark",
+        "text": "Howard",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Maria_Stark",
+        "text": "Maria Stark",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/James_Barnes",
+        "text": "Winter Soldier",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Iron_Man_(Film)",
+        "text": "Iron Man",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Iron_Man_2:_Public_Identity",
+        "text": "Iron Man 2: Public Identity",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Iron_Man_2",
+        "text": "Iron Man 2",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Captain_America:_The_Winter_Soldier",
+        "text": "Captain America: The Winter Soldier",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Captain_America:_Civil_War",
+        "text": "Captain America: Civil War",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 3,
+    "primeReferenceTitle": "Iron Man"
+  },
+  {
+    "hash": "225daf20-6e15-5709-bf9b-0bc2c6565fe1",
+    "timeDescription": "1992 A.D.",
+    "timeDescriptionParts": {
+      "primary": "1992 A.D.",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "At age 21, Tony Stark inherits Stark Industries becoming the youngest C.E.O. of a Fortune 500 company. In addition to the company’s numerous military contracts, Stark Industries also does pioneering work in medical technology and in combating world hunger with their Intelli-Crops program. In the process, Stark becomes something of a media celebrity and a self-glorified capitalist.",
+    "textContent": "At age 21, Tony Stark inherited Stark Industries becoming the youngest C.E.O. of a Fortune 500 company taking over from interim CEO, Obadiah Stane. In addition to the company's numerous military contracts, Stark Industries also does pioneering work in medical technology and in combating world hunger with their Intelli-Crops program. In the process, Stark becomes something of a media celebrity and a self-glorified capitalist. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -4991,23 +5124,28 @@
         "referenceType": "unknown"
       },
       {
+        "href": "/wiki/Obadiah_Stane",
+        "text": "Obadiah Stane",
+        "referenceType": "unknown"
+      },
+      {
         "href": "/wiki/Iron_Man_(film)",
         "text": "Iron Man",
         "referenceType": "unknown"
       }
     ],
-    "primeReferenceIndex": 2,
+    "primeReferenceIndex": 3,
     "primeReferenceTitle": "Iron Man"
   },
   {
-    "hash": "a8868b47-9c14-54fd-ab38-c6816494effe",
-    "timeDescription": "1990-1999",
+    "hash": "920b2555-dc75-5428-9337-f701e37a979f",
+    "timeDescription": "1992 A.D.",
     "timeDescriptionParts": {
-      "primary": "1990-1999",
+      "primary": "1992 A.D.",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "King T'Chaka learns of his young brother's actions with Ulysses Klaue. He confronts N'Jobu in Oakland, who becomes angry and threatens to kill T'Chaka's loyal friend, Zuri. T'Chaka reluctantly kills N'Jobu to save Zuri, and abandons N'Jobu's son Erik Stevens in order to prevent the Wakandan people from learning the truth.",
+    "textContent": "King T'Chaka learned of his younger brother's actions with Ulysses Klaue. He confronted N'Jobu in Oakland, who became angry and threatened to kill T'Chaka's loyal friend, Zuri. T'Chaka reluctantly killed N'Jobu to save Zuri, and abandoned N'Jobu's son, Erik Stevens, in order to prevent the Wakandan people from learning the truth. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -5041,14 +5179,14 @@
     "primeReferenceTitle": "Black Panther"
   },
   {
-    "hash": "a0f7ac65-f436-53ff-a568-10bd04bf6b59",
+    "hash": "f0f24664-028d-5751-89a4-35320ce68763",
     "timeDescription": "1990-1999",
     "timeDescriptionParts": {
       "primary": "1990-1999",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "Bruce Banner meets Betty Ross while an undergrad at Harvard. They begin dating and at one point volunteer for an experiment involving hallucinogenics.",
+    "textContent": "Bruce Banner met Betty Ross while an undergrad at Harvard. They began dating and at one point volunteer for an experiment involving hallucinogenics. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -5072,14 +5210,14 @@
     "primeReferenceTitle": "The Incredible Hulk"
   },
   {
-    "hash": "18d4b137-25af-51b6-9095-be7ae1c62ae8",
+    "hash": "db0257ff-9cae-5d40-b771-b68a1516ad62",
     "timeDescription": "1990-1999",
     "timeDescriptionParts": {
       "primary": "1990-1999",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "Matt Murdock is found by Stick and mentored in how to harness his senses and fight. ",
+    "textContent": "Matt Murdock was found by Stick and mentored in how to harness his senses and fight. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -5103,14 +5241,14 @@
     "primeReferenceTitle": "Daredevil"
   },
   {
-    "hash": "ab97601f-10c3-571e-ba4d-978cf768dfb4",
+    "hash": "6acddbdf-be78-5066-8705-7df626e1a321",
     "timeDescription": "1990-1999",
     "timeDescriptionParts": {
       "primary": "1990-1999",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "Stick leaves Matt after he shows affection for him, when he gifting him a bracelet. ",
+    "textContent": "Stick left Matt after he showed affection for him, when he gifted him a bracelet. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -5129,14 +5267,14 @@
     "primeReferenceTitle": "Daredevil"
   },
   {
-    "hash": "a941bce2-cd64-5bd3-af6b-afa659e256c6",
+    "hash": "93153706-7013-5855-b618-84045e4e690b",
     "timeDescription": "1990-1999",
     "timeDescriptionParts": {
       "primary": "1990-1999",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "Ivan Vanko is imprisoned for fifteen years for selling Soviet era, weapons grade plutonium to Pakistan.",
+    "textContent": "Ivan Vanko was imprisoned for fifteen years for selling Soviet era, weapons grade plutonium to Pakistan. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -5155,14 +5293,14 @@
     "primeReferenceTitle": "Iron Man 2"
   },
   {
-    "hash": "2ef042fd-4e47-599a-be2f-45407a52c3fa",
+    "hash": "ffebe126-0fff-5bc6-bdb1-1e36482884ff",
     "timeDescription": "1990-1999",
     "timeDescriptionParts": {
       "primary": "1990-1999",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "General Ross revives the Super Soldier Program to make humans immune to Gamma Radiation.",
+    "textContent": "General Ross revived the Super Soldier Program to make humans immune to Gamma Radiation. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -5193,7 +5331,7 @@
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "Dr. Bruce Banner and Betty Ross join the group at Culver University in Willowdale, VA in south-western Virginia working on way to strengthen cellular resistance to radiation.",
+    "textContent": "Dr. Bruce Banner and Betty Ross join the group at Culver University in Willowdale, VA in south-western Virginia working on way to strengthen cellular resistance to radiation. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -5224,7 +5362,7 @@
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "Thanos sent Nebula to find The Orb, but she failed on her mission, losing her arm in the process.",
+    "textContent": "Thanos sent Nebula to find The Orb, but she failed on her mission, losing her arm in the process. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -5244,13 +5382,13 @@
   },
   {
     "hash": "bc737d74-e9c8-5cdd-a559-29cb2d9a9bf1",
-    "timeDescription": "1994 October 28th",
+    "timeDescription": "1994 A.D. October 28th",
     "timeDescriptionParts": {
-      "primary": "1994",
-      "secondary": "October",
-      "tertiary": "28th"
+      "primary": "1994 A.D.",
+      "secondary": "",
+      "tertiary": "October 28th"
     },
-    "textContent": "Layla Abdallah El-Faouly is born.",
+    "textContent": "Layla Abdallah El-Faouly is born. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -5275,13 +5413,13 @@
   },
   {
     "hash": "bc737d74-e9c8-5cdd-a559-29cb2d9a9bf1",
-    "timeDescription": "1994 October 28th",
+    "timeDescription": "1994 A.D. October 28th",
     "timeDescriptionParts": {
-      "primary": "1994",
-      "secondary": "October",
-      "tertiary": "28th"
+      "primary": "1994 A.D.",
+      "secondary": "",
+      "tertiary": "October 28th"
     },
-    "textContent": "Layla Abdallah El-Faouly is born.",
+    "textContent": "Layla Abdallah El-Faouly is born. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
