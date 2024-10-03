@@ -1035,6 +1035,32 @@
     "primeReferenceTitle": ""
   },
   {
+    "hash": "ea4f78e4-3437-5abb-b11a-01a9c9862914",
+    "timeDescription": "1200 A.D.",
+    "timeDescriptionParts": {
+      "primary": "1200 A.D.",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "In Alabama, the Chocktaw and the Cherokee played a game of stickball to decide who kept the territory. Lowak was able to win the game for the Chocktaw Nation by echoing the abilities of her ancestors including the first Chocktaw, Chafa. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Echo_(Disney%2B_series)",
+        "text": "Echo",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Echo_Episode_1.02:_Lowak",
+        "text": "Lowak",
+        "referenceType": "episode"
+      }
+    ],
+    "primeReferenceIndex": 0,
+    "primeReferenceTitle": "Echo"
+  },
+  {
     "hash": "99eba943-e437-53dd-8dbd-e20a78cc4a41",
     "timeDescription": "Unknown Date",
     "timeDescriptionParts": {
@@ -5179,42 +5205,99 @@
     "primeReferenceTitle": "Black Panther"
   },
   {
-    "hash": "f0f24664-028d-5751-89a4-35320ce68763",
-    "timeDescription": "1990-1999",
+    "hash": "93153706-7013-5855-b618-84045e4e690b",
+    "timeDescription": "1993 A.D.",
     "timeDescriptionParts": {
-      "primary": "1990-1999",
+      "primary": "1993 A.D.",
       "secondary": "",
       "tertiary": ""
     },
-    "textContent": "Bruce Banner met Betty Ross while an undergrad at Harvard. They began dating and at one point volunteer for an experiment involving hallucinogenics. ",
+    "textContent": "Ivan Vanko was imprisoned for fifteen years for selling Soviet era, weapons grade plutonium to Pakistan. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
       {
-        "href": "/wiki/Robert_Banner",
-        "text": "Bruce Banner",
+        "href": "/wiki/Ivan_Vanko",
+        "text": "Ivan Vanko",
         "referenceType": "unknown"
       },
       {
-        "href": "/wiki/Elizabeth_Ross",
-        "text": "Betty Ross",
-        "referenceType": "unknown"
-      },
-      {
-        "href": "/wiki/The_Incredible_Hulk_(film)",
-        "text": "The Incredible Hulk",
+        "href": "/wiki/Iron_Man_2",
+        "text": "Iron Man 2",
         "referenceType": "unknown"
       }
     ],
-    "primeReferenceIndex": 2,
-    "primeReferenceTitle": "The Incredible Hulk"
+    "primeReferenceIndex": 1,
+    "primeReferenceTitle": "Iron Man 2"
+  },
+  {
+    "hash": "bc737d74-e9c8-5cdd-a559-29cb2d9a9bf1",
+    "timeDescription": "1994 A.D. October 28th",
+    "timeDescriptionParts": {
+      "primary": "1994 A.D.",
+      "secondary": "",
+      "tertiary": "October 28th"
+    },
+    "textContent": "Layla Abdallah El-Faouly is born. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Layla_El-Faouly",
+        "text": "Layla Abdallah El-Faouly",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Moon_Knight_(Disney%2B_series)",
+        "text": "Moon Knight",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Moon_Knight_Episode_1.03:_The_Friendly_Type",
+        "text": "The Friendly Type",
+        "referenceType": "episode"
+      }
+    ],
+    "primeReferenceIndex": 1,
+    "primeReferenceTitle": "Moon Knight"
+  },
+  {
+    "hash": "bc737d74-e9c8-5cdd-a559-29cb2d9a9bf1",
+    "timeDescription": "1994 A.D. October 28th",
+    "timeDescriptionParts": {
+      "primary": "1994 A.D.",
+      "secondary": "",
+      "tertiary": "October 28th"
+    },
+    "textContent": "Layla Abdallah El-Faouly is born. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Layla_El-Faouly",
+        "text": "Layla Abdallah El-Faouly",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Moon_Knight_(Disney%2B_series)",
+        "text": "Moon Knight",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Moon_Knight_Episode_1.03:_The_Friendly_Type",
+        "text": "The Friendly Type",
+        "referenceType": "episode"
+      }
+    ],
+    "primeReferenceIndex": 1,
+    "primeReferenceTitle": "Moon Knight"
   },
   {
     "hash": "db0257ff-9cae-5d40-b771-b68a1516ad62",
-    "timeDescription": "1990-1999",
+    "timeDescription": "1995 Early",
     "timeDescriptionParts": {
-      "primary": "1990-1999",
-      "secondary": "",
+      "primary": "1995",
+      "secondary": "Early",
       "tertiary": ""
     },
     "textContent": "Matt Murdock was found by Stick and mentored in how to harness his senses and fight. ",
@@ -5242,10 +5325,10 @@
   },
   {
     "hash": "6acddbdf-be78-5066-8705-7df626e1a321",
-    "timeDescription": "1990-1999",
+    "timeDescription": "1995 Early",
     "timeDescriptionParts": {
-      "primary": "1990-1999",
-      "secondary": "",
+      "primary": "1995",
+      "secondary": "Early",
       "tertiary": ""
     },
     "textContent": "Stick left Matt after he showed affection for him, when he gifted him a bracelet. ",
@@ -5267,71 +5350,50 @@
     "primeReferenceTitle": "Daredevil"
   },
   {
-    "hash": "93153706-7013-5855-b618-84045e4e690b",
-    "timeDescription": "1990-1999",
+    "hash": "d386b97f-1573-54cb-b145-a73ec8d48727",
+    "timeDescription": "1995 Early",
     "timeDescriptionParts": {
-      "primary": "1990-1999",
-      "secondary": "",
+      "primary": "1995",
+      "secondary": "Early",
       "tertiary": ""
     },
-    "textContent": "Ivan Vanko was imprisoned for fifteen years for selling Soviet era, weapons grade plutonium to Pakistan. ",
+    "textContent": "On the command of the Supreme Intelligence, the Kree authorities claimed that the Skrulls had attacked the Kree homeworld of Hala.",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
       {
-        "href": "/wiki/Ivan_Vanko",
-        "text": "Ivan Vanko",
+        "href": "/wiki/Supreme_Intelligence",
+        "text": "Supreme Intelligence",
         "referenceType": "unknown"
       },
       {
-        "href": "/wiki/Iron_Man_2",
-        "text": "Iron Man 2",
+        "href": "/wiki/Kree",
+        "text": "Kree",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Skrulls",
+        "text": "Skrulls",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Hala",
+        "text": "Hala",
         "referenceType": "unknown"
       }
     ],
-    "primeReferenceIndex": 1,
-    "primeReferenceTitle": "Iron Man 2"
+    "primeReferenceIndex": -1,
+    "primeReferenceTitle": ""
   },
   {
-    "hash": "ffebe126-0fff-5bc6-bdb1-1e36482884ff",
-    "timeDescription": "1990-1999",
+    "hash": "f0f24664-028d-5751-89a4-35320ce68763",
+    "timeDescription": "1995 Early",
     "timeDescriptionParts": {
-      "primary": "1990-1999",
-      "secondary": "",
+      "primary": "1995",
+      "secondary": "Early",
       "tertiary": ""
     },
-    "textContent": "General Ross revived the Super Soldier Program to make humans immune to Gamma Radiation. ",
-    "timeline": "Marvel Cinematic Universe",
-    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
-    "referenceLinks": [
-      {
-        "href": "/wiki/Thaddeus_Ross",
-        "text": "General Ross",
-        "referenceType": "unknown"
-      },
-      {
-        "href": "/wiki/Gamma_Radiation",
-        "text": "Gamma Radiation",
-        "referenceType": "unknown"
-      },
-      {
-        "href": "/wiki/The_Incredible_Hulk_(film)",
-        "text": "The Incredible Hulk",
-        "referenceType": "unknown"
-      }
-    ],
-    "primeReferenceIndex": 2,
-    "primeReferenceTitle": "The Incredible Hulk"
-  },
-  {
-    "hash": "bbd3c4ce-dadc-5d2e-8624-e7aee164daba",
-    "timeDescription": "1990-1999",
-    "timeDescriptionParts": {
-      "primary": "1990-1999",
-      "secondary": "",
-      "tertiary": ""
-    },
-    "textContent": "Dr. Bruce Banner and Betty Ross join the group at Culver University in Willowdale, VA in south-western Virginia working on way to strengthen cellular resistance to radiation. ",
+    "textContent": "Bruce Banner met Betty Ross while an undergrad at Harvard. They began dating and at one point volunteer for an experiment involving hallucinogenics. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -5355,102 +5417,14 @@
     "primeReferenceTitle": "The Incredible Hulk"
   },
   {
-    "hash": "99d55cf7-0e86-56ef-826a-b2c13170c151",
-    "timeDescription": "1990-1999",
-    "timeDescriptionParts": {
-      "primary": "1990-1999",
-      "secondary": "",
-      "tertiary": ""
-    },
-    "textContent": "Thanos sent Nebula to find The Orb, but she failed on her mission, losing her arm in the process. ",
-    "timeline": "Marvel Cinematic Universe",
-    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
-    "referenceLinks": [
-      {
-        "href": "/wiki/The_Orb",
-        "text": "The Orb",
-        "referenceType": "unknown"
-      },
-      {
-        "href": "/wiki/Guardians_of_the_Galaxy_Prelude",
-        "text": "Guardians of the Galaxy Prelude",
-        "referenceType": "unknown"
-      }
-    ],
-    "primeReferenceIndex": 1,
-    "primeReferenceTitle": "Guardians of the Galaxy Prelude"
-  },
-  {
-    "hash": "bc737d74-e9c8-5cdd-a559-29cb2d9a9bf1",
-    "timeDescription": "1994 A.D. October 28th",
-    "timeDescriptionParts": {
-      "primary": "1994 A.D.",
-      "secondary": "",
-      "tertiary": "October 28th"
-    },
-    "textContent": "Layla Abdallah El-Faouly is born. ",
-    "timeline": "Marvel Cinematic Universe",
-    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
-    "referenceLinks": [
-      {
-        "href": "/wiki/Layla_El-Faouly",
-        "text": "Layla Abdallah El-Faouly",
-        "referenceType": "unknown"
-      },
-      {
-        "href": "/wiki/Moon_Knight_(Disney%2B_series)",
-        "text": "Moon Knight",
-        "referenceType": "unknown"
-      },
-      {
-        "href": "/wiki/Moon_Knight_Episode_1.03:_The_Friendly_Type",
-        "text": "The Friendly Type",
-        "referenceType": "episode"
-      }
-    ],
-    "primeReferenceIndex": 1,
-    "primeReferenceTitle": "Moon Knight"
-  },
-  {
-    "hash": "bc737d74-e9c8-5cdd-a559-29cb2d9a9bf1",
-    "timeDescription": "1994 A.D. October 28th",
-    "timeDescriptionParts": {
-      "primary": "1994 A.D.",
-      "secondary": "",
-      "tertiary": "October 28th"
-    },
-    "textContent": "Layla Abdallah El-Faouly is born. ",
-    "timeline": "Marvel Cinematic Universe",
-    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
-    "referenceLinks": [
-      {
-        "href": "/wiki/Layla_El-Faouly",
-        "text": "Layla Abdallah El-Faouly",
-        "referenceType": "unknown"
-      },
-      {
-        "href": "/wiki/Moon_Knight_(Disney%2B_series)",
-        "text": "Moon Knight",
-        "referenceType": "unknown"
-      },
-      {
-        "href": "/wiki/Moon_Knight_Episode_1.03:_The_Friendly_Type",
-        "text": "The Friendly Type",
-        "referenceType": "episode"
-      }
-    ],
-    "primeReferenceIndex": 1,
-    "primeReferenceTitle": "Moon Knight"
-  },
-  {
-    "hash": "93fbf309-231c-5c08-95e4-9a5485e50db9",
-    "timeDescription": "1995",
+    "hash": "713060a0-81b9-5fef-890a-400c32355af3",
+    "timeDescription": "1995 Summer",
     "timeDescriptionParts": {
       "primary": "1995",
-      "secondary": "",
+      "secondary": "Summer",
       "tertiary": ""
     },
-    "textContent": "Natasha Romanoff and her little sister, Yelena Belova are whisked away by their surrogate parents, Alexei Shostakov, Russia's Super-Soldier known as the Red Guardian and former Black Widow, Melina Vostokoff from their home in Ohio. As their mission ends, Romanoff and Belova are put through the Red Room for further training.",
+    "textContent": "Natasha Romanoff and her adopted sister, Yelena Belova, lived in Ohio cared for by Russian super soldier Alexei Shostakov and Red Room researcher Melina Vostokoff. During the three-year mission posing as a family, Alexei had infiltrated S.H.I.E.L.D.'s North Institute. He stole mind-control data from HYDRA's Winter Soldier Program for the Red Room to utilise in creating their own assassins. After retrieving this data the family fled the United States back to Russia where Romanoff and Belova were forced into the Widow assassin training program themselves. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -5465,6 +5439,11 @@
         "referenceType": "unknown"
       },
       {
+        "href": "/wiki/Ohio",
+        "text": "Ohio",
+        "referenceType": "unknown"
+      },
+      {
         "href": "/wiki/Alexei_Shostakov",
         "text": "Alexei Shostakov",
         "referenceType": "unknown"
@@ -5475,8 +5454,18 @@
         "referenceType": "unknown"
       },
       {
+        "href": "/wiki/North_Institute",
+        "text": "North Institute",
+        "referenceType": "unknown"
+      },
+      {
         "href": "/wiki/Red_Room",
         "text": "Red Room",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Russia",
+        "text": "Russia",
         "referenceType": "unknown"
       },
       {
@@ -5485,18 +5474,18 @@
         "referenceType": "unknown"
       }
     ],
-    "primeReferenceIndex": 5,
+    "primeReferenceIndex": 8,
     "primeReferenceTitle": "Black Widow"
   },
   {
-    "hash": "b0f76241-390d-5330-b328-46e2292e3a94",
-    "timeDescription": "1995",
+    "hash": "b0839bac-04f0-57da-945c-5a7ab8d842a6",
+    "timeDescription": "1995 Summer",
     "timeDescriptionParts": {
       "primary": "1995",
-      "secondary": "",
+      "secondary": "Summer",
       "tertiary": ""
     },
-    "textContent": "Vers resides on Hala, the Kree home world. She has constant nightmares that haunt her, mainly consisting of an aircraft crash on a foreign peninsula, and watching a woman being murdered in front of her by an unknown Skrull assailant. She also remembers this as the earliest memory of when she gained her powers that allow her to shoot photon blasts out of her fists. Vers now trains with Yon-Rogg, aiming to become a member of Starforce. Although Yon-Rogg believes she is ready, the Supreme Intelligence, the artificial intelligence that rules the Kree Empire, figures otherwise but nonetheless allows Vers on the team, which consists of Minn-Erva, Korath, Bron-Char, and Att-Lass. Yon-Rogg gives the Starforce a briefing, to rescue a Kree operative named Soh-Larr. Yon-Rogg informs the team that Soh-Larr has been captured on the planet Torfa. Yon-Rogg instructs the team to perform an incursion on the planet, so Vers and the rest of the Starforce land underwater and used their suits to reach the surface. Soon they encountered Torfans who turned out to be Skrulls, getting ambushed by the Skrull leader Talos and his subordinates. Vers finds Soh-Larr, but realize he has been compromised by Talos, who kidnaps her to a Skrull spacecraft, while the rest of the Starforce retreat. On the spacecraft, Talos gains access to Vers' memories from various points in her life. Vers awakens just as Talos unlocks her memories, revealing that he wants information from her pertaining to a Light-Speed Engine. She orchestrates an escape, with Talos, Norex and two other Skrulls in pursuit, crash-landing to Planet C-53 or it's other name Earth.",
+    "textContent": "Six years after her disappearance, Vers resided and fought on Hala, the Kree home world, as an elite Starforce agent. She did not remember her past identity but had constant nightmares that haunt her, mainly consisting of an aircraft crash on a foreign peninsula, and watching a woman being murdered in front of her by an unknown Skrull assailant. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -5511,8 +5500,39 @@
         "referenceType": "unknown"
       },
       {
+        "href": "/wiki/Starforce",
+        "text": "Starforce",
+        "referenceType": "unknown"
+      },
+      {
         "href": "/wiki/Skrull",
         "text": "Skrull",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Captain_Marvel_(film)",
+        "text": "Captain Marvel",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 4,
+    "primeReferenceTitle": "Captain Marvel"
+  },
+  {
+    "hash": "2a52b108-b9e2-5a90-abe8-4ff22238f896",
+    "timeDescription": "1995 Summer",
+    "timeDescriptionParts": {
+      "primary": "1995",
+      "secondary": "Summer",
+      "tertiary": ""
+    },
+    "textContent": "Vers and her Starforce squad, led by Yon-Rogg and consisting of Minn-Erva, Korath, Bron-Char and Att-Lass, were dispatched to Torfa to rescue Kree spy Soh-Larr. The mission went awry and Vers was captured by Skrull general Talos who forcibly read her memories for information about Mar-Vell's light-speed engines. Vers orchestrated an escape, with Talos, Norex and two other Skrulls in pursuit, crash-landing in a Blockbuster video store on Planet C-53 (a.k.a. Earth). ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Starforce",
+        "text": "Starforce",
         "referenceType": "unknown"
       },
       {
@@ -5541,8 +5561,23 @@
         "referenceType": "unknown"
       },
       {
+        "href": "/wiki/Torfa",
+        "text": "Torfa",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Soh-Larr",
+        "text": "Soh-Larr",
+        "referenceType": "unknown"
+      },
+      {
         "href": "/wiki/Talos",
         "text": "Talos",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Mar-Vell",
+        "text": "Mar-Vell",
         "referenceType": "unknown"
       },
       {
@@ -5556,18 +5591,18 @@
         "referenceType": "unknown"
       }
     ],
-    "primeReferenceIndex": 10,
+    "primeReferenceIndex": 11,
     "primeReferenceTitle": "Captain Marvel"
   },
   {
-    "hash": "cea51b1e-0292-5ad5-9e6e-c17aed839090",
-    "timeDescription": "1995",
+    "hash": "5928748a-7c1f-592b-8882-6a283f4dc888",
+    "timeDescription": "1995 Summer",
     "timeDescriptionParts": {
       "primary": "1995",
-      "secondary": "",
+      "secondary": "Summer",
       "tertiary": ""
     },
-    "textContent": "Vers and the Skrulls crash in Los Angeles. While Talos and the Skrulls assume the role of surfers on a beach the next day, Vers crashes through the roof of a Blockbuster Video in the middle of a shopping plaza. After a brief communication with Yon-Rogg, learning she will be stranded on Earth for the next 22 hours, she attracts the attention of S.H.I.E.L.D. after a night-shift Los Angeles Police Department officer reports her in. Nick Fury and Phil Coulson led by Keller arrives at Los Angeles to interrogate Vers, dismissing her Kree authority and her claims that the Skrulls have arrived on Earth. The interrogation is interrupted by one of the Skrulls. Vers give chase to the Skrull on a subway train, but the Skrull evades her and escapes amid a crowd at a train station. Fury and Coulson give chase to Vers, but Fury realizes that Coulson was actually abandoned at the shopping complex, and the Coulson sitting passenger-side next to him is a second Skrull impostor. The two have a scuffle, and the Skrull is killed when their car crashes into oncoming traffic. Vers utilizes a Skrull crystal containing her lost memories and begins recollecting them. She dresses in a civilian outfit she stole from a display and steals a motorcycle to drive to Pancho's Bar in the nearby town of Rosamond. Fury and Keller, who at this point has been compromised by Talos, take possession of the deceased Skrull and while performing an autopsy, Keller authorizes Fury to work with Vers, and eventually hand her in S.H.I.E.L.D. custody. Fury finds Vers at the bar, and now fully convinced that the Skrulls are a threat, the two question each other to ensure that they are not Skrull impostors.",
+    "textContent": "S.H.I.E.L.D. agents Nick Fury and Phil Coulson led by Keller arrived to interrogate Vers, dismissing her Kree authority and her claims that the Skrulls had arrived on Earth. ",
     "timeline": "Marvel Cinematic Universe",
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
@@ -5587,20 +5622,46 @@
         "referenceType": "unknown"
       },
       {
+        "href": "/wiki/Keller",
+        "text": "Keller",
+        "referenceType": "unknown"
+      },
+      {
         "href": "/wiki/Captain_Marvel_(film)",
         "text": "Captain Marvel",
         "referenceType": "unknown"
       }
     ],
-    "primeReferenceIndex": 3,
+    "primeReferenceIndex": 4,
+    "primeReferenceTitle": "Captain Marvel"
+  },
+  {
+    "hash": "27857b4b-948b-500b-aa8b-b7f64ba90089",
+    "timeDescription": "1995 Summer",
+    "timeDescriptionParts": {
+      "primary": "1995",
+      "secondary": "Summer",
+      "tertiary": ""
+    },
+    "textContent": "The interrogation was interrupted by one of the Skrulls. Vers give chase to the Skrull on a subway train, but the Skrull evades her and escapes amid a crowd at a train station. Fury and Coulson give chase to Vers, but Fury realizes that Coulson was actually abandoned at the shopping complex, and the Coulson sitting passenger-side next to him is a second Skrull impostor. The two have a scuffle, and the Skrull is killed when their car crashes into oncoming traffic. Vers utilizes a Skrull crystal containing her lost memories and begins recollecting them. She dresses in a civilian outfit she stole from a display and steals a motorcycle to drive to Pancho's Bar in the nearby town of Rosamond. Fury and Keller, who at this point has been compromised by Talos, take possession of the deceased Skrull and while performing an autopsy, Keller authorizes Fury to work with Vers, and eventually hand her in S.H.I.E.L.D. custody. Fury finds Vers at the bar, and now fully convinced that the Skrulls are a threat, the two question each other to ensure that they are not Skrull impostors.",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Captain_Marvel_(film)",
+        "text": "Captain Marvel",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 0,
     "primeReferenceTitle": "Captain Marvel"
   },
   {
     "hash": "10e2357c-5d30-567d-8752-d5375caf4e0f",
-    "timeDescription": "1995",
+    "timeDescription": "1995 Summer",
     "timeDescriptionParts": {
       "primary": "1995",
-      "secondary": "",
+      "secondary": "Summer",
       "tertiary": ""
     },
     "textContent": "Fury takes her to the Joint USAFA Facility in Nevada to confirm Vers' claims of her origins on Earth. She learns that she was a fighter pilot for the United States Air Force alongside a fellow comrade, Maria Rambeau, both under the tutelage of Wendy Lawson for Project P.E.G.A.S.U.S.. Vers recognizes Lawson as the woman murdered in her dreams and later learns from Yon-Rogg that she was a Kree named Mar-Vell. Fury reports to Keller of their location and a posse of agents led by Keller arrive, including Coulson. Upon realizing that Keller had been compromised by Talos the whole time, Fury goes rogue with Vers. Coulson allows the two to escape. Motivated to seek answers from Rambeau, Fury, and Vers, accompanied by Goose, a cat who they encountered at the facility, hijack a Quinjet to the Rambeau Residence in New Orleans, Louisiana. Both Rambeau and her daughter Monica are surprised to see Vers still alive. The two identify Vers as Carol Danvers, a fighter pilot who was seemingly killed with Lawson in a test flight gone awry. They also identify Goose as Lawson and Danvers' pet. Talos and Norex arrive at the Rambeau Residence, only to negotiate a temporary alliance after Talos reveals that he was in possession of a black box from the plane crash. Talos reveals that Danvers has been deceived by the Kree and that the Skrulls are simply homeless refugees constantly on the run from the Kree, on the brink of extinction. Upon hearing the recording from the black box, Danvers finally recollects the memory of what happened. The assassination was orchestrated by none other than Yon-Rogg, who had uncovered Mar-Vell's deception. Mar-Vell instructed Danvers to destroy the energy core powering the light-speed engine, but in an attempt to destroy it, Danvers gained cosmic powers after absorbing the energy from the exploding engine. With no recollection of her memories, Yon-Rogg was authorized by the Supreme Intelligence to train her into becoming a Kree soldier.",
@@ -5648,10 +5709,10 @@
   },
   {
     "hash": "9f7ba263-3719-5792-b646-40d07c3a5006",
-    "timeDescription": "1995",
+    "timeDescription": "1995 Summer",
     "timeDescriptionParts": {
       "primary": "1995",
-      "secondary": "",
+      "secondary": "Summer",
       "tertiary": ""
     },
     "textContent": "Talos confides in Danvers that Mar-Vell was actually a Kree double-agent who was attempting to help the Skrulls by testing the light-speed engine, which can help them flee Kree occupation forever, and that the black box and Danvers' memories contained the coordinates to a former laboratory cloaked in Earth's orbit that Mar-Vell had used, containing the last of the Skrull refugees as well as the energy core that powered the engine. The next day, Yon-Rogg arrives on Earth to confront Danvers. He quickly realizes that the Danvers he was communicating with was Norex, and swiftly executes him upon learning of the laboratory orbiting Earth, and learning that the source of the energy core is the Tesseract. Danvers, Fury, Talos, Maria, and Goose take the Quinjet to the laboratory, and Talos is reunited with his wife and daughter. Danvers finds the Tesseract, but the Starforce ambush them and place Danvers under stasis to confront the Supreme Intelligence. In a final conversation with the Supreme Intelligence, Danvers removes the inhibitor that has been limiting her full power potential and engages in an all-out battle with the Starforce. Fury realizes that Goose is actually a Flerken, and witnesses his abilities firsthand after she swallows the Tesseract and several Kree soldiers echoing an earlier scene where Talos expressed fear of Flerkens and insisted that Goose was not a cat. In a battle for the Tesseract, Danvers overpowers Korath, Bron-Char and Att-Lass while the Skrulls escape on the Quadjet with Rambeau and Fury. In the process, Talos is shot by Yon-Rogg, rendering him inoperable to fight.",
@@ -5674,10 +5735,10 @@
   },
   {
     "hash": "2f0af27a-8e81-5ba9-97bb-5fbd9695f9fd",
-    "timeDescription": "1995",
+    "timeDescription": "1995 Summer",
     "timeDescriptionParts": {
       "primary": "1995",
-      "secondary": "",
+      "secondary": "Summer",
       "tertiary": ""
     },
     "textContent": "In a rage, Yon-Rogg authorizes Ronan and the Accusers to dispatch Kree Ballistic Missiles at Earth to kill Danvers and the Skrulls. Danvers destroys the missiles, prompting the Accusers to retreat. Minn-Erva, the last operable Starforce member, intercepts the Quinjet to the Mojave Desert, but Rambeau kills her. Yon-Rogg arrives on Earth, and challenges Danvers to a duel, but she instantly incapacitates him with a photon blast, and sends him back to Hala with a warning for the Supreme Intelligence, ending the war. Goose claws and blinds Fury's left eye while his guard is down. The Skrulls take temporary shelter at the Rambeau Residence, where Talos begins to recover from his injuries. Before Danvers departs Earth with the Skrulls to find them a new home, she hands Fury a modified Transmitter Pager to call her in the event of an emergency. While creating the Protector Initiative, Fury, upon learning that Danvers' call sign was \"Avenger\" during her time in the Air Force, renames it to the Avengers Initiative in her honor. Later, Goose vomits the Tesseract on Fury's desk.",
@@ -5991,6 +6052,68 @@
     ],
     "primeReferenceIndex": 1,
     "primeReferenceTitle": "Iron Man 3"
+  },
+  {
+    "hash": "ffebe126-0fff-5bc6-bdb1-1e36482884ff",
+    "timeDescription": "2001",
+    "timeDescriptionParts": {
+      "primary": "2001",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "General Ross revived the Super Soldier Program to make humans immune to Gamma Radiation. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Thaddeus_Ross",
+        "text": "General Ross",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Gamma_Radiation",
+        "text": "Gamma Radiation",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/The_Incredible_Hulk_(film)",
+        "text": "The Incredible Hulk",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 2,
+    "primeReferenceTitle": "The Incredible Hulk"
+  },
+  {
+    "hash": "bbd3c4ce-dadc-5d2e-8624-e7aee164daba",
+    "timeDescription": "2001",
+    "timeDescriptionParts": {
+      "primary": "2001",
+      "secondary": "",
+      "tertiary": ""
+    },
+    "textContent": "Dr. Bruce Banner and Betty Ross join the group at Culver University in Willowdale, VA in south-western Virginia working on way to strengthen cellular resistance to radiation. ",
+    "timeline": "Marvel Cinematic Universe",
+    "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
+    "referenceLinks": [
+      {
+        "href": "/wiki/Robert_Banner",
+        "text": "Bruce Banner",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Elizabeth_Ross",
+        "text": "Betty Ross",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/The_Incredible_Hulk_(film)",
+        "text": "The Incredible Hulk",
+        "referenceType": "unknown"
+      }
+    ],
+    "primeReferenceIndex": 2,
+    "primeReferenceTitle": "The Incredible Hulk"
   },
   {
     "hash": "acb495c8-5ea9-51aa-9572-d3ddcb3c71b5",

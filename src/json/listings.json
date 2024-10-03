@@ -424,7 +424,7 @@
 		"original_language": "en",
 		"original_title": "Blade",
 		"overview": "A film set in the Marvel Cinematic Universe (MCU) based on the Marvel Comics character of the same name.",
-		"poster_path": "/4yrntZiuLSswoCwJXyBi190lsGi.jpg",
+		"poster_path": "/fKqA4rgVJwrM7Gb3tQ9TGHnu8Tr.jpg",
 		"release_date": "2025-11-05",
 		"title": "Blade",
 		"video": false,
@@ -467,7 +467,7 @@
 		"id": 986056,
 		"original_language": "en",
 		"original_title": "Thunderbolts*",
-		"overview": "Depressed assassin Yelena Belova teams up alongside the MCU's least anticipated band of misfits.",
+		"overview": "A world without Avengers doesn't mean there's not a group of superheroes. There is a group and they're called the Thunderbolts.",
 		"poster_path": "/hQYEA4Ty1RlxsToWMYLE2RzSc0N.jpg",
 		"release_date": "2025-04-30",
 		"title": "Thunderbolts*",
@@ -542,7 +542,7 @@
 		"poster_path": "/gOcqzHwkApTWD9i5ChDK5wO5pM5.jpg",
 		"first_air_date": "2024-09-18",
 		"name": "Agatha All Along",
-		"vote_average": 7.5,
+		"vote_average": 7.509,
 		"title": "Agatha All Along",
 		"slug": "agatha-all-along",
 		"tags": [
@@ -566,7 +566,7 @@
 		"release_date": "2024-07-24",
 		"title": "Deadpool & Wolverine",
 		"video": false,
-		"vote_average": 7.732,
+		"vote_average": 7.753,
 		"slug": "deadpool-and-wolverine",
 		"tags": [
 			"movie",
@@ -727,7 +727,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.073,
+		"vote_average": 6.1,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -884,7 +884,7 @@
 		"release_date": "2023-05-03",
 		"title": "Guardians of the Galaxy Vol. 3",
 		"video": false,
-		"vote_average": 7.97,
+		"vote_average": 7.971,
 		"slug": "guardians-of-the-galaxy-vol-3",
 		"tags": [
 			"movie",
@@ -1088,7 +1088,7 @@
 		"release_date": "2022-09-25",
 		"title": "Werewolf by Night",
 		"video": false,
-		"vote_average": 6.983,
+		"vote_average": 6.982,
 		"slug": "werewolf-by-night",
 		"tags": [
 			"movie",
@@ -1438,7 +1438,7 @@
 		"release_date": "2022-05-04",
 		"title": "Doctor Strange in the Multiverse of Madness",
 		"video": false,
-		"vote_average": 7.287,
+		"vote_average": 7.286,
 		"slug": "doctor-strange-in-the-multiverse-of-madness",
 		"tags": [
 			"movie",
@@ -1529,7 +1529,7 @@
 		"release_date": "2021-12-15",
 		"title": "Spider-Man: No Way Home",
 		"video": false,
-		"vote_average": 7.96,
+		"vote_average": 7.959,
 		"slug": "spider-man-no-way-home",
 		"tags": [
 			"movie",
@@ -1624,7 +1624,7 @@
 		"release_date": "2021-11-03",
 		"title": "Eternals",
 		"video": false,
-		"vote_average": 6.859,
+		"vote_average": 6.86,
 		"slug": "eternals",
 		"tags": [
 			"movie",
@@ -1776,7 +1776,7 @@
 		"poster_path": "/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
 		"first_air_date": "2021-03-19",
 		"name": "The Falcon and the Winter Soldier",
-		"vote_average": 7.653,
+		"vote_average": 7.7,
 		"title": "The Falcon and the Winter Soldier",
 		"slug": "the-falcon-and-the-winter-soldier",
 		"tags": [
@@ -1951,7 +1951,7 @@
 		"release_date": "2020-04-02",
 		"title": "The New Mutants",
 		"video": false,
-		"vote_average": 6.108,
+		"vote_average": 6.107,
 		"slug": "the-new-mutants",
 		"tags": [
 			"movie",
@@ -2162,7 +2162,7 @@
 		"release_date": "2018-12-06",
 		"title": "Spider-Man: Into the Spider-Verse",
 		"video": false,
-		"vote_average": 8.401,
+		"vote_average": 8.4,
 		"slug": "spider-man-into-the-spider-verse",
 		"tags": [
 			"movie",
@@ -2304,7 +2304,7 @@
 		"release_date": "2018-02-20",
 		"title": "Team Darryl",
 		"video": false,
-		"vote_average": 6.2,
+		"vote_average": 6.192,
 		"slug": "team-darryl",
 		"tags": [
 			"movie",
@@ -2327,7 +2327,7 @@
 		"release_date": "2018-02-13",
 		"title": "Black Panther",
 		"video": false,
-		"vote_average": 7.384,
+		"vote_average": 7.383,
 		"slug": "black-panther",
 		"tags": [
 			"movie",
@@ -2529,7 +2529,7 @@
 		"release_date": "2017-04-19",
 		"title": "Guardians of the Galaxy Vol. 2",
 		"video": false,
-		"vote_average": 7.619,
+		"vote_average": 7.6,
 		"slug": "guardians-of-the-galaxy-vol-2",
 		"tags": [
 			"movie",
@@ -2774,7 +2774,7 @@
 		"release_date": "2016-08-28",
 		"title": "Team Thor",
 		"video": false,
-		"vote_average": 7.275,
+		"vote_average": 7.274,
 		"slug": "team-thor",
 		"tags": [
 			"movie",
@@ -2798,7 +2798,7 @@
 		"release_date": "2016-05-18",
 		"title": "X-Men: Apocalypse",
 		"video": false,
-		"vote_average": 6.519,
+		"vote_average": 6.518,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"movie",
@@ -2846,7 +2846,7 @@
 		"release_date": "2016-02-09",
 		"title": "Deadpool",
 		"video": false,
-		"vote_average": 7.622,
+		"vote_average": 7.623,
 		"slug": "deadpool",
 		"tags": [
 			"movie",
@@ -4244,7 +4244,7 @@
 		"release_date": "2008-06-12",
 		"title": "The Incredible Hulk",
 		"video": false,
-		"vote_average": 6.212,
+		"vote_average": 6.211,
 		"slug": "the-incredible-hulk",
 		"tags": [
 			"movie",
@@ -4268,7 +4268,7 @@
 		"release_date": "2008-04-30",
 		"title": "Iron Man",
 		"video": false,
-		"vote_average": 7.6,
+		"vote_average": 7.646,
 		"slug": "iron-man",
 		"tags": [
 			"movie",
@@ -4343,7 +4343,7 @@
 		"release_date": "2007-06-13",
 		"title": "Fantastic Four: Rise of the Silver Surfer",
 		"video": false,
-		"vote_average": 5.608,
+		"vote_average": 5.607,
 		"slug": "fantastic-four-rise-of-the-silver-surfer",
 		"tags": [
 			"movie",
@@ -4540,7 +4540,7 @@
 		"release_date": "2006-05-24",
 		"title": "X-Men: The Last Stand",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.411,
 		"slug": "x-men-the-last-stand",
 		"tags": [
 			"movie",
@@ -4612,7 +4612,7 @@
 		"release_date": "2005-01-13",
 		"title": "Elektra",
 		"video": false,
-		"vote_average": 5.043,
+		"vote_average": 5,
 		"slug": "elektra",
 		"tags": [
 			"movie",
@@ -4658,7 +4658,7 @@
 		"release_date": "2004-06-25",
 		"title": "Spider-Man 2",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.286,
 		"slug": "spider-man-2",
 		"tags": [
 			"movie",
