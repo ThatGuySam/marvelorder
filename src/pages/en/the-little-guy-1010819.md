@@ -43,7 +43,7 @@ tags:
     "release_date": "2022-08-10",
     "title": "The Little Guy",
     "video": false,
-    "vote_average": 7.353,
+    "vote_average": 7.348,
     "slug": "the-little-guy",
     "tags": [
         "movie",

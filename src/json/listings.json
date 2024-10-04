@@ -467,7 +467,7 @@
 		"id": 986056,
 		"original_language": "en",
 		"original_title": "Thunderbolts*",
-		"overview": "A world without Avengers doesn't mean there's not a group of superheroes. There is a group and they're called the Thunderbolts.",
+		"overview": "Depressed assassin Yelena Belova teams up alongside the MCU's least anticipated band of misfits.",
 		"poster_path": "/hQYEA4Ty1RlxsToWMYLE2RzSc0N.jpg",
 		"release_date": "2025-04-30",
 		"title": "Thunderbolts*",
@@ -542,7 +542,7 @@
 		"poster_path": "/gOcqzHwkApTWD9i5ChDK5wO5pM5.jpg",
 		"first_air_date": "2024-09-18",
 		"name": "Agatha All Along",
-		"vote_average": 7.509,
+		"vote_average": 7.6,
 		"title": "Agatha All Along",
 		"slug": "agatha-all-along",
 		"tags": [
@@ -566,7 +566,7 @@
 		"release_date": "2024-07-24",
 		"title": "Deadpool & Wolverine",
 		"video": false,
-		"vote_average": 7.753,
+		"vote_average": 7.759,
 		"slug": "deadpool-and-wolverine",
 		"tags": [
 			"movie",
@@ -614,7 +614,7 @@
 		"poster_path": "/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg",
 		"first_air_date": "2024-03-20",
 		"name": "X-Men '97",
-		"vote_average": 8.62,
+		"vote_average": 8.621,
 		"title": "X-Men '97",
 		"slug": "x-men-97",
 		"tags": [
@@ -727,7 +727,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.1,
+		"vote_average": 6.072,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -861,7 +861,7 @@
 		"release_date": "2023-05-31",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
-		"vote_average": 8.358,
+		"vote_average": 8.357,
 		"slug": "spider-man-across-the-spider-verse",
 		"tags": [
 			"movie",
@@ -884,7 +884,7 @@
 		"release_date": "2023-05-03",
 		"title": "Guardians of the Galaxy Vol. 3",
 		"video": false,
-		"vote_average": 7.971,
+		"vote_average": 7.97,
 		"slug": "guardians-of-the-galaxy-vol-3",
 		"tags": [
 			"movie",
@@ -1210,7 +1210,7 @@
 		"release_date": "2022-08-10",
 		"title": "The Little Guy",
 		"video": false,
-		"vote_average": 7.353,
+		"vote_average": 7.348,
 		"slug": "the-little-guy",
 		"tags": [
 			"movie",
@@ -1258,7 +1258,7 @@
 		"release_date": "2022-08-10",
 		"title": "Groot Takes a Bath",
 		"video": false,
-		"vote_average": 7.164,
+		"vote_average": 7.159,
 		"slug": "groot-takes-a-bath",
 		"tags": [
 			"movie",
@@ -1303,7 +1303,7 @@
 		"release_date": "2022-07-18",
 		"title": "Magnum Opus",
 		"video": false,
-		"vote_average": 7.347,
+		"vote_average": 7.339,
 		"slug": "magnum-opus",
 		"tags": [
 			"movie",
@@ -1372,7 +1372,7 @@
 		"poster_path": "/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
 		"first_air_date": "2022-06-08",
 		"name": "Ms. Marvel",
-		"vote_average": 6.43,
+		"vote_average": 6.431,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
 		"tags": [
@@ -1624,7 +1624,7 @@
 		"release_date": "2021-11-03",
 		"title": "Eternals",
 		"video": false,
-		"vote_average": 6.86,
+		"vote_average": 6.859,
 		"slug": "eternals",
 		"tags": [
 			"movie",
@@ -1724,7 +1724,7 @@
 		"poster_path": "/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg",
 		"first_air_date": "2021-06-09",
 		"name": "Loki",
-		"vote_average": 8.2,
+		"vote_average": 8.178,
 		"title": "Loki",
 		"slug": "loki",
 		"tags": [
@@ -1776,7 +1776,7 @@
 		"poster_path": "/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
 		"first_air_date": "2021-03-19",
 		"name": "The Falcon and the Winter Soldier",
-		"vote_average": 7.7,
+		"vote_average": 7.653,
 		"title": "The Falcon and the Winter Soldier",
 		"slug": "the-falcon-and-the-winter-soldier",
 		"tags": [
@@ -2506,7 +2506,7 @@
 		"release_date": "2017-07-05",
 		"title": "Spider-Man: Homecoming",
 		"video": false,
-		"vote_average": 7.337,
+		"vote_average": 7.336,
 		"slug": "spider-man-homecoming",
 		"tags": [
 			"movie",
@@ -2529,7 +2529,7 @@
 		"release_date": "2017-04-19",
 		"title": "Guardians of the Galaxy Vol. 2",
 		"video": false,
-		"vote_average": 7.6,
+		"vote_average": 7.619,
 		"slug": "guardians-of-the-galaxy-vol-2",
 		"tags": [
 			"movie",
@@ -2917,7 +2917,7 @@
 		"release_date": "2015-08-05",
 		"title": "Fantastic Four",
 		"video": false,
-		"vote_average": 4.418,
+		"vote_average": 4.419,
 		"slug": "fantastic-four",
 		"tags": [
 			"movie",
@@ -3289,7 +3289,7 @@
 		"release_date": "2014-03-20",
 		"title": "Captain America: The Winter Soldier",
 		"video": false,
-		"vote_average": 7.663,
+		"vote_average": 7.662,
 		"slug": "captain-america-the-winter-soldier",
 		"tags": [
 			"movie",
@@ -4612,7 +4612,7 @@
 		"release_date": "2005-01-13",
 		"title": "Elektra",
 		"video": false,
-		"vote_average": 5,
+		"vote_average": 5.043,
 		"slug": "elektra",
 		"tags": [
 			"movie",

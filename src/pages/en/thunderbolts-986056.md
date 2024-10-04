@@ -19,7 +19,7 @@ logo_on_black: /.netlify/functions/tmdb-image/dHhniU1vz1C0j27AFdcsPmq6xu.webp
     "id": 986056,
     "original_language": "en",
     "original_title": "Thunderbolts*",
-    "overview": "A world without Avengers doesn't mean there's not a group of superheroes. There is a group and they're called the Thunderbolts.",
+    "overview": "Depressed assassin Yelena Belova teams up alongside the MCU's least anticipated band of misfits.",
     "poster_path": "/hQYEA4Ty1RlxsToWMYLE2RzSc0N.jpg",
     "release_date": "2025-04-30",
     "title": "Thunderbolts*",

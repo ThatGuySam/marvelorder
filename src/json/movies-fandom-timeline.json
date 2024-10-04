@@ -1047,6 +1047,21 @@
     "sourceUrl": "https://marvel-movies.fandom.com/wiki/Earth-199999#Timeline",
     "referenceLinks": [
       {
+        "href": "/wiki/Alabama",
+        "text": "Alabama",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Lowak",
+        "text": "Lowak",
+        "referenceType": "unknown"
+      },
+      {
+        "href": "/wiki/Chafa",
+        "text": "Chafa",
+        "referenceType": "unknown"
+      },
+      {
         "href": "/wiki/Echo_(Disney%2B_series)",
         "text": "Echo",
         "referenceType": "unknown"
@@ -1057,7 +1072,7 @@
         "referenceType": "episode"
       }
     ],
-    "primeReferenceIndex": 0,
+    "primeReferenceIndex": 3,
     "primeReferenceTitle": "Echo"
   },
   {
