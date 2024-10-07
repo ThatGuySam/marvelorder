@@ -28,11 +28,11 @@ watchLinks:
     "original_language": "en",
     "original_title": "Fantastic Four: Rise of the Silver Surfer",
     "overview": "The Fantastic Four return to the big screen as a new and all powerful enemy threatens the Earth. The seemingly unstoppable 'Silver Surfer', but all is not what it seems and there are old and new enemies that pose a greater threat than the intrepid superheroes realize.",
-    "poster_path": "/f3ldtPF7SESMcyAIyIJHBLlBBkr.jpg",
+    "poster_path": "/1rxTraSO45jbvTrCeSvJ6RmOu1b.jpg",
     "release_date": "2007-06-13",
     "title": "Fantastic Four: Rise of the Silver Surfer",
     "video": false,
-    "vote_average": 5.608,
+    "vote_average": 5.6,
     "slug": "fantastic-four-rise-of-the-silver-surfer",
     "tags": [
         "movie",

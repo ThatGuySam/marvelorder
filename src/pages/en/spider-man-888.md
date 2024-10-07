@@ -28,7 +28,7 @@ watchLinks:
         10759
     ],
     "first_air_date": "1994-11-19",
-    "vote_average": 8.271,
+    "vote_average": 8.27,
     "origin_country": [
         "US"
     ],

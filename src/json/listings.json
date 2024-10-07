@@ -308,12 +308,13 @@
 		"adult": false,
 		"backdrop_path": null,
 		"genre_ids": [
-			14
+			14,
+			28
 		],
 		"id": 1072946,
 		"original_language": "en",
 		"original_title": "Doctor Strange 3",
-		"overview": "Rumored sequel to Doctor Strange in the Multiverse of Madness.",
+		"overview": "Rumored sequel to 'Doctor Strange in the Multiverse of Madness'.",
 		"poster_path": null,
 		"release_date": "",
 		"title": "Doctor Strange 3",
@@ -542,7 +543,7 @@
 		"poster_path": "/1tfCj5h0FEQ5xg8hzVjQgcuGlgN.jpg",
 		"first_air_date": "2024-09-18",
 		"name": "Agatha All Along",
-		"vote_average": 7.588,
+		"vote_average": 7.548,
 		"title": "Agatha All Along",
 		"slug": "agatha-all-along",
 		"tags": [
@@ -566,7 +567,7 @@
 		"release_date": "2024-07-24",
 		"title": "Deadpool & Wolverine",
 		"video": false,
-		"vote_average": 7.751,
+		"vote_average": 7.745,
 		"slug": "deadpool-and-wolverine",
 		"tags": [
 			"movie",
@@ -727,7 +728,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.069,
+		"vote_average": 6.067,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -815,7 +816,7 @@
 		"poster_path": "/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg",
 		"first_air_date": "2023-06-21",
 		"name": "Secret Invasion",
-		"vote_average": 6.735,
+		"vote_average": 6.733,
 		"title": "Secret Invasion",
 		"slug": "secret-invasion",
 		"tags": [
@@ -861,7 +862,7 @@
 		"release_date": "2023-05-31",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
-		"vote_average": 8.357,
+		"vote_average": 8.358,
 		"slug": "spider-man-across-the-spider-verse",
 		"tags": [
 			"movie",
@@ -1161,7 +1162,7 @@
 		"poster_path": "/lYwFSsP4KsoRhOLhJvBFp3GEGEm.jpg",
 		"first_air_date": "2022-08-10",
 		"name": "I Am Groot",
-		"vote_average": 7.206,
+		"vote_average": 7.208,
 		"title": "I Am Groot",
 		"slug": "i-am-groot",
 		"tags": [
@@ -1347,7 +1348,7 @@
 		"release_date": "2022-07-06",
 		"title": "Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.445,
 		"slug": "thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -1438,7 +1439,7 @@
 		"release_date": "2022-05-04",
 		"title": "Doctor Strange in the Multiverse of Madness",
 		"video": false,
-		"vote_average": 7.286,
+		"vote_average": 7.3,
 		"slug": "doctor-strange-in-the-multiverse-of-madness",
 		"tags": [
 			"movie",
@@ -1463,7 +1464,7 @@
 		"poster_path": "/YksR65as1ppF2N48TJAh2PLamX.jpg",
 		"first_air_date": "2022-03-30",
 		"name": "Moon Knight",
-		"vote_average": 7.7,
+		"vote_average": 7.717,
 		"title": "Moon Knight",
 		"slug": "moon-knight",
 		"tags": [
@@ -1529,7 +1530,7 @@
 		"release_date": "2021-12-15",
 		"title": "Spider-Man: No Way Home",
 		"video": false,
-		"vote_average": 8,
+		"vote_average": 7.96,
 		"slug": "spider-man-no-way-home",
 		"tags": [
 			"movie",
@@ -2065,7 +2066,7 @@
 		"release_date": "2019-06-05",
 		"title": "Dark Phoenix",
 		"video": false,
-		"vote_average": 5.983,
+		"vote_average": 5.982,
 		"slug": "dark-phoenix",
 		"tags": [
 			"movie",
@@ -2136,7 +2137,7 @@
 		"release_date": "2018-12-11",
 		"title": "Once Upon a Deadpool",
 		"video": false,
-		"vote_average": 7.103,
+		"vote_average": 7.107,
 		"slug": "once-upon-a-deadpool",
 		"tags": [
 			"movie",
@@ -2283,7 +2284,7 @@
 		"release_date": "2018-04-25",
 		"title": "Avengers: Infinity War",
 		"video": false,
-		"vote_average": 8.245,
+		"vote_average": 8.244,
 		"slug": "avengers-infinity-war",
 		"tags": [
 			"movie",
@@ -2327,7 +2328,7 @@
 		"release_date": "2018-02-13",
 		"title": "Black Panther",
 		"video": false,
-		"vote_average": 7.4,
+		"vote_average": 7.384,
 		"slug": "black-panther",
 		"tags": [
 			"movie",
@@ -2404,7 +2405,7 @@
 		"poster_path": "/nshCqszjTNuqhrB53vrSqWO18sE.jpg",
 		"first_air_date": "2017-10-02",
 		"name": "The Gifted",
-		"vote_average": 7.635,
+		"vote_average": 7.636,
 		"title": "The Gifted",
 		"slug": "the-gifted",
 		"tags": [
@@ -2579,7 +2580,7 @@
 		],
 		"release_date": "2017-03-03",
 		"video": false,
-		"vote_average": 7.157,
+		"vote_average": 7.153,
 		"slug": "deadpool-no-good-deed",
 		"tags": [
 			"list-8204860"
@@ -2893,7 +2894,7 @@
 		"poster_path": "/tmZ7rvyiBgs7OIAZGQHossiI4BA.jpg",
 		"first_air_date": "2015-11-20",
 		"name": "Marvel's Jessica Jones",
-		"vote_average": 7.506,
+		"vote_average": 7.507,
 		"title": "Marvel's Jessica Jones",
 		"slug": "marvels-jessica-jones",
 		"tags": [
@@ -2940,7 +2941,7 @@
 		"release_date": "2015-07-14",
 		"title": "Ant-Man",
 		"video": false,
-		"vote_average": 7.077,
+		"vote_average": 7.1,
 		"slug": "ant-man",
 		"tags": [
 			"movie",
@@ -3289,7 +3290,7 @@
 		"release_date": "2014-03-20",
 		"title": "Captain America: The Winter Soldier",
 		"video": false,
-		"vote_average": 7.662,
+		"vote_average": 7.7,
 		"slug": "captain-america-the-winter-soldier",
 		"tags": [
 			"movie",
@@ -3706,7 +3707,7 @@
 		"release_date": "2011-12-10",
 		"title": "Ghost Rider: Spirit of Vengeance",
 		"video": false,
-		"vote_average": 5.012,
+		"vote_average": 5.013,
 		"slug": "ghost-rider-spirit-of-vengeance",
 		"tags": [
 			"movie",
@@ -4067,7 +4068,7 @@
 		"release_date": "2009-04-28",
 		"title": "X-Men Origins: Wolverine",
 		"video": false,
-		"vote_average": 6.275,
+		"vote_average": 6.274,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"movie",
@@ -4295,7 +4296,7 @@
 		"poster_path": "/dCNxOhXT7c4lqYuRpdM3m8s9XDp.jpg",
 		"first_air_date": "2008-03-08",
 		"name": "The Spectacular Spider-Man",
-		"vote_average": 8.576,
+		"vote_average": 8.574,
 		"title": "The Spectacular Spider-Man",
 		"slug": "the-spectacular-spider-man",
 		"tags": [
@@ -4339,11 +4340,11 @@
 		"original_language": "en",
 		"original_title": "Fantastic Four: Rise of the Silver Surfer",
 		"overview": "The Fantastic Four return to the big screen as a new and all powerful enemy threatens the Earth. The seemingly unstoppable 'Silver Surfer', but all is not what it seems and there are old and new enemies that pose a greater threat than the intrepid superheroes realize.",
-		"poster_path": "/f3ldtPF7SESMcyAIyIJHBLlBBkr.jpg",
+		"poster_path": "/1rxTraSO45jbvTrCeSvJ6RmOu1b.jpg",
 		"release_date": "2007-06-13",
 		"title": "Fantastic Four: Rise of the Silver Surfer",
 		"video": false,
-		"vote_average": 5.608,
+		"vote_average": 5.6,
 		"slug": "fantastic-four-rise-of-the-silver-surfer",
 		"tags": [
 			"movie",
@@ -4438,7 +4439,7 @@
 		"release_date": "2007-01-15",
 		"title": "Ghost Rider",
 		"video": false,
-		"vote_average": 5.574,
+		"vote_average": 5.575,
 		"slug": "ghost-rider",
 		"tags": [
 			"movie",
@@ -4489,7 +4490,7 @@
 		"release_date": "2006-08-08",
 		"title": "Ultimate Avengers 2",
 		"video": false,
-		"vote_average": 6.764,
+		"vote_average": 6.8,
 		"slug": "ultimate-avengers-2",
 		"tags": [
 			"movie",
@@ -4635,7 +4636,7 @@
 		"release_date": "2004-12-08",
 		"title": "Blade: Trinity",
 		"video": false,
-		"vote_average": 5.864,
+		"vote_average": 5.863,
 		"slug": "blade-trinity",
 		"tags": [
 			"movie",
@@ -4681,7 +4682,7 @@
 		"release_date": "2004-04-15",
 		"title": "The Punisher",
 		"video": false,
-		"vote_average": 6.3,
+		"vote_average": 6.348,
 		"slug": "the-punisher",
 		"tags": [
 			"movie",
@@ -4935,7 +4936,7 @@
 		"poster_path": "/fvmC5QzQwkI5ZNJauE4xpF24PTB.jpg",
 		"first_air_date": "1999-10-02",
 		"name": "Spider-Man Unlimited",
-		"vote_average": 7.4,
+		"vote_average": 7.442,
 		"title": "Spider-Man Unlimited",
 		"slug": "spider-man-unlimited",
 		"tags": [
@@ -5085,7 +5086,7 @@
 			10759
 		],
 		"first_air_date": "1994-11-19",
-		"vote_average": 8.271,
+		"vote_average": 8.27,
 		"origin_country": [
 			"US"
 		],
@@ -5241,7 +5242,7 @@
 		],
 		"release_date": "1989-05-07",
 		"video": false,
-		"vote_average": 6.43,
+		"vote_average": 6.427,
 		"slug": "the-trial-of-the-incredible-hulk",
 		"tags": [
 			"list-8204862"
