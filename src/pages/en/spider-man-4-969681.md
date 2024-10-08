@@ -35,7 +35,7 @@ tags:
     "id": 969681,
     "original_language": "en",
     "original_title": "Spider-Man 4",
-    "overview": "Rumoured to be titled “Spider-Man: King in Black”, this will be the next installment of the MCU Spider-Man franchise: a sequel to \"Spider-Man: No Way Home\" and the first in a possible new trilogy.",
+    "overview": "The next installment of the MCU Spider-Man franchise: a sequel to \"Spider-Man: No Way Home\" and the first in a possible new trilogy.",
     "poster_path": null,
     "release_date": "",
     "title": "Spider-Man 4",
