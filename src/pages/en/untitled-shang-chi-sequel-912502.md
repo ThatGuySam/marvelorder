@@ -11,14 +11,12 @@ logo_on_black: /.netlify/functions/tmdb-image/ruUz3vhYuq3011WzSNM0SlgaVzh.webp
     "adult": false,
     "backdrop_path": null,
     "genre_ids": [
-        28,
-        12,
         14
     ],
     "id": 912502,
     "original_language": "en",
     "original_title": "Untitled Shang-Chi Sequel",
-    "overview": "Sequel to the 2021 film “Shang-Chi and the Legend of the Ten Rings”, starring Simu Liu as Shang-Chi.",
+    "overview": "Sequel to the 2021 film “Shang-Chi and the Legend of the Ten Rings”.",
     "poster_path": "/ruUz3vhYuq3011WzSNM0SlgaVzh.jpg",
     "release_date": "",
     "title": "Untitled Shang-Chi Sequel",

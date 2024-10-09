@@ -200,14 +200,12 @@
 		"adult": false,
 		"backdrop_path": null,
 		"genre_ids": [
-			28,
-			12,
 			14
 		],
 		"id": 912502,
 		"original_language": "en",
 		"original_title": "Untitled Shang-Chi Sequel",
-		"overview": "Sequel to the 2021 film “Shang-Chi and the Legend of the Ten Rings”, starring Simu Liu as Shang-Chi.",
+		"overview": "Sequel to the 2021 film “Shang-Chi and the Legend of the Ten Rings”.",
 		"poster_path": "/ruUz3vhYuq3011WzSNM0SlgaVzh.jpg",
 		"release_date": "",
 		"title": "Untitled Shang-Chi Sequel",
@@ -223,9 +221,7 @@
 		"adult": false,
 		"backdrop_path": null,
 		"genre_ids": [
-			878,
-			28,
-			12
+			878
 		],
 		"id": 969681,
 		"original_language": "en",
@@ -543,7 +539,7 @@
 		"poster_path": "/1tfCj5h0FEQ5xg8hzVjQgcuGlgN.jpg",
 		"first_air_date": "2024-09-18",
 		"name": "Agatha All Along",
-		"vote_average": 7.5,
+		"vote_average": 7.552,
 		"title": "Agatha All Along",
 		"slug": "agatha-all-along",
 		"tags": [
@@ -567,7 +563,7 @@
 		"release_date": "2024-07-24",
 		"title": "Deadpool & Wolverine",
 		"video": false,
-		"vote_average": 7.74,
+		"vote_average": 7.738,
 		"slug": "deadpool-and-wolverine",
 		"tags": [
 			"movie",
@@ -683,7 +679,7 @@
 		"poster_path": "/vFyJH630cF68LohVYjQW49074Sy.jpg",
 		"first_air_date": "2024-01-09",
 		"name": "Echo",
-		"vote_average": 6.231,
+		"vote_average": 6.226,
 		"title": "Echo",
 		"slug": "echo",
 		"tags": [
@@ -1024,7 +1020,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7.104,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -1089,7 +1085,7 @@
 		"release_date": "2022-09-25",
 		"title": "Werewolf by Night",
 		"video": false,
-		"vote_average": 6.982,
+		"vote_average": 6.981,
 		"slug": "werewolf-by-night",
 		"tags": [
 			"movie",
@@ -1348,7 +1344,7 @@
 		"release_date": "2022-07-06",
 		"title": "Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 6.445,
+		"vote_average": 6.444,
 		"slug": "thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -1625,7 +1621,7 @@
 		"release_date": "2021-11-03",
 		"title": "Eternals",
 		"video": false,
-		"vote_average": 6.859,
+		"vote_average": 6.9,
 		"slug": "eternals",
 		"tags": [
 			"movie",
@@ -1952,7 +1948,7 @@
 		"release_date": "2020-04-02",
 		"title": "The New Mutants",
 		"video": false,
-		"vote_average": 6.106,
+		"vote_average": 6.1,
 		"slug": "the-new-mutants",
 		"tags": [
 			"movie",
@@ -2114,7 +2110,7 @@
 		"release_date": "2019-03-06",
 		"title": "Captain Marvel",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.815,
 		"slug": "captain-marvel",
 		"tags": [
 			"movie",
@@ -2137,7 +2133,7 @@
 		"release_date": "2018-12-11",
 		"title": "Once Upon a Deadpool",
 		"video": false,
-		"vote_average": 7.107,
+		"vote_average": 7.1,
 		"slug": "once-upon-a-deadpool",
 		"tags": [
 			"movie",
@@ -2328,7 +2324,7 @@
 		"release_date": "2018-02-13",
 		"title": "Black Panther",
 		"video": false,
-		"vote_average": 7.4,
+		"vote_average": 7.383,
 		"slug": "black-panther",
 		"tags": [
 			"movie",
@@ -2405,7 +2401,7 @@
 		"poster_path": "/nshCqszjTNuqhrB53vrSqWO18sE.jpg",
 		"first_air_date": "2017-10-02",
 		"name": "The Gifted",
-		"vote_average": 7.635,
+		"vote_average": 7.6,
 		"title": "The Gifted",
 		"slug": "the-gifted",
 		"tags": [
@@ -2627,7 +2623,7 @@
 		"release_date": "2017-02-14",
 		"title": "Team Thor: Part 2",
 		"video": false,
-		"vote_average": 6.967,
+		"vote_average": 6.958,
 		"slug": "team-thor-part-2",
 		"tags": [
 			"movie",
@@ -2775,7 +2771,7 @@
 		"release_date": "2016-08-28",
 		"title": "Team Thor",
 		"video": false,
-		"vote_average": 7.274,
+		"vote_average": 7.268,
 		"slug": "team-thor",
 		"tags": [
 			"movie",
@@ -3170,7 +3166,7 @@
 		"release_date": "2014-05-15",
 		"title": "X-Men: Days of Future Past",
 		"video": false,
-		"vote_average": 7.533,
+		"vote_average": 7.532,
 		"slug": "x-men-days-of-future-past",
 		"tags": [
 			"movie",
@@ -3241,7 +3237,7 @@
 		"release_date": "2014-04-16",
 		"title": "The Amazing Spider-Man 2",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.509,
 		"slug": "the-amazing-spider-man-2",
 		"tags": [
 			"movie",
@@ -3473,7 +3469,7 @@
 		"release_date": "2013-07-21",
 		"title": "The Wolverine",
 		"video": false,
-		"vote_average": 6.416,
+		"vote_average": 6.415,
 		"slug": "the-wolverine",
 		"tags": [
 			"movie",
@@ -3521,7 +3517,7 @@
 			10765
 		],
 		"first_air_date": "2013-05-26",
-		"vote_average": 7.582,
+		"vote_average": 7.6,
 		"origin_country": [
 			"US"
 		],
@@ -3707,7 +3703,7 @@
 		"release_date": "2011-12-10",
 		"title": "Ghost Rider: Spirit of Vengeance",
 		"video": false,
-		"vote_average": 5.013,
+		"vote_average": 5,
 		"slug": "ghost-rider-spirit-of-vengeance",
 		"tags": [
 			"movie",
@@ -4245,7 +4241,7 @@
 		"release_date": "2008-06-12",
 		"title": "The Incredible Hulk",
 		"video": false,
-		"vote_average": 6.211,
+		"vote_average": 6.212,
 		"slug": "the-incredible-hulk",
 		"tags": [
 			"movie",
@@ -4296,7 +4292,7 @@
 		"poster_path": "/dCNxOhXT7c4lqYuRpdM3m8s9XDp.jpg",
 		"first_air_date": "2008-03-08",
 		"name": "The Spectacular Spider-Man",
-		"vote_average": 8.574,
+		"vote_average": 8.576,
 		"title": "The Spectacular Spider-Man",
 		"slug": "the-spectacular-spider-man",
 		"tags": [
@@ -4344,7 +4340,7 @@
 		"release_date": "2007-06-13",
 		"title": "Fantastic Four: Rise of the Silver Surfer",
 		"video": false,
-		"vote_average": 5.6,
+		"vote_average": 5.608,
 		"slug": "fantastic-four-rise-of-the-silver-surfer",
 		"tags": [
 			"movie",
@@ -4613,7 +4609,7 @@
 		"release_date": "2005-01-13",
 		"title": "Elektra",
 		"video": false,
-		"vote_average": 5.044,
+		"vote_average": 5,
 		"slug": "elektra",
 		"tags": [
 			"movie",
@@ -4636,7 +4632,7 @@
 		"release_date": "2004-12-08",
 		"title": "Blade: Trinity",
 		"video": false,
-		"vote_average": 5.864,
+		"vote_average": 5.862,
 		"slug": "blade-trinity",
 		"tags": [
 			"movie",
@@ -4682,7 +4678,7 @@
 		"release_date": "2004-04-15",
 		"title": "The Punisher",
 		"video": false,
-		"vote_average": 6.348,
+		"vote_average": 6.347,
 		"slug": "the-punisher",
 		"tags": [
 			"movie",
@@ -4755,7 +4751,7 @@
 		"release_date": "2003-04-27",
 		"title": "X2",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 7.034,
 		"slug": "x2",
 		"tags": [
 			"movie",
@@ -4779,7 +4775,7 @@
 		"release_date": "2003-02-14",
 		"title": "Daredevil",
 		"video": false,
-		"vote_average": 5.265,
+		"vote_average": 5.264,
 		"slug": "daredevil",
 		"tags": [
 			"movie",
@@ -4856,7 +4852,7 @@
 		"poster_path": "/At5aZIKkN8zHTAXOnQR9D3b7usW.jpg",
 		"first_air_date": "2000-11-04",
 		"name": "X-Men: Evolution",
-		"vote_average": 7.916,
+		"vote_average": 7.912,
 		"title": "X-Men: Evolution",
 		"slug": "x-men-evolution",
 		"tags": [
@@ -5165,7 +5161,7 @@
 		],
 		"release_date": "1994-05-31",
 		"video": false,
-		"vote_average": 4.348,
+		"vote_average": 4.334,
 		"slug": "the-fantastic-four",
 		"tags": [
 			"list-8204862"
@@ -5188,7 +5184,7 @@
 			10759
 		],
 		"first_air_date": "1992-10-31",
-		"vote_average": 8.194,
+		"vote_average": 8.191,
 		"origin_country": [
 			"US"
 		],
@@ -5289,7 +5285,7 @@
 		],
 		"release_date": "1986-08-01",
 		"video": false,
-		"vote_average": 5.387,
+		"vote_average": 5.4,
 		"slug": "howard-the-duck",
 		"tags": [
 			"list-8204859"
