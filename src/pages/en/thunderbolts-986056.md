@@ -19,7 +19,7 @@ logo_on_black: /.netlify/functions/tmdb-image/dHhniU1vz1C0j27AFdcsPmq6xu.webp
     "id": 986056,
     "original_language": "en",
     "original_title": "Thunderbolts*",
-    "overview": "Depressed assassin Yelena Belova teams up alongside the MCU's least anticipated band of misfits.",
+    "overview": "A group of antiheroes – including Yelena Belova, Bucky Barnes, Red Guardian, U.S. Agent, and Taskmaster – go on missions for the American government.",
     "poster_path": "/hQYEA4Ty1RlxsToWMYLE2RzSc0N.jpg",
     "release_date": "2025-04-30",
     "title": "Thunderbolts*",
