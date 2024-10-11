@@ -31,7 +31,7 @@ backdrop_path: /x2IqsMlpbOhS8zIUJfyl1yO4gHF.jpg
     "release_date": "2018-12-06",
     "title": "Spider-Man: Into the Spider-Verse",
     "video": false,
-    "vote_average": 8.401,
+    "vote_average": 8.4,
     "slug": "spider-man-into-the-spider-verse",
     "tags": [
         "movie",

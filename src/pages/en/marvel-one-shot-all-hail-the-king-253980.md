@@ -29,7 +29,7 @@ watchLinks:
     "release_date": "2014-02-04",
     "title": "Marvel One-Shot: All Hail the King",
     "video": false,
-    "vote_average": 6.759,
+    "vote_average": 6.8,
     "slug": "marvel-one-shot-all-hail-the-king",
     "tags": [
         "movie",

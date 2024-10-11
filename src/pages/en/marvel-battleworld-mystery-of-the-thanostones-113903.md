@@ -28,7 +28,7 @@ type: tv
     "poster_path": "/wu7VuEO9eRCtul31pV8MvWwAxyI.jpg",
     "first_air_date": "2020-06-17",
     "name": "Marvel Battleworld: Mystery of the Thanostones",
-    "vote_average": 5,
+    "vote_average": 4.8,
     "title": "Marvel Battleworld: Mystery of the Thanostones",
     "slug": "marvel-battleworld-mystery-of-the-thanostones",
     "tags": [
