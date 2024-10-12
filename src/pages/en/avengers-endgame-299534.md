@@ -35,7 +35,7 @@ tags:
     "release_date": "2019-04-24",
     "title": "Avengers: Endgame",
     "video": false,
-    "vote_average": 8.251,
+    "vote_average": 8.3,
     "slug": "avengers-endgame",
     "tags": [
         "movie",
