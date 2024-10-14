@@ -28,7 +28,7 @@ watchLinks:
     "release_date": "2022-06-01",
     "title": "A Fan's Guide to Ms. Marvel",
     "video": false,
-    "vote_average": 6.986,
+    "vote_average": 7,
     "slug": "a-fans-guide-to-ms-marvel",
     "tags": [
         "movie",

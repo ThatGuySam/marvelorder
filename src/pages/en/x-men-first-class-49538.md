@@ -31,7 +31,7 @@ watchLinks:
     "release_date": "2011-06-01",
     "title": "X-Men: First Class",
     "video": false,
-    "vote_average": 7.3,
+    "vote_average": 7.301,
     "slug": "x-men-first-class",
     "tags": [
         "movie",

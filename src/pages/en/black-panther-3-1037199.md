@@ -23,7 +23,9 @@ tags:
 {
     "adult": false,
     "backdrop_path": null,
-    "genre_ids": [],
+    "genre_ids": [
+        878
+    ],
     "id": 1037199,
     "original_language": "en",
     "original_title": "Black Panther 3",

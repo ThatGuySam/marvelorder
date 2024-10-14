@@ -30,7 +30,7 @@ logo_on_black: /.netlify/functions/tmdb-image/zfZuSNGKxIlWQKi4xlIhFoRrlnj.webp
     "release_date": "2023-05-31",
     "title": "Spider-Man: Across the Spider-Verse",
     "video": false,
-    "vote_average": 8.358,
+    "vote_average": 8.4,
     "slug": "spider-man-across-the-spider-verse",
     "tags": [
         "movie",
