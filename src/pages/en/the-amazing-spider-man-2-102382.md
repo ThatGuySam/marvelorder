@@ -21,7 +21,7 @@ mcuTimelineOrder: 556
 ```json
 {
     "adult": false,
-    "backdrop_path": "/sk9B08wqHXyjbEMGYjm41qjzWrW.jpg",
+    "backdrop_path": "/k0hlAzTryCYX1O1LyC6P8tAa8s0.jpg",
     "genre_ids": [
         28,
         12,
@@ -35,7 +35,7 @@ mcuTimelineOrder: 556
     "release_date": "2014-04-16",
     "title": "The Amazing Spider-Man 2",
     "video": false,
-    "vote_average": 6.5,
+    "vote_average": 6.51,
     "slug": "the-amazing-spider-man-2",
     "tags": [
         "movie",
