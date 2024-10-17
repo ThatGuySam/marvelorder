@@ -34,7 +34,7 @@ watchLinks:
     "poster_path": "/bwJej7WdmGRMCMyuDlotwAqVX7S.jpg",
     "first_air_date": "2016-12-13",
     "name": "Marvel's Agents of S.H.I.E.L.D.: Slingshot",
-    "vote_average": 7.204,
+    "vote_average": 7.2,
     "title": "Marvel's Agents of S.H.I.E.L.D.: Slingshot",
     "slug": "marvels-agents-of-shield-slingshot",
     "tags": [

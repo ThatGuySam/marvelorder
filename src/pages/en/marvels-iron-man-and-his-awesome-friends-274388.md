@@ -44,7 +44,7 @@ tags:
     "original_language": "en",
     "original_name": "Marvel's Iron Man and His Awesome Friends",
     "overview": "Follow the adventures (and misadventures) of best friends and super geniuses, Tony Stark, Riri Williams and Amadeus Cho as they work together to solve problems both big and small and protect their city.",
-    "poster_path": null,
+    "poster_path": "/dznIZf9IyqvZYmZNCT4eJCozQfU.jpg",
     "first_air_date": "",
     "name": "Marvel's Iron Man and His Awesome Friends",
     "vote_average": 0,

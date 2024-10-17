@@ -24,7 +24,8 @@ watchLinks:
     "genre_ids": [
         10759,
         16,
-        10762
+        10762,
+        10765
     ],
     "id": 2901,
     "origin_country": [
