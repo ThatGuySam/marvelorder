@@ -30,7 +30,7 @@ watchLinks:
     ],
     "release_date": "1980-01-30",
     "video": false,
-    "vote_average": 6.9,
+    "vote_average": 6.778,
     "slug": "bride-of-the-incredible-hulk",
     "tags": [
         "list-8204862"

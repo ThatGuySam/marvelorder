@@ -45,7 +45,7 @@ tags:
     "release_date": "2023-09-19",
     "title": "Marvel Studios Assembled: The Making of Secret Invasion",
     "video": false,
-    "vote_average": 4.913,
+    "vote_average": 4.9,
     "slug": "marvel-studios-assembled-the-making-of-secret-invasion",
     "tags": [
         "movie",
