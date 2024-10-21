@@ -82,6 +82,7 @@ This is the *most* official list for the Marvel Chronologically, aka by the time
 - October 23, 2024 - [Venom: The Last Dance](https://marvelorder.com/en/venom-the-last-dance-912649) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/venom-the-last-dance-912649.md)
 - December 11, 2024 - [Kraven the Hunter](https://marvelorder.com/en/kraven-the-hunter-539972) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/kraven-the-hunter-539972.md)
 - February 12, 2025 - [Captain America: Brave New World](https://marvelorder.com/en/captain-america-brave-new-world-822119) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/captain-america-brave-new-world-822119.md)
+- March 4, 2025 - [Daredevil: Born Again](https://marvelorder.com/en/daredevil-born-again-202555) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/daredevil-born-again-202555.md)
 - April 30, 2025 - [Thunderbolts](https://marvelorder.com/en/thunderbolts-986056) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/thunderbolts-986056.md)
 - July 23, 2025 - [The Fantastic Four](https://marvelorder.com/en/the-fantastic-four-617126) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/the-fantastic-four-617126.md)
 - July 23, 2025 - [The Fantastic Four: First Steps](https://marvelorder.com/en/the-fantastic-four-first-steps-617126) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/the-fantastic-four-first-steps-617126.md)
