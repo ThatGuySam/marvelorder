@@ -32,7 +32,7 @@ watchLinks:
     "release_date": "2005-06-29",
     "title": "Fantastic Four",
     "video": false,
-    "vote_average": 5.785,
+    "vote_average": 5.786,
     "slug": "fantastic-four",
     "tags": [
         "movie",
