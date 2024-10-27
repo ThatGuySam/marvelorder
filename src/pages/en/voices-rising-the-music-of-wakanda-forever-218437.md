@@ -46,7 +46,7 @@ tags:
     "poster_path": "/tD0z0ONzplsO7JLkDk1cMTWR1Rd.jpg",
     "first_air_date": "2023-02-28",
     "name": "Voices Rising: The Music of Wakanda Forever",
-    "vote_average": 5.286,
+    "vote_average": 5.3,
     "title": "Voices Rising: The Music of Wakanda Forever",
     "slug": "voices-rising-the-music-of-wakanda-forever",
     "tags": [
