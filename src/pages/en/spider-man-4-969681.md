@@ -28,7 +28,8 @@ tags:
     "adult": false,
     "backdrop_path": null,
     "genre_ids": [
-        878
+        878,
+        12
     ],
     "id": 969681,
     "original_language": "en",

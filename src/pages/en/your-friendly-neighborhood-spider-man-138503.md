@@ -41,7 +41,7 @@ tags:
     "original_name": "Your Friendly Neighborhood Spider-Man",
     "overview": "Follow Peter Parker on his way to becoming Spider-Man, with a journey unlike any we've ever seen.",
     "poster_path": "/o7dy7nkwTvRWH75wBHUYOsGJmOH.jpg",
-    "first_air_date": "",
+    "first_air_date": "2025-01-29",
     "name": "Your Friendly Neighborhood Spider-Man",
     "vote_average": 0,
     "title": "Your Friendly Neighborhood Spider-Man",
