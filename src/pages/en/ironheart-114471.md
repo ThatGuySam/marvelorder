@@ -27,7 +27,7 @@ logo_on_black: /.netlify/functions/tmdb-image/ha1kackPwP1BLtyibzuv5hABiDk.webp
     "original_name": "Ironheart",
     "overview": "Charming teenage super genius Riri Williams returns from MIT to her hometown of Chicago in her iron suit and begins to unravel threads that bring danger and adventure right to her doorstep.",
     "poster_path": "/ha1kackPwP1BLtyibzuv5hABiDk.jpg",
-    "first_air_date": "",
+    "first_air_date": "2025-06-24",
     "name": "Ironheart",
     "vote_average": 0,
     "title": "Ironheart",

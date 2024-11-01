@@ -47,7 +47,7 @@ tags:
     "release_date": "2008-09-02",
     "title": "Next Avengers: Heroes of Tomorrow",
     "video": false,
-    "vote_average": 6.922,
+    "vote_average": 6.9,
     "slug": "next-avengers-heroes-of-tomorrow",
     "tags": [
         "movie",

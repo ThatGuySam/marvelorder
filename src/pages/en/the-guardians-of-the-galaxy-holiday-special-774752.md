@@ -15,7 +15,7 @@ overview: >-
   with the next Guardians of the Galaxy film in 2023, watch the Guardians engage
   in some spirited shenanigans in an all-new original special, created for
   Disney+, during the 2022 holiday season.
-mcuTimelineOrder: 636
+mcuTimelineOrder: 637
 ---
 ## TMDB Data
 ```json
@@ -35,7 +35,7 @@ mcuTimelineOrder: 636
     "release_date": "2022-11-24",
     "title": "The Guardians of the Galaxy Holiday Special",
     "video": false,
-    "vote_average": 7.157,
+    "vote_average": 7.2,
     "slug": "the-guardians-of-the-galaxy-holiday-special",
     "tags": [
         "movie",
