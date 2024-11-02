@@ -26,7 +26,7 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/ymTx7ebsmBjqh47fiZnBUjIDx5K.jpg",
+    "backdrop_path": "/tYLXJW1sZQU09VWY1BhSVPKGIwc.jpg",
     "genre_ids": [
         10765,
         9648
@@ -41,7 +41,7 @@ tags:
     "poster_path": "/1tfCj5h0FEQ5xg8hzVjQgcuGlgN.jpg",
     "first_air_date": "2024-09-18",
     "name": "Agatha All Along",
-    "vote_average": 7.811,
+    "vote_average": 7.781,
     "title": "Agatha All Along",
     "slug": "agatha-all-along",
     "tags": [

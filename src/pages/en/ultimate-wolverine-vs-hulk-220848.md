@@ -30,7 +30,7 @@ type: movie
     "release_date": "2013-09-09",
     "title": "Ultimate Wolverine vs. Hulk",
     "video": false,
-    "vote_average": 7.071,
+    "vote_average": 7.1,
     "slug": "ultimate-wolverine-vs-hulk",
     "tags": [
         "movie",
