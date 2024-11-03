@@ -38,7 +38,7 @@ mcuTimelineOrder: 555
     "release_date": "2012-06-23",
     "title": "The Amazing Spider-Man",
     "video": false,
-    "vote_average": 6.706,
+    "vote_average": 6.707,
     "slug": "the-amazing-spider-man",
     "tags": [
         "movie",

@@ -42,7 +42,7 @@ logo_on_black: /.netlify/functions/tmdb-image/fa6aYdjF083UV2w6V7hOAjwaqi4.webp
     "release_date": "2024-07-24",
     "title": "Deadpool & Wolverine",
     "video": false,
-    "vote_average": 7.707,
+    "vote_average": 7.7,
     "slug": "deadpool-and-wolverine",
     "tags": [
         "movie",
