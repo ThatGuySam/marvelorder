@@ -30,7 +30,7 @@ type: tv
     "poster_path": "/EpDuYIK81YtCUT3gH2JDpyj8Qk.jpg",
     "first_air_date": "2021-01-08",
     "name": "Marvel Studios Legends",
-    "vote_average": 7.4,
+    "vote_average": 7.403,
     "title": "Marvel Studios Legends",
     "slug": "marvel-studios-legends",
     "tags": [

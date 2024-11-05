@@ -28,7 +28,7 @@ mcuTimelineOrder: 255
     "original_language": "en",
     "original_name": "Marvel's The Punisher",
     "overview": "A former Marine out to punish the criminals responsible for his family's murder finds himself ensnared in a military conspiracy.",
-    "poster_path": "/7y24DRiSdE7Q6UOOTNDbCz3qSin.jpg",
+    "poster_path": "/tM6xqRKXoloH9UchaJEyyRE9O1w.jpg",
     "first_air_date": "2017-11-17",
     "name": "Marvel's The Punisher",
     "vote_average": 8.121,
