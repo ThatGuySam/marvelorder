@@ -39,7 +39,7 @@ mcuTimelineOrder: 63
     "release_date": "2014-03-20",
     "title": "Captain America: The Winter Soldier",
     "video": false,
-    "vote_average": 7.662,
+    "vote_average": 7.661,
     "slug": "captain-america-the-winter-soldier",
     "tags": [
         "movie",
