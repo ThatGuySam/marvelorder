@@ -31,7 +31,7 @@ watchLinks:
     "poster_path": "/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
     "first_air_date": "2021-03-19",
     "name": "The Falcon and the Winter Soldier",
-    "vote_average": 7.65,
+    "vote_average": 7.7,
     "title": "The Falcon and the Winter Soldier",
     "slug": "the-falcon-and-the-winter-soldier",
     "tags": [

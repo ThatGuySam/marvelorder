@@ -36,7 +36,6 @@ watchLinks:
     "slug": "silver-surfer",
     "tags": [
         "tv",
-        "company-7505",
         "company-420"
     ]
 }

@@ -444,7 +444,7 @@
 		"original_language": "en",
 		"original_title": "Captain America: Brave New World",
 		"overview": "After meeting with newly elected U.S. President Thaddeus Ross, Sam finds himself in the middle of an international incident. He must discover the reason behind a nefarious global plot before the true mastermind has the entire world seeing red.",
-		"poster_path": "/jmobYdUXrbj1g5QFWjeomOk2Noz.jpg",
+		"poster_path": "/4YFyYcUPfrbpj6VpgWh7xoUnwLA.jpg",
 		"release_date": "2025-02-12",
 		"title": "Captain America: Brave New World",
 		"video": false,
@@ -457,7 +457,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/1oDWeu5BLRQNnc9ic8nlxnV8TDN.jpg",
+		"backdrop_path": null,
 		"genre_ids": [
 			16,
 			10759
@@ -469,7 +469,7 @@
 		"original_language": "en",
 		"original_name": "Your Friendly Neighborhood Spider-Man",
 		"overview": "Follow Peter Parker on his way to becoming Spider-Man, with a journey unlike any we've ever seen.",
-		"poster_path": "/otnu7jLQkNVg2wgxgnMByjkAv0g.jpg",
+		"poster_path": "/o7dy7nkwTvRWH75wBHUYOsGJmOH.jpg",
 		"first_air_date": "2025-01-29",
 		"name": "Your Friendly Neighborhood Spider-Man",
 		"vote_average": 0,
@@ -478,29 +478,6 @@
 		"tags": [
 			"tv",
 			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/v9Du2HC3hlknAvGlWhquRbeifwW.jpg",
-		"genre_ids": [
-			28,
-			12,
-			53
-		],
-		"id": 539972,
-		"original_language": "en",
-		"original_title": "Kraven the Hunter",
-		"overview": "Sergei Kravinoff is a big game hunter, who takes a magical serum giving him superhuman abilities and a longer life.",
-		"poster_path": "/1GvBhRxY6MELDfxFrete6BNhBB5.jpg",
-		"release_date": "2024-12-11",
-		"title": "Kraven the Hunter",
-		"video": false,
-		"vote_average": 0,
-		"slug": "kraven-the-hunter",
-		"tags": [
-			"movie",
-			"company-7505"
 		]
 	},
 	{
@@ -567,7 +544,7 @@
 		"release_date": "2024-07-24",
 		"title": "Deadpool & Wolverine",
 		"video": false,
-		"vote_average": 7.7,
+		"vote_average": 7.708,
 		"slug": "deadpool-and-wolverine",
 		"tags": [
 			"movie",
@@ -816,7 +793,7 @@
 		"poster_path": "/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg",
 		"first_air_date": "2023-06-21",
 		"name": "Secret Invasion",
-		"vote_average": 6.724,
+		"vote_average": 6.7,
 		"title": "Secret Invasion",
 		"slug": "secret-invasion",
 		"tags": [
@@ -838,7 +815,7 @@
 		"release_date": "2023-06-10",
 		"title": "Stan Lee",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 7.167,
 		"slug": "stan-lee",
 		"tags": [
 			"movie",
@@ -885,7 +862,7 @@
 		"release_date": "2023-05-03",
 		"title": "Guardians of the Galaxy Vol. 3",
 		"video": false,
-		"vote_average": 7.968,
+		"vote_average": 8,
 		"slug": "guardians-of-the-galaxy-vol-3",
 		"tags": [
 			"movie",
@@ -1001,7 +978,7 @@
 		"release_date": "2022-11-24",
 		"title": "The Guardians of the Galaxy Holiday Special",
 		"video": false,
-		"vote_average": 7.153,
+		"vote_average": 7.2,
 		"slug": "the-guardians-of-the-galaxy-holiday-special",
 		"tags": [
 			"movie",
@@ -1024,7 +1001,7 @@
 		"release_date": "2022-11-09",
 		"title": "Black Panther: Wakanda Forever",
 		"video": false,
-		"vote_average": 7.1,
+		"vote_average": 7.099,
 		"slug": "black-panther-wakanda-forever",
 		"tags": [
 			"movie",
@@ -1134,7 +1111,7 @@
 		"poster_path": "/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
 		"first_air_date": "2022-08-18",
 		"name": "She-Hulk: Attorney at Law",
-		"vote_average": 6.235,
+		"vote_average": 6.2,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
 		"tags": [
@@ -1348,7 +1325,7 @@
 		"release_date": "2022-07-06",
 		"title": "Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 6.442,
+		"vote_average": 6.4,
 		"slug": "thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -1370,7 +1347,7 @@
 		"original_language": "en",
 		"original_name": "Ms. Marvel",
 		"overview": "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school — that is, until she gets superpowers like the heroes she’s always looked up to. Life is easier with superpowers, right?",
-		"poster_path": "/ls2Hl8CXmqEHvkDqkN3fRtmDodK.jpg",
+		"poster_path": "/3HWWh92kZbD7odwJX7nKmXNZsYo.jpg",
 		"first_air_date": "2022-06-08",
 		"name": "Ms. Marvel",
 		"vote_average": 6.4,
@@ -1439,7 +1416,7 @@
 		"release_date": "2022-05-04",
 		"title": "Doctor Strange in the Multiverse of Madness",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.284,
 		"slug": "doctor-strange-in-the-multiverse-of-madness",
 		"tags": [
 			"movie",
@@ -1648,7 +1625,7 @@
 		"release_date": "2021-09-01",
 		"title": "Shang-Chi and the Legend of the Ten Rings",
 		"video": false,
-		"vote_average": 7.546,
+		"vote_average": 7.5,
 		"slug": "shang-chi-and-the-legend-of-the-ten-rings",
 		"tags": [
 			"movie",
@@ -1673,7 +1650,7 @@
 		"poster_path": "/rWg4Jk7NwVEz2BtU1aKKDoDJPeB.jpg",
 		"first_air_date": "2021-08-11",
 		"name": "What If...?",
-		"vote_average": 8.145,
+		"vote_average": 8.1,
 		"title": "What If...?",
 		"slug": "what-if",
 		"tags": [
@@ -1777,7 +1754,7 @@
 		"poster_path": "/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
 		"first_air_date": "2021-03-19",
 		"name": "The Falcon and the Winter Soldier",
-		"vote_average": 7.65,
+		"vote_average": 7.7,
 		"title": "The Falcon and the Winter Soldier",
 		"slug": "the-falcon-and-the-winter-soldier",
 		"tags": [
@@ -2006,7 +1983,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/fwaq9nJkKl62Wur8PLIP2YzDnB2.jpg",
+		"backdrop_path": null,
 		"genre_ids": [],
 		"id": 225735,
 		"origin_country": [
@@ -2090,7 +2067,7 @@
 		"release_date": "2019-04-24",
 		"title": "Avengers: Endgame",
 		"video": false,
-		"vote_average": 8.249,
+		"vote_average": 8.2,
 		"slug": "avengers-endgame",
 		"tags": [
 			"movie",
@@ -2113,7 +2090,7 @@
 		"release_date": "2019-03-06",
 		"title": "Captain Marvel",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.815,
 		"slug": "captain-marvel",
 		"tags": [
 			"movie",
@@ -2186,7 +2163,7 @@
 		"release_date": "2018-09-28",
 		"title": "Venom",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.835,
 		"slug": "venom",
 		"tags": [
 			"movie",
@@ -2283,7 +2260,7 @@
 		"release_date": "2018-04-25",
 		"title": "Avengers: Infinity War",
 		"video": false,
-		"vote_average": 8.2,
+		"vote_average": 8.243,
 		"slug": "avengers-infinity-war",
 		"tags": [
 			"movie",
@@ -2506,7 +2483,7 @@
 		"release_date": "2017-07-05",
 		"title": "Spider-Man: Homecoming",
 		"video": false,
-		"vote_average": 7.336,
+		"vote_average": 7.3,
 		"slug": "spider-man-homecoming",
 		"tags": [
 			"movie",
@@ -2529,7 +2506,7 @@
 		"release_date": "2017-04-19",
 		"title": "Guardians of the Galaxy Vol. 2",
 		"video": false,
-		"vote_average": 7.619,
+		"vote_average": 7.6,
 		"slug": "guardians-of-the-galaxy-vol-2",
 		"tags": [
 			"movie",
@@ -2554,7 +2531,7 @@
 		"poster_path": "/4l6KD9HhtD6nCDEfg10Lp6C6zah.jpg",
 		"first_air_date": "2017-03-17",
 		"name": "Marvel's Iron Fist",
-		"vote_average": 6.53,
+		"vote_average": 6.5,
 		"title": "Marvel's Iron Fist",
 		"slug": "marvels-iron-fist",
 		"tags": [
@@ -2721,7 +2698,7 @@
 		"original_language": "en",
 		"original_title": "Doctor Strange",
 		"overview": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
-		"poster_path": "/7WfK17BXE6szXlm4WOxfswgbdsL.jpg",
+		"poster_path": "/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",
 		"release_date": "2016-10-25",
 		"title": "Doctor Strange",
 		"video": false,
@@ -2823,7 +2800,7 @@
 		"release_date": "2016-04-27",
 		"title": "Captain America: Civil War",
 		"video": false,
-		"vote_average": 7.444,
+		"vote_average": 7.4,
 		"slug": "captain-america-civil-war",
 		"tags": [
 			"movie",
@@ -2846,7 +2823,7 @@
 		"release_date": "2016-02-09",
 		"title": "Deadpool",
 		"video": false,
-		"vote_average": 7.6,
+		"vote_average": 7.623,
 		"slug": "deadpool",
 		"tags": [
 			"movie",
@@ -2940,7 +2917,7 @@
 		"release_date": "2015-07-14",
 		"title": "Ant-Man",
 		"video": false,
-		"vote_average": 7.076,
+		"vote_average": 7.1,
 		"slug": "ant-man",
 		"tags": [
 			"movie",
@@ -3146,7 +3123,7 @@
 		"release_date": "2014-07-30",
 		"title": "Guardians of the Galaxy",
 		"video": false,
-		"vote_average": 7.9,
+		"vote_average": 7.907,
 		"slug": "guardians-of-the-galaxy",
 		"tags": [
 			"movie",
@@ -3155,7 +3132,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/fctQU5MoXgJ5pNMljFzlEFXwfSu.jpg",
+		"backdrop_path": "/8Z0cv337TY8fA5LnKRQmlwDvTlE.jpg",
 		"genre_ids": [
 			28,
 			12,
@@ -3240,7 +3217,7 @@
 		"release_date": "2014-04-16",
 		"title": "The Amazing Spider-Man 2",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.513,
 		"slug": "the-amazing-spider-man-2",
 		"tags": [
 			"movie",
@@ -3378,7 +3355,7 @@
 		"release_date": "2013-10-30",
 		"title": "Thor: The Dark World",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.523,
 		"slug": "thor-the-dark-world",
 		"tags": [
 			"movie",
@@ -3567,7 +3544,7 @@
 		"release_date": "2013-04-18",
 		"title": "Iron Man 3",
 		"video": false,
-		"vote_average": 6.9,
+		"vote_average": 6.93,
 		"slug": "iron-man-3",
 		"tags": [
 			"movie",
@@ -3636,7 +3613,7 @@
 		"release_date": "2012-06-23",
 		"title": "The Amazing Spider-Man",
 		"video": false,
-		"vote_average": 6.7,
+		"vote_average": 6.707,
 		"slug": "the-amazing-spider-man",
 		"tags": [
 			"movie",
@@ -3683,7 +3660,7 @@
 		"release_date": "2012-04-25",
 		"title": "The Avengers",
 		"video": false,
-		"vote_average": 7.7,
+		"vote_average": 7.72,
 		"slug": "the-avengers",
 		"tags": [
 			"movie",
@@ -3925,7 +3902,7 @@
 		"release_date": "2010-04-28",
 		"title": "Iron Man 2",
 		"video": false,
-		"vote_average": 6.8,
+		"vote_average": 6.843,
 		"slug": "iron-man-2",
 		"tags": [
 			"movie",
@@ -4244,7 +4221,7 @@
 		"release_date": "2008-06-12",
 		"title": "The Incredible Hulk",
 		"video": false,
-		"vote_average": 6.2,
+		"vote_average": 6.212,
 		"slug": "the-incredible-hulk",
 		"tags": [
 			"movie",
@@ -4387,7 +4364,7 @@
 		"release_date": "2007-05-01",
 		"title": "Spider-Man 3",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.433,
 		"slug": "spider-man-3",
 		"tags": [
 			"movie",
@@ -4731,7 +4708,7 @@
 		"release_date": "2003-06-19",
 		"title": "Hulk",
 		"video": false,
-		"vote_average": 5.555,
+		"vote_average": 5.6,
 		"slug": "hulk",
 		"tags": [
 			"movie",
@@ -4754,7 +4731,7 @@
 		"release_date": "2003-04-27",
 		"title": "X2",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 7.034,
 		"slug": "x2",
 		"tags": [
 			"movie",
@@ -4778,7 +4755,7 @@
 		"release_date": "2003-02-14",
 		"title": "Daredevil",
 		"video": false,
-		"vote_average": 5.266,
+		"vote_average": 5.3,
 		"slug": "daredevil",
 		"tags": [
 			"movie",
@@ -4990,7 +4967,6 @@
 		"slug": "silver-surfer",
 		"tags": [
 			"tv",
-			"company-7505",
 			"company-420"
 		]
 	},
@@ -5063,7 +5039,7 @@
 		],
 		"release_date": "1996-02-20",
 		"video": false,
-		"vote_average": 4.1,
+		"vote_average": 4.114,
 		"slug": "generation-x",
 		"tags": [
 			"list-8204860",
@@ -5165,7 +5141,7 @@
 		],
 		"release_date": "1994-05-31",
 		"video": false,
-		"vote_average": 4.3,
+		"vote_average": 4.344,
 		"slug": "the-fantastic-four",
 		"tags": [
 			"list-8204862"
@@ -5289,7 +5265,7 @@
 		],
 		"release_date": "1986-08-01",
 		"video": false,
-		"vote_average": 5.397,
+		"vote_average": 5.4,
 		"slug": "howard-the-duck",
 		"tags": [
 			"list-8204859"
