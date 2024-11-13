@@ -31,7 +31,7 @@ mcuTimelineOrder: 95
     "poster_path": "/pmjJVrlKjF41cylKrq5GN4yciyX.jpg",
     "first_air_date": "2015-11-20",
     "name": "Marvel's Jessica Jones",
-    "vote_average": 7.506,
+    "vote_average": 7.5,
     "title": "Marvel's Jessica Jones",
     "slug": "marvels-jessica-jones",
     "tags": [

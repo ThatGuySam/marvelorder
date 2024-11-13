@@ -36,7 +36,7 @@ tags:
     "original_language": "en",
     "original_name": "Untitled Nova Series",
     "overview": "A series from Marvel Studios adapting the Marvel Comics superhero Nova.",
-    "poster_path": null,
+    "poster_path": "/gql4XGSae8RbeedaGR8aHMI2oqj.jpg",
     "first_air_date": "",
     "name": "Untitled Nova Series",
     "vote_average": 0,

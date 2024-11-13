@@ -40,7 +40,7 @@ tags:
     "original_language": "en",
     "original_name": "Untitled Vision Series",
     "overview": "After the events of \"WandaVision\", \"white\" Vision searches for a new purpose in life.",
-    "poster_path": null,
+    "poster_path": "/srqc6XvSA2Kjh7yN5lgL4EpeMKf.jpg",
     "first_air_date": "",
     "name": "Untitled Vision Series",
     "vote_average": 0,
