@@ -49,7 +49,7 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/37NyJyyHyNoT62EbIKpnYZwZNHz.jpg",
+    "backdrop_path": "/7cJUnAvP8ntF9KKYm4v8674n0et.jpg",
     "genre_ids": [
         99
     ],
@@ -57,11 +57,11 @@ tags:
     "original_language": "en",
     "original_title": "Marvel Studios Assembled: The Making of Deadpool & Wolverine",
     "overview": "Hugh Jackman, Ryan Reynolds, and director Shawn Levy sit down and spill the proverbial beans about how \"Deadpool & Wolverine\" was conceived, carried to term, and then birthed.",
-    "poster_path": "/mowELJQK5kcSJXzt98glv6y8Tz7.jpg",
+    "poster_path": "/3dQyDFxTY6o3v67ncYCExog6aPH.jpg",
     "release_date": "2024-11-12",
     "title": "Marvel Studios Assembled: The Making of Deadpool & Wolverine",
     "video": false,
-    "vote_average": 6.667,
+    "vote_average": 6.8,
     "slug": "marvel-studios-assembled-the-making-of-deadpool-and-wolverine",
     "tags": [
         "movie",

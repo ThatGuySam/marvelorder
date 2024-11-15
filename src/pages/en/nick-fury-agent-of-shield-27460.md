@@ -33,7 +33,7 @@ watchLinks:
     "release_date": "1998-05-26",
     "title": "Nick Fury: Agent of S.H.I.E.L.D.",
     "video": false,
-    "vote_average": 4.535,
+    "vote_average": 4.6,
     "slug": "nick-fury-agent-of-shield",
     "tags": [
         "movie",

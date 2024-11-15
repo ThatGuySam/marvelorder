@@ -43,7 +43,7 @@ tags:
     "release_date": "2024-10-17",
     "title": "LEGO Marvel Avengers: Mission Demolition",
     "video": false,
-    "vote_average": 7,
+    "vote_average": 6.925,
     "slug": "lego-marvel-avengers-mission-demolition",
     "tags": [
         "movie",
