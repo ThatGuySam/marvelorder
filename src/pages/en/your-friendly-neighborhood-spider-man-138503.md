@@ -28,7 +28,7 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": null,
+    "backdrop_path": "/cVXMA6YRW2Bm0LFb7LS7oVKysGf.jpg",
     "genre_ids": [
         16,
         10759
@@ -40,7 +40,7 @@ tags:
     "original_language": "en",
     "original_name": "Your Friendly Neighborhood Spider-Man",
     "overview": "Follow Peter Parker on his way to becoming Spider-Man, with a journey unlike any we've ever seen.",
-    "poster_path": "/o7dy7nkwTvRWH75wBHUYOsGJmOH.jpg",
+    "poster_path": "/jOpcDMc3w1TwPpdDsX7LexVKiLV.jpg",
     "first_air_date": "2025-01-29",
     "name": "Your Friendly Neighborhood Spider-Man",
     "vote_average": 0,

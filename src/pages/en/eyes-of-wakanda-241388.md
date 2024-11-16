@@ -39,7 +39,7 @@ tags:
     ],
     "original_language": "en",
     "original_name": "Eyes of Wakanda",
-    "overview": "Throughout Wakandan history, brave warriors have been tasked to travel the world retrieving dangerous vibranium artifacts. This is their story.",
+    "overview": "Follow the adventures of brave Wakandan warriors throughout history in this globe-trotting adventure where they must carry-out dangerous missions to retrieve Vibranium artifacts from the enemies of Wakanda. They are the Hatut Zaraze and this is their story.",
     "poster_path": "/b16lExo3HVcw2AWStyaFvAy5HFX.jpg",
     "first_air_date": "2025-08-06",
     "name": "Eyes of Wakanda",
