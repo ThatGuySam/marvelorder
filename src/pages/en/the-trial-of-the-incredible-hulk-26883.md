@@ -41,7 +41,7 @@ backdrop_path: /vrb9b26WDZto8vmUnDMgZZ1T9hS.jpg
     ],
     "release_date": "1989-05-07",
     "video": false,
-    "vote_average": 6.4,
+    "vote_average": 6.399,
     "slug": "the-trial-of-the-incredible-hulk",
     "tags": [
         "list-8204862"

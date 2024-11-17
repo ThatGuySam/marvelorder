@@ -14,7 +14,7 @@ Other titles
 ```json
 {
     "adult": false,
-    "backdrop_path": null,
+    "backdrop_path": "/vqPfhEIRMVnlxFDs5cpzO9DQHQl.jpg",
     "genre_ids": [
         35
     ],
