@@ -61,7 +61,7 @@ tags:
     "release_date": "2024-11-12",
     "title": "Marvel Studios Assembled: The Making of Deadpool & Wolverine",
     "video": false,
-    "vote_average": 6.4,
+    "vote_average": 6.6,
     "slug": "marvel-studios-assembled-the-making-of-deadpool-and-wolverine",
     "tags": [
         "movie",

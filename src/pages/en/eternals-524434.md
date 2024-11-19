@@ -32,7 +32,7 @@ mcuTimelineOrder: 469
     "release_date": "2021-11-03",
     "title": "Eternals",
     "video": false,
-    "vote_average": 6.9,
+    "vote_average": 6.853,
     "slug": "eternals",
     "tags": [
         "movie",
