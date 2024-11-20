@@ -47,7 +47,7 @@ tags:
     "release_date": "2024-01-31",
     "title": "Marvel Studios Assembled: The Making of Echo",
     "video": false,
-    "vote_average": 6.071,
+    "vote_average": 6.1,
     "slug": "marvel-studios-assembled-the-making-of-echo",
     "tags": [
         "movie",
