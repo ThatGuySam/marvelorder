@@ -13,7 +13,7 @@ type: tv
 ```json
 {
     "adult": false,
-    "backdrop_path": "/wPsYkWdm1yhtz7qYgyPUktKFzhU.jpg",
+    "backdrop_path": "/sVtS0GNhJclAccVF70jm08PQvkj.jpg",
     "genre_ids": [
         18,
         80

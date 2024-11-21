@@ -35,7 +35,7 @@ tags:
     "release_date": "2024-11-13",
     "title": "Marvel Studios Assembled: The Making of Agatha All Along",
     "video": false,
-    "vote_average": 0,
+    "vote_average": 9,
     "slug": "marvel-studios-assembled-the-making-of-agatha-all-along",
     "tags": [
         "movie",
