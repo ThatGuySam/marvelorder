@@ -36,7 +36,7 @@ watchLinks:
     "poster_path": "/dCNxOhXT7c4lqYuRpdM3m8s9XDp.jpg",
     "first_air_date": "2008-03-08",
     "name": "The Spectacular Spider-Man",
-    "vote_average": 8.58,
+    "vote_average": 8.6,
     "title": "The Spectacular Spider-Man",
     "slug": "the-spectacular-spider-man",
     "tags": [
