@@ -47,7 +47,7 @@ tags:
     "release_date": "2023-09-12",
     "title": "Marvel Studios Assembled: The Making of the Guardians of the Galaxy Vol. 3",
     "video": false,
-    "vote_average": 6.269,
+    "vote_average": 6.3,
     "slug": "marvel-studios-assembled-the-making-of-the-guardians-of-the-galaxy-vol-3",
     "tags": [
         "movie",
