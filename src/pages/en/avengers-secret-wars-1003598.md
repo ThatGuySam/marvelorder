@@ -22,7 +22,7 @@ tags:
     "original_language": "en",
     "original_title": "Avengers: Secret Wars",
     "overview": "An upcoming film in Phase 6 of the Marvel Cinematic Universe (MCU) and the finale of The Multiverse Saga. Plot TBA.",
-    "poster_path": "/21OCptc4lFOJa0sHUrUi6PYhXX.jpg",
+    "poster_path": "/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
     "release_date": "2027-05-05",
     "title": "Avengers: Secret Wars",
     "video": false,
