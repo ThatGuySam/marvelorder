@@ -45,7 +45,7 @@ tags:
     "release_date": "2007-08-14",
     "title": "Doctor Strange",
     "video": false,
-    "vote_average": 6.761,
+    "vote_average": 6.8,
     "slug": "doctor-strange",
     "tags": [
         "movie",
