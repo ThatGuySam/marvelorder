@@ -14,7 +14,7 @@ logo_on_black: /.netlify/functions/tmdb-image/ha1kackPwP1BLtyibzuv5hABiDk.webp
 ```json
 {
     "adult": false,
-    "backdrop_path": "/3Wh6RYyoqBHkjugcfVrypjH8qQv.jpg",
+    "backdrop_path": "/eLXKR2aXWP08rkx4rHJhB4nm29X.jpg",
     "genre_ids": [
         10765,
         10759,
@@ -27,7 +27,7 @@ logo_on_black: /.netlify/functions/tmdb-image/ha1kackPwP1BLtyibzuv5hABiDk.webp
     "original_language": "en",
     "original_name": "Ironheart",
     "overview": "After the events of Black Panther: Wakanda Forever, technology is pitted against magic when Riri Williams, a young, genius inventor determined to make her mark on the world, returns to her hometown of Chicago. Her unique take on building iron suits is brilliant, but in pursuit of her ambitions, she finds herself wrapped up with the mysterious yet charming Parker Robbins aka \"The Hood.\"",
-    "poster_path": "/ha1kackPwP1BLtyibzuv5hABiDk.jpg",
+    "poster_path": "/rSw6AcRtN24pgncErFOnVXutal0.jpg",
     "first_air_date": "2025-06-24",
     "name": "Ironheart",
     "vote_average": 0,
