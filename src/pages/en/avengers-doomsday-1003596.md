@@ -31,8 +31,7 @@ media_type: movie
     "adult": false,
     "backdrop_path": "/vrncuH8IDqQ5M47XPk19yxY8o1b.jpg",
     "genre_ids": [
-        878,
-        28
+        878
     ],
     "id": 1003596,
     "original_language": "en",
