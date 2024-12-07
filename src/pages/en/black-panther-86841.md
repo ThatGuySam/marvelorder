@@ -24,7 +24,7 @@ type: movie
     "release_date": "2010-01-18",
     "title": "Black Panther",
     "video": false,
-    "vote_average": 5.938,
+    "vote_average": 5.9,
     "slug": "black-panther",
     "tags": [
         "movie",
