@@ -18,7 +18,7 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/4N6zEMfZ57zNEQcM8gWeERFupMv.jpg",
+    "backdrop_path": "/jnzoh5qoxRLFRIQAxnl6D3RStPC.jpg",
     "genre_ids": [
         16,
         10759,
@@ -34,7 +34,7 @@ tags:
     "poster_path": "/rWg4Jk7NwVEz2BtU1aKKDoDJPeB.jpg",
     "first_air_date": "2021-08-11",
     "name": "What If...?",
-    "vote_average": 8.141,
+    "vote_average": 8.1,
     "title": "What If...?",
     "slug": "what-if",
     "tags": [

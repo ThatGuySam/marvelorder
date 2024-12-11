@@ -31,7 +31,7 @@ type: movie
     "release_date": "2013-04-23",
     "title": "Inhumans",
     "video": false,
-    "vote_average": 6.111,
+    "vote_average": 6.1,
     "slug": "inhumans",
     "tags": [
         "movie",

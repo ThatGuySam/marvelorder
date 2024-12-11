@@ -31,7 +31,7 @@ tags:
     "release_date": "2017-02-14",
     "title": "Team Thor: Part 2",
     "video": false,
-    "vote_average": 6.955,
+    "vote_average": 7,
     "slug": "team-thor-part-2",
     "tags": [
         "movie",
