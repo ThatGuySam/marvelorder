@@ -32,7 +32,7 @@ mcuTimelineOrder: 576
     "release_date": "2021-12-15",
     "title": "Spider-Man: No Way Home",
     "video": false,
-    "vote_average": 7.955,
+    "vote_average": 8,
     "slug": "spider-man-no-way-home",
     "tags": [
         "movie",

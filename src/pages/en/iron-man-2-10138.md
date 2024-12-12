@@ -34,7 +34,7 @@ mcuTimelineOrder: 31
     "release_date": "2010-04-28",
     "title": "Iron Man 2",
     "video": false,
-    "vote_average": 6.845,
+    "vote_average": 6.844,
     "slug": "iron-man-2",
     "tags": [
         "movie",
