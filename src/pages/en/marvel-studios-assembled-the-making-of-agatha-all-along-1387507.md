@@ -31,7 +31,7 @@ tags:
     "original_language": "en",
     "original_title": "Marvel Studios Assembled: The Making of Agatha All Along",
     "overview": "Join Kathryn Hahn, Aubrey Plaza, Joe Locke, and more as they invite viewers behind-the-scenes of Agatha All Along.",
-    "poster_path": null,
+    "poster_path": "/8gJ4SkWVzFDcUfYVJDTWl85HnNU.jpg",
     "release_date": "2024-11-13",
     "title": "Marvel Studios Assembled: The Making of Agatha All Along",
     "video": false,
