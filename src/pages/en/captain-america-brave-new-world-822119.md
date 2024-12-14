@@ -24,7 +24,7 @@ tags:
     "original_language": "en",
     "original_title": "Captain America: Brave New World",
     "overview": "After meeting with newly elected U.S. President Thaddeus Ross, Sam finds himself in the middle of an international incident. He must discover the reason behind a nefarious global plot before the true mastermind has the entire world seeing red.",
-    "poster_path": "/4YFyYcUPfrbpj6VpgWh7xoUnwLA.jpg",
+    "poster_path": "/jBQkI0pB6Sitcodac6HI6K4fqRo.jpg",
     "release_date": "2025-02-12",
     "title": "Captain America: Brave New World",
     "video": false,
