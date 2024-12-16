@@ -26,7 +26,7 @@ logo_on_black: /.netlify/functions/fanart/iron-man-extremis-5cce83dd0cc4c.webp
     "poster_path": "/w10ClxT6uqnyxJZiMAx2ty9GkWu.jpg",
     "first_air_date": "2010-11-30",
     "name": "Iron Man: Extremis",
-    "vote_average": 6.3,
+    "vote_average": 6.346,
     "title": "Iron Man: Extremis",
     "slug": "iron-man-extremis",
     "tags": [
