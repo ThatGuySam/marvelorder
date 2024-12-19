@@ -72,7 +72,9 @@ tags:
     "genre_ids": [],
     "first_air_date": "1974-10-21",
     "vote_average": 0,
-    "origin_country": [],
+    "origin_country": [
+        "US"
+    ],
     "title": "Spidey Super Stories",
     "slug": "spidey-super-stories",
     "tags": [
