@@ -52,7 +52,7 @@ tags:
     "poster_path": "/etO5jDS5WgR4Y1lTyXhQcilJ6u2.jpg",
     "first_air_date": "2021-08-06",
     "name": "Spidey and His Amazing Friends",
-    "vote_average": 7.309,
+    "vote_average": 7.3,
     "title": "Spidey and His Amazing Friends",
     "slug": "spidey-and-his-amazing-friends",
     "tags": [

@@ -17,7 +17,7 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/en971MEXui9diirXlogOrPKmsEn.jpg",
+    "backdrop_path": "/k2VX0gFu2BEJhvduQTq2ioYp8z7.jpg",
     "genre_ids": [
         28,
         12,
@@ -31,7 +31,7 @@ watchLinks:
     "release_date": "2016-02-09",
     "title": "Deadpool",
     "video": false,
-    "vote_average": 7.624,
+    "vote_average": 7.6,
     "slug": "deadpool",
     "tags": [
         "movie",

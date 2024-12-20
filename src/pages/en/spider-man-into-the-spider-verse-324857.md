@@ -16,7 +16,7 @@ backdrop_path: /x2IqsMlpbOhS8zIUJfyl1yO4gHF.jpg
 ```json
 {
     "adult": false,
-    "backdrop_path": "/qGQf2OHIkoh89K8XeKQzhxczf96.jpg",
+    "backdrop_path": "/hlCq6Qh9GVtuNcGZF4mQYluaZix.jpg",
     "genre_ids": [
         16,
         28,
@@ -31,7 +31,7 @@ backdrop_path: /x2IqsMlpbOhS8zIUJfyl1yO4gHF.jpg
     "release_date": "2018-12-06",
     "title": "Spider-Man: Into the Spider-Verse",
     "video": false,
-    "vote_average": 8.399,
+    "vote_average": 8.4,
     "slug": "spider-man-into-the-spider-verse",
     "tags": [
         "movie",
