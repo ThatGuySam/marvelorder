@@ -18,7 +18,7 @@ mcuTimelineOrder: 387
 ```json
 {
     "adult": false,
-    "backdrop_path": "/iYdgEUE2W2aJkgqfSjf1x3gFfuV.jpg",
+    "backdrop_path": "/1YnGeKt8R4uJ44NmhMFrpDzjtnD.jpg",
     "genre_ids": [
         28,
         12,
@@ -32,7 +32,7 @@ mcuTimelineOrder: 387
     "release_date": "2018-07-04",
     "title": "Ant-Man and the Wasp",
     "video": false,
-    "vote_average": 6.93,
+    "vote_average": 6.9,
     "slug": "ant-man-and-the-wasp",
     "tags": [
         "movie",

@@ -18,7 +18,7 @@ mcuTimelineOrder: 243
 ```json
 {
     "adult": false,
-    "backdrop_path": "/9GNdPoCSzWYeo2eYKFVLvzcG6Wg.jpg",
+    "backdrop_path": "/5W9YCPMDF5TCudct2guf6b8iRFz.jpg",
     "genre_ids": [
         18,
         10765,
@@ -34,7 +34,7 @@ mcuTimelineOrder: 243
     "poster_path": "/zKfGip55oJ9tdzhyd9ayGyFFhuo.jpg",
     "first_air_date": "2017-09-29",
     "name": "Marvel's Inhumans",
-    "vote_average": 5.914,
+    "vote_average": 5.9,
     "title": "Marvel's Inhumans",
     "slug": "marvels-inhumans",
     "tags": [

@@ -20,7 +20,7 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/55885wQeb8XISRccwnfVJ7DDJFM.jpg",
+    "backdrop_path": "/u7a6vE0VCrLRoFPwnkZtFZTnm1F.jpg",
     "genre_ids": [
         28,
         27,
@@ -34,7 +34,7 @@ watchLinks:
     "release_date": "2004-12-08",
     "title": "Blade: Trinity",
     "video": false,
-    "vote_average": 5.863,
+    "vote_average": 5.9,
     "slug": "blade-trinity",
     "tags": [
         "movie",

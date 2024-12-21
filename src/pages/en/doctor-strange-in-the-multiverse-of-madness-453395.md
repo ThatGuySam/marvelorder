@@ -16,7 +16,7 @@ mcuTimelineOrder: 595
 ```json
 {
     "adult": false,
-    "backdrop_path": "/gUNRlH66yNDH3NQblYMIwgZXJ2u.jpg",
+    "backdrop_path": "/iKUwhA4DUxMcNKu5lLSbDFwwilk.jpg",
     "genre_ids": [
         14,
         28,
@@ -26,11 +26,11 @@ mcuTimelineOrder: 595
     "original_language": "en",
     "original_title": "Doctor Strange in the Multiverse of Madness",
     "overview": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
-    "poster_path": "/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+    "poster_path": "/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
     "release_date": "2022-05-04",
     "title": "Doctor Strange in the Multiverse of Madness",
     "video": false,
-    "vote_average": 7.28,
+    "vote_average": 7.3,
     "slug": "doctor-strange-in-the-multiverse-of-madness",
     "tags": [
         "movie",

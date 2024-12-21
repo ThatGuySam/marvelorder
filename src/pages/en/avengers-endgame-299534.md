@@ -31,7 +31,7 @@ tags:
     "original_language": "en",
     "original_title": "Avengers: Endgame",
     "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
-    "poster_path": "/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+    "poster_path": "/bR8ISy1O9XQxqiy0fQFw2BX72RQ.jpg",
     "release_date": "2019-04-24",
     "title": "Avengers: Endgame",
     "video": false,

@@ -18,7 +18,7 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/q7wzH2vkcJnVrmoLMCFyo7U3yz2.jpg",
+    "backdrop_path": "/tO06QBqUdPsjqE1LKa6Awj97FSu.jpg",
     "genre_ids": [
         878,
         12,
@@ -28,7 +28,7 @@ watchLinks:
     "original_language": "en",
     "original_title": "Fantastic Four: Rise of the Silver Surfer",
     "overview": "The Fantastic Four return to the big screen as a new and all powerful enemy threatens the Earth. The seemingly unstoppable 'Silver Surfer', but all is not what it seems and there are old and new enemies that pose a greater threat than the intrepid superheroes realize.",
-    "poster_path": "/1rxTraSO45jbvTrCeSvJ6RmOu1b.jpg",
+    "poster_path": "/f3ldtPF7SESMcyAIyIJHBLlBBkr.jpg",
     "release_date": "2007-06-13",
     "title": "Fantastic Four: Rise of the Silver Surfer",
     "video": false,

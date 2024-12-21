@@ -12,7 +12,7 @@ type: tv
 ```json
 {
     "adult": false,
-    "backdrop_path": "/bltNf2ajBm3wkfiF5Lglw7DS0vk.jpg",
+    "backdrop_path": "/jQ0cQGugJABsFYvBhtWQQ8ftTGK.jpg",
     "genre_ids": [
         99
     ],
@@ -23,10 +23,10 @@ type: tv
     "original_language": "en",
     "original_name": "Marvel Studios Assembled",
     "overview": "Go behind the scenes of the shows and movies of the Marvel Cinematic Universe, following the filmmakers, cast and crew, and Marvel heroes every step of the way.",
-    "poster_path": "/v2BHRwtQVkt5fssLdo5MpFgHJPY.jpg",
+    "poster_path": "/50lfJlcUuR8Nit0YSudfK59EUM7.jpg",
     "first_air_date": "2021-03-12",
     "name": "Marvel Studios Assembled",
-    "vote_average": 7.195,
+    "vote_average": 7.2,
     "title": "Marvel Studios Assembled",
     "slug": "marvel-studios-assembled",
     "tags": [

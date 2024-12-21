@@ -16,7 +16,7 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/5ZSwZPKgcTJJwhxjbOHeoBTVaKh.jpg",
+    "backdrop_path": "/c6sk2bW0JCDXqi5crU9baPAIxDI.jpg",
     "genre_ids": [
         35,
         28,
@@ -26,7 +26,7 @@ watchLinks:
     "original_language": "en",
     "original_title": "Once Upon a Deadpool",
     "overview": "A kidnapped Fred Savage is forced to endure Deadpool's PG-13 rendition of Deadpool 2, as a Princess Bride-esque story that's full of magic, wonder, and zero Fs.",
-    "poster_path": "/5Ka49BWWyKMXr93YMbH5wLN7aAM.jpg",
+    "poster_path": "/w6Jk8BHohhoKBUcxGeSyDQGWGWc.jpg",
     "release_date": "2018-12-11",
     "title": "Once Upon a Deadpool",
     "video": false,

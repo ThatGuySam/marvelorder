@@ -16,7 +16,7 @@ mcuTimelineOrder: 72
 ```json
 {
     "adult": false,
-    "backdrop_path": "/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+    "backdrop_path": "/co0LAS5Ml4CSzzXD5IN1pgpr1ei.jpg",
     "genre_ids": [
         878,
         12,
@@ -30,7 +30,7 @@ mcuTimelineOrder: 72
     "release_date": "2017-04-19",
     "title": "Guardians of the Galaxy Vol. 2",
     "video": false,
-    "vote_average": 7.617,
+    "vote_average": 7.6,
     "slug": "guardians-of-the-galaxy-vol-2",
     "tags": [
         "movie",

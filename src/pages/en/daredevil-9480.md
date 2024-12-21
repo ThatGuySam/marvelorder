@@ -15,7 +15,7 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/4telFYUn73bXqLL5JRv6jolySj7.jpg",
+    "backdrop_path": "/e7jIX02GiSwsgkU5lMpeKjwq2Zc.jpg",
     "genre_ids": [
         14,
         28
@@ -28,7 +28,7 @@ watchLinks:
     "release_date": "2003-02-14",
     "title": "Daredevil",
     "video": false,
-    "vote_average": 5.268,
+    "vote_average": 5.3,
     "slug": "daredevil",
     "tags": [
         "movie",
