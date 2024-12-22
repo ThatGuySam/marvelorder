@@ -17,7 +17,7 @@ mcuTimelineOrder: 41
 ```json
 {
     "adult": false,
-    "backdrop_path": "/tKa1gmGKAUVYnflYcadipeL3d9h.jpg",
+    "backdrop_path": "/iVped1djsF0tvGkvnHbzsE3ZPTF.jpg",
     "genre_ids": [
         28,
         12,
@@ -31,7 +31,7 @@ mcuTimelineOrder: 41
     "release_date": "2013-04-18",
     "title": "Iron Man 3",
     "video": false,
-    "vote_average": 6.9,
+    "vote_average": 6.93,
     "slug": "iron-man-3",
     "tags": [
         "movie",

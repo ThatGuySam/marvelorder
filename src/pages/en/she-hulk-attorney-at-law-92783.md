@@ -25,10 +25,10 @@ mcuTimelineOrder: 614
     "original_language": "en",
     "original_name": "She-Hulk: Attorney at Law",
     "overview": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered hulk.",
-    "poster_path": "/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
+    "poster_path": "/mdmgR5hE8UpeCExo9c9oVWLqxby.jpg",
     "first_air_date": "2022-08-18",
     "name": "She-Hulk: Attorney at Law",
-    "vote_average": 6.223,
+    "vote_average": 6.2,
     "title": "She-Hulk: Attorney at Law",
     "slug": "she-hulk-attorney-at-law",
     "tags": [

@@ -18,7 +18,7 @@ mcuTimelineOrder: 33
 ```json
 {
     "adult": false,
-    "backdrop_path": "/xfBnQ4mgf1jYZsscJGJjr6ce0Ar.jpg",
+    "backdrop_path": "/jPu8yiadqgzwFPGKJmGo637ASVP.jpg",
     "genre_ids": [
         878,
         28,
@@ -32,7 +32,7 @@ mcuTimelineOrder: 33
     "release_date": "2008-06-12",
     "title": "The Incredible Hulk",
     "video": false,
-    "vote_average": 6.216,
+    "vote_average": 6.2,
     "slug": "the-incredible-hulk",
     "tags": [
         "movie",

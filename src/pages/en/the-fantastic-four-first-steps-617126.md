@@ -37,7 +37,7 @@ tags:
     "original_language": "en",
     "original_title": "The Fantastic Four: First Steps",
     "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
-    "poster_path": "/zOiVyH3hJ4e7rEUBLGuinhOonh1.jpg",
+    "poster_path": "/4AGuX3IMPzs3sc3dJrnpLZzGvUa.jpg",
     "release_date": "2025-07-23",
     "title": "The Fantastic Four: First Steps",
     "video": false,
