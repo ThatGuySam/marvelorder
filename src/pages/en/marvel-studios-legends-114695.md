@@ -14,7 +14,7 @@ type: tv
 ```json
 {
     "adult": false,
-    "backdrop_path": "/wAEWZm2pSopAbqE5dQWE0ET8aR5.jpg",
+    "backdrop_path": "/2jPv3B0ikeGjEYZKDX8vJGXJrvh.jpg",
     "genre_ids": [
         99,
         10759,
@@ -30,7 +30,7 @@ type: tv
     "poster_path": "/EpDuYIK81YtCUT3gH2JDpyj8Qk.jpg",
     "first_air_date": "2021-01-08",
     "name": "Marvel Studios Legends",
-    "vote_average": 7.39,
+    "vote_average": 7.4,
     "title": "Marvel Studios Legends",
     "slug": "marvel-studios-legends",
     "tags": [

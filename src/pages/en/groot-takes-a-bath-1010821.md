@@ -28,7 +28,7 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/4bsz75kSdeVQm9u5aD87ciRpYVW.jpg",
+    "backdrop_path": "/hlAPsSBPnwGVeBuhCd8llKYBsNT.jpg",
     "genre_ids": [
         16,
         10751,
@@ -39,7 +39,7 @@ tags:
     "original_language": "en",
     "original_title": "Groot Takes a Bath",
     "overview": "Everybody needs some alone time to relax and wash up, but things go quite differently when you’re a Flora Colossi toddler.",
-    "poster_path": "/sN7FJP06TsNNtK9Jr77dc25yI82.jpg",
+    "poster_path": "/iF7G4QsgcxgGXVgMn7Qv5DLH7DA.jpg",
     "release_date": "2022-08-10",
     "title": "Groot Takes a Bath",
     "video": false,
