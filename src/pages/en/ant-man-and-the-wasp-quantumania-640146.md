@@ -14,7 +14,7 @@ tags:
   - movie
   - company-420
   - has-kang
-mcuTimelineOrder: 642
+mcuTimelineOrder: 643
 ---
 ## TMDB Data
 ```json
@@ -34,7 +34,7 @@ mcuTimelineOrder: 642
     "release_date": "2023-02-15",
     "title": "Ant-Man and the Wasp: Quantumania",
     "video": false,
-    "vote_average": 6.319,
+    "vote_average": 6.318,
     "slug": "ant-man-and-the-wasp-quantumania",
     "tags": [
         "movie",

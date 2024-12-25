@@ -12,7 +12,7 @@ type: tv
 logo_on_black: /.netlify/functions/tmdb-image/lpBHu9ZXCcuzq1XGPZo02U3Ah9f.webp
 watchLinks:
   amazon: none
-mcuTimelineOrder: 598
+mcuTimelineOrder: 599
 ---
 ## TMDB Data
 ```json
@@ -34,7 +34,7 @@ mcuTimelineOrder: 598
     "poster_path": "/ct5pNE5dDHryHLDnxyZPYcqO1sz.jpg",
     "first_air_date": "2021-11-24",
     "name": "Hawkeye",
-    "vote_average": 7.9,
+    "vote_average": 7.866,
     "title": "Hawkeye",
     "slug": "hawkeye",
     "tags": [
