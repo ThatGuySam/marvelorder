@@ -18,7 +18,7 @@ logo_on_black: >-
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B009B0JQ8M?tag=marvelorder-20&linkCode=osi&th=1&psc=1
-mcuTimelineOrder: 558
+mcuTimelineOrder: 559
 ---
 ## TMDB Data
 ```json
@@ -38,7 +38,7 @@ mcuTimelineOrder: 558
     "release_date": "2012-06-23",
     "title": "The Amazing Spider-Man",
     "video": false,
-    "vote_average": 6.71,
+    "vote_average": 6.7,
     "slug": "the-amazing-spider-man",
     "tags": [
         "movie",

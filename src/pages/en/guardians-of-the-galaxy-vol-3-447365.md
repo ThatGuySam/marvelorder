@@ -13,7 +13,7 @@ genre_ids:
   - 28
   - 12
   - 878
-mcuTimelineOrder: 644
+mcuTimelineOrder: 645
 ---
 ## TMDB Data
 ```json
@@ -33,7 +33,7 @@ mcuTimelineOrder: 644
     "release_date": "2023-05-03",
     "title": "Guardians of the Galaxy Vol. 3",
     "video": false,
-    "vote_average": 7.962,
+    "vote_average": 8,
     "slug": "guardians-of-the-galaxy-vol-3",
     "tags": [
         "movie",
