@@ -15,7 +15,7 @@ logo_on_black: /.netlify/functions/fanart/the-amazing-spider-man-2-519c7fd6a53e3
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B00JPNZPCG?tag=marvelorder-20&linkCode=osi&th=1&psc=1
-mcuTimelineOrder: 560
+mcuTimelineOrder: 561
 ---
 ## TMDB Data
 ```json
@@ -35,7 +35,7 @@ mcuTimelineOrder: 560
     "release_date": "2014-04-16",
     "title": "The Amazing Spider-Man 2",
     "video": false,
-    "vote_average": 6.514,
+    "vote_average": 6.5,
     "slug": "the-amazing-spider-man-2",
     "tags": [
         "movie",

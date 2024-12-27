@@ -13,7 +13,7 @@ type: tv
 logo_on_black: /.netlify/functions/tmdb-image/zFLOpjoo5pViEa71ZyDliJqhskn.webp
 watchLinks:
   amazon: none
-mcuTimelineOrder: 606
+mcuTimelineOrder: 607
 ---
 ## TMDB Data
 ```json
@@ -35,7 +35,7 @@ mcuTimelineOrder: 606
     "poster_path": "/vKDUmKO6F9bSKKyHhg7YGbgcEeF.jpg",
     "first_air_date": "2022-03-30",
     "name": "Moon Knight",
-    "vote_average": 7.7,
+    "vote_average": 7.713,
     "title": "Moon Knight",
     "slug": "moon-knight",
     "tags": [
