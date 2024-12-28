@@ -12,7 +12,7 @@ logo_on_black: /.netlify/functions/tmdb-image/5RjyUm9HP2ZRwvqCqK9sDqlQHxa.webp
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B09NMFWBL2?tag=marvelorder-20&linkCode=osi&th=1&psc=1
-mcuTimelineOrder: 581
+mcuTimelineOrder: 582
 ---
 ## TMDB Data
 ```json
@@ -32,7 +32,7 @@ mcuTimelineOrder: 581
     "release_date": "2021-12-15",
     "title": "Spider-Man: No Way Home",
     "video": false,
-    "vote_average": 8,
+    "vote_average": 7.954,
     "slug": "spider-man-no-way-home",
     "tags": [
         "movie",

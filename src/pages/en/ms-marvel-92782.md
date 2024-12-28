@@ -13,7 +13,7 @@ logo_on_black: /.netlify/functions/tmdb-image/7UGKZ5c0HSwro6n7GChl8uyaIfy.webp
 watchLinks:
   amazon: none
 vote_average: 8
-mcuTimelineOrder: 630
+mcuTimelineOrder: 631
 ---
 ## TMDB Data
 ```json
@@ -35,7 +35,7 @@ mcuTimelineOrder: 630
     "poster_path": "/3HWWh92kZbD7odwJX7nKmXNZsYo.jpg",
     "first_air_date": "2022-06-08",
     "name": "Ms. Marvel",
-    "vote_average": 6.419,
+    "vote_average": 6.4,
     "title": "Ms. Marvel",
     "slug": "ms-marvel",
     "tags": [

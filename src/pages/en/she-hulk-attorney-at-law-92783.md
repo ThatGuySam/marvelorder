@@ -7,7 +7,7 @@ description: >-
 layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: /.netlify/functions/tmdb-image/9DjjTb8SEquq25sScE0SXRZiKZ1.webp
-mcuTimelineOrder: 619
+mcuTimelineOrder: 620
 ---
 ## TMDB Data
 ```json
@@ -28,7 +28,7 @@ mcuTimelineOrder: 619
     "poster_path": "/mdmgR5hE8UpeCExo9c9oVWLqxby.jpg",
     "first_air_date": "2022-08-18",
     "name": "She-Hulk: Attorney at Law",
-    "vote_average": 6.2,
+    "vote_average": 6.221,
     "title": "She-Hulk: Attorney at Law",
     "slug": "she-hulk-attorney-at-law",
     "tags": [

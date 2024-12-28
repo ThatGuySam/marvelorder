@@ -585,7 +585,7 @@
 		"release_date": "2024-07-24",
 		"title": "Deadpool & Wolverine",
 		"video": false,
-		"vote_average": 7.7,
+		"vote_average": 7.662,
 		"slug": "deadpool-and-wolverine",
 		"tags": [
 			"movie",
@@ -701,7 +701,7 @@
 		"poster_path": "/5X4sV85FZd7csSvV8ESOniNfLI1.jpg",
 		"first_air_date": "2024-01-09",
 		"name": "Echo",
-		"vote_average": 6.244,
+		"vote_average": 6.243,
 		"title": "Echo",
 		"slug": "echo",
 		"tags": [
@@ -746,7 +746,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 6.048,
+		"vote_average": 6,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -1152,7 +1152,7 @@
 		"poster_path": "/mdmgR5hE8UpeCExo9c9oVWLqxby.jpg",
 		"first_air_date": "2022-08-18",
 		"name": "She-Hulk: Attorney at Law",
-		"vote_average": 6.2,
+		"vote_average": 6.221,
 		"title": "She-Hulk: Attorney at Law",
 		"slug": "she-hulk-attorney-at-law",
 		"tags": [
@@ -1391,7 +1391,7 @@
 		"poster_path": "/3HWWh92kZbD7odwJX7nKmXNZsYo.jpg",
 		"first_air_date": "2022-06-08",
 		"name": "Ms. Marvel",
-		"vote_average": 6.419,
+		"vote_average": 6.4,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
 		"tags": [
@@ -1457,7 +1457,7 @@
 		"release_date": "2022-05-04",
 		"title": "Doctor Strange in the Multiverse of Madness",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.278,
 		"slug": "doctor-strange-in-the-multiverse-of-madness",
 		"tags": [
 			"movie",
@@ -1482,7 +1482,7 @@
 		"poster_path": "/vKDUmKO6F9bSKKyHhg7YGbgcEeF.jpg",
 		"first_air_date": "2022-03-30",
 		"name": "Moon Knight",
-		"vote_average": 7.713,
+		"vote_average": 7.7,
 		"title": "Moon Knight",
 		"slug": "moon-knight",
 		"tags": [
@@ -1513,7 +1513,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/jUhqvox1RCNMg4yWWW5AqIVX8Mj.jpg",
+		"backdrop_path": "/5kMbsfmakhYQQoICXs6ctjBxNcQ.jpg",
 		"genre_ids": [
 			99
 		],
@@ -1548,7 +1548,7 @@
 		"release_date": "2021-12-15",
 		"title": "Spider-Man: No Way Home",
 		"video": false,
-		"vote_average": 8,
+		"vote_average": 7.954,
 		"slug": "spider-man-no-way-home",
 		"tags": [
 			"movie",
@@ -1742,7 +1742,7 @@
 		"release_date": "2021-07-07",
 		"title": "Black Widow",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 7.226,
 		"slug": "black-widow",
 		"tags": [
 			"movie",
@@ -1818,7 +1818,7 @@
 		"poster_path": "/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
 		"first_air_date": "2021-03-19",
 		"name": "The Falcon and the Winter Soldier",
-		"vote_average": 7.645,
+		"vote_average": 7.6,
 		"title": "The Falcon and the Winter Soldier",
 		"slug": "the-falcon-and-the-winter-soldier",
 		"tags": [
@@ -2060,7 +2060,7 @@
 		"release_date": "2019-06-28",
 		"title": "Spider-Man: Far From Home",
 		"video": false,
-		"vote_average": 7.42,
+		"vote_average": 7.421,
 		"slug": "spider-man-far-from-home",
 		"tags": [
 			"movie",
@@ -2131,7 +2131,7 @@
 		"release_date": "2019-03-06",
 		"title": "Captain Marvel",
 		"video": false,
-		"vote_average": 6.812,
+		"vote_average": 6.813,
 		"slug": "captain-marvel",
 		"tags": [
 			"movie",
@@ -2227,7 +2227,7 @@
 		"release_date": "2018-07-04",
 		"title": "Ant-Man and the Wasp",
 		"video": false,
-		"vote_average": 6.9,
+		"vote_average": 6.929,
 		"slug": "ant-man-and-the-wasp",
 		"tags": [
 			"movie",
@@ -2276,7 +2276,7 @@
 		"release_date": "2018-05-10",
 		"title": "Deadpool 2",
 		"video": false,
-		"vote_average": 7.5,
+		"vote_average": 7.491,
 		"slug": "deadpool-2",
 		"tags": [
 			"movie",
@@ -2322,7 +2322,7 @@
 		"release_date": "2018-02-20",
 		"title": "Team Darryl",
 		"video": false,
-		"vote_average": 6.2,
+		"vote_average": 6.198,
 		"slug": "team-darryl",
 		"tags": [
 			"movie",
@@ -2345,7 +2345,7 @@
 		"release_date": "2018-02-13",
 		"title": "Black Panther",
 		"video": false,
-		"vote_average": 7.4,
+		"vote_average": 7.38,
 		"slug": "black-panther",
 		"tags": [
 			"movie",
@@ -2448,7 +2448,7 @@
 		"release_date": "2017-10-02",
 		"title": "Thor: Ragnarok",
 		"video": false,
-		"vote_average": 7.6,
+		"vote_average": 7.589,
 		"slug": "thor-ragnarok",
 		"tags": [
 			"movie",
@@ -2473,7 +2473,7 @@
 		"poster_path": "/zKfGip55oJ9tdzhyd9ayGyFFhuo.jpg",
 		"first_air_date": "2017-09-29",
 		"name": "Marvel's Inhumans",
-		"vote_average": 5.9,
+		"vote_average": 5.914,
 		"title": "Marvel's Inhumans",
 		"slug": "marvels-inhumans",
 		"tags": [
@@ -2597,7 +2597,7 @@
 		],
 		"release_date": "2017-03-03",
 		"video": false,
-		"vote_average": 7.148,
+		"vote_average": 7.1,
 		"slug": "deadpool-no-good-deed",
 		"tags": [
 			"list-8204860"
@@ -2619,7 +2619,7 @@
 		"release_date": "2017-02-28",
 		"title": "Logan",
 		"video": false,
-		"vote_average": 7.821,
+		"vote_average": 7.8,
 		"slug": "logan",
 		"tags": [
 			"movie",
@@ -2644,7 +2644,7 @@
 		"release_date": "2017-02-14",
 		"title": "Team Thor: Part 2",
 		"video": false,
-		"vote_average": 6.947,
+		"vote_average": 6.946,
 		"slug": "team-thor-part-2",
 		"tags": [
 			"movie",
@@ -2743,7 +2743,7 @@
 		"release_date": "2016-10-25",
 		"title": "Doctor Strange",
 		"video": false,
-		"vote_average": 7.4,
+		"vote_average": 7.422,
 		"slug": "doctor-strange",
 		"tags": [
 			"movie",
@@ -2816,7 +2816,7 @@
 		"release_date": "2016-05-18",
 		"title": "X-Men: Apocalypse",
 		"video": false,
-		"vote_average": 6.516,
+		"vote_average": 6.5,
 		"slug": "x-men-apocalypse",
 		"tags": [
 			"movie",
@@ -3006,7 +3006,7 @@
 		"poster_path": "/mFg28Xslo8sMMRft7gxqVudCwkj.jpg",
 		"first_air_date": "2015-04-10",
 		"name": "Marvel's Daredevil",
-		"vote_average": 8.163,
+		"vote_average": 8.2,
 		"title": "Marvel's Daredevil",
 		"slug": "marvels-daredevil",
 		"tags": [
@@ -3258,7 +3258,7 @@
 		"release_date": "2014-04-16",
 		"title": "The Amazing Spider-Man 2",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.514,
 		"slug": "the-amazing-spider-man-2",
 		"tags": [
 			"movie",
@@ -3421,7 +3421,7 @@
 		"poster_path": "/cXiETfFK1BTLest5fhTLfDLRdL6.jpg",
 		"first_air_date": "2013-09-24",
 		"name": "Marvel's Agents of S.H.I.E.L.D.",
-		"vote_average": 7.489,
+		"vote_average": 7.5,
 		"title": "Marvel's Agents of S.H.I.E.L.D.",
 		"slug": "marvels-agents-of-shield",
 		"tags": [
@@ -3467,7 +3467,7 @@
 		"release_date": "2013-09-03",
 		"title": "Marvel One-Shot: Agent Carter",
 		"video": false,
-		"vote_average": 7.251,
+		"vote_average": 7.25,
 		"slug": "marvel-one-shot-agent-carter",
 		"tags": [
 			"movie",
@@ -3608,7 +3608,7 @@
 		"release_date": "2012-08-29",
 		"title": "Marvel One-Shot: Item 47",
 		"video": false,
-		"vote_average": 6.447,
+		"vote_average": 6.446,
 		"slug": "marvel-one-shot-item-47",
 		"tags": [
 			"movie",
@@ -3746,7 +3746,7 @@
 		"release_date": "2011-10-25",
 		"title": "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer",
 		"video": false,
-		"vote_average": 6.83,
+		"vote_average": 6.8,
 		"slug": "marvel-one-shot-a-funny-thing-happened-on-the-way-to-thors-hammer",
 		"tags": [
 			"movie",
@@ -4262,7 +4262,7 @@
 		"release_date": "2008-06-12",
 		"title": "The Incredible Hulk",
 		"video": false,
-		"vote_average": 6.2,
+		"vote_average": 6.215,
 		"slug": "the-incredible-hulk",
 		"tags": [
 			"movie",
@@ -4286,7 +4286,7 @@
 		"release_date": "2008-04-30",
 		"title": "Iron Man",
 		"video": false,
-		"vote_average": 7.647,
+		"vote_average": 7.648,
 		"slug": "iron-man",
 		"tags": [
 			"movie",
@@ -4558,7 +4558,7 @@
 		"release_date": "2006-05-24",
 		"title": "X-Men: The Last Stand",
 		"video": false,
-		"vote_average": 6.4,
+		"vote_average": 6.409,
 		"slug": "x-men-the-last-stand",
 		"tags": [
 			"movie",
@@ -4676,7 +4676,7 @@
 		"release_date": "2004-06-25",
 		"title": "Spider-Man 2",
 		"video": false,
-		"vote_average": 7.288,
+		"vote_average": 7.287,
 		"slug": "spider-man-2",
 		"tags": [
 			"movie",
@@ -4772,7 +4772,7 @@
 		"release_date": "2003-04-27",
 		"title": "X2",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 7.035,
 		"slug": "x2",
 		"tags": [
 			"movie",
@@ -4796,7 +4796,7 @@
 		"release_date": "2003-02-14",
 		"title": "Daredevil",
 		"video": false,
-		"vote_average": 5.268,
+		"vote_average": 5.3,
 		"slug": "daredevil",
 		"tags": [
 			"movie",
@@ -4818,7 +4818,7 @@
 		"release_date": "2002-05-01",
 		"title": "Spider-Man",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.303,
 		"slug": "spider-man",
 		"tags": [
 			"movie",
@@ -4900,7 +4900,7 @@
 		],
 		"release_date": "2000-07-13",
 		"video": false,
-		"vote_average": 7,
+		"vote_average": 7.005,
 		"slug": "x-men",
 		"tags": [
 			"list-8204860"
@@ -5233,7 +5233,7 @@
 		],
 		"release_date": "1990-02-18",
 		"video": false,
-		"vote_average": 5.582,
+		"vote_average": 5.6,
 		"slug": "the-death-of-the-incredible-hulk",
 		"tags": [
 			"list-8204862"
@@ -5380,30 +5380,6 @@
 		"video": false,
 		"vote_average": 3.8,
 		"slug": "captain-america-ii-death-too-soon",
-		"tags": [
-			"list-8204862"
-		]
-	},
-	{
-		"backdrop_path": "/eTGbkHzD8VijGgmXDjQze9eceUO.jpg",
-		"id": 65294,
-		"title": "The Incredible Hulk",
-		"original_title": "The Incredible Hulk",
-		"overview": "An accidental overdose of gamma radiation causes a mutation in scientist David Banner's DNA: now whenever he becomes angry, he metamorphoses into a seven-foot-tall, 330-pound, mindless muscular green creature.",
-		"poster_path": "/eMdysVpG2i3PzydIqkY4jt2YUZ8.jpg",
-		"media_type": "movie",
-		"adult": false,
-		"original_language": "en",
-		"genre_ids": [
-			28,
-			12,
-			878,
-			10770
-		],
-		"release_date": "1979-06-13",
-		"video": false,
-		"vote_average": 6.38,
-		"slug": "the-incredible-hulk",
 		"tags": [
 			"list-8204862"
 		]
@@ -5600,6 +5576,30 @@
 			"US"
 		],
 		"title": "The Incredible Hulk",
+		"slug": "the-incredible-hulk",
+		"tags": [
+			"list-8204862"
+		]
+	},
+	{
+		"backdrop_path": "/eTGbkHzD8VijGgmXDjQze9eceUO.jpg",
+		"id": 65294,
+		"title": "The Incredible Hulk",
+		"original_title": "The Incredible Hulk",
+		"overview": "An accidental overdose of gamma radiation causes a mutation in scientist David Banner's DNA: now whenever he becomes angry, he metamorphoses into a seven-foot-tall, 330-pound, mindless muscular green creature.",
+		"poster_path": "/eMdysVpG2i3PzydIqkY4jt2YUZ8.jpg",
+		"media_type": "movie",
+		"adult": false,
+		"original_language": "en",
+		"genre_ids": [
+			28,
+			12,
+			878,
+			10770
+		],
+		"release_date": "1977-11-04",
+		"video": false,
+		"vote_average": 6.4,
 		"slug": "the-incredible-hulk",
 		"tags": [
 			"list-8204862"

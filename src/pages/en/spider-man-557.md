@@ -12,7 +12,7 @@ logo_on_black: >-
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B000O19EWK?tag=marvelorder-20&linkCode=osi&th=1&psc=1
-mcuTimelineOrder: 557
+mcuTimelineOrder: 558
 ---
 ## TMDB Data
 ```json
@@ -31,7 +31,7 @@ mcuTimelineOrder: 557
     "release_date": "2002-05-01",
     "title": "Spider-Man",
     "video": false,
-    "vote_average": 7.3,
+    "vote_average": 7.303,
     "slug": "spider-man",
     "tags": [
         "movie",
