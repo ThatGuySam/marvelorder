@@ -28,7 +28,7 @@ mcuTimelineOrder: 620
     "poster_path": "/mdmgR5hE8UpeCExo9c9oVWLqxby.jpg",
     "first_air_date": "2022-08-18",
     "name": "She-Hulk: Attorney at Law",
-    "vote_average": 6.221,
+    "vote_average": 6.218,
     "title": "She-Hulk: Attorney at Law",
     "slug": "she-hulk-attorney-at-law",
     "tags": [

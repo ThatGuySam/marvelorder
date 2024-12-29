@@ -43,11 +43,11 @@ tags:
     "original_language": "en",
     "original_title": "Next Avengers: Heroes of Tomorrow",
     "overview": "The children of the Avengers hone their powers and go head to head with the very enemy responsible for their parents' demise.",
-    "poster_path": "/fpG1NDbcLV2a7c8X7LC4FPISBT7.jpg",
+    "poster_path": "/4NL4vwuh6AlwgGoNNlhVp52DRfi.jpg",
     "release_date": "2008-09-02",
     "title": "Next Avengers: Heroes of Tomorrow",
     "video": false,
-    "vote_average": 6.917,
+    "vote_average": 6.9,
     "slug": "next-avengers-heroes-of-tomorrow",
     "tags": [
         "movie",

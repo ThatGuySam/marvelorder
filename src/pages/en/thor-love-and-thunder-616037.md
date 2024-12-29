@@ -41,7 +41,7 @@ mcuTimelineOrder: 641
     "release_date": "2022-07-06",
     "title": "Thor: Love and Thunder",
     "video": false,
-    "vote_average": 6.438,
+    "vote_average": 6.4,
     "slug": "thor-love-and-thunder",
     "tags": [
         "movie",
