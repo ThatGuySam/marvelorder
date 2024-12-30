@@ -29,7 +29,7 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": null,
+    "backdrop_path": "/e4FeC0c4bEw4jg4vGh8sAcvgG4J.jpg",
     "genre_ids": [
         10765
     ],

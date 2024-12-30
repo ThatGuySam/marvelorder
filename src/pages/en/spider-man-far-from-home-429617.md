@@ -12,7 +12,7 @@ logo_on_black: /.netlify/functions/tmdb-image/olS3u1bIU0tnnJH54wOibD0wSNA.webp
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B07TP6D1DP?tag=marvelorder-20&linkCode=osi&th=1&psc=1
-mcuTimelineOrder: 566
+mcuTimelineOrder: 568
 ---
 ## TMDB Data
 ```json
@@ -32,7 +32,7 @@ mcuTimelineOrder: 566
     "release_date": "2019-06-28",
     "title": "Spider-Man: Far From Home",
     "video": false,
-    "vote_average": 7.42,
+    "vote_average": 7.4,
     "slug": "spider-man-far-from-home",
     "tags": [
         "movie",

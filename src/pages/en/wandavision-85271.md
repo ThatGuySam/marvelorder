@@ -10,7 +10,7 @@ logo_on_black: >-
   /.netlify/functions/tmdb-image/pqzQvGVOGTvLjdAsv6BskKdq6kM.webp?crop.top=0.2&crop.bottom=0.4
 watchLinks:
   amazon: none
-mcuTimelineOrder: 529
+mcuTimelineOrder: 531
 ---
 ## TMDB Data
 ```json
@@ -32,7 +32,7 @@ mcuTimelineOrder: 529
     "poster_path": "/b9UKt5qX8zn2twmGUeVTse8Y9Ug.jpg",
     "first_air_date": "2021-01-15",
     "name": "WandaVision",
-    "vote_average": 8.225,
+    "vote_average": 8.2,
     "title": "WandaVision",
     "slug": "wandavision",
     "tags": [
