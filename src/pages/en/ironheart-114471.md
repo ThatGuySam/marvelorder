@@ -17,7 +17,6 @@ logo_on_black: /.netlify/functions/tmdb-image/ha1kackPwP1BLtyibzuv5hABiDk.webp
     "backdrop_path": "/3Wh6RYyoqBHkjugcfVrypjH8qQv.jpg",
     "genre_ids": [
         10765,
-        10759,
         80
     ],
     "id": 114471,
