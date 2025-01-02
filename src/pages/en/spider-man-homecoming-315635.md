@@ -33,7 +33,7 @@ mcuTimelineOrder: 254
     "release_date": "2017-07-05",
     "title": "Spider-Man: Homecoming",
     "video": false,
-    "vote_average": 7.333,
+    "vote_average": 7.3,
     "slug": "spider-man-homecoming",
     "tags": [
         "movie",

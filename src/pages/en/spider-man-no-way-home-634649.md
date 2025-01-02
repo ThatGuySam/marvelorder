@@ -28,11 +28,11 @@ mcuTimelineOrder: 584
     "original_language": "en",
     "original_title": "Spider-Man: No Way Home",
     "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
-    "poster_path": "/uJYYizSuA9Y3DCs0qS4qWvHfZg4.jpg",
+    "poster_path": "/x8AOx0zIfpNKZ1eVW4fhmUiZNqU.jpg",
     "release_date": "2021-12-15",
     "title": "Spider-Man: No Way Home",
     "video": false,
-    "vote_average": 7.953,
+    "vote_average": 7.954,
     "slug": "spider-man-no-way-home",
     "tags": [
         "movie",

@@ -15,7 +15,7 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/e6RHrRaG8t5o2REYMfYkvhoamw2.jpg",
+    "backdrop_path": "/6bE5dA1YiTCPEWrm8fwpt5JIqDh.jpg",
     "genre_ids": [
         28,
         35,
@@ -29,7 +29,7 @@ watchLinks:
     "release_date": "2014-02-04",
     "title": "Marvel One-Shot: All Hail the King",
     "video": false,
-    "vote_average": 6.762,
+    "vote_average": 6.8,
     "slug": "marvel-one-shot-all-hail-the-king",
     "tags": [
         "movie",

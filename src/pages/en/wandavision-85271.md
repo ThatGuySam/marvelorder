@@ -29,10 +29,10 @@ mcuTimelineOrder: 531
     "original_language": "en",
     "original_name": "WandaVision",
     "overview": "Wanda Maximoff and Vision—two super-powered beings living idealized suburban lives—begin to suspect that everything is not as it seems.",
-    "poster_path": "/b9UKt5qX8zn2twmGUeVTse8Y9Ug.jpg",
+    "poster_path": "/sgCHdBJ1w0vJNUrW1Sq90KEXv9j.jpg",
     "first_air_date": "2021-01-15",
     "name": "WandaVision",
-    "vote_average": 8.225,
+    "vote_average": 8.2,
     "title": "WandaVision",
     "slug": "wandavision",
     "tags": [
