@@ -19,7 +19,7 @@ watchLinks:
     "title": "The Return of the Incredible Hulk",
     "original_title": "The Return of the Incredible Hulk",
     "overview": "On the run and presumed dead by the authorities, David Banner, using the name 'Benton', continues in his efforts to find a cure. He accidentally finds himself in the middle of a plot to kill a young, crippled girl so her unscrupulous relatives can inherit the family fortune.",
-    "poster_path": "/nVPk7Fnjgo872PH6U6LaH1QP7qM.jpg",
+    "poster_path": "/8p1v6XyUUBES5kCWxNyAdEGkcfq.jpg",
     "media_type": "movie",
     "adult": false,
     "original_language": "en",
