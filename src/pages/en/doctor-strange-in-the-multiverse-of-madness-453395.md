@@ -30,7 +30,7 @@ mcuTimelineOrder: 603
     "release_date": "2022-05-04",
     "title": "Doctor Strange in the Multiverse of Madness",
     "video": false,
-    "vote_average": 7.276,
+    "vote_average": 7.3,
     "slug": "doctor-strange-in-the-multiverse-of-madness",
     "tags": [
         "movie",
