@@ -33,7 +33,7 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/phHZMvFlj5A03gzp7bhmQl8BInz.jpg",
+    "backdrop_path": "/h1YkKxMB1DyOgmIxTGBEQwvTogx.jpg",
     "genre_ids": [
         99
     ],

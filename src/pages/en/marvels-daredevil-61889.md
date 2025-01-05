@@ -17,7 +17,7 @@ mcuTimelineOrder: 82
 ```json
 {
     "adult": false,
-    "backdrop_path": "/2PrYnQR8YPei5vCVRwJXnwMqMyR.jpg",
+    "backdrop_path": "/qsnXwGS7KBbX4JLqHvICngtR8qg.jpg",
     "genre_ids": [
         80,
         18,
@@ -33,7 +33,7 @@ mcuTimelineOrder: 82
     "poster_path": "/mFg28Xslo8sMMRft7gxqVudCwkj.jpg",
     "first_air_date": "2015-04-10",
     "name": "Marvel's Daredevil",
-    "vote_average": 8.163,
+    "vote_average": 8.2,
     "title": "Marvel's Daredevil",
     "slug": "marvels-daredevil",
     "tags": [

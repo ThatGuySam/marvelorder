@@ -31,7 +31,7 @@ tags:
     "original_language": "en",
     "original_title": "Black Panther 3",
     "overview": "Rumored third installment in Marvel Studios’ Black Panther franchise.",
-    "poster_path": null,
+    "poster_path": "/m2zoYLgsetd1hNKYvpX2nvgvhOz.jpg",
     "release_date": "",
     "title": "Black Panther 3",
     "video": false,
