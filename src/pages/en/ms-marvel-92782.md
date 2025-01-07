@@ -35,7 +35,7 @@ mcuTimelineOrder: 633
     "poster_path": "/3HWWh92kZbD7odwJX7nKmXNZsYo.jpg",
     "first_air_date": "2022-06-08",
     "name": "Ms. Marvel",
-    "vote_average": 6.413,
+    "vote_average": 6.409,
     "title": "Ms. Marvel",
     "slug": "ms-marvel",
     "tags": [

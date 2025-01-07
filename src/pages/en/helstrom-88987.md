@@ -33,7 +33,7 @@ mcuTimelineOrder: 550
     "poster_path": "/5QmcKsepYpO9XYsWNLwsiULoaAu.jpg",
     "first_air_date": "2020-10-16",
     "name": "Helstrom",
-    "vote_average": 6.678,
+    "vote_average": 6.7,
     "title": "Helstrom",
     "slug": "helstrom",
     "tags": [
