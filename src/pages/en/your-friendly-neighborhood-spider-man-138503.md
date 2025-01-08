@@ -31,7 +31,9 @@ tags:
     "backdrop_path": "/lb3Qc0Qbw9MmdA9gj3znMLgy3Of.jpg",
     "genre_ids": [
         16,
-        10759
+        10759,
+        35,
+        10765
     ],
     "id": 138503,
     "origin_country": [

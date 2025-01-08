@@ -14,7 +14,7 @@ watchLinks:
 ## TMDB Data
 ```json
 {
-    "backdrop_path": "/fFWdqlnBVNMLDneYUeQLFuPBq4Z.jpg",
+    "backdrop_path": "/lN09YohDmsqyljNzykQxV0quvK.jpg",
     "id": 888,
     "name": "Spider-Man",
     "original_name": "Spider-Man",
