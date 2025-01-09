@@ -31,7 +31,7 @@ mcuTimelineOrder: 560
     "release_date": "2002-05-01",
     "title": "Spider-Man",
     "video": false,
-    "vote_average": 7.302,
+    "vote_average": 7.303,
     "slug": "spider-man",
     "tags": [
         "movie",
