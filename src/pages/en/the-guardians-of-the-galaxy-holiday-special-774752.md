@@ -31,11 +31,11 @@ mcuTimelineOrder: 645
     "original_language": "en",
     "original_title": "The Guardians of the Galaxy Holiday Special",
     "overview": "On a mission to make Christmas unforgettable for Quill, the Guardians head to Earth in search of the perfect present.",
-    "poster_path": "/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg",
+    "poster_path": "/dd5yGBLbqB507gHJSosNY0IYHRQ.jpg",
     "release_date": "2022-11-24",
     "title": "The Guardians of the Galaxy Holiday Special",
     "video": false,
-    "vote_average": 7.131,
+    "vote_average": 7.13,
     "slug": "the-guardians-of-the-galaxy-holiday-special",
     "tags": [
         "movie",

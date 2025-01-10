@@ -39,11 +39,11 @@ tags:
     "original_language": "en",
     "original_title": "The Little Guy",
     "overview": "Groot discovers a miniature civilization that believes the seemingly enormous tree toddler is the hero they’ve been waiting for.",
-    "poster_path": "/aSGIRTdCKvsPBbvczTDE0HqNLVZ.jpg",
+    "poster_path": "/lPzcizL8PdS2U1q0rfhlVn00b9l.jpg",
     "release_date": "2022-08-10",
     "title": "The Little Guy",
     "video": false,
-    "vote_average": 7.348,
+    "vote_average": 7.3,
     "slug": "the-little-guy",
     "tags": [
         "movie",
