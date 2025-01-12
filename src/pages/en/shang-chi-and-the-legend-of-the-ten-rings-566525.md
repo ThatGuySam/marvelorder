@@ -16,7 +16,7 @@ mcuTimelineOrder: 540
 ```json
 {
     "adult": false,
-    "backdrop_path": "/rAksPS6LjBONzY84szQBz5gGej6.jpg",
+    "backdrop_path": "/zxWAv1A34kdYslBi4ekMDtgIGUt.jpg",
     "genre_ids": [
         28,
         12,
@@ -30,7 +30,7 @@ mcuTimelineOrder: 540
     "release_date": "2021-09-01",
     "title": "Shang-Chi and the Legend of the Ten Rings",
     "video": false,
-    "vote_average": 7.536,
+    "vote_average": 7.5,
     "slug": "shang-chi-and-the-legend-of-the-ten-rings",
     "tags": [
         "movie",
