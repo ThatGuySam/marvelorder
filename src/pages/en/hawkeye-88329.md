@@ -34,7 +34,7 @@ mcuTimelineOrder: 604
     "poster_path": "/ct5pNE5dDHryHLDnxyZPYcqO1sz.jpg",
     "first_air_date": "2021-11-24",
     "name": "Hawkeye",
-    "vote_average": 7.9,
+    "vote_average": 7.856,
     "title": "Hawkeye",
     "slug": "hawkeye",
     "tags": [
