@@ -32,7 +32,7 @@ mcuTimelineOrder: 568
     "release_date": "2019-06-28",
     "title": "Spider-Man: Far From Home",
     "video": false,
-    "vote_average": 7.419,
+    "vote_average": 7.418,
     "slug": "spider-man-far-from-home",
     "tags": [
         "movie",

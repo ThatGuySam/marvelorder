@@ -33,7 +33,7 @@ mcuTimelineOrder: 562
     "release_date": "2007-05-01",
     "title": "Spider-Man 3",
     "video": false,
-    "vote_average": 6.434,
+    "vote_average": 6.433,
     "slug": "spider-man-3",
     "tags": [
         "movie",

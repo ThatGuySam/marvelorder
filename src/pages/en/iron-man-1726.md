@@ -31,7 +31,7 @@ release_date: '2008-05-02'
     "release_date": "2008-04-30",
     "title": "Iron Man",
     "video": false,
-    "vote_average": 7.6,
+    "vote_average": 7.647,
     "slug": "iron-man",
     "tags": [
         "movie",

@@ -32,7 +32,7 @@ mcuTimelineOrder: 387
     "release_date": "2018-07-04",
     "title": "Ant-Man and the Wasp",
     "video": false,
-    "vote_average": 6.926,
+    "vote_average": 6.9,
     "slug": "ant-man-and-the-wasp",
     "tags": [
         "movie",
