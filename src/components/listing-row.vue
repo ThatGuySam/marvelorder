@@ -62,7 +62,8 @@
     </div>
 </template>
 
-<script>
+<script lang="ts">
+import { defineComponent, type PropType } from 'vue'
 import scrollIntoView from 'scroll-into-view-if-needed'
 
 import ListingColumn from './listing-column.vue'
@@ -70,16 +71,28 @@ import CircleButton from './circle-button.vue'
 import {
     FilteredListings,
     isUpcoming,
-} from '~/src/helpers/listing-filters.ts'
+} from '~/src/helpers/listing-filters'
+import type { MappedListing } from '~/src/helpers/node/listing'
+import type { Listing } from '~/src/helpers/types'
 
-export default {
+type ListingLike = Listing | MappedListing
+type ActiveListingFilters = Array<[Function, boolean]>
+type ListingColumnRef = {
+    $el: HTMLElement
+}
+
+function hasLogo ( listing: MappedListing ): boolean {
+    return Boolean( listing.hasLogo )
+}
+
+export default defineComponent( {
     components: {
         ListingColumn,
         CircleButton,
     },
     props: {
         listings: {
-            type: Array,
+            type: Array as PropType<ListingLike[]>,
             required: true,
         },
         initialSort: {
@@ -89,36 +102,34 @@ export default {
     },
     data () {
         return {
-            activeListingFilters: [],
+            activeListingFilters: [] as ActiveListingFilters,
             showAllListings: false,
-            expandedListingId: null,
+            expandedListingId: null as string | null,
         }
     },
     computed: {
-        filteredListings () {
-            // console.log( 'this.initialSort', this.initialSort )
+        filteredListings (): FilteredListings {
             return new FilteredListings( {
                 listings: this.listings,
                 initialFilters: this.activeListingFilters,
                 listingsSort: this.initialSort,
             } )
         },
-        sortedListings () {
-            // Sort listings by date
+        sortedListings (): MappedListing[] {
             return this.filteredListings.list
         },
-        upcomingListings () {
+        upcomingListings (): MappedListing[] {
             return this.filteredListings.withFilters( [
                 [ isUpcoming, true ],
             ] )
         },
-        nextUpcomingListing () {
+        nextUpcomingListing (): MappedListing | undefined {
             return this.upcomingListings[ 0 ]
         },
-        lastListing () {
+        lastListing (): MappedListing | undefined {
             return this.sortedListings[ this.sortedListings.length - 1 ]
         },
-        focusedListing () {
+        focusedListing (): MappedListing | undefined {
             if ( !this.nextUpcomingListing ) {
                 return this.lastListing
             }
@@ -132,7 +143,7 @@ export default {
             this.showAllListings = true
         }, 1000 )
 
-        this.scrollToUpcomingListing()
+        void this.scrollToUpcomingListing()
 
         // Count listings with logos
         const hasLogoListings = this.sortedListings.filter( hasLogo )
@@ -158,12 +169,25 @@ export default {
         // console.log('marvelKnights', marvelKnights.list)
     },
     methods: {
-        async scrollToUpcomingListing () {
-            // console.log('nextUpcomingListing', this.nextUpcomingListing)
+        async scrollToUpcomingListing (): Promise<void> {
+            if ( !this.focusedListing ) {
+                return
+            }
 
             const { elementId } = this.focusedListing
-            const [ elementRef ] = this.$refs[ elementId ]
-            const elementNode = elementRef.$el
+            const listingRefs = this.$refs[ elementId ] as ListingColumnRef[] | undefined
+            const elementRef = listingRefs?.[ 0 ]
+            const elementNode = elementRef?.$el
+
+            if ( !elementNode ) {
+                return
+            }
+
+            const targetNode = elementNode.previousElementSibling?.previousElementSibling
+
+            if ( !targetNode ) {
+                return
+            }
 
             // Instant scroll to element before
             // so we can setup a small scroll animation
@@ -171,7 +195,7 @@ export default {
 
             // Animate scroll to element before
             //  so that our whole column is visible
-            await scrollIntoView( elementNode.previousElementSibling.previousElementSibling, {
+            await scrollIntoView( targetNode, {
                 scrollMode: 'always',
                 behavior: 'smooth',
                 block: 'start',
@@ -180,17 +204,13 @@ export default {
             } )
         },
 
-        isFocusedListing ( listing ) {
-            return listing.elementId === this.focusedListing.elementId
+        isFocusedListing ( listing: MappedListing ): boolean {
+            return listing.elementId === this.focusedListing?.elementId
         },
 
-        visibilityClass ( listing ) {
-            // const { elementId } = listing
-            // const [ elementRef ] = this.$refs[ elementId ]
-            // const elementNode = elementRef.$el
-
+        visibilityClass ( listing: MappedListing ): string {
             // Show our upcoming listing first
-            if ( listing.elementId === this.focusedListing.elementId ) {
+            if ( listing.elementId === this.focusedListing?.elementId ) {
                 return ''
             }
 
@@ -198,16 +218,18 @@ export default {
         },
 
         // Scrolls by window width time ratio
-        scroll ( ratio ) {
+        scroll ( ratio: number ): void {
             const windowWidth = window.innerWidth
             const scrollDistance = windowWidth * ratio
 
-            this.$refs.row.scrollBy( {
+            const row = this.$refs.row as HTMLElement | undefined
+
+            row?.scrollBy( {
                 // top: 100, // negative value acceptable
                 left: scrollDistance,
                 behavior: 'smooth',
             } )
         },
     },
-}
+} )
 </script>

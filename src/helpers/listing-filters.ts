@@ -1,6 +1,6 @@
 import type { Listing } from './types.ts'
 
-import { ensureMappedListings } from './node/listing.ts'
+import { ensureMappedListings, type MappedListing } from './node/listing.ts'
 
 import { getSortByName } from '~/src/helpers/sort.ts'
 
@@ -541,11 +541,11 @@ export class FilteredListings {
 
     listingsSort: Function
 
-    initialListings: Listing[]
+    initialListings: MappedListing[]
 
     activeFilters: Map<Function, { targetValue: Boolean }>
 
-    withFilters ( extraFilters ) {
+    withFilters ( extraFilters ): MappedListing[] {
         const filters = new Map( [
             ...this.activeFilters,
             ...extraFilters,
@@ -557,11 +557,11 @@ export class FilteredListings {
         return this.list.filter( matchesFilters( filters ) )
     }
 
-    get list () {
+    get list (): MappedListing[] {
         return this.initialListings.filter( matchesFilters( this.activeFilters ) )
     }
 
-    get first () {
+    get first (): MappedListing | undefined {
         return this.list[ 0 ]
     }
 }

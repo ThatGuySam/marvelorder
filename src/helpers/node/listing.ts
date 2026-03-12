@@ -30,13 +30,13 @@ export function makeSlug ( name: string ) {
     } )
 }
 
-export function makeMappedListings ( listings: Listing[] ) {
+export function makeMappedListings ( listings: Listing[] ): MappedListing[] {
     const mappedList = listings.map( listing => new MappedListing( listing ) )
 
     return mappedList
 }
 
-export function ensureMappedListing ( listing: Listing ) {
+export function ensureMappedListing ( listing: Listing ): MappedListing {
     if ( listing instanceof MappedListing ) {
         return listing
     }
@@ -44,9 +44,9 @@ export function ensureMappedListing ( listing: Listing ) {
     return new MappedListing( listing )
 }
 
-export function ensureMappedListings ( listings: Listing[] ) {
+export function ensureMappedListings ( listings: Listing[] ): MappedListing[] {
     if ( listings[ 0 ] instanceof MappedListing ) {
-        return listings
+        return listings as MappedListing[]
     }
 
     return makeMappedListings( listings )
