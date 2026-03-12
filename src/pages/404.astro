@@ -10,7 +10,7 @@ const url = Astro.url
 // Get the listing id from the url pathname
 const listingId: string = url.pathname
     .split('-')
-    .at(-1)
+    .slice( -1 )[ 0 ]
     // Replace any trailing slashes
     .replace('/', '')
 

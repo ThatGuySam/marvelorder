@@ -3,6 +3,9 @@
   command = "pnpm run netlify-build"
 #   functions = "dist"
 
+[build.environment]
+  NODE_VERSION = "24.4.0"
+
 # https://docs.netlify.com/configure-builds/file-based-configuration/#functions
 [functions]
   # Sets a custom directory for Netlify Functions
@@ -86,6 +89,5 @@
 #     from = "/en/"
 #     to = "/en/"
 #     status = 301
-
 
 

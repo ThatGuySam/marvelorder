@@ -17,7 +17,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
-          node-version: 16
+          node-version: 24.4.0
       - name: Check out repo
         uses: actions/checkout@v2
       - name: Setup ENV Variables
@@ -36,4 +36,4 @@ jobs:
         with:
           http_url: https://raw.githubusercontent.com/ThatGuySam/marvelorder/main/README.md
           downloaded_filename: flat.txt
-          postprocess: ./scripts/pull.mjs
+          postprocess: ./scripts/pull.ts
