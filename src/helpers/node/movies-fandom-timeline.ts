@@ -47,6 +47,10 @@ export async function getEntriesFromJson () {
 export async function saveMoviesFandomTimeline () {
     const timeline = await fetchTimeline()
 
+    if ( timeline.entries.length === 0 ) {
+        throw new Error( 'Movies Fandom timeline scrape returned no entries; refusing to overwrite the existing snapshot.' )
+    }
+
     await fs.writeFile( moviesFandomTimelinePath, JSON.stringify( timeline.entries, null, 2 ) )
 }
 
