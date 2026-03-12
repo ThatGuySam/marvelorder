@@ -5,7 +5,7 @@ import react from '@astrojs/react'
 import { netlifyFunctions } from '@astrojs/netlify'
 import vue from '@astrojs/vue'
 import tailwind from '@astrojs/tailwind'
-import sitemap from '@astrojs/sitemap'
+import sitemap from './src/integrations/compat-sitemap'
 
 // https://astro.build/config
 export default defineConfig( {

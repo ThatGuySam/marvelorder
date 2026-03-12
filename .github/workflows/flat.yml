@@ -14,10 +14,10 @@ jobs:
         uses: denoland/setup-deno@main
         with:
           deno-version: v1.34.x
-      - name: Setup Node
-        uses: actions/setup-node@v3
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
         with:
-          node-version: 24.4.0
+          bun-version: 1.2.15
       - name: Check out repo
         uses: actions/checkout@v2
       - name: Setup ENV Variables
@@ -25,12 +25,10 @@ jobs:
         run: |
           echo ${{ secrets.ACTIONS_ENV }} | base64 -d > ./.env
           cat ./.env
-      - name: PNPM Install
-        uses: pnpm/action-setup@v2
-        with:
-          run_install: true
+      - name: Bun Install
+        run: bun install --frozen-lockfile
       - name: Pull MCU Timeline Sheet
-        run: npm run pull-mcu-timeline-sheet
+        run: bun run pull-mcu-timeline-sheet
       - name: Fetch data
         uses: githubocto/flat@v3
         with:

@@ -1,6 +1,6 @@
 [build]
   publish = "dist/"
-  command = "pnpm run netlify-build"
+  command = "bun run netlify-build"
 #   functions = "dist"
 
 [build.environment]
@@ -89,5 +89,4 @@
 #     from = "/en/"
 #     to = "/en/"
 #     status = 301
-
 
