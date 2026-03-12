@@ -1,0 +1,58 @@
+{
+    "$schema": "https://biomejs.dev/schemas/2.4.6/schema.json",
+    // Biome can cover the old indentation, quote, semicolon, and brace rules.
+    // It cannot fully match the old ESLint-only spacing stack:
+    // - computed-property-spacing
+    // - space-before-function-paren
+    // - import/extensions
+    // - import/no-anonymous-default-export
+    // - jsonc/indent
+    // - vue/component-tags-order
+    // Those are intentionally left out instead of forcing incompatible formatting.
+    "vcs": {
+        "enabled": true,
+        "clientKind": "git",
+        "useIgnoreFile": true
+    },
+    "files": {
+        "ignoreUnknown": true,
+        "includes": [
+            "**",
+            "!**/*.css",
+            "!src/json",
+            "!tina",
+            "!public/admin",
+            "!src/pages/admin",
+            "!.vscode"
+        ]
+    },
+    "formatter": {
+        "enabled": true,
+        "indentStyle": "space",
+        "indentWidth": 4
+    },
+    "linter": {
+        "enabled": true,
+        "rules": {
+            "recommended": false,
+            "style": {
+                "useBlockStatements": "error"
+            }
+        }
+    },
+    "javascript": {
+        "formatter": {
+            "quoteStyle": "single",
+            "semicolons": "asNeeded",
+            "bracketSpacing": true
+        }
+    },
+    "assist": {
+        "enabled": true,
+        "actions": {
+            "source": {
+                "organizeImports": "on"
+            }
+        }
+    }
+}

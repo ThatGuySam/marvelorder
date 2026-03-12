@@ -143,7 +143,7 @@ export async function handler ( event ) {
         }
     }
 
-    // console.log('imageTypes', imageTypes) // eslint-disable-line no-console
+    // console.log('imageTypes', imageTypes)
 
     let workingBuffer = await sourceImage.buffer()
 

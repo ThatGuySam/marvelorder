@@ -20,4 +20,3 @@ bun-debug.log*
 .DS_Store
 /.netlify
 /flat.txt
-/.eslintcache

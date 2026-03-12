@@ -38,34 +38,40 @@ export default function compatSitemap ( options?: Parameters<typeof validateOpti
                     const finalSiteUrl = new URL( config.base, config.site )
 
                     let pageUrls = pages.map( ( page: { pathname: string } ) => {
-                        if ( page.pathname !== '' && !finalSiteUrl.pathname.endsWith( '/' ) )
+                        if ( page.pathname !== '' && !finalSiteUrl.pathname.endsWith( '/' ) ) {
                             finalSiteUrl.pathname += '/'
+                        }
 
                         const path = finalSiteUrl.pathname + page.pathname
                         return new URL( path, finalSiteUrl ).href
                     } )
 
                     const routeUrls = routes.reduce( ( urls: string[], route: any ) => {
-                        if ( !route.pathname )
+                        if ( !route.pathname ) {
                             return urls
+                        }
 
                         const path = finalSiteUrl.pathname + route.generate( route.pathname ).substring( 1 )
                         const newUrl = new URL( path, finalSiteUrl ).href
 
-                        if ( config.trailingSlash === 'never' )
+                        if ( config.trailingSlash === 'never' ) {
                             urls.push( newUrl )
-                        else if ( config.build.format === 'directory' && !newUrl.endsWith( '/' ) )
+                        }
+                        else if ( config.build.format === 'directory' && !newUrl.endsWith( '/' ) ) {
                             urls.push( `${newUrl}/` )
-                        else
+                        }
+                        else {
                             urls.push( newUrl )
+                        }
 
                         return urls
                     }, [] )
 
                     pageUrls = Array.from( new Set( [ ...pageUrls, ...routeUrls, ...( customPages ?? [] ) ] ) )
 
-                    if ( filter )
+                    if ( filter ) {
                         pageUrls = pageUrls.filter( filter )
+                    }
 
                     if ( pageUrls.length === 0 ) {
                         logger.warn( `No pages found!\n\`${OUTFILE}\` not created.` )
@@ -80,8 +86,9 @@ export default function compatSitemap ( options?: Parameters<typeof validateOpti
                         for ( const item of urlData ) {
                             const serialized = await Promise.resolve( serialize( item ) )
 
-                            if ( serialized )
+                            if ( serialized ) {
                                 serializedUrls.push( serialized )
+                            }
                         }
 
                         if ( serializedUrls.length === 0 ) {

@@ -149,13 +149,10 @@ export default defineComponent( {
         const hasLogoListings = this.sortedListings.filter( hasLogo )
         const noLogoListings = this.sortedListings.filter( listing => !hasLogo( listing ) )
 
-        // eslint-disable-next-line no-console
         console.log( `Listings with Logos: ${ hasLogoListings.length } / ${ this.sortedListings.length }` )
 
-        // eslint-disable-next-line no-console
         console.log( 'Listings without Logos:' )
         for ( const listing of noLogoListings ) {
-            // eslint-disable-next-line no-console
             console.log( `${ listing.title } (${ listing.id })` )
         }
 
