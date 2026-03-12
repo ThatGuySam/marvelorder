@@ -73,6 +73,7 @@ export interface Listing {
         name: string
     }>
     mcuTimelineOrder?: number
+    homepageSeasonLabel?: string
 
     // "origin_country": [
     //     "US"

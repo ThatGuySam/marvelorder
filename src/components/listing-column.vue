@@ -48,6 +48,12 @@
                                     v-else
                                     class="w-full text-3xl test-white font-bold text-center whitespace-normal"
                                 >{{ title }}</h2>
+                                <div
+                                    v-if="seasonLabel"
+                                    class="mt-3 text-center text-xs font-bold uppercase tracking-wide whitespace-normal opacity-70"
+                                >
+                                    {{ seasonLabel }}
+                                </div>
                             </div>
                         </a>
                     </div>
@@ -195,6 +201,9 @@ export default defineComponent( {
         },
         logo (): string | undefined {
             return this.listing?.logo_on_black
+        },
+        seasonLabel (): string {
+            return this.listing?.homepageSeasonLabel || ''
         },
         articleWidth (): number {
             if ( this.expanded ) {
