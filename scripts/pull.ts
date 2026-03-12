@@ -26,19 +26,26 @@ import {
     getPartsFromMarkdown, 
     makeTMDbMarkdownSection
 } from '../src/helpers/markdown-page.ts'
-import { 
-    listingMergeConfig,
+import {
     makeListingEndpoint
 } from '../src/helpers/listing.ts'
 
 // https://github.com/RebeccaStevens/deepmerge-ts/blob/beae8b841561bd206150ef02fe10db94856c6e45/docs/deepmergeCustom.md
-const deepmergeListings = deepmergeCustom( listingMergeConfig )
+const deepmergeListings = deepmergeCustom( {
+    mergeArrays: ( values: unknown[][] ) => Array.from( new Set( values.flat() ) ),
+} as any )
 
-function makeSlug ( name ) {
+interface FetchListingsOptions {
+    endpoint: string
+    params?: Record<string, string | number>
+    listKey?: string
+    tags?: string[]
+}
+
+function makeSlug ( name: string ) {
     return slugify(name, {
         lower: true,
         remove: /[^a-zA-Z\d\s\-]/g,
-        strict: true
     })
 }
 
@@ -69,7 +76,7 @@ async function fetchListings ({
     params = {},
     listKey = 'results',
     tags = []
-} = {}) {
+}: FetchListingsOptions) {
     const fetchedListings = {}
 
     let total_pages = Infinity
@@ -96,10 +103,16 @@ async function fetchListings ({
             }
         }
 
-        const { data } = await axios.get( requestUrl, requestOptions )
+        const response = await axios.get( requestUrl, requestOptions )
             .catch( ( error ) => {
                 console.error( error )
             })
+
+        if ( !response ) {
+            throw new Error( `Unable to fetch listings from ${ requestUrl }` )
+        }
+
+        const { data } = response
 
         
         for ( const result of data[ listKey ] ) {
@@ -286,8 +299,6 @@ async function saveListingsAsMarkdown ( listings ) {
 
 ;(async () => {
     
-    let listings = []
-
     const companylistings = await fetchListingsFromCompanies( TMDB_COMPANIES )
 
     const listListings = await fetchListingsFromLists( TMDB_LISTS )
@@ -295,7 +306,7 @@ async function saveListingsAsMarkdown ( listings ) {
     // console.log('listListings', listListings[ 668 ] )
     // console.log('companylistings', companylistings.find( ( listing ) => listing.id === 668 ))
 
-    listings = deepmergeListings( companylistings, listListings )
+    const listings = deepmergeListings( companylistings, listListings ) as Record<string, unknown>
 
     // console.log('listings', listings[ 668 ])
 

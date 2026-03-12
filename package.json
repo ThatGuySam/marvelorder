@@ -21,7 +21,7 @@
         "build": "astro build",
         "build-test": "vitest run",
         "preview": "astro preview",
-        "pull": "deno run -q -A --unstable scripts/pull.mjs",
+        "pull": "deno run -q -A --unstable scripts/pull.ts",
         "add-amazon-links": "npx tsx scripts/add-amazon-links.ts",
         "pull-mcu-timeline-sheet": "tsx scripts/pull-mcu-timeline-sheet.ts",
         "write-filter-stories": "tsx scripts/write-filter-stories.ts",
