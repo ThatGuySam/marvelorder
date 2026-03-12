@@ -336,7 +336,7 @@ export function isMarvelKnightsAnimated ( listing ) {
 }
 
 export function isGrootEpisode ( listing ) {
-    const iAmGrootReleaseDates = [ '2022-08-10', '2022-07-18' ]
+    const iAmGrootReleaseDates = [ '2022-07-18', '2022-08-10', '2023-09-06' ]
 
     if ( !listing.release_date || !iAmGrootReleaseDates.includes( listing.release_date ) ) {
         return false

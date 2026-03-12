@@ -1,23 +1,15 @@
 ---
-import type { MarkdownInstance } from 'astro'
-// @ts-ignore
-import { getListingsFromFilePaths } from '~/src/helpers/node/listing-files'
 // @ts-ignore
 import { convertNullValuesForAstro } from '~/src/helpers/listing'
+// @ts-ignore
+import { getHomepageListings } from '~/src/helpers/node/homepage-listings'
 
 import Layout from '../layouts/HorizontalScroll.astro'
 import ListingRow from '../components/listing-row.vue'
 
 export const prerender = true
 
-type MarkdownPage = MarkdownInstance<Record<string, any>>
-
-const pages = Object.values( import.meta.glob<MarkdownPage>( '/src/pages/en/*.md', { eager: true } ) )
-
-
-const listings = await getListingsFromFilePaths( pages.map( page => page.file ) )
-
-
+const listings = await getHomepageListings()
 
 ---
 <Layout>
