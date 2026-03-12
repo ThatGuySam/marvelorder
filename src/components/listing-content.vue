@@ -91,30 +91,39 @@
     </div>
 </template>
 
-<script>
+<script lang="ts">
+import { defineComponent, type PropType } from 'vue'
 import { DateTime, Interval } from 'luxon'
 
 import ListingLogo from './listing-logo.vue'
 import ButtonLink from './button-link.vue'
-import { isValidHttpUrl } from '~/src/helpers/check.ts'
-import { makeFunctionUrlFromTmdb } from '~/src/helpers/url.ts'
-import { ensureMappedListing } from '~/src/helpers/node/listing.ts'
+import { isValidHttpUrl } from '~/src/helpers/check'
+import { ensureMappedListing, type MappedListing } from '~/src/helpers/node/listing'
 import {
     hasFanartLogo,
     isMcuSheetOrdered,
     isUpcoming,
-} from '~/src/helpers/listing-filters.ts'
+} from '~/src/helpers/listing-filters'
+import type { Listing } from '~/src/helpers/types'
 
 const now = DateTime.now()
 
-export default {
+type ListingLike = Listing | MappedListing
+
+interface ListingLink {
+    enabled: boolean
+    label: string
+    href: string
+}
+
+export default defineComponent( {
     components: {
         ListingLogo,
         ButtonLink,
     },
     props: {
         listing: {
-            type: Object,
+            type: Object as PropType<ListingLike>,
             required: true,
         },
         context: {
@@ -123,13 +132,10 @@ export default {
         },
     },
     computed: {
-        mappedListing () {
-            // console.log( 'this.listing', this.listing )
-
-            // Map the listing to the correct format
+        mappedListing (): MappedListing {
             return ensureMappedListing( this.listing )
         },
-        daysUntilRelease () {
+        daysUntilRelease (): number | null {
             if ( !isUpcoming( this.mappedListing ) ) {
                 return null
             }
@@ -138,7 +144,7 @@ export default {
 
             return Math.round( untilRelease.length( 'days' ) )
         },
-        links () {
+        links (): ListingLink[] {
             return [
                 {
                     enabled: this.context !== 'listing-page',
@@ -152,9 +158,6 @@ export default {
                 },
             ]
         },
-        backdropUrl () {
-            return makeFunctionUrlFromTmdb( this.mappedListing.backdrop_path )
-        },
     },
     methods: {
         isValidHttpUrl,
@@ -163,5 +166,5 @@ export default {
         hasFanartLogo,
         isMcuSheetOrdered,
     },
-}
+} )
 </script>

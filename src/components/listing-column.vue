@@ -130,7 +130,8 @@
     </article>
 </template>
 
-<script>
+<script lang="ts">
+import { defineComponent, type PropType } from 'vue'
 import scrollIntoView from 'scroll-into-view-if-needed'
 
 import ListingLogo from './listing-logo.vue'
@@ -138,9 +139,10 @@ import ListingContent from './listing-content.vue'
 import CircleButton from './circle-button.vue'
 import SeenButton from './seen-button.vue'
 import TmdbImage from './tmdb-image.vue'
-import { getLayoutModes } from '~/src/helpers/layout.ts'
+import { getLayoutModes, type LayoutModes } from '~/src/helpers/layout'
+import type { MappedListing } from '~/src/helpers/node/listing'
 
-export default {
+export default defineComponent( {
     components: {
         ListingLogo,
         ListingContent,
@@ -150,7 +152,7 @@ export default {
     },
     props: {
         listing: {
-            type: Object,
+            type: Object as PropType<MappedListing>,
             required: true,
         },
         index: {
@@ -179,22 +181,22 @@ export default {
         'contract',
     ],
     computed: {
-        title () {
+        title (): string {
             return this.listing.title
         },
-        modes () {
+        modes (): LayoutModes {
             return getLayoutModes( this.index )
         },
-        outerDirection () {
+        outerDirection (): 'flex-col' | 'flex-col-reverse' {
             return this.modes.outer === 'start' ? 'flex-col' : 'flex-col-reverse'
         },
-        innerHeight () {
+        innerHeight (): 'h-1/2' | 'h-1/5' {
             return this.modes.inner === 'start' ? 'h-1/2' : 'h-1/5'
         },
-        logo () {
+        logo (): string | undefined {
             return this.listing?.logo_on_black
         },
-        articleWidth () {
+        articleWidth (): number {
             if ( this.expanded ) {
                 return Math.min( window.innerWidth, 540 )
             }
@@ -203,9 +205,7 @@ export default {
         },
     },
     methods: {
-        expand () {
-            // console.log('expanding')
-
+        expand (): void {
             this.$emit( 'expand', this.listing )
 
             scrollIntoView( this.$el, {
@@ -215,11 +215,9 @@ export default {
                 behavior: 'smooth',
             } )
         },
-        contract () {
-            // console.log('contracting')
-
+        contract (): void {
             this.$emit( 'contract', this.listing )
         },
     },
-}
+} )
 </script>
