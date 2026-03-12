@@ -12,7 +12,7 @@
     },
     "scripts": {
         "test": "vitest",
-        "type-check": "tsc --noEmit",
+        "type-check": "astro check",
         "lint": "eslint . --cache",
         "lint:fix": "eslint . --fix",
         "dev-netlify": "netlify dev",

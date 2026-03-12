@@ -14,12 +14,12 @@ import indexStyles from '~/src/styles/index.css?inline'
 import {
     buildWebStoryFromTimelineEntries
 // @ts-ignore
-} from '~/src/helpers/node/web-story.ts'
+} from '~/src/helpers/node/web-story'
 
 import {
     getTimelineFromJson
 // @ts-ignore
-} from '~/src/helpers/node/movies-fandom-timeline.ts'
+} from '~/src/helpers/node/movies-fandom-timeline'
 
 import HeadCommon from '../components/HeadCommon.astro'
 import MainHeading from '~/src/components/story/main-heading.astro'
@@ -242,28 +242,26 @@ function backgroundWithFallbacks ( storyPage ) {
             <amp-story-bookend layout="nodisplay">
                 <script
                     type="application/json"
-                    is:inline
-                >
-                    {
-                        "bookendVersion": "v1.0",
-                        "shareProviders": [
-                            "twitter",
-                            "email"
+                    set:html={ JSON.stringify( {
+                        bookendVersion: 'v1.0',
+                        shareProviders: [
+                            'twitter',
+                            'email',
                         ],
-                        "components": [
+                        components: [
                             {
-                                "type": "heading",
-                                "text": "More to read"
+                                type: 'heading',
+                                text: 'More to read',
                             },
                             {
-                                "type": "small",
-                                "title": "",
-                                "url": "",
-                                "image": "assets/houses-giethoorn-holland.jpg"
-                            }
-                        ]
-                      }
-                </script>
+                                type: 'small',
+                                title: '',
+                                url: '',
+                                image: 'assets/houses-giethoorn-holland.jpg',
+                            },
+                        ],
+                    } ) }
+                />
             </amp-story-bookend>
         </amp-story>
     </body>

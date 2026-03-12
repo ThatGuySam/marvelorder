@@ -299,28 +299,26 @@ const watchOrderPages = splitArray( watchOrder, 5 )
             <amp-story-bookend layout="nodisplay">
                 <script
                     type="application/json"
-                    is:inline
-                >
-                    {
-                        "bookendVersion": "v1.0",
-                        "shareProviders": [
-                            "twitter",
-                            "email"
+                    set:html={ JSON.stringify( {
+                        bookendVersion: 'v1.0',
+                        shareProviders: [
+                            'twitter',
+                            'email',
                         ],
-                        "components": [
+                        components: [
                             {
-                                "type": "heading",
-                                "text": "More to read"
+                                type: 'heading',
+                                text: 'More to read',
                             },
                             {
-                                "type": "small",
-                                "title": "",
-                                "url": "",
-                                "image": "assets/houses-giethoorn-holland.jpg"
-                            }
-                        ]
-                      }
-                </script>
+                                type: 'small',
+                                title: '',
+                                url: '',
+                                image: 'assets/houses-giethoorn-holland.jpg',
+                            },
+                        ],
+                    } ) }
+                />
             </amp-story-bookend>
         </amp-story>
     </body>
