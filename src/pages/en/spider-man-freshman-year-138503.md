@@ -6,7 +6,7 @@ description: >-
   journey unlike we've ever seen.
 layout: ../../layouts/MainLayout.astro
 type: tv
-logo_on_black: /.netlify/functions/tmdb-image/7x61rNltpwfCRHuE5iqL6PIy4oR.webp
+logo_on_black: "{tmdb-path}/3NywvNxGZv3hg9tL8oF9TMXrIIZ.webp"
 ---
 ## TMDB Data
 ```json

@@ -6,6 +6,7 @@ description: >-
   WHIH World News network, informing about major events from political,
   scientific, and entertainment news, in the Marvel Cinematic Universe.
 layout: ../../layouts/MainLayout.astro
+logo_on_black: "{tmdb-path}/qJHO0ro7qGbEAzySZOsKCwe7JOg.webp"
 adult: false
 backdrop_path: /v4SPk4N5JXxy6EMyJazdCRKf1AE.jpg
 genre_ids:

@@ -10,6 +10,7 @@ description: >-
   television series. The videos were created by Marvel Studios in partnership
   with Google.
 layout: ../../layouts/MainLayout.astro
+logo_on_black: "{tmdb-path}/qJHO0ro7qGbEAzySZOsKCwe7JOg.webp"
 adult: false
 backdrop_path: /9To5A5g3sNXPqJjH1V3mbB7GJY9.jpg
 genre_ids:

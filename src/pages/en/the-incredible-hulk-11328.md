@@ -14,6 +14,7 @@ description: >-
   recurring characters were created for the series including the Hispanic family
   of father Rio and his youthful daughter Rita.
 layout: ../../layouts/MainLayout.astro
+logo_on_black: "{tmdb-path}/rQZntZJiOKWDScTngHwTuCTUwMK.webp"
 backdrop_path: /hRQfwDzTXpUrIEkPaQXt4mldNsh.jpg
 first_air_date: '1982-09-18'
 genre_ids:

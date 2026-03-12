@@ -5,6 +5,7 @@ description: >-
   Follow Peter Parker on his way to becoming Spider-Man, with a journey unlike
   any we've ever seen.
 layout: ../../layouts/MainLayout.astro
+logo_on_black: "{tmdb-path}/3NywvNxGZv3hg9tL8oF9TMXrIIZ.webp"
 backdrop_path: null
 genre_ids:
   - 16

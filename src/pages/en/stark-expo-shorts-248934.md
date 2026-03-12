@@ -7,6 +7,7 @@ description: >-
   advancements. The series consists of five episodes, each lasting approximately
   1 minute, and was first aired on March 30, 2010
 layout: ../../layouts/MainLayout.astro
+logo_on_black: "{tmdb-path}/PuAWzSlp3BoB9JT8lNIFHlNM6j.webp?crop.bottom=0.86"
 adult: false
 backdrop_path: null
 genre_ids:

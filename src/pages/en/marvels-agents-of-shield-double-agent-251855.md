@@ -12,6 +12,7 @@ description: >-
   for the legions of fans who are always eager for the next exciting bit of
   Marvel news.
 layout: ../../layouts/MainLayout.astro
+logo_on_black: "{fanart-path}/marvels-agents-of-shield-52521ded92142.webp"
 adult: false
 backdrop_path: /ApQ2RZmn0YBDukUEtIw4g2lhZV9.jpg
 genre_ids:

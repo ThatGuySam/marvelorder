@@ -5,6 +5,7 @@ description: >-
   Agatha Harkness gathers a coven of witches and sets off down, down, down The
   Witches' Road.
 layout: ../../layouts/MainLayout.astro
+logo_on_black: "{tmdb-path}/3RiiNqzCGGuwUtyTh1syOXmDbQp.webp"
 adult: false
 backdrop_path: /ymTx7ebsmBjqh47fiZnBUjIDx5K.jpg
 genre_ids:
