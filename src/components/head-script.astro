@@ -1,6 +1,14 @@
 
-<!-- Scrollable a11y code helper -->
-<script src="/make-scrollable-code-focusable.js" is:inline></script>
+<script>
+	import {
+		makeScrollableCodeFocusable,
+		runWhenDocumentReady,
+	} from '~/src/helpers/make-scrollable-code-focusable.js'
+
+	runWhenDocumentReady( () => {
+		makeScrollableCodeFocusable()
+	} )
+</script>
 
 <!-- This is intentionally inlined to avoid FOUC -->
 <script is:inline>
