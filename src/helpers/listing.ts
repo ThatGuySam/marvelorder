@@ -1,5 +1,8 @@
 import type { deepmergeCustom } from 'deepmerge-ts'
-import type { Listing } from './types.ts'
+import type {
+    Listing,
+    ListingDateValue,
+} from './types.ts'
 
 type DeepMergeConfig = Parameters<typeof deepmergeCustom>[0]
 
@@ -8,7 +11,7 @@ export function hasLogo ( listing: Listing ) {
 }
 
 export function getDateString ( listing: Listing ) {
-    return listing.release_date || listing.first_air_date
+    return normalizeListingDateValue( listing.release_date || listing.first_air_date )
 }
 
 export function hasDate ( listing: Listing ) {
@@ -21,6 +24,23 @@ const seasonMonths: Array<Array<string>> = [
     [ 'summer', '08' ],
     [ 'fall', '09' ],
 ]
+
+export function normalizeListingDateValue ( dateValue?: ListingDateValue ) {
+    if ( !dateValue ) {
+        return ''
+    }
+
+    if ( typeof dateValue === 'string' ) {
+        return dateValue
+    }
+
+    if ( dateValue instanceof Date ) {
+        return dateValue.toISOString().slice( 0, 10 )
+    }
+
+    return String( dateValue )
+}
+
 export function getSeasonReleaseDate ( listing: Listing ) {
     if ( !hasDate( listing ) ) {
         return null
@@ -29,7 +49,7 @@ export function getSeasonReleaseDate ( listing: Listing ) {
     const dateString = getDateString( listing )
 
     for ( const [ seasonName, month ] of seasonMonths ) {
-        if ( dateString?.toLowerCase().includes( seasonName ) ) {
+        if ( dateString.toLowerCase().includes( seasonName ) ) {
             // const month:string = seasonMonths[ seasonName ]
 
             return {

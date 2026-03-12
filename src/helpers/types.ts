@@ -8,6 +8,8 @@ type ImageFunctionUrl = TMDBImageFunctionUrl | FanartImageFunctionUrl
 
 type TMDBImagePath = `/${ string }.jpg`
 
+export type ListingDateValue = string | Date
+
 export interface TMDBData {
     adult: boolean
     backdrop_path: TMDBImagePath
@@ -50,8 +52,8 @@ export interface Listing {
     original_title?: string
     popularity: number
     poster_path: string
-    release_date?: string
-    first_air_date?: string
+    release_date?: ListingDateValue
+    first_air_date?: ListingDateValue
     vote_average: number
     vote_count: number
     type: string

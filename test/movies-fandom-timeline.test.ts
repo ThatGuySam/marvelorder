@@ -7,17 +7,14 @@ import {
 
 import {
     breakEntryTextIntoSentences,
-    fetchTimeline,
+    getEntriesFromJson,
     getTimelineFromEntries,
 } from '~/src/helpers/node/movies-fandom-timeline.ts'
 
 let timeline: ReturnType<typeof getTimelineFromEntries>
 
 beforeAll( async () => {
-    const timelineFromFetch = await fetchTimeline()
-
-    // Convert the fetched entries to JSON and then back again
-    const entriesFromJson = JSON.parse( JSON.stringify( timelineFromFetch.entries ) )
+    const entriesFromJson = await getEntriesFromJson()
 
     // Take the fetched entries and load them in via the constructor
     // so that we know that it can be built from JSON
