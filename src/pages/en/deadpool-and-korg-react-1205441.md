@@ -3,6 +3,7 @@ title: Deadpool and Korg React
 slug: deadpool-and-korg-react
 description: Deadpool and Korg react to the trailer for Free Guy.
 layout: ../../layouts/MainLayout.astro
+logo_on_black: /.netlify/functions/tmdb-image/5g1T37Hv1kE6P9pOMuVWMTh25fe.webp
 adult: false
 backdrop_path: /tiku7w3w3U7sZtA3PaNWPA8VR1G.jpg
 genre_ids:

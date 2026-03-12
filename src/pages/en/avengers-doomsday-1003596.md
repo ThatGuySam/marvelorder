@@ -5,6 +5,7 @@ description: >-
   The Avengers, Wakandans, Fantastic Four, Thunderbolts, and X-Men all fight
   against Doctor Doom. Plot TBA.
 layout: ../../layouts/MainLayout.astro
+logo_on_black: /.netlify/functions/tmdb-image/ncgHqZlYPObQ0y6fMoh1ibQnqgt.webp
 adult: false
 backdrop_path: /3eOINbgRs8WiWfQfViXeuZ3enrs.jpg
 genre_ids:

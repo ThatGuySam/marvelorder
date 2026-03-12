@@ -5,6 +5,7 @@ description: >-
   Throughout Wakandan history, brave warriors have been tasked to travel the
   world retrieving dangerous vibranium artifacts. This is their story.
 layout: ../../layouts/MainLayout.astro
+logo_on_black: /.netlify/functions/tmdb-image/pg0SViNoawgM6Vga353TuIKPLfe.webp
 backdrop_path: null
 first_air_date: ''
 genre_ids:

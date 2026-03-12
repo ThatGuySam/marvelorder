@@ -5,6 +5,7 @@ description: >-
   The third entry in the Venom trilogy confirmed to be in development by Amy
   Pascal.
 layout: ../../layouts/MainLayout.astro
+logo_on_black: /.netlify/functions/tmdb-image/s4wOlLMQRvjK2sWqkTogDryYEWA.webp
 adult: false
 backdrop_path: null
 genre_ids:

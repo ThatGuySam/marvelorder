@@ -5,6 +5,7 @@ description: >-
   Follows Simon Williams, also known as Marvel’s Wonder Man. Plot details
   unknown.
 layout: ../../layouts/MainLayout.astro
+logo_on_black: /.netlify/functions/tmdb-image/sFy84s6ipq5Fh9RrzKsCfgasHNd.webp
 ---
 
 Other titles
