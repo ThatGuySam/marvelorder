@@ -9,6 +9,10 @@ type ImageFunctionUrl = TMDBImageFunctionUrl | FanartImageFunctionUrl
 type TMDBImagePath = `/${ string }.jpg`
 
 export type ListingDateValue = string | Date
+export interface ListingWatchLinks {
+    amazon?: string
+    [ key: string ]: string | undefined
+}
 
 export interface TMDBData {
     adult: boolean
@@ -29,7 +33,10 @@ export interface TMDBData {
 
 export interface ListingFrontMatter extends Partial<TMDBData> {
     title: string
+    description?: string
     logo_on_black?: ImageFunctionUrl
+    tags?: string[]
+    watchLinks?: ListingWatchLinks
     draft?: boolean
     mcuTimelineOrder?: number
 }
@@ -42,6 +49,7 @@ export interface Listing {
     name?: string
     sourceListing?: Listing
     overview: string
+    description?: string
     backdrop_path: TMDBImagePath
     backdrop: TMDBImagePath
     genre_ids: Array<number>
@@ -59,6 +67,8 @@ export interface Listing {
     type: string
     logo_on_black?: string
     slug: string
+    tags?: string[]
+    watchLinks?: ListingWatchLinks
     companies: Array<{
         id: number
         name: string
