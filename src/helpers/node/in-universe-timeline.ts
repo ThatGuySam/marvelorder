@@ -2,9 +2,10 @@ import 'dotenv/config'
 import axios from 'axios'
 
 import {
-    getYearAndMonth,
-    makeSlug,
-} from '~/src/helpers/node/listing.ts'
+    findBestTimelineListingMatch,
+    getExpectedMediaTypeFromInUniverseEntry,
+    matchesTimelineListing,
+} from '~/src/helpers/node/timeline-matcher.ts'
 
 import {
     getAllListings,
@@ -114,39 +115,29 @@ export async function getInUniverseTimeline (): Promise<DisneyPlusInUniverseEntr
 }
 
 export function matchListingToInUniverse ( listing, inUniverseEntry ) {
-    // Skip if listing has no release date
-    if ( !listing.dateString ) {
-        return false
-    }
-
-    // console.log( 'listing.dateString', listing.dateString )
-    // console.log( 'inUniverseEntry.releases[0].releaseDate', inUniverseEntry.releases[0].releaseDate )
-    const dateMatches = getYearAndMonth( inUniverseEntry.releases[ 0 ].releaseDate ) === getYearAndMonth( listing.dateString )
-
-    if ( !dateMatches ) {
-        return false
-    }
-
     const cleanInUniverseTitle = inUniverseEntry.title
         // Replace Trademark Symbols
         .replaceAll( '™', '' )
 
-    const listingSlug = makeSlug( listing.title ).replace( 'marvel-one-shot', '' )
-    const inUniverseSlug = makeSlug( cleanInUniverseTitle )
-
-    // console.log( 'listingSlug', listingSlug )
-    // console.log( 'orderedSlug', inUniverseSlug )
-
-    // We can be a bit more generous with the slug matching
-    // since the listing are all in the same month and year
-    return inUniverseSlug.includes( listingSlug ) || listingSlug.includes( inUniverseSlug )
+    return matchesTimelineListing( listing, {
+        title: cleanInUniverseTitle,
+        date: inUniverseEntry.releases[ 0 ].releaseDate,
+        expectedMediaType: getExpectedMediaTypeFromInUniverseEntry( inUniverseEntry ),
+        dayTolerance: 1,
+    } )
 }
 
 export function matchTimelineEntryToSavedListing ( inUniverseEntry: any, savedListings: any[] ) {
-    for ( const savedListing of savedListings ) {
-        if ( matchListingToInUniverse( savedListing, inUniverseEntry ) ) {
-            return savedListing
-        }
+    const matchingListing = findBestTimelineListingMatch( savedListings, {
+        title: inUniverseEntry.title.replaceAll( '™', '' ),
+        date: inUniverseEntry.releases[ 0 ].releaseDate,
+        expectedMediaType: getExpectedMediaTypeFromInUniverseEntry( inUniverseEntry ),
+        dayTolerance: 1,
+        allowTitleOnlyFallback: true,
+    } )
+
+    if ( matchingListing ) {
+        return matchingListing
     }
 
     throw new Error( `Could not match timeline entry to saved listing: ${ inUniverseEntry.title }` )

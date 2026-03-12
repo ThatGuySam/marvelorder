@@ -2,9 +2,13 @@ import { deepmerge } from 'deepmerge-ts'
 
 import type { MCUTimelineSheetRecord } from '~/src/helpers/types'
 import {
-    getYearAndMonth,
     makeSlug,
 } from '~/src/helpers/node/listing.ts'
+import {
+    findBestTimelineListingMatch,
+    getExpectedMediaTypeFromOrderedEntry,
+    matchesTimelineListing,
+} from '~/src/helpers/node/timeline-matcher.ts'
 
 function parseOrderedTitle ( rawTitle: string ) {
     const [
@@ -31,26 +35,19 @@ function parseOrderedTitle ( rawTitle: string ) {
 }
 
 export function matchListingToOrdered ( listing, orderedEntry ) {
-    // Skip if listing has no release date
-    if ( !listing.dateString ) {
-        return false
-    }
+    return matchesTimelineListing( listing, {
+        title: orderedEntry.title,
+        date: orderedEntry.premiereDate,
+        expectedMediaType: getExpectedMediaTypeFromOrderedEntry( orderedEntry ),
+    } )
+}
 
-    // console.log( 'listing.dateString', listing.dateString )
-    // console.log( 'orderedEntry.premiereDate', orderedEntry.premiereDate )
-    const dateMatches = getYearAndMonth( orderedEntry.premiereDate ) === getYearAndMonth( listing.dateString )
-
-    if ( !dateMatches ) {
-        return false
-    }
-
-    const listingSlug = makeSlug( listing.title )
-    const orderedSlug = makeSlug( orderedEntry.title )
-
-    // console.log( 'listingSlug', listingSlug )
-    // console.log( 'orderedSlug', orderedSlug )
-
-    return listingSlug.includes( orderedSlug )
+export function matchOrderedEntryToSavedListing ( orderedEntry, savedListings ) {
+    return findBestTimelineListingMatch( savedListings, {
+        title: orderedEntry.title,
+        date: orderedEntry.premiereDate,
+        expectedMediaType: getExpectedMediaTypeFromOrderedEntry( orderedEntry ),
+    } )
 }
 
 export function organizeOrderData ( rawOrderData: MCUTimelineSheetRecord[] ) {

@@ -7,7 +7,7 @@ import type { MCUTimelineSheetRecord } from '~/src/helpers/types'
 import { storePath } from '~/src/config.ts'
 
 import {
-    matchListingToOrdered,
+    matchOrderedEntryToSavedListing,
     organizeOrderData,
 } from '~/src/helpers/node/mcu-timeline-sheet.ts'
 import {
@@ -194,37 +194,34 @@ function buildReadmeList ( matchesMap: Map<number, any> ) {
             continue
         }
 
-        // console.log('details', details )
+        const unmatchedListings = orderableListings.list.filter( listing => !matches.has( listing.id ) )
+        const matchingListing = matchOrderedEntryToSavedListing( orderedDetails, unmatchedListings )
 
-        for ( const listing of orderableListings.list ) {
-            const details: any = listingDetailsMap.get( listing.id )
-
-            const alreadyMatched = matches.has( listing.id )
-
-            if ( !alreadyMatched && matchListingToOrdered( listing, orderedDetails ) ) {
-                // console.log( 'Match!', 1, orderedDetails.title, 2, details.listing.title, getYearAndMonth( orderedDetails.premiereDate ) )
-
-                matches.set( details.listing.id, {
-                    ...orderedDetails,
-                    listing,
-                } )
-
-                await upsertListingMarkdown( {
-                    listing: {
-                        id: details.listing.id,
-                        slug: listing.slug,
-                        overview: listing.sourceListing.overview,
-                        title: listing.title,
-
-                        mcuTimelineOrder: orderedDetails.mcuTimelineOrder,
-                    },
-                    tmdb: {},
-                    readMarkdownFile: readMarkdownFileNode,
-                    writeMarkdownFile: writeMarkdownFileNode,
-                    exists: fs.exists,
-                } )
-            }
+        if ( !matchingListing ) {
+            continue
         }
+
+        const details: any = listingDetailsMap.get( matchingListing.id )
+
+        matches.set( details.listing.id, {
+            ...orderedDetails,
+            listing: matchingListing,
+        } )
+
+        await upsertListingMarkdown( {
+            listing: {
+                id: details.listing.id,
+                slug: matchingListing.slug,
+                overview: matchingListing.sourceListing.overview,
+                title: matchingListing.title,
+
+                mcuTimelineOrder: orderedDetails.mcuTimelineOrder,
+            },
+            tmdb: {},
+            readMarkdownFile: readMarkdownFileNode,
+            writeMarkdownFile: writeMarkdownFileNode,
+            exists: fs.exists,
+        } )
     }
 
     console.log( 'Updating README viewing-order-list' )

@@ -63,11 +63,46 @@ export function getYearAndMonth ( date: string ) {
         throw new TypeError( 'date must be a string' )
     }
 
-    const dateTime = DateTime.fromISO( date )
-    const year = dateTime.year
-    // const month = dateTime.month
+    const trimmedDate = date.trim()
 
-    return `${ year }`// -${ month }`
+    if ( /^\d{4}-\d{2}-\d{2}$/.test( trimmedDate ) ) {
+        return trimmedDate.slice( 0, 7 )
+    }
+
+    if ( /^\d{4}-\d{2}$/.test( trimmedDate ) ) {
+        return trimmedDate
+    }
+
+    if ( /^\d{4}$/.test( trimmedDate ) ) {
+        return ''
+    }
+
+    const seasonMatch = trimmedDate.match( /^(winter|spring|summer|fall)\s+(\d{4})$/i )
+
+    if ( seasonMatch ) {
+        const seasonMonths = new Map( [
+            [ 'winter', '11' ],
+            [ 'spring', '04' ],
+            [ 'summer', '08' ],
+            [ 'fall', '09' ],
+        ] )
+        const [
+            ,
+            seasonName,
+            year,
+        ] = seasonMatch
+        const month = seasonMonths.get( seasonName.toLowerCase() )
+
+        return month ? `${ year }-${ month }` : ''
+    }
+
+    const dateTime = DateTime.fromISO( trimmedDate )
+
+    if ( !dateTime.isValid ) {
+        return ''
+    }
+
+    return `${ dateTime.year }-${ String( dateTime.month ).padStart( 2, '0' ) }`
 }
 
 export class MappedListing {
