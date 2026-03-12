@@ -16,7 +16,7 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/hUPgIibqZlwbhs4N08cPzzc4f5K.jpg",
+    "backdrop_path": "/fctQU5MoXgJ5pNMljFzlEFXwfSu.jpg",
     "genre_ids": [
         28,
         12,
@@ -30,7 +30,7 @@ watchLinks:
     "release_date": "2014-05-15",
     "title": "X-Men: Days of Future Past",
     "video": false,
-    "vote_average": 7.5,
+    "vote_average": 7.529,
     "slug": "x-men-days-of-future-past",
     "tags": [
         "movie",

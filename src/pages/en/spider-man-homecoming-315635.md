@@ -22,8 +22,7 @@ mcuTimelineOrder: 254
     "genre_ids": [
         28,
         12,
-        878,
-        18
+        878
     ],
     "id": 315635,
     "original_language": "en",
@@ -33,7 +32,7 @@ mcuTimelineOrder: 254
     "release_date": "2017-07-05",
     "title": "Spider-Man: Homecoming",
     "video": false,
-    "vote_average": 7.332,
+    "vote_average": 7.329,
     "slug": "spider-man-homecoming",
     "tags": [
         "movie",

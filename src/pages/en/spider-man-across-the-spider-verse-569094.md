@@ -15,7 +15,7 @@ logo_on_black: /.netlify/functions/tmdb-image/zfZuSNGKxIlWQKi4xlIhFoRrlnj.webp
 ```json
 {
     "adult": false,
-    "backdrop_path": "/jbthbh0KzaUWFPYvkfmXAamjI8j.jpg",
+    "backdrop_path": "/9xfDWXAUbFXQK585JvByT5pEAhe.jpg",
     "genre_ids": [
         16,
         28,
@@ -25,12 +25,12 @@ logo_on_black: /.netlify/functions/tmdb-image/zfZuSNGKxIlWQKi4xlIhFoRrlnj.webp
     "id": 569094,
     "original_language": "en",
     "original_title": "Spider-Man: Across the Spider-Verse",
-    "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+    "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
     "poster_path": "/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
     "release_date": "2023-05-31",
     "title": "Spider-Man: Across the Spider-Verse",
     "video": false,
-    "vote_average": 8.354,
+    "vote_average": 8.333,
     "slug": "spider-man-across-the-spider-verse",
     "tags": [
         "movie",

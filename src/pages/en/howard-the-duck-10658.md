@@ -17,23 +17,26 @@ watchLinks:
 ## TMDB Data
 ```json
 {
-    "backdrop_path": "/3KQe8Vzma7ZAYE25mJjgIG4Gj5e.jpg",
+    "adult": false,
+    "backdrop_path": "/uiFvf7rKju8Zd7kTqpKzFjaRvZ2.jpg",
     "id": 10658,
     "title": "Howard the Duck",
     "original_title": "Howard the Duck",
-    "overview": "A scientific experiment unknowingly brings extraterrestrial life forms to the Earth through a laser beam. First is the cigar smoking drake Howard from the duck's planet. A few kids try to keep him from the greedy scientists and help him back to his planet. But then a much less friendly being arrives through the beam...",
+    "overview": "A scientific experiment unknowingly brings extraterrestrial life forms to the Earth through a laser beam. First is the cigar-smoking drake, Howard, from the duck's planet. A few kids try to keep him from the greedy scientists and help him back to his planet, but then a much less friendly being arrives through the beam...",
     "poster_path": "/eU0dWo8PJgsSAZFbcyHiUpuLSyW.jpg",
     "media_type": "movie",
-    "adult": false,
     "original_language": "en",
     "genre_ids": [
-        35,
         14,
+        35,
+        28,
+        12,
+        10749,
         878
     ],
     "release_date": "1986-08-01",
     "video": false,
-    "vote_average": 5.414,
+    "vote_average": 5.4,
     "slug": "howard-the-duck",
     "tags": [
         "list-8204859"

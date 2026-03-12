@@ -1,6 +1,26 @@
 {
   "records": [
     {
+      "TYPE": {},
+      "TITLE": "Eyes of Wakanda Season 1 Episode 1: Into the Lion's Den",
+      "RELEASE_DATE": "2025-08-27T04:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Eyes of Wakanda Season 1 Episode 2: Legends and Lies",
+      "RELEASE_DATE": "2025-08-27T04:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Eyes of Wakanda Season 1 Episode 3: Lost and Found",
+      "RELEASE_DATE": "2025-08-27T04:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Eyes of Wakanda Season 1 Episode 4: The Last Panther",
+      "RELEASE_DATE": "2025-08-27T04:00:00.000Z"
+    },
+    {
       "TYPE": "MOVIE",
       "TITLE": "Captain America: The First Avenger",
       "RELEASE_DATE": "2011-07-22T04:00:00.000Z"
@@ -126,6 +146,11 @@
       "RELEASE_DATE": "2019-03-08T05:00:00.000Z"
     },
     {
+      "TYPE": "OTHER",
+      "TITLE": "I Want Your Cray Cray (Full Video)",
+      "RELEASE_DATE": "2018-03-29T04:00:00.000Z"
+    },
+    {
       "TYPE": "MOVIE",
       "TITLE": "Iron Man",
       "RELEASE_DATE": "2008-05-02T04:00:00.000Z"
@@ -206,26 +231,6 @@
       "RELEASE_DATE": "2017-10-17T04:00:00.000Z"
     },
     {
-      "TYPE": "MOVIE",
-      "TITLE": "Iron Man 3",
-      "RELEASE_DATE": "2013-05-03T04:00:00.000Z"
-    },
-    {
-      "TYPE": "OTHER",
-      "TITLE": "Real Time With Bill Maher on Iron Patriot",
-      "RELEASE_DATE": "2013-09-24T04:00:00.000Z"
-    },
-    {
-      "TYPE": "OTHER",
-      "TITLE": "Fashion Police on Iron Patriot",
-      "RELEASE_DATE": "2013-09-24T04:00:00.000Z"
-    },
-    {
-      "TYPE": "ONE SHOT",
-      "TITLE": "All Hail The King",
-      "RELEASE_DATE": "2014-02-04T05:00:00.000Z"
-    },
-    {
       "TYPE": "OTHER",
       "TITLE": "Rising Tide Video Files",
       "RELEASE_DATE": "2013-05-13T04:00:00.000Z"
@@ -296,6 +301,21 @@
       "RELEASE_DATE": "2014-01-14T05:00:00.000Z"
     },
     {
+      "TYPE": "MOVIE",
+      "TITLE": "Iron Man 3",
+      "RELEASE_DATE": "2013-05-03T04:00:00.000Z"
+    },
+    {
+      "TYPE": "OTHER",
+      "TITLE": "Real Time With Bill Maher on Iron Patriot",
+      "RELEASE_DATE": "2013-09-24T04:00:00.000Z"
+    },
+    {
+      "TYPE": "OTHER",
+      "TITLE": "Fashion Police on Iron Patriot",
+      "RELEASE_DATE": "2013-09-24T04:00:00.000Z"
+    },
+    {
       "TYPE": "ABC",
       "TITLE": "Agents of S.H.I.E.L.D. Season 1 Episode 13: T.R.A.C.K.S.",
       "RELEASE_DATE": "2014-02-04T05:00:00.000Z"
@@ -309,6 +329,11 @@
       "TYPE": "ABC",
       "TITLE": "Agents of S.H.I.E.L.D. Season 1 Episode 15: Yes Men",
       "RELEASE_DATE": "2014-03-11T04:00:00.000Z"
+    },
+    {
+      "TYPE": "ONE SHOT",
+      "TITLE": "All Hail The King",
+      "RELEASE_DATE": "2014-02-04T05:00:00.000Z"
     },
     {
       "TYPE": "ABC",
@@ -351,6 +376,16 @@
       "RELEASE_DATE": "2014-05-13T04:00:00.000Z"
     },
     {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 2 Episode 1: Shadows",
+      "RELEASE_DATE": "2014-09-23T04:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 2 Episode 2: Heavy Is The Head",
+      "RELEASE_DATE": "2014-09-30T04:00:00.000Z"
+    },
+    {
       "TYPE": "MOVIE",
       "TITLE": "Guardians Of The Galaxy",
       "RELEASE_DATE": "2014-08-01T04:00:00.000Z"
@@ -359,6 +394,11 @@
       "TYPE": {},
       "TITLE": "I Am Groot Season 1 Episode 1: Groot's First Steps",
       "RELEASE_DATE": "2022-08-10T04:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 2 Episode 3: Making Friends And Influencing People",
+      "RELEASE_DATE": "2014-10-07T04:00:00.000Z"
     },
     {
       "TYPE": "MOVIE",
@@ -409,6 +449,16 @@
       "TYPE": {},
       "TITLE": "I Am Groot Season 2 Episode 5: Groot and the Great Prophecy",
       "RELEASE_DATE": "2023-09-06T04:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 2 Episode 4: I Will Face My Enemy",
+      "RELEASE_DATE": "2014-10-14T04:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 2 Episode 5: A Hen In The Wolf House",
+      "RELEASE_DATE": "2014-10-21T04:00:00.000Z"
     },
     {
       "TYPE": "DISNEY+ (Netflix)",
@@ -476,6 +526,11 @@
       "RELEASE_DATE": "2015-04-10T04:00:00.000Z"
     },
     {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 2 Episode 6: A Fractured House",
+      "RELEASE_DATE": "2014-10-28T04:00:00.000Z"
+    },
+    {
       "TYPE": "DISNEY+ (Netflix)",
       "TITLE": "Jessica Jones Season 1 Episode 1: AKA Ladies Night",
       "RELEASE_DATE": "2015-11-20T05:00:00.000Z"
@@ -484,6 +539,11 @@
       "TYPE": "DISNEY+ (Netflix)",
       "TITLE": "Jessica Jones Season 1 Episode 2: AKA Crush Syndrome",
       "RELEASE_DATE": "2015-11-20T05:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 2 Episode 7: The Writing On The Wall",
+      "RELEASE_DATE": "2014-11-11T05:00:00.000Z"
     },
     {
       "TYPE": "DISNEY+ (Netflix)",
@@ -499,81 +559,6 @@
       "TYPE": "DISNEY+ (Netflix)",
       "TITLE": "Jessica Jones Season 1 Episode 5: AKA The Sandwich Saved Me",
       "RELEASE_DATE": "2015-11-20T05:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Jessica Jones Season 1 Episode 6: AKA You're a Winner",
-      "RELEASE_DATE": "2015-11-20T05:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Jessica Jones Season 1 Episode 7: AKA Top Shelf Perverts",
-      "RELEASE_DATE": "2015-11-20T05:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Jessica Jones Season 1 Episode 8: AKA WWJD?",
-      "RELEASE_DATE": "2015-11-20T05:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Jessica Jones Season 1 Episode 9: AKA Sin Bin",
-      "RELEASE_DATE": "2015-11-20T05:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Jessica Jones Season 1 Episode 10: AKA 1,000 Cuts",
-      "RELEASE_DATE": "2015-11-20T05:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Jessica Jones Season 1 Episode 11: AKA I've Got the Blues",
-      "RELEASE_DATE": "2015-11-20T05:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Jessica Jones Season 1 Episode 12: AKA Take A Bloody Number",
-      "RELEASE_DATE": "2015-11-20T05:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Jessica Jones Season 1 Episode 13: AKA Smile",
-      "RELEASE_DATE": "2015-11-20T05:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 2 Episode 1: Shadows",
-      "RELEASE_DATE": "2014-09-23T04:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 2 Episode 2: Heavy Is The Head",
-      "RELEASE_DATE": "2014-09-30T04:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 2 Episode 3: Making Friends And Influencing People",
-      "RELEASE_DATE": "2014-10-07T04:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 2 Episode 4: I Will Face My Enemy",
-      "RELEASE_DATE": "2014-10-14T04:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 2 Episode 5: A Hen In The Wolf House",
-      "RELEASE_DATE": "2014-10-21T04:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 2 Episode 6: A Fractured House",
-      "RELEASE_DATE": "2014-10-28T04:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 2 Episode 7: The Writing On The Wall",
-      "RELEASE_DATE": "2014-11-11T05:00:00.000Z"
     },
     {
       "TYPE": "ABC",
@@ -596,14 +581,39 @@
       "RELEASE_DATE": "2015-03-03T05:00:00.000Z"
     },
     {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Jessica Jones Season 1 Episode 6: AKA You're a Winner",
+      "RELEASE_DATE": "2015-11-20T05:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Jessica Jones Season 1 Episode 7: AKA Top Shelf Perverts",
+      "RELEASE_DATE": "2015-11-20T05:00:00.000Z"
+    },
+    {
       "TYPE": "ABC",
       "TITLE": "Agents of S.H.I.E.L.D. Season 2 Episode 12: Who You Really Are",
       "RELEASE_DATE": "2015-03-10T04:00:00.000Z"
     },
     {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Jessica Jones Season 1 Episode 8: AKA WWJD?",
+      "RELEASE_DATE": "2015-11-20T05:00:00.000Z"
+    },
+    {
       "TYPE": "ABC",
       "TITLE": "Agents of S.H.I.E.L.D. Season 2 Episode 13: One of Us",
       "RELEASE_DATE": "2015-03-17T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Jessica Jones Season 1 Episode 9: AKA Sin Bin",
+      "RELEASE_DATE": "2015-11-20T05:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Jessica Jones Season 1 Episode 10: AKA 1,000 Cuts",
+      "RELEASE_DATE": "2015-11-20T05:00:00.000Z"
     },
     {
       "TYPE": "ABC",
@@ -614,6 +624,21 @@
       "TYPE": "ABC",
       "TITLE": "Agents of S.H.I.E.L.D. Season 2 Episode 15: One Door Closes",
       "RELEASE_DATE": "2015-03-31T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Jessica Jones Season 1 Episode 11: AKA I've Got the Blues",
+      "RELEASE_DATE": "2015-11-20T05:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Jessica Jones Season 1 Episode 12: AKA Take A Bloody Number",
+      "RELEASE_DATE": "2015-11-20T05:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Jessica Jones Season 1 Episode 13: AKA Smile",
+      "RELEASE_DATE": "2015-11-20T05:00:00.000Z"
     },
     {
       "TYPE": "ABC",
@@ -697,16 +722,6 @@
     },
     {
       "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Luke Cage Season 1 Episode 1: Moment of Truth",
-      "RELEASE_DATE": "2016-09-30T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Luke Cage Season 1 Episode 2: Code of the Streets",
-      "RELEASE_DATE": "2016-09-30T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
       "TITLE": "Daredevil Season 2 Episode 1: Bang",
       "RELEASE_DATE": "2016-03-18T04:00:00.000Z"
     },
@@ -727,16 +742,6 @@
     },
     {
       "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Luke Cage Season 1 Episode 3: Who's Gonna Take the Weight?",
-      "RELEASE_DATE": "2016-09-30T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Luke Cage Season 1 Episode 4: Step in the Arena",
-      "RELEASE_DATE": "2016-09-30T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
       "TITLE": "Daredevil Season 2 Episode 5: Kinbaku",
       "RELEASE_DATE": "2016-03-18T04:00:00.000Z"
     },
@@ -752,13 +757,33 @@
     },
     {
       "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Luke Cage Season 1 Episode 1: Moment of Truth",
+      "RELEASE_DATE": "2016-09-30T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
       "TITLE": "Daredevil Season 2 Episode 8: Guilty as Sin",
       "RELEASE_DATE": "2016-03-18T04:00:00.000Z"
     },
     {
       "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Luke Cage Season 1 Episode 2: Code of the Streets",
+      "RELEASE_DATE": "2016-09-30T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
       "TITLE": "Daredevil Season 2 Episode 9: Seven Minutes in Heaven",
       "RELEASE_DATE": "2016-03-18T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Luke Cage Season 1 Episode 3: Who's Gonna Take the Weight?",
+      "RELEASE_DATE": "2016-09-30T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Luke Cage Season 1 Episode 4: Step in the Arena",
+      "RELEASE_DATE": "2016-09-30T04:00:00.000Z"
     },
     {
       "TYPE": "DISNEY+ (Netflix)",
@@ -777,8 +802,28 @@
     },
     {
       "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Daredevil Season 2 Episode 12: The Dark at the End of the Tunnel",
+      "RELEASE_DATE": "2016-03-18T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Daredevil Season 2 Episode 13: A Cold Day in Hell's Kitchen",
+      "RELEASE_DATE": "2016-03-18T04:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 3 Episode 1: Laws Of Nature",
+      "RELEASE_DATE": "2015-09-29T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
       "TITLE": "Luke Cage Season 1 Episode 6: Suckas Need Bodyguards",
       "RELEASE_DATE": "2016-09-30T04:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 3 Episode 2: Purpose In The Machine",
+      "RELEASE_DATE": "2015-10-06T04:00:00.000Z"
     },
     {
       "TYPE": "DISNEY+ (Netflix)",
@@ -791,14 +836,9 @@
       "RELEASE_DATE": "2016-09-30T04:00:00.000Z"
     },
     {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Daredevil Season 2 Episode 12: The Dark at the End of the Tunnel",
-      "RELEASE_DATE": "2016-03-18T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Daredevil Season 2 Episode 13: A Cold Day in Hell's Kitchen",
-      "RELEASE_DATE": "2016-03-18T04:00:00.000Z"
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 3 Episode 3:A Wanted (Inhu)man",
+      "RELEASE_DATE": "2015-10-13T04:00:00.000Z"
     },
     {
       "TYPE": "DISNEY+ (Netflix)",
@@ -826,121 +866,6 @@
       "RELEASE_DATE": "2016-09-30T04:00:00.000Z"
     },
     {
-      "TYPE": "FREEFORM",
-      "TITLE": "Cloak and Dagger Season 1 Episode 1: First Light",
-      "RELEASE_DATE": "2018-06-07T04:00:00.000Z"
-    },
-    {
-      "TYPE": "FREEFORM",
-      "TITLE": "Cloak and Dagger Season 1 Episode 2: Suicide Sprints",
-      "RELEASE_DATE": "2018-06-07T04:00:00.000Z"
-    },
-    {
-      "TYPE": "FREEFORM",
-      "TITLE": "Cloak and Dagger Season 1 Episode 3: Stained Glass",
-      "RELEASE_DATE": "2018-06-14T04:00:00.000Z"
-    },
-    {
-      "TYPE": "FREEFORM",
-      "TITLE": "Cloak and Dagger Season 1 Episode 4: Call/Response",
-      "RELEASE_DATE": "2018-06-21T04:00:00.000Z"
-    },
-    {
-      "TYPE": "FREEFORM",
-      "TITLE": "Cloak and Dagger Season 1 Episode 5: Princeton Offense",
-      "RELEASE_DATE": "2018-06-28T04:00:00.000Z"
-    },
-    {
-      "TYPE": "FREEFORM",
-      "TITLE": "Cloak and Dagger Season 1 Episode 6: Funhouse Mirrors",
-      "RELEASE_DATE": "2018-07-05T04:00:00.000Z"
-    },
-    {
-      "TYPE": "FREEFORM",
-      "TITLE": "Cloak and Dagger Season 1 Episode 7: Lotus Eaters",
-      "RELEASE_DATE": "2018-07-12T04:00:00.000Z"
-    },
-    {
-      "TYPE": "FREEFORM",
-      "TITLE": "Cloak and Dagger Season 1 Episode 8: Ghost Stories",
-      "RELEASE_DATE": "2018-07-19T04:00:00.000Z"
-    },
-    {
-      "TYPE": "FREEFORM",
-      "TITLE": "Cloak and Dagger Season 1 Episode 9: Back Breaker",
-      "RELEASE_DATE": "2018-07-26T04:00:00.000Z"
-    },
-    {
-      "TYPE": "FREEFORM",
-      "TITLE": "Cloak and Dagger Season 1 Episode 10: Colony Collapse",
-      "RELEASE_DATE": "2018-08-02T04:00:00.000Z"
-    },
-    {
-      "TYPE": "FREEFORM",
-      "TITLE": "Cloak and Dagger Season 2 Episode 1: Restless Energy",
-      "RELEASE_DATE": "2019-04-04T04:00:00.000Z"
-    },
-    {
-      "TYPE": "FREEFORM",
-      "TITLE": "Cloak and Dagger Season 2 Episode 2: White Lines",
-      "RELEASE_DATE": "2019-04-04T04:00:00.000Z"
-    },
-    {
-      "TYPE": "FREEFORM",
-      "TITLE": "Cloak and Dagger Season 2 Episode 3: Shadow Selves",
-      "RELEASE_DATE": "2019-04-11T04:00:00.000Z"
-    },
-    {
-      "TYPE": "FREEFORM",
-      "TITLE": "Cloak and Dagger Season 2 Episode 4: Rabbit Hold",
-      "RELEASE_DATE": "2019-04-18T04:00:00.000Z"
-    },
-    {
-      "TYPE": "FREEFORM",
-      "TITLE": "Cloak and Dagger Season 2 Episode 5: Alignment Chart",
-      "RELEASE_DATE": "2019-04-25T04:00:00.000Z"
-    },
-    {
-      "TYPE": "FREEFORM",
-      "TITLE": "Cloak and Dagger Season 2 Episode 6: B Sides",
-      "RELEASE_DATE": "2019-05-02T04:00:00.000Z"
-    },
-    {
-      "TYPE": "FREEFORM",
-      "TITLE": "Cloak and Dagger Season 2 Episode 7: Vikingtown Sound",
-      "RELEASE_DATE": "2019-05-09T04:00:00.000Z"
-    },
-    {
-      "TYPE": "FREEFORM",
-      "TITLE": "Cloak and Dagger Season 2 Episode 8: Two Player",
-      "RELEASE_DATE": "2019-05-16T04:00:00.000Z"
-    },
-    {
-      "TYPE": "FREEFORM",
-      "TITLE": "Cloak and Dagger Season 2 Episode 9: Blue Note",
-      "RELEASE_DATE": "2019-05-23T04:00:00.000Z"
-    },
-    {
-      "TYPE": "FREEFORM",
-      "TITLE": "Cloak and Dagger Season 2 Episode 10: Level Up",
-      "RELEASE_DATE": "2019-05-30T04:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 3 Episode 1: Laws Of Nature",
-      "RELEASE_DATE": "2015-09-29T04:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 3 Episode 2: Purpose In The Machine",
-      "RELEASE_DATE": "2015-10-06T04:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 3 Episode 3:A Wanted (Inhu)man",
-      "RELEASE_DATE": "2015-10-13T04:00:00.000Z"
-    },
-    {
       "TYPE": "ABC",
       "TITLE": "Agents of S.H.I.E.L.D. Season 3 Episode 4: Devils You Know",
       "RELEASE_DATE": "2015-10-20T04:00:00.000Z"
@@ -966,6 +891,11 @@
       "RELEASE_DATE": "2015-11-17T05:00:00.000Z"
     },
     {
+      "TYPE": "OTHER",
+      "TITLE": "New York Bulletin | Joy and Ward Meachum Special Report",
+      "RELEASE_DATE": "2017-03-23T04:00:00.000Z"
+    },
+    {
       "TYPE": "ABC",
       "TITLE": "Agents of S.H.I.E.L.D. Season 3 Episode 9: Closure",
       "RELEASE_DATE": "2015-12-01T05:00:00.000Z"
@@ -974,61 +904,6 @@
       "TYPE": "ABC",
       "TITLE": "Agents of S.H.I.E.L.D. Season 3 Episode 10: Maveth",
       "RELEASE_DATE": "2015-12-08T05:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 3 Episode 11: Bouncing Back",
-      "RELEASE_DATE": "2016-03-08T05:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 3 Episode 12: The Inside Man",
-      "RELEASE_DATE": "2016-03-15T04:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 3 Episode 13: Parting Shot",
-      "RELEASE_DATE": "2016-03-22T04:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 3 Episode 14: Watchdogs",
-      "RELEASE_DATE": "2016-03-29T04:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 3 Episode 15: Spacetime",
-      "RELEASE_DATE": "2016-04-05T04:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 3 Episode 16: Paradise Lost",
-      "RELEASE_DATE": "2016-04-12T04:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 3 Episode 17: The Team",
-      "RELEASE_DATE": "2016-04-19T04:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 3 Episode 18: The Singularity",
-      "RELEASE_DATE": "2016-04-26T04:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 3 Episode 19: Failed Experiments",
-      "RELEASE_DATE": "2016-05-03T04:00:00.000Z"
-    },
-    {
-      "TYPE": "OTHER",
-      "TITLE": "New York Bulletin | Joy and Ward Meachum Special Report",
-      "RELEASE_DATE": "2017-03-23T04:00:00.000Z"
-    },
-    {
-      "TYPE": "OTHER",
-      "TITLE": "Learn Kenjutsu - The Wing Way!",
-      "RELEASE_DATE": "2017-03-23T04:00:00.000Z"
     },
     {
       "TYPE": "DISNEY+ (Netflix)",
@@ -1049,6 +924,11 @@
       "TYPE": "DISNEY+ (Netflix)",
       "TITLE": "Iron Fist Season 1 Episode 4: Eight Diagram Dragon Palm",
       "RELEASE_DATE": "2017-03-17T04:00:00.000Z"
+    },
+    {
+      "TYPE": "OTHER",
+      "TITLE": "Learn Kenjutsu - The Wing Way!",
+      "RELEASE_DATE": "2017-03-23T04:00:00.000Z"
     },
     {
       "TYPE": "DISNEY+ (Netflix)",
@@ -1096,6 +976,71 @@
       "RELEASE_DATE": "2017-03-17T04:00:00.000Z"
     },
     {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 3 Episode 11: Bouncing Back",
+      "RELEASE_DATE": "2016-03-08T05:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 3 Episode 12: The Inside Man",
+      "RELEASE_DATE": "2016-03-15T04:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 3 Episode 13: Parting Shot",
+      "RELEASE_DATE": "2016-03-22T04:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 3 Episode 14: Watchdogs",
+      "RELEASE_DATE": "2016-03-29T04:00:00.000Z"
+    },
+    {
+      "TYPE": "WHIH",
+      "TITLE": "AVENGERS IMPACT: A WHIH Newsfront Special Report",
+      "RELEASE_DATE": "2016-04-21T04:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 3 Episode 15: Spacetime",
+      "RELEASE_DATE": "2016-04-05T04:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 3 Episode 16: Paradise Lost",
+      "RELEASE_DATE": "2016-04-12T04:00:00.000Z"
+    },
+    {
+      "TYPE": "WHIH",
+      "TITLE": "WHIH Newsfront: The Cost of Saving the World",
+      "RELEASE_DATE": "2016-04-26T04:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 3 Episode 17: The Team",
+      "RELEASE_DATE": "2016-04-19T04:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 3 Episode 18: The Singularity",
+      "RELEASE_DATE": "2016-04-26T04:00:00.000Z"
+    },
+    {
+      "TYPE": "WHIH",
+      "TITLE": "WHIH Newsfront: The Avengers and The White House",
+      "RELEASE_DATE": "2016-04-28T04:00:00.000Z"
+    },
+    {
+      "TYPE": "WHIH",
+      "TITLE": "WHIH Newsfront Exclusive: President Ellis Discusses the Avengers",
+      "RELEASE_DATE": "2016-05-03T04:00:00.000Z"
+    },
+    {
+      "TYPE": "WHIH",
+      "TITLE": "WHIH Breaking News: Attack in Lagos",
+      "RELEASE_DATE": "2016-05-03T04:00:00.000Z"
+    },
+    {
       "TYPE": "DISNEY+ (Netflix)",
       "TITLE": "The Defenders Season 1 Episode 1: The H Word",
       "RELEASE_DATE": "2017-08-18T04:00:00.000Z"
@@ -1141,34 +1086,19 @@
       "RELEASE_DATE": "2017-08-18T04:00:00.000Z"
     },
     {
-      "TYPE": "WHIH",
-      "TITLE": "AVENGERS IMPACT: A WHIH Newsfront Special Report",
-      "RELEASE_DATE": "2016-04-21T04:00:00.000Z"
-    },
-    {
-      "TYPE": "WHIH",
-      "TITLE": "WHIH Newsfront: The Cost of Saving the World",
-      "RELEASE_DATE": "2016-04-26T04:00:00.000Z"
-    },
-    {
-      "TYPE": "WHIH",
-      "TITLE": "WHIH Newsfront: The Avengers and The White House",
-      "RELEASE_DATE": "2016-04-28T04:00:00.000Z"
-    },
-    {
-      "TYPE": "WHIH",
-      "TITLE": "WHIH Newsfront Exclusive: President Ellis Discusses the Avengers",
-      "RELEASE_DATE": "2016-05-03T04:00:00.000Z"
-    },
-    {
-      "TYPE": "WHIH",
-      "TITLE": "WHIH Breaking News: Attack in Lagos",
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 3 Episode 19: Failed Experiments",
       "RELEASE_DATE": "2016-05-03T04:00:00.000Z"
     },
     {
       "TYPE": "MOVIE",
       "TITLE": "Captain America: Civil War",
       "RELEASE_DATE": "2016-05-06T04:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 3 Episode 20: Emancipation",
+      "RELEASE_DATE": "2016-05-10T04:00:00.000Z"
     },
     {
       "TYPE": "MOVIE",
@@ -1192,21 +1122,6 @@
     },
     {
       "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 3 Episode 20: Emancipation",
-      "RELEASE_DATE": "2016-05-10T04:00:00.000Z"
-    },
-    {
-      "TYPE": "MOVIE",
-      "TITLE": "Black Panther",
-      "RELEASE_DATE": "2018-02-16T05:00:00.000Z"
-    },
-    {
-      "TYPE": "OTHER",
-      "TITLE": "Come To Wakanda - After",
-      "RELEASE_DATE": "2018-06-16T04:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
       "TITLE": "Agents of S.H.I.E.L.D. Season 3 Episode 21: Absolution",
       "RELEASE_DATE": "2016-05-17T04:00:00.000Z"
     },
@@ -1214,6 +1129,11 @@
       "TYPE": "ABC",
       "TITLE": "Agents of S.H.I.E.L.D. Season 3 Episode 22: Ascension",
       "RELEASE_DATE": "2016-05-17T04:00:00.000Z"
+    },
+    {
+      "TYPE": "MOVIE",
+      "TITLE": "Black Panther",
+      "RELEASE_DATE": "2018-02-16T05:00:00.000Z"
     },
     {
       "TYPE": "ABC",
@@ -1336,9 +1256,164 @@
       "RELEASE_DATE": "2017-11-17T05:00:00.000Z"
     },
     {
+      "TYPE": "OTHER",
+      "TITLE": "Come To Wakanda - After",
+      "RELEASE_DATE": "2018-06-16T04:00:00.000Z"
+    },
+    {
       "TYPE": "DISNEY+ (Netflix)",
       "TITLE": "The Punisher Season 1 Episode 13: Memento Mori",
       "RELEASE_DATE": "2017-11-17T05:00:00.000Z"
+    },
+    {
+      "TYPE": "MOVIE",
+      "TITLE": "Doctor Strange",
+      "RELEASE_DATE": "2016-11-04T04:00:00.000Z"
+    },
+    {
+      "TYPE": "FREEFORM",
+      "TITLE": "Cloak and Dagger Season 1 Episode 1: First Light",
+      "RELEASE_DATE": "2018-06-07T04:00:00.000Z"
+    },
+    {
+      "TYPE": "FREEFORM",
+      "TITLE": "Cloak and Dagger Season 1 Episode 2: Suicide Sprints",
+      "RELEASE_DATE": "2018-06-07T04:00:00.000Z"
+    },
+    {
+      "TYPE": "FREEFORM",
+      "TITLE": "Cloak and Dagger Season 1 Episode 3: Stained Glass",
+      "RELEASE_DATE": "2018-06-14T04:00:00.000Z"
+    },
+    {
+      "TYPE": "FREEFORM",
+      "TITLE": "Cloak and Dagger Season 1 Episode 4: Call/Response",
+      "RELEASE_DATE": "2018-06-21T04:00:00.000Z"
+    },
+    {
+      "TYPE": "FREEFORM",
+      "TITLE": "Cloak and Dagger Season 1 Episode 5: Princeton Offense",
+      "RELEASE_DATE": "2018-06-28T04:00:00.000Z"
+    },
+    {
+      "TYPE": "FREEFORM",
+      "TITLE": "Cloak and Dagger Season 1 Episode 6: Funhouse Mirrors",
+      "RELEASE_DATE": "2018-07-05T04:00:00.000Z"
+    },
+    {
+      "TYPE": "FREEFORM",
+      "TITLE": "Cloak and Dagger Season 1 Episode 7: Lotus Eaters",
+      "RELEASE_DATE": "2018-07-12T04:00:00.000Z"
+    },
+    {
+      "TYPE": "FREEFORM",
+      "TITLE": "Cloak and Dagger Season 1 Episode 8: Ghost Stories",
+      "RELEASE_DATE": "2018-07-19T04:00:00.000Z"
+    },
+    {
+      "TYPE": "FREEFORM",
+      "TITLE": "Cloak and Dagger Season 1 Episode 9: Back Breaker",
+      "RELEASE_DATE": "2018-07-26T04:00:00.000Z"
+    },
+    {
+      "TYPE": "FREEFORM",
+      "TITLE": "Cloak and Dagger Season 1 Episode 10: Colony Collapse",
+      "RELEASE_DATE": "2018-08-02T04:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 1: The Ghost",
+      "RELEASE_DATE": "2016-09-20T04:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 2: Meet the New Boss",
+      "RELEASE_DATE": "2016-09-27T04:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 3: Uprising",
+      "RELEASE_DATE": "2016-10-11T04:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 4: Let Me Stand Next to Your Fire",
+      "RELEASE_DATE": "2016-10-18T04:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 5: Lockup\t",
+      "RELEASE_DATE": "2016-10-25T04:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 6: The Good Samaritan",
+      "RELEASE_DATE": "2016-11-01T04:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 7: Deals With Our Devils",
+      "RELEASE_DATE": "2016-11-29T05:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 8: The Laws of Inferno Dynamics",
+      "RELEASE_DATE": "2016-12-06T05:00:00.000Z"
+    },
+    {
+      "TYPE": "WEB SERIES",
+      "TITLE": "Agents of S.H.I.E.L.D. Slingshot Episode 1: Vendetta",
+      "RELEASE_DATE": "2016-12-13T05:00:00.000Z"
+    },
+    {
+      "TYPE": "WEB SERIES",
+      "TITLE": "Agents of S.H.I.E.L.D. Slingshot Episode 2: John Hancock",
+      "RELEASE_DATE": "2016-12-13T05:00:00.000Z"
+    },
+    {
+      "TYPE": "WEB SERIES",
+      "TITLE": "Agents of S.H.I.E.L.D. Slingshot Episode 3: Progress",
+      "RELEASE_DATE": "2016-12-13T05:00:00.000Z"
+    },
+    {
+      "TYPE": "WEB SERIES",
+      "TITLE": "Agents of S.H.I.E.L.D. Slingshot Episode 4: Reunion",
+      "RELEASE_DATE": "2016-12-13T05:00:00.000Z"
+    },
+    {
+      "TYPE": "WEB SERIES",
+      "TITLE": "Agents of S.H.I.E.L.D. Slingshot Episode 5: Deal Breaker",
+      "RELEASE_DATE": "2016-12-13T05:00:00.000Z"
+    },
+    {
+      "TYPE": "WEB SERIES",
+      "TITLE": "Agents of S.H.I.E.L.D. Slingshot Episode 6: Justicia",
+      "RELEASE_DATE": "2016-12-13T05:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 9: Broken Promises",
+      "RELEASE_DATE": "2017-01-10T05:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 10: The Patriot",
+      "RELEASE_DATE": "2017-01-17T05:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 11: Wake Up",
+      "RELEASE_DATE": "2017-01-24T05:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 12: Hot Potato Soup",
+      "RELEASE_DATE": "2017-01-31T05:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 13: BOOM",
+      "RELEASE_DATE": "2017-02-07T05:00:00.000Z"
     },
     {
       "TYPE": "OTHER",
@@ -1349,6 +1424,16 @@
       "TYPE": "DISNEY+ (Netflix)",
       "TITLE": "Jessica Jones Season 2 Episode 1: AKA Start At The Beginning",
       "RELEASE_DATE": "2018-03-08T05:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 14: The Man Behind the Shield",
+      "RELEASE_DATE": "2017-02-14T05:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 15: Self Control",
+      "RELEASE_DATE": "2017-02-21T05:00:00.000Z"
     },
     {
       "TYPE": "DISNEY+ (Netflix)",
@@ -1371,6 +1456,46 @@
       "RELEASE_DATE": "2018-03-08T05:00:00.000Z"
     },
     {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 16: What If...",
+      "RELEASE_DATE": "2017-04-04T04:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 17: Identity and Change",
+      "RELEASE_DATE": "2017-04-11T04:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 18: No Regrets",
+      "RELEASE_DATE": "2017-04-18T04:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 19: All The Madame’s Men",
+      "RELEASE_DATE": "2017-04-25T04:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 20: Farewell, Cruel World!",
+      "RELEASE_DATE": "2017-05-02T04:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 21: The Return",
+      "RELEASE_DATE": "2017-05-09T04:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 22: World’s End",
+      "RELEASE_DATE": "2017-05-16T04:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 5 Episode 1: Orientation Part 1",
+      "RELEASE_DATE": "2017-12-01T05:00:00.000Z"
+    },
+    {
       "TYPE": "DISNEY+ (Netflix)",
       "TITLE": "Jessica Jones Season 2 Episode 6: AKA Facetime",
       "RELEASE_DATE": "2018-03-08T05:00:00.000Z"
@@ -1379,11 +1504,6 @@
       "TYPE": "DISNEY+ (Netflix)",
       "TITLE": "Jessica Jones Season 2 Episode 7: AKA I Want Your Cray Cray",
       "RELEASE_DATE": "2018-03-08T05:00:00.000Z"
-    },
-    {
-      "TYPE": "OTHER",
-      "TITLE": "I Want Your Cray Cray (Full Video)",
-      "RELEASE_DATE": "2018-03-29T04:00:00.000Z"
     },
     {
       "TYPE": "DISNEY+ (Netflix)",
@@ -1486,6 +1606,41 @@
       "RELEASE_DATE": "2018-06-11T04:00:00.000Z"
     },
     {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Iron Fist Season 2 Episode 1: The Fury Of Iron Fist",
+      "RELEASE_DATE": "2018-09-07T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Iron Fist Season 2 Episode 2: The City's Not For Burning",
+      "RELEASE_DATE": "2018-09-07T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Iron Fist Season 2 Episode 3: This Deadly Secret",
+      "RELEASE_DATE": "2018-09-07T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Iron Fist Season 2 Episode 4: Target: Iron Fist",
+      "RELEASE_DATE": "2018-09-07T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Iron Fist Season 2 Episode 5: Heart Of The Dragon",
+      "RELEASE_DATE": "2018-09-07T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Iron Fist Season 2 Episode 6: The Dragon Dies At Dawn",
+      "RELEASE_DATE": "2018-09-07T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Iron Fist Season 2 Episode 7: Morning Of The Mindstorm",
+      "RELEASE_DATE": "2018-09-07T04:00:00.000Z"
+    },
+    {
       "TYPE": "HULU",
       "TITLE": "Runaways Season 1 Episode 1: Reunion",
       "RELEASE_DATE": "2017-11-21T05:00:00.000Z"
@@ -1536,14 +1691,134 @@
       "RELEASE_DATE": "2018-01-09T05:00:00.000Z"
     },
     {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Daredevil Season 3 Episode 1: Resurrection",
+      "RELEASE_DATE": "2018-10-19T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Daredevil Season 3 Episode 2: Please",
+      "RELEASE_DATE": "2018-10-19T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Daredevil Season 3 Episode 3: No Good Deed",
+      "RELEASE_DATE": "2018-10-19T04:00:00.000Z"
+    },
+    {
       "TYPE": "HULU",
       "TITLE": "Runaways Season 2 Episode 1: Gimmie Shelter",
       "RELEASE_DATE": "2018-12-21T05:00:00.000Z"
     },
     {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Daredevil Season 3 Episode 4: Blindsided",
+      "RELEASE_DATE": "2018-10-19T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Iron Fist Season 2 Episode 8: Citadel On The Edge Of Vengeance",
+      "RELEASE_DATE": "2018-09-07T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Iron Fist Season 2 Episode 9: War Without End",
+      "RELEASE_DATE": "2018-09-07T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Daredevil Season 3 Episode 5: The Perfect Game",
+      "RELEASE_DATE": "2018-10-19T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Iron Fist Season 2 Episode 10: A Duel Of Iron",
+      "RELEASE_DATE": "2018-09-07T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Daredevil Season 3 Episode 6: The Devil You Know",
+      "RELEASE_DATE": "2018-10-19T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Daredevil Season 3 Episode 7: Aftermath",
+      "RELEASE_DATE": "2018-10-19T04:00:00.000Z"
+    },
+    {
+      "TYPE": "FREEFORM",
+      "TITLE": "Cloak and Dagger Season 2 Episode 1: Restless Energy",
+      "RELEASE_DATE": "2019-04-04T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Daredevil Season 3 Episode 8: Upstairs/Downstairs",
+      "RELEASE_DATE": "2018-10-19T04:00:00.000Z"
+    },
+    {
+      "TYPE": "FREEFORM",
+      "TITLE": "Cloak and Dagger Season 2 Episode 2: White Lines",
+      "RELEASE_DATE": "2019-04-04T04:00:00.000Z"
+    },
+    {
+      "TYPE": "FREEFORM",
+      "TITLE": "Cloak and Dagger Season 2 Episode 3: Shadow Selves",
+      "RELEASE_DATE": "2019-04-11T04:00:00.000Z"
+    },
+    {
+      "TYPE": "FREEFORM",
+      "TITLE": "Cloak and Dagger Season 2 Episode 4: Rabbit Hold",
+      "RELEASE_DATE": "2019-04-18T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Daredevil Season 3 Episode 9: Revelations",
+      "RELEASE_DATE": "2018-10-19T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Daredevil Season 3 Episode 10: Karen",
+      "RELEASE_DATE": "2018-10-19T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Daredevil Season 3 Episode 11: Reunion",
+      "RELEASE_DATE": "2018-10-19T04:00:00.000Z"
+    },
+    {
       "TYPE": "HULU",
       "TITLE": "Runaways Season 2 Episode 2: Radio On",
       "RELEASE_DATE": "2018-12-21T05:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Daredevil Season 3 Episode 12: One Last Shot",
+      "RELEASE_DATE": "2018-10-19T04:00:00.000Z"
+    },
+    {
+      "TYPE": "FREEFORM",
+      "TITLE": "Cloak and Dagger Season 2 Episode 5: Alignment Chart",
+      "RELEASE_DATE": "2019-04-25T04:00:00.000Z"
+    },
+    {
+      "TYPE": "FREEFORM",
+      "TITLE": "Cloak and Dagger Season 2 Episode 6: B Sides",
+      "RELEASE_DATE": "2019-05-02T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Daredevil Season 3 Episode 13: A New Napkin",
+      "RELEASE_DATE": "2018-10-19T04:00:00.000Z"
+    },
+    {
+      "TYPE": "FREEFORM",
+      "TITLE": "Cloak and Dagger Season 2 Episode 7: Vikingtown Sound",
+      "RELEASE_DATE": "2019-05-09T04:00:00.000Z"
+    },
+    {
+      "TYPE": "FREEFORM",
+      "TITLE": "Cloak and Dagger Season 2 Episode 8: Two Player",
+      "RELEASE_DATE": "2019-05-16T04:00:00.000Z"
     },
     {
       "TYPE": "HULU",
@@ -1554,6 +1829,16 @@
       "TYPE": "HULU",
       "TITLE": "Runaways Season 2 Episode 4: Old School",
       "RELEASE_DATE": "2018-12-21T05:00:00.000Z"
+    },
+    {
+      "TYPE": "FREEFORM",
+      "TITLE": "Cloak and Dagger Season 2 Episode 9: Blue Note",
+      "RELEASE_DATE": "2019-05-23T04:00:00.000Z"
+    },
+    {
+      "TYPE": "FREEFORM",
+      "TITLE": "Cloak and Dagger Season 2 Episode 10: Level Up",
+      "RELEASE_DATE": "2019-05-30T04:00:00.000Z"
     },
     {
       "TYPE": "HULU",
@@ -1601,416 +1886,6 @@
       "RELEASE_DATE": "2018-12-21T05:00:00.000Z"
     },
     {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Iron Fist Season 2 Episode 1: The Fury Of Iron Fist",
-      "RELEASE_DATE": "2018-09-07T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Iron Fist Season 2 Episode 2: The City's Not For Burning",
-      "RELEASE_DATE": "2018-09-07T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Iron Fist Season 2 Episode 3: This Deadly Secret",
-      "RELEASE_DATE": "2018-09-07T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Iron Fist Season 2 Episode 4: Target: Iron Fist",
-      "RELEASE_DATE": "2018-09-07T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Iron Fist Season 2 Episode 5: Heart Of The Dragon",
-      "RELEASE_DATE": "2018-09-07T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Iron Fist Season 2 Episode 6: The Dragon Dies At Dawn",
-      "RELEASE_DATE": "2018-09-07T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Iron Fist Season 2 Episode 7: Morning Of The Mindstorm",
-      "RELEASE_DATE": "2018-09-07T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Iron Fist Season 2 Episode 8: Citadel On The Edge Of Vengeance",
-      "RELEASE_DATE": "2018-09-07T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Iron Fist Season 2 Episode 9: War Without End",
-      "RELEASE_DATE": "2018-09-07T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Iron Fist Season 2 Episode 10: A Duel Of Iron",
-      "RELEASE_DATE": "2018-09-07T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Daredevil Season 3 Episode 1: Resurrection",
-      "RELEASE_DATE": "2018-10-19T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Daredevil Season 3 Episode 2: Please",
-      "RELEASE_DATE": "2018-10-19T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Daredevil Season 3 Episode 3: No Good Deed",
-      "RELEASE_DATE": "2018-10-19T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Daredevil Season 3 Episode 4: Blindsided",
-      "RELEASE_DATE": "2018-10-19T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Daredevil Season 3 Episode 5: The Perfect Game",
-      "RELEASE_DATE": "2018-10-19T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Daredevil Season 3 Episode 6: The Devil You Know",
-      "RELEASE_DATE": "2018-10-19T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Daredevil Season 3 Episode 7: Aftermath",
-      "RELEASE_DATE": "2018-10-19T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Daredevil Season 3 Episode 8: Upstairs/Downstairs",
-      "RELEASE_DATE": "2018-10-19T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Daredevil Season 3 Episode 9: Revelations",
-      "RELEASE_DATE": "2018-10-19T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Daredevil Season 3 Episode 10: Karen",
-      "RELEASE_DATE": "2018-10-19T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Daredevil Season 3 Episode 11: Reunion",
-      "RELEASE_DATE": "2018-10-19T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Daredevil Season 3 Episode 12: One Last Shot",
-      "RELEASE_DATE": "2018-10-19T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Daredevil Season 3 Episode 13: A New Napkin",
-      "RELEASE_DATE": "2018-10-19T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "The Punisher Season 2 Episode 1: Roadhouse Blues",
-      "RELEASE_DATE": "2019-01-18T05:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "The Punisher Season 2 Episode 2: Fight or Flight",
-      "RELEASE_DATE": "2019-01-18T05:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "The Punisher Season 2 Episode 3: Trouble the Water",
-      "RELEASE_DATE": "2019-01-18T05:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "The Punisher Season 2 Episode 4: Scar Tissue",
-      "RELEASE_DATE": "2019-01-18T05:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "The Punisher Season 2 Episode 5: One-Eyed Jacks",
-      "RELEASE_DATE": "2019-01-18T05:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "The Punisher Season 2 Episode 6: Nakazat",
-      "RELEASE_DATE": "2019-01-18T05:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "The Punisher Season 2 Episode 7: One Bad Day",
-      "RELEASE_DATE": "2019-01-18T05:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "The Punisher Season 2 Episode 8: My Brother's Keeper",
-      "RELEASE_DATE": "2019-01-18T05:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "The Punisher Season 2 Episode 9: Flustercluck",
-      "RELEASE_DATE": "2019-01-18T05:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "The Punisher Season 2 Episode 10: The Dark Hearts of Men",
-      "RELEASE_DATE": "2019-01-18T05:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "The Punisher Season 2 Episode 11: The Abyss",
-      "RELEASE_DATE": "2019-01-18T05:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "The Punisher Season 2 Episode 12: Collision Course",
-      "RELEASE_DATE": "2019-01-18T05:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "The Punisher Season 2 Episode 13: The Whirlwind",
-      "RELEASE_DATE": "2019-01-18T05:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Jessica Jones Season 3 Episode 1: AKA The Perfect Burger",
-      "RELEASE_DATE": "2019-06-14T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Jessica Jones Season 3 Episode 2: AKA You're Welcome",
-      "RELEASE_DATE": "2019-06-14T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Jessica Jones Season 3 Episode 3: AKA I Have No Spleen",
-      "RELEASE_DATE": "2019-06-14T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Jessica Jones Season 3 Episode 4: AKA Customer Service Is Standing By",
-      "RELEASE_DATE": "2019-06-14T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Jessica Jones Season 3 Episode 5: AKA I Wish",
-      "RELEASE_DATE": "2019-06-14T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Jessica Jones Season 3 Episode 6: AKA Sorry Face",
-      "RELEASE_DATE": "2019-06-14T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Jessica Jones Season 3 Episode 7: AKA The Double Half-Wappinger",
-      "RELEASE_DATE": "2019-06-14T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Jessica Jones Season 3 Episode 8: AKA Camera Friendly",
-      "RELEASE_DATE": "2019-06-14T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Jessica Jones Season 3 Episode 9: AKA I Did Something Today",
-      "RELEASE_DATE": "2019-06-14T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Jessica Jones Season 3 Episode 10: AKA Hero Pants",
-      "RELEASE_DATE": "2019-06-14T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Jessica Jones Season 3 Episode 11: AKA Hellcat",
-      "RELEASE_DATE": "2019-06-14T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Jessica Jones Season 3 Episode 12: AKA A Lotta Worms",
-      "RELEASE_DATE": "2019-06-14T04:00:00.000Z"
-    },
-    {
-      "TYPE": "DISNEY+ (Netflix)",
-      "TITLE": "Jessica Jones Season 3 Episode 13: AKA Everything",
-      "RELEASE_DATE": "2019-06-14T04:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 1: The Ghost",
-      "RELEASE_DATE": "2016-09-20T04:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 2: Meet the New Boss",
-      "RELEASE_DATE": "2016-09-27T04:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 3: Uprising",
-      "RELEASE_DATE": "2016-10-11T04:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 4: Let Me Stand Next to Your Fire",
-      "RELEASE_DATE": "2016-10-18T04:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 5: Lockup\t",
-      "RELEASE_DATE": "2016-10-25T04:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 6: The Good Samaritan",
-      "RELEASE_DATE": "2016-11-01T04:00:00.000Z"
-    },
-    {
-      "TYPE": "MOVIE",
-      "TITLE": "Doctor Strange",
-      "RELEASE_DATE": "2016-11-04T04:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 7: Deals With Our Devils",
-      "RELEASE_DATE": "2016-11-29T05:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 8: The Laws of Inferno Dynamics",
-      "RELEASE_DATE": "2016-12-06T05:00:00.000Z"
-    },
-    {
-      "TYPE": "WEB SERIES",
-      "TITLE": "Agents of S.H.I.E.L.D. Slingshot Episode 1: Vendetta",
-      "RELEASE_DATE": "2016-12-13T05:00:00.000Z"
-    },
-    {
-      "TYPE": "WEB SERIES",
-      "TITLE": "Agents of S.H.I.E.L.D. Slingshot Episode 2: John Hancock",
-      "RELEASE_DATE": "2016-12-13T05:00:00.000Z"
-    },
-    {
-      "TYPE": "WEB SERIES",
-      "TITLE": "Agents of S.H.I.E.L.D. Slingshot Episode 3: Progress",
-      "RELEASE_DATE": "2016-12-13T05:00:00.000Z"
-    },
-    {
-      "TYPE": "WEB SERIES",
-      "TITLE": "Agents of S.H.I.E.L.D. Slingshot Episode 4: Reunion",
-      "RELEASE_DATE": "2016-12-13T05:00:00.000Z"
-    },
-    {
-      "TYPE": "WEB SERIES",
-      "TITLE": "Agents of S.H.I.E.L.D. Slingshot Episode 5: Deal Breaker",
-      "RELEASE_DATE": "2016-12-13T05:00:00.000Z"
-    },
-    {
-      "TYPE": "WEB SERIES",
-      "TITLE": "Agents of S.H.I.E.L.D. Slingshot Episode 6: Justicia",
-      "RELEASE_DATE": "2016-12-13T05:00:00.000Z"
-    },
-    {
-      "TYPE": "MOVIE",
-      "TITLE": "Thor: Ragnarok",
-      "RELEASE_DATE": "2017-11-03T04:00:00.000Z"
-    },
-    {
-      "TYPE": "OTHER",
-      "TITLE": "Team Darryl",
-      "RELEASE_DATE": "2018-02-20T05:00:00.000Z"
-    },
-    {
-      "TYPE": "OTHER",
-      "TITLE": "Online Close-Up Magic University",
-      "RELEASE_DATE": "2018-09-25T04:00:00.000Z"
-    },
-    {
-      "TYPE": "MOVIE",
-      "TITLE": "Ant-Man and the Wasp",
-      "RELEASE_DATE": "2018-07-06T04:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 9: Broken Promises",
-      "RELEASE_DATE": "2017-01-10T05:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 10: The Patriot",
-      "RELEASE_DATE": "2017-01-17T05:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 11: Wake Up",
-      "RELEASE_DATE": "2017-01-24T05:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 12: Hot Potato Soup",
-      "RELEASE_DATE": "2017-01-31T05:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 13: BOOM",
-      "RELEASE_DATE": "2017-02-07T05:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 14: The Man Behind the Shield",
-      "RELEASE_DATE": "2017-02-14T05:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 15: Self Control",
-      "RELEASE_DATE": "2017-02-21T05:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 16: What If...",
-      "RELEASE_DATE": "2017-04-04T04:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 17: Identity and Change",
-      "RELEASE_DATE": "2017-04-11T04:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 18: No Regrets",
-      "RELEASE_DATE": "2017-04-18T04:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 19: All The Madame’s Men",
-      "RELEASE_DATE": "2017-04-25T04:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 20: Farewell, Cruel World!",
-      "RELEASE_DATE": "2017-05-02T04:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 21: The Return",
-      "RELEASE_DATE": "2017-05-09T04:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 4 Episode 22: World’s End",
-      "RELEASE_DATE": "2017-05-16T04:00:00.000Z"
-    },
-    {
       "TYPE": "HULU",
       "TITLE": "Runaways Season 3 Episode 1: Smoke and Mirrors",
       "RELEASE_DATE": "2019-12-13T05:00:00.000Z"
@@ -2029,36 +1904,6 @@
       "TYPE": "HULU",
       "TITLE": "Runaways Season 3 Episode 4: Rite of Thunder",
       "RELEASE_DATE": "2019-12-13T05:00:00.000Z"
-    },
-    {
-      "TYPE": "HULU",
-      "TITLE": "Runaways Season 3 Episode 5: Enter The Dreamland",
-      "RELEASE_DATE": "2019-12-13T05:00:00.000Z"
-    },
-    {
-      "TYPE": "HULU",
-      "TITLE": "Runaways Season 3 Episode 6: Merry Meet Again",
-      "RELEASE_DATE": "2019-12-13T05:00:00.000Z"
-    },
-    {
-      "TYPE": "HULU",
-      "TITLE": "Runaways Season 3 Episode 7: Left-Hand Path",
-      "RELEASE_DATE": "2019-12-13T05:00:00.000Z"
-    },
-    {
-      "TYPE": "HULU",
-      "TITLE": "Runaways Season 3 Episode 8: Devil's Torture Chamber",
-      "RELEASE_DATE": "2019-12-13T05:00:00.000Z"
-    },
-    {
-      "TYPE": "HULU",
-      "TITLE": "Runaways Season 3 Episode 9: The Broken Circle",
-      "RELEASE_DATE": "2019-12-13T05:00:00.000Z"
-    },
-    {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 5 Episode 1: Orientation Part 1",
-      "RELEASE_DATE": "2017-12-01T05:00:00.000Z"
     },
     {
       "TYPE": "ABC",
@@ -2106,6 +1951,16 @@
       "RELEASE_DATE": "2018-02-02T05:00:00.000Z"
     },
     {
+      "TYPE": "MOVIE",
+      "TITLE": "Thor: Ragnarok",
+      "RELEASE_DATE": "2017-11-03T04:00:00.000Z"
+    },
+    {
+      "TYPE": "OTHER",
+      "TITLE": "Team Darryl",
+      "RELEASE_DATE": "2018-02-20T05:00:00.000Z"
+    },
+    {
       "TYPE": "ABC",
       "TITLE": "Agents of S.H.I.E.L.D. Season 5 Episode 11: All the Comforts of Home",
       "RELEASE_DATE": "2018-03-02T05:00:00.000Z"
@@ -2121,9 +1976,139 @@
       "RELEASE_DATE": "2018-03-16T04:00:00.000Z"
     },
     {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "The Punisher Season 2 Episode 1: Roadhouse Blues",
+      "RELEASE_DATE": "2019-01-18T05:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Jessica Jones Season 3 Episode 1: AKA The Perfect Burger",
+      "RELEASE_DATE": "2019-06-14T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "The Punisher Season 2 Episode 2: Fight or Flight",
+      "RELEASE_DATE": "2019-01-18T05:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Jessica Jones Season 3 Episode 2: AKA You're Welcome",
+      "RELEASE_DATE": "2019-06-14T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "The Punisher Season 2 Episode 3: Trouble the Water",
+      "RELEASE_DATE": "2019-01-18T05:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Jessica Jones Season 3 Episode 3: AKA I Have No Spleen",
+      "RELEASE_DATE": "2019-06-14T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "The Punisher Season 2 Episode 4: Scar Tissue",
+      "RELEASE_DATE": "2019-01-18T05:00:00.000Z"
+    },
+    {
+      "TYPE": "MOVIE",
+      "TITLE": "Ant-Man and the Wasp",
+      "RELEASE_DATE": "2018-07-06T04:00:00.000Z"
+    },
+    {
+      "TYPE": "OTHER",
+      "TITLE": "Online Close-Up Magic University",
+      "RELEASE_DATE": "2018-09-25T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "The Punisher Season 2 Episode 5: One-Eyed Jacks",
+      "RELEASE_DATE": "2019-01-18T05:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Jessica Jones Season 3 Episode 4: AKA Customer Service Is Standing By",
+      "RELEASE_DATE": "2019-06-14T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "The Punisher Season 2 Episode 6: Nakazat",
+      "RELEASE_DATE": "2019-01-18T05:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Jessica Jones Season 3 Episode 5: AKA I Wish",
+      "RELEASE_DATE": "2019-06-14T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Jessica Jones Season 3 Episode 6: AKA Sorry Face",
+      "RELEASE_DATE": "2019-06-14T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "The Punisher Season 2 Episode 7: One Bad Day",
+      "RELEASE_DATE": "2019-01-18T05:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Jessica Jones Season 3 Episode 7: AKA The Double Half-Wappinger",
+      "RELEASE_DATE": "2019-06-14T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "The Punisher Season 2 Episode 8: My Brother's Keeper",
+      "RELEASE_DATE": "2019-01-18T05:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Jessica Jones Season 3 Episode 8: AKA Camera Friendly",
+      "RELEASE_DATE": "2019-06-14T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "The Punisher Season 2 Episode 9: Flustercluck",
+      "RELEASE_DATE": "2019-01-18T05:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Jessica Jones Season 3 Episode 9: AKA I Did Something Today",
+      "RELEASE_DATE": "2019-06-14T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "The Punisher Season 2 Episode 10: The Dark Hearts of Men",
+      "RELEASE_DATE": "2019-01-18T05:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "The Punisher Season 2 Episode 11: The Abyss",
+      "RELEASE_DATE": "2019-01-18T05:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "The Punisher Season 2 Episode 12: Collision Course",
+      "RELEASE_DATE": "2019-01-18T05:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Jessica Jones Season 3 Episode 10: AKA Hero Pants",
+      "RELEASE_DATE": "2019-06-14T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "The Punisher Season 2 Episode 13: The Whirlwind",
+      "RELEASE_DATE": "2019-01-18T05:00:00.000Z"
+    },
+    {
       "TYPE": "ABC",
       "TITLE": "Agents of S.H.I.E.L.D. Season 5 Episode 14: The Devil Complex",
       "RELEASE_DATE": "2018-03-23T04:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Jessica Jones Season 3 Episode 11: AKA Hellcat",
+      "RELEASE_DATE": "2019-06-14T04:00:00.000Z"
     },
     {
       "TYPE": "ABC",
@@ -2146,6 +2131,46 @@
       "RELEASE_DATE": "2018-04-20T04:00:00.000Z"
     },
     {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Jessica Jones Season 3 Episode 12: AKA A Lotta Worms",
+      "RELEASE_DATE": "2019-06-14T04:00:00.000Z"
+    },
+    {
+      "TYPE": "HULU",
+      "TITLE": "Runaways Season 3 Episode 5: Enter The Dreamland",
+      "RELEASE_DATE": "2019-12-13T05:00:00.000Z"
+    },
+    {
+      "TYPE": "HULU",
+      "TITLE": "Runaways Season 3 Episode 6: Merry Meet Again",
+      "RELEASE_DATE": "2019-12-13T05:00:00.000Z"
+    },
+    {
+      "TYPE": "HULU",
+      "TITLE": "Runaways Season 3 Episode 7: Left-Hand Path",
+      "RELEASE_DATE": "2019-12-13T05:00:00.000Z"
+    },
+    {
+      "TYPE": "HULU",
+      "TITLE": "Runaways Season 3 Episode 8: Devil's Torture Chamber",
+      "RELEASE_DATE": "2019-12-13T05:00:00.000Z"
+    },
+    {
+      "TYPE": "HULU",
+      "TITLE": "Runaways Season 3 Episode 9: The Broken Circle",
+      "RELEASE_DATE": "2019-12-13T05:00:00.000Z"
+    },
+    {
+      "TYPE": "HULU",
+      "TITLE": "Runaways Season 3 Episode 10: Cheat The Gallows",
+      "RELEASE_DATE": "2019-12-13T05:00:00.000Z"
+    },
+    {
+      "TYPE": "DISNEY+ (Netflix)",
+      "TITLE": "Jessica Jones Season 3 Episode 13: AKA Everything",
+      "RELEASE_DATE": "2019-06-14T04:00:00.000Z"
+    },
+    {
       "TYPE": "ABC",
       "TITLE": "Agents of S.H.I.E.L.D. Season 5 Episode 19: Option Two",
       "RELEASE_DATE": "2018-04-27T04:00:00.000Z"
@@ -2161,11 +2186,6 @@
       "RELEASE_DATE": "2018-05-11T04:00:00.000Z"
     },
     {
-      "TYPE": "ABC",
-      "TITLE": "Agents of S.H.I.E.L.D. Season 5 Episode 22: The End",
-      "RELEASE_DATE": "2018-05-18T04:00:00.000Z"
-    },
-    {
       "TYPE": "OTHER",
       "TITLE": "The Mortgage Process Doesn’t Have to Be a Battle",
       "RELEASE_DATE": "2018-04-02T04:00:00.000Z"
@@ -2174,6 +2194,11 @@
       "TYPE": "MOVIE",
       "TITLE": "Avengers: Infinity War",
       "RELEASE_DATE": "2018-04-27T04:00:00.000Z"
+    },
+    {
+      "TYPE": "ABC",
+      "TITLE": "Agents of S.H.I.E.L.D. Season 5 Episode 22: The End",
+      "RELEASE_DATE": "2018-05-18T04:00:00.000Z"
     },
     {
       "TYPE": "ABC",
@@ -2312,8 +2337,53 @@
     },
     {
       "TYPE": "HULU",
-      "TITLE": "Runaways Season 3 Episode 10: Cheat The Gallows",
-      "RELEASE_DATE": "2019-12-13T05:00:00.000Z"
+      "TITLE": "Helstrom Season 1 Episode 1: Mother's Little Helpers",
+      "RELEASE_DATE": "2020-10-16T04:00:00.000Z"
+    },
+    {
+      "TYPE": "HULU",
+      "TITLE": "Helstrom Season 1 Episode 2: Viaticum",
+      "RELEASE_DATE": "2020-10-16T04:00:00.000Z"
+    },
+    {
+      "TYPE": "HULU",
+      "TITLE": "Helstrom Season 1 Episode 3: The One Who Got Away",
+      "RELEASE_DATE": "2020-10-16T04:00:00.000Z"
+    },
+    {
+      "TYPE": "HULU",
+      "TITLE": "Helstrom Season 1 Episode 4: Containment",
+      "RELEASE_DATE": "2020-10-16T04:00:00.000Z"
+    },
+    {
+      "TYPE": "HULU",
+      "TITLE": "Helstrom Season 1 Episode 5: Committed",
+      "RELEASE_DATE": "2020-10-16T04:00:00.000Z"
+    },
+    {
+      "TYPE": "HULU",
+      "TITLE": "Helstrom Season 1 Episode 6: Leviathan",
+      "RELEASE_DATE": "2020-10-16T04:00:00.000Z"
+    },
+    {
+      "TYPE": "HULU",
+      "TITLE": "Helstrom Season 1 Episode 7: Scars",
+      "RELEASE_DATE": "2020-10-16T04:00:00.000Z"
+    },
+    {
+      "TYPE": "HULU",
+      "TITLE": "Helstrom Season 1 Episode 8: Underneath",
+      "RELEASE_DATE": "2020-10-16T04:00:00.000Z"
+    },
+    {
+      "TYPE": "HULU",
+      "TITLE": "Helstrom Season 1 Episode 9: Vessels",
+      "RELEASE_DATE": "2020-10-16T04:00:00.000Z"
+    },
+    {
+      "TYPE": "HULU",
+      "TITLE": "Helstrom Season 1 Episode 10: Hell Storm",
+      "RELEASE_DATE": "2020-10-16T04:00:00.000Z"
     },
     {
       "TYPE": "OTHER",
@@ -2344,11 +2414,6 @@
       "TYPE": "OTHER",
       "TITLE": "Thor Is Fine Guys...",
       "RELEASE_DATE": "2019-06-13T04:00:00.000Z"
-    },
-    {
-      "TYPE": "MOVIE",
-      "TITLE": "Eternals",
-      "RELEASE_DATE": "2021-11-05T04:00:00.000Z"
     },
     {
       "TYPE": "OTHER",
@@ -2386,36 +2451,6 @@
       "RELEASE_DATE": "2021-07-14T04:00:00.000Z"
     },
     {
-      "TYPE": {},
-      "TITLE": "Loki Season 2 Episode 1: Ouroboros",
-      "RELEASE_DATE": "2023-10-05T04:00:00.000Z"
-    },
-    {
-      "TYPE": {},
-      "TITLE": "Loki Season 2 Episode 2: Breaking Brad",
-      "RELEASE_DATE": "2023-10-12T04:00:00.000Z"
-    },
-    {
-      "TYPE": {},
-      "TITLE": "Loki Season 2 Episode 3: 1893",
-      "RELEASE_DATE": "2023-10-19T04:00:00.000Z"
-    },
-    {
-      "TYPE": {},
-      "TITLE": "Loki Season 2 Episode 4: Heart of the TVA",
-      "RELEASE_DATE": "2023-10-26T04:00:00.000Z"
-    },
-    {
-      "TYPE": {},
-      "TITLE": "Loki Season 2 Episode 5: Science/Fiction",
-      "RELEASE_DATE": "2023-11-02T04:00:00.000Z"
-    },
-    {
-      "TYPE": {},
-      "TITLE": "Loki Season 2 Episode 6: Glorious Purpose",
-      "RELEASE_DATE": "2023-11-09T05:00:00.000Z"
-    },
-    {
       "TYPE": "DISNEY+",
       "TITLE": "What If...? Season 1 Episode 1: What If... Captain Carter Were The First Avenger?",
       "RELEASE_DATE": "2021-08-11T04:00:00.000Z"
@@ -2441,6 +2476,26 @@
       "RELEASE_DATE": "2021-09-08T04:00:00.000Z"
     },
     {
+      "TYPE": {},
+      "TITLE": "Marvel Zombies Season 1 Episode 1",
+      "RELEASE_DATE": "2025-09-24T04:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Marvel Zombies Season 1 Episode 2",
+      "RELEASE_DATE": "2025-09-24T04:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Marvel Zombies Season 1 Episode 3",
+      "RELEASE_DATE": "2025-09-24T04:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Marvel Zombies Season 1 Episode 4",
+      "RELEASE_DATE": "2025-09-24T04:00:00.000Z"
+    },
+    {
       "TYPE": "DISNEY+",
       "TITLE": "What If...? Season 1 Episode 6: What If... Killmonger Rescued Tony Stark?",
       "RELEASE_DATE": "2021-09-15T04:00:00.000Z"
@@ -2462,88 +2517,103 @@
     },
     {
       "TYPE": {},
-      "TITLE": "What If...? Season 2 Episode 1: What If... Nebula Joined the Nova Corps?",
-      "RELEASE_DATE": "2023-12-22T05:00:00.000Z"
+      "TITLE": "X-Men '97 Season 1 Episode 1: To Me, My X-Men",
+      "RELEASE_DATE": "2024-03-20T04:00:00.000Z"
     },
     {
       "TYPE": {},
-      "TITLE": "What If...? Season 2 Episode 2: What If... Peter Quill Attacked Earth's Mightiest Heroes?",
-      "RELEASE_DATE": "2023-12-23T05:00:00.000Z"
+      "TITLE": "X-Men '97 Season 1 Episode 2: Mutant Liberation Begins",
+      "RELEASE_DATE": "2024-03-20T04:00:00.000Z"
     },
     {
       "TYPE": {},
-      "TITLE": "What If...? Season 2 Episode 3: What If... Happy Hogan Saved Christmas?",
-      "RELEASE_DATE": "2023-12-24T05:00:00.000Z"
+      "TITLE": "X-Men '97 Season 1 Episode 3: Fire Made Flesh",
+      "RELEASE_DATE": "2024-03-27T04:00:00.000Z"
     },
     {
       "TYPE": {},
-      "TITLE": "What If...? Season 2 Episode 4: What If... lron Man Crashed into the Grandmaster?",
-      "RELEASE_DATE": "2023-12-25T05:00:00.000Z"
+      "TITLE": "X-Men '97 Season 1 Episode 4: Motendo/Lifedeath - Part 1",
+      "RELEASE_DATE": "2024-04-03T04:00:00.000Z"
     },
     {
       "TYPE": {},
-      "TITLE": "What If...? Season 2 Episode 5: What If... Captain Carter Fought the Hydra Stomper?",
-      "RELEASE_DATE": "2023-12-26T05:00:00.000Z"
+      "TITLE": "X-Men '97 Season 1 Episode 5: Remember It",
+      "RELEASE_DATE": "2024-04-10T04:00:00.000Z"
     },
     {
       "TYPE": {},
-      "TITLE": "What If...? Season 2 Episode 8: What If... Kahhori Reshaped the World?",
-      "RELEASE_DATE": "2023-12-27T05:00:00.000Z"
+      "TITLE": "X-Men '97 Season 1 Episode 6: Lifedeath - Part 2",
+      "RELEASE_DATE": "2024-04-17T04:00:00.000Z"
     },
     {
       "TYPE": {},
-      "TITLE": "What If...? Season 2 Episode 7: What If... Hela found the Ten Rings?",
-      "RELEASE_DATE": "2023-12-28T05:00:00.000Z"
+      "TITLE": "X-Men '97 Season 1 Episode 7: Bright Eyes",
+      "RELEASE_DATE": "2024-04-24T04:00:00.000Z"
     },
     {
       "TYPE": {},
-      "TITLE": "What If...? Season 2 Episode 6: What If... The Avengers Assembled in 1602?",
-      "RELEASE_DATE": "2023-12-29T05:00:00.000Z"
+      "TITLE": "X-Men '97 Season 1 Episode 8: Tolerance Is Extinction - Part 1",
+      "RELEASE_DATE": "2024-05-01T04:00:00.000Z"
     },
     {
       "TYPE": {},
-      "TITLE": "What If...? Season 2 Episode 9: What If... Strange Supreme Intervened?",
-      "RELEASE_DATE": "2023-12-30T05:00:00.000Z"
+      "TITLE": "X-Men '97 Season 1 Episode 9: Tolerance Is Extinction - Part 2",
+      "RELEASE_DATE": "2024-05-08T04:00:00.000Z"
     },
     {
       "TYPE": {},
-      "TITLE": "What If...? Season 3 Episode 1: The Hulk Fought The Mech Avengers",
-      "RELEASE_DATE": "2024-12-22T05:00:00.000Z"
+      "TITLE": "X-Men '97 Season 1 Episode 10: Tolerance Is Extinction - Part 3",
+      "RELEASE_DATE": "2024-05-15T04:00:00.000Z"
     },
     {
       "TYPE": {},
-      "TITLE": "What If...? Season 3 Episode 2: Agatha Went To Hollywood?",
-      "RELEASE_DATE": "2024-12-23T05:00:00.000Z"
+      "TITLE": "Your Friendly Neighborhood Spider-Man Season 1 Episode 1: Amazing Fantasy",
+      "RELEASE_DATE": "2025-01-29T05:00:00.000Z"
     },
     {
       "TYPE": {},
-      "TITLE": "What If...? Season 3 Episode 3: The Red Guardian Stopped The Winter Soldier?",
-      "RELEASE_DATE": "2024-12-24T05:00:00.000Z"
+      "TITLE": "Your Friendly Neighborhood Spider-Man Season 1 Episode 2: The Parker Luck",
+      "RELEASE_DATE": "2025-01-29T05:00:00.000Z"
     },
     {
       "TYPE": {},
-      "TITLE": "What If...? Season 3 Episode 4: Howard The Duck Got Hitched?",
-      "RELEASE_DATE": "2024-12-25T05:00:00.000Z"
+      "TITLE": "Your Friendly Neighborhood Spider-Man Season 1 Episode 3: Secret Identity Crisis",
+      "RELEASE_DATE": "2025-02-05T05:00:00.000Z"
     },
     {
       "TYPE": {},
-      "TITLE": "What If...? Season 3 Episode 5: The Emergence Destroyed Earth?",
-      "RELEASE_DATE": "2024-12-26T05:00:00.000Z"
+      "TITLE": "Your Friendly Neighborhood Spider-Man Season 1 Episode 4: Hitting the Big Time",
+      "RELEASE_DATE": "2025-02-05T05:00:00.000Z"
     },
     {
       "TYPE": {},
-      "TITLE": "What If...? Season 3 Episode 6: 1872?",
-      "RELEASE_DATE": "2024-12-27T05:00:00.000Z"
+      "TITLE": "Your Friendly Neighborhood Spider-Man Season 1 Episode 5: The Unicorn Unleashed!",
+      "RELEASE_DATE": "2025-02-05T05:00:00.000Z"
     },
     {
       "TYPE": {},
-      "TITLE": "What If...? Season 3 Episode 7: The Watcher Disappeared?",
-      "RELEASE_DATE": "2024-12-28T05:00:00.000Z"
+      "TITLE": "Your Friendly Neighborhood Spider-Man Season 1 Episode 6: Duel With the Devil",
+      "RELEASE_DATE": "2025-02-12T05:00:00.000Z"
     },
     {
       "TYPE": {},
-      "TITLE": "What If...? Season 3 Episode 8: What If?",
-      "RELEASE_DATE": "2024-12-29T05:00:00.000Z"
+      "TITLE": "Your Friendly Neighborhood Spider-Man Season 1 Episode 7: Scorpion Rising",
+      "RELEASE_DATE": "2025-02-12T05:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Your Friendly Neighborhood Spider-Man Season 1 Episode 8: Tangled Web",
+      "RELEASE_DATE": "2025-02-12T05:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Your Friendly Neighborhood Spider-Man Season 1 Episode 9: Hero or Menace",
+      "RELEASE_DATE": "2025-02-19T05:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Your Friendly Neighborhood Spider-Man Season 1 Episode 10: If This Be My Destiny...",
+      "RELEASE_DATE": "2025-02-19T05:00:00.000Z"
     },
     {
       "TYPE": {},
@@ -2637,6 +2707,11 @@
     },
     {
       "TYPE": {},
+      "TITLE": "Logan",
+      "RELEASE_DATE": "2017-03-03T05:00:00.000Z"
+    },
+    {
+      "TYPE": {},
       "TITLE": "Deadpool 2",
       "RELEASE_DATE": "2018-05-01T04:00:00.000Z"
     },
@@ -2701,6 +2776,11 @@
       "RELEASE_DATE": "2021-03-05T05:00:00.000Z"
     },
     {
+      "TYPE": {},
+      "TITLE": "Spider-Man: Into the Spider-Verse",
+      "RELEASE_DATE": "2018-12-14T05:00:00.000Z"
+    },
+    {
       "TYPE": "MOVIE",
       "TITLE": "Shang-Chi And The Legend Of The Ten Rings",
       "RELEASE_DATE": "2021-09-03T04:00:00.000Z"
@@ -2749,56 +2829,6 @@
       "TYPE": "OTHER",
       "TITLE": "Question Everything | The Falcon and The Winter Soldier",
       "RELEASE_DATE": "2021-06-15T04:00:00.000Z"
-    },
-    {
-      "TYPE": "HULU",
-      "TITLE": "Helstrom Season 1 Episode 1: Mother's Little Helpers",
-      "RELEASE_DATE": "2020-10-16T04:00:00.000Z"
-    },
-    {
-      "TYPE": "HULU",
-      "TITLE": "Helstrom Season 1 Episode 2: Viaticum",
-      "RELEASE_DATE": "2020-10-16T04:00:00.000Z"
-    },
-    {
-      "TYPE": "HULU",
-      "TITLE": "Helstrom Season 1 Episode 3: The One Who Got Away",
-      "RELEASE_DATE": "2020-10-16T04:00:00.000Z"
-    },
-    {
-      "TYPE": "HULU",
-      "TITLE": "Helstrom Season 1 Episode 4: Containment",
-      "RELEASE_DATE": "2020-10-16T04:00:00.000Z"
-    },
-    {
-      "TYPE": "HULU",
-      "TITLE": "Helstrom Season 1 Episode 5: Committed",
-      "RELEASE_DATE": "2020-10-16T04:00:00.000Z"
-    },
-    {
-      "TYPE": "HULU",
-      "TITLE": "Helstrom Season 1 Episode 6: Leviathan",
-      "RELEASE_DATE": "2020-10-16T04:00:00.000Z"
-    },
-    {
-      "TYPE": "HULU",
-      "TITLE": "Helstrom Season 1 Episode 7: Scars",
-      "RELEASE_DATE": "2020-10-16T04:00:00.000Z"
-    },
-    {
-      "TYPE": "HULU",
-      "TITLE": "Helstrom Season 1 Episode 8: Underneath",
-      "RELEASE_DATE": "2020-10-16T04:00:00.000Z"
-    },
-    {
-      "TYPE": "HULU",
-      "TITLE": "Helstrom Season 1 Episode 9: Vessels",
-      "RELEASE_DATE": "2020-10-16T04:00:00.000Z"
-    },
-    {
-      "TYPE": "HULU",
-      "TITLE": "Helstrom Season 1 Episode 10: Hell Storm",
-      "RELEASE_DATE": "2020-10-16T04:00:00.000Z"
     },
     {
       "TYPE": "SONY",
@@ -3011,6 +3041,21 @@
       "RELEASE_DATE": "2022-04-01T04:00:00.000Z"
     },
     {
+      "TYPE": {},
+      "TITLE": "Kraven The Hunter",
+      "RELEASE_DATE": "2024-12-13T05:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Spider-Man: Across The Spider-Verse",
+      "RELEASE_DATE": "2023-06-02T04:00:00.000Z"
+    },
+    {
+      "TYPE": "MOVIE",
+      "TITLE": "Eternals",
+      "RELEASE_DATE": "2021-11-05T04:00:00.000Z"
+    },
+    {
       "TYPE": "OTHER",
       "TITLE": "Cloak vs. Tuna Melt",
       "RELEASE_DATE": "2022-04-19T04:00:00.000Z"
@@ -3141,6 +3186,36 @@
       "RELEASE_DATE": "2022-09-15T04:00:00.000Z"
     },
     {
+      "TYPE": {},
+      "TITLE": "Ironheart Season 1 Episode 1: Take Me Home",
+      "RELEASE_DATE": "2025-06-24T04:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Ironheart Season 1 Episode 2: Will the Real Natalie Please Stand Up",
+      "RELEASE_DATE": "2025-06-24T04:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Ironheart Season 1 Episode 3: We in Danger, Girl",
+      "RELEASE_DATE": "2025-06-24T04:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Ironheart Season 1 Episode 4: Bad Magic",
+      "RELEASE_DATE": "2025-07-01T04:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Ironheart Season 1 Episode 5: Karma's a Glitch",
+      "RELEASE_DATE": "2025-07-01T04:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Ironheart Season 1 Episode 6: The Past is the Past",
+      "RELEASE_DATE": "2025-07-01T04:00:00.000Z"
+    },
+    {
       "TYPE": "DISNEY+",
       "TITLE": "She-Hulk: Attorney at Law Season 1 Episode 6: Just Jen",
       "RELEASE_DATE": "2022-09-22T04:00:00.000Z"
@@ -3232,6 +3307,66 @@
     },
     {
       "TYPE": "OTHER",
+      "TITLE": "The Slattery Method by Trevor Slattery",
+      "RELEASE_DATE": "2025-11-18T05:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Wonder Man Season 1 Episode 1: Matinee",
+      "RELEASE_DATE": "2026-01-27T05:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Wonder Man Season 1 Episode 2: Self-Tape",
+      "RELEASE_DATE": "2026-01-27T05:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Wonder Man Season 1 Episode 3: Pacoima",
+      "RELEASE_DATE": "2026-01-27T05:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Wonder Man Season 1 Episode 4: Doorman",
+      "RELEASE_DATE": "2026-01-27T05:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Wonder Man Season 1 Episode 5: Found Footage",
+      "RELEASE_DATE": "2026-01-27T05:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Wonder Man Season 1 Episode 6: Call Back",
+      "RELEASE_DATE": "2026-01-27T05:00:00.000Z"
+    },
+    {
+      "TYPE": "OTHER",
+      "TITLE": "Wonder Man's Trevor Slattery Loses it During Ben Mankiewicz Interview",
+      "RELEASE_DATE": "2025-12-10T05:00:00.000Z"
+    },
+    {
+      "TYPE": "OTHER",
+      "TITLE": "Wonder Man's Simon Williams and Trevor Slattery | Actors Unscripted",
+      "RELEASE_DATE": "2025-12-12T05:00:00.000Z"
+    },
+    {
+      "TYPE": "OTHER",
+      "TITLE": "An Inside Look at Wonder Man",
+      "RELEASE_DATE": "2025-12-17T05:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Wonder Man Season 1 Episode 7: Kathy Friedman",
+      "RELEASE_DATE": "2026-01-27T05:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Wonder Man Season 1 Episode 8: Yucca Valley",
+      "RELEASE_DATE": "2026-01-27T05:00:00.000Z"
+    },
+    {
+      "TYPE": "OTHER",
       "TITLE": "Shrinking and Drinking, Now You Can!",
       "RELEASE_DATE": "2023-02-12T05:00:00.000Z"
     },
@@ -3249,6 +3384,11 @@
       "TYPE": "MOVIE",
       "TITLE": "Guardians of the Galaxy Vol. 3",
       "RELEASE_DATE": "2023-05-05T04:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Daredevil: Born Again Season 1 Episode 1: Heaven's Half Hour",
+      "RELEASE_DATE": "2025-03-04T05:00:00.000Z"
     },
     {
       "TYPE": "DISNEY+",
@@ -3292,8 +3432,78 @@
     },
     {
       "TYPE": {},
-      "TITLE": "Logan",
-      "RELEASE_DATE": "2017-03-03T05:00:00.000Z"
+      "TITLE": "Loki Season 2 Episode 1: Ouroboros",
+      "RELEASE_DATE": "2023-10-05T04:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Loki Season 2 Episode 2: Breaking Brad",
+      "RELEASE_DATE": "2023-10-12T04:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Loki Season 2 Episode 3: 1893",
+      "RELEASE_DATE": "2023-10-19T04:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Loki Season 2 Episode 4: Heart of the TVA",
+      "RELEASE_DATE": "2023-10-26T04:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Loki Season 2 Episode 5: Science/Fiction",
+      "RELEASE_DATE": "2023-11-02T04:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Loki Season 2 Episode 6: Glorious Purpose",
+      "RELEASE_DATE": "2023-11-09T05:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "What If...? Season 2 Episode 1: What If... Nebula Joined the Nova Corps?",
+      "RELEASE_DATE": "2023-12-22T05:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "What If...? Season 2 Episode 2: What If... Peter Quill Attacked Earth's Mightiest Heroes?",
+      "RELEASE_DATE": "2023-12-23T05:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "What If...? Season 2 Episode 3: What If... Happy Hogan Saved Christmas?",
+      "RELEASE_DATE": "2023-12-24T05:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "What If...? Season 2 Episode 4: What If... lron Man Crashed into the Grandmaster?",
+      "RELEASE_DATE": "2023-12-25T05:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "What If...? Season 2 Episode 5: What If... Captain Carter Fought the Hydra Stomper?",
+      "RELEASE_DATE": "2023-12-26T05:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "What If...? Season 2 Episode 8: What If... Kahhori Reshaped the World?",
+      "RELEASE_DATE": "2023-12-27T05:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "What If...? Season 2 Episode 7: What If... Hela found the Ten Rings?",
+      "RELEASE_DATE": "2023-12-28T05:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "What If...? Season 2 Episode 6: What If... The Avengers Assembled in 1602?",
+      "RELEASE_DATE": "2023-12-29T05:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "What If...? Season 2 Episode 9: What If... Strange Supreme Intervened?",
+      "RELEASE_DATE": "2023-12-30T05:00:00.000Z"
     },
     {
       "TYPE": {},
@@ -3314,6 +3524,11 @@
       "TYPE": {},
       "TITLE": "Agatha All Along Season 1 Episode 3:  Through Many Miles / Of Tricks and Trials",
       "RELEASE_DATE": "2024-09-25T04:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Agatha All Along Season 1 Episode 4: If I Can't Reach You / Let My Song Teach You",
+      "RELEASE_DATE": "2024-10-02T04:00:00.000Z"
     },
     {
       "TYPE": {},
@@ -3339,6 +3554,101 @@
       "TYPE": {},
       "TITLE": "Agatha Season 1 Episode 9: Maiden Mother Crone",
       "RELEASE_DATE": "2024-10-30T04:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "What If...? Season 3 Episode 1: The Hulk Fought The Mech Avengers",
+      "RELEASE_DATE": "2024-12-22T05:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "What If...? Season 3 Episode 2: Agatha Went To Hollywood?",
+      "RELEASE_DATE": "2024-12-23T05:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "What If...? Season 3 Episode 3: The Red Guardian Stopped The Winter Soldier?",
+      "RELEASE_DATE": "2024-12-24T05:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "What If...? Season 3 Episode 4: Howard The Duck Got Hitched?",
+      "RELEASE_DATE": "2024-12-25T05:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "What If...? Season 3 Episode 5: The Emergence Destroyed Earth?",
+      "RELEASE_DATE": "2024-12-26T05:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "What If...? Season 3 Episode 6: 1872?",
+      "RELEASE_DATE": "2024-12-27T05:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "What If...? Season 3 Episode 7: The Watcher Disappeared?",
+      "RELEASE_DATE": "2024-12-28T05:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "What If...? Season 3 Episode 8: What If?",
+      "RELEASE_DATE": "2024-12-29T05:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Daredevil: Born Again Season 1 Episode 2: Optics",
+      "RELEASE_DATE": "2025-03-04T05:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Daredevil: Born Again Season 1 Episode 3: The Hollow of His Hand",
+      "RELEASE_DATE": "2025-03-11T04:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Daredevil: Born Again Season 1 Episode 4: Sic Semper Systema",
+      "RELEASE_DATE": "2025-03-18T04:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Daredevil: Born Again Season 1 Episode 5: With Interest",
+      "RELEASE_DATE": "2025-03-25T04:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Daredevil: Born Again Season 1 Episode 6: Excessive Force",
+      "RELEASE_DATE": "2025-03-25T04:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Daredevil: Born Again Season 1 Episode 7: Art for Art's Sake",
+      "RELEASE_DATE": "2025-04-01T04:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Daredevil: Born Again Season 1 Episode 8: Isle of Joy",
+      "RELEASE_DATE": "2025-04-08T04:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Daredevil: Born Again Season 1 Episode 9: Straight to Hell",
+      "RELEASE_DATE": "2025-04-15T04:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Captain America: Brave New World",
+      "RELEASE_DATE": "2025-02-14T05:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "Thunderbolts*",
+      "RELEASE_DATE": "2025-05-02T04:00:00.000Z"
+    },
+    {
+      "TYPE": {},
+      "TITLE": "The Fantastic Four: First Steps",
+      "RELEASE_DATE": "2025-07-25T04:00:00.000Z"
     }
   ]
 }

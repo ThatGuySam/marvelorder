@@ -12,6 +12,7 @@ watchLinks:
 ## TMDB Data
 ```json
 {
+    "adult": false,
     "backdrop_path": "/tyyUgKhC07R8uEUaGIdVhS12eZH.jpg",
     "id": 225938,
     "title": "Spider-Man: The Dragon's Challenge",
@@ -19,7 +20,6 @@ watchLinks:
     "overview": "Spider-Man goes to China to help an official accused of World War II treachery.  Two episodes of the TV series \"Spider Man\" edited together and released as a feature.",
     "poster_path": "/wBmtFmSikG5u08FdGLRsF0Py59V.jpg",
     "media_type": "movie",
-    "adult": false,
     "original_language": "en",
     "genre_ids": [
         28,
@@ -30,7 +30,7 @@ watchLinks:
     ],
     "release_date": "1981-05-09",
     "video": false,
-    "vote_average": 5.4,
+    "vote_average": 5.5,
     "slug": "spider-man-the-dragons-challenge",
     "tags": [
         "list-8204862"

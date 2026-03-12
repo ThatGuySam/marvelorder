@@ -17,7 +17,7 @@ mcuTimelineOrder: 70
 ```json
 {
     "adult": false,
-    "backdrop_path": "/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg",
+    "backdrop_path": "/vmBSlRZYKfNdaDZ7wGkrSNbmdMI.jpg",
     "genre_ids": [
         28,
         878,
@@ -27,11 +27,11 @@ mcuTimelineOrder: 70
     "original_language": "en",
     "original_title": "Guardians of the Galaxy",
     "overview": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
-    "poster_path": "/jPrJPZKJVhvyJ4DmUTrDgmFN0yG.jpg",
+    "poster_path": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
     "release_date": "2014-07-30",
     "title": "Guardians of the Galaxy",
     "video": false,
-    "vote_average": 7.9,
+    "vote_average": 7.905,
     "slug": "guardians-of-the-galaxy",
     "tags": [
         "movie",

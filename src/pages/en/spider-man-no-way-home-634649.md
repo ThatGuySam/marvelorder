@@ -12,13 +12,13 @@ logo_on_black: /.netlify/functions/tmdb-image/5RjyUm9HP2ZRwvqCqK9sDqlQHxa.webp
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B09NMFWBL2?tag=marvelorder-20&linkCode=osi&th=1&psc=1
-mcuTimelineOrder: 584
+mcuTimelineOrder: 568
 ---
 ## TMDB Data
 ```json
 {
     "adult": false,
-    "backdrop_path": "/zD5v1E4joAzFvmAEytt7fM3ivyT.jpg",
+    "backdrop_path": "/Bwh7Lol5k3hSqYOtqXWxbbJVMx.jpg",
     "genre_ids": [
         28,
         12,
@@ -28,11 +28,11 @@ mcuTimelineOrder: 584
     "original_language": "en",
     "original_title": "Spider-Man: No Way Home",
     "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
-    "poster_path": "/x8AOx0zIfpNKZ1eVW4fhmUiZNqU.jpg",
+    "poster_path": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
     "release_date": "2021-12-15",
     "title": "Spider-Man: No Way Home",
     "video": false,
-    "vote_average": 7.953,
+    "vote_average": 7.932,
     "slug": "spider-man-no-way-home",
     "tags": [
         "movie",

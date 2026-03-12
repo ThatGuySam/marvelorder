@@ -31,7 +31,7 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/qXOYUTJ5p5aINFGmyIWTGeZCNTc.jpg",
+    "backdrop_path": "/5LBajgZwqS9plL5MDtIfmlFatSz.jpg",
     "genre_ids": [
         99
     ],
@@ -43,7 +43,7 @@ tags:
     "release_date": "2022-08-03",
     "title": "Marvel Studios Assembled: The Making of Ms. Marvel",
     "video": false,
-    "vote_average": 7,
+    "vote_average": 6.75,
     "slug": "marvel-studios-assembled-the-making-of-ms-marvel",
     "tags": [
         "movie",

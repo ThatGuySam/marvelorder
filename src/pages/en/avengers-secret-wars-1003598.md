@@ -14,16 +14,18 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/h0rLRgh21cQS2Mrou9fEcZQuaku.jpg",
+    "backdrop_path": "/rytc6Lf4447C0CDncwFa4gxe0vY.jpg",
     "genre_ids": [
-        878
+        878,
+        28,
+        12
     ],
     "id": 1003598,
     "original_language": "en",
     "original_title": "Avengers: Secret Wars",
-    "overview": "An upcoming film in Phase 6 of the Marvel Cinematic Universe (MCU) and the finale of The Multiverse Saga. Plot TBA.",
+    "overview": "An upcoming film in Phase Six of the Marvel Cinematic Universe (MCU) and the finale of The Multiverse Saga. Plot TBA.",
     "poster_path": "/f0YBuh4hyiAheXhh4JnJWoKi9g5.jpg",
-    "release_date": "2027-05-05",
+    "release_date": "2027-12-16",
     "title": "Avengers: Secret Wars",
     "video": false,
     "vote_average": 0,

@@ -30,10 +30,10 @@ mcuTimelineOrder: 82
     "original_language": "en",
     "original_name": "Marvel's Daredevil",
     "overview": "Lawyer-by-day Matt Murdock uses his heightened senses from being blinded as a young boy to fight crime at night on the streets of Hell’s Kitchen as Daredevil.",
-    "poster_path": "/mFg28Xslo8sMMRft7gxqVudCwkj.jpg",
+    "poster_path": "/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
     "first_air_date": "2015-04-10",
     "name": "Marvel's Daredevil",
-    "vote_average": 8.2,
+    "vote_average": 8.158,
     "title": "Marvel's Daredevil",
     "slug": "marvels-daredevil",
     "tags": [

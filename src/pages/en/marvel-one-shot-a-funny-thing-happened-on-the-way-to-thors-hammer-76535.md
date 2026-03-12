@@ -16,20 +16,23 @@ mcuTimelineOrder: 35
 ```json
 {
     "adult": false,
-    "backdrop_path": "/jh8rY4Py4oKWM2x1W9qqUC1LH2V.jpg",
+    "backdrop_path": "/yuIsNfHZTn3nkSsatzM0298wA67.jpg",
     "genre_ids": [
         878,
-        14
+        14,
+        12,
+        28,
+        35
     ],
     "id": 76535,
     "original_language": "en",
     "original_title": "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer",
     "overview": "Agent Coulson stops at a convenience store and deals with a coincidental robbery during his visit.",
-    "poster_path": "/njrOqsmFH4pxBrhcoslqLfw2OGk.jpg",
+    "poster_path": "/ugrdgmZlSuiavH0NFurhlUPIRD0.jpg",
     "release_date": "2011-10-25",
     "title": "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer",
     "video": false,
-    "vote_average": 6.8,
+    "vote_average": 6.815,
     "slug": "marvel-one-shot-a-funny-thing-happened-on-the-way-to-thors-hammer",
     "tags": [
         "movie",

@@ -18,7 +18,7 @@ mcuTimelineOrder: 46
 ```json
 {
     "adult": false,
-    "backdrop_path": "/qtr5i6hOm6oVzTYl3jOQAYP3oc7.jpg",
+    "backdrop_path": "/iWopHyAvuIDjGX10Yc3nn6UEebW.jpg",
     "genre_ids": [
         18,
         10765,
@@ -31,10 +31,10 @@ mcuTimelineOrder: 46
     "original_language": "en",
     "original_name": "Marvel's Agents of S.H.I.E.L.D.",
     "overview": "Agent Phil Coulson of S.H.I.E.L.D. (Strategic Homeland Intervention, Enforcement and Logistics Division) puts together a team of agents to investigate the new, the strange and the unknown around the globe, protecting the ordinary from the extraordinary.",
-    "poster_path": "/cXiETfFK1BTLest5fhTLfDLRdL6.jpg",
+    "poster_path": "/gHUCCMy1vvj58tzE3dZqeC9SXus.jpg",
     "first_air_date": "2013-09-24",
     "name": "Marvel's Agents of S.H.I.E.L.D.",
-    "vote_average": 7.482,
+    "vote_average": 7.5,
     "title": "Marvel's Agents of S.H.I.E.L.D.",
     "slug": "marvels-agents-of-shield",
     "tags": [

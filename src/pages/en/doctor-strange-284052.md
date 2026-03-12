@@ -17,21 +17,21 @@ mcuTimelineOrder: 375
 ```json
 {
     "adult": false,
-    "backdrop_path": "/kkoiH8ZWxJ9WSAjOadGtuHUQxbm.jpg",
+    "backdrop_path": "/3zvZ699gMW2RhWc0GisIukzq0Ls.jpg",
     "genre_ids": [
-        28,
+        14,
         12,
-        14
+        28
     ],
     "id": 284052,
     "original_language": "en",
     "original_title": "Doctor Strange",
     "overview": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
-    "poster_path": "/7WfK17BXE6szXlm4WOxfswgbdsL.jpg",
+    "poster_path": "/xf8PbyQcR5ucXErmZNzdKR0s8ya.jpg",
     "release_date": "2016-10-25",
     "title": "Doctor Strange",
     "video": false,
-    "vote_average": 7.42,
+    "vote_average": 7.418,
     "slug": "doctor-strange",
     "tags": [
         "movie",

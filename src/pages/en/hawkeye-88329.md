@@ -12,13 +12,13 @@ type: tv
 logo_on_black: /.netlify/functions/tmdb-image/lpBHu9ZXCcuzq1XGPZo02U3Ah9f.webp
 watchLinks:
   amazon: none
-mcuTimelineOrder: 604
+mcuTimelineOrder: 587
 ---
 ## TMDB Data
 ```json
 {
     "adult": false,
-    "backdrop_path": "/1R68vl3d5s86JsS2NPjl8UoMqIS.jpg",
+    "backdrop_path": "/e3tA49HkybsO90hpL1AZTHR5ZU.jpg",
     "genre_ids": [
         18,
         35,
@@ -34,7 +34,7 @@ mcuTimelineOrder: 604
     "poster_path": "/ct5pNE5dDHryHLDnxyZPYcqO1sz.jpg",
     "first_air_date": "2021-11-24",
     "name": "Hawkeye",
-    "vote_average": 7.856,
+    "vote_average": 7.8,
     "title": "Hawkeye",
     "slug": "hawkeye",
     "tags": [

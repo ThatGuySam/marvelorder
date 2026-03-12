@@ -19,7 +19,7 @@ mcuTimelineOrder: 233
 ```json
 {
     "adult": false,
-    "backdrop_path": "/wdwcOBMkt3zmPQuEMxB3FUtMio2.jpg",
+    "backdrop_path": "/dLWoJnYXhFeNouon4NmBLAr92rf.jpg",
     "genre_ids": [
         12,
         28,
@@ -33,7 +33,7 @@ mcuTimelineOrder: 233
     "release_date": "2016-04-27",
     "title": "Captain America: Civil War",
     "video": false,
-    "vote_average": 7.4,
+    "vote_average": 7.447,
     "slug": "captain-america-civil-war",
     "tags": [
         "movie",

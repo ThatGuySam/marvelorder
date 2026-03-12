@@ -21,7 +21,7 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/sPDIOvqyVzPo1Xu46BAB6aSGvSF.jpg",
+    "backdrop_path": "/rjDlta1hy3g4ksKVuUIfYcJtYf6.jpg",
     "genre_ids": [
         28,
         80
@@ -34,7 +34,7 @@ watchLinks:
     "release_date": "2008-12-05",
     "title": "Punisher: War Zone",
     "video": false,
-    "vote_average": 5.815,
+    "vote_average": 5.833,
     "slug": "punisher-war-zone",
     "tags": [
         "movie",

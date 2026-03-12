@@ -20,6 +20,7 @@ watchLinks:
 ## TMDB Data
 ```json
 {
+    "adult": false,
     "backdrop_path": "/l2vddRxLkQGLRXR8OLdC0M3oKQ6.jpg",
     "id": 197467,
     "title": "Captain America",
@@ -27,7 +28,6 @@ watchLinks:
     "overview": "Artist Steve Rogers is nearly murdered by spies, seeking his late father's national secrets. He is saved during surgery via a secret formula; this serum not only heals him but also gives him fantastic strength and lightning reflexes.  To help solve the mystery behind his father’s murder and bring those guilty to justice, a government agency equips him with a special motorcycle loaded with gadgets and an indestructible shield. Now armed, he battles against the nation's enemies as the Sentinel of Liberty, Captain America.",
     "poster_path": "/gNGq4u0cymxZqGADZrx7AWrSB5m.jpg",
     "media_type": "movie",
-    "adult": false,
     "original_language": "en",
     "genre_ids": [
         28,
@@ -37,7 +37,7 @@ watchLinks:
     ],
     "release_date": "1979-01-19",
     "video": false,
-    "vote_average": 4.1,
+    "vote_average": 3.97,
     "slug": "captain-america",
     "tags": [
         "list-8204862"

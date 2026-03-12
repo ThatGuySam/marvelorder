@@ -15,20 +15,21 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/rw9fSaQ4jkm4tDwn5qIXWBRmNEs.jpg",
+    "backdrop_path": "/8eifdha9GQeZAkexgtD45546XKx.jpg",
     "genre_ids": [
         28,
+        53,
         878
     ],
     "id": 822119,
     "original_language": "en",
     "original_title": "Captain America: Brave New World",
     "overview": "After meeting with newly elected U.S. President Thaddeus Ross, Sam finds himself in the middle of an international incident. He must discover the reason behind a nefarious global plot before the true mastermind has the entire world seeing red.",
-    "poster_path": "/z0ujnXounP4yq637zyLBiZThF7Y.jpg",
+    "poster_path": "/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
     "release_date": "2025-02-12",
     "title": "Captain America: Brave New World",
     "video": false,
-    "vote_average": 0,
+    "vote_average": 5.983,
     "slug": "captain-america-brave-new-world",
     "tags": [
         "movie",

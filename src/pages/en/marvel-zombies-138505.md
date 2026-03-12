@@ -12,10 +12,11 @@ logo_on_black: /.netlify/functions/tmdb-image/vK2ZJlnurjxajVXGxy6KMeHJuW8.webp
 ```json
 {
     "adult": false,
-    "backdrop_path": "/ou1bLjE6ecN1sKA64aCYMKQQPqR.jpg",
+    "backdrop_path": "/lxQMxqao3vs2ehxESrkQU6acU86.jpg",
     "genre_ids": [
+        10765,
         16,
-        10765
+        10759
     ],
     "id": 138505,
     "origin_country": [
@@ -23,11 +24,11 @@ logo_on_black: /.netlify/functions/tmdb-image/vK2ZJlnurjxajVXGxy6KMeHJuW8.webp
     ],
     "original_language": "en",
     "original_name": "Marvel Zombies",
-    "overview": "The Marvel Universe is reimagined as a new generation of heroes battle against an ever-spreading zombie scourge.",
-    "poster_path": "/jmGjVKBNxaQD2l0e4Jz5RbguRre.jpg",
-    "first_air_date": "2025-10-03",
+    "overview": "After the Avengers are overtaken by a zombie plague, a desperate group of survivors discover the key to bringing an end to the super-powered undead, racing across a dystopian landscape and risking life and limb to save their world.",
+    "poster_path": "/mwKj9ERGFXsWot0nXgQ5yMQf9I7.jpg",
+    "first_air_date": "2025-09-24",
     "name": "Marvel Zombies",
-    "vote_average": 0,
+    "vote_average": 7.208,
     "title": "Marvel Zombies",
     "slug": "marvel-zombies",
     "tags": [

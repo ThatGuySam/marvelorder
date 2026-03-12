@@ -21,13 +21,13 @@ overview: >-
 vote_average: 1
 tags:
   - has-thor
-mcuTimelineOrder: 643
+mcuTimelineOrder: 626
 ---
 ## TMDB Data
 ```json
 {
     "adult": false,
-    "backdrop_path": "/jsoz1HlxczSuTx0mDl2h0lxy36l.jpg",
+    "backdrop_path": "/1a79WqBS43V0i7Y5dUbiIGpFS2q.jpg",
     "genre_ids": [
         14,
         28,
@@ -41,7 +41,7 @@ mcuTimelineOrder: 643
     "release_date": "2022-07-06",
     "title": "Thor: Love and Thunder",
     "video": false,
-    "vote_average": 6.4,
+    "vote_average": 6.376,
     "slug": "thor-love-and-thunder",
     "tags": [
         "movie",

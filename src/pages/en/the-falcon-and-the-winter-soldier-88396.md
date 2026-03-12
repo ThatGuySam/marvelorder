@@ -19,7 +19,8 @@ watchLinks:
     "backdrop_path": "/aTjbqMONy77fHJrIYu14g1F0d5h.jpg",
     "genre_ids": [
         10759,
-        18
+        18,
+        10765
     ],
     "id": 88396,
     "origin_country": [
@@ -31,7 +32,7 @@ watchLinks:
     "poster_path": "/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
     "first_air_date": "2021-03-19",
     "name": "The Falcon and the Winter Soldier",
-    "vote_average": 7.64,
+    "vote_average": 7.604,
     "title": "The Falcon and the Winter Soldier",
     "slug": "the-falcon-and-the-winter-soldier",
     "tags": [

@@ -17,7 +17,7 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/wkjM3jCaZPUYNeibL9rNzgOIjkm.jpg",
+    "backdrop_path": "/ryhdEpjaJhvDVWzRQGOPxUYC0Cw.jpg",
     "genre_ids": [
         28,
         80,
@@ -31,7 +31,7 @@ watchLinks:
     "release_date": "2004-04-15",
     "title": "The Punisher",
     "video": false,
-    "vote_average": 6.349,
+    "vote_average": 6.4,
     "slug": "the-punisher",
     "tags": [
         "movie",

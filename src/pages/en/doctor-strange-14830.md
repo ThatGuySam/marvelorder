@@ -30,7 +30,7 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/vy3uI3PCQWVnoW7OrKzB65Ba02c.jpg",
+    "backdrop_path": "/mQ30ClWsTO8QBTkbwArIifkRlhZ.jpg",
     "genre_ids": [
         28,
         16,
@@ -45,7 +45,7 @@ tags:
     "release_date": "2007-08-14",
     "title": "Doctor Strange",
     "video": false,
-    "vote_average": 6.759,
+    "vote_average": 6.776,
     "slug": "doctor-strange",
     "tags": [
         "movie",

@@ -15,14 +15,14 @@ watchLinks:
 ## TMDB Data
 ```json
 {
+    "adult": false,
     "backdrop_path": "/hKVwvPUwMXcVqTJXOkPXUTQ7GMU.jpg",
     "id": 106355,
     "title": "Captain America",
     "original_title": "Captain America",
     "overview": "Superhero Captain America battles the evil forces of the archvillain called The Scarab, who poisons his enemies and steals a secret device capable of destroying buildings by sound vibrations.",
-    "poster_path": "/b15xz96lSiH1JC7uYKofXJz0HTD.jpg",
+    "poster_path": "/nBRcChS66NohR3x6KVYMp6Obutt.jpg",
     "media_type": "movie",
-    "adult": false,
     "original_language": "en",
     "genre_ids": [
         28,
@@ -31,7 +31,7 @@ watchLinks:
     ],
     "release_date": "1944-02-05",
     "video": false,
-    "vote_average": 5.5,
+    "vote_average": 5.309,
     "slug": "captain-america",
     "tags": [
         "list-8204862"

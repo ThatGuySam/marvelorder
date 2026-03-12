@@ -22,7 +22,7 @@ mcuTimelineOrder: 239
 ```json
 {
     "adult": false,
-    "backdrop_path": "/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
+    "backdrop_path": "/19Ed4XgjahPm4U8JT7SnntERIlt.jpg",
     "genre_ids": [
         28,
         12,
@@ -36,7 +36,7 @@ mcuTimelineOrder: 239
     "release_date": "2018-02-13",
     "title": "Black Panther",
     "video": false,
-    "vote_average": 7.4,
+    "vote_average": 7.362,
     "slug": "black-panther",
     "tags": [
         "movie",

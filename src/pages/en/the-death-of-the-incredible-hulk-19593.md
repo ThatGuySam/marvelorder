@@ -15,14 +15,14 @@ watchLinks:
 ## TMDB Data
 ```json
 {
-    "backdrop_path": "/vNz1LTGnXY9YPqdTEnK7FbRYD7w.jpg",
+    "adult": false,
+    "backdrop_path": "/ytU25LDO2Mv1B6XWWf8FgAYfJmV.jpg",
     "id": 19593,
     "title": "The Death of the Incredible Hulk",
     "original_title": "The Death of the Incredible Hulk",
-    "overview": "During the critical experiment that would rid David Banner of the Hulk,a spy sabotages the laboratory. Banner falls in love with the spy, Jasmin, who performs missions only because her sister is being held hostage by Jasmin's superiors. Banner and Jasmin try to escape from the enemy agents to rebuild their lives together, but the Hulk is never far from them.",
+    "overview": "In his final attempt to free himself from the curse of the Hulk, Dr. David Banner becomes involved in a dangerous international espionage mission that may finally lead to a cure. As forces close in and the stakes rise, Banner faces an ultimate sacrifice, bringing his tragic journey to a definitive and emotional conclusion.",
     "poster_path": "/6q6CviMLR97ssODmKhxgyxQuoYp.jpg",
     "media_type": "movie",
-    "adult": false,
     "original_language": "en",
     "genre_ids": [
         28,

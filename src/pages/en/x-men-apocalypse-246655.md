@@ -15,7 +15,7 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/2ex2beZ4ssMeOduLD0ILzXKCiep.jpg",
+    "backdrop_path": "/sTQNRqLbfCXolrb5CizAW1dj528.jpg",
     "genre_ids": [
         28,
         12,
@@ -30,7 +30,7 @@ watchLinks:
     "release_date": "2016-05-18",
     "title": "X-Men: Apocalypse",
     "video": false,
-    "vote_average": 6.515,
+    "vote_average": 6.52,
     "slug": "x-men-apocalypse",
     "tags": [
         "movie",

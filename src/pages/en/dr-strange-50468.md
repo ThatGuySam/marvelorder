@@ -15,6 +15,7 @@ poster_path: /5B4z5Ch5Dek8hQJ7UlIVZgWLntV.jpg
 ## TMDB Data
 ```json
 {
+    "adult": false,
     "backdrop_path": "/6iEel19duDJBH2DMCnywJ19LW8X.jpg",
     "id": 50468,
     "title": "Dr. Strange",
@@ -22,7 +23,6 @@ poster_path: /5B4z5Ch5Dek8hQJ7UlIVZgWLntV.jpg
     "overview": "A psychiatrist becomes the new Sorcerer Supreme of the Earth in order to battle an evil Sorceress from the past.",
     "poster_path": "/hEyHVgBE28Jl13h2Qpbr3LH77sP.jpg",
     "media_type": "movie",
-    "adult": false,
     "original_language": "en",
     "genre_ids": [
         10770,
@@ -33,7 +33,7 @@ poster_path: /5B4z5Ch5Dek8hQJ7UlIVZgWLntV.jpg
     ],
     "release_date": "1978-09-06",
     "video": false,
-    "vote_average": 5.91,
+    "vote_average": 6,
     "slug": "dr-strange",
     "tags": [
         "list-8204862"

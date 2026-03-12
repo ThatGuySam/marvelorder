@@ -47,10 +47,10 @@ watchLinks:
     "original_language": "en",
     "original_name": "Iron Man: Armored Adventures",
     "overview": "As Iron Man, teenage child prodigy Tony Stark uses his technological inventions to fight various similarly technologically advanced threats. His friends, James \"Rhodey\" Rhodes and Pepper Potts, help him on his courageous and dangerous adventures.",
-    "poster_path": "/lV9a5hVTrnTWkbYv1nq6fICCYUy.jpg",
+    "poster_path": "/kIJGgBwh37V2nfgnJFaN7zDIjdv.jpg",
     "first_air_date": "2009-04-24",
     "name": "Iron Man: Armored Adventures",
-    "vote_average": 7.2,
+    "vote_average": 7.3,
     "title": "Iron Man: Armored Adventures",
     "slug": "iron-man-armored-adventures",
     "tags": [

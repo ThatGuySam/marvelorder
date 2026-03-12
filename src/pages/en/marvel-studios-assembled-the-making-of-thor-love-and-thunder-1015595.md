@@ -33,7 +33,7 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/dXQ1DniisiNMTCNdJUcI4NA04PL.jpg",
+    "backdrop_path": "/3UBlm2N094EFPWuBn3v2EGtHr95.jpg",
     "genre_ids": [
         99
     ],
@@ -45,7 +45,7 @@ tags:
     "release_date": "2022-09-08",
     "title": "Marvel Studios Assembled: The Making of Thor: Love and Thunder",
     "video": false,
-    "vote_average": 7,
+    "vote_average": 6.902,
     "slug": "marvel-studios-assembled-the-making-of-thor-love-and-thunder",
     "tags": [
         "movie",

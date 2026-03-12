@@ -22,7 +22,7 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/6YwkGolwdOMNpbTOmLjoehlVWs5.jpg",
+    "backdrop_path": "/xnqust9Li4oxfhXD5kcPi3UC8i4.jpg",
     "genre_ids": [
         28,
         12,
@@ -36,7 +36,7 @@ tags:
     "release_date": "2015-04-22",
     "title": "Avengers: Age of Ultron",
     "video": false,
-    "vote_average": 7.3,
+    "vote_average": 7.27,
     "slug": "avengers-age-of-ultron",
     "tags": [
         "movie",

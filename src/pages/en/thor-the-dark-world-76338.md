@@ -21,7 +21,7 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/uhYoytlNaq46dG81wLmHqaSuzWu.jpg",
+    "backdrop_path": "/4zTsF0RtO0av3YX1NaKDqGKPxYF.jpg",
     "genre_ids": [
         28,
         12,
@@ -31,11 +31,11 @@ tags:
     "original_language": "en",
     "original_title": "Thor: The Dark World",
     "overview": "Thor fights to restore order across the cosmos… but an ancient race led by the vengeful Malekith returns to plunge the universe back into darkness. Faced with an enemy that even Odin and Asgard cannot withstand, Thor must embark on his most perilous and personal journey yet, one that will reunite him with Jane Foster and force him to sacrifice everything to save us all.",
-    "poster_path": "/wD6g4EcmR6R3VNbuBmNOVq2qWrM.jpg",
+    "poster_path": "/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg",
     "release_date": "2013-10-30",
     "title": "Thor: The Dark World",
     "video": false,
-    "vote_average": 6.521,
+    "vote_average": 6.51,
     "slug": "thor-the-dark-world",
     "tags": [
         "movie",

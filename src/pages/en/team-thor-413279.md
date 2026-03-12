@@ -14,7 +14,7 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/cU0NFIVj11wo2ERNsb6pBeefqgV.jpg",
+    "backdrop_path": "/rmsj3O1e1fFmIKIuFjkN572s7xQ.jpg",
     "genre_ids": [
         35,
         878
@@ -27,7 +27,7 @@ tags:
     "release_date": "2016-08-28",
     "title": "Team Thor",
     "video": false,
-    "vote_average": 7.3,
+    "vote_average": 7.224,
     "slug": "team-thor",
     "tags": [
         "movie",

@@ -17,7 +17,7 @@ release_date: '2008-05-02'
 ```json
 {
     "adult": false,
-    "backdrop_path": "/cdsjxSR55VS80IiJfrQ9i9pWqrp.jpg",
+    "backdrop_path": "/cKvDv2LpwVEqbdXWoQl4XgGN6le.jpg",
     "genre_ids": [
         28,
         878,
@@ -31,7 +31,7 @@ release_date: '2008-05-02'
     "release_date": "2008-04-30",
     "title": "Iron Man",
     "video": false,
-    "vote_average": 7.647,
+    "vote_average": 7.656,
     "slug": "iron-man",
     "tags": [
         "movie",

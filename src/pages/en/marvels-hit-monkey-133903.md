@@ -28,10 +28,10 @@ watchLinks:
     "original_language": "en",
     "original_name": "Marvel's Hit-Monkey",
     "overview": "After a high-profile political assassination goes sideways, an injured hitman hides out amongst a tribe of snow monkeys in the mountains of Japan.",
-    "poster_path": "/c63jLejCDACyChWNvw8ufSOf25q.jpg",
+    "poster_path": "/1aK7hApRSDUv8xxDQXyQil7qBjN.jpg",
     "first_air_date": "2021-11-17",
     "name": "Marvel's Hit-Monkey",
-    "vote_average": 7.811,
+    "vote_average": 7.736,
     "title": "Marvel's Hit-Monkey",
     "slug": "marvels-hit-monkey",
     "tags": [

@@ -20,7 +20,7 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/u7a6vE0VCrLRoFPwnkZtFZTnm1F.jpg",
+    "backdrop_path": "/63eAFgJtN6ZTyFFzlAOoZLhlYqc.jpg",
     "genre_ids": [
         28,
         27,
@@ -30,11 +30,11 @@ watchLinks:
     "original_language": "en",
     "original_title": "Blade: Trinity",
     "overview": "For years, Blade has fought against the vampires in the cover of the night. But now, after falling into the crosshairs of the FBI, he is forced out into the daylight, where he is driven to join forces with a clan of human vampire hunters he never knew existed—The Nightstalkers. Together with Abigail and Hannibal, two deftly trained Nightstalkers, Blade follows a trail of blood to the ancient creature that is also hunting him—the original vampire, Dracula.",
-    "poster_path": "/r6ycjrStmmAqiY1oDjAli9NArCa.jpg",
+    "poster_path": "/6f7iXvPOnf83MaLB1JmPzUor1rr.jpg",
     "release_date": "2004-12-08",
     "title": "Blade: Trinity",
     "video": false,
-    "vote_average": 5.862,
+    "vote_average": 5.9,
     "slug": "blade-trinity",
     "tags": [
         "movie",

@@ -15,7 +15,7 @@ mcuTimelineOrder: 206
 ```json
 {
     "adult": false,
-    "backdrop_path": "/xHCfWGlxwbtMeeOnTvxUCZRGnkk.jpg",
+    "backdrop_path": "/cuckn6IFp9OKu9H8AgD0iEANxhc.jpg",
     "genre_ids": [
         10759,
         18,
@@ -31,7 +31,7 @@ mcuTimelineOrder: 206
     "poster_path": "/4l6KD9HhtD6nCDEfg10Lp6C6zah.jpg",
     "first_air_date": "2017-03-17",
     "name": "Marvel's Iron Fist",
-    "vote_average": 6.527,
+    "vote_average": 6.5,
     "title": "Marvel's Iron Fist",
     "slug": "marvels-iron-fist",
     "tags": [

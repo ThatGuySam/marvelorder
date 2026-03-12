@@ -28,7 +28,7 @@ layout: ../../layouts/MainLayout.astro
     "poster_path": "/lrSxTzfVZMig68bbX85za2gpxGb.jpg",
     "first_air_date": "2023-01-18",
     "name": "Marvel Lucha Libre Edition: El origen de la máscara",
-    "vote_average": 5.8,
+    "vote_average": 6.2,
     "title": "Marvel Lucha Libre Edition: El origen de la máscara",
     "slug": "marvel-lucha-libre-edition-el-origen-de-la-mascara",
     "tags": [

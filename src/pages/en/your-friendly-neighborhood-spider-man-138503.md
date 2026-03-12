@@ -28,7 +28,7 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/lb3Qc0Qbw9MmdA9gj3znMLgy3Of.jpg",
+    "backdrop_path": "/kkT2B2gmynoh9kZMo1gromLNeqy.jpg",
     "genre_ids": [
         16,
         10759,
@@ -45,7 +45,7 @@ tags:
     "poster_path": "/kjcsNeqF52YUQ2rUBGLMHwLkxvR.jpg",
     "first_air_date": "2025-01-29",
     "name": "Your Friendly Neighborhood Spider-Man",
-    "vote_average": 0,
+    "vote_average": 7.753,
     "title": "Your Friendly Neighborhood Spider-Man",
     "slug": "your-friendly-neighborhood-spider-man",
     "tags": [

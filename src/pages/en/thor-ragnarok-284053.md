@@ -21,11 +21,12 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/6G2fLCVm9fiLyHvBrccq6GSe2ih.jpg",
+    "backdrop_path": "/wBzMnQ01R9w58W6ucltdYfOyP4j.jpg",
     "genre_ids": [
         28,
         12,
-        878
+        878,
+        35
     ],
     "id": 284053,
     "original_language": "en",
@@ -35,7 +36,7 @@ tags:
     "release_date": "2017-10-02",
     "title": "Thor: Ragnarok",
     "video": false,
-    "vote_average": 7.588,
+    "vote_average": 7.582,
     "slug": "thor-ragnarok",
     "tags": [
         "movie",

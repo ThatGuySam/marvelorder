@@ -6,13 +6,13 @@ layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: /.netlify/functions/tmdb-image/6N6Rr1Y5wsi2KbTP4hFAP3hnWQE.webp
 overview: The sequel to Black Panther (2018).
-mcuTimelineOrder: 616
+mcuTimelineOrder: 599
 ---
 ## TMDB Data
 ```json
 {
     "adult": false,
-    "backdrop_path": "/1GU0jS5ZG5MhfdDrpj8s9XxbgJJ.jpg",
+    "backdrop_path": "/opH1xkjH3I7U8UXFPKC6NYTCJXB.jpg",
     "genre_ids": [
         28,
         12,
@@ -26,7 +26,7 @@ mcuTimelineOrder: 616
     "release_date": "2022-11-09",
     "title": "Black Panther: Wakanda Forever",
     "video": false,
-    "vote_average": 7.085,
+    "vote_average": 7.01,
     "slug": "black-panther-wakanda-forever",
     "tags": [
         "movie",

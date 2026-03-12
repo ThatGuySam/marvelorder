@@ -27,11 +27,11 @@ type: movie
     "original_language": "en",
     "original_title": "Inhumans",
     "overview": "The Inhumans have always been one of Marvel’s most enduring oddities. A race of genetic freaks, they live secluded in their island kingdom of Attilan, preferring not to mix with the outside world. Even stranger, their genetic mutations are self-endowed; each Inhuman, as a coming-of-age ritual, endures exposure to the Terrigan Mists, a strange substance that imparts unearthly powers, some extraordinary, some monstrous. But now the kingdom of Attilan is under attack from without and within. Can the Royal Family, led by Black Bolt (who cannot speak for his voice carries the destructive power of an atom bomb) repel the foreign invaders who blast at their outer defense, as well as the internal threat of Black Bolt's brother, Maximus the Mad?",
-    "poster_path": "/1rl6zS7g2DPeMDEd78Ql6KLKDC9.jpg",
+    "poster_path": "/4GD1IY5rymYI4bmhoEf43fiXOH9.jpg",
     "release_date": "2013-04-23",
     "title": "Inhumans",
     "video": false,
-    "vote_average": 6.1,
+    "vote_average": 5.818,
     "slug": "inhumans",
     "tags": [
         "movie",

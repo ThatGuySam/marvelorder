@@ -30,7 +30,7 @@ watchLinks:
     ],
     "original_language": "en",
     "original_name": "Fantastic Four: World's Greatest Heroes",
-    "overview": "Mister Fantastic, the Invisible Woman, the Human Torch, and the Thing battle some of their greatest foes, including Doctor Doom, Ronan the Accuser, the Multiple Man, and Mole Man.",
+    "overview": "Mr. Fantastic, the Invisible Woman, the Human Torch, and the Thing battle some of their greatest foes, including Doctor Doom, Ronan the Accuser, the Multiple Man, and Mole Man.",
     "poster_path": "/zCtCW0JlbMpzfQDAX1bO1o1KLi.jpg",
     "first_air_date": "2006-09-02",
     "name": "Fantastic Four: World's Greatest Heroes",

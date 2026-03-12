@@ -14,9 +14,10 @@ Other titles
 ```json
 {
     "adult": false,
-    "backdrop_path": "/vqPfhEIRMVnlxFDs5cpzO9DQHQl.jpg",
+    "backdrop_path": "/los8S8iCRn5Q7irl0LNAp6C6Gmz.jpg",
     "genre_ids": [
-        35
+        35,
+        18
     ],
     "id": 198178,
     "origin_country": [
@@ -24,11 +25,11 @@ Other titles
     ],
     "original_language": "en",
     "original_name": "Wonder Man",
-    "overview": "Follows Simon Williams, also known in Marvel Comics as Wonder Man. Described as a Hollywood satire.",
-    "poster_path": "/8uQZNewJkIsa5Yx1cWFgqBOTkQD.jpg",
-    "first_air_date": "",
+    "overview": "Simon and Trevor, two actors at opposite ends of their careers, chase life-changing roles.",
+    "poster_path": "/6yy9nQlFt2l6UVWzrfhszFCaZ5C.jpg",
+    "first_air_date": "2026-01-27",
     "name": "Wonder Man",
-    "vote_average": 0,
+    "vote_average": 7.1,
     "title": "Wonder Man",
     "slug": "wonder-man",
     "tags": [

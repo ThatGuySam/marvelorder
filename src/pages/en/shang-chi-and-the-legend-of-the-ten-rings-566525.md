@@ -10,13 +10,13 @@ logo_on_black: /.netlify/functions/tmdb-image/ftsBQHsGJ6O7ELZ29Pd0RIK64vq.webp
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B09LNDBGW6?tag=marvelorder-20&linkCode=osi&th=1&psc=1
-mcuTimelineOrder: 540
+mcuTimelineOrder: 524
 ---
 ## TMDB Data
 ```json
 {
     "adult": false,
-    "backdrop_path": "/zxWAv1A34kdYslBi4ekMDtgIGUt.jpg",
+    "backdrop_path": "/fJbWgOb9pSQXihM9m10bRvl2dJ8.jpg",
     "genre_ids": [
         28,
         12,
@@ -30,7 +30,7 @@ mcuTimelineOrder: 540
     "release_date": "2021-09-01",
     "title": "Shang-Chi and the Legend of the Ten Rings",
     "video": false,
-    "vote_average": 7.536,
+    "vote_average": 7.496,
     "slug": "shang-chi-and-the-legend-of-the-ten-rings",
     "tags": [
         "movie",

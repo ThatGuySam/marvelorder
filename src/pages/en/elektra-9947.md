@@ -17,7 +17,7 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/rLMQvYhl6DU6QZVNcJTbs87gVPs.jpg",
+    "backdrop_path": "/2JMOTj6DFjNcg9KToctmfTV55EW.jpg",
     "genre_ids": [
         28,
         14,
@@ -27,11 +27,11 @@ watchLinks:
     "original_language": "en",
     "original_title": "Elektra",
     "overview": "Elektra the warrior survives a near-death experience, becomes an assassin-for-hire, and tries to protect her two latest targets, a single father and his young daughter, from a group of supernatural assassins.",
-    "poster_path": "/gC6s6NKHneSrOKyQZnUMb443RKU.jpg",
+    "poster_path": "/Z4dAOxjAHTUZO6DJ2WVAsxzwe3.jpg",
     "release_date": "2005-01-13",
     "title": "Elektra",
     "video": false,
-    "vote_average": 5.039,
+    "vote_average": 5.047,
     "slug": "elektra",
     "tags": [
         "movie",

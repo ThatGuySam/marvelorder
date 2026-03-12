@@ -10,9 +10,10 @@ layout: ../../layouts/MainLayout.astro
 adult: false
 backdrop_path: /7CvmnHAVxhDbYE7jPp0PbKunqqs.jpg
 genre_ids:
-  - 10762
   - 16
-  - 35
+  - 10762
+  - 10765
+  - 10759
 id: 127635
 origin_country:
   - US
@@ -26,7 +27,7 @@ overview: >-
 poster_path: /etO5jDS5WgR4Y1lTyXhQcilJ6u2.jpg
 first_air_date: '2021-08-06'
 name: Spidey and His Amazing Friends
-vote_average: 7.3
+vote_average: 7.1
 tags:
   - tv
   - company-7505
@@ -36,11 +37,12 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/vzeSGXStZVZpSZV5p9Hy39r8x3o.jpg",
+    "backdrop_path": "/7CvmnHAVxhDbYE7jPp0PbKunqqs.jpg",
     "genre_ids": [
-        10762,
         16,
-        35
+        10762,
+        10765,
+        10759
     ],
     "id": 127635,
     "origin_country": [
@@ -52,7 +54,7 @@ tags:
     "poster_path": "/etO5jDS5WgR4Y1lTyXhQcilJ6u2.jpg",
     "first_air_date": "2021-08-06",
     "name": "Spidey and His Amazing Friends",
-    "vote_average": 7.3,
+    "vote_average": 7.1,
     "title": "Spidey and His Amazing Friends",
     "slug": "spidey-and-his-amazing-friends",
     "tags": [

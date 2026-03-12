@@ -16,7 +16,7 @@ backdrop_path: /3WRvDj6od3V6PB90LXFthFLBJmL.jpg
 ```json
 {
     "adult": false,
-    "backdrop_path": "/6CPSftO0ZsMOS9JxhxEwsSQfLmt.jpg",
+    "backdrop_path": "/z0szinMWegbR2cH9zIxaBKy2C5b.jpg",
     "genre_ids": [
         16,
         10759,
@@ -30,7 +30,7 @@ backdrop_path: /3WRvDj6od3V6PB90LXFthFLBJmL.jpg
     "original_language": "en",
     "original_name": "Spider-Man Unlimited",
     "overview": "Spider-Man travels to Counter-Earth to rescue a Terran shuttle crew trapped there and discovers a tyrannical & warped version of his world.",
-    "poster_path": "/fvmC5QzQwkI5ZNJauE4xpF24PTB.jpg",
+    "poster_path": "/hNdf1WmFil9IV7rabBe6PnAmYnI.jpg",
     "first_air_date": "1999-10-02",
     "name": "Spider-Man Unlimited",
     "vote_average": 7.5,

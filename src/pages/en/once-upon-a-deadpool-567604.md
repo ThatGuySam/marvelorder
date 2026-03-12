@@ -16,11 +16,12 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/c6sk2bW0JCDXqi5crU9baPAIxDI.jpg",
+    "backdrop_path": "/5ZSwZPKgcTJJwhxjbOHeoBTVaKh.jpg",
     "genre_ids": [
         35,
         28,
-        12
+        12,
+        878
     ],
     "id": 567604,
     "original_language": "en",
@@ -30,7 +31,7 @@ watchLinks:
     "release_date": "2018-12-11",
     "title": "Once Upon a Deadpool",
     "video": false,
-    "vote_average": 7.1,
+    "vote_average": 7.096,
     "slug": "once-upon-a-deadpool",
     "tags": [
         "movie",

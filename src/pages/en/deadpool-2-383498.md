@@ -25,10 +25,10 @@ watchLinks:
     "original_title": "Deadpool 2",
     "overview": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
     "poster_path": "/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
-    "release_date": "2018-05-10",
+    "release_date": "2018-05-15",
     "title": "Deadpool 2",
     "video": false,
-    "vote_average": 7.491,
+    "vote_average": 7.489,
     "slug": "deadpool-2",
     "tags": [
         "movie",

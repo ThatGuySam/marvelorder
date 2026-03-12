@@ -14,7 +14,7 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/7D2PgX369YYePs4m44IQvROWM42.jpg",
+    "backdrop_path": "/bEAQfLTykGg232kJogBlxRYaRqU.jpg",
     "genre_ids": [
         28,
         878,
@@ -24,11 +24,11 @@ watchLinks:
     "original_language": "en",
     "original_title": "The Wolverine",
     "overview": "Wolverine faces his ultimate nemesis - and tests of his physical, emotional, and mortal limits - in a life-changing voyage to modern-day Japan.",
-    "poster_path": "/xNi8daRmN4XY8rXHd4rwLbJf1cU.jpg",
+    "poster_path": "/t2wVAcoRlKvEIVSbiYDb8d0QqqS.jpg",
     "release_date": "2013-07-21",
     "title": "The Wolverine",
     "video": false,
-    "vote_average": 6.416,
+    "vote_average": 6.43,
     "slug": "the-wolverine",
     "tags": [
         "movie",

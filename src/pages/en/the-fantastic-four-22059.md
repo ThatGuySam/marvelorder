@@ -16,14 +16,14 @@ watchLinks:
 ## TMDB Data
 ```json
 {
+    "adult": false,
     "backdrop_path": "/2uCDSV7t4qyKyENzS0mipE6CYbc.jpg",
     "id": 22059,
     "title": "The Fantastic Four",
     "original_title": "The Fantastic Four",
     "overview": "When dosed with cosmic rays, four intrepid astronauts are given incredible powers. They decide to form a superhero group called the Fantastic Four to fight their arch-enemy, Dr. Doom.",
-    "poster_path": "/5Pv3CqMKxoKo9052aWrvFAM7kfK.jpg",
+    "poster_path": "/avJpIDOjyfdoOLINYficKvW9dEa.jpg",
     "media_type": "movie",
-    "adult": false,
     "original_language": "en",
     "genre_ids": [
         28,
@@ -32,7 +32,7 @@ watchLinks:
     ],
     "release_date": "1994-05-31",
     "video": false,
-    "vote_average": 4.3,
+    "vote_average": 4.389,
     "slug": "the-fantastic-four",
     "tags": [
         "list-8204862"

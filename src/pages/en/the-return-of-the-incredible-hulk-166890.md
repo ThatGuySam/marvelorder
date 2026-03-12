@@ -14,14 +14,14 @@ watchLinks:
 ## TMDB Data
 ```json
 {
+    "adult": false,
     "backdrop_path": "/s91xFnu3HU9WOdnVGxQmi6zPXtr.jpg",
     "id": 166890,
     "title": "The Return of the Incredible Hulk",
     "original_title": "The Return of the Incredible Hulk",
-    "overview": "On the run and presumed dead by the authorities, David Banner, using the name 'Benton', continues in his efforts to find a cure. He accidentally finds himself in the middle of a plot to kill a young, crippled girl so her unscrupulous relatives can inherit the family fortune.",
-    "poster_path": "/latuod87Z6nSyyRwS9DqHAKD3wi.jpg",
+    "overview": "Continuing his solitary flight, David Banner arrives in a small town where he saves the life of a young heiress, the target of a deadly conspiracy orchestrated by her stepmother and a corrupt physician. While working undercover to protect the girl and dismantle the plot, Banner must struggle to contain the beast within, especially when the arrival of reporter Jack McGee threatens to expose his secret to the world.",
+    "poster_path": "/myEZ1ne2jvM09NRPm3PwUedPqiO.jpg",
     "media_type": "movie",
-    "adult": false,
     "original_language": "en",
     "genre_ids": [
         10770,
@@ -29,7 +29,7 @@ watchLinks:
         18,
         878
     ],
-    "release_date": "1977-11-27",
+    "release_date": "1977-11-28",
     "video": false,
     "vote_average": 5.8,
     "slug": "the-return-of-the-incredible-hulk",

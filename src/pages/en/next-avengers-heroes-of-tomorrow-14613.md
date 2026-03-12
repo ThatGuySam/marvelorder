@@ -31,7 +31,7 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/iYY8wiLHASWDxhGWTXfqr4XOAGG.jpg",
+    "backdrop_path": "/6V6rhHkqYvJGlxIQ9mvZuIoY6c9.jpg",
     "genre_ids": [
         16,
         10751,
@@ -43,11 +43,11 @@ tags:
     "original_language": "en",
     "original_title": "Next Avengers: Heroes of Tomorrow",
     "overview": "The children of the Avengers hone their powers and go head to head with the very enemy responsible for their parents' demise.",
-    "poster_path": "/4NL4vwuh6AlwgGoNNlhVp52DRfi.jpg",
+    "poster_path": "/1y4J9HZJoTIMdt77wCq80uXaQJ.jpg",
     "release_date": "2008-09-02",
     "title": "Next Avengers: Heroes of Tomorrow",
     "video": false,
-    "vote_average": 6.9,
+    "vote_average": 7.016,
     "slug": "next-avengers-heroes-of-tomorrow",
     "tags": [
         "movie",

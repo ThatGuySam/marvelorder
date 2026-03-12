@@ -17,14 +17,14 @@ tags:
 ## TMDB Data
 ```json
 {
+    "adult": false,
     "backdrop_path": "/bRlsLlie6DXLAnHBg8IwfOAN87z.jpg",
     "id": 26881,
     "title": "The Incredible Hulk Returns",
     "original_title": "The Incredible Hulk Returns",
-    "overview": "Dr. David Banner meets a former student, who has a magical hammer that summons Thor, a Norse god who is prevented from entering Valhalla. When the two superheroes stop feuding long enough to breathe, they are a team unmatched by any of their enemies.",
+    "overview": "Years after the end of the original series, David Banner continues his wandering search for a cure for the condition that turns him into the Hulk. He reunites with former colleague Don Blake, unaware of his mystical connection to Thor. When a criminal organization threatens their lives, Banner is forced to unleash the Hulk once again, marking the character’s return after the series finale.",
     "poster_path": "/dw7eBKL26HEkA89BKvNVsjx7gGL.jpg",
     "media_type": "movie",
-    "adult": false,
     "original_language": "en",
     "genre_ids": [
         28,

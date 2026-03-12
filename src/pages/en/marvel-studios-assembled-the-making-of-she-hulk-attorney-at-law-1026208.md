@@ -33,7 +33,7 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/mnJtSmQ52TF3vvtCAKH8EtQTaxt.jpg",
+    "backdrop_path": "/kjkKMfpF87C8qcRL3c6sNJ8J83y.jpg",
     "genre_ids": [
         99
     ],
@@ -45,7 +45,7 @@ tags:
     "release_date": "2022-11-03",
     "title": "Marvel Studios Assembled: The Making of She-Hulk: Attorney at Law",
     "video": false,
-    "vote_average": 6.9,
+    "vote_average": 6.691,
     "slug": "marvel-studios-assembled-the-making-of-she-hulk-attorney-at-law",
     "tags": [
         "movie",

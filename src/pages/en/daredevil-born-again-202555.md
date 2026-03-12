@@ -13,7 +13,7 @@ type: tv
 ```json
 {
     "adult": false,
-    "backdrop_path": "/wPsYkWdm1yhtz7qYgyPUktKFzhU.jpg",
+    "backdrop_path": "/v2cTiLNlviotwugnDKqY21xGmSv.jpg",
     "genre_ids": [
         18,
         80
@@ -25,10 +25,10 @@ type: tv
     "original_language": "en",
     "original_name": "Daredevil: Born Again",
     "overview": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
-    "poster_path": "/bSsjWM91kSZqW0BagqaoIeo8Jz7.jpg",
+    "poster_path": "/gjum4yfMeZOu3upPstJHBPgTLFD.jpg",
     "first_air_date": "2025-03-04",
     "name": "Daredevil: Born Again",
-    "vote_average": 0,
+    "vote_average": 7.948,
     "title": "Daredevil: Born Again",
     "slug": "daredevil-born-again",
     "tags": [

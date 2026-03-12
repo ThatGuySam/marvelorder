@@ -12,13 +12,13 @@ logo_on_black: >-
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B000O19EWK?tag=marvelorder-20&linkCode=osi&th=1&psc=1
-mcuTimelineOrder: 560
+mcuTimelineOrder: 544
 ---
 ## TMDB Data
 ```json
 {
     "adult": false,
-    "backdrop_path": "/qJzloL8O9YHhiWBrhlPfKAtZu2I.jpg",
+    "backdrop_path": "/zQ8AxTPiCiS5nnwXpwTBPBHSaa5.jpg",
     "genre_ids": [
         28,
         878
@@ -27,11 +27,11 @@ mcuTimelineOrder: 560
     "original_language": "en",
     "original_title": "Spider-Man",
     "overview": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
-    "poster_path": "/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg",
+    "poster_path": "/kjdJntyBeEvqm9w97QGBdxPptzj.jpg",
     "release_date": "2002-05-01",
     "title": "Spider-Man",
     "video": false,
-    "vote_average": 7.3,
+    "vote_average": 7.323,
     "slug": "spider-man",
     "tags": [
         "movie",

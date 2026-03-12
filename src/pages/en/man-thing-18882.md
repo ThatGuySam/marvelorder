@@ -17,12 +17,13 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/pE6vUmdiDCOgIw6hAZxnZSkIJQS.jpg",
+    "backdrop_path": "/qgoqb6IkNYA7NE6bgBhAnP2FEQ5.jpg",
     "genre_ids": [
         28,
         27,
         12,
-        878
+        878,
+        10749
     ],
     "id": 18882,
     "original_language": "en",
@@ -32,7 +33,7 @@ watchLinks:
     "release_date": "2005-04-21",
     "title": "Man-Thing",
     "video": false,
-    "vote_average": 4.3,
+    "vote_average": 4.312,
     "slug": "man-thing",
     "tags": [
         "movie",

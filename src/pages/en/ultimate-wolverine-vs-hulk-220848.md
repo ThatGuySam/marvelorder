@@ -18,7 +18,7 @@ type: movie
 ```json
 {
     "adult": false,
-    "backdrop_path": null,
+    "backdrop_path": "/nL5KeYa3QlWVERxE2CiJ42lFSEl.jpg",
     "genre_ids": [
         16
     ],
@@ -30,7 +30,7 @@ type: movie
     "release_date": "2013-09-09",
     "title": "Ultimate Wolverine vs. Hulk",
     "video": false,
-    "vote_average": 7.1,
+    "vote_average": 6.65,
     "slug": "ultimate-wolverine-vs-hulk",
     "tags": [
         "movie",

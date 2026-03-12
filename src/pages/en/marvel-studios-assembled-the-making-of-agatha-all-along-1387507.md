@@ -1,20 +1,24 @@
 ---
 title: 'Marvel Studios Assembled: The Making of Agatha All Along'
 slug: marvel-studios-assembled-the-making-of-agatha-all-along
-description: ''
+description: >-
+  Join Kathryn Hahn, Aubrey Plaza, Joe Locke, and more as they invite viewers
+  behind-the-scenes of Agatha All Along.
 layout: ../../layouts/MainLayout.astro
 adult: false
-backdrop_path: null
+backdrop_path: /ef53usvUPf5VNWXpdCdSj3Bqw3Q.jpg
 genre_ids:
   - 99
 id: 1387507
 original_language: en
 original_title: 'Marvel Studios Assembled: The Making of Agatha All Along'
-overview: ''
-poster_path: null
+overview: >-
+  Join Kathryn Hahn, Aubrey Plaza, Joe Locke, and more as they invite viewers
+  behind-the-scenes of Agatha All Along.
+poster_path: /8gJ4SkWVzFDcUfYVJDTWl85HnNU.jpg
 release_date: '2024-11-13'
 video: false
-vote_average: 0
+vote_average: 8.25
 tags:
   - movie
   - company-420
@@ -35,7 +39,7 @@ tags:
     "release_date": "2024-11-13",
     "title": "Marvel Studios Assembled: The Making of Agatha All Along",
     "video": false,
-    "vote_average": 9.5,
+    "vote_average": 8.25,
     "slug": "marvel-studios-assembled-the-making-of-agatha-all-along",
     "tags": [
         "movie",

@@ -15,7 +15,7 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/6bE5dA1YiTCPEWrm8fwpt5JIqDh.jpg",
+    "backdrop_path": "/yoigAFjhEhJM6O6hQT9TiKH6EL7.jpg",
     "genre_ids": [
         28,
         35,
@@ -25,11 +25,11 @@ watchLinks:
     "original_language": "en",
     "original_title": "Marvel One-Shot: All Hail the King",
     "overview": "A documentary filmmaker interviews the now-famous Trevor Slattery from behind bars.",
-    "poster_path": "/ozXvopXv1TiOTls8zb09dBmu9dt.jpg",
+    "poster_path": "/y0QYZPWgeGKOvyrzi6Oz3aJPxJa.jpg",
     "release_date": "2014-02-04",
     "title": "Marvel One-Shot: All Hail the King",
     "video": false,
-    "vote_average": 6.8,
+    "vote_average": 6.73,
     "slug": "marvel-one-shot-all-hail-the-king",
     "tags": [
         "movie",

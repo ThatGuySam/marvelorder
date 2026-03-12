@@ -11,20 +11,21 @@ logo_on_black: /.netlify/functions/tmdb-image/dHhniU1vz1C0j27AFdcsPmq6xu.webp
 ```json
 {
     "adult": false,
-    "backdrop_path": "/fS3OVEfYkW1BNRydu1GZrfdbqvu.jpg",
+    "backdrop_path": "/jYCyTdPfgT01IOJWDnnetr9RDX6.jpg",
     "genre_ids": [
         28,
+        878,
         12
     ],
     "id": 986056,
     "original_language": "en",
     "original_title": "Thunderbolts*",
-    "overview": "An irreverent team-up featuring depressed assassin Yelena Belova alongside the MCU’s least anticipated band of misfits.",
-    "poster_path": "/hQYEA4Ty1RlxsToWMYLE2RzSc0N.jpg",
+    "overview": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
+    "poster_path": "/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg",
     "release_date": "2025-04-30",
     "title": "Thunderbolts*",
     "video": false,
-    "vote_average": 0,
+    "vote_average": 7.3,
     "slug": "thunderbolts",
     "tags": [
         "movie",

@@ -17,7 +17,7 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/oBIn5pHlbmZgr5b8D6WL10rsgO5.jpg",
+    "backdrop_path": "/cz8m8AS8MOD1x4RAjYgYMHf13xB.jpg",
     "genre_ids": [
         878,
         35,
@@ -27,11 +27,11 @@ tags:
     "original_language": "en",
     "original_title": "Team Thor: Part 2",
     "overview": "A continuation of the documentary spoof of what Thor and his roommate Darryl were up to during the events of \"Captain America: Civil War\". While Cap and Iron Man duke it out, Thor tries to pay Darryl his rent in Asgardian coins.",
-    "poster_path": "/9Vt1OLu3BrKy1IQFK3QyzpR1LVm.jpg",
+    "poster_path": "/2jmP71A5Un0jDNqBesDPQSN8hjJ.jpg",
     "release_date": "2017-02-14",
     "title": "Team Thor: Part 2",
     "video": false,
-    "vote_average": 6.9,
+    "vote_average": 6.906,
     "slug": "team-thor-part-2",
     "tags": [
         "movie",

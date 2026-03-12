@@ -30,7 +30,7 @@ type: tv
     "poster_path": "/6ObO02dL4QbzMuhnW3jU3XYkuAq.jpg",
     "first_air_date": "2016-11-04",
     "name": "Marvel's Ultimate Comics",
-    "vote_average": 6.2,
+    "vote_average": 6.4,
     "title": "Marvel's Ultimate Comics",
     "slug": "marvels-ultimate-comics",
     "tags": [

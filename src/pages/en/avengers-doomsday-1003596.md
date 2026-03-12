@@ -2,21 +2,23 @@
 title: 'Avengers: Doomsday'
 slug: avengers-doomsday
 description: >-
-  An upcoming film in the MCU’s sixth Phase and part of The Multiverse Saga.
-  Plot unknown.
+  The Avengers, Wakandans, Fantastic Four, Thunderbolts, and X-Men all fight
+  against Doctor Doom. Plot TBA.
 layout: ../../layouts/MainLayout.astro
 adult: false
-backdrop_path: /qnSnc2b3hBtgyYW9JxDf9XNKVGL.jpg
+backdrop_path: /3eOINbgRs8WiWfQfViXeuZ3enrs.jpg
 genre_ids:
   - 878
+  - 28
+  - 12
 id: 1003596
 original_language: en
 original_title: 'Avengers: Doomsday'
 overview: >-
-  An upcoming film in the MCU’s sixth Phase and part of The Multiverse Saga.
-  Plot unknown.
-poster_path: /nCNQXvYw9aELk5eNdI7LSGgjBny.jpg
-release_date: '2026-04-29'
+  The Avengers, Wakandans, Fantastic Four, Thunderbolts, and X-Men all fight
+  against Doctor Doom. Plot TBA.
+poster_path: /8HkIe2i4ScpCkcX9SzZ9IPasqWV.jpg
+release_date: '2026-12-16'
 video: false
 vote_average: 0
 tags:
@@ -29,16 +31,18 @@ media_type: movie
 ```json
 {
     "adult": false,
-    "backdrop_path": "/vrncuH8IDqQ5M47XPk19yxY8o1b.jpg",
+    "backdrop_path": "/3eOINbgRs8WiWfQfViXeuZ3enrs.jpg",
     "genre_ids": [
-        878
+        878,
+        28,
+        12
     ],
     "id": 1003596,
     "original_language": "en",
     "original_title": "Avengers: Doomsday",
-    "overview": "An upcoming film in the Marvel Cinematic Universe's (MCU) sixth Phase and part of The Multiverse Saga. Plot TBA.",
-    "poster_path": "/eO6OdA4RDRWeCVlDMcsoxWYFySD.jpg",
-    "release_date": "2026-04-29",
+    "overview": "The Avengers, Wakandans, Fantastic Four, Thunderbolts, and X-Men all fight against Doctor Doom. Plot TBA.",
+    "poster_path": "/8HkIe2i4ScpCkcX9SzZ9IPasqWV.jpg",
+    "release_date": "2026-12-16",
     "title": "Avengers: Doomsday",
     "video": false,
     "vote_average": 0,

@@ -29,9 +29,11 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/3vD7swDFYkctqAHbK7NeQaVnEBI.jpg",
+    "backdrop_path": "/cWO5NDkKqpOuwxu4vFc4PtL8aNF.jpg",
     "genre_ids": [
-        16
+        16,
+        10759,
+        10765
     ],
     "id": 241388,
     "origin_country": [
@@ -39,11 +41,11 @@ tags:
     ],
     "original_language": "en",
     "original_name": "Eyes of Wakanda",
-    "overview": "Follow the adventures of brave Wakandan warriors throughout history in this globe-trotting adventure where they must carry-out dangerous missions to retrieve Vibranium artifacts from the enemies of Wakanda. They are the Hatut Zaraze and this is their story.",
-    "poster_path": "/b16lExo3HVcw2AWStyaFvAy5HFX.jpg",
-    "first_air_date": "2025-08-06",
+    "overview": "Follow the adventures of brave Wakandan warriors throughout history in this globe-trotting adventure, where they must carry out dangerous missions to retrieve Vibranium artifacts from the enemies of Wakanda. They are the Hatut Zaraze and this is their story.",
+    "poster_path": "/bG23nZW96LxmWkJjsagRZI9hF6t.jpg",
+    "first_air_date": "2025-08-01",
     "name": "Eyes of Wakanda",
-    "vote_average": 0,
+    "vote_average": 6.147,
     "title": "Eyes of Wakanda",
     "slug": "eyes-of-wakanda",
     "tags": [

@@ -35,7 +35,7 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/5kMbsfmakhYQQoICXs6ctjBxNcQ.jpg",
+    "backdrop_path": "/cOyxcD7YUZPriEhyCEbkJlY9kQg.jpg",
     "genre_ids": [
         99
     ],
@@ -47,7 +47,7 @@ tags:
     "release_date": "2022-02-09",
     "title": "Marvel Studios Assembled: The Making of Hawkeye",
     "video": false,
-    "vote_average": 7,
+    "vote_average": 7.071,
     "slug": "marvel-studios-assembled-the-making-of-hawkeye",
     "tags": [
         "movie",

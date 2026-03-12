@@ -25,7 +25,7 @@ overview: >-
 poster_path: /p8c8NjgScKlGqQOqgZhWCw0bpYR.jpg
 first_air_date: '2014-05-13'
 name: 'Wolverine Weapon X: Tomorrow Dies Today'
-vote_average: 6
+vote_average: 6.5
 tags:
   - tv
   - company-11106
@@ -49,7 +49,7 @@ tags:
     "poster_path": "/p8c8NjgScKlGqQOqgZhWCw0bpYR.jpg",
     "first_air_date": "2014-05-13",
     "name": "Wolverine Weapon X: Tomorrow Dies Today",
-    "vote_average": 6,
+    "vote_average": 6.5,
     "title": "Wolverine Weapon X: Tomorrow Dies Today",
     "slug": "wolverine-weapon-x-tomorrow-dies-today",
     "tags": [

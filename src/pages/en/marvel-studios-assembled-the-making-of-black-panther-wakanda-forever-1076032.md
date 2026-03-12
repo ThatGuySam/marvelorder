@@ -33,7 +33,7 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/fBjMi7YcVN2lYaIIUR34ZbjzBjx.jpg",
+    "backdrop_path": "/jpZNOChdKmOzf4bqkpKjOKEeT1Q.jpg",
     "genre_ids": [
         99
     ],
@@ -45,7 +45,7 @@ tags:
     "release_date": "2023-02-07",
     "title": "Marvel Studios Assembled: The Making of Black Panther: Wakanda Forever",
     "video": false,
-    "vote_average": 6.8,
+    "vote_average": 6.259,
     "slug": "marvel-studios-assembled-the-making-of-black-panther-wakanda-forever",
     "tags": [
         "movie",

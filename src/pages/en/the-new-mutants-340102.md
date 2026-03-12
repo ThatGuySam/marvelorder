@@ -16,7 +16,7 @@ watchLinks:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/2AFZyra0Ddwl2oBDhClvD1qSIL6.jpg",
+    "backdrop_path": "/1MoeNacOltBWojkStjhT3svBTOK.jpg",
     "genre_ids": [
         878,
         27,
@@ -30,7 +30,7 @@ watchLinks:
     "release_date": "2020-04-02",
     "title": "The New Mutants",
     "video": false,
-    "vote_average": 6.099,
+    "vote_average": 6.083,
     "slug": "the-new-mutants",
     "tags": [
         "movie",
