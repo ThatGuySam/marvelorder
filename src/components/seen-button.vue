@@ -36,18 +36,20 @@
     </SimpleButton>
 </template>
 
-<script>
+<script lang="ts">
+import { defineComponent, type PropType } from 'vue'
 import localforage from 'localforage'
 
 import SimpleButton from './button.vue'
+import type { Listing } from '~/src/helpers/types'
 
-export default {
+export default defineComponent( {
     components: {
         SimpleButton,
     },
     props: {
         listing: {
-            type: Object,
+            type: Object as PropType<Listing>,
             required: true,
         },
     },
@@ -61,29 +63,28 @@ export default {
         }
     },
     computed: {
-        label () {
+        label (): string {
             return this.seenListing ? 'Seen' : 'Mark as Seen'
         },
     },
     mounted () {
-        localforage.ready()
+        void localforage.ready()
             .then( () => {
                 this.localforageReady = true
 
                 return this.getSeen()
             } )
-            .then( ( item ) => {
-                // console.log('item', item)
+            .then( ( item: boolean ) => {
                 this.seenListing = item
             } )
     },
     methods: {
-        async getSeen () {
+        async getSeen (): Promise<boolean> {
             const initialState = await localforage.getItem( `seen-${ this.listing.id }` )
 
-            return initialState
+            return Boolean( initialState )
         },
-        async toggleSeen () {
+        async toggleSeen (): Promise<void> {
             const initialState = await this.getSeen()
 
             await localforage.setItem( `seen-${ this.listing.id }`, !initialState )
@@ -95,5 +96,5 @@ export default {
             this.$emit( 'toggleSeen', this.listing )
         },
     },
-}
+} )
 </script>
