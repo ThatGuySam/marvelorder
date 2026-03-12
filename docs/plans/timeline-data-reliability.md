@@ -105,6 +105,7 @@ Homepage cleanup experiment using the March 12 transcript as a `43`-check benchm
 | Raw homepage feed (`src/pages/index.astro` before cleanup) | `362` | `9 / 43` |
 | Existing default filters only | `283` | `13 / 43` |
 | Proposed homepage rules plus local snapshot tie-breaker | `208` | `43 / 43` |
+| Signal-based rules plus authoritative date overrides and season labels | `195` | `43 / 43` |
 
 Rule buckets that moved the benchmark without live API traffic:
 
@@ -128,6 +129,22 @@ Interpretation:
 - The most valuable tie-breaker for same-id title churn is the checked-in TMDB snapshot, not a fresh network request.
 - Some future titles will still need manual or source-backed review, but the homepage should default to hiding low-confidence placeholders instead of surfacing them.
 
+Follow-up signal-based experiment after the first cleanup pass:
+
+- The next iteration removed several remaining exact-title heuristics from the homepage resolver and replaced them with reusable signals:
+  - description and overview classifiers for `fan edit`, `motion comic`, `extended cut`, `presented in color`, and `rumored title` style observations
+  - genre-and-media rules for kids TV spillover (`genre 10762`) and low-confidence animated family one-offs
+  - observation normalization so blank markdown dates do not override embedded TMDB dates
+  - authoritative studio-date overrides for high-value future releases when TMDB is missing or stale
+  - multi-season labeling sourced from the checked-in MCU timeline sheet instead of title hardcoding
+- That cut the homepage from `208` to `195` cards while keeping the transcript benchmark at `43 / 43`.
+- The current homepage result also fixes several requested frontend issues:
+  - `The Falcon and the Winter Soldier` collapses to one canonical TV card
+  - `Eyes of Wakanda` now surfaces its `August 1, 2025` release instead of `Order TBA`
+  - `Spider-Man: Brand New Day` now uses the official `July 31, 2026` Sony date
+  - `Spider-Man: Beyond the Spider-Verse` now uses the official `June 18, 2027` Sony date
+  - `What If...?` and `I Am Groot` show season rollups as presentation metadata instead of episode cards
+
 ## External Research
 
 Primary-source findings that materially change the plan:
@@ -139,6 +156,9 @@ Primary-source findings that materially change the plan:
 | TMDB official rate-limit docs | TMDB says the old fixed `40 requests every 10 seconds` limit is disabled, but they still enforce upper limits around `40 requests per second`. | Keep the repo far below that ceiling anyway, add conservative pacing, and retry with exponential backoff on `429`, `5xx`, or transient failures. |
 | Marvel official Iron Man page | `Iron Man` official release date is `May 2, 2008`. | The repo should prefer Marvel or studio release dates over TMDB for theatrical release truth. |
 | Marvel official `I Am Groot` pages | Season 1 is `August 10, 2022`; Season 2 is `September 6, 2023`. | The repo needs canonical series-season identity, not a single title string for both sets of shorts. |
+| Marvel TV shows page | `Eyes of Wakanda` is listed as `August 1, 2025`, `Wonder Man` is listed as `January 27, 2026`, and Marvel’s own browse page exposes seasonized TV entries such as `What If...?` and `I Am Groot`. | Official browse pages can validate release states and season labeling without relying on fresh TMDB requests. |
+| Sony Group FY2024 Q3 presentation PDF | Sony’s release slate lists `Spider-Man: Brand New Day` for `July 31, 2026` and `Spider-Man: Beyond the Spider-Verse` for `June 18, 2027`. | Future Sony-title dates need a source hierarchy above TMDB when TMDB is blank or stale. |
+| Hacker News discussions around search and entity resolution | The practical advice clusters around deterministic IR primitives first: good tokenization, trigrams or BM25, hybrid search, and record-linkage tooling, with ML layered on only after baselines are measured. | Homepage cleanup and released-title matching do not need a tiny language model yet; lightweight NLP and metadata scoring should stay first. |
 | Disney+ Press monthly schedule pages | Official Disney+ dates confirm several Assembled releases, including `Moon Knight` (`May 25, 2022`), `Doctor Strange in the Multiverse of Madness` (`July 8, 2022`), `Loki: Season 2` (`November 9, 2023`), `Echo` (`January 31, 2024`), `The Marvels` (`February 7, 2024`), `Secret Invasion` (`September 20, 2023`), and `Guardians of the Galaxy Vol. 3` (`September 6, 2023`). | Disney+ documentaries and specials need a different source hierarchy from theatrical films. |
 | Marvel page plus article for `Voices Rising: The Music of Wakanda Forever` | Marvel pages say `February 28, 2023`. Disney+ Press says `February 22, 2023`. | Source conflicts are real even among official sources; the data model must retain provenance, conflict state, and manual resolution, not just a single scalar date. |
 
@@ -147,6 +167,8 @@ Primary-source findings that materially change the plan:
 Do not start with embeddings.
 
 Start with a canonical identity and observation model, then add a single deterministic matcher with a math-based score. Add EmbeddingGemma only as a third-stage resolver for unresolved or low-confidence cases.
+
+For homepage filtering specifically, do not start with a tiny language model. Use lightweight NLP only in the narrow sense of tokenization, regex, trigram or Jaccard similarity, and source-backed overrides.
 
 Why:
 
@@ -157,6 +179,7 @@ Why:
   - conflicting sources being flattened into one field
 - TMDB should stay a discovery and enrichment source, not a delete-on-sight source of truth. A single missing or spam-altered TMDB record should create a quarantined diff, not an automatic public removal.
 - The released-title benchmark already shows that title-plus-date math is enough to get close to production quality on stable titles.
+- Hacker News style practitioner advice points the same direction: strong tokenization, retrieval baselines, and record-linkage discipline usually beat prematurely training a small bespoke model for this class of cleanup work.
 - Embeddings will not solve same-title duplicates with identical or near-identical strings, and they will not solve official-source conflicts. Those need canonical ids, source ranking, and observation history.
 
 ## Proposed Data Model
@@ -372,8 +395,13 @@ The public pages should render from generated canonical data, not directly from 
 - https://developers.googleblog.com/en/introducing-embeddinggemma/
 - https://developer.themoviedb.org/docs/rate-limiting
 - https://www.marvel.com/shop/iron-man-movies
+- https://www.marvel.com/tv-shows
 - https://www.marvel.com/amp/articles/tv-shows/i-am-groot-episode-posters-disney-plus
 - https://www.marvel.com/tv-shows/i-am-groot/2
+- https://www.sony.com/en/SonyInfo/IR/library/presen/er/pdf/24q3_sonyspeech.pdf
+- https://news.ycombinator.com/item?id=42701772
+- https://news.ycombinator.com/item?id=44130107
+- https://news.ycombinator.com/item?id=35372865
 - https://press.disneyplus.com/news/next-on-disney-plus-may-2022
 - https://press.disneyplus.com/news/next-on-disney-plus-july-2022
 - https://press.disneyplus.com/news/next-on-disney-plus-september-2023
