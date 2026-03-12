@@ -6,9 +6,6 @@ test( 'Homepage listings collapse transcript duplicates and junk cards', async (
     const listings = await getHomepageListings()
 
     const expectedSingles = [
-        'Marvel\'s The Punisher',
-        'I Am Groot',
-        'What If...?',
         'Agatha All Along',
         'Avengers: Doomsday',
         'Deadpool and Korg React',
@@ -70,8 +67,15 @@ test( 'Homepage listings collapse transcript duplicates and junk cards', async (
     }
 
     const falconListing = listings.find( ( listing ) => listing.title === 'The Falcon and the Winter Soldier' )
-    const whatIfListing = listings.find( ( listing ) => listing.title === 'What If...?' )
-    const grootListing = listings.find( ( listing ) => listing.title === 'I Am Groot' )
+    const punisherListings = listings
+        .filter( ( listing ) => listing.title === 'Marvel\'s The Punisher' )
+        .sort( ( listingA, listingB ) => String( listingA.first_air_date ).localeCompare( String( listingB.first_air_date ) ) )
+    const whatIfListings = listings
+        .filter( ( listing ) => listing.title === 'What If...?' )
+        .sort( ( listingA, listingB ) => String( listingA.first_air_date ).localeCompare( String( listingB.first_air_date ) ) )
+    const grootListings = listings
+        .filter( ( listing ) => listing.title === 'I Am Groot' )
+        .sort( ( listingA, listingB ) => String( listingA.first_air_date ).localeCompare( String( listingB.first_air_date ) ) )
     const reactListing = listings.find( ( listing ) => listing.title === 'Deadpool and Korg React' )
     const doomsdayListing = listings.find( ( listing ) => listing.title === 'Avengers: Doomsday' )
     const eyesOfWakandaListing = listings.find( ( listing ) => listing.title === 'Eyes of Wakanda' )
@@ -83,8 +87,24 @@ test( 'Homepage listings collapse transcript duplicates and junk cards', async (
 
     expect( falconListing?.id ).toBe( 88396 )
     expect( falconListing?.homepageSeasonLabel || '' ).toBe( '' )
-    expect( whatIfListing?.homepageSeasonLabel ).toBe( 'Season 1, Season 2, Season 3' )
-    expect( grootListing?.homepageSeasonLabel ).toBe( 'Season 1, Season 2' )
+    expect( punisherListings.map( ( listing ) => listing.homepageSeasonLabel ) ).toEqual( [
+        'Season 1',
+        'Season 2',
+    ] )
+    expect( punisherListings.map( ( listing ) => listing.first_air_date ) ).toEqual( [
+        '2017-11-17',
+        '2019-01-18',
+    ] )
+    expect( punisherListings.every( ( listing ) => !!listing.logo_on_black ) ).toBe( true )
+    expect( whatIfListings.map( ( listing ) => listing.homepageSeasonLabel ) ).toEqual( [
+        'Season 1',
+        'Season 2',
+        'Season 3',
+    ] )
+    expect( grootListings.map( ( listing ) => listing.homepageSeasonLabel ) ).toEqual( [
+        'Season 1',
+        'Season 2',
+    ] )
     expect( reactListing?.logo_on_black ).toBeTruthy()
     expect( doomsdayListing?.logo_on_black ).toBeTruthy()
     expect( eyesOfWakandaListing?.first_air_date ).toBe( '2025-08-01' )

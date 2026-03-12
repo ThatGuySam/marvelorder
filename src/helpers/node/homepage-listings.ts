@@ -9,8 +9,9 @@ import {
     normalizeListingDateValue,
 } from '~/src/helpers/listing.ts'
 import {
-    getHomepageSeasonLabel,
-    getHomepageSeasonLabelByTitle,
+    getHomepageSeasonObservations,
+    getHomepageSeasonObservationsByTitle,
+    type HomepageSeasonObservation,
 } from '~/src/helpers/node/homepage-season-labels.ts'
 import {
     getCanonicalTimelineListingKey,
@@ -641,33 +642,46 @@ function getHomepageObservationDuplicateKey ( listing: Listing ) {
     return [
         getHomepageMediaKind( listing ),
         getHomepageCompanyKey( listing ),
+        listing.homepageSeasonKey || '',
         date,
         signalText,
     ].join( '|' )
 }
 
-function addHomepagePresentationFields (
+function expandHomepageSeasonListings (
     listings: Listing[],
-    seasonLabelByTitle: Map<string, string>,
+    seasonObservationsByTitle: Map<string, HomepageSeasonObservation[]>,
 ) {
-    return listings.map( ( listing ) => {
-        const homepageSeasonLabel = getHomepageSeasonLabel( listing, seasonLabelByTitle )
-
-        if ( homepageSeasonLabel.length === 0 ) {
-            return listing
+    return listings.flatMap( ( listing ) => {
+        if ( getHomepageMediaKind( listing ) !== 'tv' ) {
+            return [ listing ]
         }
 
-        return {
-            ...listing,
-            homepageSeasonLabel,
+        const seasonObservations = getHomepageSeasonObservations( listing, seasonObservationsByTitle )
+
+        if ( seasonObservations.length < 2 ) {
+            return [ listing ]
         }
+
+        return seasonObservations.map( ( seasonObservation ) => {
+            return {
+                ...listing,
+                first_air_date: seasonObservation.premiereDate,
+                homepageSeasonKey: seasonObservation.seasonNumber,
+                homepageSeasonLabel: seasonObservation.label,
+                mcuTimelineOrder: typeof seasonObservation.mcuTimelineOrder === 'number'
+                    ? seasonObservation.mcuTimelineOrder
+                    : listing.mcuTimelineOrder,
+                release_date: undefined,
+            }
+        } )
     } )
 }
 
 function dedupeHomepageListings (
     listings: Listing[],
     snapshotTitleById: Map<number, string>,
-    seasonLabelByTitle: Map<string, string>,
+    seasonObservationsByTitle: Map<string, HomepageSeasonObservation[]>,
 ) {
     const groupedByObservationDuplicate = groupHomepageListings(
         listings,
@@ -701,21 +715,7 @@ function dedupeHomepageListings (
         snapshotTitleById,
     )
 
-    const groupedBySeries = groupHomepageListings(
-        groupedByCanonicalIdentity,
-        ( listing ) => {
-            const normalizedTitle = getNormalizedHomepageTitle( listing )
-
-            if ( seasonLabelByTitle.has( normalizedTitle ) ) {
-                return `series:${ normalizedTitle }`
-            }
-
-            return `listing:${ listing.id || normalizedTitle }`
-        },
-        snapshotTitleById,
-    )
-
-    return addHomepagePresentationFields( groupedBySeries, seasonLabelByTitle )
+    return expandHomepageSeasonListings( groupedByCanonicalIdentity, seasonObservationsByTitle )
 }
 
 export function resolveHomepageListings (
@@ -723,11 +723,11 @@ export function resolveHomepageListings (
     {
         now = new Date(),
         snapshotTitleById = new Map<number, string>(),
-        seasonLabelByTitle = new Map<string, string>(),
+        seasonObservationsByTitle = new Map<string, HomepageSeasonObservation[]>(),
     }: {
         now?: Date
         snapshotTitleById?: Map<number, string>
-        seasonLabelByTitle?: Map<string, string>
+        seasonObservationsByTitle?: Map<string, HomepageSeasonObservation[]>
     } = {},
 ) {
     const filteredListings = new FilteredListings( {
@@ -749,22 +749,22 @@ export function resolveHomepageListings (
         return shouldKeepHomepageListing( listing, observationCollapsedListings, snapshotTitleById, now )
     } )
 
-    return dedupeHomepageListings( keptListings, snapshotTitleById, seasonLabelByTitle )
+    return dedupeHomepageListings( keptListings, snapshotTitleById, seasonObservationsByTitle )
 }
 
 export async function getHomepageListings () {
     const [
         allListings,
         snapshotTitleById,
-        seasonLabelByTitle,
+        seasonObservationsByTitle,
     ] = await Promise.all( [
         getAllListings(),
         getSnapshotTitleById(),
-        getHomepageSeasonLabelByTitle(),
+        getHomepageSeasonObservationsByTitle(),
     ] )
 
     return resolveHomepageListings( allListings, {
         snapshotTitleById,
-        seasonLabelByTitle,
+        seasonObservationsByTitle,
     } )
 }

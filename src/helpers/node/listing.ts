@@ -197,7 +197,10 @@ export class MappedListing {
         return [
             this.sourceListing.slug,
             this.sourceListing.id,
-        ].join( '-' )
+            this.sourceListing.homepageSeasonKey,
+        ]
+            .filter( ( value ) => value !== undefined && value !== '' )
+            .join( '-' )
     }
 
     hasTag ( tagName: string ): boolean {
