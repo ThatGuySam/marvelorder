@@ -23,7 +23,7 @@ type: tv
     "original_language": "en",
     "original_name": "Marvel Studios Assembled",
     "overview": "Go behind the scenes of the shows and movies of the Marvel Cinematic Universe, following the filmmakers, cast and crew, and Marvel heroes every step of the way.",
-    "poster_path": "/50lfJlcUuR8Nit0YSudfK59EUM7.jpg",
+    "poster_path": "/v2BHRwtQVkt5fssLdo5MpFgHJPY.jpg",
     "first_air_date": "2021-03-12",
     "name": "Marvel Studios Assembled",
     "vote_average": 7.2,

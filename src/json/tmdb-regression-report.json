@@ -1,0 +1,50 @@
+{
+	"generatedAt": "2026-03-12T16:44:21.469Z",
+	"counts": {
+		"previousListings": 251,
+		"nextListings": 246,
+		"missingIds": 5,
+		"titleChanges": 0,
+		"suspiciousTitleChanges": 0,
+		"typeChanges": 0,
+		"dateCleared": 0,
+		"adultFlagFlips": 0
+	},
+	"missingIds": [
+		{
+			"id": 717082,
+			"title": "Stan Lee",
+			"type": "movie",
+			"date": "2023-06-10"
+		},
+		{
+			"id": 1076032,
+			"title": "Marvel Studios Assembled: The Making of Black Panther: Wakanda Forever",
+			"type": "movie",
+			"date": "2023-02-07"
+		},
+		{
+			"id": 1001912,
+			"title": "Marvel Studios Assembled: The Making of Ms. Marvel",
+			"type": "movie",
+			"date": "2022-08-03"
+		},
+		{
+			"id": 939356,
+			"title": "Marvel Studios Assembled: The Making of Eternals",
+			"type": "movie",
+			"date": "2022-02-16"
+		},
+		{
+			"id": 14830,
+			"title": "Doctor Strange",
+			"type": "movie",
+			"date": "2007-08-14"
+		}
+	],
+	"titleChanges": [],
+	"suspiciousTitleChanges": [],
+	"typeChanges": [],
+	"dateCleared": [],
+	"adultFlagFlips": []
+}

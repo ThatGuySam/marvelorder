@@ -293,7 +293,7 @@
 		"poster_path": "/mwKj9ERGFXsWot0nXgQ5yMQf9I7.jpg",
 		"first_air_date": "2025-09-24",
 		"name": "Marvel Zombies",
-		"vote_average": 7.208,
+		"vote_average": 7.2,
 		"title": "Marvel Zombies",
 		"slug": "marvel-zombies",
 		"tags": [
@@ -419,7 +419,7 @@
 		"poster_path": "/dOh6MJpdlQhYpLBhzhNQeYGKTZ5.jpg",
 		"first_air_date": "2025-06-24",
 		"name": "Ironheart",
-		"vote_average": 5.369,
+		"vote_average": 5.4,
 		"title": "Ironheart",
 		"slug": "ironheart",
 		"tags": [
@@ -467,7 +467,7 @@
 		"poster_path": "/gjum4yfMeZOu3upPstJHBPgTLFD.jpg",
 		"first_air_date": "2025-03-04",
 		"name": "Daredevil: Born Again",
-		"vote_average": 7.948,
+		"vote_average": 7.9,
 		"title": "Daredevil: Born Again",
 		"slug": "daredevil-born-again",
 		"tags": [
@@ -608,7 +608,7 @@
 		"release_date": "2024-07-24",
 		"title": "Deadpool & Wolverine",
 		"video": false,
-		"vote_average": 7.6,
+		"vote_average": 7.556,
 		"slug": "deadpool-and-wolverine",
 		"tags": [
 			"movie",
@@ -656,7 +656,7 @@
 		"poster_path": "/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg",
 		"first_air_date": "2024-03-20",
 		"name": "X-Men '97",
-		"vote_average": 8.518,
+		"vote_average": 8.5,
 		"title": "X-Men '97",
 		"slug": "x-men-97",
 		"tags": [
@@ -867,27 +867,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/u0HBu7x5cwFe7BN7ANgYK98rgXc.jpg",
-		"genre_ids": [
-			99
-		],
-		"id": 717082,
-		"original_language": "en",
-		"original_title": "Stan Lee",
-		"overview": "Celebrate the legacy of Stan Lee as the co-creator of such legendary characters as Fantastic Four, Iron Man, the X-Men, The Avengers, and hundreds more.",
-		"poster_path": "/iWBOKF0yl7pHK9y8fqRIBqf9fOJ.jpg",
-		"release_date": "2023-06-10",
-		"title": "Stan Lee",
-		"video": false,
-		"vote_average": 7.133,
-		"slug": "stan-lee",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": "/9xfDWXAUbFXQK585JvByT5pEAhe.jpg",
 		"genre_ids": [
 			16,
@@ -973,29 +952,8 @@
 		"release_date": "2023-02-15",
 		"title": "Ant-Man and the Wasp: Quantumania",
 		"video": false,
-		"vote_average": 6.239,
+		"vote_average": 6.238,
 		"slug": "ant-man-and-the-wasp-quantumania",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/jpZNOChdKmOzf4bqkpKjOKEeT1Q.jpg",
-		"genre_ids": [
-			99
-		],
-		"id": 1076032,
-		"original_language": "en",
-		"original_title": "Marvel Studios Assembled: The Making of Black Panther: Wakanda Forever",
-		"overview": "Follow the production of “Black Panther: Wakanda Forever” as the cast and crew take on the incredible challenge of remembering T’Challa with a chapter befitting the late king. Through intimate behind-the-scenes footage and interviews, watch Shuri take on the mantel of Wakanda’s hero and face a new foe from the ocean’s depths in Namor.",
-		"poster_path": "/mYTPKWO7a4mHKLyksJgB8CMq9Qx.jpg",
-		"release_date": "2023-02-07",
-		"title": "Marvel Studios Assembled: The Making of Black Panther: Wakanda Forever",
-		"video": false,
-		"vote_average": 6.259,
-		"slug": "marvel-studios-assembled-the-making-of-black-panther-wakanda-forever",
 		"tags": [
 			"movie",
 			"company-420"
@@ -1309,27 +1267,6 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/5LBajgZwqS9plL5MDtIfmlFatSz.jpg",
-		"genre_ids": [
-			99
-		],
-		"id": 1001912,
-		"original_language": "en",
-		"original_title": "Marvel Studios Assembled: The Making of Ms. Marvel",
-		"overview": "Go behind-the-scenes every step of the way with immersive footage from the making of the series, along with insightful interviews on set from the cast and crew of Ms. Marvel as we watch Iman Vellani and her character, Kamala Khan, become the fan-favorite superhero right before our eyes.",
-		"poster_path": "/6m0rG2bS90FOlUaxEq8ZPCTQMei.jpg",
-		"release_date": "2022-08-03",
-		"title": "Marvel Studios Assembled: The Making of Ms. Marvel",
-		"video": false,
-		"vote_average": 6.75,
-		"slug": "marvel-studios-assembled-the-making-of-ms-marvel",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
 		"backdrop_path": "/5H2uTD2iWz8OrBRL7ZTg3bPOgml.jpg",
 		"genre_ids": [
 			16,
@@ -1510,27 +1447,6 @@
 		"slug": "moon-knight",
 		"tags": [
 			"tv",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/imkqp2S4ZXEGczb59ciF6IYVwnW.jpg",
-		"genre_ids": [
-			99
-		],
-		"id": 939356,
-		"original_language": "en",
-		"original_title": "Marvel Studios Assembled: The Making of Eternals",
-		"overview": "Join director Chloe Zhao and the Cast of Eternals as they recount their experiences during the making of Marvel Studios’ most ambitious film to date. Discover how the ensemble cast felt stepping into their roles, filming in remote locations, and creating bonds that would help to create the on-screen relationships that span over 7,000 years.",
-		"poster_path": "/fBJ5ZjFJ6IHQWz90SsW80PizVlF.jpg",
-		"release_date": "2022-02-16",
-		"title": "Marvel Studios Assembled: The Making of Eternals",
-		"video": false,
-		"vote_average": 7.079,
-		"slug": "marvel-studios-assembled-the-making-of-eternals",
-		"tags": [
-			"movie",
 			"company-420"
 		]
 	},
@@ -2327,7 +2243,7 @@
 		"release_date": "2018-12-06",
 		"title": "Spider-Man: Into the Spider-Verse",
 		"video": false,
-		"vote_average": 8.393,
+		"vote_average": 8.394,
 		"slug": "spider-man-into-the-spider-verse",
 		"tags": [
 			"movie",
@@ -2921,7 +2837,7 @@
 		"release_date": "2016-10-25",
 		"title": "Doctor Strange",
 		"video": false,
-		"vote_average": 7.418,
+		"vote_average": 7.4,
 		"slug": "doctor-strange",
 		"tags": [
 			"movie",
@@ -4520,8 +4436,7 @@
 		"slug": "punisher-war-zone",
 		"tags": [
 			"movie",
-			"company-11106",
-			"company-420"
+			"company-11106"
 		]
 	},
 	{
@@ -4565,7 +4480,7 @@
 		"release_date": "2008-06-12",
 		"title": "The Incredible Hulk",
 		"video": false,
-		"vote_average": 6.232,
+		"vote_average": 6.2,
 		"slug": "the-incredible-hulk",
 		"tags": [
 			"movie",
@@ -4622,30 +4537,6 @@
 		"tags": [
 			"tv",
 			"company-7505"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": "/mQ30ClWsTO8QBTkbwArIifkRlhZ.jpg",
-		"genre_ids": [
-			28,
-			16,
-			14,
-			878
-		],
-		"id": 14830,
-		"original_language": "en",
-		"original_title": "Doctor Strange",
-		"overview": "Dr. Stephen Strange embarks on a wondrous journey to the heights of a Tibetan mountain, where he seeks healing at the feet of the mysterious Ancient One.",
-		"poster_path": "/7ygcpWXsWmEc83j7zE8P0lvC0Q.jpg",
-		"release_date": "2007-08-14",
-		"title": "Doctor Strange",
-		"video": false,
-		"vote_average": 6.776,
-		"slug": "doctor-strange",
-		"tags": [
-			"movie",
-			"company-420"
 		]
 	},
 	{

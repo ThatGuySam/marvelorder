@@ -28,7 +28,7 @@ logo_on_black: /.netlify/functions/tmdb-image/vK2ZJlnurjxajVXGxy6KMeHJuW8.webp
     "poster_path": "/mwKj9ERGFXsWot0nXgQ5yMQf9I7.jpg",
     "first_air_date": "2025-09-24",
     "name": "Marvel Zombies",
-    "vote_average": 7.208,
+    "vote_average": 7.2,
     "title": "Marvel Zombies",
     "slug": "marvel-zombies",
     "tags": [
