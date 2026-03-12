@@ -39,6 +39,120 @@ interface FetchListingsOptions {
     tags?: string[]
 }
 
+function getNumberEnv ( key: string, fallback: number ) {
+    const value = Number( Deno.env.get( key ) )
+
+    if ( Number.isFinite( value ) && value >= 0 ) {
+        return value
+    }
+
+    return fallback
+}
+
+// TMDB disabled the old hard 40 rps cap, but their docs still mention
+// upper limits in that range. Keep pulls far below that threshold and
+// back off politely on 429s, 5xxs, or transient network failures.
+const tmdbMinIntervalMs = getNumberEnv( 'TMDB_MIN_INTERVAL_MS', 2_000 )
+const tmdbBackoffBaseMs = getNumberEnv( 'TMDB_BACKOFF_BASE_MS', 2_000 )
+const tmdbBackoffMaxMs = getNumberEnv( 'TMDB_BACKOFF_MAX_MS', 30_000 )
+const tmdbMaxRetries = getNumberEnv( 'TMDB_MAX_RETRIES', 5 )
+
+let lastTmdbRequestStartedAt = 0
+
+function sleep ( ms: number ) {
+    return new Promise( ( resolve ) => setTimeout( resolve, ms ) )
+}
+
+function getHeaderValue ( headers: any, headerName: string ) {
+    if ( !headers ) {
+        return ''
+    }
+
+    if ( typeof headers.get === 'function' ) {
+        return headers.get( headerName ) || headers.get( headerName.toLowerCase() ) || ''
+    }
+
+    const headerKey = Object.keys( headers )
+        .find( ( key ) => key.toLowerCase() === headerName.toLowerCase() )
+
+    return headerKey ? String( headers[ headerKey ] ) : ''
+}
+
+function getRetryAfterMs ( headers: any ) {
+    const retryAfter = getHeaderValue( headers, 'retry-after' ).trim()
+
+    if ( retryAfter.length === 0 ) {
+        return 0
+    }
+
+    const retryAfterSeconds = Number( retryAfter )
+
+    if ( Number.isFinite( retryAfterSeconds ) ) {
+        return Math.max( 0, Math.round( retryAfterSeconds * 1_000 ) )
+    }
+
+    const retryAfterDate = Date.parse( retryAfter )
+
+    if ( Number.isNaN( retryAfterDate ) ) {
+        return 0
+    }
+
+    return Math.max( 0, retryAfterDate - Date.now() )
+}
+
+async function waitForTmdbRequestWindow () {
+    const now = Date.now()
+    const elapsedSinceLastStart = now - lastTmdbRequestStartedAt
+
+    if ( elapsedSinceLastStart < tmdbMinIntervalMs ) {
+        await sleep( tmdbMinIntervalMs - elapsedSinceLastStart )
+    }
+
+    lastTmdbRequestStartedAt = Date.now()
+}
+
+function shouldRetryTmdbRequest ( status = 0 ) {
+    return status === 0 || status === 429 || status >= 500
+}
+
+async function tmdbGet ( requestUrl: string, requestOptions: any ) {
+    for ( let attempt = 0; attempt <= tmdbMaxRetries; attempt++ ) {
+        await waitForTmdbRequestWindow()
+
+        try {
+            return await axios.get( requestUrl, requestOptions )
+        }
+        catch ( error ) {
+            const responseError = error as {
+                response?: {
+                    status?: number
+                    headers?: unknown
+                }
+            }
+
+            const status = Number( responseError?.response?.status || 0 )
+
+            if ( attempt === tmdbMaxRetries || !shouldRetryTmdbRequest( status ) ) {
+                throw error
+            }
+
+            const retryAfterMs = getRetryAfterMs( responseError?.response?.headers )
+            const exponentialBackoffMs = Math.min( tmdbBackoffBaseMs * 2 ** attempt, tmdbBackoffMaxMs )
+            const jitterMs = Math.floor( Math.random() * 250 )
+            const backoffMs = Math.max( retryAfterMs, exponentialBackoffMs + jitterMs )
+
+            console.warn(
+                `TMDB request failed with status ${ status || 'unknown' } for ${ requestUrl }. ` +
+                `Retrying in ${ backoffMs }ms (attempt ${ attempt + 1 }/${ tmdbMaxRetries }).`,
+            )
+
+            await sleep( backoffMs )
+        }
+    }
+
+    throw new Error( `Unable to fetch listings from ${ requestUrl }` )
+}
+
 function makeSlug ( name: string ) {
     return slugify(name, {
         lower: true,
@@ -66,6 +180,183 @@ function cleanListings ( fetchedListings ) {
     }
 
     return fetchedListings
+}
+
+function getListingTitleForAudit ( listing: any ) {
+    return String( listing?.title || listing?.name || '' )
+}
+
+function getListingDateForAudit ( listing: any ) {
+    return String( listing?.release_date || listing?.first_air_date || '' )
+}
+
+function getListingTypeForAudit ( listing: any ) {
+    const tags = Array.isArray( listing?.tags ) ? listing.tags : []
+
+    if ( tags.includes( 'movie' ) ) {
+        return 'movie'
+    }
+
+    if ( tags.includes( 'tv' ) ) {
+        return 'tv'
+    }
+
+    return ''
+}
+
+function normalizeTitleForAudit ( title: string ) {
+    return makeSlug( title )
+        .replace( /^marvels-/, '' )
+        .replace( /^the-/, '' )
+        .replace( /^assembled-the-making-of-/, '' )
+        .replace( /^marvel-studios-assembled-the-making-of-/, '' )
+        .replace( /^the-making-of-/, '' )
+}
+
+function getTokenOverlapRatio ( stringA: string, stringB: string ) {
+    const tokenSetA = new Set( stringA.split( '-' ).filter( Boolean ) )
+    const tokenSetB = new Set( stringB.split( '-' ).filter( Boolean ) )
+    const union = new Set( [ ...tokenSetA, ...tokenSetB ] )
+
+    if ( union.size === 0 ) {
+        return 0
+    }
+
+    let intersectionCount = 0
+
+    for ( const token of tokenSetA ) {
+        if ( tokenSetB.has( token ) ) {
+            intersectionCount += 1
+        }
+    }
+
+    return intersectionCount / union.size
+}
+
+function isSuspiciousTitleChange ( previousTitle: string, nextTitle: string ) {
+    const normalizedPreviousTitle = normalizeTitleForAudit( previousTitle )
+    const normalizedNextTitle = normalizeTitleForAudit( nextTitle )
+
+    if ( normalizedPreviousTitle === normalizedNextTitle ) {
+        return false
+    }
+
+    if (
+        normalizedPreviousTitle.includes( normalizedNextTitle )
+        || normalizedNextTitle.includes( normalizedPreviousTitle )
+    ) {
+        return false
+    }
+
+    return getTokenOverlapRatio( normalizedPreviousTitle, normalizedNextTitle ) < 0.5
+}
+
+async function readListingsSnapshot () {
+    const listingsJsonPath = `${ storePath }/listings.json`
+
+    if ( !( await exists( listingsJsonPath ) ) ) {
+        return []
+    }
+
+    const fileContent = await Deno.readTextFile( listingsJsonPath )
+
+    return JSON.parse( fileContent )
+}
+
+function makeTmdbRegressionReport ( previousListings: any[], nextListings: any[] ) {
+    const nextListingsById = Object.fromEntries( nextListings.map( ( listing: any ) => [ listing.id, listing ] ) )
+
+    const report: any = {
+        generatedAt: new Date().toISOString(),
+        counts: {
+            previousListings: previousListings.length,
+            nextListings: nextListings.length,
+            missingIds: 0,
+            titleChanges: 0,
+            suspiciousTitleChanges: 0,
+            typeChanges: 0,
+            dateCleared: 0,
+            adultFlagFlips: 0,
+        },
+        missingIds: [],
+        titleChanges: [],
+        suspiciousTitleChanges: [],
+        typeChanges: [],
+        dateCleared: [],
+        adultFlagFlips: [],
+    }
+
+    for ( const previousListing of previousListings ) {
+        const nextListing = nextListingsById[ previousListing.id ]
+        const previousTitle = getListingTitleForAudit( previousListing )
+
+        if ( !nextListing ) {
+            report.missingIds.push( {
+                id: previousListing.id,
+                title: previousTitle,
+                type: getListingTypeForAudit( previousListing ),
+                date: getListingDateForAudit( previousListing ),
+            } )
+            continue
+        }
+
+        const nextTitle = getListingTitleForAudit( nextListing )
+        const previousType = getListingTypeForAudit( previousListing )
+        const nextType = getListingTypeForAudit( nextListing )
+        const previousDate = getListingDateForAudit( previousListing )
+        const nextDate = getListingDateForAudit( nextListing )
+
+        if ( previousTitle !== nextTitle ) {
+            const titleChange = {
+                id: previousListing.id,
+                previousTitle,
+                nextTitle,
+                previousDate,
+                nextDate,
+            }
+
+            report.titleChanges.push( titleChange )
+
+            if ( isSuspiciousTitleChange( previousTitle, nextTitle ) ) {
+                report.suspiciousTitleChanges.push( titleChange )
+            }
+        }
+
+        if ( previousType !== nextType ) {
+            report.typeChanges.push( {
+                id: previousListing.id,
+                title: nextTitle || previousTitle,
+                previousType,
+                nextType,
+            } )
+        }
+
+        if ( previousDate && !nextDate ) {
+            report.dateCleared.push( {
+                id: previousListing.id,
+                title: nextTitle || previousTitle,
+                previousDate,
+            } )
+        }
+
+        if ( Boolean( previousListing?.adult ) !== Boolean( nextListing?.adult ) ) {
+            report.adultFlagFlips.push( {
+                id: previousListing.id,
+                title: nextTitle || previousTitle,
+                previousAdult: Boolean( previousListing?.adult ),
+                nextAdult: Boolean( nextListing?.adult ),
+            } )
+        }
+    }
+
+    report.counts.missingIds = report.missingIds.length
+    report.counts.titleChanges = report.titleChanges.length
+    report.counts.suspiciousTitleChanges = report.suspiciousTitleChanges.length
+    report.counts.typeChanges = report.typeChanges.length
+    report.counts.dateCleared = report.dateCleared.length
+    report.counts.adultFlagFlips = report.adultFlagFlips.length
+
+    return report
 }
 
 async function fetchListings ({ 
@@ -100,14 +391,7 @@ async function fetchListings ({
             }
         }
 
-        const response = await axios.get( requestUrl, requestOptions )
-            .catch( ( error ) => {
-                console.error( error )
-            })
-
-        if ( !response ) {
-            throw new Error( `Unable to fetch listings from ${ requestUrl }` )
-        }
+        const response = await tmdbGet( requestUrl, requestOptions )
 
         const { data } = response
 
@@ -295,7 +579,8 @@ async function saveListingsAsMarkdown ( listings ) {
 }
 
 ;(async () => {
-    
+    const previousListings = await readListingsSnapshot()
+
     const companylistings = await fetchListingsFromCompanies( TMDB_COMPANIES )
 
     const listListings = await fetchListingsFromLists( TMDB_LISTS )
@@ -311,6 +596,13 @@ async function saveListingsAsMarkdown ( listings ) {
     const sortedListings = Object.values(listings)
         .sort( byPremiere )
 
+    const tmdbRegressionReport = makeTmdbRegressionReport( previousListings, sortedListings )
+
+    await writeJSON( `${ storePath }/tmdb-regression-report.json`, tmdbRegressionReport, null, '\t' )
+
+    if ( tmdbRegressionReport.counts.missingIds > 0 || tmdbRegressionReport.counts.suspiciousTitleChanges > 0 ) {
+        console.warn( 'TMDB regression audit detected changes that need review.', tmdbRegressionReport.counts )
+    }
 
     await writeJSON( `${ storePath }/listings.json`, sortedListings, null, '\t' )
 
