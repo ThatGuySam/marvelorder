@@ -23,8 +23,8 @@ export function makeTMDbMarkdownSection ( listing: Listing ) {
 interface ListingContentsOptions {
     // These are't fully fledged listings,
     // since they don't have all the data yet on their own
-    listing: object
-    tmdb: object
+    listing?: object
+    tmdb?: object
 }
 
 export function makeNewListingContents ( options: ListingContentsOptions ) {

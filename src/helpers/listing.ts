@@ -7,7 +7,7 @@ import type {
 type DeepMergeConfig = Parameters<typeof deepmergeCustom>[0]
 
 export function hasLogo ( listing: Listing ) {
-    return listing?.logo_on_black
+    return typeof listing?.logo_on_black === 'string' && listing.logo_on_black.length > 0
 }
 
 export function getDateString ( listing: Listing ) {
@@ -97,9 +97,9 @@ export function makeListingEndpoint ( listing: Listing ) {
     return `/en/${ listing.slug }-${ listing.id }`
 }
 
-export function convertNullValuesForAstro ( listings: Listing[] ) {
+export function convertNullValuesForAstro<T extends object> ( listings: T[] ): T[] {
     return listings.map( ( listing ) => {
-        const mappedEntries = Object.entries( listing ).map( ( [ key, value ] ) => {
+        const mappedEntries = Object.entries( listing as Record<string, unknown> ).map( ( [ key, value ] ) => {
             if ( value === null ) {
                 return [ key, '' ]
             }
@@ -107,7 +107,7 @@ export function convertNullValuesForAstro ( listings: Listing[] ) {
         } )
 
         // Stringify null values
-        return Object.fromEntries( mappedEntries )
+        return Object.fromEntries( mappedEntries ) as T
     } )
 }
 

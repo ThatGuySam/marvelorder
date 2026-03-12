@@ -1,24 +1,15 @@
 /* jsxImportSource: react */
 import { useCallback, useRef, useState } from 'react'
+import { DocSearchModal, useDocSearchKeyboardEvents } from '@docsearch/react'
+import { createPortal } from 'react-dom'
 import * as CONFIG from '../../config'
 import '@docsearch/css/dist/style.css'
 import './Search.css'
 
-// @ts-expect-error
-import * as docSearchReact from '@docsearch/react'
-
-// @ts-expect-error
-import { createPortal } from 'react-dom'
-
 export default function Search () {
-    const DocSearchModal = docSearchReact.DocSearchModal || docSearchReact.default.DocSearchModal
-
-    const useDocSearchKeyboardEvents
-		= docSearchReact.useDocSearchKeyboardEvents || docSearchReact.default.useDocSearchKeyboardEvents
-
     const [ isOpen, setIsOpen ] = useState( false )
-    const searchButtonRef = useRef()
-    const [ initialQuery, setInitialQuery ] = useState( null )
+    const searchButtonRef = useRef<HTMLButtonElement>( null )
+    const [ initialQuery, setInitialQuery ] = useState<string | null>( null )
 
     const onOpen = useCallback( () => {
         setIsOpen( true )
@@ -29,9 +20,9 @@ export default function Search () {
     }, [ setIsOpen ] )
 
     const onInput = useCallback(
-        ( e ) => {
+        ( event: KeyboardEvent ) => {
             setIsOpen( true )
-            setInitialQuery( e.key )
+            setInitialQuery( event.key )
         },
         [ setIsOpen, setInitialQuery ],
     )

@@ -1,4 +1,5 @@
 ---
+import type { MarkdownInstance } from 'astro'
 // @ts-ignore
 import { getListingsFromFilePaths } from '~/src/helpers/node/listing-files'
 // @ts-ignore
@@ -9,7 +10,9 @@ import ListingRow from '../components/listing-row.vue'
 
 export const prerender = true
 
-const pages = await Astro.glob( '/src/pages/en/*.md' )
+type MarkdownPage = MarkdownInstance<Record<string, any>>
+
+const pages = Object.values( import.meta.glob<MarkdownPage>( '/src/pages/en/*.md', { eager: true } ) )
 
 
 const listings = await getListingsFromFilePaths( pages.map( page => page.file ) )

@@ -1,0 +1,25 @@
+---
+interface HeaderLink {
+    depth: number
+    slug: string
+    text: string
+}
+
+const { headers = [] } = Astro.props as {
+    headers?: HeaderLink[]
+}
+---
+
+<h2 class="heading">On this page</h2>
+<ul>
+    <li class="header-link depth-2">
+        <a href="#overview">Overview</a>
+    </li>
+    {headers
+        .filter( ( { depth } ) => depth > 1 && depth < 4 )
+        .map( header => (
+            <li class={`header-link depth-${ header.depth }`}>
+                <a href={`#${ header.slug }`}>{header.text}</a>
+            </li>
+        ) )}
+</ul>

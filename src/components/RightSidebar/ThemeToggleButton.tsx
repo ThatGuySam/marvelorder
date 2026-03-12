@@ -54,12 +54,12 @@ const ThemeToggle: FunctionalComponent = () => {
     }, [ theme ] )
 
     return (
-        <div class="theme-toggle">
+        <div className="theme-toggle">
             {themes.map( ( t, i ) => {
                 const icon = icons[ i ]
                 const checked = t === theme
                 return (
-                    <label className={checked ? ' checked' : ''}>
+                    <label key={t} className={checked ? ' checked' : ''}>
                         {icon}
                         <input
                             type="radio"

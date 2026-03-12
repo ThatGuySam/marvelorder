@@ -7,10 +7,11 @@ import {
 } from './listing.ts'
 
 export const byDefaultListingSort = byPremiereReversed
+type ListingComparator = ( a: Listing, b: Listing ) => number
 
 const bigOleNumber = Number.MAX_SAFE_INTEGER
 
-export const sortTypes: any = {
+export const sortTypes: Record<string, ListingComparator> = {
     'default': byDefaultListingSort,
     'none': noSort,
     'timeline': byTimelineOrder,
@@ -19,8 +20,8 @@ export const sortTypes: any = {
     'title-length': byTitleLength,
 }
 
-export function getSortByName ( sortType: string ) {
-    return sortTypes[ sortType ]
+export function getSortByName ( sortType: string ): ListingComparator {
+    return sortTypes[ sortType ] || noSort
 }
 
 function getTitleDate ( listing: Listing ) {
@@ -64,6 +65,8 @@ export function byPremiere ( a: Listing, b: Listing ) {
     else if ( aDate < bDate ) {
         return 1
     }
+
+    return 0
 }
 
 export function byTimelineOrder ( a: Listing, b: Listing ) {

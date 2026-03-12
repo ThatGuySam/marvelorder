@@ -31,12 +31,12 @@ export function makeSlug ( name: string ) {
 }
 
 export function makeMappedListings ( listings: Listing[] ): MappedListing[] {
-    const mappedList = listings.map( listing => new MappedListing( listing ) )
+    const mappedList = listings.map( listing => ensureMappedListing( listing ) )
 
     return mappedList
 }
 
-export function ensureMappedListing ( listing: Listing ): MappedListing {
+export function ensureMappedListing ( listing: Listing | MappedListing ): MappedListing {
     if ( listing instanceof MappedListing ) {
         return listing
     }
@@ -44,9 +44,9 @@ export function ensureMappedListing ( listing: Listing ): MappedListing {
     return new MappedListing( listing )
 }
 
-export function ensureMappedListings ( listings: Listing[] ): MappedListing[] {
-    if ( listings[ 0 ] instanceof MappedListing ) {
-        return listings as MappedListing[]
+export function ensureMappedListings ( listings: Array<Listing | MappedListing> ): MappedListing[] {
+    if ( listings.every( ( listing ): listing is MappedListing => listing instanceof MappedListing ) ) {
+        return listings
     }
 
     return makeMappedListings( listings )
@@ -54,10 +54,8 @@ export function ensureMappedListings ( listings: Listing[] ): MappedListing[] {
 
 export const listingMerger = deepmergeCustom( listingMergeConfig )
 
-export function mergeListingData ( listingA: ListingFrontMatter, listingB: ListingFrontMatter ): ListingFrontMatter {
-    // TODO: Figure out how to make this play nice with deepmerge-ts
-    // so that we don't have to use 'as ListingFrontMatter'
-    return listingMerger( listingA, listingB ) as ListingFrontMatter
+export function mergeListingData<T extends object, U extends object> ( listingA: T, listingB: U ): T & U {
+    return listingMerger( listingA, listingB ) as T & U
 }
 
 export function getYearAndMonth ( date: string ) {
@@ -82,31 +80,31 @@ export class MappedListing {
         }
     }
 
-    sourceListing
+    sourceListing: Listing
 
-    isMappedListing = true
+    isMappedListing = true as const
 
-    get dateString () {
+    get dateString (): string {
         return getDateString( this.sourceListing )
     }
 
-    get isoDate () {
+    get isoDate (): string {
         return getIsoDate( this.sourceListing )
     }
 
-    get date () {
+    get date (): DateTime {
         return DateTime.fromISO( this.isoDate )
     }
 
-    get hasDate () {
+    get hasDate (): boolean {
         return hasDate( this.sourceListing )
     }
 
-    get hasSeasonReleaseDate () {
+    get hasSeasonReleaseDate (): boolean {
         return !!this.season
     }
 
-    get hasSpecificDate () {
+    get hasSpecificDate (): boolean {
         if ( !this.hasDate ) {
             return false
         }
@@ -115,15 +113,15 @@ export class MappedListing {
         return this.dateString.split( '-' ).length > 2
     }
 
-    get year () {
+    get year (): number {
         return this.date.year
     }
 
-    get season () {
+    get season (): { name: string, month: string } | null {
         return getSeasonReleaseDate( this.sourceListing )
     }
 
-    get dateHumanReadable () {
+    get dateHumanReadable (): string | number {
         // Just say Date Unknown for null dates
         if ( !this.hasDate ) {
             return 'Order TBA'
@@ -140,19 +138,19 @@ export class MappedListing {
         return `${ this.date.monthLong } ${ this.date.year }`
     }
 
-    get hasLogo () {
+    get hasLogo (): boolean {
         return hasLogo( this.sourceListing )
     }
 
-    get endpoint () {
+    get endpoint (): string {
         return makeListingEndpoint( this.sourceListing )
     }
 
-    get githubEditUrl () {
+    get githubEditUrl (): string {
         return `${ CONFIG.GITHUB_EDIT_URL }src/pages${ this.endpoint }.md`
     }
 
-    backdrop ( params = { transparent: 0 } ) {
+    backdrop ( params: Record<string, string | number> = { transparent: 0 } ): string | null {
         if ( !this.sourceListing?.backdrop_path ) {
             return null
         }
@@ -160,14 +158,14 @@ export class MappedListing {
         return makeTmdbImageUrl( this.sourceListing.backdrop_path, params )
     }
 
-    get elementId () {
+    get elementId (): string {
         return [
             this.sourceListing.slug,
             this.sourceListing.id,
         ].join( '-' )
     }
 
-    hasTag ( tagName: string ) {
+    hasTag ( tagName: string ): boolean {
         // If this listting has no tags, return false
         if ( !this.sourceListing?.tags ) {
             return false
@@ -176,7 +174,7 @@ export class MappedListing {
         return this.sourceListing.tags.includes( tagName )
     }
 
-    get defaultWatchLinkKey () {
+    get defaultWatchLinkKey (): '' | 'amazon' {
         if ( isValidHttpUrl( this.sourceListing?.watchLinks?.amazon ) ) {
             return 'amazon'
         }
@@ -184,7 +182,7 @@ export class MappedListing {
         return ''
     }
 
-    get defaultWatchLink () {
+    get defaultWatchLink (): { key: '' | 'amazon', href: string | undefined } | null {
         if ( this.defaultWatchLinkKey.length === 0 ) {
             return null
         }
@@ -194,4 +192,26 @@ export class MappedListing {
             href: this.sourceListing.watchLinks[ this.defaultWatchLinkKey ],
         }
     }
+}
+
+export interface MappedListing extends Listing {
+    sourceListing: Listing
+    isMappedListing: true
+    dateString: string
+    isoDate: string
+    date: DateTime
+    hasDate: boolean
+    hasSeasonReleaseDate: boolean
+    hasSpecificDate: boolean
+    year: number
+    season: { name: string, month: string } | null
+    dateHumanReadable: string | number
+    hasLogo: boolean
+    endpoint: string
+    githubEditUrl: string
+    backdrop: ( params?: Record<string, string | number> ) => string | null
+    elementId: string
+    hasTag: ( tagName: string ) => boolean
+    defaultWatchLinkKey: '' | 'amazon'
+    defaultWatchLink: { key: '' | 'amazon', href: string | undefined } | null
 }

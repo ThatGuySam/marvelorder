@@ -1,8 +1,8 @@
-export function isString ( maybeString ) {
+export function isString ( maybeString: unknown ): maybeString is string | String {
     return ( typeof maybeString === 'string' || maybeString instanceof String )
 }
 
-export function isNonEmptyString ( maybeString ) {
+export function isNonEmptyString ( maybeString: unknown ) {
     if ( !isString( maybeString ) ) {
         return false
     }
@@ -10,7 +10,7 @@ export function isNonEmptyString ( maybeString ) {
     return maybeString.length > 0
 }
 
-export function isNonEmptyArray ( maybeArray ) {
+export function isNonEmptyArray ( maybeArray: unknown ) {
     if ( !Array.isArray( maybeArray ) ) {
         return false
     }
@@ -18,23 +18,23 @@ export function isNonEmptyArray ( maybeArray ) {
     return maybeArray.length > 0
 }
 
-export function isPositiveNumberString ( maybeNumber ) {
+export function isPositiveNumberString ( maybeNumber: unknown ) {
     if ( !isString( maybeNumber ) ) {
         return false
     }
 
-    return /\d+$/.test( maybeNumber )
+    return /\d+$/.test( String( maybeNumber ) )
 }
 
-export function isValidHttpUrl ( maybeUrl, allowUnsecure = false ) {
+export function isValidHttpUrl ( maybeUrl: unknown, allowUnsecure = false ) {
     if ( !isString( maybeUrl ) ) {
         return false
     }
 
-    let url
+    let url: URL
 
     try {
-        url = new URL( maybeUrl )
+        url = new URL( String( maybeUrl ) )
     }
     catch ( _ ) {
         return false
@@ -47,18 +47,18 @@ export function isValidHttpUrl ( maybeUrl, allowUnsecure = false ) {
     return url.protocol === 'https:'
 }
 
-export function isValidImageUrl ( maybeUrl ) {
+export function isValidImageUrl ( maybeUrl: unknown ) {
     if ( !isValidHttpUrl( maybeUrl ) ) {
         return false
     }
 
     // Check if url has a file extension
-    const url = new URL( maybeUrl )
+    const url = new URL( String( maybeUrl ) )
     const fileExtension = url.pathname.split( '.' ).pop()
 
     return isNonEmptyString( fileExtension )
 }
 
-export function isObject ( maybeObject ) {
+export function isObject ( maybeObject: unknown ) {
     return maybeObject === Object( maybeObject )
 }

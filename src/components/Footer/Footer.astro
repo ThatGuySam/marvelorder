@@ -1,10 +1,12 @@
 ---
+import type { MarkdownInstance } from 'astro'
 import AvatarList from './AvatarList.astro';
 const { path } = Astro.props
 
+type MarkdownPage = MarkdownInstance<Record<string, any>>
 
-const stories = await Astro.glob('../../pages/stories/*.md')
-const lists = await Astro.glob('../../pages/en/lists/*.md')
+const stories = Object.values( import.meta.glob<MarkdownPage>( '../../pages/stories/*.md', { eager: true } ) )
+const lists = Object.values( import.meta.glob<MarkdownPage>( '../../pages/en/lists/*.md', { eager: true } ) )
 
 const menus = [
     {
@@ -59,4 +61,3 @@ const menus = [
 
 	<div class="text-xs opacity-50"></div>
 </div>
-

@@ -1,32 +1,31 @@
 import type { AstroIntegration } from 'astro'
+import type { SitemapOptions } from '@astrojs/sitemap'
 
-import { relative } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
-import { simpleSitemapAndIndex } from 'sitemap'
+import * as generateSitemapModule from '../../node_modules/@astrojs/sitemap/dist/generate-sitemap.js'
+import * as validateOptionsModule from '../../node_modules/@astrojs/sitemap/dist/validate-options.js'
+import * as writeSitemapModule from '../../node_modules/@astrojs/sitemap/dist/write-sitemap.js'
 
-import { generateSitemap } from '../../node_modules/@astrojs/sitemap/dist/generate-sitemap.js'
-import { Logger } from '../../node_modules/@astrojs/sitemap/dist/utils/logger.js'
-import { validateOptions } from '../../node_modules/@astrojs/sitemap/dist/validate-options.js'
-
-const PKG_NAME = '@astrojs/sitemap'
-const OUTFILE = 'sitemap-index.xml'
+const PKG_NAME = '@marvelorder/compat-sitemap'
+const { generateSitemap } = generateSitemapModule as any
+const { validateOptions } = validateOptionsModule as any
+const { writeSitemap } = writeSitemapModule as any
 
 function formatConfigErrorMessage ( err: { issues?: Array<{ path: Array<string | number>, message: string }> } ) {
-    return err.issues?.map( issue => ` ${issue.path.join( '.' )}  ${issue.message}.` ).join( '\n' ) ?? ''
+    return err.issues?.map( issue => ` ${ issue.path.join( '.' ) }  ${ issue.message }.` ).join( '\n' ) ?? ''
 }
 
-export default function compatSitemap ( options?: Parameters<typeof validateOptions>[ 1 ] ): AstroIntegration {
+export default function compatSitemap ( options?: SitemapOptions ): AstroIntegration {
     let config: any
-    const logger = new Logger( PKG_NAME )
 
     return {
-        name: '@marvelorder/compat-sitemap',
+        name: PKG_NAME,
         hooks: {
             'astro:config:done': async ( { config: astroConfig } ) => {
                 config = astroConfig
             },
-            'astro:build:done': async ( { dir, routes, pages } ) => {
+            'astro:build:done': async ( { dir, pages, logger } ) => {
                 try {
                     if ( !config.site ) {
                         logger.warn( 'The Sitemap integration requires the `site` astro.config option. Skipping.' )
@@ -34,7 +33,15 @@ export default function compatSitemap ( options?: Parameters<typeof validateOpti
                     }
 
                     const opts = validateOptions( config.site, options )
-                    const { filter, customPages, serialize, entryLimit } = opts
+                    const {
+                        filenameBase = 'sitemap',
+                        filter,
+                        customPages,
+                        customSitemaps,
+                        serialize,
+                        entryLimit,
+                    } = opts
+                    const outFile = `${ filenameBase }-index.xml`
                     const finalSiteUrl = new URL( config.base, config.site )
 
                     let pageUrls = pages.map( ( page: { pathname: string } ) => {
@@ -46,35 +53,14 @@ export default function compatSitemap ( options?: Parameters<typeof validateOpti
                         return new URL( path, finalSiteUrl ).href
                     } )
 
-                    const routeUrls = routes.reduce( ( urls: string[], route: any ) => {
-                        if ( !route.pathname ) {
-                            return urls
-                        }
-
-                        const path = finalSiteUrl.pathname + route.generate( route.pathname ).substring( 1 )
-                        const newUrl = new URL( path, finalSiteUrl ).href
-
-                        if ( config.trailingSlash === 'never' ) {
-                            urls.push( newUrl )
-                        }
-                        else if ( config.build.format === 'directory' && !newUrl.endsWith( '/' ) ) {
-                            urls.push( `${newUrl}/` )
-                        }
-                        else {
-                            urls.push( newUrl )
-                        }
-
-                        return urls
-                    }, [] )
-
-                    pageUrls = Array.from( new Set( [ ...pageUrls, ...routeUrls, ...( customPages ?? [] ) ] ) )
+                    pageUrls = Array.from( new Set( [ ...pageUrls, ...( customPages ?? [] ) ] ) )
 
                     if ( filter ) {
                         pageUrls = pageUrls.filter( filter )
                     }
 
                     if ( pageUrls.length === 0 ) {
-                        logger.warn( `No pages found!\n\`${OUTFILE}\` not created.` )
+                        logger.warn( `No pages found!\n\`${ outFile }\` not created.` )
                         return
                     }
 
@@ -99,17 +85,20 @@ export default function compatSitemap ( options?: Parameters<typeof validateOpti
                         urlData = serializedUrls
                     }
 
-                    const destinationDir = relative( fileURLToPath( config.root ), fileURLToPath( dir ) ) || '.'
+                    await writeSitemap(
+                        {
+                            filenameBase,
+                            hostname: finalSiteUrl.href,
+                            destinationDir: fileURLToPath( dir ),
+                            publicBasePath: config.base,
+                            sourceData: urlData,
+                            limit: entryLimit,
+                            customSitemaps,
+                        },
+                        config,
+                    )
 
-                    await simpleSitemapAndIndex( {
-                        hostname: finalSiteUrl.href,
-                        destinationDir,
-                        sourceData: urlData,
-                        limit: entryLimit,
-                        gzip: false,
-                    } )
-
-                    logger.success( `\`${OUTFILE}\` is created.` )
+                    logger.info( `\`${ outFile }\` created.` )
                 }
                 catch ( error: any ) {
                     if ( error?.name === 'ZodError' ) {

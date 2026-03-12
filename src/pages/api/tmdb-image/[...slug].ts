@@ -26,7 +26,28 @@ const OUTPUT_FORMATS = new Set( [
     'avif',
 ] )
 
-function getImageType ( buffer ) {
+interface RequestOptions {
+    width: number
+    quality: number
+    cropTop: number
+    cropBottom: number
+    contentUrl: string
+    requestExtension: string
+    transparent: number
+}
+
+interface HandlerEvent {
+    url: URL
+}
+
+interface HandlerResponse {
+    statusCode: number
+    headers?: Record<string, string>
+    body?: BodyInit | Buffer
+    isBase64Encoded?: boolean
+}
+
+function getImageType ( buffer: Buffer ) {
     const type = getImageTypeFromBuffer( buffer )
     if ( type ) {
         return type
@@ -37,19 +58,13 @@ function getImageType ( buffer ) {
     return null
 }
 
-function getOptions ( eventUrlString ) {
-    const eventUrl = new URL( eventUrlString, process.env.URL )
+function getOptions ( eventUrlString: string ): RequestOptions {
+    const eventUrl = new URL( eventUrlString, process.env.URL || 'https://marvelorder.com' )
 
-    // console.log('searchParams', Object.fromEntries( eventUrl.searchParams ))
-
-    const {
-        width: widthParam = 750,
-        // q = 95,
-        'crop.top': cropTop = 0,
-        'crop.bottom': cropBottom = 0,
-        transparent = 1,
-        // format = null,
-    } = Object.fromEntries( eventUrl.searchParams )
+    const widthParam = eventUrl.searchParams.get( 'width' ) || '750'
+    const cropTop = eventUrl.searchParams.get( 'crop.top' ) || '0'
+    const cropBottom = eventUrl.searchParams.get( 'crop.bottom' ) || '0'
+    const transparent = eventUrl.searchParams.get( 'transparent' ) || '1'
 
     const width = Number.parseInt( widthParam )
 
@@ -60,17 +75,20 @@ function getOptions ( eventUrlString ) {
     const quality = 95// parseInt(q) || 60
 
     const imagePath = eventUrl.pathname.split( 'tmdb-image/' )[ 1 ]
+    if ( !imagePath ) {
+        throw new Error( 'Image path is missing' )
+    }
 
     const contentUrl = `${ base_url }/${ imagePath }`
 
     // Just always assume it's a jpg source
-    const requestExtension = imagePath.split( /[#?]/ )[ 0 ].split( '.' ).pop().trim()
+    const requestExtension = imagePath.split( /[#?]/ )[ 0 ].split( '.' ).pop()?.trim() || 'jpg'
 
     return {
         width,
         quality,
-        cropTop,
-        cropBottom,
+        cropTop: Number( cropTop ),
+        cropBottom: Number( cropBottom ),
         contentUrl,
         requestExtension,
         transparent: Number( transparent ),
@@ -80,10 +98,10 @@ function getOptions ( eventUrlString ) {
 
 // Example URL
 // https://marvelorder-full-static.netlify.app/.netlify/functions/wp-image/marvelorderstaging.wpengine.com/2021/11/Chamber-1-V2.jpg?w=800&q=80&format
-export async function handler ( event ) {
+export async function handler ( event: HandlerEvent ): Promise<HandlerResponse> {
     // console.log('event', event)
 
-    let options = {}
+    let options: RequestOptions
 
     // Parse and validate options
     try {
@@ -107,7 +125,7 @@ export async function handler ( event ) {
         requestExtension,
     } = options
 
-    let sourceImage
+    let sourceImage: Awaited<ReturnType<typeof fetch>> | undefined
 
     // Move Request Extension to the start of the list
     // so that it is the first to be tried
@@ -135,7 +153,7 @@ export async function handler ( event ) {
     }
 
     // If we don't have an image, we're done
-    if ( !sourceImage.ok ) {
+    if ( !sourceImage?.ok ) {
         console.error( `Failed to download image ${ contentUrl }. Status ${ sourceImage.status } ${ sourceImage.statusText }` )
         return {
             statusCode: sourceImage.status,
@@ -189,7 +207,7 @@ export async function handler ( event ) {
 
     // console.log('options.transparent', options.transparent)
 
-    let maskBuffer = []
+    let maskBuffer: Buffer | undefined
 
     // Handle image transparency
     if ( options.transparent ) {
@@ -215,13 +233,16 @@ export async function handler ( event ) {
 
     // The format methods are just to set options: they don't
     // make it return that format.
-    const { info, data: outputBuffer } = await sharp( workingBuffer )
-        .ensureAlpha()
-        .joinChannel( maskBuffer )
-        // .jpeg({ quality, force: requestExtension === 'jpg' })
-        // .png({ quality, force: true })
+    let outputPipeline = sharp( workingBuffer )
+
+    if ( maskBuffer ) {
+        outputPipeline = outputPipeline
+            .ensureAlpha()
+            .joinChannel( maskBuffer )
+    }
+
+    const { info, data: outputBuffer } = await outputPipeline
         .webp( { quality, force: true } )
-        // .avif({ quality, force: requestExtension === 'avif' })
         .toBuffer( { resolveWithObject: true } )
 
     if ( outputBuffer.length > MAX_RESPONSE_SIZE ) {
@@ -245,7 +266,7 @@ export async function handler ( event ) {
 
 export default handler
 
-export const get: APIRoute = async ( context ) => {
+export const GET: APIRoute = async ( context ) => {
     try {
         // console.log( { context } )
 
@@ -256,7 +277,9 @@ export const get: APIRoute = async ( context ) => {
             body,
         } = await handler( context )
 
-        return new Response( body, {
+        const responseBody = Buffer.isBuffer( body ) ? new Uint8Array( body ) : body
+
+        return new Response( responseBody, {
             status: statusCode,
             headers,
             // encoding: 'binary',

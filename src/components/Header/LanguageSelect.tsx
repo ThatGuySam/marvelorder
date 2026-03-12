@@ -4,7 +4,7 @@ import { KNOWN_LANGUAGES, langPathRegex } from '../../languages'
 
 const LanguageSelect: FunctionalComponent<{ lang: string }> = ( { lang } ) => {
     return (
-        <div class="language-select-wrapper">
+        <div className="language-select-wrapper">
             <svg
                 aria-hidden="true"
                 focusable="false"
@@ -24,10 +24,10 @@ const LanguageSelect: FunctionalComponent<{ lang: string }> = ( { lang } ) => {
                 />
             </svg>
             <select
-                class="language-select"
+                className="language-select"
                 value={lang}
-                onChange={( e ) => {
-                    const newLang = e.target.value
+                onChange={( event ) => {
+                    const newLang = event.currentTarget.value
                     let actualDest = window.location.pathname.replace( langPathRegex, '/' )
                     if ( actualDest == '/' ) { actualDest = '/introduction' }
                     window.location.pathname = `/${ newLang }${ actualDest }`
@@ -35,9 +35,7 @@ const LanguageSelect: FunctionalComponent<{ lang: string }> = ( { lang } ) => {
             >
                 {Object.keys( KNOWN_LANGUAGES ).map( ( key ) => {
                     return (
-                        <option value={KNOWN_LANGUAGES[ key ]}>
-                            <span>{key}</span>
-                        </option>
+                        <option key={key} value={KNOWN_LANGUAGES[ key ]}>{key}</option>
                     )
                 } )}
             </select>

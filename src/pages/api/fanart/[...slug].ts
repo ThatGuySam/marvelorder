@@ -221,7 +221,7 @@ export async function handler ( event ) {
 
 export default handler
 
-export const get: APIRoute = async ( context ) => {
+export const GET: APIRoute = async ( context ) => {
     try {
         // console.log( { context } )
 

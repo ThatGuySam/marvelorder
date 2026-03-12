@@ -64,6 +64,10 @@ interface DisneyPlusInUniverseEntry {
     type: 'series' | ProgramType
 }
 
+let inUniverseTimelinePromise: Promise<DisneyPlusInUniverseEntry[]> | null = null
+let inUniverseListingsPromise: Promise<Awaited<ReturnType<typeof loadInUniverseListings>>> | null = null
+let inUniverseTimelineAndListingsPromise: Promise<Array<{ inUniverseEntry: DisneyPlusInUniverseEntry, mappedListing: any }>> | null = null
+
 function mapCuratedSetItem ( item: DisneyPlusInUniverseItem ): DisneyPlusInUniverseEntry {
     const isSeries = !!item?.seriesType
     const programOrSeries = isSeries ? 'series' : 'program'
@@ -80,26 +84,33 @@ function mapCuratedSetItem ( item: DisneyPlusInUniverseItem ): DisneyPlusInUnive
 }
 
 export async function getInUniverseTimeline (): Promise<DisneyPlusInUniverseEntry[]> {
-    // console.log( 'DISNEY_API_PREFIX', process.env.DISNEY_API_PREFIX )
+    if ( !inUniverseTimelinePromise ) {
+        inUniverseTimelinePromise = ( async () => {
+            let pageTotal = Number.POSITIVE_INFINITY
+            let pageIndex = 1
 
-    let pageTotal = Number.POSITIVE_INFINITY
-    let pageIndex = 1
+            const allItems: DisneyPlusInUniverseEntry[] = []
 
-    const allItems: DisneyPlusInUniverseEntry[] = []
+            while ( pageTotal > 0 ) {
+                const pageUrl = `${ process.env.DISNEY_API_PREFIX }${ inUniverseFirstPage.replace( '/page/1', `/page/${ pageIndex }` ) }`
+                const page = await axios( pageUrl ).then( res => res.data )
 
-    while ( pageTotal > 0 ) {
-        const pageUrl = `${ process.env.DISNEY_API_PREFIX }${ inUniverseFirstPage.replace( '/page/1', `/page/${ pageIndex }` ) }`
-        const page = await axios( pageUrl ).then( res => res.data )
+                const items = page.data.CuratedSet.items.map( mapCuratedSetItem )
 
-        const items = page.data.CuratedSet.items.map( mapCuratedSetItem )
+                allItems.push( ...items )
 
-        allItems.push( ...items )
+                pageTotal = items.length
+                pageIndex++
+            }
 
-        pageTotal = items.length
-        pageIndex++
+            return allItems
+        } )().catch( ( error ) => {
+            inUniverseTimelinePromise = null
+            throw error
+        } )
     }
 
-    return allItems
+    return inUniverseTimelinePromise
 }
 
 export function matchListingToInUniverse ( listing, inUniverseEntry ) {
@@ -156,7 +167,7 @@ const inUniverseFilters = new Map( [
     ],
 ] )
 
-async function getInUniverseListings () {
+async function loadInUniverseListings () {
     const rawListings = await getAllListings()
 
     const inUniverseListings = new FilteredListings( {
@@ -169,20 +180,40 @@ async function getInUniverseListings () {
     return inUniverseListings.list
 }
 
-export async function getInUniverseTimelineAndListings () {
-    const universeTimeline = await getInUniverseTimeline()
-    const savedListings = await getInUniverseListings()
-
-    const matches = new Map()
-
-    for ( const inUniverseEntry of universeTimeline ) {
-        const matchingListing = matchTimelineEntryToSavedListing( inUniverseEntry, savedListings )
-
-        matches.set( matchingListing.id, {
-            inUniverseEntry,
-            mappedListing: matchingListing,
+async function getInUniverseListings () {
+    if ( !inUniverseListingsPromise ) {
+        inUniverseListingsPromise = loadInUniverseListings().catch( ( error ) => {
+            inUniverseListingsPromise = null
+            throw error
         } )
     }
 
-    return Array.from( matches.values() )
+    return inUniverseListingsPromise
+}
+
+export async function getInUniverseTimelineAndListings () {
+    if ( !inUniverseTimelineAndListingsPromise ) {
+        inUniverseTimelineAndListingsPromise = ( async () => {
+            const universeTimeline = await getInUniverseTimeline()
+            const savedListings = await getInUniverseListings()
+
+            const matches = new Map()
+
+            for ( const inUniverseEntry of universeTimeline ) {
+                const matchingListing = matchTimelineEntryToSavedListing( inUniverseEntry, savedListings )
+
+                matches.set( matchingListing.id, {
+                    inUniverseEntry,
+                    mappedListing: matchingListing,
+                } )
+            }
+
+            return Array.from( matches.values() )
+        } )().catch( ( error ) => {
+            inUniverseTimelineAndListingsPromise = null
+            throw error
+        } )
+    }
+
+    return inUniverseTimelineAndListingsPromise
 }

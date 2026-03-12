@@ -1,4 +1,5 @@
 ---
+import type { MarkdownInstance } from 'astro'
 // import { getLanguageFromURL, KNOWN_LANGUAGE_CODES } from '../../languages.ts';
 import * as CONFIG from '../../config';
 // import AstroLogo from './AstroLogo.astro';
@@ -11,8 +12,10 @@ import CircleButton from '~/src/components/circle-button.vue'
 // const { currentPage } = Astro.props;
 // const lang = currentPage && getLanguageFromURL(currentPage)
 
-const lists = await Astro.glob( '/src/pages/en/lists/*.md' )
-const stories = await Astro.glob( '/src/pages/stories/*.md' )
+type MarkdownPage = MarkdownInstance<Record<string, any>>
+
+const lists = Object.values( import.meta.glob<MarkdownPage>( '/src/pages/en/lists/*.md', { eager: true } ) )
+const stories = Object.values( import.meta.glob<MarkdownPage>( '/src/pages/stories/*.md', { eager: true } ) )
 
 const pages = [
     ...lists,
@@ -21,7 +24,7 @@ const pages = [
 
 // console.log( 'lists', lists.map( l => l.url ) )
 
-const listsByUrl = Object.fromEntries( pages.map( l => [ l.url, l ] ) )
+const listsByUrl = Object.fromEntries( pages.flatMap( page => page.url ? [ [ page.url, page ] ] : [] ) )
 
 function menuItemFromUrl( url, label = null ) {
     const list = listsByUrl[ url ]

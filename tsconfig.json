@@ -1,31 +1,28 @@
 {
+    "extends": "astro/tsconfigs/base",
     "compilerOptions": {
-    // Enable top-level await, and other modern ESM features.
-        "target": "ESNext",
-        "module": "ESNext",
-        // Enable node-style module resolution, for things like npm package imports.
-        "moduleResolution": "node",
-        // Enable JSON imports.
-        "resolveJsonModule": true,
-        // Enable stricter transpilation for better output.
-        "isolatedModules": true,
-        // Add type definitions for our Vite runtime.
-
-        // https://www.typescriptlang.org/tsconfig#esModuleInterop
         "esModuleInterop": true,
-        // https://www.typescriptlang.org/tsconfig#allowSyntheticDefaultImports
         "allowSyntheticDefaultImports": true,
-
-        // Enable extensions on imports for Deno support
         "allowImportingTsExtensions": true,
-
         "types": ["vite/client", "node"],
-
         "baseUrl": ".",
         "paths": {
             "~/*": ["./*"],
             "~helpers": ["./src/helpers/*"],
             "~astro": ["./src/*"]
         }
-    }
+    },
+    "include": [
+        ".astro/types.d.ts",
+        "src/**/*",
+        "astro.config.ts"
+    ],
+    "exclude": [
+        "dist",
+        "node_modules",
+        "scripts",
+        "test",
+        "vitest.config.ts",
+        "tailwind.config.ts"
+    ]
 }

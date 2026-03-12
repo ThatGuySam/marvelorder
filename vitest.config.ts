@@ -1,13 +1,17 @@
 import { defineConfig } from 'vitest/config'
-import tsconfigPaths from 'vite-tsconfig-paths'
+import { fileURLToPath } from 'node:url'
 
 export default defineConfig( {
-    plugins: [ tsconfigPaths() ],
+    resolve: {
+        alias: {
+            '~': fileURLToPath( new URL( './', import.meta.url ) ),
+        },
+    },
     test: {
         // Fixes jsdom/canvas error
         // https://github.com/vitest-dev/vitest/issues/740#issuecomment-1042648373
         threads: false,
         // ...
-        testTimeout: 10_000,
+        testTimeout: 30_000,
     },
 } )

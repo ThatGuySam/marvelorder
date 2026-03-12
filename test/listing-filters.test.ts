@@ -16,20 +16,18 @@ import {
     getMissingFilterStories,
     makeFilterMarkdownContent,
 } from '~/src/helpers/node/markdown-files.ts'
-import type { Filter } from '~/src/helpers/types'
+import type { Filter, Listing, ListingFrontMatter } from '~/src/helpers/types'
 
-const fakeListing = {
+const fakeListing: ListingFrontMatter = {
     title: faker.lorem.sentence(),
     overview: faker.lorem.paragraph(),
-    backdrop_path: faker.image.imageUrl(),
+    backdrop_path: faker.image.imageUrl() as `/${ string }.jpg`,
     genre_ids: [ 1, 2, 3 ],
     id: faker.datatype.number(),
-    origin_country: [ faker.address.countryCode() ],
     original_language: faker.address.countryCode(),
-    popularity: faker.datatype.number(),
-    poster_path: faker.image.imageUrl(),
     slug: faker.lorem.slug(),
-    tags: [ faker.lorem.word(), faker.lorem.word() ],
+    vote_average: faker.datatype.number(),
+    // tags: [ faker.lorem.word(), faker.lorem.word() ],
 }
 
 test( 'Can filter out docs by default', () => {
@@ -51,7 +49,7 @@ test( 'Can filter out docs by default', () => {
 } )
 
 test( 'Can filter out docs from FilteredListings by default', () => {
-    const apiListings = [
+    const apiListings: Listing[] = [
         fakeListing,
         { ...fakeListing, tags: [ 'doc' ] },
     ]

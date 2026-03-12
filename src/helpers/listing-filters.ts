@@ -398,24 +398,40 @@ export function isWongCinematicUniverse ( listing ) {
     return false
 }
 
-type FiltersMap = Map<Function, { targetValue: Boolean }>
+type ListingFilter = ( listing: MappedListing ) => boolean
+type FiltersMap = Map<ListingFilter, { targetValue: boolean }>
+type BooleanFiltersMap = Map<ListingFilter, boolean>
+type FiltersInput = FiltersMap | BooleanFiltersMap | Array<[ListingFilter, boolean]>
 
-export function matchesFilters ( rawFilters: Map<Function, { targetValue: Boolean }> | Array<[Function, Boolean]> ) {
+function toFiltersMap ( rawFilters: FiltersInput = new Map() ): FiltersMap {
+    if ( Array.isArray( rawFilters ) ) {
+        return new Map( rawFilters.map( ( [ filterMethod, targetValue ] ) => [ filterMethod, { targetValue } ] ) )
+    }
+
+    const normalizedFilters: FiltersMap = new Map()
+
+    for ( const [ filterMethod, value ] of rawFilters.entries() ) {
+        normalizedFilters.set(
+            filterMethod,
+            typeof value === 'boolean' ? { targetValue: value } : value,
+        )
+    }
+
+    return normalizedFilters
+}
+
+export function matchesFilters ( rawFilters: FiltersInput ) {
     const filterOut = false
     const keep = true
 
-    // If filters is an array
-    // then convert it to a map
-    const filters: FiltersMap = Array.isArray( rawFilters )
-        ? new Map( rawFilters.map( ( [ filterMethod, targetValue ] ) => [ filterMethod, { targetValue } ] ) )
-        : rawFilters
+    const filters = toFiltersMap( rawFilters )
 
     // console.log( 'filters', filters )
 
     // We create a function here
     // so that we can use it as a filter
     // ex array.filter( matchesFilters( filters ) )
-    const filtersFunction = ( listing ) => {
+    const filtersFunction = ( listing: MappedListing ) => {
         // Loop through filters
         // and stop of a filter doesn't match
         // our set value
@@ -491,21 +507,21 @@ export const defaultFilters = new Map( [
 
 export class ListingFilters {
     constructor ( {
-        initialFilters = new Map(),
+        initialFilters = new Map() as FiltersInput,
     } = {} ) {
         this.activeFilters = new Map( [
             ...defaultFilters,
-            ...initialFilters,
+            ...toFiltersMap( initialFilters ),
         ] )
     }
 
-    activeFilters: Map<Function, { targetValue: Boolean }>
+    activeFilters: FiltersMap
 
     // filteredIds
 
     // markFiltered ( listings ) {}
 
-    filter ( listings ) {
+    filter ( listings: Listing[] ) {
         return listings.filter( matchesFilters( this.activeFilters ) )
     }
 }
@@ -513,7 +529,7 @@ export class ListingFilters {
 export class FilteredListings {
     constructor ( {
         listings = null,
-        initialFilters = new Map(),
+        initialFilters = new Map() as FiltersInput,
         listingsSort = '' as string,
         useDefaultFilters = true as boolean,
     } = {} ) {
@@ -535,20 +551,20 @@ export class FilteredListings {
 
         this.activeFilters = new Map( [
             ...baseFilters,
-            ...initialFilters,
+            ...toFiltersMap( initialFilters ),
         ] )
     }
 
-    listingsSort: Function
+    listingsSort: ( a: MappedListing, b: MappedListing ) => number
 
     initialListings: MappedListing[]
 
-    activeFilters: Map<Function, { targetValue: Boolean }>
+    activeFilters: FiltersMap
 
-    withFilters ( extraFilters ): MappedListing[] {
-        const filters = new Map( [
+    withFilters ( extraFilters: FiltersInput ): MappedListing[] {
+        const filters: FiltersMap = new Map( [
             ...this.activeFilters,
-            ...extraFilters,
+            ...toFiltersMap( extraFilters ),
         ] )
 
         // console.log('activeFilters', this.activeFilters)

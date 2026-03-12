@@ -12,6 +12,7 @@ import {
     ensureMappedListings,
     makeSlug,
     mergeListingData,
+    type MappedListing,
 } from '~/src/helpers/node/listing.ts'
 import {
     getDataFromListingContents,
@@ -48,7 +49,7 @@ export async function getListingFromFile ( filePath: string ) {
 }
 
 export async function getListingsFromFilePaths ( filePaths: string[] ) {
-    const listings: ListingFrontMatter[] = []
+    const listings: Listing[] = []
 
     for ( const filePath of filePaths ) {
         const { listing, tmdb } = await getListingFromFile( filePath )
@@ -156,9 +157,9 @@ export async function getTaggedListings ( tags: string[] ) {
         return []
     }
 
-    const rawListings = await getAllListings()
+    const rawListings = await getAllListingsMapped()
 
-    const hasAnyTag = ( listing: Listing ) => {
+    const hasAnyTag = ( listing: MappedListing ) => {
         return tags.some( ( tag ) => {
             return listing.hasTag( tag )
         } )
@@ -207,7 +208,7 @@ export function upsertListing ( listing: Listing, data: any ) {
 export async function upsertListingFrontmatter ( listingSource: Listing | string, data: any ) {
     const sourceIsString = typeof listingSource === 'string'
 
-    const listing = sourceIsString ? await getListingFromFile( listingSource ) : listingSource
+    const listing = sourceIsString ? ( await getListingFromFile( listingSource ) ).listing : listingSource
 
     const {
         markdownBody,
@@ -333,6 +334,18 @@ export async function getListingsFromSlug ( slug = '' ) {
 }
 
 export async function mapStoryContentToListings ( storyMarkdown: string ) {
+    interface StorySectionDetails {
+        heading: string
+        url: string
+        description: string
+    }
+
+    type StoryContentListing = MappedListing & StorySectionDetails
+
+    const isStoryContentListing = (
+        item: StorySectionDetails | StoryContentListing,
+    ): item is StoryContentListing => item instanceof Object && 'sourceListing' in item
+
     // If there's no h2 headings then return empty array
     if ( !storyMarkdown.includes( '##' ) ) {
         return {
@@ -344,7 +357,7 @@ export async function mapStoryContentToListings ( storyMarkdown: string ) {
     const markdownSections = storyMarkdown.trim().split( '##' )
 
     // Loop through each line to build the listings
-    const listingsFromContent = await Promise.all(
+    const listingsFromContent: Array<StorySectionDetails | StoryContentListing> = await Promise.all(
         markdownSections
             .filter( section => section.trim() !== '' )
             .map( async ( lines ) => {
@@ -369,27 +382,22 @@ export async function mapStoryContentToListings ( storyMarkdown: string ) {
                 // Extract text and url from markdown link
                 const [ sectionHeadingText, listingUrlString ] = headingLink.trim().slice( 1, -1 ).split( '](' )
 
-                const url = new URL( listingUrlString )
+                const url = new URL( listingUrlString, 'https://marvelorder.com' )
 
                 sectionDetails.heading = sectionHeadingText
                 sectionDetails.url = url.pathname
 
-                const listing = ensureMappedListing( await getSingleListingFromUrl( listingUrlString ) )
+                const listing = ensureMappedListing( await getSingleListingFromUrl( listingUrlString ) ) as StoryContentListing
 
-                // Transfer sectionDetails to listing
-                for ( const key of Object.keys( sectionDetails ) ) {
-                    listing[ key ] = sectionDetails[ key ]
-                }
+                Object.assign( listing, sectionDetails )
 
                 return listing
             } ),
     )
 
-    const [ cover, ...listings ] = listingsFromContent
-
     return {
-        cover,
-        listings, // : ensureMappedListings( listings )
+        cover: listingsFromContent.find( item => !isStoryContentListing( item ) ) || null,
+        listings: listingsFromContent.filter( isStoryContentListing ),
     }
 }
 
@@ -452,7 +460,7 @@ export function eitherFuzzyIncludes ( stringA: string, stringB: string ) {
     )
 }
 
-export function matchTitles ( title: string, anotherTitle: Listing ) {
+export function matchTitles ( title: string, anotherTitle: string ) {
     // Catch empty titles
     if ( !title.length ) {
         throw new Error( 'title must not be empty' )

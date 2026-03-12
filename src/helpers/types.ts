@@ -48,28 +48,27 @@ export interface Listing {
     title: string
     name?: string
     sourceListing?: Listing
-    overview: string
+    overview?: string
     description?: string
-    backdrop_path: TMDBImagePath
-    backdrop: TMDBImagePath
-    genre_ids: Array<number>
-    id: number
-    date: string
-    origin_country: Array<string>
+    backdrop_path?: TMDBImagePath
+    genre_ids?: Array<number>
+    id?: number
+    date?: unknown
+    origin_country?: Array<string>
     original_language: string
     original_title?: string
-    popularity: number
-    poster_path: string
+    popularity?: number
+    poster_path?: string
     release_date?: ListingDateValue
     first_air_date?: ListingDateValue
-    vote_average: number
-    vote_count: number
-    type: string
+    vote_average?: number
+    vote_count?: number
+    type?: string
     logo_on_black?: string
-    slug: string
+    slug?: string
     tags?: string[]
     watchLinks?: ListingWatchLinks
-    companies: Array<{
+    companies?: Array<{
         id: number
         name: string
     }>
