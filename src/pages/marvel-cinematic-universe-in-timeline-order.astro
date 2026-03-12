@@ -1,40 +1,12 @@
 ---
-import type { MarkdownInstance } from 'astro'
-// import { byListingDate } from '~/src/helpers/sort.ts'
-import { getListingsFromFilePaths } from '~/src/helpers/node/listing-files'
-import { 
-	isMcuSheetOrdered, 
-	FilteredListings
-} from '~/src/helpers/listing-filters'
-// @ts-ignore
-import { byTimelineOrder } from '~/src/helpers/sort'
+import { getPublicMcuTimelineListings } from '~/src/helpers/node/public-mcu-listings'
 // @ts-ignore
 import { convertNullValuesForAstro } from '~/src/helpers/listing'
 
 import Layout from '../layouts/HorizontalScroll.astro'
 import ListingRow from '../components/listing-row.vue'
 
-type MarkdownPage = MarkdownInstance<Record<string, any>>
-
-const pages = Object.values( import.meta.glob<MarkdownPage>( '/src/pages/en/*.md', { eager: true } ) )
-
-const allListings = await getListingsFromFilePaths( pages.map( page => page.file ) )
-
-const mcuFilteredListings = new FilteredListings({ 
-	listings: allListings, 
-	initialFilters: new Map([
-		[ isMcuSheetOrdered, true ],
-	]),
-
-	// We'll leave as is here and sort on LinstingRow.vue
-	listingsSort: 'none'
-})
-
-// console.log( 'mcuFilteredListings', mcuFilteredListings.list )
-
-const rawListings = mcuFilteredListings.list.map( listing => listing.sourceListing )
-
-// console.log( 'rawListings', rawListings )
+const rawListings = await getPublicMcuTimelineListings()
 
 ---
 <Layout
