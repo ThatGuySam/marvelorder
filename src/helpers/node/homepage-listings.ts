@@ -61,6 +61,14 @@ function getNormalizedHomepageTitle ( listing: Pick<Listing, 'title'> ) {
     return normalizeTitleForTimelineMatch( listing.title || '' )
 }
 
+function normalizeHomepageSignalValue ( value: string ) {
+    return value
+        .toLowerCase()
+        .replace( /[^a-z0-9\s]/g, ' ' )
+        .replace( /\s+/g, ' ' )
+        .trim()
+}
+
 function getHomepageCompanyTags ( listing: Pick<Listing, 'tags'> ) {
     if ( !Array.isArray( listing.tags ) ) {
         return []
@@ -97,11 +105,24 @@ function getSnapshotNormalizedTitle (
 function getHomepageSignalText (
     listing: Pick<Listing, 'description' | 'overview'>,
 ) {
-    return String( listing.description || listing.overview || '' )
-        .toLowerCase()
-        .replace( /[^a-z0-9\s]/g, ' ' )
-        .replace( /\s+/g, ' ' )
-        .trim()
+    return normalizeHomepageSignalValue( String( listing.description || listing.overview || '' ) )
+}
+
+function getHomepageTitleSignalText (
+    listing: Pick<Listing, 'title'>,
+) {
+    return normalizeHomepageSignalValue( String( listing.title || '' ) )
+}
+
+function getHomepageCombinedSignalText (
+    listing: Pick<Listing, 'title' | 'description' | 'overview'>,
+) {
+    return [
+        getHomepageTitleSignalText( listing ),
+        getHomepageSignalText( listing ),
+    ]
+        .filter( ( value ) => value.length > 0 )
+        .join( ' ' )
 }
 
 function getHomepageSignalTokens ( value: string ) {
@@ -272,28 +293,34 @@ function isHomepageFutureLowConfidence (
 }
 
 function isHomepageMotionComicObservation (
-    listing: Pick<Listing, 'description' | 'overview'>,
+    listing: Pick<Listing, 'title' | 'description' | 'overview'>,
 ) {
-    return /\bmotion comic\b/i.test( getHomepageSignalText( listing ) )
+    return /\bmotion comic\b/i.test( getHomepageCombinedSignalText( listing ) )
 }
 
 function isHomepageFanEditObservation (
-    listing: Pick<Listing, 'description' | 'overview'>,
+    listing: Pick<Listing, 'title' | 'description' | 'overview'>,
 ) {
-    return /\bfan edit\b/i.test( getHomepageSignalText( listing ) )
+    return /\bfan edit\b/i.test( getHomepageCombinedSignalText( listing ) )
+}
+
+function isHomepageLegoObservation (
+    listing: Pick<Listing, 'title' | 'description' | 'overview'>,
+) {
+    return /\blego\b/i.test( getHomepageCombinedSignalText( listing ) )
 }
 
 function isHomepageVariantEditionObservation (
-    listing: Pick<Listing, 'description' | 'overview'>,
+    listing: Pick<Listing, 'title' | 'description' | 'overview'>,
 ) {
-    return /\b(extended cut|extended version|added content|presented in color|in color|black and white|special edition|alternate cut|director s cut)\b/i
-        .test( getHomepageSignalText( listing ) )
+    return /\b(extended cut|extended version|added content|presented in color|in color|black and white|special edition|alternate cut|director s cut|rogue cut|norton cut|more fun stuff version|theatrical version)\b/i
+        .test( getHomepageCombinedSignalText( listing ) )
 }
 
 function isHomepageRumoredDevelopmentObservation (
-    listing: Pick<Listing, 'description' | 'overview'>,
+    listing: Pick<Listing, 'title' | 'description' | 'overview'>,
 ) {
-    return /\b(rumored title|announced as in development)\b/i.test( getHomepageSignalText( listing ) )
+    return /\b(rumored title|announced as in development)\b/i.test( getHomepageCombinedSignalText( listing ) )
 }
 
 function isHomepageKidsSpinoutObservation (
@@ -311,6 +338,30 @@ function isHomepageKidsTvObservation (
 ) {
     return getHomepageMediaKind( listing ) === 'tv'
         && hasHomepageGenre( listing, 10762 )
+}
+
+function isHomepageLogoLessAnimatedMovie (
+    listing: Pick<Listing, 'genre_ids' | 'logo_on_black' | 'release_date' | 'first_air_date' | 'tags' | 'type'>,
+) {
+    return getHomepageMediaKind( listing ) === 'movie'
+        && hasHomepageGenre( listing, 16 )
+        && !hasHomepageLogo( listing )
+}
+
+function isHomepageLogoLessDocumentaryMovie (
+    listing: Pick<Listing, 'genre_ids' | 'logo_on_black' | 'release_date' | 'first_air_date' | 'tags' | 'type'>,
+) {
+    return getHomepageMediaKind( listing ) === 'movie'
+        && hasHomepageGenre( listing, 99 )
+        && !hasHomepageLogo( listing )
+}
+
+function isHomepageMotionComicBrandObservation (
+    listing: Pick<Listing, 'logo_on_black' | 'tags'>,
+) {
+    return Array.isArray( listing.tags )
+        && listing.tags.includes( 'company-11106' )
+        && !hasHomepageLogo( listing )
 }
 
 function isHomepageUndatedLowSignalMovie (
@@ -396,6 +447,10 @@ function shouldKeepHomepageListing (
     snapshotTitleById: Map<number, string>,
     now = new Date(),
 ) {
+    if ( isHomepageLegoObservation( listing ) ) {
+        return false
+    }
+
     if ( isHomepageWhatIfEpisode( listing ) ) {
         return false
     }
@@ -425,6 +480,18 @@ function shouldKeepHomepageListing (
     }
 
     if ( isHomepageKidsTvObservation( listing ) ) {
+        return false
+    }
+
+    if ( isHomepageLogoLessAnimatedMovie( listing ) ) {
+        return false
+    }
+
+    if ( isHomepageLogoLessDocumentaryMovie( listing ) ) {
+        return false
+    }
+
+    if ( isHomepageMotionComicBrandObservation( listing ) ) {
         return false
     }
 

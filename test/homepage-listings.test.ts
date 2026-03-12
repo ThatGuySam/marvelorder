@@ -56,6 +56,18 @@ test( 'Homepage listings collapse transcript duplicates and junk cards', async (
         'Doctor Strange: Time Runs Out',
         'El Muerto',
         'The Mutants',
+        'LEGO Marvel Avengers: Time Twisted',
+        'LEGO Marvel Avengers: Mission Demolition',
+        'LEGO Marvel Avengers: Loki in Training',
+        'X-Men: Days of Future Past - The Rogue Cut',
+        'Marvel Knights: Inhumans',
+        'Marvel Super Heroes 4D',
+        'Hulk vs. Wolverine',
+        'Hulk vs. Thor',
+        'Next Avengers: Heroes of Tomorrow',
+        'The Incredible Hulk: Edward Norton Cut',
+        '8 Arms to Hold You',
+        'Spider-Man: Freshman Year',
     ]
 
     for ( const title of expectedSingles ) {
@@ -76,6 +88,9 @@ test( 'Homepage listings collapse transcript duplicates and junk cards', async (
     const grootListings = listings
         .filter( ( listing ) => listing.title === 'I Am Groot' )
         .sort( ( listingA, listingB ) => String( listingA.first_air_date ).localeCompare( String( listingB.first_air_date ) ) )
+    const doctorStrangeListings = listings
+        .filter( ( listing ) => listing.title === 'Doctor Strange' )
+        .sort( ( listingA, listingB ) => Number( listingA.id || 0 ) - Number( listingB.id || 0 ) )
     const reactListing = listings.find( ( listing ) => listing.title === 'Deadpool and Korg React' )
     const doomsdayListing = listings.find( ( listing ) => listing.title === 'Avengers: Doomsday' )
     const eyesOfWakandaListing = listings.find( ( listing ) => listing.title === 'Eyes of Wakanda' )
@@ -104,6 +119,9 @@ test( 'Homepage listings collapse transcript duplicates and junk cards', async (
     expect( grootListings.map( ( listing ) => listing.homepageSeasonLabel ) ).toEqual( [
         'Season 1',
         'Season 2',
+    ] )
+    expect( doctorStrangeListings.map( ( listing ) => listing.id ) ).toEqual( [
+        284052,
     ] )
     expect( reactListing?.logo_on_black ).toBeTruthy()
     expect( doomsdayListing?.logo_on_black ).toBeTruthy()
