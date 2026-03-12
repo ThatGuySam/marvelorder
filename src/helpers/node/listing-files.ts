@@ -18,6 +18,9 @@ import {
     getDataFromListingContents,
     makeNewListingContents,
 } from '~/src/helpers/markdown-page.ts'
+import {
+    normalizeListingObservation,
+} from '~/src/helpers/node/listing-source-overrides.ts'
 
 import type { Filter, Listing, ListingFrontMatter } from '~/src/helpers/types.ts'
 
@@ -62,7 +65,10 @@ export async function getListingsFromFilePaths ( filePaths: string[] ) {
         }
 
         // Merge listing data
-        listings.push( mergeListingData( tmdb, listing ) )
+        listings.push( normalizeListingObservation(
+            mergeListingData( tmdb, listing ),
+            tmdb,
+        ) )
     }
 
     return listings
