@@ -5,6 +5,7 @@
 
 [build.environment]
   NODE_VERSION = "24.4.0"
+  BUN_VERSION = "1.2.15"
 
 # https://docs.netlify.com/configure-builds/file-based-configuration/#functions
 [functions]
@@ -89,4 +90,3 @@
 #     from = "/en/"
 #     to = "/en/"
 #     status = 301
-
