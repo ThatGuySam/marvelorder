@@ -7,7 +7,7 @@ description: >-
   himself in the middle of a plot to kill a young, crippled girl so her
   unscrupulous relatives can inherit the family fortune.
 layout: ../../layouts/MainLayout.astro
-logo_on_black: /.netlify/functions/tmdb-image/bzrcGjnFF9k7aSuEKkUXYXg3Kn6.webp?crop.top=0.66
+logo_on_black: "{tmdb-path}/bzrcGjnFF9k7aSuEKkUXYXg3Kn6.webp?crop.top=0.66"
 watchLinks:
   amazon: 'https://amzn.to/3HvReEd'
 ---

@@ -9,7 +9,7 @@ description: >-
   evil plans of Dr. Doom and save the world from certain destruction.
 layout: ../../layouts/MainLayout.astro
 type: movie
-logo_on_black: /.netlify/functions/fanart/fantastic-four-527c674a900f0.png
+logo_on_black: "{fanart-path}/fantastic-four-527c674a900f0.png"
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B000I9U8NW?tag=marvelorder-20&linkCode=osi&th=1&psc=1

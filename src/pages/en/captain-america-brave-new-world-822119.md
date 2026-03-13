@@ -5,7 +5,7 @@ description: >-
   A sequel to Marvel Studios' The Falcon and the Winter Soldier and follows Sam
   Wilson as the new Captain America.
 layout: ../../layouts/MainLayout.astro
-logo_on_black: /.netlify/functions/tmdb-image/ghkjPyaPGMfDufOa4D2A51DFGWr.webp
+logo_on_black: "{tmdb-path}/ghkjPyaPGMfDufOa4D2A51DFGWr.webp"
 video: false
 tags:
   - movie

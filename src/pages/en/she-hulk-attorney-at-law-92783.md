@@ -6,7 +6,7 @@ description: >-
   attorney who also happens to be a green 6-foot-7-inch superpowered hulk.
 layout: ../../layouts/MainLayout.astro
 type: tv
-logo_on_black: /.netlify/functions/tmdb-image/9DjjTb8SEquq25sScE0SXRZiKZ1.webp
+logo_on_black: "{tmdb-path}/9DjjTb8SEquq25sScE0SXRZiKZ1.webp"
 mcuTimelineOrder: 605
 ---
 ## TMDB Data

@@ -6,7 +6,7 @@ description: >-
   of the Iron Fist, he seeks to reclaim his past and fulfill his destiny.
 layout: ../../layouts/MainLayout.astro
 type: tv
-logo_on_black: /.netlify/functions/fanart/iron-fist-2017-589781e36a330.webp
+logo_on_black: "{fanart-path}/iron-fist-2017-589781e36a330.webp"
 watchLinks:
   amazon: none
 mcuTimelineOrder: 206

@@ -12,7 +12,7 @@ description: >-
   terrorists, can Captain America save the day!?
 layout: ../../layouts/MainLayout.astro
 logo_on_black: >-
-  /.netlify/functions/tmdb-image/ggbq4863ttkoNT7X96eILcc7PkU.webp?crop.bottom=0.785
+  {tmdb-path}/ggbq4863ttkoNT7X96eILcc7PkU.webp?crop.bottom=0.785
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B005G5NPD8?tag=marvelorder-20&linkCode=osi&th=1&psc=1

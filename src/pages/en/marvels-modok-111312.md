@@ -10,7 +10,7 @@ description: >-
   Killing is set to confront his greatest challenge yet: a midlife crisis!
 layout: ../../layouts/MainLayout.astro
 type: tv
-logo_on_black: /.netlify/functions/tmdb-image/sbRrk3dAkjXbVV644Wr7ogOKp7w.webp
+logo_on_black: "{tmdb-path}/sbRrk3dAkjXbVV644Wr7ogOKp7w.webp"
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B097S4N99J?tag=marvelorder-20&linkCode=osi&th=1&psc=1

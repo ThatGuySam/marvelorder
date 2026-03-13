@@ -24,6 +24,7 @@ import {
 import HeadCommon from '../components/HeadCommon.astro'
 import MainHeading from '~/src/components/story/main-heading.astro'
 import StoryPage from '~/src/components/story/amp-story-page.astro'
+import { expandImagePathPlaceholders } from '~/src/helpers/image-paths'
 
 // import * as CONFIG from '../config'
 
@@ -39,7 +40,7 @@ const inlineStyles = esbuild.transformSync(rawInlineStyles, {
 
 // console.log( 'inlineStyles', inlineStyles )
 
-const { content = {} } = Astro.props;
+const content = expandImagePathPlaceholders( Astro.props.content ?? {} );
 const currentPage = new URL(Astro.request.url).pathname
 const storySlug = currentPage.replace( /^\/|\/$/g, '' ).split('/').pop()
 

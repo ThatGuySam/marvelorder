@@ -6,7 +6,7 @@ description: >-
   by Professor Charles Xavier—and the Brotherhood, a band of powerful mutants
   organised under Xavier's former ally, Magneto.
 layout: ../../layouts/MainLayout.astro
-logo_on_black: /.netlify/functions/fanart/x-men-the-last-stand-5cd52c0045576.png
+logo_on_black: "{fanart-path}/x-men-the-last-stand-5cd52c0045576.png"
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B000JFDBXO?tag=marvelorder-20&linkCode=osi&th=1&psc=1

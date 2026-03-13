@@ -6,7 +6,7 @@ description: >-
   added content!
 layout: ../../layouts/MainLayout.astro
 poster_path: /fUdWbWCgJSo1his6Mp60hxiDp53.jpg
-logo_on_black: /.netlify/functions/tmdb-image/fUdWbWCgJSo1his6Mp60hxiDp53.webp
+logo_on_black: "{tmdb-path}/fUdWbWCgJSo1his6Mp60hxiDp53.webp"
 ---
 ## TMDB Data
 ```json

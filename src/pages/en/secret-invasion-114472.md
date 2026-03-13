@@ -6,7 +6,7 @@ description: >-
   infiltrating Earth for years.
 layout: ../../layouts/MainLayout.astro
 type: tv
-logo_on_black: /.netlify/functions/tmdb-image/ySkya7tPCuT1a4gsewyNzRi9cli.webp
+logo_on_black: "{tmdb-path}/ySkya7tPCuT1a4gsewyNzRi9cli.webp"
 backdrop_path: /8CO2liwAiP31ZY5We2bildsjGh8.jpg
 mcuTimelineOrder: 633
 ---

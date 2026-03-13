@@ -9,7 +9,7 @@ description: >-
   than the festive spirit.
 layout: ../../layouts/MainLayout.astro
 type: tv
-logo_on_black: /.netlify/functions/tmdb-image/lpBHu9ZXCcuzq1XGPZo02U3Ah9f.webp
+logo_on_black: "{tmdb-path}/lpBHu9ZXCcuzq1XGPZo02U3Ah9f.webp"
 watchLinks:
   amazon: none
 mcuTimelineOrder: 587

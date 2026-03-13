@@ -11,7 +11,7 @@ description: >-
   Spider-Man must defeat this scheming villain and stop him blowing up the World
   Trade Centre.
 layout: ../../layouts/MainLayout.astro
-logo_on_black: /.netlify/functions/fanart/spider-man-strikes-back-5d35084edf0b8.webp
+logo_on_black: "{fanart-path}/spider-man-strikes-back-5d35084edf0b8.webp"
 watchLinks:
   amazon: none
 ---

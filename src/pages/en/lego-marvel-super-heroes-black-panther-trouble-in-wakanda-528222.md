@@ -12,7 +12,7 @@ layout: ../../layouts/MainLayout.astro
 draft: true
 type: movie
 logo_on_black: >-
-  /.netlify/functions/fanart/lego-marvel-super-heroes-black-panther---trouble-in-wakanda-5e85da0ef3416.webp
+  {fanart-path}/lego-marvel-super-heroes-black-panther---trouble-in-wakanda-5e85da0ef3416.webp
 ---
 ## TMDB Data
 ```json

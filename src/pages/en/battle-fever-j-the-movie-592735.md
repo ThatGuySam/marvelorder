@@ -15,7 +15,7 @@ description: >-
   robo is also complete and ready to save the day!
 layout: ../../layouts/MainLayout.astro
 type: movie
-logo_on_black: /.netlify/functions/tmdb-image/iSiD46YjoMMy0yOWImZUT6yZbWD.webp
+logo_on_black: "{tmdb-path}/iSiD46YjoMMy0yOWImZUT6yZbWD.webp"
 watchLinks:
   amazon: none
 ---

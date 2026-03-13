@@ -7,7 +7,7 @@ description: >-
   and Wasp—assemble to form the Avengers.
 layout: ../../layouts/MainLayout.astro
 logo_on_black: >-
-  /.netlify/functions/fanart/the-avengers-earths-mightiest-heroes-54c1bc8fa9bcb.webp
+  {fanart-path}/the-avengers-earths-mightiest-heroes-54c1bc8fa9bcb.webp
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B00M81R6JC?tag=marvelorder-20&linkCode=osi&th=1&psc=1

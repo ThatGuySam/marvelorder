@@ -51,7 +51,19 @@ export const listingsGlobPattern = 'src/pages/en/*.md'
 
 export const storiesGlobPattern = 'src/pages/stories/*.md'
 
-export const avengersBackdrop = '/.netlify/functions/tmdb-image/nNmJRkg8wWnRmzQDe2FwKbPIsJV.webp?transparent=0&width=2200'
+export const NETLIFY_FUNCTIONS_PATH_PREFIX = '/.netlify/functions'
+
+export const NETLIFY_TMDB_IMAGE_PATH = `${ NETLIFY_FUNCTIONS_PATH_PREFIX }/tmdb-image`
+
+export const NETLIFY_FANART_IMAGE_PATH = `${ NETLIFY_FUNCTIONS_PATH_PREFIX }/fanart`
+
+export const IMAGE_WORKER_ORIGIN = 'https://marvelorder-image-spike.samcarlton.workers.dev'
+
+export const TMDB_IMAGE_PATH = `${ IMAGE_WORKER_ORIGIN }${ NETLIFY_TMDB_IMAGE_PATH }`
+
+export const FANART_IMAGE_PATH = `${ IMAGE_WORKER_ORIGIN }${ NETLIFY_FANART_IMAGE_PATH }`
+
+export const avengersBackdrop = `${ TMDB_IMAGE_PATH }/nNmJRkg8wWnRmzQDe2FwKbPIsJV.webp?transparent=0&width=2200`
 
 export const TMDB_COMPANIES = [
     {

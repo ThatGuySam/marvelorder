@@ -7,7 +7,7 @@ description: >-
 layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: >-
-  /.netlify/functions/tmdb-image/pqzQvGVOGTvLjdAsv6BskKdq6kM.webp?crop.top=0.2&crop.bottom=0.4
+  {tmdb-path}/pqzQvGVOGTvLjdAsv6BskKdq6kM.webp?crop.top=0.2&crop.bottom=0.4
 watchLinks:
   amazon: none
 mcuTimelineOrder: 515

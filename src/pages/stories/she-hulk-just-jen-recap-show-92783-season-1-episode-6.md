@@ -6,7 +6,7 @@ coverAriaLabel: "Jennifer Walters surprised by Titania's presence at a wedding. 
 coverVideoUrl: https://vumbnail.com/fQ_xlE945Cg.mp4
 coverPosterUrl: https://vumbnail.com/3KlxkEEDiuE.jpg
 imageBackrounds: 
- - /.netlify/functions/tmdb-image/7ed2hlNWrER2KounC5fS3hOeRP9.webp?transparent=0&width=2200
+ - "{tmdb-path}/7ed2hlNWrER2KounC5fS3hOeRP9.webp?transparent=0&width=2200"
  - https://vumbnail.com/dZvYYXU2az8.jpg
  - https://vumbnail.com/AShjfn1my8A.jpg
  - https://vumbnail.com/lHFa9pxr8Gc.jpg

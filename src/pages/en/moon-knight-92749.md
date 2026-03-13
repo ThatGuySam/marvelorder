@@ -10,7 +10,7 @@ description: >-
   Egypt.
 layout: ../../layouts/MainLayout.astro
 type: tv
-logo_on_black: /.netlify/functions/tmdb-image/zFLOpjoo5pViEa71ZyDliJqhskn.webp
+logo_on_black: "{tmdb-path}/zFLOpjoo5pViEa71ZyDliJqhskn.webp"
 watchLinks:
   amazon: none
 mcuTimelineOrder: 610

@@ -9,7 +9,7 @@ description: >-
   superpowers, right?
 layout: ../../layouts/MainLayout.astro
 type: tv
-logo_on_black: /.netlify/functions/tmdb-image/7UGKZ5c0HSwro6n7GChl8uyaIfy.webp
+logo_on_black: "{tmdb-path}/7UGKZ5c0HSwro6n7GChl8uyaIfy.webp"
 watchLinks:
   amazon: none
 vote_average: 8

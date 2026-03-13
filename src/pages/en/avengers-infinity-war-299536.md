@@ -11,7 +11,7 @@ description: >-
   has never been more uncertain.
 layout: ../../layouts/MainLayout.astro
 type: movie
-logo_on_black: /.netlify/functions/fanart/avengers-infinity-war---part-i-5a4eae6d4addb.webp
+logo_on_black: "{fanart-path}/avengers-infinity-war---part-i-5a4eae6d4addb.webp"
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B07CKNQGLN?tag=marvelorder-20&linkCode=osi&th=1&psc=1

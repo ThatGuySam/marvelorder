@@ -12,7 +12,7 @@ description: >-
   into a world war.
 layout: ../../layouts/MainLayout.astro
 type: movie
-logo_on_black: /.netlify/functions/fanart/black-panther-579698eae2bd2.webp
+logo_on_black: "{fanart-path}/black-panther-579698eae2bd2.webp"
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B07CSKDGFF?tag=marvelorder-20&linkCode=osi&th=1&psc=1

@@ -6,7 +6,7 @@ description: >-
   battle an evil Sorceress from the past.
 layout: ../../layouts/MainLayout.astro
 logo_on_black: >-
-  /.netlify/functions/tmdb-image/uMoUh0cgZmAfbVF1aF9WGRfXKoh.webp?crop.bottom=0.73&crop.top=0.06
+  {tmdb-path}/uMoUh0cgZmAfbVF1aF9WGRfXKoh.webp?crop.bottom=0.73&crop.top=0.06
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B01JQXEKRA?tag=marvelorder-20&linkCode=osi&th=1&psc=1

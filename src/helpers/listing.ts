@@ -1,4 +1,6 @@
 import type { deepmergeCustom } from 'deepmerge-ts'
+import { TMDB_IMAGE_PATH } from '../config.ts'
+import { formatUrlLikeInput } from './image-paths.ts'
 import type {
     Listing,
     ListingDateValue,
@@ -130,7 +132,7 @@ export function makeTmdbImageUrl ( tmdbImagePath = '', params = {} ) {
         ?.split( '.' )
         ?.shift()
 
-    const imageFunctionPath = `/.netlify/functions/tmdb-image/${ id }.webp?&transparent=0`
+    const imageFunctionPath = `${ TMDB_IMAGE_PATH }/${ id }.webp?&transparent=0`
 
     const sizeUrl = new URL( imageFunctionPath, 'https://marvelorder.com' )
 
@@ -138,5 +140,5 @@ export function makeTmdbImageUrl ( tmdbImagePath = '', params = {} ) {
         sizeUrl.searchParams.set( key, String( value ) )
     }
 
-    return `${ sizeUrl.pathname }${ sizeUrl.search }`
+    return formatUrlLikeInput( sizeUrl, imageFunctionPath )
 }

@@ -5,7 +5,7 @@ description: >-
   In a bad neighborhood, on his way to a laundromat to do his laundry, Frank
   Castle witnesses a ruthless street gang harassing several people.
 layout: ../../layouts/MainLayout.astro
-logo_on_black: /.netlify/functions/fanart/the-punisher-dirty-laundry-55805756b7e12.webp
+logo_on_black: "{fanart-path}/the-punisher-dirty-laundry-55805756b7e12.webp"
 watchLinks:
   amazon: none
 ---

@@ -11,7 +11,7 @@ description: >-
   Doom and Galactus, the planet consumer.
 layout: ../../layouts/MainLayout.astro
 type: tv
-logo_on_black: /.netlify/functions/fanart/the-fantastic-four-5ccdbd3222058.png
+logo_on_black: "{fanart-path}/the-fantastic-four-5ccdbd3222058.png"
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B000KCJQ1C?tag=marvelorder-20&linkCode=osi&th=1&psc=1

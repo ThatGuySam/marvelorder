@@ -1,13 +1,14 @@
 import type { Listing } from './types'
+import { TMDB_IMAGE_PATH } from '../config.ts'
 
-type TmdbFunctionImagePath = `/.netlify/functions/tmdb-image/${ string }.webp`
+type TmdbFunctionImagePath = `${ typeof TMDB_IMAGE_PATH }/${ string }.webp`
 
 const trim = ( value: string, separator: string ) => value.split( separator ).filter( Boolean ).join( separator )
 
 export function makeFunctionUrlFromTmdb ( tmdbImagePath: string ): TmdbFunctionImagePath {
     const [ tmdbImageId ] = trim( tmdbImagePath, '/' ).split( '.' )
 
-    return `/.netlify/functions/tmdb-image/${ tmdbImageId }.webp`
+    return `${ TMDB_IMAGE_PATH }/${ tmdbImageId }.webp`
 }
 
 export function getListingLogoUrl ( listing: Pick<Listing, 'logo_on_black'> ) {

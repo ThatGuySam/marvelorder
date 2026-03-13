@@ -8,7 +8,7 @@ layout: ../../layouts/MainLayout.astro
 tags:
   - tv
   - company-420
-logo_on_black: /.netlify/functions/tmdb-image/lOqw1w20tjRbbjPImUjbFRfNffp.webp
+logo_on_black: "{tmdb-path}/lOqw1w20tjRbbjPImUjbFRfNffp.webp"
 ---
 ## TMDB Data
 ```json

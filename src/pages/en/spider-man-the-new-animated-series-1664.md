@@ -14,7 +14,7 @@ description: >-
   clearly killed, rather than the usual ambiguous disappearance, and several
   characters are strongly implied to have had sex.
 layout: ../../layouts/MainLayout.astro
-logo_on_black: /.netlify/functions/tmdb-image/awXIdI6BO2hamxvjUMJTlL6fEA6.webp
+logo_on_black: "{tmdb-path}/awXIdI6BO2hamxvjUMJTlL6fEA6.webp"
 ---
 ## TMDB Data
 ```json

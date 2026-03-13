@@ -4,7 +4,7 @@ slug: the-marvels
 description: The sequel to Captain Marvel (2019).
 layout: ../../layouts/MainLayout.astro
 type: movie
-logo_on_black: /.netlify/functions/tmdb-image/bnz17wOkp9O0c9JADOncEx0Q1sJ.webp
+logo_on_black: "{tmdb-path}/bnz17wOkp9O0c9JADOncEx0Q1sJ.webp"
 ---
 ## TMDB Data
 ```json

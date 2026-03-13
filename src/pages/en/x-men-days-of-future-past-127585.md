@@ -7,7 +7,7 @@ description: >-
   epic battle that must change the past – to save our future.
 layout: ../../layouts/MainLayout.astro
 type: movie
-logo_on_black: /.netlify/functions/fanart/x-men-days-of-future-past-53b5b5780fcfb.png
+logo_on_black: "{fanart-path}/x-men-days-of-future-past-53b5b5780fcfb.png"
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B08Z85NZWK?tag=marvelorder-20&linkCode=osi&th=1&psc=1

@@ -7,7 +7,7 @@ description: >-
   cases involving people with extraordinary abilities in New York City.
 layout: ../../layouts/MainLayout.astro
 type: tv
-logo_on_black: /.netlify/functions/fanart/marvels-aka-jessica-jones-55f55caf06d6e.webp
+logo_on_black: "{fanart-path}/marvels-aka-jessica-jones-55f55caf06d6e.webp"
 watchLinks:
   amazon: none
 mcuTimelineOrder: 95

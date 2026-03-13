@@ -8,7 +8,7 @@ description: >-
   the Guardians as we know them.
 layout: ../../layouts/MainLayout.astro
 type: movie
-logo_on_black: /.netlify/functions/tmdb-image/cVrr7gSBD0w3ZuCnUrnShKB2OIC.webp
+logo_on_black: "{tmdb-path}/cVrr7gSBD0w3ZuCnUrnShKB2OIC.webp"
 genre_ids:
   - 28
   - 12

@@ -7,7 +7,7 @@ description: >-
   confront a mysterious new adversary.
 layout: ../../layouts/MainLayout.astro
 type: movie
-logo_on_black: /.netlify/functions/tmdb-image/fpwAkeawcsUWPl34Gomy1SajOTw.webp
+logo_on_black: "{tmdb-path}/fpwAkeawcsUWPl34Gomy1SajOTw.webp"
 watchLinks:
   amazon: 'https://amzn.to/3nbCKA0'
 mcuTimelineOrder: 586

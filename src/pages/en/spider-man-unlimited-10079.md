@@ -6,7 +6,7 @@ description: >-
   there and discovers a tyrannical & warped version of his world.
 layout: ../../layouts/MainLayout.astro
 type: tv
-logo_on_black: /.netlify/functions/fanart/spider-man-unlimited-605d96a6818a5.webp
+logo_on_black: "{fanart-path}/spider-man-unlimited-605d96a6818a5.webp"
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B00M2DQL6U?tag=marvelorder-20&linkCode=osi&th=1&psc=1

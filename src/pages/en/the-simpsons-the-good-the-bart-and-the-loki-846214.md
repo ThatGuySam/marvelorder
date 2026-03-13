@@ -22,7 +22,7 @@ overview: >-
   teams up with Bart Simpson in the ultimate crossover event paying tribute to
   the Marvel Cinematic Universe of superheroes and villains.
 poster_path: /rtMdtzywcAGOrF6t8fbxJBqpdcq.jpg
-logo_on_black: /.netlify/functions/tmdb-image/jH2ci1ZeE3n5dF8htou0vprrUiC.webp
+logo_on_black: "{tmdb-path}/jH2ci1ZeE3n5dF8htou0vprrUiC.webp"
 release_date: '2021-07-07'
 video: false
 vote_average: 7.3

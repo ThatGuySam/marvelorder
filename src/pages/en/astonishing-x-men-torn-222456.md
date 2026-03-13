@@ -12,7 +12,7 @@ description: >-
   Breakworld stands revealed! Who is it, and what will be their fate?
 layout: ../../layouts/MainLayout.astro
 type: movie
-logo_on_black: /.netlify/functions/fanart/astonishing-x-men-torn-5e704b9bbe565.png
+logo_on_black: "{fanart-path}/astonishing-x-men-torn-5e704b9bbe565.png"
 ---
 ## TMDB Data
 ```json

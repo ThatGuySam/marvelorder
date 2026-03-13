@@ -6,7 +6,7 @@ description: >-
   throughout his family.
 layout: ../../layouts/MainLayout.astro
 type: movie
-logo_on_black: /.netlify/functions/tmdb-image/gRNB6GsKrI410Nvsbur3Rf0Ixnr.webp
+logo_on_black: "{tmdb-path}/gRNB6GsKrI410Nvsbur3Rf0Ixnr.webp"
 ---
 ## TMDB Data
 ```json

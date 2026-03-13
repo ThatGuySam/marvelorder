@@ -11,7 +11,7 @@ description: >-
 layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: >-
-  /.netlify/functions/tmdb-image/6crVZ3TN2MUwtbx25pbBVBGn11d.webp?crop.bottom=0.78
+  {tmdb-path}/6crVZ3TN2MUwtbx25pbBVBGn11d.webp?crop.bottom=0.78
 watchLinks:
   amazon: none
 ---

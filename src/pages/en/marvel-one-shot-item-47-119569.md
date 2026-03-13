@@ -6,7 +6,7 @@ description: >-
   referred to as 'Item 47'...
 layout: ../../layouts/MainLayout.astro
 type: movie
-logo_on_black: /.netlify/functions/fanart/marvel-one-shot-item-47-53a58d4a3a305.webp
+logo_on_black: "{fanart-path}/marvel-one-shot-item-47-53a58d4a3a305.webp"
 watchLinks:
   amazon: none
 ---

@@ -5,7 +5,7 @@ description: >-
   Industrialist Tony Stark leads a private team of superheroes as Iron Man
   against the forces of evil.
 layout: ../../layouts/MainLayout.astro
-logo_on_black: /.netlify/functions/fanart/iron-man-5e71877a7bf7c.webp
+logo_on_black: "{fanart-path}/iron-man-5e71877a7bf7c.webp"
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B0036EH3XO?tag=marvelorder-20&linkCode=osi&th=1&psc=1

@@ -10,7 +10,7 @@ description: >-
   with no viable options, the Grandmaster moves in.
 layout: ../../layouts/MainLayout.astro
 type: movie
-logo_on_black: /.netlify/functions/fanart/team-darryl-5bf82bf981b31.webp
+logo_on_black: "{fanart-path}/team-darryl-5bf82bf981b31.webp"
 watchLinks:
   amazon: none
 ---

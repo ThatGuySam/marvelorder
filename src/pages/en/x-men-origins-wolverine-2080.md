@@ -6,7 +6,7 @@ description: >-
   girlfriend by undergoing the mutant Weapon X program and becoming Wolverine.
 layout: ../../layouts/MainLayout.astro
 logo_on_black: >-
-  /.netlify/functions/tmdb-image/mQglrQzgZT0Oj9cQYPsLI8dsEqB.webp?crop.top=0.83&crop.bottom=0.04
+  {tmdb-path}/mQglrQzgZT0Oj9cQYPsLI8dsEqB.webp?crop.top=0.83&crop.bottom=0.04
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B002K99P7S?tag=marvelorder-20&linkCode=osi&th=1&psc=1

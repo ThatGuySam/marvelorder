@@ -6,7 +6,7 @@ description: >-
   superpowers which mysteriously link them to one another.
 layout: ../../layouts/MainLayout.astro
 type: tv
-logo_on_black: /.netlify/functions/fanart/marvels-cloak--dagger-5b1cd013ba251.webp
+logo_on_black: "{fanart-path}/marvels-cloak--dagger-5b1cd013ba251.webp"
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B07DHDV8YL?tag=marvelorder-20&linkCode=osi&th=1&psc=1

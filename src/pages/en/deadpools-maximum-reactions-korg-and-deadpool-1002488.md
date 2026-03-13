@@ -3,7 +3,7 @@ title: 'Deadpool''s Maximum Reactions: Korg and Deadpool'
 slug: deadpools-maximum-reactions-korg-and-deadpool
 description: ''
 layout: ../../layouts/MainLayout.astro
-logo_on_black: /.netlify/functions/tmdb-image/5g1T37Hv1kE6P9pOMuVWMTh25fe.webp
+logo_on_black: "{tmdb-path}/5g1T37Hv1kE6P9pOMuVWMTh25fe.webp"
 tags:
   - movie
   - company-420

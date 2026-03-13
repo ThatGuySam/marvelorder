@@ -9,7 +9,7 @@ description: >-
 layout: ../../layouts/MainLayout.astro
 type: movie
 release_date: 2022-12
-logo_on_black: /.netlify/functions/tmdb-image/A7NLWwvgzlbg8RBJKPHlEszdD74.webp
+logo_on_black: "{tmdb-path}/A7NLWwvgzlbg8RBJKPHlEszdD74.webp"
 overview: >-
   Before Star-Lord, Gamora, Drax, Rocket, Mantis and Groot hit the big screen
   with the next Guardians of the Galaxy film in 2023, watch the Guardians engage

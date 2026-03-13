@@ -6,7 +6,7 @@ description: >-
   from different realities.
 layout: ../../layouts/MainLayout.astro
 type: movie
-logo_on_black: /.netlify/functions/tmdb-image/5cAuJOfd5tuuFBz2yQmBCtVBaj0.webp
+logo_on_black: "{tmdb-path}/5cAuJOfd5tuuFBz2yQmBCtVBaj0.webp"
 ---
 ## TMDB Data
 ```json

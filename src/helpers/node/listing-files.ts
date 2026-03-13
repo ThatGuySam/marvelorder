@@ -19,6 +19,9 @@ import {
     makeNewListingContents,
 } from '~/src/helpers/markdown-page.ts'
 import {
+    collapseImagePathsToPlaceholders,
+} from '~/src/helpers/image-paths.ts'
+import {
     normalizeListingObservation,
 } from '~/src/helpers/node/listing-source-overrides.ts'
 
@@ -230,7 +233,7 @@ export async function upsertListingFrontmatter ( listingSource: Listing | string
 }
 
 export function makeTomlFromListingData ( body: string, listing: Listing ) {
-    const markdownWithToml = matter.stringify( body, listing )
+    const markdownWithToml = matter.stringify( body, collapseImagePathsToPlaceholders( listing ) )
 
     return markdownWithToml
 }
@@ -262,7 +265,7 @@ export async function writeMarkdownFileNode ( { path, markdownBody, pageMeta } )
         return
     }
 
-    const markdownContent = matter.stringify( markdownBody, pageMeta )
+    const markdownContent = matter.stringify( markdownBody, collapseImagePathsToPlaceholders( pageMeta ) )
 
     // console.log('markdownContent', markdownContent)
 

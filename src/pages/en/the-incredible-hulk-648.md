@@ -7,7 +7,7 @@ description: >-
   David Banner searches for a cure as he crosses the country, fugitive-style,
   with a dogged tabloid reporter on his trail.
 layout: ../../layouts/MainLayout.astro
-logo_on_black: /.netlify/functions/fanart/the-incredible-hulk-5cdaa5b6b5d2d.webp
+logo_on_black: "{fanart-path}/the-incredible-hulk-5cdaa5b6b5d2d.webp"
 watchLinks:
   amazon: 'https://amzn.to/39xpHpv'
 ---

@@ -9,7 +9,7 @@ description: >-
   What if all that power was just one more excuse for mischief, mayhem, murder,
   and endorsement deals?
 layout: ../../layouts/MainLayout.astro
-logo_on_black: /.netlify/functions/fanart/powers-2014-5503f9406a26a.webp
+logo_on_black: "{fanart-path}/powers-2014-5503f9406a26a.webp"
 ---
 ## TMDB Data
 ```json

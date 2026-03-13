@@ -16,7 +16,7 @@ description: >-
   Fireworks Entertainment, one of the show's production companies, ending the
   show on a cliffhanger.
 layout: ../../layouts/MainLayout.astro
-logo_on_black: /.netlify/functions/fanart/mutant-x-512671c120573.webp
+logo_on_black: "{fanart-path}/mutant-x-512671c120573.webp"
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B07BPPH1Q8?tag=marvelorder-20&linkCode=osi&th=1&psc=1

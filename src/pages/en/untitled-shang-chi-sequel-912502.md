@@ -3,7 +3,7 @@ title: Untitled Shang-Chi Sequel
 slug: untitled-shang-chi-sequel
 description: Sequel to the 2021 film “Shang-Chi and the Legend of the Ten Rings”.
 layout: ../../layouts/MainLayout.astro
-logo_on_black: /.netlify/functions/tmdb-image/ruUz3vhYuq3011WzSNM0SlgaVzh.webp
+logo_on_black: "{tmdb-path}/ruUz3vhYuq3011WzSNM0SlgaVzh.webp"
 ---
 ## TMDB Data
 ```json

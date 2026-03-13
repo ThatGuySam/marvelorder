@@ -6,7 +6,7 @@ description: >-
   an ever-spreading zombie scourge.
 layout: ../../layouts/MainLayout.astro
 type: tv
-logo_on_black: /.netlify/functions/tmdb-image/vK2ZJlnurjxajVXGxy6KMeHJuW8.webp
+logo_on_black: "{tmdb-path}/vK2ZJlnurjxajVXGxy6KMeHJuW8.webp"
 ---
 ## TMDB Data
 ```json

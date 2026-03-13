@@ -9,6 +9,7 @@
 
 <script lang="ts">
 import { defineComponent, type PropType } from 'vue'
+import { formatUrlLikeInput } from '~/src/helpers/image-paths'
 
 import 'lazysizes/plugins/attrchange/ls.attrchange'
 import type { Listing } from '~/src/helpers/types'
@@ -20,7 +21,7 @@ function makeSizedImageUrl ( imageUrl: string, size: number ) {
 
     sizeUrl.searchParams.set( 'width', size )
 
-    return `${ sizeUrl.pathname }${ sizeUrl.search }`
+    return formatUrlLikeInput( sizeUrl, imageUrl )
 }
 
 export default defineComponent( {

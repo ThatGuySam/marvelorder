@@ -22,7 +22,7 @@ tags:
   - company-420
   - list-8204860
 media_type: movie
-logo_on_black: /.netlify/functions/tmdb-image/fa6aYdjF083UV2w6V7hOAjwaqi4.webp
+logo_on_black: "{tmdb-path}/fa6aYdjF083UV2w6V7hOAjwaqi4.webp"
 ---
 ## TMDB Data
 ```json

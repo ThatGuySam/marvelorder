@@ -9,7 +9,7 @@ imageBackrounds:
  - https://vumbnail.com/WE8V62rOCHo.jpg # Jennifer looking at screens
  - https://vumbnail.com/IuYj-PphIfA.jpg # Daredevil and Jennifer
  - https://vumbnail.com/x2Ai5WRV7dI.jpg # Hulk and Skaar
- - /.netlify/functions/tmdb-image/lK7eyB70k8NJiQA4pfi68aEDFBv.webp?transparent=0&width=2200
+ - "{tmdb-path}/lK7eyB70k8NJiQA4pfi68aEDFBv.webp?transparent=0&width=2200"
  - https://vumbnail.com/XUa2FO2K-5M.jpg # She-Hulk at Kevin Office
  - https://vumbnail.com/Kxqd5MLnihY.jpg # Todd Hulk
 motionBackgrounds: 

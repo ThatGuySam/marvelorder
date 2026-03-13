@@ -5,7 +5,7 @@ description: >-
   A group of supervillains and antiheroes go on missions for the government.
   Based on the comic book series of the same name.
 layout: ../../layouts/MainLayout.astro
-logo_on_black: /.netlify/functions/tmdb-image/dHhniU1vz1C0j27AFdcsPmq6xu.webp
+logo_on_black: "{tmdb-path}/dHhniU1vz1C0j27AFdcsPmq6xu.webp"
 ---
 ## TMDB Data
 ```json

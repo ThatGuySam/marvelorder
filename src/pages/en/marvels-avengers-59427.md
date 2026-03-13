@@ -9,7 +9,7 @@ description: >-
   truest sense. The Avengers save the world from the biggest threats
   imaginable--threats no single super hero could withstand.
 layout: ../../layouts/MainLayout.astro
-logo_on_black: /.netlify/functions/fanart/avengers-assemble-2013-53b98665b250b.webp
+logo_on_black: "{fanart-path}/avengers-assemble-2013-53b98665b250b.webp"
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B00D2GVCH4?tag=marvelorder-20&linkCode=osi&th=1&psc=1

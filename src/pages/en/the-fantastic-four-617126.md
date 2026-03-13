@@ -6,7 +6,7 @@ description: >-
   characters of the same name.
 layout: ../../layouts/MainLayout.astro
 type: movie
-logo_on_black: /.netlify/functions/tmdb-image/jatnqRPnxjg2Q6cFsAjmrBNhx9.webp
+logo_on_black: "{tmdb-path}/jatnqRPnxjg2Q6cFsAjmrBNhx9.webp"
 ---
 ## TMDB Data
 ```json

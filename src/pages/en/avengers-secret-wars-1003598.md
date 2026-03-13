@@ -3,7 +3,7 @@ title: 'Avengers: Secret Wars'
 slug: avengers-secret-wars
 description: An upcoming Phase 6 MCU film that will be the end of The Multiverse Saga.
 layout: ../../layouts/MainLayout.astro
-logo_on_black: /.netlify/functions/tmdb-image/8chwENebfUEJzZ7sMUA0nOgiCKk.webp
+logo_on_black: "{tmdb-path}/8chwENebfUEJzZ7sMUA0nOgiCKk.webp"
 tags:
   - movie
   - company-420

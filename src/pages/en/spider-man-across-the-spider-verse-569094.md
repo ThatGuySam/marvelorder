@@ -9,7 +9,7 @@ description: >-
   have ever encountered.
 layout: ../../layouts/MainLayout.astro
 type: movie
-logo_on_black: /.netlify/functions/tmdb-image/zfZuSNGKxIlWQKi4xlIhFoRrlnj.webp
+logo_on_black: "{tmdb-path}/zfZuSNGKxIlWQKi4xlIhFoRrlnj.webp"
 ---
 ## TMDB Data
 ```json

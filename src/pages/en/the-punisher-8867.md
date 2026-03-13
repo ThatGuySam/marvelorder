@@ -11,7 +11,7 @@ description: >-
   must again emerge from the shadows and save the innocent.
 layout: ../../layouts/MainLayout.astro
 type: movie
-logo_on_black: /.netlify/functions/fanart/the-punisher-5164a12f0fc20.png
+logo_on_black: "{fanart-path}/the-punisher-5164a12f0fc20.png"
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B01E2F5JAY?tag=marvelorder-20&linkCode=osi&th=1&psc=1

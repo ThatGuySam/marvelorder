@@ -7,7 +7,7 @@ description: >-
   shoot torpedoes from its mouth. Spiderman employs the help of the interpol
   agent Juzo Mamiya to help him stop the Iron Cross Army.
 layout: ../../layouts/MainLayout.astro
-logo_on_black: /.netlify/functions/fanart/spider-man-the-movie-5e89f52be649e.webp
+logo_on_black: "{fanart-path}/spider-man-the-movie-5e89f52be649e.webp"
 watchLinks:
   amazon: none
 ---

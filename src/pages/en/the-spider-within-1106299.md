@@ -9,8 +9,8 @@ description: >-
   and learn that reaching out for help can be just as brave an act as protecting
   his city from evil.
 layout: ../../layouts/MainLayout.astro
-logo_on_black: /.netlify/functions/tmdb-image/wTF6OMFpubqNCjdhVlBoOpq7yfz.webp
-backdrop_path: /.netlify/functions/tmdb-image/4unCqLCa4LjsqkLlWhGunhRf7Xm.webp
+logo_on_black: "{tmdb-path}/wTF6OMFpubqNCjdhVlBoOpq7yfz.webp"
+backdrop_path: "{tmdb-path}/4unCqLCa4LjsqkLlWhGunhRf7Xm.webp"
 ---
 ## TMDB Data
 ```json

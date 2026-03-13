@@ -6,7 +6,7 @@ description: >-
   guys, chows down on hot dogs, and makes plenty of food-based puns.
 layout: ../../layouts/MainLayout.astro
 type: movie
-logo_on_black: /.netlify/functions/fanart/spider-ham-caught-in-a-ham-629a4827462ac.webp
+logo_on_black: "{fanart-path}/spider-ham-caught-in-a-ham-629a4827462ac.webp"
 watchLinks:
   amazon: none
 ---

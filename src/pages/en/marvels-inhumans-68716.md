@@ -8,7 +8,7 @@ description: >-
   itself.
 layout: ../../layouts/MainLayout.astro
 type: tv
-logo_on_black: /.netlify/functions/fanart/marvels-the-inhumans-590cc04b00a44.webp
+logo_on_black: "{fanart-path}/marvels-the-inhumans-590cc04b00a44.webp"
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B0756NHJD3?tag=marvelorder-20&linkCode=osi&th=1&psc=1

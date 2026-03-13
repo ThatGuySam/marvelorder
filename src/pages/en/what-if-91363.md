@@ -7,7 +7,7 @@ description: >-
   Cinematic moments.
 layout: ../../layouts/MainLayout.astro
 type: tv
-logo_on_black: /.netlify/functions/tmdb-image/wzFmZOBRSYbrPxJE2nkhq2tAKwI.webp
+logo_on_black: "{tmdb-path}/wzFmZOBRSYbrPxJE2nkhq2tAKwI.webp"
 watchLinks:
   amazon: none
 mcuTimelineOrder: 483

@@ -8,7 +8,7 @@ description: >-
   a previously unseen period in the history of the Marvel Cinematic Universe.
 layout: ../../layouts/MainLayout.astro
 type: movie
-logo_on_black: /.netlify/functions/fanart/captain-marvel-5bc353bd435c3.webp
+logo_on_black: "{fanart-path}/captain-marvel-5bc353bd435c3.webp"
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B07P76GTJR?tag=marvelorder-20&linkCode=osi&th=1&psc=1

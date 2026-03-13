@@ -9,7 +9,7 @@ description: >-
   they thought possible.
 layout: ../../layouts/MainLayout.astro
 type: movie
-logo_on_black: /.netlify/functions/tmdb-image/mYCBuVGQGWPlUNZQusdHfbSzP1h.webp
+logo_on_black: "{tmdb-path}/mYCBuVGQGWPlUNZQusdHfbSzP1h.webp"
 tags:
   - movie
   - company-420

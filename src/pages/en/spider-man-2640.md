@@ -10,7 +10,7 @@ description: >-
   threats to Earth under the name Spiderman.
 layout: ../../layouts/MainLayout.astro
 type: tv
-logo_on_black: /.netlify/functions/fanart/spider-man-1978-5cddabaeefc4e.webp
+logo_on_black: "{fanart-path}/spider-man-1978-5cddabaeefc4e.webp"
 watchLinks:
   amazon: none
 vote_average: 7.1

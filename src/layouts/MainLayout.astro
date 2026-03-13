@@ -9,9 +9,10 @@ import Footer from '../components/Footer/Footer.astro';
 import PageContent from '../components/PageContent/PageContent.astro';
 import LeftSidebar from '../components/LeftSidebar/LeftSidebar.astro';
 import RightSidebar from '../components/RightSidebar/RightSidebar.astro';
+import { expandImagePathPlaceholders } from '../helpers/image-paths';
 import * as CONFIG from '../config';
 
-const { content = {} } = Astro.props;
+const content = expandImagePathPlaceholders( Astro.props.content ?? {} );
 const currentPage = new URL(Astro.request.url).pathname;
 const currentFile = `src/pages${currentPage.replace(/\/$/, '')}.md`;
 const githubEditUrl = CONFIG.GITHUB_EDIT_URL && CONFIG.GITHUB_EDIT_URL + currentFile;
@@ -129,6 +130,174 @@ const githubEditUrl = CONFIG.GITHUB_EDIT_URL && CONFIG.GITHUB_EDIT_URL + current
 		</main>
 
 		<Footer {content} />
+
+		<script
+			is:inline
+			define:vars={{
+				defaultWorkerImageOrigin: CONFIG.IMAGE_WORKER_ORIGIN,
+				netlifyFanartImagePath: CONFIG.NETLIFY_FANART_IMAGE_PATH,
+				netlifyFunctionsPathPrefix: CONFIG.NETLIFY_FUNCTIONS_PATH_PREFIX,
+				netlifyTmdbImagePath: CONFIG.NETLIFY_TMDB_IMAGE_PATH,
+			}}
+		>
+			const workerImagesParam = new URL( window.location.href ).searchParams.get( 'worker-images' )
+			const truthyValues = new Set( [ '', '1', 'true', 'yes', 'on' ] )
+
+			function escapeRegExp ( value ) {
+				return value.replace( /[.*+?^${}()|[\]\\]/g, '\\$&' )
+			}
+
+			const absoluteImagePathPattern = new RegExp(
+				`^https?:\\/\\/[^/]+(${ escapeRegExp( netlifyFunctionsPathPrefix ) }\\/(?:tmdb-image|fanart)\\/.*)$`,
+				'i',
+			)
+
+			function normalizeWorkerOrigin ( value ) {
+				if ( !value ) {
+					return ''
+				}
+
+				try {
+					return new URL( value ).origin
+				}
+				catch {
+					return value.replace( /\/$/, '' )
+				}
+			}
+
+			function getWorkerOrigin () {
+				if ( workerImagesParam === null ) {
+					return ''
+				}
+
+				if ( truthyValues.has( workerImagesParam.toLowerCase() ) ) {
+					return normalizeWorkerOrigin( defaultWorkerImageOrigin )
+				}
+
+				return normalizeWorkerOrigin( workerImagesParam )
+			}
+
+			function getImagePathKind ( value ) {
+				if ( value.startsWith( netlifyTmdbImagePath ) ) {
+					return 'tmdb'
+				}
+
+				if ( value.startsWith( netlifyFanartImagePath ) ) {
+					return 'fanart'
+				}
+
+				return ''
+			}
+
+			function makeWorkerImagePath ( workerOrigin, imagePathKind ) {
+				return imagePathKind === 'fanart'
+					? `${ workerOrigin }${ netlifyFanartImagePath }`
+					: `${ workerOrigin }${ netlifyTmdbImagePath }`
+			}
+
+			function rewriteImageUrl ( value, workerOrigin ) {
+				if ( !value ) {
+					return value
+				}
+
+				const absoluteMatch = value.match( absoluteImagePathPattern )
+				const normalizedValue = absoluteMatch ? absoluteMatch[ 1 ] : value
+				const imagePathKind = getImagePathKind( normalizedValue )
+
+				if ( !imagePathKind ) {
+					return value
+				}
+
+				const netlifyImagePath = imagePathKind === 'fanart'
+					? netlifyFanartImagePath
+					: netlifyTmdbImagePath
+				const rewrittenPrefix = makeWorkerImagePath( workerOrigin, imagePathKind )
+
+				return `${ rewrittenPrefix }${ normalizedValue.slice( netlifyImagePath.length ) }`
+			}
+
+			function rewriteSrcSet ( value, workerOrigin ) {
+				if ( !value ) {
+					return value
+				}
+
+				return value
+					.split( ',' )
+					.map( ( item ) => {
+						const trimmed = item.trim()
+
+						if ( !trimmed ) {
+							return trimmed
+						}
+
+						const [ imageUrl, descriptor ] = trimmed.split( /\s+/, 2 )
+						const rewrittenUrl = rewriteImageUrl( imageUrl, workerOrigin )
+
+						return descriptor ? `${ rewrittenUrl } ${ descriptor }` : rewrittenUrl
+					} )
+					.join( ', ' )
+			}
+
+			function rewriteElementAttributes ( element, workerOrigin ) {
+				for ( const attributeName of [ 'src', 'data-src', 'poster' ] ) {
+					const value = element.getAttribute( attributeName )
+					const rewrittenValue = rewriteImageUrl( value, workerOrigin )
+
+					if ( value && rewrittenValue !== value ) {
+						element.setAttribute( attributeName, rewrittenValue )
+					}
+				}
+
+				for ( const attributeName of [ 'srcset', 'data-srcset' ] ) {
+					const value = element.getAttribute( attributeName )
+					const rewrittenValue = rewriteSrcSet( value, workerOrigin )
+
+					if ( value && rewrittenValue !== value ) {
+						element.setAttribute( attributeName, rewrittenValue )
+					}
+				}
+			}
+
+			function rewriteNodeTree ( node, workerOrigin ) {
+				if ( !( node instanceof Element ) ) {
+					return
+				}
+
+				rewriteElementAttributes( node, workerOrigin )
+
+				for ( const element of node.querySelectorAll( '[src], [data-src], [poster], [srcset], [data-srcset]' ) ) {
+					rewriteElementAttributes( element, workerOrigin )
+				}
+			}
+
+			const workerOrigin = getWorkerOrigin()
+
+			if ( workerOrigin ) {
+				rewriteNodeTree( document.documentElement, workerOrigin )
+
+				const observer = new MutationObserver( ( mutations ) => {
+					for ( const mutation of mutations ) {
+						if ( mutation.type === 'attributes' && mutation.target instanceof Element ) {
+							rewriteElementAttributes( mutation.target, workerOrigin )
+							continue
+						}
+
+						if ( mutation.type === 'childList' ) {
+							for ( const node of mutation.addedNodes ) {
+								rewriteNodeTree( node, workerOrigin )
+							}
+						}
+					}
+				} )
+
+				observer.observe( document.documentElement, {
+					subtree: true,
+					childList: true,
+					attributes: true,
+					attributeFilter: [ 'src', 'data-src', 'poster', 'srcset', 'data-srcset' ],
+				} )
+			}
+		</script>
 
 		<script>
 			import 'lazysizes'

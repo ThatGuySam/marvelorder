@@ -9,7 +9,7 @@ description: >-
   consequences may be in store.
 layout: ../../layouts/MainLayout.astro
 type: movie
-logo_on_black: /.netlify/functions/fanart/avengers-infinity-war---part-ii-5c0c46d26f593.webp
+logo_on_black: "{fanart-path}/avengers-infinity-war---part-ii-5c0c46d26f593.webp"
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B07R21NC3J?tag=marvelorder-20&linkCode=osi&th=1&psc=1

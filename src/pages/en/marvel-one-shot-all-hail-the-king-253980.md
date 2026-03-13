@@ -7,7 +7,7 @@ description: >-
 layout: ../../layouts/MainLayout.astro
 type: movie
 logo_on_black: >-
-  /.netlify/functions/fanart/marvel-one-shot-all-hail-the-king-53a58d5fd87d0.webp
+  {fanart-path}/marvel-one-shot-all-hail-the-king-53a58d5fd87d0.webp
 watchLinks:
   amazon: none
 ---

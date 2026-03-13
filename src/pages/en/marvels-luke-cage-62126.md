@@ -6,7 +6,7 @@ description: >-
   accused man escapes prison to become a superhero for hire.
 layout: ../../layouts/MainLayout.astro
 type: tv
-logo_on_black: /.netlify/functions/fanart/marvels-luke-cage-57931ed78bc64.webp
+logo_on_black: "{fanart-path}/marvels-luke-cage-57931ed78bc64.webp"
 watchLinks:
   amazon: none
 mcuTimelineOrder: 139

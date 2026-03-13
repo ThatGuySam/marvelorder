@@ -5,7 +5,7 @@ description: The first live-action TV series based on the popular comic book.
 layout: ../../layouts/MainLayout.astro
 type: tv
 logo_on_black: >-
-  /.netlify/functions/tmdb-image/kUTCJhSnH3Dt0KVzcQp8DnbmsjN.webp?crop.bottom=0.75
+  {tmdb-path}/kUTCJhSnH3Dt0KVzcQp8DnbmsjN.webp?crop.bottom=0.75
 watchLinks:
   amazon: '''none'''
 ---

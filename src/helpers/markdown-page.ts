@@ -6,6 +6,9 @@ import type { Listing, ListingFrontMatter, TMDBData } from './types.ts'
 import {
     makeListingEndpoint,
 } from './listing.ts'
+import {
+    expandImagePathPlaceholders,
+} from './image-paths.ts'
 
 export const tmdbHeading = '## TMDB Data' as const
 
@@ -120,7 +123,7 @@ export function getDataFromListingContents ( options: any ) {
 
     const { tmdbContent } = getPartsFromMarkdown( markdown )
 
-    const frontmatter: ListingFrontMatter = matter( markdown ).data
+    const frontmatter: ListingFrontMatter = expandImagePathPlaceholders( matter( markdown ).data )
     const tmdb = parseTMDbMarkdown( tmdbContent )
 
     return {

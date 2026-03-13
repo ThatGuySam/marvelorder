@@ -8,7 +8,7 @@ description: >-
   patsy to sabotage the meeting...
 layout: ../../layouts/MainLayout.astro
 type: movie
-logo_on_black: /.netlify/functions/fanart/marvel-one-shot-the-consultant-53a431ea100ed.webp
+logo_on_black: "{fanart-path}/marvel-one-shot-the-consultant-53a431ea100ed.webp"
 watchLinks:
   amazon: none
 ---

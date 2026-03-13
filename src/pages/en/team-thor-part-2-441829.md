@@ -7,7 +7,7 @@ description: >-
   Iron Man duke it out, Thor tries to pay Darryl his rent in Asgardian coins.
 layout: ../../layouts/MainLayout.astro
 type: movie
-logo_on_black: /.netlify/functions/fanart/team-thor-part-2-59a31b9ebd1ec.webp
+logo_on_black: "{fanart-path}/team-thor-part-2-59a31b9ebd1ec.webp"
 watchLinks:
   amazon: none
 tags: 

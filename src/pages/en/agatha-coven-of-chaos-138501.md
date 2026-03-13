@@ -4,7 +4,7 @@ slug: agatha-house-of-harkness
 description: Follows Agatha Harkness before and after her appearance in WandaVision.
 layout: ../../layouts/MainLayout.astro
 type: tv
-logo_on_black: /.netlify/functions/tmdb-image/A4JyrpPCsw57E0JHcZK7TDPVPqP.webp
+logo_on_black: "{tmdb-path}/A4JyrpPCsw57E0JHcZK7TDPVPqP.webp"
 overview: Follows Agatha Harkness before and after her appearance in WandaVision.
 # Winter 2023 - https://www.marvel.com/articles/movies/sdcc-2022-all-of-the-marvel-studios-news-coming-out-of-hall-h-at-san-diego-comic-con
 # release_date: 'Winter 2023'

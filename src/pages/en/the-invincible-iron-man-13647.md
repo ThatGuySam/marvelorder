@@ -6,7 +6,7 @@ description: >-
   him to be seriously wounded and captured by enemy forces, he must use his
   ideas for a revolutionary power armor in order to fight back as a superhero.
 layout: ../../layouts/MainLayout.astro
-logo_on_black: /.netlify/functions/fanart/invincible-iron-man-5ccd4a2e2817a.webp
+logo_on_black: "{fanart-path}/invincible-iron-man-5ccd4a2e2817a.webp"
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B008Y5QKMU?tag=marvelorder-20&linkCode=osi&th=1&psc=1

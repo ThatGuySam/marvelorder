@@ -7,7 +7,7 @@ description: >-
   is in search of the mysterious Zodiac.
 layout: ../../layouts/MainLayout.astro
 type: movie
-logo_on_black: /.netlify/functions/fanart/marvel-one-shot-agent-carter-53a58d2492e07.webp
+logo_on_black: "{fanart-path}/marvel-one-shot-agent-carter-53a58d2492e07.webp"
 watchLinks:
   amazon: none
 ---

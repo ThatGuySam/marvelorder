@@ -6,7 +6,7 @@ description: >-
   common enemies as a sinister conspiracy threatens New York City.
 layout: ../../layouts/MainLayout.astro
 type: tv
-logo_on_black: /.netlify/functions/fanart/marvels-the-defenders-594bfae9075c1.webp
+logo_on_black: "{fanart-path}/marvels-the-defenders-594bfae9075c1.webp"
 watchLinks:
   amazon: none
 mcuTimelineOrder: 219

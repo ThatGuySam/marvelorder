@@ -6,7 +6,7 @@ description: >-
   abilities allow her to see within the spider world.
 layout: ../../layouts/MainLayout.astro
 type: movie
-logo_on_black: /.netlify/functions/tmdb-image/hqoHdOjz3n3TQUInjxYlCAssCRy.webp
+logo_on_black: "{tmdb-path}/hqoHdOjz3n3TQUInjxYlCAssCRy.webp"
 ---
 ## TMDB Data
 ```json

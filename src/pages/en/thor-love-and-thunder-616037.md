@@ -10,7 +10,7 @@ description: >-
   too late.
 layout: ../../layouts/MainLayout.astro
 type: movie
-logo_on_black: /.netlify/functions/tmdb-image/ifx23jgqQ8ZjUb9eiGjwbKtf0qQ.webp
+logo_on_black: "{tmdb-path}/ifx23jgqQ8ZjUb9eiGjwbKtf0qQ.webp"
 overview: >-
   After his retirement is interrupted by Gorr the God Butcher, a galactic killer
   who seeks the extinction of the gods, Thor enlists the help of King Valkyrie,

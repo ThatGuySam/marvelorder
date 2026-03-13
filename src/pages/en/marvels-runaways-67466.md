@@ -7,7 +7,7 @@ description: >-
   unite against a common foe – their parents.
 layout: ../../layouts/MainLayout.astro
 type: tv
-logo_on_black: /.netlify/functions/fanart/marvels-runaways-59f759d7c6d0a.webp
+logo_on_black: "{fanart-path}/marvels-runaways-59f759d7c6d0a.webp"
 watchLinks:
   amazon: none
 mcuTimelineOrder: 297

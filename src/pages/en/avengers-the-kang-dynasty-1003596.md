@@ -3,7 +3,7 @@ title: 'Avengers: The Kang Dynasty'
 slug: avengers-the-kang-dynasty
 description: An upcoming Phase 6 MCU film announced at SDCC 2022.
 layout: ../../layouts/MainLayout.astro
-logo_on_black: /.netlify/functions/tmdb-image/utZTb3VBrH0zR77BcISU67pHuAx.webp
+logo_on_black: "{tmdb-path}/utZTb3VBrH0zR77BcISU67pHuAx.webp"
 tags:
   - movie
   - company-420

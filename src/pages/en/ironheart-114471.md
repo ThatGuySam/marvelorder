@@ -6,7 +6,7 @@ description: >-
   Iron Man and becomes Ironheart.
 layout: ../../layouts/MainLayout.astro
 type: tv
-logo_on_black: /.netlify/functions/tmdb-image/ha1kackPwP1BLtyibzuv5hABiDk.webp
+logo_on_black: "{tmdb-path}/ha1kackPwP1BLtyibzuv5hABiDk.webp"
 # Fall 2023 - https://www.marvel.com/articles/movies/sdcc-2022-all-of-the-marvel-studios-news-coming-out-of-hall-h-at-san-diego-comic-con
 # release_date: "Fall 2023"
 ---

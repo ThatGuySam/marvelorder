@@ -6,7 +6,7 @@ description: >-
   rebelling from his master.
 layout: ../../layouts/MainLayout.astro
 type: tv
-logo_on_black: /.netlify/functions/fanart/the-silver-surfer-5e71870f1dc60.png
+logo_on_black: "{fanart-path}/the-silver-surfer-5e71870f1dc60.png"
 watchLinks:
   amazon: none
 ---

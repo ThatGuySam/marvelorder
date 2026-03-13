@@ -6,7 +6,7 @@ description: >-
   the Secret Warriors to bring down the villains for good.
 layout: ../../layouts/MainLayout.astro
 type: movie
-logo_on_black: /.netlify/functions/fanart/marvel-rising-chasing-ghosts-5e79da30345be.webp
+logo_on_black: "{fanart-path}/marvel-rising-chasing-ghosts-5e79da30345be.webp"
 watchLinks:
   amazon: none
 ---

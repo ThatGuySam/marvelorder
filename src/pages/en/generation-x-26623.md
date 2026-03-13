@@ -7,7 +7,7 @@ description: >-
   at a school for heroes. Their studies are interrupted when they must rescue
   one of their number from a mad scientist who can enter others' dreams.
 layout: ../../layouts/MainLayout.astro
-logo_on_black: /.netlify/functions/tmdb-image/wqkTCfznNXtYO9UnnxComqhhHRP.webp?crop.top=0.72
+logo_on_black: "{tmdb-path}/wqkTCfznNXtYO9UnnxComqhhHRP.webp?crop.top=0.72"
 watchLinks:
   amazon: none
 ---

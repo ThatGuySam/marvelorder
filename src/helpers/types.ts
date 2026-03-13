@@ -1,8 +1,8 @@
 // Example - /.netlify/functions/tmdb-image/kbYbZR4FgcLTfI6HT2hiEqoPvr9.webp
-type TMDBImageFunctionUrl = `/.netlify/functions/tmdb-image/${ string }.webp`
+type TMDBImageFunctionUrl = `${ string }/tmdb-image/${ string }`
 
 // Example - /.netlify/functions/fanart/astonishing-x-men-dangerous-5e7124ec3c5d1.png
-type FanartImageFunctionUrl = `/.netlify/functions/fanart/${ string }.png`
+type FanartImageFunctionUrl = `${ string }/fanart/${ string }`
 
 type ImageFunctionUrl = TMDBImageFunctionUrl | FanartImageFunctionUrl
 

@@ -5,7 +5,7 @@ description: >-
   Deadpool sees an opportunity to save the day, but it doesn't go entirely as
   planned.
 layout: ../../layouts/MainLayout.astro
-logo_on_black: /.netlify/functions/tmdb-image/7p1v2CMnEd0Hb3eFi0iEA6kDAMU.webp
+logo_on_black: "{tmdb-path}/7p1v2CMnEd0Hb3eFi0iEA6kDAMU.webp"
 watchLinks:
   amazon: none
 ---

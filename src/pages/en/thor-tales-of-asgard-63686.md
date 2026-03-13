@@ -11,7 +11,7 @@ description: >-
   saving Asgard itself.
 layout: ../../layouts/MainLayout.astro
 mcuTimelineOrder: 35
-logo_on_black: /.netlify/functions/tmdb-image/1ic3ktivx7wpjBM9bR0k4xi3aZi.webp
+logo_on_black: "{tmdb-path}/1ic3ktivx7wpjBM9bR0k4xi3aZi.webp"
 ---
 ## TMDB Data
 ```json

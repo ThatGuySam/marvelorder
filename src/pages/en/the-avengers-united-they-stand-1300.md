@@ -8,7 +8,7 @@ description: >-
   has the power to save the world, when there is no hope left…the AVENGERS
   ASSEMBLE!
 layout: ../../layouts/MainLayout.astro
-logo_on_black: /.netlify/functions/fanart/avengers-1999-5da2f2765bc19.webp
+logo_on_black: "{fanart-path}/avengers-1999-5da2f2765bc19.webp"
 type: tv
 watchLinks:
   amazon: >-

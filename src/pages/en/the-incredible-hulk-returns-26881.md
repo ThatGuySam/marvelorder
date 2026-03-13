@@ -7,7 +7,7 @@ description: >-
   superheroes stop feuding long enough to breathe, they are a team unmatched by
   any of their enemies.
 layout: ../../layouts/MainLayout.astro
-logo_on_black: /.netlify/functions/fanart/the-incredible-hulk-returns-5577f15dd6b57.webp
+logo_on_black: "{fanart-path}/the-incredible-hulk-returns-5577f15dd6b57.webp"
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B00715QLKK?tag=marvelorder-20&linkCode=osi&th=1&psc=1

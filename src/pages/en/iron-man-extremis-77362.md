@@ -6,7 +6,7 @@ description: >-
   action. The ensuing battles test Stark's spirit and Iron Man's power.
 layout: ../../layouts/MainLayout.astro
 type: tv
-logo_on_black: /.netlify/functions/fanart/iron-man-extremis-5cce83dd0cc4c.webp
+logo_on_black: "{fanart-path}/iron-man-extremis-5cce83dd0cc4c.webp"
 ---
 ## TMDB Data
 ```json

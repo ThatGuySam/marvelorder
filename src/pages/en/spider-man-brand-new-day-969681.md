@@ -9,7 +9,7 @@ description: >-
   ahead, Spider-Man not only needs to be at the top of his physical and mental
   game, but he must also be prepared to face the repercussions of his past!
 layout: ../../layouts/MainLayout.astro
-logo_on_black: /.netlify/functions/tmdb-image/7ESlrtAYYMXLbL6wMIdK4cGblfc.webp
+logo_on_black: "{tmdb-path}/7ESlrtAYYMXLbL6wMIdK4cGblfc.webp"
 adult: false
 backdrop_path: /63JYqhefGrbVg0YqZ3xWqn0pwT2.jpg
 genre_ids:

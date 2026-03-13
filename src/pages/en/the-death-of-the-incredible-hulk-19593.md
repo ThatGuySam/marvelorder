@@ -8,7 +8,7 @@ description: >-
   superiors. Banner and Jasmin try to escape from the enemy agents to rebuild
   their lives together, but the Hulk is never far from them.
 layout: ../../layouts/MainLayout.astro
-logo_on_black: /.netlify/functions/fanart/the-death-of-the-incredible-hulk-5479080c56fd6.webp
+logo_on_black: "{fanart-path}/the-death-of-the-incredible-hulk-5479080c56fd6.webp"
 watchLinks:
   amazon: 'https://amzn.to/39ueJB0'
 ---

@@ -9,7 +9,7 @@ description: >-
   sees might be real.
 layout: ../../layouts/MainLayout.astro
 type: tv
-logo_on_black: /.netlify/functions/fanart/legion-585b52e9b0a15.webp
+logo_on_black: "{fanart-path}/legion-585b52e9b0a15.webp"
 watchLinks:
   amazon: none
 ---

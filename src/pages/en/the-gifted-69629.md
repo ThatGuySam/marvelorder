@@ -8,7 +8,7 @@ description: >-
   must fight to survive.
 layout: ../../layouts/MainLayout.astro
 type: tv
-logo_on_black: /.netlify/functions/fanart/the-gifted-59cd8a1ab8663.webp
+logo_on_black: "{fanart-path}/the-gifted-59cd8a1ab8663.webp"
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B07532C4NG?tag=marvelorder-20&linkCode=osi&th=1&psc=1

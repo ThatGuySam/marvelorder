@@ -5,7 +5,7 @@ description: >-
   Two episodes of the TV series "Spider Man" edited together and released as a
   feature.
 layout: ../../layouts/MainLayout.astro
-logo_on_black: /.netlify/functions/fanart/spider-man-the-dragons-challenge-5d3508360b27d.png
+logo_on_black: "{fanart-path}/spider-man-the-dragons-challenge-5d3508360b27d.png"
 watchLinks:
   amazon: none
 ---

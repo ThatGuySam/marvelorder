@@ -18,7 +18,7 @@ description: >-
   voice of Mysterio and Carl Banas the voice of the Scorpion.
 layout: ../../layouts/MainLayout.astro
 type: tv
-logo_on_black: /.netlify/functions/fanart/spider-man-1967-5ccdc639b8d4b.webp
+logo_on_black: "{fanart-path}/spider-man-1967-5ccdc639b8d4b.webp"
 watchLinks:
   amazon: none
 ---

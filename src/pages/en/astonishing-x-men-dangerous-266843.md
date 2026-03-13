@@ -10,7 +10,7 @@ description: >-
   their own . . . even if they survive, the team will never be the same.
 layout: ../../layouts/MainLayout.astro
 type: movie
-logo_on_black: /.netlify/functions/fanart/astonishing-x-men-dangerous-5e7124ec3c5d1.png
+logo_on_black: "{fanart-path}/astonishing-x-men-dangerous-5e7124ec3c5d1.png"
 ---
 ## TMDB Data
 ```json

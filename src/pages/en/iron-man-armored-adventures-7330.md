@@ -23,7 +23,7 @@ description: >-
   adventures.
 layout: ../../layouts/MainLayout.astro
 type: tv
-logo_on_black: /.netlify/functions/fanart/iron-man-armored-adventures--5164abd4dc474.webp
+logo_on_black: "{fanart-path}/iron-man-armored-adventures--5164abd4dc474.webp"
 watchLinks:
   amazon: >-
     https://www.amazon.com/dp/B003KLZ6JG?tag=marvelorder-20&linkCode=osi&th=1&psc=1

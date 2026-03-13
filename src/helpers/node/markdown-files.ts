@@ -8,6 +8,9 @@ import {
 } from '~/src/config.ts'
 
 import type { Filter } from '~/src/helpers/types.ts'
+import {
+    collapseImagePathsToPlaceholders,
+} from '~/src/helpers/image-paths.ts'
 import { FilteredListings } from '~/src/helpers/listing-filters.ts'
 import {
     getAllFilters,
@@ -89,7 +92,7 @@ export async function ensureFiltersHaveStories () {
         const { frontmatter } = await makeFilterMarkdownContent( missingFilter )
         const markdownFilePath = makeStoryPathFromFilter( missingFilter )
 
-        const markdownContent = matter.stringify( '', frontmatter )
+        const markdownContent = matter.stringify( '', collapseImagePathsToPlaceholders( frontmatter ) )
 
         await fs.writeFile( markdownFilePath, markdownContent )
     }

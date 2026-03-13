@@ -4,8 +4,10 @@ import { ensureMappedListings } from '~/src/helpers/node/listing.ts'
 import {
     getDateString as getListingDateString,
     getIsoDate as getListingIsoDate,
+    makeTmdbImageUrl,
     getSeasonReleaseDate as getListingSeasonReleaseDate,
 } from '~/src/helpers/listing.ts'
+import { TMDB_IMAGE_PATH } from '~/src/config.ts'
 
 test( 'Can normalize Date instances from listing frontmatter', () => {
     const listing = {
@@ -40,4 +42,10 @@ test( 'Can map listings into listing-row friendly models', () => {
 
     expect( listing.endpoint ).toBe( '/en/example-listing-123' )
     expect( listing.elementId ).toBe( 'example-listing-123' )
+} )
+
+test( 'Can build tmdb image urls against the worker by default', () => {
+    expect( makeTmdbImageUrl( '/kbYbZR4FgcLTfI6HT2hiEqoPvr9.jpg', {
+        width: 75,
+    } ) ).toBe( `${ TMDB_IMAGE_PATH }/kbYbZR4FgcLTfI6HT2hiEqoPvr9.webp?transparent=0&width=75` )
 } )
