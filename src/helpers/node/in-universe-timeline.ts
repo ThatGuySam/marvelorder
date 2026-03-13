@@ -18,6 +18,7 @@ import {
 } from '~/src/helpers/listing-filters.ts'
 
 const inUniverseFirstPage = '/CuratedSet/version/5.1/region/US/audience/k-false,l-true/maturity/1450/language/en/setId/9466a148-f6b4-4c1a-8028-b0129323f4a9/pageSize/15/page/1'
+const defaultDisneyApiPrefix = 'https://disney.content.edge.bamgrid.com/svc/content'
 
 interface TitleEntry {
     default: {
@@ -84,6 +85,14 @@ function mapCuratedSetItem ( item: DisneyPlusInUniverseItem ): DisneyPlusInUnive
     }
 }
 
+function getDisneyApiPrefix () {
+    const prefix = process.env.DISNEY_API_PREFIX?.trim()
+
+    return prefix && prefix.length > 0
+        ? prefix
+        : defaultDisneyApiPrefix
+}
+
 export async function getInUniverseTimeline (): Promise<DisneyPlusInUniverseEntry[]> {
     if ( !inUniverseTimelinePromise ) {
         inUniverseTimelinePromise = ( async () => {
@@ -91,9 +100,10 @@ export async function getInUniverseTimeline (): Promise<DisneyPlusInUniverseEntr
             let pageIndex = 1
 
             const allItems: DisneyPlusInUniverseEntry[] = []
+            const disneyApiPrefix = getDisneyApiPrefix()
 
             while ( pageTotal > 0 ) {
-                const pageUrl = `${ process.env.DISNEY_API_PREFIX }${ inUniverseFirstPage.replace( '/page/1', `/page/${ pageIndex }` ) }`
+                const pageUrl = `${ disneyApiPrefix }${ inUniverseFirstPage.replace( '/page/1', `/page/${ pageIndex }` ) }`
                 const page = await axios( pageUrl ).then( res => res.data )
 
                 const items = page.data.CuratedSet.items.map( mapCuratedSetItem )
