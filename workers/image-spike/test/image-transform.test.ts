@@ -63,72 +63,72 @@ test( 'Photon tmdb transform keeps Spider-Man Beyond the Spider-Verse close to t
       {
         "comparison": {
           "lowerBandAlphaMassRatios": [
-            0.71,
-            0.771,
-            0.984,
-            0.899,
-            0.898,
-            0.859,
-            0.785,
-            0.798,
-            0.696,
-            0.74,
-            0.569,
-            0.648,
+            1.044,
+            0.98,
+            1.044,
+            1.026,
+            1.012,
+            0.997,
+            1.009,
+            1.007,
+            1.025,
+            1.021,
+            0.914,
+            0.961,
           ],
-          "lowerBandTailAlphaMassRatioMean": 0.663,
-          "lowerBandTailVisibleLuminanceMassRatioMean": 0.757,
+          "lowerBandTailAlphaMassRatioMean": 0.98,
+          "lowerBandTailVisibleLuminanceMassRatioMean": 0.921,
           "lowerBandVisibleLuminanceMassRatios": [
-            0.681,
-            0.843,
-            0.989,
-            0.962,
-            0.945,
-            0.913,
-            0.859,
-            0.86,
-            0.74,
-            0.813,
-            0.77,
-            0.704,
+            0.964,
+            0.988,
+            1.009,
+            1.023,
+            1.021,
+            0.991,
+            0.995,
+            0.979,
+            1.01,
+            0.971,
+            0.894,
+            0.808,
           ],
-          "lowerBandWorstAlphaMassRatio": 0.569,
+          "lowerBandWorstAlphaMassRatio": 0.914,
           "outputToSharp": {
-            "overallAlphaMassRatio": 0.775,
-            "overallNonTransparentPixelRatio": 0.738,
-            "partialAlphaPixelRatio": 0.566,
+            "overallAlphaMassRatio": 0.982,
+            "overallNonTransparentPixelRatio": 1.006,
+            "partialAlphaPixelRatio": 0.951,
           },
           "regions": {
             "bottom35pct": {
-              "alphaMassRatio": 0.894,
-              "alphaMeanRatio": 0.89,
-              "visibleLuminanceMassRatio": 0.951,
-              "visibleLuminanceMeanRatio": 0.946,
+              "alphaMassRatio": 1.008,
+              "alphaMeanRatio": 0.979,
+              "visibleLuminanceMassRatio": 0.997,
+              "visibleLuminanceMeanRatio": 0.969,
             },
             "lowerHalf": {
-              "alphaMassRatio": 0.841,
-              "alphaMeanRatio": 0.833,
-              "visibleLuminanceMassRatio": 0.906,
-              "visibleLuminanceMeanRatio": 0.897,
+              "alphaMassRatio": 1.01,
+              "alphaMeanRatio": 0.981,
+              "visibleLuminanceMassRatio": 0.995,
+              "visibleLuminanceMeanRatio": 0.966,
             },
             "manRegion": {
-              "alphaMassRatio": 0.764,
-              "alphaMeanRatio": 0.759,
-              "visibleLuminanceMassRatio": 0.836,
-              "visibleLuminanceMeanRatio": 0.831,
+              "alphaMassRatio": 1.011,
+              "alphaMeanRatio": 0.979,
+              "visibleLuminanceMassRatio": 0.99,
+              "visibleLuminanceMeanRatio": 0.959,
             },
           },
         },
         "photon": {
-          "alphaMass": 13060976,
-          "height": 265,
-          "meanAlpha": 72.80162760235223,
-          "nonTransparentPixelCount": 84810,
-          "opaquePixelCount": 40968,
-          "partialAlphaPixelCount": 43842,
-          "transparentPixelCount": 94595,
-          "visibleLuminanceMass": 4720538.582802313,
-          "width": 677,
+          "alphaMass": 16541806,
+          "height": 268,
+          "meanAlpha": 89.97544710848092,
+          "nonTransparentPixelCount": 115576,
+          "opaquePixelCount": 41864,
+          "partialAlphaPixelCount": 73712,
+          "transparentPixelCount": 68272,
+          "visibleLuminanceMass": 5346597.911042662,
+          "width": 686,
         },
         "sharp": {
           "alphaMass": 16844600,
@@ -145,14 +145,14 @@ test( 'Photon tmdb transform keeps Spider-Man Beyond the Spider-Verse close to t
     ` )
 
     expect( photonMetrics.width ).toBeLessThanOrEqual( tmdbTransparentOptions.width )
-    expect( Math.abs( photonMetrics.width - sharpMetrics.width ) ).toBeLessThanOrEqual( 8 )
-    expect( Math.abs( photonMetrics.height - sharpMetrics.height ) ).toBeLessThanOrEqual( 8 )
-    expect( comparisonMetrics.outputToSharp.partialAlphaPixelRatio ).toBeGreaterThanOrEqual( 0.55 )
-    expect( comparisonMetrics.regions.bottom35pct.alphaMassRatio ).toBeGreaterThanOrEqual( 0.85 )
-    expect( comparisonMetrics.regions.manRegion.alphaMassRatio ).toBeGreaterThanOrEqual( 0.75 )
-    expect( comparisonMetrics.regions.manRegion.visibleLuminanceMassRatio ).toBeGreaterThanOrEqual( 0.8 )
-    expect( comparisonMetrics.lowerBandTailAlphaMassRatioMean ).toBeGreaterThanOrEqual( 0.65 )
-    expect( comparisonMetrics.lowerBandWorstAlphaMassRatio ).toBeGreaterThanOrEqual( 0.55 )
+    expect( Math.abs( photonMetrics.width - sharpMetrics.width ) ).toBeLessThanOrEqual( 10 )
+    expect( Math.abs( photonMetrics.height - sharpMetrics.height ) ).toBeLessThanOrEqual( 10 )
+    expect( comparisonMetrics.outputToSharp.partialAlphaPixelRatio ).toBeGreaterThanOrEqual( 0.9 )
+    expect( comparisonMetrics.regions.bottom35pct.alphaMassRatio ).toBeGreaterThanOrEqual( 0.95 )
+    expect( comparisonMetrics.regions.manRegion.alphaMassRatio ).toBeGreaterThanOrEqual( 0.97 )
+    expect( comparisonMetrics.regions.manRegion.visibleLuminanceMassRatio ).toBeGreaterThanOrEqual( 0.95 )
+    expect( comparisonMetrics.lowerBandTailAlphaMassRatioMean ).toBeGreaterThanOrEqual( 0.95 )
+    expect( comparisonMetrics.lowerBandWorstAlphaMassRatio ).toBeGreaterThanOrEqual( 0.9 )
 } )
 
 async function inspectImageMetrics ( imageBytes: Uint8Array ) {

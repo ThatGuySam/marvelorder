@@ -341,7 +341,9 @@ function makeTransparentLogo<SamplingFilterValue> (
 
     for ( let index = 0; index < pixels.length; index += 4 ) {
         const red = pixels[ index ]
-        pixels[ index + 3 ] = makeSharpLikeAlphaFromRed( red )
+        const green = pixels[ index + 1 ]
+        const blue = pixels[ index + 2 ]
+        pixels[ index + 3 ] = makeOpaqueLogoAlpha( red, green, blue )
     }
 
     return new photon.PhotonImage( pixels, image.get_width(), image.get_height() )
@@ -365,4 +367,15 @@ export function makeSharpLikeAlphaFromRed ( red: number ): number {
     }
 
     return 255
+}
+
+function makeOpaqueLogoAlpha ( red: number, _green: number, blue: number ) {
+    const sharpLikeRedAlpha = makeSharpLikeAlphaFromRed( red )
+    const blueFloor = blue < 96 ? blue * 1.4 : blue
+
+    return clamp( Math.max( sharpLikeRedAlpha, blueFloor ) )
+}
+
+function clamp ( value: number ) {
+    return Math.max( 0, Math.min( 255, Math.round( value ) ) )
 }
