@@ -181,7 +181,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/3eOINbgRs8WiWfQfViXeuZ3enrs.jpg",
+		"backdrop_path": null,
 		"genre_ids": [
 			878,
 			28,
@@ -191,7 +191,7 @@
 		"original_language": "en",
 		"original_title": "Avengers: Doomsday",
 		"overview": "The Avengers, Wakandans, Fantastic Four, Thunderbolts, and X-Men all fight against Doctor Doom. Plot TBA.",
-		"poster_path": "/8HkIe2i4ScpCkcX9SzZ9IPasqWV.jpg",
+		"poster_path": "/s2Fkuq0tj7mjAHEdbfQkFkdbeRI.jpg",
 		"release_date": "2026-12-16",
 		"title": "Avengers: Doomsday",
 		"video": false,
@@ -345,7 +345,7 @@
 		"poster_path": "/bG23nZW96LxmWkJjsagRZI9hF6t.jpg",
 		"first_air_date": "2025-08-01",
 		"name": "Eyes of Wakanda",
-		"vote_average": 6.147,
+		"vote_average": 6.1,
 		"title": "Eyes of Wakanda",
 		"slug": "eyes-of-wakanda",
 		"tags": [
@@ -369,7 +369,7 @@
 		"release_date": "2025-07-23",
 		"title": "The Fantastic 4: First Steps",
 		"video": false,
-		"vote_average": 6.968,
+		"vote_average": 6.966,
 		"slug": "the-fantastic-4-first-steps",
 		"tags": [
 			"movie",
@@ -443,7 +443,7 @@
 		"release_date": "2025-04-30",
 		"title": "Thunderbolts*",
 		"video": false,
-		"vote_average": 7.3,
+		"vote_average": 7.293,
 		"slug": "thunderbolts",
 		"tags": [
 			"movie",
@@ -491,7 +491,7 @@
 		"release_date": "2025-02-12",
 		"title": "Captain America: Brave New World",
 		"video": false,
-		"vote_average": 5.983,
+		"vote_average": 6,
 		"slug": "captain-america-brave-new-world",
 		"tags": [
 			"movie",
@@ -867,6 +867,27 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": "/u0HBu7x5cwFe7BN7ANgYK98rgXc.jpg",
+		"genre_ids": [
+			99
+		],
+		"id": 717082,
+		"original_language": "en",
+		"original_title": "Stan Lee",
+		"overview": "Celebrate the legacy of Stan Lee as the co-creator of such legendary characters as Fantastic Four, Iron Man, the X-Men, The Avengers, and hundreds more.",
+		"poster_path": "/iWBOKF0yl7pHK9y8fqRIBqf9fOJ.jpg",
+		"release_date": "2023-06-10",
+		"title": "Stan Lee",
+		"video": false,
+		"vote_average": 7.133,
+		"slug": "stan-lee",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/9xfDWXAUbFXQK585JvByT5pEAhe.jpg",
 		"genre_ids": [
 			16,
@@ -952,8 +973,29 @@
 		"release_date": "2023-02-15",
 		"title": "Ant-Man and the Wasp: Quantumania",
 		"video": false,
-		"vote_average": 6.238,
+		"vote_average": 6.239,
 		"slug": "ant-man-and-the-wasp-quantumania",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/jpZNOChdKmOzf4bqkpKjOKEeT1Q.jpg",
+		"genre_ids": [
+			99
+		],
+		"id": 1076032,
+		"original_language": "en",
+		"original_title": "Marvel Studios Assembled: The Making of Black Panther: Wakanda Forever",
+		"overview": "Follow the production of “Black Panther: Wakanda Forever” as the cast and crew take on the incredible challenge of remembering T’Challa with a chapter befitting the late king. Through intimate behind-the-scenes footage and interviews, watch Shuri take on the mantel of Wakanda’s hero and face a new foe from the ocean’s depths in Namor.",
+		"poster_path": "/mYTPKWO7a4mHKLyksJgB8CMq9Qx.jpg",
+		"release_date": "2023-02-07",
+		"title": "Marvel Studios Assembled: The Making of Black Panther: Wakanda Forever",
+		"video": false,
+		"vote_average": 6.259,
+		"slug": "marvel-studios-assembled-the-making-of-black-panther-wakanda-forever",
 		"tags": [
 			"movie",
 			"company-420"
@@ -1267,6 +1309,27 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": "/5LBajgZwqS9plL5MDtIfmlFatSz.jpg",
+		"genre_ids": [
+			99
+		],
+		"id": 1001912,
+		"original_language": "en",
+		"original_title": "Marvel Studios Assembled: The Making of Ms. Marvel",
+		"overview": "Go behind-the-scenes every step of the way with immersive footage from the making of the series, along with insightful interviews on set from the cast and crew of Ms. Marvel as we watch Iman Vellani and her character, Kamala Khan, become the fan-favorite superhero right before our eyes.",
+		"poster_path": "/6m0rG2bS90FOlUaxEq8ZPCTQMei.jpg",
+		"release_date": "2022-08-03",
+		"title": "Marvel Studios Assembled: The Making of Ms. Marvel",
+		"video": false,
+		"vote_average": 6.75,
+		"slug": "marvel-studios-assembled-the-making-of-ms-marvel",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/5H2uTD2iWz8OrBRL7ZTg3bPOgml.jpg",
 		"genre_ids": [
 			16,
@@ -1447,6 +1510,27 @@
 		"slug": "moon-knight",
 		"tags": [
 			"tv",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/imkqp2S4ZXEGczb59ciF6IYVwnW.jpg",
+		"genre_ids": [
+			99
+		],
+		"id": 939356,
+		"original_language": "en",
+		"original_title": "Marvel Studios Assembled: The Making of Eternals",
+		"overview": "Join director Chloe Zhao and the Cast of Eternals as they recount their experiences during the making of Marvel Studios’ most ambitious film to date. Discover how the ensemble cast felt stepping into their roles, filming in remote locations, and creating bonds that would help to create the on-screen relationships that span over 7,000 years.",
+		"poster_path": "/fBJ5ZjFJ6IHQWz90SsW80PizVlF.jpg",
+		"release_date": "2022-02-16",
+		"title": "Marvel Studios Assembled: The Making of Eternals",
+		"video": false,
+		"vote_average": 7.079,
+		"slug": "marvel-studios-assembled-the-making-of-eternals",
+		"tags": [
+			"movie",
 			"company-420"
 		]
 	},
@@ -1729,7 +1813,7 @@
 		"release_date": "2021-07-07",
 		"title": "Black Widow",
 		"video": false,
-		"vote_average": 7.173,
+		"vote_average": 7.2,
 		"slug": "black-widow",
 		"tags": [
 			"movie",
@@ -2243,7 +2327,7 @@
 		"release_date": "2018-12-06",
 		"title": "Spider-Man: Into the Spider-Verse",
 		"video": false,
-		"vote_average": 8.394,
+		"vote_average": 8.393,
 		"slug": "spider-man-into-the-spider-verse",
 		"tags": [
 			"movie",
@@ -2639,7 +2723,7 @@
 		"release_date": "2017-04-19",
 		"title": "Guardians of the Galaxy Vol. 2",
 		"video": false,
-		"vote_average": 7.609,
+		"vote_average": 7.6,
 		"slug": "guardians-of-the-galaxy-vol-2",
 		"tags": [
 			"movie",
@@ -2713,7 +2797,7 @@
 		"release_date": "2017-02-28",
 		"title": "Logan",
 		"video": false,
-		"vote_average": 7.818,
+		"vote_average": 7.8,
 		"slug": "logan",
 		"tags": [
 			"movie",
@@ -3172,7 +3256,7 @@
 		"poster_path": "/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
 		"first_air_date": "2015-04-10",
 		"name": "Marvel's Daredevil",
-		"vote_average": 8.158,
+		"vote_average": 8.2,
 		"title": "Marvel's Daredevil",
 		"slug": "marvels-daredevil",
 		"tags": [
@@ -3377,7 +3461,7 @@
 		"release_date": "2014-07-30",
 		"title": "Guardians of the Galaxy",
 		"video": false,
-		"vote_average": 7.905,
+		"vote_average": 7.9,
 		"slug": "guardians-of-the-galaxy",
 		"tags": [
 			"movie",
@@ -3496,7 +3580,7 @@
 		"poster_path": "/6wQAZaWSvBJOIIt68cqmC0KJjeE.jpg",
 		"first_air_date": "2014-04-02",
 		"name": "Marvel Disk Wars: The Avengers",
-		"vote_average": 6.3,
+		"vote_average": 6.267,
 		"title": "Marvel Disk Wars: The Avengers",
 		"slug": "marvel-disk-wars-the-avengers",
 		"tags": [
@@ -3752,7 +3836,7 @@
 		"release_date": "2013-07-21",
 		"title": "The Wolverine",
 		"video": false,
-		"vote_average": 6.43,
+		"vote_average": 6.4,
 		"slug": "the-wolverine",
 		"tags": [
 			"movie",
@@ -4304,7 +4388,7 @@
 		"release_date": "2009-04-28",
 		"title": "X-Men Origins: Wolverine",
 		"video": false,
-		"vote_average": 6.286,
+		"vote_average": 6.3,
 		"slug": "x-men-origins-wolverine",
 		"tags": [
 			"movie",
@@ -4436,7 +4520,8 @@
 		"slug": "punisher-war-zone",
 		"tags": [
 			"movie",
-			"company-11106"
+			"company-11106",
+			"company-420"
 		]
 	},
 	{
@@ -4537,6 +4622,30 @@
 		"tags": [
 			"tv",
 			"company-7505"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": "/mQ30ClWsTO8QBTkbwArIifkRlhZ.jpg",
+		"genre_ids": [
+			28,
+			16,
+			14,
+			878
+		],
+		"id": 14830,
+		"original_language": "en",
+		"original_title": "Doctor Strange",
+		"overview": "Dr. Stephen Strange embarks on a wondrous journey to the heights of a Tibetan mountain, where he seeks healing at the feet of the mysterious Ancient One.",
+		"poster_path": "/7ygcpWXsWmEc83j7zE8P0lvC0Q.jpg",
+		"release_date": "2007-08-14",
+		"title": "Doctor Strange",
+		"video": false,
+		"vote_average": 6.776,
+		"slug": "doctor-strange",
+		"tags": [
+			"movie",
+			"company-420"
 		]
 	},
 	{
@@ -4811,7 +4920,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/2JMOTj6DFjNcg9KToctmfTV55EW.jpg",
+		"backdrop_path": "/tFK3pEREZQDA6cjAXwJEGvSseHQ.jpg",
 		"genre_ids": [
 			28,
 			14,
@@ -4821,11 +4930,11 @@
 		"original_language": "en",
 		"original_title": "Elektra",
 		"overview": "Elektra the warrior survives a near-death experience, becomes an assassin-for-hire, and tries to protect her two latest targets, a single father and his young daughter, from a group of supernatural assassins.",
-		"poster_path": "/Z4dAOxjAHTUZO6DJ2WVAsxzwe3.jpg",
+		"poster_path": "/9Azi1GBNj3gPPwmQWAMcATg7JOl.jpg",
 		"release_date": "2005-01-13",
 		"title": "Elektra",
 		"video": false,
-		"vote_average": 5.047,
+		"vote_average": 5,
 		"slug": "elektra",
 		"tags": [
 			"movie",
@@ -4848,7 +4957,7 @@
 		"release_date": "2004-12-08",
 		"title": "Blade: Trinity",
 		"video": false,
-		"vote_average": 5.9,
+		"vote_average": 5.859,
 		"slug": "blade-trinity",
 		"tags": [
 			"movie",
@@ -4871,7 +4980,7 @@
 		"release_date": "2004-06-25",
 		"title": "Spider-Man 2",
 		"video": false,
-		"vote_average": 7.301,
+		"vote_average": 7.302,
 		"slug": "spider-man-2",
 		"tags": [
 			"movie",
@@ -4967,7 +5076,7 @@
 		"release_date": "2003-04-27",
 		"title": "X2",
 		"video": false,
-		"vote_average": 7.035,
+		"vote_average": 7,
 		"slug": "x2",
 		"tags": [
 			"movie",
@@ -4991,7 +5100,7 @@
 		"release_date": "2003-02-14",
 		"title": "Daredevil",
 		"video": false,
-		"vote_average": 5.291,
+		"vote_average": 5.292,
 		"slug": "daredevil",
 		"tags": [
 			"movie",
@@ -5095,7 +5204,7 @@
 		],
 		"release_date": "2000-07-13",
 		"video": false,
-		"vote_average": 7.01,
+		"vote_average": 7,
 		"slug": "x-men",
 		"tags": [
 			"list-8204860"

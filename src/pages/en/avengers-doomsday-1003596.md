@@ -31,7 +31,7 @@ media_type: movie
 ```json
 {
     "adult": false,
-    "backdrop_path": "/3eOINbgRs8WiWfQfViXeuZ3enrs.jpg",
+    "backdrop_path": null,
     "genre_ids": [
         878,
         28,
@@ -41,7 +41,7 @@ media_type: movie
     "original_language": "en",
     "original_title": "Avengers: Doomsday",
     "overview": "The Avengers, Wakandans, Fantastic Four, Thunderbolts, and X-Men all fight against Doctor Doom. Plot TBA.",
-    "poster_path": "/8HkIe2i4ScpCkcX9SzZ9IPasqWV.jpg",
+    "poster_path": "/s2Fkuq0tj7mjAHEdbfQkFkdbeRI.jpg",
     "release_date": "2026-12-16",
     "title": "Avengers: Doomsday",
     "video": false,

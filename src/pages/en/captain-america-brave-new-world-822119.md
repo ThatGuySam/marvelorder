@@ -29,7 +29,7 @@ tags:
     "release_date": "2025-02-12",
     "title": "Captain America: Brave New World",
     "video": false,
-    "vote_average": 5.983,
+    "vote_average": 6,
     "slug": "captain-america-brave-new-world",
     "tags": [
         "movie",
