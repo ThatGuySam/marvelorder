@@ -21,3 +21,5 @@ bun-debug.log*
 .DS_Store
 /.netlify
 /flat.txt
+/.artifacts/
+/workers/image-spike/test/artifacts/

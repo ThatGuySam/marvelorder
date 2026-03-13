@@ -1,0 +1,10 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "marvelorder-image-spike",
+  "main": "workers/image-spike/src/index.ts",
+  "compatibility_date": "2026-03-12",
+  "workers_dev": true,
+  "observability": {
+    "enabled": true
+  }
+}
