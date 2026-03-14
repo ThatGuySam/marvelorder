@@ -33,7 +33,7 @@ backdrop_path: /3WRvDj6od3V6PB90LXFthFLBJmL.jpg
     "poster_path": "/hNdf1WmFil9IV7rabBe6PnAmYnI.jpg",
     "first_air_date": "1999-10-02",
     "name": "Spider-Man Unlimited",
-    "vote_average": 7.5,
+    "vote_average": 7.502,
     "title": "Spider-Man Unlimited",
     "slug": "spider-man-unlimited",
     "tags": [

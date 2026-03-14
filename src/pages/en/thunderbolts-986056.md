@@ -25,7 +25,7 @@ logo_on_black: /.netlify/functions/tmdb-image/dHhniU1vz1C0j27AFdcsPmq6xu.webp
     "release_date": "2025-04-30",
     "title": "Thunderbolts*",
     "video": false,
-    "vote_average": 7.293,
+    "vote_average": 7.292,
     "slug": "thunderbolts",
     "tags": [
         "movie",

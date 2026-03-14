@@ -29,7 +29,7 @@ watchLinks:
     ],
     "release_date": "1977-09-14",
     "video": false,
-    "vote_average": 6.3,
+    "vote_average": 6.341,
     "slug": "spider-man",
     "tags": [
         "list-8204862"

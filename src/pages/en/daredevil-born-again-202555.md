@@ -28,7 +28,7 @@ type: tv
     "poster_path": "/gjum4yfMeZOu3upPstJHBPgTLFD.jpg",
     "first_air_date": "2025-03-04",
     "name": "Daredevil: Born Again",
-    "vote_average": 7.9,
+    "vote_average": 7.954,
     "title": "Daredevil: Born Again",
     "slug": "daredevil-born-again",
     "tags": [

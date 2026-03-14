@@ -20,7 +20,7 @@ tags:
 ```json
 {
     "adult": false,
-    "backdrop_path": "/pGFQCp12a8andfPlpnmXz44IIvY.jpg",
+    "backdrop_path": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
     "genre_ids": [
         878,
         28,
@@ -34,7 +34,7 @@ tags:
     "release_date": "2012-04-25",
     "title": "The Avengers",
     "video": false,
-    "vote_average": 7.963,
+    "vote_average": 7.964,
     "slug": "the-avengers",
     "tags": [
         "movie",
