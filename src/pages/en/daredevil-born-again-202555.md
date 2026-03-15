@@ -13,7 +13,7 @@ type: tv
 ```json
 {
     "adult": false,
-    "backdrop_path": "/v2cTiLNlviotwugnDKqY21xGmSv.jpg",
+    "backdrop_path": "/qsVW888AvaRiQqhYj8hI2DtYNor.jpg",
     "genre_ids": [
         18,
         80
@@ -28,7 +28,7 @@ type: tv
     "poster_path": "/gjum4yfMeZOu3upPstJHBPgTLFD.jpg",
     "first_air_date": "2025-03-04",
     "name": "Daredevil: Born Again",
-    "vote_average": 7.954,
+    "vote_average": 8,
     "title": "Daredevil: Born Again",
     "slug": "daredevil-born-again",
     "tags": [
