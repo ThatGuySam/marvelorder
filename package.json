@@ -84,6 +84,7 @@
         "astro": "6.0.3",
         "autoprefixer": "10.4.27",
         "deepmerge-ts": "4.1.0",
+        "node-gyp": "12.2.0",
         "postcss": "8.5.8",
         "tsx": "4.21.0",
         "typescript": "5.9.3",
