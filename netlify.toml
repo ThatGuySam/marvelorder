@@ -11,6 +11,7 @@
 [functions]
   # Sets a custom directory for Netlify Functions
   directory = "dist/functions"
+  node_bundler = "zisi"
 
   # Causes expection
   # https://github.com/withastro/astro/issues/3984#issue-1310531206
