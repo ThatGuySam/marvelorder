@@ -36,7 +36,7 @@ tags:
     "release_date": "2017-10-02",
     "title": "Thor: Ragnarok",
     "video": false,
-    "vote_average": 7.582,
+    "vote_average": 7.6,
     "slug": "thor-ragnarok",
     "tags": [
         "movie",
