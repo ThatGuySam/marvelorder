@@ -43,7 +43,7 @@ tags:
     "poster_path": "/8zwysNUXr5z3mDZSFEv1fZ8qo08.jpg",
     "first_air_date": "1967-09-09",
     "name": "The Fantastic Four",
-    "vote_average": 7.102,
+    "vote_average": 7.1,
     "title": "The Fantastic Four",
     "slug": "the-fantastic-four",
     "tags": [

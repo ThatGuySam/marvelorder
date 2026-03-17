@@ -31,7 +31,7 @@ watchLinks:
     "poster_path": "/a3QzBZjbZ6b26RS6LY828IbJWL2.jpg",
     "first_air_date": "1998-02-07",
     "name": "Silver Surfer",
-    "vote_average": 7.3,
+    "vote_average": 7.266,
     "title": "Silver Surfer",
     "slug": "silver-surfer",
     "tags": [
