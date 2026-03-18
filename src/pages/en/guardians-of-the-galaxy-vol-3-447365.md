@@ -19,7 +19,7 @@ mcuTimelineOrder: 632
 ```json
 {
     "adult": false,
-    "backdrop_path": "/hoVj2lYW3i7oMd1o7bPQRZd1lk1.jpg",
+    "backdrop_path": "/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
     "genre_ids": [
         878,
         12,
@@ -33,7 +33,7 @@ mcuTimelineOrder: 632
     "release_date": "2023-05-03",
     "title": "Guardians of the Galaxy Vol. 3",
     "video": false,
-    "vote_average": 7.923,
+    "vote_average": 7.9,
     "slug": "guardians-of-the-galaxy-vol-3",
     "tags": [
         "movie",

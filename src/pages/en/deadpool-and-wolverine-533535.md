@@ -28,7 +28,7 @@ logo_on_black: "{tmdb-path}/fa6aYdjF083UV2w6V7hOAjwaqi4.webp"
 ```json
 {
     "adult": false,
-    "backdrop_path": "/ufpeVEM64uZHPpzzeiDNIAdaeOD.jpg",
+    "backdrop_path": "/yDHYTfA3R0jFYba16jBB1ef8oIt.jpg",
     "genre_ids": [
         28,
         35,

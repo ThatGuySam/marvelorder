@@ -17,7 +17,7 @@ mcuTimelineOrder: 70
 ```json
 {
     "adult": false,
-    "backdrop_path": "/vmBSlRZYKfNdaDZ7wGkrSNbmdMI.jpg",
+    "backdrop_path": "/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg",
     "genre_ids": [
         28,
         878,
@@ -31,7 +31,7 @@ mcuTimelineOrder: 70
     "release_date": "2014-07-30",
     "title": "Guardians of the Galaxy",
     "video": false,
-    "vote_average": 7.905,
+    "vote_average": 7.9,
     "slug": "guardians-of-the-galaxy",
     "tags": [
         "movie",

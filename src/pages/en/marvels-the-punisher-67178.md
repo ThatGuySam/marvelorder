@@ -31,7 +31,7 @@ mcuTimelineOrder: 255
     "poster_path": "/9tepVli4YijTCHyiATRvoR4c64X.jpg",
     "first_air_date": "2017-11-17",
     "name": "Marvel's The Punisher",
-    "vote_average": 8.134,
+    "vote_average": 8.135,
     "title": "Marvel's The Punisher",
     "slug": "marvels-the-punisher",
     "tags": [

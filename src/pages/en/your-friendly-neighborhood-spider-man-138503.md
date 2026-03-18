@@ -46,7 +46,7 @@ tags:
     "poster_path": "/kjcsNeqF52YUQ2rUBGLMHwLkxvR.jpg",
     "first_air_date": "2025-01-29",
     "name": "Your Friendly Neighborhood Spider-Man",
-    "vote_average": 7.755,
+    "vote_average": 7.76,
     "title": "Your Friendly Neighborhood Spider-Man",
     "slug": "your-friendly-neighborhood-spider-man",
     "tags": [

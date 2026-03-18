@@ -16,7 +16,7 @@ mcuTimelineOrder: 586
 ```json
 {
     "adult": false,
-    "backdrop_path": "/dTn1HGhCuq26IoBq9qKsiYNFxfq.jpg",
+    "backdrop_path": "/gUNRlH66yNDH3NQblYMIwgZXJ2u.jpg",
     "genre_ids": [
         14,
         28,
@@ -30,7 +30,7 @@ mcuTimelineOrder: 586
     "release_date": "2022-05-04",
     "title": "Doctor Strange in the Multiverse of Madness",
     "video": false,
-    "vote_average": 7.228,
+    "vote_average": 7.227,
     "slug": "doctor-strange-in-the-multiverse-of-madness",
     "tags": [
         "movie",

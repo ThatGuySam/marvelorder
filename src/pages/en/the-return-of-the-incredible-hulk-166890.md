@@ -31,7 +31,7 @@ watchLinks:
     ],
     "release_date": "1977-11-28",
     "video": false,
-    "vote_average": 5.854,
+    "vote_average": 5.9,
     "slug": "the-return-of-the-incredible-hulk",
     "tags": [
         "list-8204862"
