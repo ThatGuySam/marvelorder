@@ -20,7 +20,7 @@ watchLinks:
     "title": "Generation X",
     "original_title": "Generation X",
     "overview": "A group of young mutants--humans with a genetic variation that gives them superpowers and makes them feared by the population at large--begin training at a school for heroes. Their studies are interrupted when they must rescue one of their number from a mad scientist who can enter others' dreams.",
-    "poster_path": "/oaM0RTIkhw0lCK9JowsIvdsJ1Pn.jpg",
+    "poster_path": "/wqkTCfznNXtYO9UnnxComqhhHRP.jpg",
     "media_type": "movie",
     "original_language": "en",
     "genre_ids": [
@@ -30,7 +30,7 @@ watchLinks:
     ],
     "release_date": "1996-02-20",
     "video": false,
-    "vote_average": 4.182,
+    "vote_average": 4.2,
     "slug": "generation-x",
     "tags": [
         "list-8204860",
