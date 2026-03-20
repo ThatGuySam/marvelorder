@@ -43,7 +43,7 @@ tags:
     "release_date": "2015-11-16",
     "title": "LEGO Marvel Super Heroes: Avengers Reassembled!",
     "video": false,
-    "vote_average": 6.592,
+    "vote_average": 6.6,
     "slug": "lego-marvel-super-heroes-avengers-reassembled",
     "tags": [
         "movie",
