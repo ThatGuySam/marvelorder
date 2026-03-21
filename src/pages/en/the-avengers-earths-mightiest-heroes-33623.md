@@ -35,7 +35,7 @@ tags:
     "poster_path": "/r1JDhMrqCOZKh7lc0vQlRYQ46cE.jpg",
     "first_air_date": "2010-10-20",
     "name": "The Avengers: Earth's Mightiest Heroes",
-    "vote_average": 8.2,
+    "vote_average": 8.196,
     "title": "The Avengers: Earth's Mightiest Heroes",
     "slug": "the-avengers-earths-mightiest-heroes",
     "tags": [
