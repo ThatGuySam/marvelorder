@@ -11,7 +11,7 @@ logo_on_black: "{tmdb-path}/dHhniU1vz1C0j27AFdcsPmq6xu.webp"
 ```json
 {
     "adult": false,
-    "backdrop_path": "/jYCyTdPfgT01IOJWDnnetr9RDX6.jpg",
+    "backdrop_path": "/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
     "genre_ids": [
         28,
         878,

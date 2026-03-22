@@ -22,7 +22,7 @@ type: movie
 ```json
 {
     "adult": false,
-    "backdrop_path": "/qglhWw9pFbtjN8j4xMu1SaTaw0z.jpg",
+    "backdrop_path": null,
     "genre_ids": [
         16,
         28,
