@@ -42,7 +42,7 @@ media_type: movie
     "original_language": "en",
     "original_title": "Avengers: Doomsday",
     "overview": "The Avengers, Wakandans, Fantastic Four, Thunderbolts, and X-Men all fight against Doctor Doom. Plot TBA.",
-    "poster_path": "/s2Fkuq0tj7mjAHEdbfQkFkdbeRI.jpg",
+    "poster_path": "/8HkIe2i4ScpCkcX9SzZ9IPasqWV.jpg",
     "release_date": "2026-12-16",
     "title": "Avengers: Doomsday",
     "video": false,

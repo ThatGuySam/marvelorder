@@ -46,7 +46,7 @@ tags:
     "poster_path": "/mGsxKwXUjojitRv2E9qMTbxbBRd.jpg",
     "first_air_date": "2024-09-18",
     "name": "Agatha All Along",
-    "vote_average": 7.457,
+    "vote_average": 7.5,
     "title": "Agatha All Along",
     "slug": "agatha-all-along",
     "tags": [

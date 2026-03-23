@@ -1,9 +1,9 @@
 {
-	"generatedAt": "2026-03-22T00:41:49.778Z",
+	"generatedAt": "2026-03-23T00:42:43.872Z",
 	"counts": {
 		"previousListings": 252,
-		"nextListings": 252,
-		"missingIds": 1,
+		"nextListings": 250,
+		"missingIds": 2,
 		"titleChanges": 0,
 		"suspiciousTitleChanges": 0,
 		"typeChanges": 0,
@@ -12,8 +12,14 @@
 	},
 	"missingIds": [
 		{
-			"id": 1655115,
-			"title": "Untitled Shang-Chi and the Legend of the Ten Rings Sequel",
+			"id": 317176,
+			"title": "Champions",
+			"type": "tv",
+			"date": ""
+		},
+		{
+			"id": 617127,
+			"title": "Blade",
 			"type": "movie",
 			"date": ""
 		}
