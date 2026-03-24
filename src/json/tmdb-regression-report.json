@@ -1,29 +1,16 @@
 {
-	"generatedAt": "2026-03-23T00:42:43.872Z",
+	"generatedAt": "2026-03-24T00:36:38.536Z",
 	"counts": {
-		"previousListings": 252,
+		"previousListings": 250,
 		"nextListings": 250,
-		"missingIds": 2,
+		"missingIds": 0,
 		"titleChanges": 0,
 		"suspiciousTitleChanges": 0,
 		"typeChanges": 0,
 		"dateCleared": 0,
 		"adultFlagFlips": 0
 	},
-	"missingIds": [
-		{
-			"id": 317176,
-			"title": "Champions",
-			"type": "tv",
-			"date": ""
-		},
-		{
-			"id": 617127,
-			"title": "Blade",
-			"type": "movie",
-			"date": ""
-		}
-	],
+	"missingIds": [],
 	"titleChanges": [],
 	"suspiciousTitleChanges": [],
 	"typeChanges": [],

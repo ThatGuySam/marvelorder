@@ -34,7 +34,7 @@ tags:
     "release_date": "2012-04-25",
     "title": "The Avengers",
     "video": false,
-    "vote_average": 7.973,
+    "vote_average": 7.974,
     "slug": "the-avengers",
     "tags": [
         "movie",

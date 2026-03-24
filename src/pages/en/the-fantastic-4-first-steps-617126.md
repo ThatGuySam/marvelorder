@@ -47,7 +47,7 @@ tags:
     "release_date": "2025-07-23",
     "title": "The Fantastic 4: First Steps",
     "video": false,
-    "vote_average": 6.963,
+    "vote_average": 6.964,
     "slug": "the-fantastic-4-first-steps",
     "tags": [
         "movie",
