@@ -46,7 +46,7 @@ tags:
     "poster_path": "/bG23nZW96LxmWkJjsagRZI9hF6t.jpg",
     "first_air_date": "2025-08-01",
     "name": "Eyes of Wakanda",
-    "vote_average": 6.2,
+    "vote_average": 6.173,
     "title": "Eyes of Wakanda",
     "slug": "eyes-of-wakanda",
     "tags": [

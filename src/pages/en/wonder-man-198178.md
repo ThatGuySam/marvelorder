@@ -30,7 +30,7 @@ Other titles
     "poster_path": "/6yy9nQlFt2l6UVWzrfhszFCaZ5C.jpg",
     "first_air_date": "2026-01-27",
     "name": "Wonder Man",
-    "vote_average": 7.128,
+    "vote_average": 7.1,
     "title": "Wonder Man",
     "slug": "wonder-man",
     "tags": [

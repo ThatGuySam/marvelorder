@@ -32,7 +32,7 @@ watchLinks:
     "release_date": "2019-06-05",
     "title": "Dark Phoenix",
     "video": false,
-    "vote_average": 5.963,
+    "vote_average": 5.964,
     "slug": "dark-phoenix",
     "tags": [
         "movie",

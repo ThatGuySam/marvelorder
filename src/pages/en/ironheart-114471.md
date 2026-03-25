@@ -30,7 +30,7 @@ logo_on_black: "{tmdb-path}/ha1kackPwP1BLtyibzuv5hABiDk.webp"
     "poster_path": "/dOh6MJpdlQhYpLBhzhNQeYGKTZ5.jpg",
     "first_air_date": "2025-06-24",
     "name": "Ironheart",
-    "vote_average": 5.339,
+    "vote_average": 5.34,
     "title": "Ironheart",
     "slug": "ironheart",
     "tags": [

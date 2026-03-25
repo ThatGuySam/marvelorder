@@ -94,28 +94,6 @@
 		"adult": false,
 		"backdrop_path": null,
 		"genre_ids": [
-			28,
-			80
-		],
-		"id": 1439930,
-		"original_language": "en",
-		"original_title": "Untitled 'The Punisher' Special",
-		"overview": "A special presentation set in the Marvel Cinematic Universe on Disney+. Plot TBA.",
-		"poster_path": null,
-		"release_date": "",
-		"title": "Untitled 'The Punisher' Special",
-		"video": false,
-		"vote_average": 0,
-		"slug": "untitled-the-punisher-special",
-		"tags": [
-			"movie",
-			"company-420"
-		]
-	},
-	{
-		"adult": false,
-		"backdrop_path": null,
-		"genre_ids": [
 			878
 		],
 		"id": 1474568,
@@ -208,6 +186,52 @@
 	},
 	{
 		"adult": false,
+		"backdrop_path": "/kgkunH8fDAm1MaB7jeZtHVm6VW3.jpg",
+		"genre_ids": [
+			28,
+			80
+		],
+		"id": 1439930,
+		"original_language": "en",
+		"original_title": "Untitled 'The Punisher' Special",
+		"overview": "A special presentation set in the Marvel Cinematic Universe on Disney+. Plot TBA.",
+		"poster_path": "/eg4NXYYkdtNRhoflZLKrK71Tvzf.jpg",
+		"release_date": "2026-05-12",
+		"title": "Untitled 'The Punisher' Special",
+		"video": false,
+		"vote_average": 0,
+		"slug": "untitled-the-punisher-special",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
+		"backdrop_path": null,
+		"genre_ids": [
+			28,
+			12,
+			53,
+			18
+		],
+		"id": 1657196,
+		"original_language": "en",
+		"original_title": "The Punisher: One Last Kill",
+		"overview": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.",
+		"poster_path": "/psQzKaG0XNNvSkAvBFieZyMu0bF.jpg",
+		"release_date": "2026-05-12",
+		"title": "The Punisher: One Last Kill",
+		"video": false,
+		"vote_average": 0,
+		"slug": "the-punisher-one-last-kill",
+		"tags": [
+			"movie",
+			"company-420"
+		]
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/los8S8iCRn5Q7irl0LNAp6C6Gmz.jpg",
 		"genre_ids": [
 			35,
@@ -223,7 +247,7 @@
 		"poster_path": "/6yy9nQlFt2l6UVWzrfhszFCaZ5C.jpg",
 		"first_air_date": "2026-01-27",
 		"name": "Wonder Man",
-		"vote_average": 7.128,
+		"vote_average": 7.1,
 		"title": "Wonder Man",
 		"slug": "wonder-man",
 		"tags": [
@@ -324,7 +348,7 @@
 		"poster_path": "/bG23nZW96LxmWkJjsagRZI9hF6t.jpg",
 		"first_air_date": "2025-08-01",
 		"name": "Eyes of Wakanda",
-		"vote_average": 6.2,
+		"vote_average": 6.173,
 		"title": "Eyes of Wakanda",
 		"slug": "eyes-of-wakanda",
 		"tags": [
@@ -348,7 +372,7 @@
 		"release_date": "2025-07-23",
 		"title": "The Fantastic 4: First Steps",
 		"video": false,
-		"vote_average": 6.964,
+		"vote_average": 7,
 		"slug": "the-fantastic-4-first-steps",
 		"tags": [
 			"movie",
@@ -398,7 +422,7 @@
 		"poster_path": "/dOh6MJpdlQhYpLBhzhNQeYGKTZ5.jpg",
 		"first_air_date": "2025-06-24",
 		"name": "Ironheart",
-		"vote_average": 5.339,
+		"vote_average": 5.34,
 		"title": "Ironheart",
 		"slug": "ironheart",
 		"tags": [
@@ -422,7 +446,7 @@
 		"release_date": "2025-04-30",
 		"title": "Thunderbolts*",
 		"video": false,
-		"vote_average": 7.29,
+		"vote_average": 7.289,
 		"slug": "thunderbolts",
 		"tags": [
 			"movie",
@@ -446,7 +470,7 @@
 		"poster_path": "/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
 		"first_air_date": "2025-03-04",
 		"name": "Daredevil: Born Again",
-		"vote_average": 7.962,
+		"vote_average": 8,
 		"title": "Daredevil: Born Again",
 		"slug": "daredevil-born-again",
 		"tags": [
@@ -470,7 +494,7 @@
 		"release_date": "2025-02-12",
 		"title": "Captain America: Brave New World",
 		"video": false,
-		"vote_average": 5.98,
+		"vote_average": 5.979,
 		"slug": "captain-america-brave-new-world",
 		"tags": [
 			"movie",
@@ -748,7 +772,7 @@
 		"release_date": "2023-11-08",
 		"title": "The Marvels",
 		"video": false,
-		"vote_average": 5.945,
+		"vote_average": 5.944,
 		"slug": "the-marvels",
 		"tags": [
 			"movie",
@@ -882,7 +906,7 @@
 		"release_date": "2023-05-31",
 		"title": "Spider-Man: Across the Spider-Verse",
 		"video": false,
-		"vote_average": 8.332,
+		"vote_average": 8.333,
 		"slug": "spider-man-across-the-spider-verse",
 		"tags": [
 			"movie",
@@ -1021,7 +1045,7 @@
 		"release_date": "2022-11-24",
 		"title": "The Guardians of the Galaxy Holiday Special",
 		"video": false,
-		"vote_average": 7.097,
+		"vote_average": 7.096,
 		"slug": "the-guardians-of-the-galaxy-holiday-special",
 		"tags": [
 			"movie",
@@ -1109,7 +1133,7 @@
 		"release_date": "2022-09-25",
 		"title": "Werewolf by Night",
 		"video": false,
-		"vote_average": 6.971,
+		"vote_average": 6.97,
 		"slug": "werewolf-by-night",
 		"tags": [
 			"movie",
@@ -1182,7 +1206,7 @@
 		"poster_path": "/lYwFSsP4KsoRhOLhJvBFp3GEGEm.jpg",
 		"first_air_date": "2022-08-10",
 		"name": "I Am Groot",
-		"vote_average": 7.1,
+		"vote_average": 7.051,
 		"title": "I Am Groot",
 		"slug": "i-am-groot",
 		"tags": [
@@ -1368,7 +1392,7 @@
 		"release_date": "2022-07-06",
 		"title": "Thor: Love and Thunder",
 		"video": false,
-		"vote_average": 6.375,
+		"vote_average": 6.376,
 		"slug": "thor-love-and-thunder",
 		"tags": [
 			"movie",
@@ -1393,7 +1417,7 @@
 		"poster_path": "/3HWWh92kZbD7odwJX7nKmXNZsYo.jpg",
 		"first_air_date": "2022-06-08",
 		"name": "Ms. Marvel",
-		"vote_average": 6.296,
+		"vote_average": 6.297,
 		"title": "Ms. Marvel",
 		"slug": "ms-marvel",
 		"tags": [
@@ -1669,7 +1693,7 @@
 		"release_date": "2021-11-03",
 		"title": "Eternals",
 		"video": false,
-		"vote_average": 6.776,
+		"vote_average": 6.8,
 		"slug": "eternals",
 		"tags": [
 			"movie",
@@ -1740,7 +1764,7 @@
 		"poster_path": "/lztz5XBMG1x6Y5ubz7CxfPFsAcW.jpg",
 		"first_air_date": "2021-08-11",
 		"name": "What If...?",
-		"vote_average": 8.061,
+		"vote_average": 8.062,
 		"title": "What If...?",
 		"slug": "what-if",
 		"tags": [
@@ -1792,7 +1816,7 @@
 		"release_date": "2021-07-07",
 		"title": "Black Widow",
 		"video": false,
-		"vote_average": 7.2,
+		"vote_average": 7.172,
 		"slug": "black-widow",
 		"tags": [
 			"movie",
@@ -2161,7 +2185,7 @@
 		"release_date": "2019-06-05",
 		"title": "Dark Phoenix",
 		"video": false,
-		"vote_average": 5.963,
+		"vote_average": 5.964,
 		"slug": "dark-phoenix",
 		"tags": [
 			"movie",
@@ -2524,7 +2548,7 @@
 		"poster_path": "/9tepVli4YijTCHyiATRvoR4c64X.jpg",
 		"first_air_date": "2017-11-17",
 		"name": "Marvel's The Punisher",
-		"vote_average": 8.134,
+		"vote_average": 8.132,
 		"title": "Marvel's The Punisher",
 		"slug": "marvels-the-punisher",
 		"tags": [
@@ -2629,7 +2653,7 @@
 		"poster_path": "/zKfGip55oJ9tdzhyd9ayGyFFhuo.jpg",
 		"first_air_date": "2017-09-29",
 		"name": "Marvel's Inhumans",
-		"vote_average": 5.9,
+		"vote_average": 5.866,
 		"title": "Marvel's Inhumans",
 		"slug": "marvels-inhumans",
 		"tags": [
@@ -2826,7 +2850,7 @@
 		"poster_path": "/xhJtYVTsdXQCIlB5hAXkMCPUG9y.jpg",
 		"first_air_date": "2017-02-08",
 		"name": "Legion",
-		"vote_average": 7.506,
+		"vote_average": 7.504,
 		"title": "Legion",
 		"slug": "legion",
 		"tags": [
@@ -3045,7 +3069,7 @@
 		"release_date": "2016-02-09",
 		"title": "Deadpool",
 		"video": false,
-		"vote_average": 7.622,
+		"vote_average": 7.6,
 		"slug": "deadpool",
 		"tags": [
 			"movie",
@@ -3092,7 +3116,7 @@
 		"poster_path": "/paf9wL3mOW9LT3ZjRxXqJcjeMEv.jpg",
 		"first_air_date": "2015-11-20",
 		"name": "Marvel's Jessica Jones",
-		"vote_average": 7.483,
+		"vote_average": 7.5,
 		"title": "Marvel's Jessica Jones",
 		"slug": "marvels-jessica-jones",
 		"tags": [
@@ -3323,7 +3347,7 @@
 			10765
 		],
 		"first_air_date": "2015-03-10",
-		"vote_average": 6.628,
+		"vote_average": 6.6,
 		"origin_country": [
 			"US"
 		],
@@ -3534,7 +3558,7 @@
 		"release_date": "2014-04-16",
 		"title": "The Amazing Spider-Man 2",
 		"video": false,
-		"vote_average": 6.5,
+		"vote_average": 6.528,
 		"slug": "the-amazing-spider-man-2",
 		"tags": [
 			"movie",
@@ -3721,7 +3745,7 @@
 		"release_date": "2013-10-04",
 		"title": "Marvel One-Shot: Agent Carter",
 		"video": false,
-		"vote_average": 7.233,
+		"vote_average": 7.237,
 		"slug": "marvel-one-shot-agent-carter",
 		"tags": [
 			"movie",
@@ -4001,7 +4025,7 @@
 		"release_date": "2012-04-25",
 		"title": "The Avengers",
 		"video": false,
-		"vote_average": 7.974,
+		"vote_average": 7.975,
 		"slug": "the-avengers",
 		"tags": [
 			"movie",
@@ -4024,7 +4048,7 @@
 		"release_date": "2011-12-10",
 		"title": "Ghost Rider: Spirit of Vengeance",
 		"video": false,
-		"vote_average": 5.008,
+		"vote_average": 5.009,
 		"slug": "ghost-rider-spirit-of-vengeance",
 		"tags": [
 			"movie",
@@ -4495,7 +4519,7 @@
 		"release_date": "2008-12-05",
 		"title": "Punisher: War Zone",
 		"video": false,
-		"vote_average": 5.837,
+		"vote_average": 5.835,
 		"slug": "punisher-war-zone",
 		"tags": [
 			"movie",
@@ -4568,7 +4592,7 @@
 		"release_date": "2008-04-30",
 		"title": "Iron Man",
 		"video": false,
-		"vote_average": 7.656,
+		"vote_average": 7.657,
 		"slug": "iron-man",
 		"tags": [
 			"movie",
@@ -4738,7 +4762,7 @@
 		"release_date": "2007-01-15",
 		"title": "Ghost Rider",
 		"video": false,
-		"vote_average": 5.59,
+		"vote_average": 5.591,
 		"slug": "ghost-rider",
 		"tags": [
 			"movie",
@@ -4840,7 +4864,7 @@
 		"release_date": "2006-05-24",
 		"title": "X-Men: The Last Stand",
 		"video": false,
-		"vote_average": 6.418,
+		"vote_average": 6.417,
 		"slug": "x-men-the-last-stand",
 		"tags": [
 			"movie",
@@ -4913,7 +4937,7 @@
 		"release_date": "2005-01-13",
 		"title": "Elektra",
 		"video": false,
-		"vote_average": 5.047,
+		"vote_average": 5.048,
 		"slug": "elektra",
 		"tags": [
 			"movie",
@@ -4982,7 +5006,7 @@
 		"release_date": "2004-04-15",
 		"title": "The Punisher",
 		"video": false,
-		"vote_average": 6.359,
+		"vote_average": 6.36,
 		"slug": "the-punisher",
 		"tags": [
 			"movie",
@@ -5385,7 +5409,7 @@
 			10759
 		],
 		"first_air_date": "1994-11-19",
-		"vote_average": 8.288,
+		"vote_average": 8.3,
 		"origin_country": [
 			"US"
 		],
@@ -5587,7 +5611,7 @@
 		],
 		"release_date": "1986-08-01",
 		"video": false,
-		"vote_average": 5.427,
+		"vote_average": 5.426,
 		"slug": "howard-the-duck",
 		"tags": [
 			"list-8204859"

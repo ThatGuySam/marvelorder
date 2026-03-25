@@ -29,7 +29,7 @@ watchLinks:
     "release_date": "2013-10-04",
     "title": "Marvel One-Shot: Agent Carter",
     "video": false,
-    "vote_average": 7.233,
+    "vote_average": 7.237,
     "slug": "marvel-one-shot-agent-carter",
     "tags": [
         "movie",
