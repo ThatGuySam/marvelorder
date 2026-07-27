@@ -6,6 +6,7 @@ description: >-
   memories given to him as he lacks the emotions or feelings associated with
   them.
 layout: ../../layouts/MainLayout.astro
+logo_on_black: "{tmdb-path}/6W4i38nHaAdjdZyk7H5mBVyFC1e.webp"
 adult: false
 backdrop_path: /hgo15B8eUnbEjszVV1qdV8sGz9S.jpg
 genre_ids:

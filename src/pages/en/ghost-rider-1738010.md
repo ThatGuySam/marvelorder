@@ -5,6 +5,7 @@ description: >-
   Marvel Studios' new Ghost Rider film stars Ryan Gosling, is directed by
   Shawn Levy, and is planned for theatrical release in 2028.
 layout: ../../layouts/MainLayout.astro
+logo_on_black: "{tmdb-path}/3iDNNuMN7zqyNw9fDSsHRrxqhWT.webp?source.width=1280"
 adult: false
 backdrop_path: /8ZuU1bCXvqcHdFIIiJAtkGRPw1j.jpg
 genre_ids:
