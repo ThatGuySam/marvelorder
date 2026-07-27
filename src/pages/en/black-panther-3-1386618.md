@@ -6,7 +6,7 @@ description: >-
   arriving in theaters on December 15, 2028. David Jonsson is the new Black
   Panther.
 layout: ../../layouts/MainLayout.astro
-logo_on_black: "{tmdb-path}/azoGCrdLJG4TIeX5Ub1pMgWZmw2.webp?source.width=1280"
+logo_on_black: "/api/tmdb-image/azoGCrdLJG4TIeX5Ub1pMgWZmw2.webp?source.width=1280"
 adult: false
 backdrop_path: /5b8t06v1cTd9H5IgWs6gj6987JM.jpg
 genre_ids:
