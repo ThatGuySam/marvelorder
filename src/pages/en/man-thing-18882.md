@@ -33,7 +33,7 @@ watchLinks:
     "release_date": "2005-04-21",
     "title": "Man-Thing",
     "video": false,
-    "vote_average": 4.312,
+    "vote_average": 4.304,
     "slug": "man-thing",
     "tags": [
         "movie",

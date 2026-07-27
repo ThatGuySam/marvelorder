@@ -28,7 +28,7 @@ logo_on_black: "{fanart-path}/powers-2014-5503f9406a26a.webp"
         10765
     ],
     "first_air_date": "2015-03-10",
-    "vote_average": 6.628,
+    "vote_average": 6.6,
     "origin_country": [
         "US"
     ],

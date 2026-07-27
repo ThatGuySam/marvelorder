@@ -45,7 +45,7 @@ tags:
     "release_date": "2022-01-17",
     "title": "LEGO Marvel Avengers: Time Twisted",
     "video": false,
-    "vote_average": 7.194,
+    "vote_average": 7.184,
     "slug": "lego-marvel-avengers-time-twisted",
     "tags": [
         "movie",

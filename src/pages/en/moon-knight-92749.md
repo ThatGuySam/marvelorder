@@ -19,7 +19,7 @@ mcuTimelineOrder: 610
 ```json
 {
     "adult": false,
-    "backdrop_path": "/1uegR4uAxRxiMyX4nQnpzbXhrTw.jpg",
+    "backdrop_path": "/iux1vKPT7Vw1AzetZb4Jz6wfYsm.jpg",
     "genre_ids": [
         10765,
         9648,
@@ -35,7 +35,7 @@ mcuTimelineOrder: 610
     "poster_path": "/vKDUmKO6F9bSKKyHhg7YGbgcEeF.jpg",
     "first_air_date": "2022-03-30",
     "name": "Moon Knight",
-    "vote_average": 7.651,
+    "vote_average": 7.65,
     "title": "Moon Knight",
     "slug": "moon-knight",
     "tags": [

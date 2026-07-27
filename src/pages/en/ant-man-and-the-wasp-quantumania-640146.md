@@ -20,7 +20,7 @@ mcuTimelineOrder: 631
 ```json
 {
     "adult": false,
-    "backdrop_path": "/7WxVKp35lxxGUin8eLvTkDcr5Ke.jpg",
+    "backdrop_path": "/m8JTwHFwX7I7JY5fPe4SjqejWag.jpg",
     "genre_ids": [
         28,
         12,
@@ -34,7 +34,7 @@ mcuTimelineOrder: 631
     "release_date": "2023-02-15",
     "title": "Ant-Man and the Wasp: Quantumania",
     "video": false,
-    "vote_average": 6.239,
+    "vote_average": 6.238,
     "slug": "ant-man-and-the-wasp-quantumania",
     "tags": [
         "movie",

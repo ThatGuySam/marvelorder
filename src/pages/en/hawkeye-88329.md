@@ -18,7 +18,7 @@ mcuTimelineOrder: 587
 ```json
 {
     "adult": false,
-    "backdrop_path": "/e3tA49HkybsO90hpL1AZTHR5ZU.jpg",
+    "backdrop_path": "/1R68vl3d5s86JsS2NPjl8UoMqIS.jpg",
     "genre_ids": [
         18,
         35,
@@ -34,7 +34,7 @@ mcuTimelineOrder: 587
     "poster_path": "/ct5pNE5dDHryHLDnxyZPYcqO1sz.jpg",
     "first_air_date": "2021-11-24",
     "name": "Hawkeye",
-    "vote_average": 7.8,
+    "vote_average": 7.799,
     "title": "Hawkeye",
     "slug": "hawkeye",
     "tags": [

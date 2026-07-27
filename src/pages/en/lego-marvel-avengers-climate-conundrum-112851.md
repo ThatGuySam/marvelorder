@@ -49,7 +49,7 @@ tags:
     "poster_path": "/yeCEBB9eLeJ4nmj00ePD7eqeWYx.jpg",
     "first_air_date": "2020-11-01",
     "name": "LEGO Marvel Avengers: Climate Conundrum",
-    "vote_average": 4.6,
+    "vote_average": 4.667,
     "title": "LEGO Marvel Avengers: Climate Conundrum",
     "slug": "lego-marvel-avengers-climate-conundrum",
     "tags": [
