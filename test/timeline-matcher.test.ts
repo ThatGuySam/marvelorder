@@ -2,9 +2,11 @@ import { expect, test } from 'vitest'
 
 import { getYearAndMonth } from '~/src/helpers/node/listing.ts'
 import {
+    canonicalizeTimelineListings,
     datesMatchByPrecision,
     getCanonicalTimelineListingKey,
 } from '~/src/helpers/node/timeline-matcher.ts'
+import type { Listing } from '~/src/helpers/types.ts'
 import {
     getPublicMcuReleaseListings,
     getPublicMcuTimelineListings,
@@ -28,6 +30,68 @@ test( 'Year-month matching keeps month precision', () => {
     expect( getYearAndMonth( '2015' ) ).toBe( '' )
     expect( datesMatchByPrecision( '2011-07-21', '2011-07-22' ) ).toBe( false )
     expect( datesMatchByPrecision( '2011-07-21', '2011-07-22', 1 ) ).toBe( true )
+} )
+
+test( 'Canonical TMDB IDs remain scoped to their media type', () => {
+    const sharedFields = {
+        id: 42,
+        original_language: 'en',
+        vote_average: 0,
+    }
+    const listings: Listing[] = [
+        {
+            ...sharedFields,
+            title: 'Example Movie',
+            release_date: '2027-05-01',
+            media_type: 'movie',
+            tags: [ 'movie' ],
+        },
+        {
+            ...sharedFields,
+            title: 'Example Series',
+            first_air_date: '2027-06-01',
+            media_type: 'tv',
+            type: 'tv',
+            tags: [ 'tv' ],
+        },
+    ]
+
+    expect( canonicalizeTimelineListings( listings ) ).toHaveLength( 2 )
+} )
+
+test( 'Release listings are re-sorted after selecting the latest observation', () => {
+    const listings: Listing[] = [
+        {
+            id: 1003596,
+            title: 'Avengers 5',
+            original_language: 'en',
+            release_date: '2026-04-29',
+            tags: [ 'movie' ],
+        },
+        {
+            id: 1,
+            title: 'Middle Release',
+            original_language: 'en',
+            release_date: '2026-07-01',
+            tags: [ 'movie' ],
+        },
+        {
+            id: 1003596,
+            title: 'Avengers: Doomsday',
+            original_language: 'en',
+            release_date: '2026-12-18',
+            tags: [ 'movie' ],
+        },
+    ]
+
+    const canonicalListings = canonicalizeTimelineListings( listings, {
+        sortByReleaseDate: true,
+    } )
+
+    expect( canonicalListings.map( listing => listing.title ) ).toEqual( [
+        'Middle Release',
+        'Avengers: Doomsday',
+    ] )
 } )
 
 test( 'Public MCU timeline listings collapse duplicate observation cards', async () => {

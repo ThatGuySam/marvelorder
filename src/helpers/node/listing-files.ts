@@ -162,7 +162,10 @@ export async function getUpcomingListings () {
 
     return ensureMappedListings( canonicalizeTimelineListings(
         upcomingListings.map( listing => listing.sourceListing ),
-        { collapseUndatedTitles: true },
+        {
+            collapseUndatedTitles: true,
+            sortByReleaseDate: true,
+        },
     ) )
 }
 

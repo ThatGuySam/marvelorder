@@ -25,6 +25,7 @@ export async function getPublicMcuReleaseListings () {
 
     return canonicalizeTimelineListings( getRawListings( filteredListings ), {
         collapseUndatedTitles: true,
+        sortByReleaseDate: true,
     } )
 }
 

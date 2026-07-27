@@ -5,6 +5,7 @@ import {
     hasLogo,
 } from '~/src/helpers/listing.ts'
 import { makeSlug } from '~/src/helpers/node/listing.ts'
+import { byDefaultListingSort } from '~/src/helpers/sort.ts'
 
 export type ExpectedTimelineMediaType = 'movie' | 'tv' | 'either'
 
@@ -141,13 +142,30 @@ function getListingCompletenessScore ( listing: Listing ) {
 function getMediaTypeFlags ( listing: Listing ) {
     const tags = new Set( listing.tags || [] )
 
-    const isTv = listing.type === 'tv' || tags.has( 'tv' ) || typeof listing.first_air_date === 'string'
-    const isMovie = tags.has( 'movie' ) || typeof listing.release_date === 'string'
+    const isTv = listing.media_type === 'tv' || listing.type === 'tv' || tags.has( 'tv' ) || typeof listing.first_air_date === 'string'
+    const isMovie = listing.media_type === 'movie' || tags.has( 'movie' ) || typeof listing.release_date === 'string'
 
     return {
         isTv,
         isMovie,
     }
+}
+
+function getTimelineMediaTypeKey ( listing: Listing ) {
+    const {
+        isMovie,
+        isTv,
+    } = getMediaTypeFlags( listing )
+
+    if ( listing.media_type === 'tv' || listing.type === 'tv' || ( isTv && !isMovie ) ) {
+        return 'tv'
+    }
+
+    if ( listing.media_type === 'movie' || ( isMovie && !isTv ) ) {
+        return 'movie'
+    }
+
+    return 'unknown'
 }
 
 function getMediaCompatibilityScore ( listing: Listing, expectedMediaType: ExpectedTimelineMediaType ) {
@@ -556,12 +574,13 @@ export function mergeCanonicalListingGroup ( listings: Listing[], {
 
 export function canonicalizeTimelineListings ( listings: Listing[], options: {
     collapseUndatedTitles?: boolean
+    sortByReleaseDate?: boolean
 } = {} ) {
     const groupedListings = new Map<string, Listing[]>()
 
     for ( const listing of listings ) {
         const key = typeof listing.id === 'number'
-            ? `id:${ listing.id }`
+            ? `${ getTimelineMediaTypeKey( listing ) }:id:${ listing.id }`
             : getCanonicalTimelineListingKey( listing, options )
         const existingGroup = groupedListings.get( key ) || []
 
@@ -586,5 +605,11 @@ export function canonicalizeTimelineListings ( listings: Listing[], options: {
         ] )
     }
 
-    return Array.from( canonicalGroups.values(), ( group ) => mergeCanonicalListingGroup( group ) )
+    const canonicalListings = Array.from( canonicalGroups.values(), ( group ) => mergeCanonicalListingGroup( group ) )
+
+    if ( options.sortByReleaseDate ) {
+        canonicalListings.sort( byDefaultListingSort )
+    }
+
+    return canonicalListings
 }
