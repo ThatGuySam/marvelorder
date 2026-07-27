@@ -1,6 +1,91 @@
 // https://vitest.dev/api/
-import { expect, test } from 'vitest'
+import { expect, test, vi } from 'vitest'
 import { faker } from '@faker-js/faker'
+
+vi.mock( 'axios', () => ( {
+    default: vi.fn( async ( url: string ) => ( {
+        data: {
+            data: {
+                CuratedSet: {
+                    items: url.endsWith( '/page/1' )
+                        ? [
+                            {
+                                contentId: 'captain-america-the-first-avenger',
+                                programType: 'movie',
+                                text: {
+                                    title: {
+                                        full: {
+                                            program: {
+                                                default: {
+                                                    content: 'Captain America: The First Avenger',
+                                                    language: 'en',
+                                                    sourceEntity: 'program',
+                                                },
+                                            },
+                                        },
+                                        slug: {
+                                            program: {
+                                                default: {
+                                                    content: 'captain-america-the-first-avenger',
+                                                    language: 'en',
+                                                    sourceEntity: 'program',
+                                                },
+                                            },
+                                        },
+                                    },
+                                },
+                                releases: [
+                                    {
+                                        releaseDate: '2011-07-22',
+                                        releaseOrg: null,
+                                        releaseType: 'original',
+                                        releaseYear: 2011,
+                                        territory: null,
+                                    },
+                                ],
+                            },
+                            {
+                                contentId: 'thor',
+                                programType: 'movie',
+                                text: {
+                                    title: {
+                                        full: {
+                                            program: {
+                                                default: {
+                                                    content: 'Thor',
+                                                    language: 'en',
+                                                    sourceEntity: 'program',
+                                                },
+                                            },
+                                        },
+                                        slug: {
+                                            program: {
+                                                default: {
+                                                    content: 'thor',
+                                                    language: 'en',
+                                                    sourceEntity: 'program',
+                                                },
+                                            },
+                                        },
+                                    },
+                                },
+                                releases: [
+                                    {
+                                        releaseDate: '2011-04-21',
+                                        releaseOrg: null,
+                                        releaseType: 'original',
+                                        releaseYear: 2011,
+                                        territory: null,
+                                    },
+                                ],
+                            },
+                        ]
+                        : [],
+                },
+            },
+        },
+    } ) ),
+} ) )
 
 import type { Listing } from '~/src/types/listing.ts'
 import {

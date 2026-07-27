@@ -5,6 +5,7 @@ import {
     hasLogo,
 } from '~/src/helpers/listing.ts'
 import { makeSlug } from '~/src/helpers/node/listing.ts'
+import { byDefaultListingSort } from '~/src/helpers/sort.ts'
 
 export type ExpectedTimelineMediaType = 'movie' | 'tv' | 'either'
 
@@ -32,6 +33,7 @@ const blockedPrimaryTitlePrefixes = new Set( [
     'behind-the-scenes',
     'disney-gallery',
 ] )
+const placeholderTimelineTitlePattern = /^(?:untitled\b|(?:avengers|black panther|doctor strange|spider-man|thor)\s+[ivx0-9]+(?:\s+film)?$)/i
 
 function stripMarvelPrefixForMatching ( slug: string ) {
     let workingSlug = slug
@@ -130,19 +132,40 @@ function getListingCompletenessScore ( listing: Listing ) {
         score += Math.max( 0, Math.min( listing.vote_average, 10 ) )
     }
 
+    if ( placeholderTimelineTitlePattern.test( listing.title || '' ) ) {
+        score -= 1_000
+    }
+
     return score
 }
 
 function getMediaTypeFlags ( listing: Listing ) {
     const tags = new Set( listing.tags || [] )
 
-    const isTv = listing.type === 'tv' || tags.has( 'tv' ) || typeof listing.first_air_date === 'string'
-    const isMovie = tags.has( 'movie' ) || typeof listing.release_date === 'string'
+    const isTv = listing.media_type === 'tv' || listing.type === 'tv' || tags.has( 'tv' ) || typeof listing.first_air_date === 'string'
+    const isMovie = listing.media_type === 'movie' || tags.has( 'movie' ) || typeof listing.release_date === 'string'
 
     return {
         isTv,
         isMovie,
     }
+}
+
+function getTimelineMediaTypeKey ( listing: Listing ) {
+    const {
+        isMovie,
+        isTv,
+    } = getMediaTypeFlags( listing )
+
+    if ( listing.media_type === 'tv' || listing.type === 'tv' || ( isTv && !isMovie ) ) {
+        return 'tv'
+    }
+
+    if ( listing.media_type === 'movie' || ( isMovie && !isTv ) ) {
+        return 'movie'
+    }
+
+    return 'unknown'
 }
 
 function getMediaCompatibilityScore ( listing: Listing, expectedMediaType: ExpectedTimelineMediaType ) {
@@ -461,12 +484,31 @@ export function getCanonicalTimelineListingKey ( listing: Listing, {
     return `listing:${ listing.id || listing.slug || titleKey }`
 }
 
-export function mergeCanonicalListingGroup ( listings: Listing[] ) {
+export function mergeCanonicalListingGroup ( listings: Listing[], {
+    preferLatestDate = false,
+}: {
+    preferLatestDate?: boolean
+} = {} ) {
     if ( listings.length === 1 ) {
         return listings[ 0 ]
     }
 
     const sortedListings = [ ...listings ].sort( ( listingA, listingB ) => {
+        const listingDateA = Date.parse( getDateString( listingA ) )
+        const listingDateB = Date.parse( getDateString( listingB ) )
+
+        if ( preferLatestDate && Number.isFinite( listingDateA ) && Number.isFinite( listingDateB ) && listingDateA !== listingDateB ) {
+            return listingDateB - listingDateA
+        }
+
+        if ( preferLatestDate && !Number.isFinite( listingDateA ) && Number.isFinite( listingDateB ) ) {
+            return 1
+        }
+
+        if ( preferLatestDate && Number.isFinite( listingDateA ) && !Number.isFinite( listingDateB ) ) {
+            return -1
+        }
+
         return getListingCompletenessScore( listingB ) - getListingCompletenessScore( listingA )
     } )
 
@@ -532,11 +574,14 @@ export function mergeCanonicalListingGroup ( listings: Listing[] ) {
 
 export function canonicalizeTimelineListings ( listings: Listing[], options: {
     collapseUndatedTitles?: boolean
+    sortByReleaseDate?: boolean
 } = {} ) {
     const groupedListings = new Map<string, Listing[]>()
 
     for ( const listing of listings ) {
-        const key = getCanonicalTimelineListingKey( listing, options )
+        const key = typeof listing.id === 'number'
+            ? `${ getTimelineMediaTypeKey( listing ) }:id:${ listing.id }`
+            : getCanonicalTimelineListingKey( listing, options )
         const existingGroup = groupedListings.get( key ) || []
 
         groupedListings.set( key, [
@@ -545,5 +590,26 @@ export function canonicalizeTimelineListings ( listings: Listing[], options: {
         ] )
     }
 
-    return Array.from( groupedListings.values(), mergeCanonicalListingGroup )
+    const idCollapsedListings = Array.from( groupedListings.values(), ( group ) => mergeCanonicalListingGroup( group, {
+        preferLatestDate: true,
+    } ) )
+    const canonicalGroups = new Map<string, Listing[]>()
+
+    for ( const listing of idCollapsedListings ) {
+        const key = getCanonicalTimelineListingKey( listing, options )
+        const existingGroup = canonicalGroups.get( key ) || []
+
+        canonicalGroups.set( key, [
+            ...existingGroup,
+            listing,
+        ] )
+    }
+
+    const canonicalListings = Array.from( canonicalGroups.values(), ( group ) => mergeCanonicalListingGroup( group ) )
+
+    if ( options.sortByReleaseDate ) {
+        canonicalListings.sort( byDefaultListingSort )
+    }
+
+    return canonicalListings
 }

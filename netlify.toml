@@ -85,6 +85,12 @@
     to = "/en/guardians-of-the-galaxy-volume-3-447365"
     status = 301
 
+[[redirects]]
+    from = "/en/untitled-the-punisher-special-1439930"
+    to = "/en/the-punisher-one-last-kill-1657196"
+    status = 301
+    force = true
+
 
 
 # [[redirects]]

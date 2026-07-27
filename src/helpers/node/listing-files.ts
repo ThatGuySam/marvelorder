@@ -24,6 +24,9 @@ import {
 import {
     normalizeListingObservation,
 } from '~/src/helpers/node/listing-source-overrides.ts'
+import {
+    canonicalizeTimelineListings,
+} from '~/src/helpers/node/timeline-matcher.ts'
 
 import type { Filter, Listing, ListingFrontMatter } from '~/src/helpers/types.ts'
 
@@ -155,9 +158,15 @@ export async function getUpcomingListings () {
             [ isUpcoming, true ],
         ] ),
         listingsSort: 'default',
-    } )
+    } ).list
 
-    return upcomingListings.list
+    return ensureMappedListings( canonicalizeTimelineListings(
+        upcomingListings.map( listing => listing.sourceListing ),
+        {
+            collapseUndatedTitles: true,
+            sortByReleaseDate: true,
+        },
+    ) )
 }
 
 export async function getTaggedListings ( tags: string[] ) {

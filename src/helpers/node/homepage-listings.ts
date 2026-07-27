@@ -280,12 +280,12 @@ function isHomepageFutureLowConfidence (
         return false
     }
 
-    if ( isHomepageFuturePlaceholderTitle( listing ) ) {
-        return true
-    }
-
     const snapshotTitle = getSnapshotNormalizedTitle( listing, snapshotTitleById )
     const isSnapshotAligned = snapshotTitle.length > 0 && getNormalizedHomepageTitle( listing ) === snapshotTitle
+
+    if ( isHomepageFuturePlaceholderTitle( listing ) && !isSnapshotAligned && !hasHomepageLogo( listing ) ) {
+        return true
+    }
 
     return !isSnapshotAligned
         && Number( listing.vote_average || 0 ) === 0

@@ -5,6 +5,7 @@ description: >-
   As Frank Castle searches for meaning beyond revenge, an unexpected force pulls
   him back into the fight.
 layout: ../../layouts/MainLayout.astro
+logo_on_black: "{tmdb-path}/lReCKrf9vGHcmhiqpsMgDgNzWPr.webp"
 adult: false
 backdrop_path: null
 genre_ids:

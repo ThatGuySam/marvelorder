@@ -1,8 +1,17 @@
 // https://vitest.dev/api/
-import { expect, test } from 'vitest'
+import {
+    afterEach,
+    expect,
+    test,
+    vi,
+} from 'vitest'
 import { faker } from '@faker-js/faker'
 
-import { FilteredListings, ListingFilters } from '~/src/helpers/listing-filters.ts'
+import {
+    FilteredListings,
+    isUpcoming,
+    ListingFilters,
+} from '~/src/helpers/listing-filters.ts'
 import {
     makeMappedListings,
 } from '~/src/helpers/node/listing.ts'
@@ -29,6 +38,44 @@ const fakeListing: ListingFrontMatter = {
     vote_average: faker.datatype.number(),
     // tags: [ faker.lorem.word(), faker.lorem.word() ],
 }
+
+afterEach( () => {
+    vi.useRealTimers()
+} )
+
+test( 'Year-only releases remain upcoming through the end of that year', () => {
+    vi.useFakeTimers()
+
+    const [ listing ] = makeMappedListings( [
+        {
+            ...fakeListing,
+            release_date: '2028',
+        },
+    ] )
+
+    vi.setSystemTime( new Date( 2028, 11, 31, 23, 59, 59 ) )
+    expect( isUpcoming( listing ) ).toBe( true )
+
+    vi.setSystemTime( new Date( 2029, 0, 1 ) )
+    expect( isUpcoming( listing ) ).toBe( false )
+} )
+
+test( 'Year-month releases remain upcoming through the end of that month', () => {
+    vi.useFakeTimers()
+
+    const [ listing ] = makeMappedListings( [
+        {
+            ...fakeListing,
+            release_date: '2028-06',
+        },
+    ] )
+
+    vi.setSystemTime( new Date( 2028, 5, 30, 23, 59, 59 ) )
+    expect( isUpcoming( listing ) ).toBe( true )
+
+    vi.setSystemTime( new Date( 2028, 6, 1 ) )
+    expect( isUpcoming( listing ) ).toBe( false )
+} )
 
 test( 'Can filter out docs by default', () => {
     const apiListings = [

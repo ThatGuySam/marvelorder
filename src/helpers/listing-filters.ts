@@ -5,17 +5,32 @@ import { ensureMappedListings, type MappedListing } from './node/listing.ts'
 import { getSortByName } from '~/src/helpers/sort.ts'
 
 export function isUpcoming ( listing ) {
-    // console.log( 'now - listing.date', now - listing.date )
-
     const now = new Date()
+    const dateString = typeof listing.dateString === 'string'
+        ? listing.dateString.trim()
+        : ''
 
-    const timeDifference = Number( now ) - listing.date
+    if ( /^\d{4}$/.test( dateString ) ) {
+        return now.getFullYear() <= Number( dateString )
+    }
 
-    if ( typeof timeDifference !== 'number' ) {
+    if ( /^\d{4}-\d{2}$/.test( dateString ) ) {
+        const [
+            year,
+            month,
+        ] = dateString.split( '-' ).map( Number )
+
+        return now.getFullYear() < year
+            || ( now.getFullYear() === year && now.getMonth() + 1 <= month )
+    }
+
+    const listingTime = listing.date?.valueOf()
+
+    if ( typeof listingTime !== 'number' || !Number.isFinite( listingTime ) ) {
         return true
     }
 
-    return timeDifference < 0
+    return Number( now ) < listingTime
 }
 
 const docMatchingTerms = new Set( [

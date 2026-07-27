@@ -11,7 +11,7 @@ original_language: en
 original_title: Black Panther 3
 overview: The third installment in Marvel Studios’ Black Panther franchise.
 poster_path: /2lF3WbFA39z9KazQza9JJ0wtPAC.jpg
-release_date: ''
+release_date: '2028-12-15'
 video: false
 vote_average: 0
 tags:

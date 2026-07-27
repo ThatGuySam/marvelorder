@@ -62,6 +62,7 @@ function getOptions ( eventUrlString: string ): RequestOptions {
     const eventUrl = new URL( eventUrlString, process.env.URL || 'https://marvelorder.com' )
 
     const widthParam = eventUrl.searchParams.get( 'width' ) || '750'
+    const sourceWidthParam = eventUrl.searchParams.get( 'source.width' ) || 'original'
     const cropTop = eventUrl.searchParams.get( 'crop.top' ) || '0'
     const cropBottom = eventUrl.searchParams.get( 'crop.bottom' ) || '0'
     const transparent = eventUrl.searchParams.get( 'transparent' ) || '1'
@@ -79,7 +80,12 @@ function getOptions ( eventUrlString: string ): RequestOptions {
         throw new Error( 'Image path is missing' )
     }
 
-    const contentUrl = `${ base_url }/${ imagePath }`
+    if ( !/^(?:original|\d+)$/.test( sourceWidthParam ) ) {
+        throw new Error( 'Invalid TMDB source width' )
+    }
+
+    const sourceWidth = sourceWidthParam === 'original' ? sourceWidthParam : `w${ sourceWidthParam }`
+    const contentUrl = `${ base_url.replace( /original$/, sourceWidth ) }/${ imagePath }`
 
     // Just always assume it's a jpg source
     const requestExtension = imagePath.split( /[#?]/ )[ 0 ].split( '.' ).pop()?.trim() || 'jpg'

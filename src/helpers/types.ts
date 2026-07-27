@@ -64,6 +64,7 @@ export interface Listing {
     vote_average?: number
     vote_count?: number
     type?: string
+    media_type?: string
     logo_on_black?: string
     slug?: string
     tags?: string[]

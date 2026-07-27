@@ -3,6 +3,7 @@ title: 'Black Panther 3: Legacy of Wakanda'
 slug: black-panther-3-legacy-of-wakanda
 description: Rumored third installment in Marvel Studios’ Black Panther franchise.
 layout: ../../layouts/MainLayout.astro
+draft: true
 adult: false
 backdrop_path: null
 genre_ids: []
