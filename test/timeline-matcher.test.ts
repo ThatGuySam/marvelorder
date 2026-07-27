@@ -70,4 +70,8 @@ test( 'Public MCU release listings collapse current duplicate MCU cards', async 
     expect( listings.filter( listing => listing.title === 'What If...?' ) ).toHaveLength( 1 )
     expect( listings.filter( listing => listing.title === 'Black Panther 3' ) ).toHaveLength( 1 )
     expect( listings.filter( listing => listing.title === 'Thor 5' ) ).toHaveLength( 1 )
+    expect( listings.filter( listing => listing.title === 'Spider-Man: Brand New Day' ) ).toHaveLength( 1 )
+    expect( listings.filter( listing => listing.title === 'Spider-Man 4' ) ).toHaveLength( 0 )
+    expect( listings.filter( listing => listing.title === 'Avengers: Doomsday' ) ).toHaveLength( 1 )
+    expect( listings.filter( listing => listing.title === 'Avengers 5' ) ).toHaveLength( 0 )
 } )

@@ -38,9 +38,19 @@ export function makeUpcomingListingsMarkdown ( upcomingListings: MappedListing[]
     const markdownLines = upcomingListings.map( ( mappedListing ) => {
         // console.log( 'mappedListing.date', mappedListing.date )
 
+        const dateString = mappedListing.dateString
+        let displayDate = dateString
+
+        if ( /^\d{4}-\d{2}-\d{2}$/.test( dateString ) ) {
+            displayDate = mappedListing.date.toJSDate().toLocaleDateString( 'en-US', { month: 'long', day: 'numeric', year: 'numeric' } )
+        }
+        else if ( /^\d{4}-\d{2}$/.test( dateString ) ) {
+            displayDate = mappedListing.date.toJSDate().toLocaleDateString( 'en-US', { month: 'long', year: 'numeric' } )
+        }
+
         const lineParts = [
             '',
-            mappedListing.date.toJSDate().toLocaleDateString( 'en-US', { month: 'long', day: 'numeric', year: 'numeric' } ),
+            displayDate,
             `[${ mappedListing.title }](https://marvelorder.com${ mappedListing.endpoint })`,
             // typesReadmeMap[ timelineType ],
             `[Edit](${ mappedListing.githubEditUrl })`,

@@ -45,3 +45,34 @@ test( 'Authoritative release date overrides replace stale or missing studio date
     expect( beyondSpiderVerse.release_date ).toBe( '2027-06-18' )
     expect( brandNewDay.release_date ).toBe( '2026-07-31' )
 } )
+
+test( 'Title-scoped studio dates resolve duplicate TMDB observations', () => {
+    const doomsday = normalizeListingObservation(
+        {
+            id: 1003596,
+            title: 'Avengers: Doomsday',
+            release_date: '2026-12-16',
+        } as any,
+        {},
+    )
+    const oldPlaceholder = normalizeListingObservation(
+        {
+            id: 1003596,
+            title: 'Avengers 5',
+            release_date: '2026-04-29',
+        } as any,
+        {},
+    )
+    const visionQuest = normalizeListingObservation(
+        {
+            id: 213375,
+            title: 'VisionQuest',
+            first_air_date: '',
+        } as any,
+        {},
+    )
+
+    expect( doomsday.release_date ).toBe( '2026-12-18' )
+    expect( oldPlaceholder.release_date ).toBe( '2026-04-29' )
+    expect( visionQuest.first_air_date ).toBe( '2026-10-14' )
+} )

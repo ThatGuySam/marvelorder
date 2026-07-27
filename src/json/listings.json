@@ -1,6 +1,28 @@
 [
 	{
 		"adult": false,
+		"backdrop_path": "/8ZuU1bCXvqcHdFIIiJAtkGRPw1j.jpg",
+		"genre_ids": [
+			14
+		],
+		"id": 1738010,
+		"original_language": "en",
+		"original_title": "Ghost Rider",
+		"overview": "A film set in the Marvel Cinematic Universe (MCU) based on the Marvel Comics character of the same name. Plot TBA.",
+		"poster_path": "/zgC1zo3lyujoEiIMnUrHltvPmZg.jpg",
+		"release_date": "",
+		"title": "Ghost Rider",
+		"video": false,
+		"vote_average": 0,
+		"slug": "ghost-rider",
+		"tags": [
+			"movie",
+			"company-420"
+		],
+		"media_type": "movie"
+	},
+	{
+		"adult": false,
 		"backdrop_path": "/hgo15B8eUnbEjszVV1qdV8sGz9S.jpg",
 		"genre_ids": [
 			10765
@@ -11,9 +33,9 @@
 		],
 		"original_language": "en",
 		"original_name": "VisionQuest",
-		"overview": "After the events of WandaVision, White Vision struggles to connect with the memories given to him as he lacks the emotions or feelings associated with them.",
+		"overview": "After the events of WandaVision, White Vision struggles to connect to the memories given to him as he lacks the emotions or feelings associated with them.",
 		"poster_path": "/6j60tGRAjBmWRPTOEwhW6oRbPMP.jpg",
-		"first_air_date": "",
+		"first_air_date": "2026-10-14",
 		"name": "VisionQuest",
 		"vote_average": 0,
 		"title": "VisionQuest",
@@ -92,16 +114,18 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
+		"backdrop_path": "/5b8t06v1cTd9H5IgWs6gj6987JM.jpg",
 		"genre_ids": [
-			878
+			878,
+			28,
+			12
 		],
 		"id": 1386618,
 		"original_language": "en",
 		"original_title": "Black Panther 3",
-		"overview": "Rumored third installment in Marvel Studios’ Black Panther franchise.",
-		"poster_path": null,
-		"release_date": "",
+		"overview": "T'Challa's son, T'Challa, comes of age with eyes on the crown of Wakanda.",
+		"poster_path": "/zJc9fYZxgq4yzI0Oru2e1Cf3a3V.jpg",
+		"release_date": "2028-12-14",
 		"title": "Black Panther 3",
 		"video": false,
 		"vote_average": 0,
@@ -113,21 +137,22 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": null,
+		"backdrop_path": "/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
 		"genre_ids": [
 			28,
+			18,
 			80
 		],
 		"id": 1439930,
 		"original_language": "en",
-		"original_title": "Untitled 'The Punisher' Special",
-		"overview": "A special presentation set in the Marvel Cinematic Universe on Disney+. Plot TBA.",
-		"poster_path": null,
-		"release_date": "",
-		"title": "Untitled 'The Punisher' Special",
+		"original_title": "The Punisher: One Last Kill",
+		"overview": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.",
+		"poster_path": "/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg",
+		"release_date": "2026-05-12",
+		"title": "The Punisher: One Last Kill",
 		"video": false,
 		"vote_average": 0,
-		"slug": "untitled-the-punisher-special",
+		"slug": "the-punisher-one-last-kill",
 		"tags": [
 			"movie",
 			"company-420"
@@ -181,7 +206,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/wmmUDmLUKyI5MdIF0x5l7UzKX17.jpg",
+		"backdrop_path": "/6KDDoTq8Vq3HuQHULzuvPiCJbMI.jpg",
 		"genre_ids": [
 			878,
 			28,
@@ -190,8 +215,8 @@
 		"id": 1003596,
 		"original_language": "en",
 		"original_title": "Avengers: Doomsday",
-		"overview": "The Avengers, Wakandans, Fantastic Four, Thunderbolts, and X-Men all fight against Doctor Doom. Plot TBA.",
-		"poster_path": "/s2Fkuq0tj7mjAHEdbfQkFkdbeRI.jpg",
+		"overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
+		"poster_path": "/cWXtJhrlruF8CeYuaBGE8vdj3Q9.jpg",
 		"release_date": "2026-12-16",
 		"title": "Avengers: Doomsday",
 		"video": false,
@@ -206,7 +231,7 @@
 	},
 	{
 		"adult": false,
-		"backdrop_path": "/nxmErj9rfkXa842Tabbs9QlsCR3.jpg",
+		"backdrop_path": "/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
 		"genre_ids": [
 			878,
 			28,
@@ -215,9 +240,9 @@
 		"id": 969681,
 		"original_language": "en",
 		"original_title": "Spider-Man: Brand New Day",
-		"overview": "Four years after the events of Spider-Man: No Way Home, Peter Parker is no more and Spider-Man is at the top of his game keeping New York City safe. Things are going well until an unusual trail of crimes pulls Spider-Man into a web of mystery larger than he's ever faced before. In order to take on what's ahead, Spider-Man not only needs to be at the top of his physical and mental game, but he must also be prepared to face the repercussions of his past!",
-		"poster_path": "/9JCQtDCSpPR2ld55yNlEg1VwcQo.jpg",
-		"release_date": "2026-07-29",
+		"overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+		"poster_path": "/6Q21yptoOCUq4ErwVncesLPVplb.jpg",
+		"release_date": "2026-07-28",
 		"title": "Spider-Man: Brand New Day",
 		"video": false,
 		"vote_average": 0,

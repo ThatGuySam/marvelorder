@@ -80,13 +80,14 @@ This is the *most* official list for the Marvel Chronologically, aka by the time
 ## Upcoming
 <!-- start-upcoming-list -->
 
-- April 29, 2026 - [Avengers 5](https://marvelorder.com/en/avengers-5-1003596) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/avengers-5-1003596.md)
-- April 29, 2026 - [Avengers: The Kang Dynasty](https://marvelorder.com/en/avengers-the-kang-dynasty-1003596) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/avengers-the-kang-dynasty-1003596.md)
-- July 22, 2026 - [Spider-Man 4](https://marvelorder.com/en/spider-man-4-969681) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/spider-man-4-969681.md)
-- July 29, 2026 - [Spider-Man: Brand New Day](https://marvelorder.com/en/spider-man-brand-new-day-969681) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/spider-man-brand-new-day-969681.md)
-- December 16, 2026 - [Avengers: Doomsday](https://marvelorder.com/en/avengers-doomsday-1003596) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/avengers-doomsday-1003596.md)
+- July 31, 2026 - [Spider-Man: Brand New Day](https://marvelorder.com/en/spider-man-brand-new-day-969681) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/spider-man-brand-new-day-969681.md)
+- October 14, 2026 - [VisionQuest](https://marvelorder.com/en/visionquest-213375) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/visionquest-213375.md)
+- December 18, 2026 - [Avengers: Doomsday](https://marvelorder.com/en/avengers-doomsday-1003596) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/avengers-doomsday-1003596.md)
 - February 12, 2027 - [Doctor Strange: Time Runs Out](https://marvelorder.com/en/doctor-strange-time-runs-out-1072946) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/doctor-strange-time-runs-out-1072946.md)
-- December 16, 2027 - [Avengers: Secret Wars](https://marvelorder.com/en/avengers-secret-wars-1003598) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/avengers-secret-wars-1003598.md)
+- June 18, 2027 - [Spider-Man: Beyond the Spider-Verse](https://marvelorder.com/en/spider-man-beyond-the-spider-verse-911916) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/spider-man-beyond-the-spider-verse-911916.md)
+- December 17, 2027 - [Avengers: Secret Wars](https://marvelorder.com/en/avengers-secret-wars-1003598) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/avengers-secret-wars-1003598.md)
+- 2028 - [Ghost Rider](https://marvelorder.com/en/ghost-rider-1738010) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/ghost-rider-1738010.md)
+- December 15, 2028 - [Black Panther 3](https://marvelorder.com/en/black-panther-3-1386618) - [Edit](https://github.com/ThatGuySam/marvelorder/blob/main/src/pages/en/black-panther-3-1386618.md)
 
 <!-- end-upcoming-list -->
 

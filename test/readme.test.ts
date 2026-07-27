@@ -1,6 +1,7 @@
 import { expect, test } from 'vitest'
 
 import { getUpcomingListings } from '~/src/helpers/node/listing-files.ts'
+import { ensureMappedListings } from '~/src/helpers/node/listing.ts'
 import {
     makeUpcomingListingsMarkdown,
     updateMarkdownContent,
@@ -39,6 +40,22 @@ test( 'Can generate upcoming Listing Markdown', async () => {
 
     // Expect upcomingMarkdown to not contain 'Old Listing'
     expect( newReadmeListContent ).not.toContain( 'Old Listing' )
+} )
+
+test( 'Can preserve year-only release precision in upcoming Markdown', () => {
+    const [ listing ] = ensureMappedListings( [
+        {
+            id: 1738010,
+            slug: 'ghost-rider',
+            title: 'Ghost Rider',
+            release_date: '2028',
+            tags: [ 'movie' ],
+        } as any,
+    ] )
+
+    const markdown = makeUpcomingListingsMarkdown( [ listing ] )
+
+    expect( markdown ).toContain( '- 2028 - [Ghost Rider]' )
 } )
 
 test( 'Can catch missing start marker', async () => {

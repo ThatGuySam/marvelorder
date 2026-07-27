@@ -8,8 +8,11 @@ test( 'Homepage listings collapse transcript duplicates and junk cards', async (
     const expectedSingles = [
         'Agatha All Along',
         'Avengers: Doomsday',
+        'Black Panther 3',
         'Deadpool and Korg React',
         'Spider-Man: Brand New Day',
+        'The Punisher: One Last Kill',
+        'VisionQuest',
         'Wonder Man',
         'Eyes of Wakanda',
         'Madame Web',
@@ -49,7 +52,6 @@ test( 'Homepage listings collapse transcript duplicates and junk cards', async (
         'Big Hats',
         'MCU Collection',
         'Marvel\'s Avengers: Mightiest Friends',
-        'Black Panther 3',
         'Black Panther 3: Legacy of Wakanda',
         'Thor 5',
         'The Legendary Star-Lord',
@@ -100,6 +102,13 @@ test( 'Homepage listings collapse transcript duplicates and junk cards', async (
     const madameWebListing = listings.find( ( listing ) => listing.title === 'Madame Web' )
     const venomLastDanceListing = listings.find( ( listing ) => listing.title === 'Venom: The Last Dance' )
     const friendlyNeighborhoodListing = listings.find( ( listing ) => listing.title === 'Your Friendly Neighborhood Spider-Man' )
+    const ghostRiderListing = listings.find( ( listing ) => listing.id === 1738010 )
+    const daredevilBornAgainListings = listings
+        .filter( ( listing ) => listing.title === 'Daredevil: Born Again' )
+        .sort( ( listingA, listingB ) => String( listingA.first_air_date ).localeCompare( String( listingB.first_air_date ) ) )
+    const xMen97Listings = listings
+        .filter( ( listing ) => listing.title === "X-Men '97" )
+        .sort( ( listingA, listingB ) => String( listingA.first_air_date ).localeCompare( String( listingB.first_air_date ) ) )
     const agathaListing = listings.find( ( listing ) => listing.title === 'Agatha All Along' )
     const whihListing = listings.find( ( listing ) => listing.title === 'WHIH Newsfront' && listing.id === 69069 )
     const doubleAgentListing = listings.find( ( listing ) => listing.title === 'Marvel\'s Agents of S.H.I.E.L.D.: Double Agent' )
@@ -134,7 +143,16 @@ test( 'Homepage listings collapse transcript duplicates and junk cards', async (
     expect( eyesOfWakandaListing?.first_air_date ).toBe( '2025-08-01' )
     expect( eyesOfWakandaListing?.logo_on_black ).toBeTruthy()
     expect( beyondSpiderVerseListing?.release_date ).toBe( '2027-06-18' )
+    expect( daredevilBornAgainListings.map( listing => listing.homepageSeasonLabel ) ).toEqual( [ 'Season 1', 'Season 2' ] )
+    expect( daredevilBornAgainListings.map( listing => listing.first_air_date ) ).toEqual( [ '2025-03-04', '2026-03-24' ] )
+    expect( xMen97Listings.map( listing => listing.homepageSeasonLabel ) ).toEqual( [ 'Season 1', 'Season 2' ] )
+    expect( xMen97Listings.map( listing => listing.first_air_date ) ).toEqual( [ '2024-03-20', '2026-07-01' ] )
     expect( brandNewDayListing?.release_date ).toBe( '2026-07-31' )
+    expect( doomsdayListing?.release_date ).toBe( '2026-12-18' )
+    expect( listings.find( listing => listing.title === 'Black Panther 3' )?.release_date ).toBe( '2028-12-15' )
+    expect( ghostRiderListing?.title ).toBe( 'Ghost Rider' )
+    expect( ghostRiderListing?.release_date ).toBe( '2028' )
+    expect( listings.find( listing => listing.title === 'VisionQuest' )?.first_air_date ).toBe( '2026-10-14' )
     expect( brandNewDayListing?.logo_on_black ).toBeTruthy()
     expect( wonderManListing?.logo_on_black ).toBeTruthy()
     expect( madameWebListing?.logo_on_black ).toBeTruthy()
