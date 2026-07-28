@@ -1,6 +1,18 @@
 # Timeline Data Reliability Plan
 
-Research checked on March 12, 2026.
+Research checked on March 12, 2026. Architecture updated on July 27, 2026.
+
+## Architectural Constraint
+
+This plan is governed by
+[ADR-001: Design data automation to scale to zero](../decisions/001-scale-to-zero-data-automation.md).
+
+The owner may not inspect this repository for months. Normal operation must not
+depend on reviewing pull requests, resolving a quarantine queue, or approving
+routine source changes. The system should automatically publish changes that
+clear deterministic confidence and regression gates, automatically suppress
+uncertain candidates, and preserve the last-known-good checked-in dataset
+whenever synchronization fails.
 
 ## Original Prompt
 
@@ -14,6 +26,8 @@ Make the timeline and rendered entry pipeline reliable for already released Marv
 - grounding release dates in authoritative sources instead of whichever source won the last merge
 - treating markdown-backed data as a history of observations instead of one mutable truth blob
 - adding repeatable tests and benchmark outputs so auto-updates can run safely
+- operating for months without human review while retaining the last-known-good
+  public dataset through source and workflow failures
 
 ## Non-Goals
 
@@ -21,6 +35,7 @@ Make the timeline and rendered entry pipeline reliable for already released Marv
 - Replacing TMDB as a discovery source for every field in the repo.
 - Redesigning the site UI or changing the overall listing experience.
 - Shipping a mandatory ML runtime in every build before a deterministic baseline is green.
+- Creating a recurring human review, approval, or candidate-triage workflow.
 
 ## Repo Findings
 
@@ -34,7 +49,7 @@ Make the timeline and rendered entry pipeline reliable for already released Marv
 - `src/helpers/node/movies-fandom-timeline.ts` already turns scraped source content into normalized entry records, but its listing match step is still title-centric and not driven by canonical identity or source provenance.
 - The public MCU release-order page at `src/pages/marvel-cinematic-universe-movies-in-order.astro` renders whatever survives filtering from the raw markdown catalog, so catalog duplicates or bad identity matches leak straight into the user-facing row.
 - `scripts/pull.ts` currently treats the latest TMDB pull as current truth and, before this plan update, had no built-in pacing or exponential backoff for TMDB requests.
-- The TMDB pull path also has no quarantine step for removals, spam edits, or sudden title churn. If a TMDB entry disappears or is renamed aggressively, the repo currently has no explicit audit to distinguish `real deletion` from `temporary source regression`.
+- The TMDB pull path also has no suppression step for removals, spam edits, or sudden title churn. If a TMDB entry disappears or is renamed aggressively, the repo currently has no explicit audit to distinguish `real deletion` from `temporary source regression`.
 - Current automated validation is not ready to guard this work:
   - `bun run test --run` currently fails in 8 suites because Vitest is not resolving the `~/` path aliases in tests.
   - Only `test/layout.test.ts` passed in the March 12, 2026 baseline run.
@@ -168,6 +183,18 @@ Do not start with embeddings.
 
 Start with a canonical identity and observation model, then add a single deterministic matcher with a math-based score. Add EmbeddingGemma only as a third-stage resolver for unresolved or low-confidence cases.
 
+Run that resolver as a scale-to-zero state machine rather than a review
+pipeline:
+
+- `accepted`: automatically generated into the public snapshot
+- `suppressed`: retained in a rolling candidate snapshot and automatically
+  reconsidered on later runs
+- `superseded`: retained only as provenance or an alias
+- `rejected`: retained for bounded deduplication memory, then expired
+
+No state requires a person to move it forward. Uncertainty should reduce public
+coverage, not create assigned work.
+
 For homepage filtering specifically, do not start with a tiny language model. Use lightweight NLP only in the narrow sense of tokenization, regex, trigram or Jaccard similarity, and source-backed overrides.
 
 Why:
@@ -177,10 +204,36 @@ Why:
   - duplicated title matching code
   - docs and promos competing with canonical releases
   - conflicting sources being flattened into one field
-- TMDB should stay a discovery and enrichment source, not a delete-on-sight source of truth. A single missing or spam-altered TMDB record should create a quarantined diff, not an automatic public removal.
+- TMDB should stay a discovery and enrichment source, not a delete-on-sight source of truth. A single missing or spam-altered TMDB record should create a suppressed diagnostic event, not an automatic public removal.
 - The released-title benchmark already shows that title-plus-date math is enough to get close to production quality on stable titles.
 - Hacker News style practitioner advice points the same direction: strong tokenization, retrieval baselines, and record-linkage discipline usually beat prematurely training a small bespoke model for this class of cleanup work.
 - Embeddings will not solve same-title duplicates with identical or near-identical strings, and they will not solve official-source conflicts. Those need canonical ids, source ranking, and observation history.
+
+### Scale-to-zero publication model
+
+The preferred implementation is one scheduled, repository-owned Bun command
+that:
+
+1. fetches new observations into a temporary workspace
+2. resolves a complete candidate canonical snapshot
+3. validates schemas, identities, regression budgets, tests, and the production
+   build
+4. atomically replaces checked-in generated artifacts only after every gate
+   passes
+5. commits the generated data directly to the default branch
+
+If branch protection forbids direct data commits, use one automatically merged
+bot pull request as a transport. Do not request review, and replace stale bot
+pull requests instead of accumulating them.
+
+The current checked-in snapshot is always the last-known-good fallback. A
+failed source fetch, parser, credential, test, build, or push leaves it
+unchanged.
+
+Suppression replaces quarantine-as-work. Low-confidence candidates remain out
+of public output, appear in a bounded rolling report, and may promote
+themselves when later runs add stronger evidence. The system does not open an
+issue for every candidate.
 
 ## Proposed Data Model
 
@@ -317,7 +370,9 @@ The public pages should render from generated canonical data, not directly from 
   - writes new observation records
   - resolves canonical entities
   - runs duplicate and benchmark checks
-  - refuses to update public canonical output if conflicts exceed threshold
+  - automatically publishes the full resolved snapshot when every gate passes
+  - refuses to update public canonical output if conflicts or regressions
+    exceed deterministic thresholds
 - Use a rate-aware TMDB client for all pull paths:
   - conservative minimum spacing between requests
   - exponential backoff with jitter
@@ -328,12 +383,22 @@ The public pages should render from generated canonical data, not directly from 
   - unresolved titles
   - source conflicts
   - changed release dates
-  - TMDB removals or churn events held for review
-- Keep a manual review gate for:
-  - official-source conflicts
-  - same-title different-work collisions
-  - renamed or rebranded projects
-  - TMDB removals, spam edits, or suspicious title rewrites
+  - TMDB removals or churn events automatically suppressed
+- Apply unattended conflict policies:
+  - retain the existing public value when official sources conflict
+  - suppress same-title different-work collisions until identity evidence
+    separates them
+  - accept renamed or rebranded projects only when stable media identity and
+    corroborating signals agree
+  - never unpublish from a TMDB removal, spam edit, or suspicious rewrite alone
+- Publish through either:
+  - a validated direct generated-data commit, preferred for fewer moving parts
+  - a bot pull request configured to auto-merge without human review when
+    branch protection requires it
+- Keep one last-known-good generated snapshot and update it atomically only
+  after the complete pipeline succeeds.
+- Keep candidate and audit artifacts bounded so unattended runs cannot create
+  an ever-growing repository or operational inbox.
 
 ## Validation Gates
 
@@ -343,8 +408,17 @@ The public pages should render from generated canonical data, not directly from 
 - Must pass: no ambiguous accepted matches on released titles shown in public MCU pages
 - Must pass: the hybrid deterministic scorer matches or beats the current baseline and stays at or above the current `97%` silver-set top-1 target after the benchmark is cleaned up
 - Must pass: timeline rendering outputs unique canonical ids, not just unique titles
-- Must pass: no canonical title is deleted or unpublished from a single TMDB disappearance without a quarantine window or secondary source confirmation
+- Must pass: no canonical title is deleted or unpublished from a single TMDB
+  disappearance without a suppression window and corroborating source evidence
 - Must pass: TMDB pull logs show conservative pacing and successful backoff behavior under forced `429` or `5xx` tests
+- Must pass: a failed fetch, resolver, test, build, or push leaves the
+  last-known-good generated snapshot byte-for-byte unchanged
+- Must pass: accepted high-confidence changes require no human approval to
+  reach the default branch
+- Must pass: suppressed candidates are re-evaluated automatically and do not
+  create a required review queue
+- Must pass: change-count and field-regression budgets reject the entire
+  publication rather than partially writing public data
 - Must surface, not silently collapse:
   - conflicting official release dates
   - low-margin matches
@@ -361,7 +435,7 @@ The public pages should render from generated canonical data, not directly from 
 - `test/source-resolution.test.ts`
   - verifies source ranking for theatrical film, Disney+ doc, and conflicting official-source examples
 - `test/tmdb-regression-audit.test.ts`
-  - verifies missing ids become quarantined events instead of hard deletes
+  - verifies missing ids become suppressed events instead of hard deletes
   - verifies suspicious title churn is surfaced after normalization
   - verifies adult-flag or media-type flips are reported
 - `test/time-series-resolution.test.ts`
@@ -378,6 +452,10 @@ The public pages should render from generated canonical data, not directly from 
 - A source-priority policy for Marvel, Disney+ Press, TMDB, and manual overrides
 - A rate-limited TMDB client with exponential backoff and removal-churn audit output
 - Optional EmbeddingGemma experiment script with cached artifacts and a keep-or-drop decision
+- Atomic last-known-good publication with deterministic regression budgets
+- A zero-review scheduled workflow using validated direct commits or mandatory
+  PR auto-merge
+- Bounded rolling candidate and audit snapshots that require no triage
 
 ## Risks And Open Questions
 
@@ -385,7 +463,12 @@ The public pages should render from generated canonical data, not directly from 
 - The current `mcuTimelineOrder` labels are useful as a silver benchmark, but not clean enough to serve as a perfect gold set without manual review.
 - EmbeddingGemma may require Python or extra runtime tooling that does not fit the current Bun-only workflow cleanly. If that friction is high, keep semantic matching out of the main build and run it in a precomputed maintenance job.
 - Official sources can disagree. `Voices Rising` is already a concrete example. The updater therefore needs provenance and conflict handling, not only ranking.
+- Under scale-to-zero operation, an unresolved official-source conflict keeps
+  the existing public value. It does not create a blocking review task.
 - TMDB can remove, merge, or spam-mutate records. If the pipeline trusts the latest TMDB response too much, it can accidentally unpublish a stable title or rewrite the canonical title with bad data.
+- Long-lived source or credential failures can make the catalog stale. This is
+  acceptable compared with corrupting or taking down the last-known-good site;
+  failure summaries should remain available without becoming required work.
 - Same-id multi-file variants like the Assembled pages may reflect historical rename churn, but they also create public duplicate risk. Decide whether these collapse into aliases or stay as separate editorial pages that point to one canonical entity.
 - Decide whether docs and promos should continue appearing in the same release/timeline systems as films and series, or whether they should move into a parallel content lane with separate matching rules.
 
