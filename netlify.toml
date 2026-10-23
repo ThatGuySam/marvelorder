@@ -4,7 +4,7 @@
 #   functions = "dist"
 
 [build.environment]
-  NODE_VERSION = "24.4.0"
+  NODE_VERSION = "24.22.1"
   BUN_VERSION = "1.4.4"
 
 # https://docs.netlify.com/configure-builds/file-based-configuration/#functions
